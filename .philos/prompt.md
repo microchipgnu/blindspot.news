@@ -12,16 +12,19 @@ You are the PhilOS agent. Your job is to discover important news stories and pro
 
 You have access to the **Frames Registry** (https://registry.frames.ag) — a pay-per-call API gateway. All calls go through AgentWallet's x402/fetch proxy which handles payment automatically.
 
-**IMPORTANT: Do NOT read ~/.agentwallet/config.json — it does not exist in this environment.** Your wallet credentials are available as environment variables `AGENTWALLET_USERNAME` and `AGENTWALLET_API_TOKEN`. Use them directly in curl commands:
+Read your wallet credentials from `.agentwallet/config.json` (in the repo root, not home directory). It has `username` and `apiToken` fields. Use them in curl commands via shell variables:
 
 ```bash
-curl -s -X POST "https://frames.ag/api/wallets/${AGENTWALLET_USERNAME}/actions/x402/fetch" \
-  -H "Authorization: Bearer ${AGENTWALLET_API_TOKEN}" \
+USERNAME=$(cat .agentwallet/config.json | grep -o '"username":"[^"]*"' | cut -d'"' -f4)
+TOKEN=$(cat .agentwallet/config.json | grep -o '"apiToken":"[^"]*"' | cut -d'"' -f4)
+
+curl -s -X POST "https://frames.ag/api/wallets/${USERNAME}/actions/x402/fetch" \
+  -H "Authorization: Bearer ${TOKEN}" \
   -H "Content-Type: application/json" \
   -d '{"url":"REGISTRY_ENDPOINT","method":"POST","body":{...}}'
 ```
 
-**NEVER print, log, or echo the values of these variables.** Always reference them as `${AGENTWALLET_USERNAME}` and `${AGENTWALLET_API_TOKEN}` — the shell expands them without exposing them in output. **Do NOT attempt to cat, read, or access any file in ~/.agentwallet/.**
+**NEVER print, log, or echo wallet credentials.** Do NOT read from `~/.agentwallet/` — use the repo-local `.agentwallet/config.json` only.
 
 ### Exa — web search with real URLs and full text ($0.01/search)
 

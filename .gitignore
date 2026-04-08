@@ -1,6 +1,7 @@
 node_modules/
 dist/
 .astro/
+.agentwallet/
 
 # Agent skill symlinks (created by npx skills add)
 .agents/

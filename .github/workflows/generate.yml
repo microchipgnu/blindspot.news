@@ -33,6 +33,33 @@ jobs:
           npx skills add https://github.com/frames-engineering/skills --skill agentwallet -y
           npx skills add https://github.com/frames-engineering/skills --skill registry -y
 
+      - name: Setup credentials
+        env:
+          AGENTWALLET_USERNAME: ${{ secrets.AGENTWALLET_USERNAME }}
+          AGENTWALLET_API_TOKEN: ${{ secrets.AGENTWALLET_API_TOKEN }}
+        run: |
+          # Mask secrets in CI logs
+          for secret in "$AGENTWALLET_USERNAME" "$AGENTWALLET_API_TOKEN"; do
+            if [ -n "$secret" ]; then
+              echo "::add-mask::$secret"
+            fi
+          done
+
+          # Write to home dir (for agentwallet skill)
+          mkdir -p ~/.agentwallet
+          printf '{"username":"%s","apiToken":"%s"}' "$AGENTWALLET_USERNAME" "$AGENTWALLET_API_TOKEN" > ~/.agentwallet/config.json
+          chmod 600 ~/.agentwallet/config.json
+
+          # Mirror to repo dir (avoids external_directory permission)
+          mkdir -p .agentwallet
+          cp ~/.agentwallet/config.json .agentwallet/config.json
+          chmod 600 .agentwallet/config.json
+
+          # Setup Frames Registry auth for OpenCode
+          export FRAMES_API_KEY="${AGENTWALLET_USERNAME}:${AGENTWALLET_API_TOKEN}"
+          echo "FRAMES_API_KEY=$FRAMES_API_KEY" >> $GITHUB_ENV
+          echo "::add-mask::$FRAMES_API_KEY"
+
       - name: Configure Git
         run: |
           git config user.name "philos-bot"
