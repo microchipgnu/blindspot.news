@@ -54,6 +54,16 @@ export interface DayIndex {
   reports: { id: string; title: string; subtitle: string; category: string }[];
 }
 
+export interface ReportRef {
+  date: string;
+  slug: string;
+  title: string;
+  subtitle: string;
+  category: string;
+}
+
+// --- Core data access ---
+
 export function getDays(): string[] {
   if (!fs.existsSync(CONTENT_DIR)) return [];
   return fs
@@ -92,4 +102,146 @@ export function getAllReports(): { date: string; slug: string }[] {
     }
   }
   return all;
+}
+
+// --- Graph layer ---
+
+let _allReportsCache: Report[] | null = null;
+
+function loadAllReports(): Report[] {
+  if (_allReportsCache) return _allReportsCache;
+  const reports: Report[] = [];
+  for (const { date, slug } of getAllReports()) {
+    const r = getReport(date, slug);
+    if (r) reports.push(r);
+  }
+  _allReportsCache = reports;
+  return reports;
+}
+
+function normalizeTag(tag: string): string {
+  return tag.toLowerCase().replace(/\s+/g, "-");
+}
+
+export function getRelatedBriefs(report: Report, limit = 4): ReportRef[] {
+  const all = loadAllReports();
+  const myTags = new Set(report.tags.map(normalizeTag));
+  const myActors = new Set(report.brief.whoPays.map((w) => w.who.toLowerCase()));
+
+  const scored: { report: Report; score: number }[] = [];
+
+  for (const other of all) {
+    if (other.id === report.id && other.date === report.date) continue;
+
+    let score = 0;
+    // Shared tags
+    for (const tag of other.tags) {
+      if (myTags.has(normalizeTag(tag))) score += 2;
+    }
+    // Shared actors
+    for (const wp of other.brief.whoPays) {
+      if (myActors.has(wp.who.toLowerCase())) score += 3;
+    }
+    // Same category
+    if (other.category === report.category) score += 1;
+
+    if (score > 0) {
+      scored.push({ report: other, score });
+    }
+  }
+
+  return scored
+    .sort((a, b) => b.score - a.score)
+    .slice(0, limit)
+    .map((s) => ({
+      date: s.report.date,
+      slug: s.report.id,
+      title: s.report.title,
+      subtitle: s.report.subtitle,
+      category: s.report.category,
+    }));
+}
+
+export interface TagInfo {
+  tag: string;
+  slug: string;
+  count: number;
+  briefs: ReportRef[];
+}
+
+export function getAllTags(): TagInfo[] {
+  const all = loadAllReports();
+  const tagMap = new Map<string, Report[]>();
+
+  for (const r of all) {
+    for (const tag of r.tags) {
+      const norm = normalizeTag(tag);
+      if (!tagMap.has(norm)) tagMap.set(norm, []);
+      tagMap.get(norm)!.push(r);
+    }
+  }
+
+  return Array.from(tagMap.entries())
+    .map(([slug, reports]) => ({
+      tag: reports[0].tags.find((t) => normalizeTag(t) === slug) || slug,
+      slug,
+      count: reports.length,
+      briefs: reports.map((r) => ({
+        date: r.date,
+        slug: r.id,
+        title: r.title,
+        subtitle: r.subtitle,
+        category: r.category,
+      })),
+    }))
+    .sort((a, b) => b.count - a.count);
+}
+
+export function getTag(slug: string): TagInfo | null {
+  return getAllTags().find((t) => t.slug === slug) || null;
+}
+
+export interface ActorInfo {
+  name: string;
+  slug: string;
+  appearances: {
+    date: string;
+    reportSlug: string;
+    title: string;
+    how: string;
+    when: string;
+  }[];
+}
+
+export function getAllActors(): ActorInfo[] {
+  const all = loadAllReports();
+  const actorMap = new Map<string, ActorInfo["appearances"]>();
+  const actorNames = new Map<string, string>();
+
+  for (const r of all) {
+    for (const wp of r.brief.whoPays) {
+      const slug = wp.who.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
+      if (!actorMap.has(slug)) actorMap.set(slug, []);
+      actorNames.set(slug, wp.who);
+      actorMap.get(slug)!.push({
+        date: r.date,
+        reportSlug: r.id,
+        title: r.title,
+        how: wp.how,
+        when: wp.when,
+      });
+    }
+  }
+
+  return Array.from(actorMap.entries())
+    .map(([slug, appearances]) => ({
+      name: actorNames.get(slug)!,
+      slug,
+      appearances,
+    }))
+    .sort((a, b) => b.appearances.length - a.appearances.length);
+}
+
+export function getActor(slug: string): ActorInfo | null {
+  return getAllActors().find((a) => a.slug === slug) || null;
 }

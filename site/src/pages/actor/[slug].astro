@@ -1,0 +1,39 @@
+---
+import Base from "../../layouts/Base.astro";
+import { getAllActors, getActor } from "../../lib/reports";
+
+export function getStaticPaths() {
+  return getAllActors().map((a) => ({
+    params: { slug: a.slug },
+    props: { slug: a.slug },
+  }));
+}
+
+const { slug } = Astro.props;
+const actor = getActor(slug);
+if (!actor) return Astro.redirect("/");
+---
+
+<Base title={actor.name}>
+  <div class="py-10">
+    <a href="/graph" class="text-[12px] font-medium uppercase tracking-wider text-[var(--color-text-tertiary)] hover:text-[var(--color-text)]">&larr; All actors</a>
+    <h1 class="mt-4 font-serif text-4xl italic">{actor.name}</h1>
+    <p class="mt-2 text-[14px] text-[var(--color-text-tertiary)]">Appears in {actor.appearances.length} brief{actor.appearances.length !== 1 ? "s" : ""}</p>
+
+    <div class="mt-8">
+      {actor.appearances.map((a) => (
+        <a
+          href={`/report/${a.date}/${a.reportSlug}`}
+          class="group block border-b border-[var(--color-border)] py-5 transition-colors hover:bg-[var(--color-surface-warm)]"
+        >
+          <div class="flex items-baseline gap-2">
+            <span class="text-[12px] text-[var(--color-text-tertiary)]">{a.date}</span>
+          </div>
+          <h2 class="mt-1 font-serif text-xl leading-tight group-hover:text-[var(--color-accent)]">{a.title}</h2>
+          <p class="mt-2 text-[14px] text-[var(--color-text-secondary)]"><span class="font-medium">How they pay:</span> {a.how}</p>
+          <p class="mt-1 text-[12px] text-[var(--color-text-tertiary)]">{a.when}</p>
+        </a>
+      ))}
+    </div>
+  </div>
+</Base>

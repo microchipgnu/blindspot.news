@@ -1,6 +1,6 @@
 ---
 import Base from "../../layouts/Base.astro";
-import { getAllReports, getReport } from "../../lib/reports";
+import { getAllReports, getReport, getRelatedBriefs } from "../../lib/reports";
 
 export function getStaticPaths() {
   const all = getAllReports();
@@ -15,6 +15,11 @@ const report = getReport(date, slug);
 if (!report) return Astro.redirect("/");
 
 const { brief } = report;
+const related = getRelatedBriefs(report);
+
+function tagSlug(tag: string): string {
+  return tag.toLowerCase().replace(/\s+/g, "-");
+}
 ---
 
 <Base title={report.title} description={report.subtitle}>
@@ -120,6 +125,40 @@ const { brief } = report;
         ))}
       </div>
     </section>
+
+    <!-- Tags -->
+    {report.tags.length > 0 && (
+      <section class="mt-10">
+        <div class="flex flex-wrap gap-2">
+          {report.tags.map((tag) => (
+            <a
+              href={`/topic/${tagSlug(tag)}`}
+              class="rounded-full border border-[var(--color-border)] px-3 py-0.5 text-[12px] text-[var(--color-text-tertiary)] transition-colors hover:border-[var(--color-accent)] hover:text-[var(--color-accent)]"
+            >
+              {tag}
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <!-- Related briefs -->
+    {related.length > 0 && (
+      <section class="mt-10 border-t border-[var(--color-border)] pt-8">
+        <h2 class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-text-tertiary)]">Related</h2>
+        <div class="mt-4 space-y-4">
+          {related.map((r) => (
+            <a
+              href={`/report/${r.date}/${r.slug}`}
+              class="group block"
+            >
+              <span class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-accent)]">{r.category}</span>
+              <p class="font-serif text-lg leading-tight group-hover:text-[var(--color-accent)]">{r.title}</p>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
 
     <div class="mt-12">
       <a href="/" class="text-[13px] font-medium uppercase tracking-wider text-[var(--color-text-tertiary)] hover:text-[var(--color-text)]">&larr; Back to today</a>

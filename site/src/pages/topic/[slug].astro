@@ -1,0 +1,39 @@
+---
+import Base from "../../layouts/Base.astro";
+import { getAllTags, getTag } from "../../lib/reports";
+
+export function getStaticPaths() {
+  return getAllTags().map((t) => ({
+    params: { slug: t.slug },
+    props: { slug: t.slug },
+  }));
+}
+
+const { slug } = Astro.props;
+const tag = getTag(slug);
+if (!tag) return Astro.redirect("/");
+---
+
+<Base title={tag.tag}>
+  <div class="py-10">
+    <a href="/graph" class="text-[12px] font-medium uppercase tracking-wider text-[var(--color-text-tertiary)] hover:text-[var(--color-text)]">&larr; All topics</a>
+    <h1 class="mt-4 font-serif text-4xl italic">{tag.tag}</h1>
+    <p class="mt-2 text-[14px] text-[var(--color-text-tertiary)]">{tag.count} brief{tag.count !== 1 ? "s" : ""}</p>
+
+    <div class="mt-8">
+      {tag.briefs.map((r) => (
+        <a
+          href={`/report/${r.date}/${r.slug}`}
+          class="group block border-b border-[var(--color-border)] py-5 transition-colors hover:bg-[var(--color-surface-warm)]"
+        >
+          <div class="flex items-baseline gap-3">
+            <span class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-accent)]">{r.category}</span>
+            <span class="text-[12px] text-[var(--color-text-tertiary)]">{r.date}</span>
+          </div>
+          <h2 class="mt-1 font-serif text-xl leading-tight group-hover:text-[var(--color-accent)]">{r.title}</h2>
+          <p class="mt-1 text-[14px] text-[var(--color-text-secondary)]">{r.subtitle}</p>
+        </a>
+      ))}
+    </div>
+  </div>
+</Base>
