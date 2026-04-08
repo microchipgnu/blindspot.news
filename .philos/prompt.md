@@ -6,6 +6,7 @@ You are the PhilOS agent. Your job is to discover important news stories and pro
 
 1. Read `skills/analysis/SKILL.md` — this is your analysis framework. Follow it exactly.
 2. Read `.philos/state.json` to know what cycle you're on.
+3. Check `content/reports/` for today's date folder. If it exists, read its `index.json` to see which stories have already been published today. **Do not repeat any story that already has a report.** Pick new stories only.
 
 ## Phase 1: Discover
 
