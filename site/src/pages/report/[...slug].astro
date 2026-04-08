@@ -20,9 +20,19 @@ const related = getRelatedBriefs(report);
 function tagSlug(tag: string): string {
   return tag.toLowerCase().replace(/\s+/g, "-");
 }
+
+// Build a 110-160 char description from subtitle + bottom line
+let ogDescription = report.subtitle;
+if (ogDescription.length < 110) {
+  const extra = " " + brief.bottomLine;
+  ogDescription = (ogDescription + extra).slice(0, 160);
+  if (ogDescription.length < ogDescription.length + extra.length) {
+    ogDescription = ogDescription.replace(/\s+\S*$/, "...");
+  }
+}
 ---
 
-<Base title={report.title} description={report.subtitle} ogImage={`/og/${date}/${slug}.png`}>
+<Base title={report.title} description={ogDescription} ogImage={`/og/${date}/${slug}.png`}>
   <article class="py-10">
 
     <!-- Header -->

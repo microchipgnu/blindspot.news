@@ -153,10 +153,14 @@ export const GET: APIRoute = async ({ props }) => {
                   type: "span",
                   props: {
                     style: {
-                      fontSize: "13px",
-                      color: "#8a8a82",
+                      display: "flex",
+                      alignItems: "center",
+                      gap: "8px",
+                      fontSize: "14px",
+                      fontWeight: 600,
+                      color: "#c43d2e",
                     },
-                    children: "structured judgment for things that are hard to think about",
+                    children: "Read the brief →",
                   },
                 },
               ],
