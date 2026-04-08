@@ -2,135 +2,247 @@
 
 ## Core Model
 
-**Artifact-first, report-first.** The product is the report, not the conversation.
+An automated daily publication that applies philosophical analysis to the news. Not a chatbot. Not an aggregator. A **judgment engine** that runs every day.
 
-The pattern: **bring a source, get a structured output.** Not "come chat with an AI."
+**Pipeline:** discover stories → gather multiple sources → apply philosophical lenses → generate visuals → publish judgment maps.
 
-**Input:** URL, text, file, screenshot, transcript, or a decision.
-**Output:** A one-page structured brief with 3-4 lenses and a final synthesis.
-**No chat.**
+**Output:** 5-10 judgment maps per day. Each one tells you not just what happened, but what different frameworks see that the others miss.
 
----
-
-## Three Entry Points
-
-### 1. Analyze a public topic
-Paste a news URL or choose a live topic. The system gathers multiple source summaries and produces a "judgment map" — what different lenses see in the same story.
-
-### 2. Analyze a private artifact
-Upload a doc, screenshot, deck, transcript, or pasted text. The system produces a structured critique. This is the stickiest use case — people bringing **their own object**: a company memo, a founder decision, a tweet thread, a policy proposal, a product spec, a relationship message, an investor email.
-
-### 3. Analyze a decision
-A short structured form instead of chat:
-- What decision are you facing?
-- What are the options?
-- What matters most?
-- Who is affected?
-- Deadline?
-
-Then generate the report.
+Ground News shows you **that** coverage differs. PhilOS shows you **why** — the value frames, hidden assumptions, and power dynamics driving the disagreement.
 
 ---
 
-## Report Schema
+## The Judgment Map
 
-Every report follows the same structure. One page. Scannable in under 2 minutes.
+The core artifact is a **judgment map** — a single-screen structured brief, not an essay with headings. Think newsroom graphic + strategy memo + argument map.
 
-1. **What this is about** — A crisp summary of the object.
-2. **Main lenses applied** — Usually 3 or 4. Not 12.
-3. **What each lens sees** — Very short, high signal. 3-5 sentences per lens.
-4. **Tensions between lenses** — Where they disagree. This is the highest-value section.
-5. **Hidden assumptions** — What the object smuggles in without stating it.
-6. **Judgment** — A synthesized conclusion. Not "it depends" — a position.
-7. **What would change the judgment** — The conditions under which the conclusion breaks.
+Every judgment map has 6 zones:
 
----
+### Zone 1: Synthesis bar
 
-## Report Templates
+One sentence. The bottom line, up front. Quotable and shareable.
 
-The home screen shows templates, not a prompt box:
+*"The ceasefire reduces immediate harm but rests on coercive legitimacy and unresolved enrichment risk."*
 
-- **Decision report** — stress-test a choice from multiple angles
-- **Argument report** — map the logic, find the gaps
-- **Conflict report** — identify the value-frame mismatch
-- **Ethics review** — operational ethical analysis, not slogans
-- **Narrative map** — how different perspectives frame the same event
-- **Power analysis** — who benefits, what's normalized, what's hidden
+### Zone 2: Lens cards
 
----
+3-4 cards in a grid. Each card is 40-80 words max:
 
-## Product Modes
+- **sees:** the core insight (1 sentence)
+- **fears:** what could go wrong through this lens (1 sentence)
+- **would do:** the action or stance it implies (1 sentence)
 
-### Reader mode (v1)
-User pastes a link. System generates a clean report page. Easiest to understand, easiest to build.
+Cards feel like index cards, not mini-essays. The constraint forces the sharpest formulation.
 
-### Watchlist mode (v2)
-User follows topics — "AI regulation," "founder burnout," "US-China." Gets periodic lens reports. This is where the news angle lives.
+### Zone 3: Disagreement matrix
 
-### Inbox mode (v3)
-User forwards things into the system over time. The product becomes a personal "thinking inbox."
+Rows = lenses. Columns = dimensions at stake (chosen per story, not fixed).
 
----
+Each cell: **supports / contested / rejects / blindspot** or a 2-5 word position.
 
-## v1 Scope
+Makes convergence and divergence visible at a glance. Where a column is all "supports," confidence is high. Where it's split, that's the hard part.
 
-**Input:** URL, pasted text, file upload. That's it.
+### Zone 4: Actor map
 
-**Templates:** Decision, argument, conflict, ethics, power.
+Key actors with:
+- **leverage** — what power they hold
+- **stake** — what they want or fear
+- **exposure** — what they risk
 
-**Output:** One-page brief with 3-4 lenses and a final synthesis.
+Plus key relationships: who pressures whom, who mediates, who is absent but affected.
 
-**Share:** Public link + export to PDF/image.
+### Zone 5: Scenario cards
 
-**No chat at all.**
+3 cards showing plausible next states:
 
----
+- **Name** — short label ("Fragile truce," "Coerced deal," "Structured de-escalation")
+- **What happens** — 1-2 sentences
+- **Trigger** — what would cause this
+- **Watch for** — the signal that tells you this is the path you're on
 
-## Input Methods (roadmap)
+### Zone 6: Hidden assumptions + limits
 
-v1:
-- Paste URL
-- Paste text
-- File upload (PDF, doc, image)
+**Assumptions** — 2-4 things the framing treats as obvious that are actually contestable.
 
-Later:
-- Browser extension: "analyze this page"
-- Mobile share sheet: "send to PhilOS"
-- Email forward: send to a unique address
-- Drag-and-drop file
+**What this misses** — what no lens in this analysis can see.
 
 ---
 
-## Growth
+## Export Formats
 
-**Top-of-funnel:** "Today's lens reports" feed around live news and conflicts. Instantly legible and shareable. Good for screenshots on social media.
+Each judgment map exports into 3 formats:
 
-**Retention:** People bringing their own artifacts — memos, decisions, messages, specs. This is where habit forms.
+### 1. Report page
+Full artifact on the site. All 6 zones rendered as the core reading experience.
 
-**Distribution:** News angle is good for virality but shouldn't be the whole product. It's crowded and politically messy. The broader wedge is "lens reports for things people already share":
+### 2. Social carousel
+5 slides for sharing:
+- Situation
+- Lens contrast (2 cards side by side)
+- Main tension
+- Likely scenarios
+- Bottom line
 
-- "review this startup idea through 4 lenses"
-- "analyze this investor memo"
-- "analyze this policy proposal"
-- "analyze this CEO message"
-- "analyze this tweet thread"
-- "analyze this breakup text"
-- "analyze this product launch"
+### 3. Briefing card
+Single image: headline, one-line judgment, mini matrix, one key tension. Optimized for social media screenshots.
+
+---
+
+## Daily Pipeline
+
+```
+[1] DISCOVER     Exa search + Twitter trends → 20-30 candidate stories
+      ↓
+[2] CURATE       LLM ranks by "philosophical richness" → select 5-10
+      ↓
+[3] SOURCE       Exa search per story → 3-5 diverse sources each
+      ↓
+[4] ANALYZE      Apply SKILL.md workflow → judgment map JSON per story
+      ↓
+[5] IMAGE        AI image generation → editorial header per report
+      ↓
+[6] PUBLISH      Write JSON → Next.js renders as publication
+```
+
+Estimated cost: ~$1/day for the full pipeline.
+
+---
+
+## Story Selection Criteria
+
+Not every news story deserves a judgment map. The best candidates are:
+
+- Stories where reasonable people genuinely disagree (not obvious outrage bait)
+- Situations with real tension between values (fairness vs efficiency, autonomy vs safety)
+- Events where "it depends" is the lazy answer but a real position is possible
+- Topics where hidden assumptions are doing most of the work
+- Stories that will still matter in a week
+
+Categories: AI regulation, geopolitics, labor, corporate decisions, policy proposals, technology ethics, institutional power, cultural shifts.
+
+---
+
+## Report Categories
+
+Stories are classified into one of five categories, each with default lens selections:
+
+| Category | Signals | Default lenses |
+|----------|---------|----------------|
+| **Decision** | Choices, tradeoffs, strategy | Stoic + Utilitarian + Nietzschean |
+| **Ethics** | Fairness, manipulation, consent, harm | Kantian + Utilitarian + Foucauldian |
+| **Conflict** | Disagreement, incompatible values | Aristotelian + Kantian + Existentialist |
+| **Identity/Meaning** | Purpose, culture, burnout, narrative | Existentialist + Stoic + Buddhist |
+| **Power** | Incentives, norms, systemic analysis | Foucauldian + Utilitarian + Nietzschean |
+
+---
+
+## Product Shape
+
+### The site feels like a publication, not a chatbot.
+
+- Masthead and navigation, not a prompt box
+- Lead story with hero image, supporting stories in a card grid
+- Individual report pages rendering the judgment map as a visual artifact
+- Archive browsable by date
+- RSS feed for subscribers
+
+### Sharing
+
+- Every report has a public URL
+- Dynamic OG images (briefing card format)
+- Social carousel export
+- PDF export per report
+- RSS feed
+
+---
+
+## Architecture
+
+### Next.js App (presentation)
+
+```
+src/app/
+├── page.tsx                    # Home: today's judgment maps
+├── day/[date]/page.tsx         # All reports for a specific date
+├── report/[date]/[slug]/       # Individual judgment map
+├── archive/page.tsx            # Browse by date
+├── feed.xml/route.ts           # RSS
+└── api/pdf/[date]/[slug]/      # PDF export
+```
+
+### Pipeline (generation)
+
+```
+pipeline/
+├── index.ts                    # Orchestrator
+├── discover.ts                 # Exa + Twitter → candidate stories
+├── curate.ts                   # LLM ranks and selects 5-10
+├── source.ts                   # Exa → 3-5 sources per story
+├── analyze.ts                  # SKILL.md → judgment map JSON
+├── image.ts                    # AI Gen → header images
+├── write.ts                    # JSON output to content/
+└── lib/
+    ├── x402.ts                 # x402 payment via AgentWallet
+    ├── exa.ts                  # Exa API client
+    ├── ai-gen.ts               # Image generation client
+    └── llm.ts                  # LLM client (OpenRouter)
+```
+
+### Data (file-based JSON, no database)
+
+```
+content/
+├── reports/
+│   └── 2026-04-08/
+│       ├── index.json          # Daily manifest
+│       ├── story-slug.json     # Individual judgment map
+│       └── ...
+└── archive.json                # Global index
+```
+
+---
+
+## Roadmap
+
+### v1 — Daily automated judgment maps
+- Pipeline: discover → curate → source → analyze → image → publish
+- Next.js site rendering judgment maps (all 6 zones)
+- Shareable URLs with OG briefing cards
+- PDF export
+- RSS feed
+- 5-10 judgment maps per day, fully automated
+
+### v2 — Watchlist and topics
+- Users follow topics ("AI regulation," "US-China," "founder burnout")
+- Periodic judgment maps on followed topics
+- Email digest with briefing cards
+
+### v3 — Bring your own artifact
+- Users paste URL, text, or upload files for personal analysis
+- Private judgment maps (not published to the public feed)
+- Structured decision form
+- Browser extension, mobile share sheet
+
+### v4 — Community and curation
+- User-submitted stories for analysis
+- Upvoting and discussion on judgment maps
+- Community lens suggestions
 
 ---
 
 ## Positioning
 
 **Do not sell:**
+- "AI-generated news"
 - "philosophy for agents"
-- "multi-agent debate"
 - "chat with philosophers"
+- essay reports with headings
 
 **Sell:**
-- structured judgment for messy situations
-- a report generator for difficult thinking
-- upload any argument, decision, or event — get a multi-lens brief
-- a judgment engine for things that are hard to think about
+- "a daily judgment map that shows you what different frameworks see in the same story"
+- "not just what happened — why it matters, and what the disagreement is really about"
+- "structured judgment for the news"
+- "the native visual form of judgment"
 
 ---
 
@@ -138,8 +250,34 @@ Later:
 
 | Product | What it does | What PhilOS learns from it |
 |---------|-------------|---------------------------|
-| **Ground News** | Groups coverage of same story, shows framing and blindspots | Structured multi-perspective view of the same object |
-| **NotebookLM** | Sources in, artifacts out (reports, briefings, podcasts) | Artifact-first, not chat-first |
-| **Consensus** | Papers in, cited synthesis out | Source-grounded structured output |
+| **Ground News** | Groups coverage, shows framing and blindspots | Make comparison spatial, not textual |
+| **NotebookLM** | Sources in, artifacts out | Artifact-first, not chat-first |
+| **Argument mapping tools** | Claims, evidence, objections as visible structure | Structure over paragraphs |
+| **Scenario planning tools** | Multiple plausible futures, not single predictions | Show branching paths, not forecasts |
+| **The Economist** | Opinionated analysis with a clear editorial stance | Take positions, don't just summarize |
+| **Stratechery** | Deep analysis of a few topics, not broad coverage | Quality over quantity, judgment over neutrality |
 
-The shared pattern: **bring a source, get a structured output.** Not "come chat with an AI."
+---
+
+## Design Principles
+
+> The artifact is a judgment map, not an essay.
+
+> Use structure, not fake precision. No numerical scores, no radar charts, no percentages.
+
+> Every zone has a different visual weight. The disagreement matrix and scenario cards are the highest-value components.
+
+> 10 high-quality judgment maps per day beats 100 summaries.
+
+> The interesting version reads like a newsroom graphic + strategy memo + argument map.
+
+## What to avoid
+
+- Long essay reports (the old format)
+- Radar charts for philosophical lenses
+- Fake numerical scores ("Kantian score: 82")
+- Pie charts
+- Giant force-directed graphs
+- Over-academic visuals
+- Same paragraph rhythm for every section
+- Pretending judgments are more quantitative than they are

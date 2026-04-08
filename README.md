@@ -4,15 +4,26 @@
 
 **Structured judgment for things that are hard to think about.**
 
-Drop in a thing — get a lens report. Philosophy is the engine, not the UI.
+An automated daily publication. Philosophy is the engine, not the UI. The output is a **judgment map** — not an essay.
 
 ---
 
 ## What It Does
 
-Different philosophical traditions expose different failure modes. PhilOS applies them as **mental operators** — not personas, not quotes, not cosplay.
+Different philosophical traditions expose different failure modes. PhilOS applies them as **mental operators** and produces a structured visual artifact for each story.
 
-The system selects 3-4 relevant lenses per report, analyzes what each sees, surfaces tensions between them, and delivers a concrete judgment.
+The core output is a **judgment map** with 6 zones:
+
+| Zone | What it shows |
+|------|--------------|
+| **Synthesis bar** | One-sentence bottom line, up front |
+| **Lens cards** | 3-4 cards, 40-80 words each: sees / fears / would do |
+| **Disagreement matrix** | Lenses as rows, dimensions as columns — convergence and divergence at a glance |
+| **Actor map** | Key actors with leverage, stake, and exposure |
+| **Scenario cards** | 3 plausible next states with triggers and signals |
+| **Assumptions + limits** | What the framing smuggles in, what the analysis can't see |
+
+Not an essay with headings. A newsroom graphic + strategy memo + argument map.
 
 ---
 
@@ -34,6 +45,8 @@ Users see human-readable labels. Philosophy runs under the hood.
 | **Responsibility** | Arendtian |
 | **What works** | Pragmatist |
 
+The system selects 3-4 relevant lenses per judgment map. Users can override, but the default should be good enough that most don't.
+
 ---
 
 ## Skill Structure
@@ -42,7 +55,7 @@ The analysis engine is built as a skill with a core workflow and reference files
 
 ```
 analysis/
-├── SKILL.md                              # Core workflow + lens selection logic
+├── SKILL.md                              # Core workflow + lens selection + judgment map format
 └── references/
     ├── decision-stress-test.md           # Workflow: pressure-test decisions
     ├── ethics-review.md                  # Workflow: ethical analysis
@@ -61,11 +74,9 @@ analysis/
 ### How the skill works
 
 1. **Classify** the problem: decision, ethics, conflict, identity/meaning, or power/institution
-2. **Select** 2-4 lenses based on the category (defaults exist, overrides welcome)
-3. **Analyze** what each lens sees, recommends, and where it overreaches
-4. **Surface tensions** — where lenses agree, disagree, and what each sees that others miss
-5. **Recommend** a concrete action with the strongest objection stated
-6. **Acknowledge limits** — what the entire analysis may have missed
+2. **Select** 2-4 lenses based on the category
+3. **Map actors** and stakes
+4. **Build the judgment map** — all 6 zones as structured output, not essay prose
 
 ### Three core workflows
 
@@ -73,13 +84,13 @@ analysis/
 - **Ethics Review** — operational ethical analysis of a product, policy, or practice
 - **Conflict Mediation** — identify the value-frame mismatch and translate between sides
 
-Each workflow has detailed steps, lens selection overrides, and output format specs in `references/`.
-
 ---
 
 ## Design Principles
 
-> The product is the report, not the conversation.
+> The artifact is a judgment map, not an essay.
+
+> Use structure, not fake precision. No numerical scores, no radar charts, no percentages.
 
 > Philosophy is the engine, not the UI.
 
@@ -89,4 +100,4 @@ Each workflow has detailed steps, lens selection overrides, and output format sp
 
 ## Further Reading
 
-- [PRODUCT.md](PRODUCT.md) — product features, roadmap, entry points, report schema, positioning, and growth strategy
+- [PRODUCT.md](PRODUCT.md) — judgment map spec, pipeline architecture, roadmap, positioning, and export formats
