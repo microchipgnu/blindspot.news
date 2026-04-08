@@ -29,7 +29,22 @@ Do not start by categorizing or selecting frameworks. Start by reading the mater
 
 The crux is the thing that, if you understood it clearly, would make the entire situation make sense. It is usually not what the headline says. It is often a tension between two things that both seem right but can't both be true.
 
-### Step 2: Build the brief
+### Step 2: Pressure-test through angles
+
+Before writing anything, run the situation through these angles. Not all will apply — use the ones that surface something the reader wouldn't see on their own.
+
+- **Who controls the frame?** How is the story being told, by whom, and what does that framing make invisible? What would the story look like told from the other side?
+- **What motive is being disguised?** What does each actor actually want, underneath what they say they want? Where is moral language covering for self-interest, fear, or status?
+- **What rule is being broken or bent?** Is something being treated as acceptable here that wouldn't be in other contexts? Would this action hold up as a universal principle, or does it only work as a special case?
+- **Who bears invisible costs?** Who gets hurt in a way that doesn't show up in the dominant framing? Whose voice is absent?
+- **What attachment is distorting judgment?** Is anyone clinging to an identity, outcome, or sunk cost in a way that warps their reasoning?
+- **What would a person of good character do?** Strip away strategy and calculation — what does integrity actually look like here?
+- **Is anyone hiding behind "no choice"?** Where are people pretending their situation is fixed when they are actually choosing?
+- **What incentive structure makes this predictable?** Forget the personalities — what would any rational actor do given these constraints?
+
+These angles are your engine. They do not appear in the output. The reader sees insights, not methodology.
+
+### Step 3: Build the brief
 
 Produce a judgment brief with these sections. Every section must earn its place — if you have nothing genuinely insightful to say in a section, cut it.
 
