@@ -1,7 +1,37 @@
 {
   "date": "2026-04-08",
-  "generatedAt": "2026-04-08T19:30:00Z",
+  "generatedAt": "2026-04-08T10:00:00Z",
   "reports": [
+    {
+      "id": "trump-iran-ceasefire-victory-or-surrender",
+      "title": "Trump's Iran Ceasefire: Victory or Surrender?",
+      "subtitle": "The strongman who threatened to destroy Iran just settled for a two-week pause.",
+      "category": "conflict"
+    },
+    {
+      "id": "social-media-addiction-liability-breakthrough", 
+      "title": "Social Media's Tobacco Moment",
+      "subtitle": "A jury just declared Instagram and YouTube liable for addiction — and tech's legal immunity era might be over.",
+      "category": "decision"
+    },
+    {
+      "id": "microsoft-veracrypt-security-software-lockout",
+      "title": "Microsoft's Encryption Software Squeeze", 
+      "subtitle": "Locking out VeraCrypt developers reveals how platform gatekeepers can kill security tools they don't control.",
+      "category": "power"
+    },
+    {
+      "id": "greece-social-media-ban-children-global-trend",
+      "title": "The Government Parent Arrives",
+      "subtitle": "Greece bans social media for under-15s, joining a global shift where governments override parental authority over children's digital lives.",
+      "category": "ethics"
+    },
+    {
+      "id": "meta-ai-overhaul-muse-spark-model",
+      "title": "Meta's AI Mulligan", 
+      "subtitle": "A 'ground-up overhaul' with Muse Spark reveals how far behind Meta fell in the AI race — and how desperate they are to catch up.",
+      "category": "power"
+    },
     {
       "id": "iran-ceasefire-10-point-plan",
       "title": "Iran's 10-Point Plan and the Coerced Ceasefire",

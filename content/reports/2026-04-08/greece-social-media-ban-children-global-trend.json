@@ -1,0 +1,76 @@
+{
+  "id": "greece-social-media-ban-children-global-trend",
+  "date": "2026-04-08",
+  "generatedAt": "2026-04-08T10:00:00Z",
+  "title": "The Government Parent Arrives",
+  "subtitle": "Greece bans social media for under-15s, joining a global shift where governments override parental authority over children's digital lives.",
+  "category": "ethics",
+  "tags": ["social-media", "children", "government", "parental-rights", "greece"],
+  "sources": [
+    {
+      "url": "https://www.theguardian.com/world/2026/apr/08/greece-announces-social-media-ban-under-15s-citing-anxiety-sleep-problems",
+      "publisher": "The Guardian",
+      "angle": "Government intervention necessary to protect children from documented mental health harms"
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/08/social-media-ban-children-countries-list/",
+      "publisher": "TechCrunch",
+      "angle": "Part of global trend with practical focus on implementation challenges"
+    },
+    {
+      "url": "https://www.foxnews.com/politics",
+      "publisher": "Fox News",
+      "angle": "Government overreach that undermines parental authority and family autonomy"
+    }
+  ],
+  "brief": {
+    "bottomLine": "Greece's social media ban for under-15s represents governments stepping in where they believe parents have failed — a shift that trades family autonomy for child protection based on contested evidence about digital harm.",
+    "hiddenBets": [
+      {
+        "assumption": "Social media bans will actually protect children rather than just push their usage underground",
+        "whyItMightBeWrong": "Bans might drive children to less safe platforms or make them hide digital problems from adults"
+      },
+      {
+        "assumption": "Parents who allow young children on social media are making informed choices about acceptable risks",
+        "whyItMightBeWrong": "Most parents may not understand the algorithmic manipulation and psychological exploitation involved"
+      }
+    ],
+    "realDisagreement": "Whether protecting children from potential digital harms justifies overriding parental judgment. Supporters argue that social media platforms exploit psychological vulnerabilities that parents can't adequately assess or counteract. Critics argue that government restrictions replace family decisions with bureaucratic judgment that can't account for individual circumstances. Both sides care about children's welfare, but only one can determine who has the authority to protect it. I lean toward supporting limited government intervention — but only because the platforms have proven unwilling to create genuinely child-safe products. What we're giving up is the principle that parents know best about their own children's needs.",
+    "whatNoOneIsSaying": "Most parents supporting these bans are relieved that the government is solving a problem they couldn't handle themselves, but won't admit they need help parenting.",
+    "whoPays": [
+      {
+        "who": "Families with mature younger teens",
+        "how": "Blanket age restrictions ignore individual readiness and family circumstances", 
+        "when": "Immediately as laws take effect regardless of family preferences"
+      },
+      {
+        "who": "Tech platforms",
+        "how": "Lost revenue from younger users and increased compliance costs for age verification",
+        "when": "As similar laws spread to more countries over the next 2-3 years"
+      },
+      {
+        "who": "Children in crisis situations",
+        "how": "Reduced access to online support communities and resources for mental health, LGBTQ+ issues, abuse",
+        "when": "As enforcement makes it harder for vulnerable children to find help online"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Global Child Protection Wave",
+        "whatHappens": "More countries adopt similar bans, creating international pressure for platform redesign",
+        "signal": "Major countries like the UK, Canada, or large EU states announce similar age restrictions"
+      },
+      {
+        "name": "Enforcement Collapse",
+        "whatHappens": "Age verification proves impossible to implement effectively, undermining the ban's credibility",
+        "signal": "Reports show widespread circumvention with no enforcement consequences"
+      },
+      {
+        "name": "Platform Child Mode",
+        "whatHappens": "Platforms create genuinely child-safe versions to comply with restrictions while maintaining access",
+        "signal": "Major platforms announce heavily restricted 'child versions' with parental controls and limited features"
+      }
+    ],
+    "whatWouldChange": "Evidence that social media bans improve children's mental health outcomes without significant negative consequences would justify government intervention. Evidence that bans push problems underground or prevent positive uses would vindicate parental choice."
+  }
+}
