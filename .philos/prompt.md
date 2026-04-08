@@ -121,3 +121,4 @@ Update `.philos/state.json` — increment `cycle`, set `lastRun`, update `report
 - Take a position. "It depends" is not a judgment.
 - Cut anything that isn't surprising.
 - 600-900 words per brief.
+- **NEVER fabricate source URLs.** Only include sources you actually fetched and read. If a URL returned an error or you couldn't access it, do not include it. Use the real URL of the specific article, not a homepage. If you only found 2 real sources, list 2 — not 5 fake ones.
