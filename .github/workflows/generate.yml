@@ -28,7 +28,17 @@ jobs:
         run: curl -fsSL https://opencode.ai/install | bash
 
       - name: Install skills
-        run: npx skills add https://github.com/microchipgnu/philos --skill analysis -y
+        run: |
+          npx skills add https://github.com/microchipgnu/philos --skill analysis -y
+          npx skills add https://frames.ag/skill.md -y
+
+      - name: Setup AgentWallet
+        run: |
+          mkdir -p ~/.agentwallet
+          printf '{"username":"%s","apiToken":"%s"}' \
+            "${{ secrets.AGENTWALLET_USERNAME }}" \
+            "${{ secrets.AGENTWALLET_API_TOKEN }}" > ~/.agentwallet/config.json
+          chmod 600 ~/.agentwallet/config.json
 
       - name: Configure Git
         run: |
