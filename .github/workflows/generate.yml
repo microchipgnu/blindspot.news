@@ -1,0 +1,46 @@
+name: PhilOS Generate Reports
+
+on:
+  schedule:
+    - cron: '0 7,13,19 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install OpenCode
+        run: curl -fsSL https://opencode.ai/install | bash
+
+      - name: Configure Git
+        run: |
+          git config user.name "philos-bot"
+          git config user.email "philos-bot@users.noreply.github.com"
+
+      - name: Run PhilOS agent
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          opencode --prompt "$(cat .philos/prompt.md)"
+
+      - name: Commit reports
+        run: |
+          git add content/ .philos/state.json
+          git diff --cached --quiet || git commit -m "[philos] Reports $(date -u +%Y-%m-%d)"
+          git pull --rebase || true
+          git push

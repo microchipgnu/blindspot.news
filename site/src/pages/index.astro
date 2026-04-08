@@ -1,0 +1,49 @@
+---
+import Base from "../layouts/Base.astro";
+import { getLatestDay, getLensColor } from "../lib/reports";
+
+const day = getLatestDay();
+---
+
+<Base title="Today">
+  {!day ? (
+    <p class="text-[var(--color-text-muted)]">No reports yet.</p>
+  ) : (
+    <div>
+      <p class="mb-8 text-sm text-[var(--color-text-muted)]">{day.date}</p>
+      <div class="grid gap-6 md:grid-cols-2">
+        {day.reports.map((r, i) => (
+          <a
+            href={`/report/${day.date}/${r.id}`}
+            class:list={[
+              "group block rounded-lg border border-[var(--color-border)] bg-[var(--color-surface-raised)] p-6 transition hover:border-[var(--color-text-dim)]",
+              i === 0 && "md:col-span-2",
+            ]}
+          >
+            <div class="mb-3 flex items-center gap-2">
+              <span class="rounded bg-[var(--color-surface-overlay)] px-2 py-0.5 text-xs uppercase tracking-wider text-[var(--color-text-muted)]">
+                {r.category}
+              </span>
+              {r.lenses.map((l) => (
+                <span
+                  class="h-2 w-2 rounded-full"
+                  style={`background: ${getLensColor(l)}`}
+                  title={l}
+                />
+              ))}
+            </div>
+            <h2 class:list={[
+              "font-serif font-bold leading-tight group-hover:text-white",
+              i === 0 ? "text-2xl" : "text-lg",
+            ]}>
+              {r.title}
+            </h2>
+            <p class="mt-2 text-sm text-[var(--color-text-muted)] leading-relaxed">
+              {r.subtitle}
+            </p>
+          </a>
+        ))}
+      </div>
+    </div>
+  )}
+</Base>

@@ -1,0 +1,154 @@
+{
+  "id": "iran-ceasefire-10-point-plan",
+  "date": "2026-04-08",
+  "generatedAt": "2026-04-08T18:00:00Z",
+  "title": "Iran's 10-Point Plan and the Coerced Ceasefire",
+  "subtitle": "A ceasefire that reduces immediate harm but rests on coercive legitimacy and unresolved enrichment risk.",
+  "category": "power",
+  "tags": ["iran", "us", "ceasefire", "geopolitics", "nuclear", "coercion"],
+  "sources": [
+    {
+      "url": "https://www.aljazeera.com/news/2026/4/8/iran-10-point-peace-plan",
+      "title": "What's in Iran's 10-point peace plan?",
+      "publisher": "Al Jazeera",
+      "framing": "Sovereignty-focused, emphasizes Iran's demands"
+    },
+    {
+      "url": "https://fortune.com/2026/04/08/trump-iran-ceasefire",
+      "title": "Trump agrees to 2-week ceasefire",
+      "publisher": "Fortune",
+      "framing": "Deal-making angle, market implications"
+    },
+    {
+      "url": "https://www.npr.org/2026/04/08/us-iran-ceasefire",
+      "title": "U.S. and Iran agree to 2-week ceasefire",
+      "publisher": "NPR",
+      "framing": "Neutral/factual, diplomatic process focus"
+    },
+    {
+      "url": "https://foreignpolicy.com/2026/04/08/iran-ceasefire",
+      "title": "Iran accepts ceasefire under pressure",
+      "publisher": "Foreign Policy",
+      "framing": "Strategic analysis, power dynamics"
+    },
+    {
+      "url": "https://www.france24.com/en/middle-east/20260408-iran-10-point-plan",
+      "title": "Iran's 10-point plan explained",
+      "publisher": "France 24",
+      "framing": "European perspective, international law emphasis"
+    }
+  ],
+  "judgmentMap": {
+    "synthesis": "The ceasefire reduces immediate harm but rests on coercive legitimacy and unresolved enrichment risk — a truce built on threats, not trust.",
+    "lensCards": [
+      {
+        "id": "foucauldian",
+        "label": "Power",
+        "sees": "The entire sequence is disciplinary: escalate to threaten, then rebrand compliance as magnanimity. Whoever narrates this deal — who 'won,' who 'conceded' — controls the political reality.",
+        "fears": "Narrative capture. The ceasefire becomes proof that threats work, normalizing coercion as diplomacy.",
+        "wouldDo": "Watch the language, not the deal. Track who controls the frame in domestic media on both sides."
+      },
+      {
+        "id": "utilitarian",
+        "label": "Consequences",
+        "sees": "The Strait of Hormuz carries 20% of global oil. Every day of conflict cascades to every oil-importing economy, hitting the poorest hardest. A two-week pause produces massive immediate utility.",
+        "fears": "Accepting enrichment without safeguards creates proliferation risk whose long-tail cost dwarfs short-term gains.",
+        "wouldDo": "Take the deal as a starting framework. The costs of resumed bombing far exceed imperfect terms — but demand hard safeguards on enrichment."
+      },
+      {
+        "id": "nietzschean",
+        "label": "Hidden motives",
+        "sees": "Both sides perform strength from vulnerability. Iran's 10 points are not just security positions — they are demands for dignity after humiliation. The 'full withdrawal' demand is a symbolic reversal of decades of dominance.",
+        "fears": "A deal built on one side's humiliation will not hold. Ressentiment drives several of Iran's points more than strategy does.",
+        "wouldDo": "Test whether both sides can claim victory. Mutual face-saving may hold. Mutual humiliation guarantees collapse."
+      },
+      {
+        "id": "kantian",
+        "label": "Principles",
+        "sees": "Threatening civilizational annihilation to extract compliance is categorically impermissible regardless of outcome. Using millions of lives as a bargaining chip violates the principle that persons may never be treated merely as means.",
+        "fears": "Peace built on existential terror poisons the legitimacy of whatever agreement follows. The method contaminates the result.",
+        "wouldDo": "Insist on the UN resolution demand — it is the mechanism most likely to transform a coerced truce into legitimate, universalizable peace."
+      }
+    ],
+    "disagreementMatrix": {
+      "dimensions": ["legitimacy", "human cost", "stability", "dignity", "precedent", "enforcement"],
+      "rows": [
+        {
+          "lens": "Power",
+          "stances": ["contested", "blindspot", "contested", "contested", "rejects", "contested"]
+        },
+        {
+          "lens": "Consequences",
+          "stances": ["supports", "supports", "supports", "blindspot", "contested", "supports"]
+        },
+        {
+          "lens": "Hidden motives",
+          "stances": ["contested", "blindspot", "contested", "supports", "contested", "rejects"]
+        },
+        {
+          "lens": "Principles",
+          "stances": ["rejects", "supports", "contested", "supports", "rejects", "supports"]
+        }
+      ]
+    },
+    "actorMap": [
+      {
+        "name": "United States",
+        "leverage": "Military dominance, sanction power",
+        "stake": "Claim victory, prevent enrichment, maintain regional control",
+        "exposure": "Global backlash, energy market disruption, legitimacy deficit"
+      },
+      {
+        "name": "Iran",
+        "leverage": "Strait of Hormuz control, enrichment capability",
+        "stake": "Sovereignty recognition, sanction relief, dignity restoration",
+        "exposure": "Continued bombardment, economic collapse, regime instability"
+      },
+      {
+        "name": "Pakistan",
+        "leverage": "Mediator position, regional relationships",
+        "stake": "Diplomatic credibility, regional stability",
+        "exposure": "Mediation failure, US pressure"
+      },
+      {
+        "name": "Israel",
+        "leverage": "Co-belligerent status, US alliance",
+        "stake": "Prevent Iranian nuclear capability at any cost",
+        "exposure": "Position largely absent from reporting — a major unknown"
+      },
+      {
+        "name": "Global oil markets",
+        "leverage": "Economic pressure on all parties",
+        "stake": "Strait of Hormuz reopening, price stability",
+        "exposure": "Prolonged disruption hits developing nations hardest"
+      }
+    ],
+    "scenarioCards": [
+      {
+        "name": "Fragile truce",
+        "whatHappens": "Shipping resumes, rhetoric cools, enrichment unresolved. The two-week window expires without a framework, leading to rolling extensions with no permanent settlement.",
+        "trigger": "Both sides prefer ambiguity to collapse",
+        "watchFor": "Extension announcements without new terms on enrichment"
+      },
+      {
+        "name": "Coerced deal",
+        "whatHappens": "Ceasefire holds briefly but legitimacy collapses. Iran accepts terms under duress, domestic opposition mounts, hardliners gain ground, conflict returns within months.",
+        "trigger": "Iran signs under economic desperation without face-saving provisions",
+        "watchFor": "Iranian domestic protests against the deal, hardliner rhetoric escalating"
+      },
+      {
+        "name": "Structured de-escalation",
+        "whatHappens": "UN-backed framework emerges. Partial sanction relief, monitored enrichment safeguards, Hormuz passage protocols formalized. Slow, imperfect, but durable.",
+        "trigger": "EU or UN inserts itself as guarantor, both sides accept external oversight",
+        "watchFor": "UN Security Council draft resolution, EU diplomatic mission to Tehran"
+      }
+    ],
+    "hiddenAssumptions": [
+      "That a two-week ceasefire is a step toward peace rather than a pause before escalation",
+      "That Pakistan has the diplomatic weight to mediate between the US and Iran",
+      "That Iran's 10 points are a genuine negotiating position rather than a domestic performance",
+      "That the US threat of civilizational annihilation was a negotiating tactic rather than a policy position"
+    ],
+    "whatThisMisses": "Classified military realities, back-channel agreements, Iran's clerical-military internal politics, and Israel's position on the plan — which may matter more than any lens can capture from public reporting."
+  }
+}

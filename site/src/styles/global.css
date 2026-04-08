@@ -1,0 +1,34 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Georgia", "Times New Roman", serif;
+  --font-sans: "Inter", system-ui, sans-serif;
+
+  --color-surface: #0a0a0a;
+  --color-surface-raised: #141414;
+  --color-surface-overlay: #1e1e1e;
+  --color-border: #2a2a2a;
+  --color-text: #e5e5e5;
+  --color-text-muted: #888888;
+  --color-text-dim: #555555;
+
+  --color-accent-kant: #d4a843;
+  --color-accent-foucault: #9b72cf;
+  --color-accent-util: #4caf7a;
+  --color-accent-nietzsche: #cf4f4f;
+  --color-accent-stoic: #5b8db8;
+  --color-accent-aristotle: #b8845b;
+  --color-accent-buddhist: #d4a843;
+  --color-accent-existentialist: #8a8a8a;
+
+  --color-stance-supports: #4caf7a;
+  --color-stance-contested: #d4a843;
+  --color-stance-rejects: #cf4f4f;
+  --color-stance-blindspot: #555555;
+}
+
+body {
+  font-family: var(--font-sans);
+  background: var(--color-surface);
+  color: var(--color-text);
+}

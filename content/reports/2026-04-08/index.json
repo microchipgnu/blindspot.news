@@ -1,0 +1,20 @@
+{
+  "date": "2026-04-08",
+  "generatedAt": "2026-04-08T19:30:00Z",
+  "reports": [
+    {
+      "id": "iran-ceasefire-10-point-plan",
+      "title": "Iran's 10-Point Plan and the Coerced Ceasefire",
+      "subtitle": "A ceasefire that reduces immediate harm but rests on coercive legitimacy and unresolved enrichment risk.",
+      "category": "power",
+      "lenses": ["foucauldian", "utilitarian", "nietzschean", "kantian"]
+    },
+    {
+      "id": "spain-sanchez-rebuke",
+      "title": "Sánchez's 'Bucket' Rebuke and the Cost of NATO Dissent",
+      "subtitle": "Spain's PM refuses to credit Trump for a ceasefire he says Trump caused — testing what alliance solidarity actually requires.",
+      "category": "conflict",
+      "lenses": ["foucauldian", "kantian", "nietzschean", "aristotelian"]
+    }
+  ]
+}

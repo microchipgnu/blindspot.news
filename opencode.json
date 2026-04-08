@@ -1,0 +1,21 @@
+{
+  "model": "openrouter/anthropic/claude-sonnet-4",
+  "agent": {
+    "build": {
+      "model": "openrouter/anthropic/claude-sonnet-4",
+      "max_steps": 80
+    }
+  },
+  "provider": {
+    "openrouter": {
+      "npm": "@ai-sdk/openai-compatible",
+      "baseURL": "https://openrouter.ai/api/v1",
+      "apiKey": "{env:OPENROUTER_API_KEY}"
+    }
+  },
+  "permission": {
+    "bash": "allow",
+    "write": "allow",
+    "read": "allow"
+  }
+}

@@ -49,40 +49,36 @@ The system selects 3-4 relevant lenses per judgment map. Users can override, but
 
 ---
 
-## Skill Structure
-
-The analysis engine is built as a skill with a core workflow and reference files loaded on demand:
+## Monorepo Structure
 
 ```
-analysis/
-├── SKILL.md                              # Core workflow + lens selection + judgment map format
-└── references/
-    ├── decision-stress-test.md           # Workflow: pressure-test decisions
-    ├── ethics-review.md                  # Workflow: ethical analysis
-    ├── conflict-mediation.md             # Workflow: value-frame mismatch resolution
-    ├── lens-stoic.md                     # Separate control from noise
-    ├── lens-aristotelian.md              # Find the balanced practical path
-    ├── lens-kantian.md                   # Test principle consistency
-    ├── lens-utilitarian.md               # Model outcome distribution
-    ├── lens-nietzschean.md               # Uncover hidden motives
-    ├── lens-buddhist.md                  # Reduce attachment and craving
-    ├── lens-existentialist.md            # Force ownership and choice
-    ├── lens-foucauldian.md               # Inspect power and incentives
-    └── examples.md                       # 5 worked examples across domains
+philos/
+├── skills/analysis/            # Philosophical lens skill (SKILL.md + references)
+├── site/                       # Astro website rendering judgment maps
+├── content/reports/            # Generated judgment map JSON (by date)
+├── .philos/prompt.md           # Agent prompt for automated generation
+├── .github/workflows/          # GitHub Actions cron (3x daily)
+└── opencode.json               # OpenCode config (OpenRouter)
 ```
 
-### How the skill works
+### How it works
 
-1. **Classify** the problem: decision, ethics, conflict, identity/meaning, or power/institution
-2. **Select** 2-4 lenses based on the category
-3. **Map actors** and stakes
-4. **Build the judgment map** — all 6 zones as structured output, not essay prose
+1. **GitHub Actions** triggers 3x daily (7am, 1pm, 7pm UTC)
+2. **OpenCode** runs with `.philos/prompt.md` — discovers news, applies the analysis skill, writes JSON
+3. **JSON reports** are committed to `content/reports/YYYY-MM-DD/`
+4. **Astro** reads the JSON and renders judgment maps as a static site
 
-### Three core workflows
+### The analysis skill
 
-- **Decision Stress Test** — pressure-test a choice before committing
-- **Ethics Review** — operational ethical analysis of a product, policy, or practice
-- **Conflict Mediation** — identify the value-frame mismatch and translate between sides
+Located at `skills/analysis/`. Classifies problems, selects 2-4 lenses, maps actors, and produces structured judgment maps with all 6 zones. Three core workflows: decision stress test, ethics review, conflict mediation.
+
+---
+
+## Development
+
+```bash
+cd site && npm install && npx astro dev
+```
 
 ---
 
