@@ -62,21 +62,29 @@ const gridItems = hasOddRest ? rest.slice(0, -1) : rest;
 const lastItem = hasOddRest ? rest[rest.length - 1] : null;
 ---
 
-<!-- Compact top bar: date + nav + connections -->
-<header class="flex items-center justify-between border-b border-[var(--color-border)] py-4">
-  {prevDate ? (
-    <a href={`/day/${prevDate}`} class="text-[13px] font-medium text-[var(--color-text-tertiary)] hover:text-[var(--color-text)]">&larr; {shortDate(prevDate)}</a>
-  ) : (
-    <span />
-  )}
-  <div class="flex items-center gap-3">
+<!-- Top bar -->
+<header class="border-b border-[var(--color-border)] py-4">
+  <div class="flex items-center justify-between">
+    <div class="w-24">
+      {prevDate ? (
+        <a href={`/day/${prevDate}`} class="text-[13px] font-medium text-[var(--color-text-tertiary)] hover:text-[var(--color-text)]">&larr; {shortDate(prevDate)}</a>
+      ) : (
+        <span />
+      )}
+    </div>
     <p class="text-[14px] font-medium">{weekday}, {monthName} {dayNum}</p>
-    {graph && <DayGraph graph={graph} />}
+    <div class="flex w-24 items-center justify-end gap-3">
+      {nextDate ? (
+        <a href={`/day/${nextDate}`} class="text-[13px] font-medium text-[var(--color-text-tertiary)] hover:text-[var(--color-text)]">{shortDate(nextDate)} &rarr;</a>
+      ) : (
+        <span />
+      )}
+    </div>
   </div>
-  {nextDate ? (
-    <a href={`/day/${nextDate}`} class="text-[13px] font-medium text-[var(--color-text-tertiary)] hover:text-[var(--color-text)]">{shortDate(nextDate)} &rarr;</a>
-  ) : (
-    <span />
+  {graph && (
+    <div class="mt-3 flex justify-center">
+      <DayGraph graph={graph} />
+    </div>
   )}
 </header>
 
