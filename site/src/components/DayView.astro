@@ -1,5 +1,5 @@
 ---
-import { getReport, getDayThreads, getDayVideo, type DayIndex } from "../lib/reports";
+import { getReport, getDayThreads, type DayIndex } from "../lib/reports";
 import { buildDayGraph } from "../lib/graph";
 import DayGraph from "./DayGraph.astro";
 
@@ -37,7 +37,17 @@ const yearNum = d.getFullYear();
 const weekday = d.toLocaleDateString("en-US", { weekday: "long" });
 
 const graph = buildDayGraph(day.date);
-const dayVideo = getDayVideo(day.date);
+
+// Get lead story's cover image
+let leadImage: string | null = null;
+let leadImageCredit: string | null = null;
+if (day.reports.length > 0) {
+  const lead = getReport(day.date, day.reports[0].id);
+  if (lead?.coverImage) {
+    leadImage = lead.coverImage.local;
+    leadImageCredit = lead.coverImage.credit;
+  }
+}
 const dayThreads = getDayThreads(day.date);
 
 const typeLabels: Record<string, string> = {
@@ -51,6 +61,21 @@ const hasOddRest = rest.length % 2 !== 0;
 const gridItems = hasOddRest ? rest.slice(0, -1) : rest;
 const lastItem = hasOddRest ? rest[rest.length - 1] : null;
 ---
+
+{leadImage && (
+  <div class="-mx-6 mb-0">
+    <img
+      src={leadImage}
+      alt=""
+      class="w-full object-cover"
+      style="max-height: 320px;"
+      loading="eager"
+    />
+    {leadImageCredit && (
+      <p class="px-6 pt-2 text-[11px] text-[var(--color-text-tertiary)]">{leadImageCredit}</p>
+    )}
+  </div>
+)}
 
 <!-- Calendar header -->
 <header class="border-b border-[var(--color-border)] py-8">
