@@ -3,7 +3,7 @@
   "date": "2026-04-08",
   "generatedAt": "2026-04-08T10:00:00Z",
   "title": "Social Media's Tobacco Moment",
-  "subtitle": "A jury just declared Instagram and YouTube liable for addiction — and tech's legal immunity era might be over.",
+  "subtitle": "A jury just declared Instagram and YouTube liable for addiction. and tech's legal immunity era might be over.",
   "category": "decision",
   "tags": [
     "social-media",
@@ -30,7 +30,7 @@
     }
   ],
   "brief": {
-    "bottomLine": "The social media addiction liability ruling creates the legal framework to treat platforms like tobacco companies — a shift that could either force healthier design or kill innovation through lawsuits.",
+    "bottomLine": "The social media addiction liability ruling creates the legal framework to treat platforms like tobacco companies. a shift that could either force healthier design or kill innovation through lawsuits.",
     "hiddenBets": [
       {
         "assumption": "Platform addiction is primarily a design choice rather than an inevitable byproduct of engagement",
@@ -41,7 +41,7 @@
         "whyItMightBeWrong": "Companies might instead focus on legal protection rather than actual user welfare, making products worse"
       }
     ],
-    "realDisagreement": "Whether addiction is a design bug to be fixed or a fundamental feature of digital engagement. Platform defenders argue that users choose to engage and can disengage anytime. Addiction advocates say sophisticated algorithms exploit psychological vulnerabilities beyond user control. Both sides have evidence, but only one can be the basis for legal liability. I lean toward the addiction model being correct — but worry that legal liability might produce defensive legal compliance rather than genuinely healthier platforms. What we'd give up is treating user agency as the primary factor in digital relationships.",
+    "realDisagreement": "Whether addiction is a design bug to be fixed or a fundamental feature of digital engagement. Platform defenders argue that users choose to engage and can disengage anytime. Addiction advocates say sophisticated algorithms exploit psychological vulnerabilities beyond user control. Both sides have evidence, but only one can be the basis for legal liability. I lean toward the addiction model being correct. but worry that legal liability might produce defensive legal compliance rather than genuinely healthier platforms. What we'd give up is treating user agency as the primary factor in digital relationships.",
     "whatNoOneIsSaying": "Most parents secretly rely on these platforms to occupy their children, making them complicit in the very addiction they're suing over.",
     "whoPays": [
       {

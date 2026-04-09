@@ -20,46 +20,46 @@
     {
       "url": "https://www.disruptionbanking.com/2026/04/09/white-house-slams-clarity-act-yield-ban/",
       "publisher": "Disruption Banking",
-      "angle": "Sharp analysis of the White House CEA report — focuses on the $2.1B lending increase figure (0.02%) versus $800M consumer cost, frames it as an indictment of the banking industry's lobbying argument"
+      "angle": "Sharp analysis of the White House CEA report. focuses on the $2.1B lending increase figure (0.02%) versus $800M consumer cost, frames it as an indictment of the banking industry's lobbying argument"
     },
     {
       "url": "https://ethers.news/articles/clarity-act-stablecoin-yield-text-is-out-senates-tillis-alsobrooks-white-house-deal-bans-passive-yield-permits-activity-rewards-april-markup-on-track",
       "publisher": "Ethers News",
-      "angle": "Legislative detail on the compromise text — passive yield banned, activity rewards permitted; documents that this language emerged from closed-door March sessions between banking and crypto stakeholders"
+      "angle": "Legislative detail on the compromise text. passive yield banned, activity rewards permitted; documents that this language emerged from closed-door March sessions between banking and crypto stakeholders"
     },
     {
       "url": "https://www.fxstreet.com/amp/cryptocurrencies/news/us-clarity-act-prohibiting-stablecoin-yield-would-do-little-to-protect-bank-lending-the-white-house-202604081440",
       "publisher": "FXStreet",
-      "angle": "Technical breakdown of the CEA methodology — explains how stablecoin reserves stay within the traditional financial system regardless of yield prohibition, undermining the deposit flight narrative"
+      "angle": "Technical breakdown of the CEA methodology. explains how stablecoin reserves stay within the traditional financial system regardless of yield prohibition, undermining the deposit flight narrative"
     },
     {
       "url": "https://www.cryptotimes.io/2026/04/08/white-house-stablecoin-yield-ban-gives-bank-minimal-gain-at-800m-in-consumer-cost/",
       "publisher": "Crypto Times",
-      "angle": "Consumer impact framing — the $800M figure represents real returns that stablecoin holders would lose; notes 76% of even the minimal lending benefit flows to the largest banks, not community banks"
+      "angle": "Consumer impact framing. the $800M figure represents real returns that stablecoin holders would lose; notes 76% of even the minimal lending benefit flows to the largest banks, not community banks"
     }
   ],
   "brief": {
-    "bottomLine": "The banking lobby's case for banning stablecoin yield was always about competitive protection, not systemic safety — and the White House just published the numbers to prove it. The real fight inside the CLARITY Act is between banks that want to preserve their monopoly on interest-bearing deposits and a crypto industry that has found a way to pay consumers on dollar-denominated instruments outside the banking system.",
+    "bottomLine": "The banking lobby's case for banning stablecoin yield was always about competitive protection, not systemic safety. and the White House just published the numbers to prove it. The real fight inside the CLARITY Act is between banks that want to preserve their monopoly on interest-bearing deposits and a crypto industry that has found a way to pay consumers on dollar-denominated instruments outside the banking system.",
     "hiddenBets": [
       {
         "assumption": "Stablecoins offering yield would cause massive deposit flight from banks, threatening lending capacity",
-        "whyItMightBeWrong": "The CEA analysis shows that stablecoin reserves are held primarily in Treasuries, money market funds, and bank deposits — they circulate within the financial system rather than exiting it. A dollar in a stablecoin is not a dollar removed from bank lending capacity; it is a dollar rerouted through a different intermediary. The deposit flight narrative treats stablecoins as a drain on the system when they are actually a reallocation within it."
+        "whyItMightBeWrong": "The CEA analysis shows that stablecoin reserves are held primarily in Treasuries, money market funds, and bank deposits. they circulate within the financial system rather than exiting it. A dollar in a stablecoin is not a dollar removed from bank lending capacity; it is a dollar rerouted through a different intermediary. The deposit flight narrative treats stablecoins as a drain on the system when they are actually a reallocation within it."
       },
       {
         "assumption": "The GENIUS Act's yield ban on issuers is the model for CLARITY Act treatment of exchanges",
-        "whyItMightBeWrong": "The GENIUS Act banned issuers from paying yield because they hold the reserves. Exchanges and third-party platforms hold customer stablecoins but not the underlying reserves — they are more like money market fund distributors than deposit-taking banks. Applying issuer-style yield restrictions to distributors conflates two structurally different roles, and the CEA report is essentially making this argument."
+        "whyItMightBeWrong": "The GENIUS Act banned issuers from paying yield because they hold the reserves. Exchanges and third-party platforms hold customer stablecoins but not the underlying reserves. they are more like money market fund distributors than deposit-taking banks. Applying issuer-style yield restrictions to distributors conflates two structurally different roles, and the CEA report is essentially making this argument."
       },
       {
         "assumption": "The White House intervention settles the yield debate ahead of April markup",
-        "whyItMightBeWrong": "The Senate Banking Committee markup is still coming. Bank lobbying has defeated or delayed major crypto legislation repeatedly since 2022. The CEA report changes the public debate but not the committee dynamics — individual senators with large bank presences in their states will face sustained pressure regardless of what the White House economists conclude."
+        "whyItMightBeWrong": "The Senate Banking Committee markup is still coming. Bank lobbying has defeated or delayed major crypto legislation repeatedly since 2022. The CEA report changes the public debate but not the committee dynamics. individual senators with large bank presences in their states will face sustained pressure regardless of what the White House economists conclude."
       }
     ],
-    "realDisagreement": "The genuine fork is between two theories of what stablecoins are. Under one theory, stablecoins are payment instruments — the digital equivalent of a prepaid card — and paying yield on them transforms them into unregulated deposit accounts that should face bank-equivalent oversight. Under the other theory, stablecoins are investment products distributed outside the banking system, and restricting their yield to protect bank deposit bases is cartel behavior by incumbents using regulation as a moat. Both views have merit. The lean is toward the second: the GENIUS Act already established capital requirements, reserve standards, and AML compliance for stablecoin issuers — the 'they're unregulated' argument is outdated. What you'd give up: a clean analogy between stablecoin holders and bank depositors that makes the regulatory framework intellectually tidy.",
-    "whatNoOneIsSaying": "The $75 billion community bank lending boost in the most aggressive CEA scenario — the one that requires explosive stablecoin growth, reserves held entirely in cash, and major Fed policy shifts — would still be a rounding error in a $12 trillion lending market. Community banks are not the actual lobbying force here; they are the political cover. The institutions with the most to lose from stablecoin yield competition are JPMorgan, Bank of America, and Citi — the banks that hold the largest deposit bases and that currently pay consumers 0.01% on checking accounts while earning 5% lending those deposits out. The yield ban is protection for that spread.",
+    "realDisagreement": "The genuine fork is between two theories of what stablecoins are. Under one theory, stablecoins are payment instruments. the digital equivalent of a prepaid card. and paying yield on them transforms them into unregulated deposit accounts that should face bank-equivalent oversight. Under the other theory, stablecoins are investment products distributed outside the banking system, and restricting their yield to protect bank deposit bases is cartel behavior by incumbents using regulation as a moat. Both views have merit. The lean is toward the second: the GENIUS Act already established capital requirements, reserve standards, and AML compliance for stablecoin issuers. the 'they're unregulated' argument is outdated. What you'd give up: a clean analogy between stablecoin holders and bank depositors that makes the regulatory framework intellectually tidy.",
+    "whatNoOneIsSaying": "The $75 billion community bank lending boost in the most aggressive CEA scenario. the one that requires explosive stablecoin growth, reserves held entirely in cash, and major Fed policy shifts. would still be a rounding error in a $12 trillion lending market. Community banks are not the actual lobbying force here; they are the political cover. The institutions with the most to lose from stablecoin yield competition are JPMorgan, Bank of America, and Citi. the banks that hold the largest deposit bases and that currently pay consumers 0.01% on checking accounts while earning 5% lending those deposits out. The yield ban is protection for that spread.",
     "whoPays": [
       {
         "who": "Retail stablecoin holders, particularly lower-income users who use stablecoins as accessible savings instruments",
-        "how": "The $800M consumer cost estimate is distributed across holders who would have earned yield under a permissive regime. For users who hold stablecoins as dollar savings — common in countries with weak currencies or limited bank access — this is a real economic loss",
+        "how": "The $800M consumer cost estimate is distributed across holders who would have earned yield under a permissive regime. For users who hold stablecoins as dollar savings. common in countries with weak currencies or limited bank access. this is a real economic loss",
         "when": "Effective immediately upon CLARITY Act passage; ongoing annual cost"
       },
       {
@@ -69,7 +69,7 @@
       },
       {
         "who": "Community banks (paradoxically)",
-        "how": "The lobbying coalition claims to represent community banks, but the CEA data shows community banks would receive only $500M of the $2.1B modest lending benefit — while being politically exposed as the face of a position that cost consumers $800M. If the analysis becomes public knowledge, community banks look like they were used as political cover for the big banks' competitive interest",
+        "how": "The lobbying coalition claims to represent community banks, but the CEA data shows community banks would receive only $500M of the $2.1B modest lending benefit. while being politically exposed as the face of a position that cost consumers $800M. If the analysis becomes public knowledge, community banks look like they were used as political cover for the big banks' competitive interest",
         "when": "Political reputational cost materializes during the markup debate and subsequent media coverage"
       }
     ],
@@ -81,16 +81,16 @@
       },
       {
         "name": "Banks Pull the Pin",
-        "whatHappens": "Sustained bank lobbying reopens the yield language in markup, extending the ban to activity rewards as well. Coinbase and Kraken announce they will route US users through offshore structures. The bill passes but drives US crypto infrastructure offshore — replicating the pattern the GENIUS Act was supposed to prevent.",
+        "whatHappens": "Sustained bank lobbying reopens the yield language in markup, extending the ban to activity rewards as well. Coinbase and Kraken announce they will route US users through offshore structures. The bill passes but drives US crypto infrastructure offshore. replicating the pattern the GENIUS Act was supposed to prevent.",
         "signal": "An amendment to extend the yield ban to activity rewards is introduced in committee by a senator from a state with large bank headquarters"
       },
       {
         "name": "White House CEA Report Kills the Ban",
-        "whatHappens": "The $800M consumer cost figure becomes the headline in the markup debate. Several Senate Democrats, facing constituent pressure over consumer benefits, refuse to support the passive yield ban. The CLARITY Act passes without any yield prohibition — stablecoins can pay competitive rates. Banks begin lobbying for new legislation immediately.",
+        "whatHappens": "The $800M consumer cost figure becomes the headline in the markup debate. Several Senate Democrats, facing constituent pressure over consumer benefits, refuse to support the passive yield ban. The CLARITY Act passes without any yield prohibition. stablecoins can pay competitive rates. Banks begin lobbying for new legislation immediately.",
         "signal": "Three or more Senate Democrats publicly cite the CEA report in statements opposing the yield ban before the markup date"
       }
     ],
-    "whatWouldChange": "If a subsequent analysis showed that stablecoin yield programs were systematically draining deposits from banks serving low-income communities — rather than from large-cap banks — the bottom line shifts: the yield ban becomes a consumer protection issue rather than a bank protection issue. The CEA report does not analyze distributional effects by bank size on the deposit side. That gap is the one piece of evidence that would change the story.",
+    "whatWouldChange": "If a subsequent analysis showed that stablecoin yield programs were systematically draining deposits from banks serving low-income communities. rather than from large-cap banks. the bottom line shifts: the yield ban becomes a consumer protection issue rather than a bank protection issue. The CEA report does not analyze distributional effects by bank size on the deposit side. That gap is the one piece of evidence that would change the story.",
     "whatHappened": "The CLARITY Act, a major US stablecoin regulation bill, nearly stalled in Congress after banking industry lobbying pushed for a provision banning stablecoin issuers from offering yield (interest) to holders. A new White House economic analysis found that the proposed yield ban would increase bank lending capacity by just 0.02% while costing consumers approximately $800 million annually in lost returns.",
     "markets": [
       {

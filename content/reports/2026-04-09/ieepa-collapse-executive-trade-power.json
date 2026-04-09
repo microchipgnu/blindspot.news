@@ -18,7 +18,7 @@
     {
       "url": "https://govtransparencyproject.org/articles/ieepa-scotus-ruling-section-122-trade-framework-2026.html",
       "publisher": "Gov Transparency Project",
-      "angle": "Detailed breakdown of the February 20 SCOTUS ruling in Learning Resources v. Trump — the 6-3 decision invalidating IEEPA tariffs, what $166B in refunds reveal about years of executive overreach, and what legal authorities remain available."
+      "angle": "Detailed breakdown of the February 20 SCOTUS ruling in Learning Resources v. Trump. the 6-3 decision invalidating IEEPA tariffs, what $166B in refunds reveal about years of executive overreach, and what legal authorities remain available."
     },
     {
       "url": "https://based.info/supreme-court-voids-executive-tariff-power-cutting-average-us-rate-from-17-to-9/",
@@ -28,7 +28,7 @@
     {
       "url": "https://www.theglobeandmail.com/business/international-business/article-donald-trump-us-tariffs-50-iran-weapons/",
       "publisher": "The Globe and Mail / Reuters",
-      "angle": "Trump's post-ceasefire Truth Social threat: 50% tariffs on any country supplying Iran with weapons, with no legal authority cited — hours after a Court had specifically curtailed his ability to impose such tariffs unilaterally."
+      "angle": "Trump's post-ceasefire Truth Social threat: 50% tariffs on any country supplying Iran with weapons, with no legal authority cited. hours after a Court had specifically curtailed his ability to impose such tariffs unilaterally."
     },
     {
       "url": "https://www.npm.org/2026/04/02/nx-s1-5766424/trump-tariffs-inflation-economy",
@@ -38,41 +38,41 @@
     {
       "url": "https://today.reuters.com/world/us/year-after-liberation-day-trump-sets-new-drug-tariffs-adjusts-metals-duties-2026-04-02/",
       "publisher": "Reuters",
-      "angle": "Trump's pivot after IEEPA collapse: 100% tariffs on branded pharmaceuticals and restructured Section 232 metals duties — the administration's attempt to rebuild tariff leverage using narrower, more legally defensible authority."
+      "angle": "Trump's pivot after IEEPA collapse: 100% tariffs on branded pharmaceuticals and restructured Section 232 metals duties. the administration's attempt to rebuild tariff leverage using narrower, more legally defensible authority."
     }
   ],
   "brief": {
-    "bottomLine": "The Supreme Court handed Congress back its trade authority in February, and by April the executive branch was already trying to take it back — this time with no named legal hook, which either means the threat is a bluff or the administration is willing to test the Court again.",
+    "bottomLine": "The Supreme Court handed Congress back its trade authority in February, and by April the executive branch was already trying to take it back. this time with no named legal hook, which either means the threat is a bluff or the administration is willing to test the Court again.",
     "hiddenBets": [
       {
-        "assumption": "The SCOTUS ruling resolved the question of executive tariff authority — the Court said no, so the president's broad tariff power is gone.",
+        "assumption": "The SCOTUS ruling resolved the question of executive tariff authority. the Court said no, so the president's broad tariff power is gone.",
         "whyItMightBeWrong": "Roberts' majority opinion closed the IEEPA door but left Section 232 (national security tariffs) and Section 122 (emergency balance-of-payments authority) alive. The administration is actively using both, and the legal perimeter of each is still being litigated. The ruling constrained one tool, not all tools."
       },
       {
-        "assumption": "Tariffs as a trade policy tool failed — the empirical record after a year shows they didn't work, which is why the Court stepped in.",
-        "whyItMightBeWrong": "The Court's ruling was on constitutional authority, not on economic effectiveness. Roberts' opinion explicitly said nothing about whether tariffs are good or bad policy — only that this president lacked the statutory power to impose them this way. The political will to use tariffs has not diminished; only the legal vehicle changed."
+        "assumption": "Tariffs as a trade policy tool failed. the empirical record after a year shows they didn't work, which is why the Court stepped in.",
+        "whyItMightBeWrong": "The Court's ruling was on constitutional authority, not on economic effectiveness. Roberts' opinion explicitly said nothing about whether tariffs are good or bad policy. only that this president lacked the statutory power to impose them this way. The political will to use tariffs has not diminished; only the legal vehicle changed."
       },
       {
         "assumption": "Congress will reassert its trade authority now that the Court has invited it to.",
-        "whyItMightBeWrong": "Congress has consistently delegated trade authority to the executive since the 1930s because tariff politics are toxic — every trade action creates losers who lobby against it. The Court ruling creates an opening for Congress to act, but the incentive structure for Congress to actually use it is weak."
+        "whyItMightBeWrong": "Congress has consistently delegated trade authority to the executive since the 1930s because tariff politics are toxic. every trade action creates losers who lobby against it. The Court ruling creates an opening for Congress to act, but the incentive structure for Congress to actually use it is weak."
       }
     ],
-    "realDisagreement": "The real fork is whether the constitutional limits on executive trade authority that SCOTUS just reasserted will actually hold in practice, or whether the administration will find enough residual statutory authority — Section 232, Section 122, pharmaceutical and defense-sector carve-outs — to reconstruct a functionally equivalent tariff regime without IEEPA. The optimistic read: the Court drew a line that will force trade policy back through Congress, restoring democratic accountability. The pessimistic read: the line applies to IEEPA specifically, and a president willing to issue social-media tariff threats with no cited legal authority is already probing what else is available. I lean toward the pessimistic read — the demand for executive trade flexibility hasn't changed, only the legal costume has to.",
-    "whatNoOneIsSaying": "The $166 billion in tariff refunds ordered by the Court represent money that was collected, spent, and is now owed back to importers — but the federal government does not actually have a mechanism to quickly return that money. The refund process will take years, and some of the downstream cost was already passed to consumers in the form of higher prices that will never be reversed. The consumers who paid elevated prices for Chinese goods in 2025 are not getting a check.",
+    "realDisagreement": "The real fork is whether the constitutional limits on executive trade authority that SCOTUS just reasserted will actually hold in practice, or whether the administration will find enough residual statutory authority. Section 232, Section 122, pharmaceutical and defense-sector carve-outs. to reconstruct a functionally equivalent tariff regime without IEEPA. The optimistic read: the Court drew a line that will force trade policy back through Congress, restoring democratic accountability. The pessimistic read: the line applies to IEEPA specifically, and a president willing to issue social-media tariff threats with no cited legal authority is already probing what else is available. I lean toward the pessimistic read. the demand for executive trade flexibility hasn't changed, only the legal costume has to.",
+    "whatNoOneIsSaying": "The $166 billion in tariff refunds ordered by the Court represent money that was collected, spent, and is now owed back to importers. but the federal government does not actually have a mechanism to quickly return that money. The refund process will take years, and some of the downstream cost was already passed to consumers in the form of higher prices that will never be reversed. The consumers who paid elevated prices for Chinese goods in 2025 are not getting a check.",
     "whoPays": [
       {
         "who": "US importers of finished goods with metal components",
-        "how": "The Section 232 restructuring effective April 6 shifted from tariffs on embedded metal content to tariffs on full product value — a product with $10 of steel in a $200 assembly now has a tariff base of $200, not $10. For industries like automotive parts and industrial equipment, total duty burden increases even as the headline rate looks similar.",
+        "how": "The Section 232 restructuring effective April 6 shifted from tariffs on embedded metal content to tariffs on full product value. a product with $10 of steel in a $200 assembly now has a tariff base of $200, not $10. For industries like automotive parts and industrial equipment, total duty burden increases even as the headline rate looks similar.",
         "when": "Immediate, effective April 6"
       },
       {
         "who": "Countries that sell branded pharmaceuticals to the US",
-        "how": "100% tariffs on branded pharmaceutical imports from countries that lack US production or won't cut prices — a direct revenue weapon aimed at European and Japanese pharma exporters and designed to force manufacturing onshoring.",
+        "how": "100% tariffs on branded pharmaceutical imports from countries that lack US production or won't cut prices. a direct revenue weapon aimed at European and Japanese pharma exporters and designed to force manufacturing onshoring.",
         "when": "Escalating over 12-24 months as enforcement builds"
       },
       {
         "who": "Countries that supplied Iran with weapons",
-        "how": "If Trump's threatened 50% tariffs are actually implemented — which requires a named legal vehicle the announcement didn't provide — Russia and China face new trade pressure, but their imports to the US are already minimal enough that the leverage is asymmetric.",
+        "how": "If Trump's threatened 50% tariffs are actually implemented. which requires a named legal vehicle the announcement didn't provide. Russia and China face new trade pressure, but their imports to the US are already minimal enough that the leverage is asymmetric.",
         "when": "Conditional; depends on legal mechanism being identified"
       }
     ],
@@ -84,12 +84,12 @@
       },
       {
         "name": "Death by a Thousand Section 232s",
-        "whatHappens": "The administration uses every remaining statutory authority — Section 232 national security tariffs, pharmaceutical tariffs, executive orders invoking new emergency frameworks — to rebuild something functionally equivalent to the IEEPA regime, sector by sector, daring courts to challenge each one individually.",
+        "whatHappens": "The administration uses every remaining statutory authority. Section 232 national security tariffs, pharmaceutical tariffs, executive orders invoking new emergency frameworks. to rebuild something functionally equivalent to the IEEPA regime, sector by sector, daring courts to challenge each one individually.",
         "signal": "A new executive order invoking national security authority on a broad category of imports within 30 days of the ruling"
       },
       {
         "name": "Court Line Holds",
-        "whatHappens": "Lower courts apply the Roberts ruling aggressively to block Section 122 and pharmaceutical tariffs on the same logic — emergency economic tools cannot substitute for congressional authorization. The executive's trade arsenal is genuinely constrained for the first time in decades.",
+        "whatHappens": "Lower courts apply the Roberts ruling aggressively to block Section 122 and pharmaceutical tariffs on the same logic. emergency economic tools cannot substitute for congressional authorization. The executive's trade arsenal is genuinely constrained for the first time in decades.",
         "signal": "A federal circuit court applies Learning Resources logic to a non-IEEPA tariff within 90 days"
       }
     ],

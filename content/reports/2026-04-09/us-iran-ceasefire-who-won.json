@@ -23,12 +23,12 @@
     {
       "url": "https://www.bbc.co.uk/news/articles/cwyvp55xrlro",
       "publisher": "BBC News",
-      "angle": "Analysis framing the deal as a face-saving exit for Trump — he backed down from 'a whole civilization will die tonight' to a negotiated truce on Iranian terms, with the cost being unclear leverage going forward."
+      "angle": "Analysis framing the deal as a face-saving exit for Trump. he backed down from 'a whole civilization will die tonight' to a negotiated truce on Iranian terms, with the cost being unclear leverage going forward."
     },
     {
       "url": "https://gulfnews.com/world/asia/pakistan/how-pakistans-quiet-diplomacy-drives-us-iran-ceasefire-breakthrough-1.500500186",
       "publisher": "Gulf News",
-      "angle": "How Pakistan's PM Shehbaz Sharif served as the critical intermediary — delivering messages when direct US-Iran communication was frozen — and what this elevation means for Islamabad's regional role."
+      "angle": "How Pakistan's PM Shehbaz Sharif served as the critical intermediary. delivering messages when direct US-Iran communication was frozen. and what this elevation means for Islamabad's regional role."
     },
     {
       "url": "https://theconversation.com/middle-east-conflict-this-ceasefire-may-have-made-iran-stronger-280164",
@@ -42,37 +42,37 @@
     }
   ],
   "brief": {
-    "bottomLine": "Trump announced total victory against Iran and then signed a ceasefire built around Iran's own 10-point framework — those two things cannot both be true, and the next two weeks will expose which one was the lie.",
+    "bottomLine": "Trump announced total victory against Iran and then signed a ceasefire built around Iran's own 10-point framework. those two things cannot both be true, and the next two weeks will expose which one was the lie.",
     "hiddenBets": [
       {
-        "assumption": "The ceasefire terms are roughly symmetrical — both sides gave something and got something.",
+        "assumption": "The ceasefire terms are roughly symmetrical. both sides gave something and got something.",
         "whyItMightBeWrong": "Iran's 10-point plan served as the structural basis for negotiations. If Iran's conditions are the starting framework rather than a negotiating floor, the US is bargaining from a weaker position than the 'victory' framing suggests."
       },
       {
-        "assumption": "Iran is the defeated party — its leadership was targeted, its military degraded, and it needs a deal more than the US does.",
+        "assumption": "Iran is the defeated party. its leadership was targeted, its military degraded, and it needs a deal more than the US does.",
         "whyItMightBeWrong": "Iran replaced assassinated officials rapidly and maintained institutional coherence throughout 40 days of strikes. A regime that can absorb that punishment and still emerge with its terms as the negotiating template may have demonstrated durability rather than vulnerability."
       },
       {
-        "assumption": "Trump's ultimatum — 'a whole civilization will die tonight' — was a credible military threat that forced Iran's hand.",
+        "assumption": "Trump's ultimatum. 'a whole civilization will die tonight'. was a credible military threat that forced Iran's hand.",
         "whyItMightBeWrong": "Trump rescinded the threat 90 minutes before his own deadline after Iran did not fully capitulate. Adversaries watching this sequence now know the gap between Trump's stated red lines and his actual willingness to follow through."
       }
     ],
-    "realDisagreement": "The genuine fork is this: either the ceasefire reflects American coercive power successfully applied — Iran backed down, the Strait reopens, the war ends on US terms — or it reflects American coercive power successfully advertised but not actually used, with Iran preserving its core interests while Trump got a news cycle. You cannot hold both positions. The evidence leans toward the second: the deal's structure, Pakistan's role as intermediary (which would have been unnecessary if the US had real leverage), and the 10-point framework all point toward a negotiated exit rather than a dictated peace. The cost of that lean: it requires crediting Iran with strategic discipline under enormous pressure, which cuts against the narrative of a regime on the brink of collapse.",
-    "whatNoOneIsSaying": "Pakistan brokered this deal because the US and Iran could not communicate directly — which means the world's most powerful military could not talk to a country it had been bombing for 40 days without going through Islamabad. That is not a sign of strength. It is the kind of intermediary dynamic that defines how lesser powers navigate great power conflicts, not how great powers end wars they've won.",
+    "realDisagreement": "The genuine fork is this: either the ceasefire reflects American coercive power successfully applied. Iran backed down, the Strait reopens, the war ends on US terms. or it reflects American coercive power successfully advertised but not actually used, with Iran preserving its core interests while Trump got a news cycle. You cannot hold both positions. The evidence leans toward the second: the deal's structure, Pakistan's role as intermediary (which would have been unnecessary if the US had real leverage), and the 10-point framework all point toward a negotiated exit rather than a dictated peace. The cost of that lean: it requires crediting Iran with strategic discipline under enormous pressure, which cuts against the narrative of a regime on the brink of collapse.",
+    "whatNoOneIsSaying": "Pakistan brokered this deal because the US and Iran could not communicate directly. which means the world's most powerful military could not talk to a country it had been bombing for 40 days without going through Islamabad. That is not a sign of strength. It is the kind of intermediary dynamic that defines how lesser powers navigate great power conflicts, not how great powers end wars they've won.",
     "whoPays": [
       {
         "who": "Iran's civilian population",
-        "how": "40 days of US and Israeli strikes on Iranian infrastructure — energy, transportation, military — created damage that sanctions-starved Iran will take years to repair, regardless of how the ceasefire is framed politically.",
+        "how": "40 days of US and Israeli strikes on Iranian infrastructure. energy, transportation, military. created damage that sanctions-starved Iran will take years to repair, regardless of how the ceasefire is framed politically.",
         "when": "Immediate and ongoing for years"
       },
       {
         "who": "Global shipping and energy markets",
-        "how": "The Strait of Hormuz was partially or fully blocked for weeks. Even with reopening, insurers, tanker operators, and commodity traders will price in the risk of a future closure for years — structurally raising the cost of Gulf oil transit.",
+        "how": "The Strait of Hormuz was partially or fully blocked for weeks. Even with reopening, insurers, tanker operators, and commodity traders will price in the risk of a future closure for years. structurally raising the cost of Gulf oil transit.",
         "when": "Immediate premium; structural repricing over 6-18 months"
       },
       {
         "who": "US credibility with other adversaries",
-        "how": "If the pattern — massive threat, 90-minute reversal, deal on adversary's framework — becomes the legible template, every government currently calculating whether Trump's threats are credible has new data to work with.",
+        "how": "If the pattern. massive threat, 90-minute reversal, deal on adversary's framework. becomes the legible template, every government currently calculating whether Trump's threats are credible has new data to work with.",
         "when": "Slow-burn; visible in next confrontation"
       }
     ],
@@ -85,7 +85,7 @@
       {
         "name": "Talks Collapse, Cycle Restarts",
         "whatHappens": "The ceasefire expires without a permanent deal; the US and Iran return to the pre-deal standoff, but now with Iran having demonstrated resilience and the US having shown it will negotiate rather than escalate. A lower-grade conflict becomes the new normal.",
-        "signal": "Iran raises new preconditions — sanctions relief, nuclear recognition — that the US publicly refuses before April 22"
+        "signal": "Iran raises new preconditions. sanctions relief, nuclear recognition. that the US publicly refuses before April 22"
       },
       {
         "name": "Israel Breaks the Deal",
@@ -93,7 +93,7 @@
         "signal": "Israeli government publicly distances itself from ceasefire terms within the first week; IDF air activity near Iranian border increases"
       }
     ],
-    "whatWouldChange": "If verified reporting shows that Iran's negotiating team explicitly accepted terms that were not in its original 10-point framework — concrete nuclear limitations, genuine proxy force reductions, verified military drawbacks — then the balance of concessions shifts and Trump's victory framing becomes credible. Absent that, the structure of the deal is the verdict.",
+    "whatWouldChange": "If verified reporting shows that Iran's negotiating team explicitly accepted terms that were not in its original 10-point framework. concrete nuclear limitations, genuine proxy force reductions, verified military drawbacks. then the balance of concessions shifts and Trump's victory framing becomes credible. Absent that, the structure of the deal is the verdict.",
     "whatHappened": "The US and Iran agreed to a two-week ceasefire on April 8, 2026, mediated by Pakistan. Trump declared total victory, claiming the US had achieved all military objectives. Iran released its 10-point peace plan, which included demands for full US withdrawal, acceptance of enrichment, sanction relief, and a binding UN resolution. The ceasefire terms closely follow Iran's framework rather than stated US objectives.",
     "markets": [
       {

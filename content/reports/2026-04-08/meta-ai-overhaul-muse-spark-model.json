@@ -3,7 +3,7 @@
   "date": "2026-04-08",
   "generatedAt": "2026-04-08T10:00:00Z",
   "title": "Meta's AI Mulligan",
-  "subtitle": "A 'ground-up overhaul' with Muse Spark reveals how far behind Meta fell in the AI race — and how desperate they are to catch up.",
+  "subtitle": "A 'ground-up overhaul' with Muse Spark reveals how far behind Meta fell in the AI race. and how desperate they are to catch up.",
   "category": "power",
   "tags": [
     "meta",
@@ -30,7 +30,7 @@
     }
   ],
   "brief": {
-    "bottomLine": "Meta's 'ground-up overhaul' of its AI admits they built the wrong thing first — but starting over while competitors iterate forward might be exactly the wrong strategy for a company that's already behind.",
+    "bottomLine": "Meta's 'ground-up overhaul' of its AI admits they built the wrong thing first. but starting over while competitors iterate forward might be exactly the wrong strategy for a company that's already behind.",
     "hiddenBets": [
       {
         "assumption": "Meta's social media integration gives them unique advantages in AI development that pure AI companies lack",
@@ -41,7 +41,7 @@
         "whyItMightBeWrong": "Starting over means losing accumulated learning and institutional knowledge while competitors keep improving their existing systems"
       }
     ],
-    "realDisagreement": "Whether Meta should be competing directly with AI leaders or focusing on AI-enhanced social media experiences. AI purists argue Meta should build the best possible AI regardless of social media constraints. Platform strategists argue Meta's advantage is in AI-powered social features, not general AI capabilities. Both can't be right about where Meta should focus limited resources. I lean toward the platform strategy being correct — Meta trying to out-AI OpenAI is probably doomed, but AI-enhanced social experiences could be defensible. What they're giving up is the chance to be an AI platform provider rather than just an AI consumer.",
+    "realDisagreement": "Whether Meta should be competing directly with AI leaders or focusing on AI-enhanced social media experiences. AI purists argue Meta should build the best possible AI regardless of social media constraints. Platform strategists argue Meta's advantage is in AI-powered social features, not general AI capabilities. Both can't be right about where Meta should focus limited resources. I lean toward the platform strategy being correct. Meta trying to out-AI OpenAI is probably doomed, but AI-enhanced social experiences could be defensible. What they're giving up is the chance to be an AI platform provider rather than just an AI consumer.",
     "whatNoOneIsSaying": "Meta's AI overhaul is really about reducing dependence on Google and OpenAI for the algorithms that will determine what billions of people see in their feeds.",
     "whoPays": [
       {

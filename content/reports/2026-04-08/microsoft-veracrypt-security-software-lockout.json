@@ -30,7 +30,7 @@
     }
   ],
   "brief": {
-    "bottomLine": "Microsoft's lockout of the VeraCrypt encryption developer exposes how platform gatekeepers can effectively ban security tools that compete with their own products — a power that makes independent security impossible.",
+    "bottomLine": "Microsoft's lockout of the VeraCrypt encryption developer exposes how platform gatekeepers can effectively ban security tools that compete with their own products. a power that makes independent security impossible.",
     "hiddenBets": [
       {
         "assumption": "Microsoft locked the account due to routine policy violations rather than competitive concerns",
@@ -41,7 +41,7 @@
         "whyItMightBeWrong": "Platform integration becomes so deep that alternative distribution breaks core functionality"
       }
     ],
-    "realDisagreement": "Whether platform gatekeepers should be able to restrict security software distribution. Microsoft defenders say platforms need control to prevent malware and maintain system stability. Security advocates say this power enables censorship of tools that protect against those same platforms. Both positions are reasonable, but they can't coexist. I lean toward the security advocate position — platform control over security tools creates inherent conflicts of interest that threaten user protection. But what we'd give up is the convenience and integration that platform control provides.",
+    "realDisagreement": "Whether platform gatekeepers should be able to restrict security software distribution. Microsoft defenders say platforms need control to prevent malware and maintain system stability. Security advocates say this power enables censorship of tools that protect against those same platforms. Both positions are reasonable, but they can't coexist. I lean toward the security advocate position. platform control over security tools creates inherent conflicts of interest that threaten user protection. But what we'd give up is the convenience and integration that platform control provides.",
     "whatNoOneIsSaying": "Microsoft probably sees independent encryption tools as a competitive threat to their cloud services business model, which depends on accessing user data.",
     "whoPays": [
       {
