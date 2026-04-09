@@ -1,0 +1,48 @@
+{
+  "date": "2026-04-09",
+  "threads": [
+    {
+      "id": "executive-authority-collapse",
+      "title": "Can the President Do Anything Without Congress?",
+      "description": "Four stories today are about the same constitutional question: whether the executive branch can act without legal authority. SCOTUS killed tariff power. Trump threatened new tariffs anyway. The EPA repealed its own scientific basis for regulation. DHS was funded by stripping the parts the president wanted. Each story is a different front in the same war over executive power.",
+      "type": "tension-cluster",
+      "stories": ["ieepa-collapse-executive-trade-power", "trump-iran-arms-tariff-threat-no-legal-basis", "epa-endangerment-finding-repeal", "dhs-shutdown-ice-left-unfunded"],
+      "connections": [
+        {
+          "from": "ieepa-collapse-executive-trade-power",
+          "to": "trump-iran-arms-tariff-threat-no-legal-basis",
+          "relationship": "SCOTUS stripped the tariff mechanism in February; by April the same administration was threatening tariffs with no named legal authority"
+        },
+        {
+          "from": "epa-endangerment-finding-repeal",
+          "to": "ieepa-collapse-executive-trade-power",
+          "relationship": "Both represent the executive branch losing (tariffs) or destroying (EPA) the legal foundations of its own power"
+        },
+        {
+          "from": "dhs-shutdown-ice-left-unfunded",
+          "to": "trump-iran-arms-tariff-threat-no-legal-basis",
+          "relationship": "Congress defunded ICE, showing it can block executive priorities; the tariff bluff shows the executive trying to act despite losing that authority"
+        }
+      ]
+    },
+    {
+      "id": "china-leverage-web",
+      "title": "China Is in Every Room",
+      "description": "China appears in the chip war, the Iran ceasefire, and the Taiwan KMT visit. Not as three separate stories but as one actor playing three boards simultaneously: controlling semiconductor materials, backing Iran's position at the UN, and splitting Taiwanese politics before the Trump-Xi summit. The timing is not coincidence.",
+      "type": "dependency-web",
+      "stories": ["match-act-chip-war-inp-export-controls", "kmt-beijing-visit-taiwan-wedge", "trump-iran-arms-tariff-threat-no-legal-basis"],
+      "connections": [
+        {
+          "from": "match-act-chip-war-inp-export-controls",
+          "to": "kmt-beijing-visit-taiwan-wedge",
+          "relationship": "China's InP export controls demonstrate material leverage that makes the KMT's economic engagement argument more compelling to Taiwanese businesses"
+        },
+        {
+          "from": "kmt-beijing-visit-taiwan-wedge",
+          "to": "trump-iran-arms-tariff-threat-no-legal-basis",
+          "relationship": "Beijing timed the KMT visit to split Taiwan's politics before the Trump-Xi summit, where Iran tariffs will be on the table"
+        }
+      ]
+    }
+  ]
+}

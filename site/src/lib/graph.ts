@@ -1,19 +1,21 @@
-import { getDayIndex, getReport, type Report } from "./reports";
+import { getDayIndex, getReport, getDayThreads, type Report, type Thread } from "./reports";
 
 export interface GraphNode {
   id: string;
   label: string;
-  type: "report" | "actor" | "tag";
+  type: "report" | "actor" | "thread";
   category?: string;
   topic?: string;
+  threadType?: string;
   url?: string;
-  weight: number; // number of connections
+  weight: number;
 }
 
 export interface GraphEdge {
   source: string;
   target: string;
-  type: "appears-in" | "shared-tag" | "shared-actor";
+  type: "appears-in" | "thread-link" | "cause-effect";
+  label?: string;
   weight: number;
 }
 
@@ -32,6 +34,8 @@ export function buildDayGraph(date: string): DayGraph | null {
     if (full) reports.push(full);
   }
 
+  const threads = getDayThreads(date);
+
   const nodes: GraphNode[] = [];
   const edges: GraphEdge[] = [];
   const nodeIds = new Set<string>();
@@ -41,7 +45,7 @@ export function buildDayGraph(date: string): DayGraph | null {
     const rid = `report:${r.id}`;
     nodes.push({
       id: rid,
-      label: r.title.length > 50 ? r.title.slice(0, 47) + "..." : r.title,
+      label: r.title.length > 45 ? r.title.slice(0, 42) + "..." : r.title,
       type: "report",
       category: r.category,
       topic: r.topic,
@@ -51,7 +55,50 @@ export function buildDayGraph(date: string): DayGraph | null {
     nodeIds.add(rid);
   }
 
-  // Extract actors from the actors field (normalized entity names)
+  // If we have threads, use them as the primary connection structure
+  if (threads && threads.threads.length > 0) {
+    for (const thread of threads.threads) {
+      const tid = `thread:${thread.id}`;
+      nodes.push({
+        id: tid,
+        label: thread.title,
+        type: "thread",
+        threadType: thread.type,
+        weight: thread.stories.length,
+      });
+      nodeIds.add(tid);
+
+      // Connect stories to thread
+      for (const storyId of thread.stories) {
+        const rid = `report:${storyId}`;
+        if (nodeIds.has(rid)) {
+          edges.push({
+            source: rid,
+            target: tid,
+            type: "thread-link",
+            weight: 2,
+          });
+        }
+      }
+
+      // Add directional cause-effect edges between stories
+      for (const conn of thread.connections) {
+        const fromId = `report:${conn.from}`;
+        const toId = `report:${conn.to}`;
+        if (nodeIds.has(fromId) && nodeIds.has(toId)) {
+          edges.push({
+            source: fromId,
+            target: toId,
+            type: "cause-effect",
+            label: conn.relationship,
+            weight: 3,
+          });
+        }
+      }
+    }
+  }
+
+  // Also add shared actors as secondary connections
   const actorToReports = new Map<string, string[]>();
   for (const r of reports) {
     for (const actor of r.actors || []) {
@@ -61,7 +108,6 @@ export function buildDayGraph(date: string): DayGraph | null {
     }
   }
 
-  // Only include actors that appear in 2+ reports (connections)
   for (const [actorKey, reportIds] of actorToReports) {
     if (reportIds.length < 2) continue;
     const aid = `actor:${actorKey}`;
@@ -71,7 +117,7 @@ export function buildDayGraph(date: string): DayGraph | null {
 
     nodes.push({
       id: aid,
-      label: originalName.length > 40 ? originalName.slice(0, 37) + "..." : originalName,
+      label: originalName,
       type: "actor",
       weight: reportIds.length,
     });
@@ -87,42 +133,6 @@ export function buildDayGraph(date: string): DayGraph | null {
     }
   }
 
-  // Find shared tags between reports
-  const tagToReports = new Map<string, string[]>();
-  for (const r of reports) {
-    for (const tag of r.tags || []) {
-      const tagKey = tag.toLowerCase().trim();
-      if (!tagToReports.has(tagKey)) tagToReports.set(tagKey, []);
-      tagToReports.get(tagKey)!.push(r.id);
-    }
-  }
-
-  // Add tag nodes for tags shared across 2+ reports
-  for (const [tagKey, reportIds] of tagToReports) {
-    if (reportIds.length < 2) continue;
-    const tid = `tag:${tagKey}`;
-    const originalTag = reports
-      .flatMap((r) => r.tags || [])
-      .find((t) => t.toLowerCase().trim() === tagKey) || tagKey;
-
-    nodes.push({
-      id: tid,
-      label: originalTag,
-      type: "tag",
-      weight: reportIds.length,
-    });
-    nodeIds.add(tid);
-
-    for (const rid of reportIds) {
-      edges.push({
-        source: `report:${rid}`,
-        target: tid,
-        type: "shared-tag",
-        weight: 1,
-      });
-    }
-  }
-
   // Update report node weights
   for (const node of nodes) {
     if (node.type === "report") {
@@ -132,8 +142,6 @@ export function buildDayGraph(date: string): DayGraph | null {
     }
   }
 
-  // Only return if there are actual connections
   if (edges.length === 0) return null;
-
   return { nodes, edges };
 }

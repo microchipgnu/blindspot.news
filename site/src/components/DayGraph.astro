@@ -37,7 +37,8 @@ const { graph } = Astro.props;
         <div class="flex items-center gap-3 text-[11px] text-[#666]">
           <span class="flex items-center gap-1"><span class="inline-block h-2.5 w-2.5 rounded-full bg-[#c43d2e]"></span> story</span>
           <span class="flex items-center gap-1"><span class="inline-block h-2.5 w-2.5 rounded-full bg-[#d4a843]"></span> actor</span>
-          <span class="flex items-center gap-1"><span class="inline-block h-2.5 w-2.5 rounded-full bg-[#5b8db8]"></span> topic</span>
+          <span class="flex items-center gap-1"><span class="inline-block h-2.5 w-2.5 rounded-full bg-[#4caf7a]"></span> thread</span>
+          <span class="flex items-center gap-1"><span class="inline-block h-3 w-3 border-t border-[#4caf7a]"></span> causes</span>
         </div>
         <button id="graph-close" class="text-[24px] leading-none text-[#666] hover:text-[#e5e5e5]">&times;</button>
       </div>
@@ -92,8 +93,21 @@ const { graph } = Astro.props;
     const typeColors = {
       report: "#c43d2e",
       actor: "#d4a843",
-      tag: "#5b8db8",
+      thread: "#4caf7a",
     };
+
+    // Arrow marker for cause-effect edges
+    svg.append("defs").append("marker")
+      .attr("id", "arrow")
+      .attr("viewBox", "0 -5 10 10")
+      .attr("refX", 20)
+      .attr("refY", 0)
+      .attr("markerWidth", 6)
+      .attr("markerHeight", 6)
+      .attr("orient", "auto")
+      .append("path")
+      .attr("d", "M0,-5L10,0L0,5")
+      .attr("fill", "#4caf7a");
 
     const simulation = d3.forceSimulation(graph.nodes)
       .force("link", d3.forceLink(graph.edges).id(d => d.id).distance(120))
@@ -105,9 +119,10 @@ const { graph } = Astro.props;
       .selectAll("line")
       .data(graph.edges)
       .join("line")
-      .attr("stroke", "#333")
-      .attr("stroke-opacity", 0.4)
-      .attr("stroke-width", d => d.weight * 1.5);
+      .attr("stroke", d => d.type === "cause-effect" ? "#4caf7a" : d.type === "thread-link" ? "#4caf7a40" : "#333")
+      .attr("stroke-opacity", d => d.type === "cause-effect" ? 0.8 : 0.4)
+      .attr("stroke-width", d => d.type === "cause-effect" ? 2 : d.weight * 1.5)
+      .attr("marker-end", d => d.type === "cause-effect" ? "url(#arrow)" : null);
 
     const node = svg.append("g")
       .selectAll("g")

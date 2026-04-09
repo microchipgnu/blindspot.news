@@ -138,6 +138,34 @@ export function getAllReports(): { date: string; slug: string }[] {
   return all;
 }
 
+// --- Threads ---
+
+export interface ThreadConnection {
+  from: string;
+  to: string;
+  relationship: string;
+}
+
+export interface Thread {
+  id: string;
+  title: string;
+  description: string;
+  type: "cause-effect" | "dependency-web" | "tension-cluster";
+  stories: string[];
+  connections: ThreadConnection[];
+}
+
+export interface DayThreads {
+  date: string;
+  threads: Thread[];
+}
+
+export function getDayThreads(date: string): DayThreads | null {
+  const threadsPath = path.join(CONTENT_DIR, date, "threads.json");
+  if (!fs.existsSync(threadsPath)) return null;
+  return JSON.parse(fs.readFileSync(threadsPath, "utf-8"));
+}
+
 // --- Graph layer ---
 
 let _allReportsCache: Report[] | null = null;

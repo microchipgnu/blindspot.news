@@ -1,0 +1,62 @@
+{
+  "date": "2026-04-08",
+  "threads": [
+    {
+      "id": "coercion-cascade",
+      "title": "The Coercion Cascade",
+      "description": "The SCOTUS tariff ruling stripped Trump's primary economic weapon. Without trade leverage, the Iran ceasefire shifted to Iran's terms. Spain read the weakness and broke ranks. Three stories, one chain: lost legal authority, weakened bargaining position, emboldened dissent.",
+      "type": "cause-effect",
+      "stories": ["trump-tariffs-illegal-no-refunds-liberation-day", "iran-ceasefire-10-point-plan", "spain-sanchez-rebuke"],
+      "connections": [
+        {
+          "from": "trump-tariffs-illegal-no-refunds-liberation-day",
+          "to": "iran-ceasefire-10-point-plan",
+          "relationship": "SCOTUS killing tariff authority reduced Trump's economic leverage over Iran's trading partners"
+        },
+        {
+          "from": "iran-ceasefire-10-point-plan",
+          "to": "spain-sanchez-rebuke",
+          "relationship": "Iran's 10-point plan made the ceasefire look like a US retreat, giving Spain cover to publicly dissent"
+        }
+      ]
+    },
+    {
+      "id": "platform-power-test",
+      "title": "Who Decides What You Can Use?",
+      "description": "Three stories are about the same question: can platform owners lock out tools, users, and competitors they don't like? Microsoft locked out VeraCrypt. Social media platforms are being held liable for design choices. Greece is banning children from platforms entirely. Each one tests a different edge of platform gatekeeping.",
+      "type": "tension-cluster",
+      "stories": ["microsoft-veracrypt-security-software-lockout", "social-media-addiction-liability-breakthrough", "greece-social-media-ban-children-global-trend"],
+      "connections": [
+        {
+          "from": "microsoft-veracrypt-security-software-lockout",
+          "to": "social-media-addiction-liability-breakthrough",
+          "relationship": "Both test whether platforms can be held accountable for how they use their gatekeeping power"
+        },
+        {
+          "from": "social-media-addiction-liability-breakthrough",
+          "to": "greece-social-media-ban-children-global-trend",
+          "relationship": "The liability ruling creates legal precedent that governments like Greece are now legislating ahead of"
+        }
+      ]
+    },
+    {
+      "id": "hormuz-veto-energy",
+      "title": "The Strait Nobody Controls",
+      "description": "China and Russia vetoed the Hormuz resolution not to protect Iran but because a disrupted strait serves their interests. Iran uses Hormuz as leverage in the ceasefire. The ceasefire itself was driven partly by the global energy crisis the closure caused. Three stories orbiting the same chokepoint.",
+      "type": "dependency-web",
+      "stories": ["china-russia-hormuz-veto-un-security-council", "iran-ceasefire-10-point-plan", "trump-iran-ceasefire-victory-or-surrender"],
+      "connections": [
+        {
+          "from": "china-russia-hormuz-veto-un-security-council",
+          "to": "iran-ceasefire-10-point-plan",
+          "relationship": "The veto kept international pressure off Iran's Hormuz closure, strengthening Iran's negotiating position"
+        },
+        {
+          "from": "iran-ceasefire-10-point-plan",
+          "to": "trump-iran-ceasefire-victory-or-surrender",
+          "relationship": "Iran's strong position (backed by the veto) forced Trump to accept terms closer to Iran's 10 points"
+        }
+      ]
+    }
+  ]
+}

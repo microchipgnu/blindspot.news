@@ -216,7 +216,49 @@ Also write `content/reports/YYYY-MM-DD/index.json`:
 }
 ```
 
-## Phase 7: Update state
+## Phase 7: Find the threads
+
+**After writing ALL briefs for the day**, read them back and look across the full set. Find connections that are invisible in any single brief.
+
+Write `content/reports/YYYY-MM-DD/threads.json`:
+
+```json
+{
+  "date": "YYYY-MM-DD",
+  "threads": [
+    {
+      "id": "thread-slug",
+      "title": "Short name for this thread",
+      "description": "2-3 sentences explaining what connects these stories and why it matters. This should be a genuine insight, not just 'these stories share an actor.'",
+      "type": "cause-effect|dependency-web|tension-cluster",
+      "stories": ["story-slug-1", "story-slug-2", "story-slug-3"],
+      "connections": [
+        {
+          "from": "story-slug-1",
+          "to": "story-slug-2",
+          "relationship": "One sentence: how story 1 causes, enables, or constrains story 2"
+        }
+      ]
+    }
+  ]
+}
+```
+
+Three types of threads:
+
+**cause-effect**: Story A caused or enabled Story B. "The SCOTUS tariff ruling weakened Trump's trade leverage, which shifted the Iran ceasefire terms in Iran's favor."
+
+**dependency-web**: Actors in different stories are connected through dependencies invisible in any single brief. "Pakistan mediates the Iran deal but depends on Saudi Arabia, which is simultaneously doing the AI chip deal that bypasses US export controls."
+
+**tension-cluster**: Multiple stories are secretly about the same underlying question. "Four stories today are about whether the executive branch can act without legal authority: tariffs, Iran threats, EPA repeal, DHS funding."
+
+Rules:
+- Only include threads where the connection is genuinely non-obvious. "Trump is in both stories" is not a thread.
+- Each thread must have a `connections` array with specific directional relationships between stories.
+- 2-4 threads per day is ideal. Don't force it. If there's only 1 real thread, write 1.
+- The `description` is the most important field. It should make the reader think "I didn't see that."
+
+## Phase 8: Update state
 
 Update `.philos/state.json` — increment `cycle`, set `lastRun`, update `reportsGenerated`.
 
