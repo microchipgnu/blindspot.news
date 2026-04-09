@@ -1,0 +1,85 @@
+{
+  "id": "kmt-beijing-visit-taiwan-wedge",
+  "date": "2026-04-09",
+  "generatedAt": "2026-04-09T08:40:00Z",
+  "title": "Beijing Invited the Opposition. Taiwan's Government Should Be Alarmed.",
+  "subtitle": "The KMT chair's 'Journey of Peace' to Beijing is a sophisticated move to split Taiwanese politics before Trump meets Xi.",
+  "category": "power",
+  "tags": ["taiwan", "china", "kmt", "xi-jinping", "trump", "diplomacy", "cross-strait"],
+  "sources": [
+    {
+      "url": "https://foreignpolicy.com/2026/04/08/xi-jinping-cheng-li-wun-taiwan-trump-strait/",
+      "publisher": "Foreign Policy",
+      "angle": "Beijing is using the KMT visit to reinforce its narrative that Taiwan is a domestic Chinese matter separate from US-China relations, and to cultivate the more China-friendly opposition party ahead of Taiwan's next electoral cycle."
+    },
+    {
+      "url": "https://foreignpolicy.com/2026/04/08/xi-jinping-cheng-li-wun-china-taiwan-meeting-invasion/",
+      "publisher": "Foreign Policy",
+      "angle": "Counterargument: Beijing's willingness to host Cheng reflects genuine preference for peaceful reunification, and the visit should be read as China keeping a diplomatic channel alive rather than as a wedge operation."
+    },
+    {
+      "url": "https://www.channelnewsasia.com/east-asia/kmt-chair-china-trip-signals-beijing-washington-taipei-6036701",
+      "publisher": "Channel News Asia",
+      "angle": "Three-front analysis: the visit simultaneously signals to Beijing it has willing partners, to Washington that Beijing has alternatives to deal with, and to Taipei's DPP that it faces a credibility problem as the 'war party' in domestic politics."
+    },
+    {
+      "url": "https://www.npr.org/2026/04/07/nx-s1-5776401/taiwan-opposition-arrives-china",
+      "publisher": "NPR",
+      "angle": "Context-setter framing the visit explicitly around Trump's upcoming summit with Xi where Taiwan is the top agenda item — Cheng's arrival described as 'Journey of Peace' while Beijing extends rare welcome."
+    }
+  ],
+  "brief": {
+    "bottomLine": "Beijing is not talking to Taiwan's opposition because it wants peace — it is talking to Taiwan's opposition because doing so makes Taiwan's elected government look like the obstacle to peace, and the timing before Trump's summit is not a coincidence.",
+    "hiddenBets": [
+      {
+        "assumption": "The KMT's engagement with Beijing is primarily driven by KMT ideology and historical ties — the party that fought the CCP now prefers economic engagement over confrontation.",
+        "whyItMightBeWrong": "The KMT's domestic political incentive is equally important: by positioning itself as the 'peace party,' it attacks the ruling DPP's vulnerability on the cost-of-conflict question. Beijing may be hosting the KMT less because it trusts them and more because the visit damages Taiwan's governing party regardless of what happens."
+      },
+      {
+        "assumption": "China's interest in the visit is primarily about managing Taiwan domestically — keeping a diplomatic track alive for eventual reunification.",
+        "whyItMightBeWrong": "The visit is timed for April 7-12, explicitly before Trump's planned summit with Xi. If Beijing's interest were purely domestic Taiwan management, timing it after the Trump-Xi summit would carry less risk of complicating the agenda. Timing it before signals the visit is partly meant to shape what Trump and Xi discuss — specifically, to signal that Washington's framing of an isolated Beijing facing a unified democratic Taiwan is not accurate."
+      },
+      {
+        "assumption": "Taiwan's DPP government can manage the political damage from the KMT visit by pointing to China's authoritarian record.",
+        "whyItMightBeWrong": "The DPP's argument works well with Western audiences and Taiwan's security community, but domestic Taiwanese audiences — particularly in central and southern Taiwan — are increasingly price-sensitive about the cost of confrontation. The 'peace party' framing resonates with voters who don't want to bear those costs, regardless of who is morally correct about Beijing's intentions."
+      }
+    ],
+    "realDisagreement": "The real fork is whether engaging Beijing through the KMT channel actually reduces the probability of conflict or simply makes Taiwan more politically vulnerable to the conditions Beijing needs to justify coercive action. Engagement optimists argue that any open channel reduces miscalculation risk — Beijing knowing it has willing partners in Taiwan makes escalation less necessary. Engagement skeptics argue that every concession extracted from the KMT in exchange for the 'peace' framing narrows the range of outcomes Taiwan's government can credibly defend. I lean toward the skeptics: Beijing's record of using economic and diplomatic engagement to fragment the political opposition in Hong Kong before 2019 is the relevant template, not any peaceful reunification precedent.",
+    "whatNoOneIsSaying": "Taiwan's elected government has no good move here. If it criticizes the KMT visit loudly, it looks like it is afraid of peace talks, which is exactly the domestic political damage Beijing wants to inflict. If it stays quiet, the KMT gets to define the terms of cross-strait engagement in the public narrative for the weeks before Trump meets Xi. The DPP is being played in a game where the rules were set by Beijing.",
+    "whoPays": [
+      {
+        "who": "Taiwan's Democratic Progressive Party",
+        "how": "Every day of positive KMT-Beijing coverage is a domestic political cost — the DPP's security-first posture becomes harder to sell to voters who see the opposition shaking hands with Xi while their government talks about war risk.",
+        "when": "Immediate; ongoing into Taiwan's next electoral cycle"
+      },
+      {
+        "who": "Taiwan's semiconductor and tech sector",
+        "how": "The cross-strait political uncertainty that the visit both reflects and intensifies keeps a security premium on Taiwan operations — foreign investors and supply chain partners continue diversifying away from Taiwan-based production, even if slowly.",
+        "when": "Slow-burn over 2-5 years"
+      },
+      {
+        "who": "Trump's negotiating position in the Xi summit",
+        "how": "If Beijing can demonstrate to Trump that Taiwan's own opposition prefers engagement over confrontation, it weakens Trump's ability to use Taiwan as leverage — Beijing can plausibly argue it is the reasonable party and Washington is the aggressor.",
+        "when": "Within 4-6 weeks, at the summit"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Xi-KMT Agreement, DPP Isolated",
+        "whatHappens": "Cheng and Xi issue a joint statement endorsing some version of the '1992 Consensus' framework. The DPP government formally objects but is politically weakened ahead of the Trump-Xi summit, which proceeds with Beijing holding an enhanced narrative advantage.",
+        "signal": "A joint communiqué from the Xi-Cheng meeting references the '1992 Consensus' or 'one China' principle without explicit DPP objection"
+      },
+      {
+        "name": "Symbolic Visit, No Deliverables",
+        "whatHappens": "The visit produces only a 'peace gesture' — warm photos, general statements, no specific framework. Both sides benefit from the optics without making commitments either can be held to. Taiwan's DPP is still politically bruised but the damage is bounded.",
+        "signal": "No joint statement issued; Cheng describes the visit as 'productive' but declines to specify agreements"
+      },
+      {
+        "name": "Trump Trades Taiwan at Xi Summit",
+        "whatHappens": "Trump, citing the KMT engagement as proof that cross-strait tension is manageable, agrees at the Xi summit to reduce US arms sales to Taiwan in exchange for Chinese concessions on trade or Iran. The KMT visit becomes the retrospective justification.",
+        "signal": "A leaked or announced reduction in the US-Taiwan arms sale pipeline within 90 days of the Trump-Xi summit"
+      }
+    ],
+    "whatWouldChange": "If Cheng returns from Beijing with a concrete Chinese concession — something Beijing has given rather than only demanded — then the visit is genuine diplomacy rather than a one-sided political operation. Absent that, the ledger runs entirely in Beijing's direction."
+  }
+}

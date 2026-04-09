@@ -1,0 +1,90 @@
+{
+  "id": "federal-ai-preemption-fight",
+  "date": "2026-04-09",
+  "generatedAt": "2026-04-09T08:40:00Z",
+  "title": "Zero Federal AI Laws, 1,561 State Bills, and a White House Framework Nobody Has to Follow",
+  "subtitle": "The US has no binding AI law while the EU enforces its Act across 27 countries. The federal-state collision is now the biggest AI governance story in the world.",
+  "category": "power",
+  "tags": ["ai", "regulation", "federal", "states", "preemption", "congress", "trump", "tech-policy"],
+  "sources": [
+    {
+      "url": "https://www.mlstrategies.com/insights-center/viewpoints/54031/2026-04-02-white-house-releases-national-ai-legislative-framework",
+      "publisher": "ML Strategies",
+      "angle": "Detailed breakdown of the White House's March 20 nonbinding framework — 27 recommendations across 7 policy areas, directing Congress to build a federally centralized AI regime and preempt state rules, prepared by OSTP Director Kratsios and AI advisor David Sacks."
+    },
+    {
+      "url": "https://chatforest.com/guides/us-state-ai-legislation-tracker-2026/",
+      "publisher": "ChatForest",
+      "angle": "Data-driven overview: 1,561 AI bills across 45 states by March 2026, already exceeding all of 2024, creating compliance chaos for AI developers while the White House uses executive orders and funding leverage to preempt state laws."
+    },
+    {
+      "url": "https://www.altitudesmagazine.com/congress-has-yet-pass-single-federal-law-while-40-states-draft/",
+      "publisher": "Altitudes Magazine",
+      "angle": "The EU comparison: AI Act in active enforcement across 27 countries while the US has passed zero binding federal AI laws, framing the governance gap as increasingly consequential for America's competitive position."
+    },
+    {
+      "url": "https://dhinsights.org/blog/white-house-ai-plan-sets-up-clash-in-congress-over-federal-vs-state-rules/",
+      "publisher": "Digital Health Insights",
+      "angle": "The political collision: the White House framework triggered immediate Democratic opposition and is seen as the opening round of a prolonged federal-state legislative battle, with Sacks' advisory role having expired just days after the framework dropped."
+    },
+    {
+      "url": "https://redmondspokesman.com/2026/04/07/commentary-trumps-ai-framework-what-does-it-accomplish/",
+      "publisher": "Redmond Spokesman",
+      "angle": "Skeptical take: the framework is largely aspirational, lacks enforcement mechanisms, and cannot unify fragmented state regulation on its own — the question is whether voluntary federal guidance is a governance strategy or a regulatory vacuum."
+    }
+  ],
+  "brief": {
+    "bottomLine": "The White House released an AI framework with no legal force, Congress has passed zero AI laws, the EU is actively enforcing its Act, and 45 states are writing their own rules — the US is not winning the AI governance race by moving fast, it is losing it by failing to move at all.",
+    "hiddenBets": [
+      {
+        "assumption": "Federal preemption of state AI laws would be good for innovation because it creates a uniform national standard that companies can build against.",
+        "whyItMightBeWrong": "A uniform federal standard is only better than a state patchwork if the federal standard is actually effective. A weak or unenforced federal framework that preempts stronger state laws produces the worst of both worlds: states cannot protect their residents, and the federal standard does nothing. The 2025 attempt to ban state AI laws for 10 years failed 99-1 in the Senate partly because legislators understood this."
+      },
+      {
+        "assumption": "Congressional inaction on AI is a failure of process — if Congress could just get organized, it would pass something reasonable.",
+        "whyItMightBeWrong": "Congressional inaction on AI may be a rational response to the industry's lobbying position, which is split. Large incumbents (Microsoft, Google, OpenAI) favor federal preemption because they can manage one federal standard; startups and open-source developers fear that any federal law will entrench the incumbents. Congress has no coalition to pass anything because the industry has no unified ask."
+      },
+      {
+        "assumption": "The EU's AI Act is the benchmark the US should be measured against — active enforcement across 27 countries represents effective governance.",
+        "whyItMightBeWrong": "EU enforcement of the AI Act is so far almost entirely procedural — companies are registering systems, setting up governance structures, and filing documentation. There have been few actual enforcement actions against deployed AI harms. The EU may have traded speed of legislation for depth of impact, and it is too early to know whether the Act's requirements will change AI behavior in practice."
+      }
+    ],
+    "realDisagreement": "The genuine fork is whether the right model for AI governance is top-down federal uniformity — one standard, one regulator, preempt the states — or bottom-up regulatory experimentation, where states try different approaches and the federal government eventually consolidates what works. Both positions have real merit. Uniformity reduces compliance burden and prevents regulatory arbitrage where companies relocate to the most permissive state. Experimentation produces learning — California's AI transparency requirements and Colorado's algorithmic accountability rules are generating real-world data about what works. The honest answer is that the US is doing neither: it has regulatory experimentation without any consolidation mechanism, which means the experimentation produces knowledge that nobody is synthesizing. I lean toward the view that a weak federal floor plus preserved state authority to go further is better than either extreme — but Congress would have to actually pass something, which so far it has shown no ability to do.",
+    "whatNoOneIsSaying": "David Sacks, who co-authored the White House's AI framework, had his advisory term expire a few days after the framework was released. The framework that is now being used to justify federal preemption of state AI laws was written by someone who no longer officially works for the government, has not been confirmed by the Senate, and whose financial interests in AI companies were never fully disclosed. The document's authority rests entirely on the president's willingness to act on it — and Congress is under no obligation to do so.",
+    "whoPays": [
+      {
+        "who": "Small AI developers and startups",
+        "how": "1,561 state bills means 1,561 potential compliance requirements across different jurisdictions. Each state that passes its own definition of 'high-risk AI' creates a legal obligation that large companies can manage with compliance teams and small companies cannot. The patchwork is regressive — it costs more per dollar of revenue for small players.",
+        "when": "Immediate and accelerating through 2026"
+      },
+      {
+        "who": "Residents of states with no AI law",
+        "how": "If federal preemption succeeds and the federal framework remains nonbinding or weak, residents of states that have not passed their own AI protections — and that the federal standard would now prohibit from doing so — have no recourse for AI-driven harms in hiring, lending, healthcare, and criminal justice.",
+        "when": "Slow-burn; visible only after specific harms occur and victims find they have no legal path"
+      },
+      {
+        "who": "US AI companies competing internationally",
+        "how": "EU companies building to the AI Act have compliance certainty. US companies building for the US market face a moving target — a patchwork of state rules today, possible federal preemption next year, potentially replaced by something else the year after. Investment in compliance infrastructure is risky, so some companies delay it, which widens the gap with EU competitors who have clarity.",
+        "when": "Medium-term; 12-36 months"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Federal Floor Passes, States Keep Upside",
+        "whatHappens": "Congress passes a narrow federal AI bill — covering only high-risk sectors like hiring, credit, and healthcare — that sets minimum requirements but explicitly preserves states' ability to enact stronger protections. The patchwork narrows but does not disappear.",
+        "signal": "A bipartisan Senate bill with co-sponsors from states that have already passed AI laws is introduced before the end of Q2 2026"
+      },
+      {
+        "name": "Preemption Wins, Framework Stays Weak",
+        "whatHappens": "The White House framework is codified into legislation that preempts state AI laws but contains no enforcement mechanism and no new regulatory body. Large incumbents win; state-level consumer and worker protections are invalidated; nothing materially changes in how AI systems are deployed.",
+        "signal": "A federal AI bill is introduced that explicitly preempts state laws while delegating oversight to existing agencies without new rulemaking authority"
+      },
+      {
+        "name": "States Dig In, Federal Effort Collapses",
+        "whatHappens": "Congress fails to pass anything; the White House framework generates legal challenges from blue-state AGs arguing that executive preemption of state law requires congressional authorization; the regulatory patchwork deepens into genuine fragmentation that starts visibly hurting US AI market development.",
+        "signal": "California or Colorado AG sues to block executive AI preemption orders within 60 days of framework implementation"
+      }
+    ],
+    "whatWouldChange": "If Congress passes a binding federal AI law with actual enforcement authority and teeth — not a framework, not recommendations, not a voluntary standard — then the bottom line changes. A credible federal law with real enforcement would be a genuine governance development. So far there is no evidence Congress is capable of producing one."
+  }
+}
