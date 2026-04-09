@@ -12,39 +12,48 @@ const { day, prevDate, nextDate } = Astro.props;
 let leadBrief: string | null = null;
 if (day.reports.length > 0) {
   const lead = getReport(day.date, day.reports[0].id);
-  if (lead) leadBrief = lead.brief.bottomLine;
+  if (lead) {
+    const bl = lead.brief.bottomLine;
+    leadBrief = bl.length > 160 ? bl.slice(0, 157).replace(/\s+\S*$/, "") + "..." : bl;
+  }
 }
 
 function formatDate(dateStr: string): string {
   const d = new Date(dateStr + "T12:00:00Z");
   return d.toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric", year: "numeric" });
 }
+
+function shortDate(dateStr: string): string {
+  const d = new Date(dateStr + "T12:00:00Z");
+  return d.toLocaleDateString("en-US", { month: "short", day: "numeric" });
+}
+
+const rest = day.reports.slice(1);
+const hasOddRest = rest.length % 2 !== 0;
+const gridItems = hasOddRest ? rest.slice(0, -1) : rest;
+const lastItem = hasOddRest ? rest[rest.length - 1] : null;
 ---
 
 <!-- Date bar with nav -->
-<div class="flex items-center justify-between border-b border-[var(--color-border)] py-6">
-  <div class="flex items-center gap-4">
-    {prevDate ? (
-      <a href={`/day/${prevDate}`} class="text-[13px] font-medium text-[var(--color-text-tertiary)] hover:text-[var(--color-text)]">&larr; {prevDate}</a>
-    ) : (
-      <span />
-    )}
-  </div>
+<div class="flex items-center justify-between border-b border-[var(--color-border)] py-4">
+  {prevDate ? (
+    <a href={`/day/${prevDate}`} class="text-[13px] font-medium text-[var(--color-text-tertiary)] hover:text-[var(--color-text)]">&larr; {shortDate(prevDate)}</a>
+  ) : (
+    <span />
+  )}
   <p class="text-[13px] font-medium uppercase tracking-widest text-[var(--color-text-tertiary)]">{formatDate(day.date)}</p>
-  <div class="flex items-center gap-4">
-    {nextDate ? (
-      <a href={`/day/${nextDate}`} class="text-[13px] font-medium text-[var(--color-text-tertiary)] hover:text-[var(--color-text)]">{nextDate} &rarr;</a>
-    ) : (
-      <span class="text-[13px] font-medium text-[var(--color-accent)]">latest</span>
-    )}
-  </div>
+  {nextDate ? (
+    <a href={`/day/${nextDate}`} class="text-[13px] font-medium text-[var(--color-text-tertiary)] hover:text-[var(--color-text)]">{shortDate(nextDate)} &rarr;</a>
+  ) : (
+    <span />
+  )}
 </div>
 
 {day.reports.length > 0 && (
   <!-- Hero: lead story -->
   <a
     href={`/report/${day.date}/${day.reports[0].id}`}
-    class="group block border-b border-[var(--color-border)] py-10"
+    class="group block border-b border-[var(--color-border)] py-8"
   >
     <div class="flex items-baseline gap-3">
       {day.reports[0].topic && (
@@ -60,20 +69,24 @@ function formatDate(dateStr: string): string {
       {day.reports[0].title}
     </h2>
     {leadBrief && (
-      <p class="mt-4 max-w-2xl font-serif text-[20px] italic leading-relaxed text-[var(--color-text-secondary)]">
+      <p class="mt-3 max-w-2xl font-serif text-[19px] italic leading-snug text-[var(--color-text-secondary)]">
         {leadBrief}
       </p>
     )}
   </a>
 )}
 
-{day.reports.length > 1 && (
-  <!-- Rest of the stories -->
-  <div class="grid gap-px border-b border-[var(--color-border)] md:grid-cols-2">
-    {day.reports.slice(1).map((r) => (
+{gridItems.length > 0 && (
+  <!-- Paired stories in 2-col grid -->
+  <div class="grid border-b border-[var(--color-border)] md:grid-cols-2">
+    {gridItems.map((r, i) => (
       <a
         href={`/report/${day.date}/${r.id}`}
-        class="group block border-b border-[var(--color-border)] p-6 transition-colors hover:bg-[var(--color-surface-warm)] md:border-b-0 md:border-r md:last:border-r-0"
+        class:list={[
+          "group block p-6 transition-colors hover:bg-[var(--color-surface-warm)]",
+          i % 2 === 0 && "md:border-r md:border-[var(--color-border)]",
+          i < gridItems.length - 2 && "border-b border-[var(--color-border)]",
+        ]}
       >
         <div class="flex items-baseline gap-3">
           {r.topic && (
@@ -94,4 +107,29 @@ function formatDate(dateStr: string): string {
       </a>
     ))}
   </div>
+)}
+
+{lastItem && (
+  <!-- Orphan story: full width -->
+  <a
+    href={`/report/${day.date}/${lastItem.id}`}
+    class="group block border-b border-[var(--color-border)] p-6 transition-colors hover:bg-[var(--color-surface-warm)]"
+  >
+    <div class="flex items-baseline gap-3">
+      {lastItem.topic && (
+        <span class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-text-tertiary)]">
+          {lastItem.topic}
+        </span>
+      )}
+      <span class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-accent)]">
+        {lastItem.category}
+      </span>
+    </div>
+    <h3 class="mt-2 font-serif text-[22px] leading-tight group-hover:text-[var(--color-accent)]">
+      {lastItem.title}
+    </h3>
+    <p class="mt-2 text-[14px] leading-relaxed text-[var(--color-text-secondary)]">
+      {lastItem.subtitle}
+    </p>
+  </a>
 )}
