@@ -8,16 +8,72 @@ interface Props {
 const { graph } = Astro.props;
 ---
 
-<div class="my-8 overflow-hidden rounded-lg border border-[var(--color-border)] bg-[var(--color-surface-dark)]">
-  <div class="px-5 pt-4">
-    <p class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-accent)]">Today's connections</p>
-    <p class="mt-1 text-[12px] text-[#888]">Shared actors and themes across briefs</p>
+<!-- Trigger button -->
+<button
+  id="graph-trigger"
+  class="mt-6 flex items-center gap-2 rounded-full border border-[var(--color-border)] px-4 py-2 text-[13px] text-[var(--color-text-tertiary)] transition-colors hover:border-[var(--color-accent)] hover:text-[var(--color-accent)]"
+>
+  <svg width="14" height="14" viewBox="0 0 14 14" fill="none" class="opacity-60">
+    <circle cx="3" cy="3" r="2" stroke="currentColor" stroke-width="1.2"/>
+    <circle cx="11" cy="5" r="2" stroke="currentColor" stroke-width="1.2"/>
+    <circle cx="5" cy="11" r="2" stroke="currentColor" stroke-width="1.2"/>
+    <line x1="4.5" y1="4" x2="9.5" y2="4.5" stroke="currentColor" stroke-width="1"/>
+    <line x1="4" y1="4.5" x2="5" y2="9.5" stroke="currentColor" stroke-width="1"/>
+    <line x1="9.5" y1="6.5" x2="6.5" y2="10" stroke="currentColor" stroke-width="1"/>
+  </svg>
+  Connections
+</button>
+
+<!-- Modal -->
+<div id="graph-modal" class="fixed inset-0 z-50 hidden">
+  <div id="graph-backdrop" class="absolute inset-0 bg-black/70"></div>
+  <div class="absolute inset-4 flex flex-col overflow-hidden rounded-xl bg-[var(--color-surface-dark)] md:inset-8 lg:inset-16">
+    <div class="flex items-center justify-between px-6 py-4">
+      <div>
+        <p class="text-[13px] font-semibold text-[#e5e5e5]">Today's connections</p>
+        <p class="mt-0.5 text-[11px] text-[#666]">Shared actors and themes across briefs. Drag to explore. Click a story to open it.</p>
+      </div>
+      <div class="flex items-center gap-4">
+        <div class="flex items-center gap-3 text-[11px] text-[#666]">
+          <span class="flex items-center gap-1"><span class="inline-block h-2.5 w-2.5 rounded-full bg-[#c43d2e]"></span> story</span>
+          <span class="flex items-center gap-1"><span class="inline-block h-2.5 w-2.5 rounded-full bg-[#d4a843]"></span> actor</span>
+          <span class="flex items-center gap-1"><span class="inline-block h-2.5 w-2.5 rounded-full bg-[#5b8db8]"></span> topic</span>
+        </div>
+        <button id="graph-close" class="text-[24px] leading-none text-[#666] hover:text-[#e5e5e5]">&times;</button>
+      </div>
+    </div>
+    <div id="day-graph" class="flex-1"></div>
   </div>
-  <div id="day-graph" class="w-full" style="height: 380px;"></div>
 </div>
 
 <script define:vars={{ graphData: JSON.stringify(graph) }}>
   const graph = JSON.parse(graphData);
+  const modal = document.getElementById("graph-modal");
+  const trigger = document.getElementById("graph-trigger");
+  const backdrop = document.getElementById("graph-backdrop");
+  const closeBtn = document.getElementById("graph-close");
+  let rendered = false;
+
+  function openModal() {
+    modal.classList.remove("hidden");
+    document.body.style.overflow = "hidden";
+    if (!rendered) {
+      rendered = true;
+      renderGraph();
+    }
+  }
+
+  function closeModal() {
+    modal.classList.add("hidden");
+    document.body.style.overflow = "";
+  }
+
+  trigger.addEventListener("click", openModal);
+  backdrop.addEventListener("click", closeModal);
+  closeBtn.addEventListener("click", closeModal);
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") closeModal();
+  });
 
   async function renderGraph() {
     const d3 = await import("https://esm.sh/d3@7");
@@ -25,7 +81,7 @@ const { graph } = Astro.props;
     if (!container) return;
 
     const width = container.clientWidth;
-    const height = 380;
+    const height = container.clientHeight;
 
     const svg = d3.select(container)
       .append("svg")
@@ -40,21 +96,19 @@ const { graph } = Astro.props;
     };
 
     const simulation = d3.forceSimulation(graph.nodes)
-      .force("link", d3.forceLink(graph.edges).id(d => d.id).distance(100))
-      .force("charge", d3.forceManyBody().strength(-200))
+      .force("link", d3.forceLink(graph.edges).id(d => d.id).distance(120))
+      .force("charge", d3.forceManyBody().strength(-300))
       .force("center", d3.forceCenter(width / 2, height / 2))
-      .force("collision", d3.forceCollide().radius(d => d.type === "report" ? 35 : 20));
+      .force("collision", d3.forceCollide().radius(d => d.type === "report" ? 45 : 25));
 
-    // Edges
     const link = svg.append("g")
       .selectAll("line")
       .data(graph.edges)
       .join("line")
       .attr("stroke", "#333")
-      .attr("stroke-opacity", 0.5)
-      .attr("stroke-width", d => d.weight);
+      .attr("stroke-opacity", 0.4)
+      .attr("stroke-width", d => d.weight * 1.5);
 
-    // Node groups
     const node = svg.append("g")
       .selectAll("g")
       .data(graph.nodes)
@@ -66,53 +120,39 @@ const { graph } = Astro.props;
       .call(d3.drag()
         .on("start", (event, d) => {
           if (!event.active) simulation.alphaTarget(0.3).restart();
-          d.fx = d.x;
-          d.fy = d.y;
+          d.fx = d.x; d.fy = d.y;
         })
-        .on("drag", (event, d) => {
-          d.fx = event.x;
-          d.fy = event.y;
-        })
+        .on("drag", (event, d) => { d.fx = event.x; d.fy = event.y; })
         .on("end", (event, d) => {
           if (!event.active) simulation.alphaTarget(0);
-          d.fx = null;
-          d.fy = null;
+          d.fx = null; d.fy = null;
         })
       );
 
-    // Circles
     node.append("circle")
-      .attr("r", d => d.type === "report" ? 8 : 5)
+      .attr("r", d => d.type === "report" ? 10 : 6)
       .attr("fill", d => typeColors[d.type] || "#888")
       .attr("stroke", d => d.type === "report" ? "#fafaf8" : "none")
       .attr("stroke-width", d => d.type === "report" ? 1.5 : 0);
 
-    // Labels
     node.append("text")
       .text(d => d.label)
-      .attr("x", d => d.type === "report" ? 14 : 10)
+      .attr("x", d => d.type === "report" ? 16 : 12)
       .attr("y", 4)
-      .attr("font-size", d => d.type === "report" ? "12px" : "10px")
+      .attr("font-size", d => d.type === "report" ? "13px" : "11px")
       .attr("font-weight", d => d.type === "report" ? "500" : "400")
       .attr("fill", d => d.type === "report" ? "#e5e5e5" : "#888")
       .attr("font-family", "Inter, system-ui, sans-serif");
 
     simulation.on("tick", () => {
-      // Keep nodes in bounds
       graph.nodes.forEach(d => {
-        d.x = Math.max(60, Math.min(width - 60, d.x));
-        d.y = Math.max(20, Math.min(height - 20, d.y));
+        d.x = Math.max(80, Math.min(width - 80, d.x));
+        d.y = Math.max(30, Math.min(height - 30, d.y));
       });
-
       link
-        .attr("x1", d => d.source.x)
-        .attr("y1", d => d.source.y)
-        .attr("x2", d => d.target.x)
-        .attr("y2", d => d.target.y);
-
+        .attr("x1", d => d.source.x).attr("y1", d => d.source.y)
+        .attr("x2", d => d.target.x).attr("y2", d => d.target.y);
       node.attr("transform", d => `translate(${d.x},${d.y})`);
     });
   }
-
-  renderGraph();
 </script>
