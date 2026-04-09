@@ -114,7 +114,8 @@ For each story, write `{slug}.json`:
   "generatedAt": "ISO timestamp",
   "title": "Headline",
   "subtitle": "One sharp sentence",
-  "category": "tech|politics|geopolitics|economy|society",
+  "topic": "tech|politics|geopolitics|economy|society",
+  "category": "decision|ethics|conflict|identity|power",
   "tags": ["tag1", "tag2"],
   "sources": [
     {

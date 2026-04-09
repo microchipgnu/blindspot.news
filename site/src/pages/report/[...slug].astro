@@ -37,6 +37,9 @@ if (ogDescription.length < 110) {
 
     <!-- Header -->
     <div class="flex items-baseline gap-3">
+      {report.topic && (
+        <span class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-text-tertiary)]">{report.topic}</span>
+      )}
       <span class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-accent)]">{report.category}</span>
       <span class="text-[12px] text-[var(--color-text-tertiary)]">{report.date}</span>
     </div>

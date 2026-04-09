@@ -42,6 +42,7 @@ export interface Report {
   generatedAt: string;
   title: string;
   subtitle: string;
+  topic?: string;
   category: string;
   tags: string[];
   sources: Source[];
@@ -51,7 +52,7 @@ export interface Report {
 export interface DayIndex {
   date: string;
   generatedAt: string;
-  reports: { id: string; title: string; subtitle: string; category: string }[];
+  reports: { id: string; title: string; subtitle: string; topic?: string; category: string }[];
 }
 
 export interface ReportRef {
@@ -92,6 +93,7 @@ export function getDayIndex(date: string): DayIndex | null {
       id: data.id,
       title: data.title,
       subtitle: data.subtitle,
+      topic: data.topic,
       category: data.category,
     };
   });

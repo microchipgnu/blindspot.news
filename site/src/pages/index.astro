@@ -24,6 +24,11 @@ const day = getLatestDay();
           ]}
         >
           <div class="flex items-baseline gap-3">
+            {r.topic && (
+              <span class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-text-tertiary)]">
+                {r.topic}
+              </span>
+            )}
             <span class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-accent)]">
               {r.category}
             </span>
