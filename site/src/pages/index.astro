@@ -1,87 +1,17 @@
 ---
 import Base from "../layouts/Base.astro";
-import { getLatestDay, getReport } from "../lib/reports";
+import DayView from "../components/DayView.astro";
+import { getLatestDay, getDays } from "../lib/reports";
 
 const day = getLatestDay();
-
-// Load the lead story's full brief for the bottom line
-let leadBrief: string | null = null;
-if (day && day.reports.length > 0) {
-  const lead = getReport(day.date, day.reports[0].id);
-  if (lead) leadBrief = lead.brief.bottomLine;
-}
-
-function formatDate(dateStr: string): string {
-  const d = new Date(dateStr + "T12:00:00Z");
-  return d.toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric", year: "numeric" });
-}
+const days = getDays();
+const prevDate = days.length > 1 ? days[1] : null;
 ---
 
 <Base title="Today">
   {!day ? (
     <p class="py-20 text-[var(--color-text-tertiary)]">No reports yet.</p>
   ) : (
-    <div>
-      <!-- Date + tagline -->
-      <div class="border-b border-[var(--color-border)] py-6">
-        <p class="text-[13px] font-medium uppercase tracking-widest text-[var(--color-text-tertiary)]">{formatDate(day.date)}</p>
-      </div>
-
-      {day.reports.length > 0 && (
-        <!-- Hero: lead story -->
-        <a
-          href={`/report/${day.date}/${day.reports[0].id}`}
-          class="group block border-b border-[var(--color-border)] py-10"
-        >
-          <div class="flex items-baseline gap-3">
-            {day.reports[0].topic && (
-              <span class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-text-tertiary)]">
-                {day.reports[0].topic}
-              </span>
-            )}
-            <span class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-accent)]">
-              {day.reports[0].category}
-            </span>
-          </div>
-          <h2 class="mt-3 font-serif text-[40px] leading-[1.1] group-hover:text-[var(--color-accent)]">
-            {day.reports[0].title}
-          </h2>
-          {leadBrief && (
-            <p class="mt-4 max-w-2xl font-serif text-[20px] italic leading-relaxed text-[var(--color-text-secondary)]">
-              {leadBrief}
-            </p>
-          )}
-        </a>
-      )}
-
-      {day.reports.length > 1 && (
-        <!-- Rest of the stories -->
-        <div class="grid gap-px border-b border-[var(--color-border)] md:grid-cols-2">
-          {day.reports.slice(1).map((r) => (
-            <a
-              href={`/report/${day.date}/${r.id}`}
-              class="group block border-b border-[var(--color-border)] p-6 transition-colors hover:bg-[var(--color-surface-warm)] md:border-b-0 md:border-r md:last:border-r-0"
-            >
-              <div class="flex items-baseline gap-3">
-                {r.topic && (
-                  <span class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-text-tertiary)]">
-                    {r.topic}
-                  </span>
-                )}
-                <span class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-accent)]">
-                  {r.category}
-                </span>
-              </div>
-              <h3 class="mt-2 font-serif text-[22px] leading-tight group-hover:text-[var(--color-accent)]">
-                {r.title}
-              </h3>
-              <p class="mt-2 text-[14px] leading-relaxed text-[var(--color-text-secondary)]">
-                {r.subtitle}
-              </p>
-            </a>
-          ))}
-        </div>
-      )}
-    </div>
+    <DayView day={day} prevDate={prevDate} nextDate={null} />
   )}
 </Base>

@@ -1,0 +1,97 @@
+---
+import { getReport, type DayIndex } from "../lib/reports";
+
+interface Props {
+  day: DayIndex;
+  prevDate: string | null;
+  nextDate: string | null;
+}
+
+const { day, prevDate, nextDate } = Astro.props;
+
+let leadBrief: string | null = null;
+if (day.reports.length > 0) {
+  const lead = getReport(day.date, day.reports[0].id);
+  if (lead) leadBrief = lead.brief.bottomLine;
+}
+
+function formatDate(dateStr: string): string {
+  const d = new Date(dateStr + "T12:00:00Z");
+  return d.toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric", year: "numeric" });
+}
+---
+
+<!-- Date bar with nav -->
+<div class="flex items-center justify-between border-b border-[var(--color-border)] py-6">
+  <div class="flex items-center gap-4">
+    {prevDate ? (
+      <a href={`/day/${prevDate}`} class="text-[13px] font-medium text-[var(--color-text-tertiary)] hover:text-[var(--color-text)]">&larr; {prevDate}</a>
+    ) : (
+      <span />
+    )}
+  </div>
+  <p class="text-[13px] font-medium uppercase tracking-widest text-[var(--color-text-tertiary)]">{formatDate(day.date)}</p>
+  <div class="flex items-center gap-4">
+    {nextDate ? (
+      <a href={`/day/${nextDate}`} class="text-[13px] font-medium text-[var(--color-text-tertiary)] hover:text-[var(--color-text)]">{nextDate} &rarr;</a>
+    ) : (
+      <span class="text-[13px] font-medium text-[var(--color-accent)]">latest</span>
+    )}
+  </div>
+</div>
+
+{day.reports.length > 0 && (
+  <!-- Hero: lead story -->
+  <a
+    href={`/report/${day.date}/${day.reports[0].id}`}
+    class="group block border-b border-[var(--color-border)] py-10"
+  >
+    <div class="flex items-baseline gap-3">
+      {day.reports[0].topic && (
+        <span class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-text-tertiary)]">
+          {day.reports[0].topic}
+        </span>
+      )}
+      <span class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-accent)]">
+        {day.reports[0].category}
+      </span>
+    </div>
+    <h2 class="mt-3 font-serif text-[40px] leading-[1.1] group-hover:text-[var(--color-accent)]">
+      {day.reports[0].title}
+    </h2>
+    {leadBrief && (
+      <p class="mt-4 max-w-2xl font-serif text-[20px] italic leading-relaxed text-[var(--color-text-secondary)]">
+        {leadBrief}
+      </p>
+    )}
+  </a>
+)}
+
+{day.reports.length > 1 && (
+  <!-- Rest of the stories -->
+  <div class="grid gap-px border-b border-[var(--color-border)] md:grid-cols-2">
+    {day.reports.slice(1).map((r) => (
+      <a
+        href={`/report/${day.date}/${r.id}`}
+        class="group block border-b border-[var(--color-border)] p-6 transition-colors hover:bg-[var(--color-surface-warm)] md:border-b-0 md:border-r md:last:border-r-0"
+      >
+        <div class="flex items-baseline gap-3">
+          {r.topic && (
+            <span class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-text-tertiary)]">
+              {r.topic}
+            </span>
+          )}
+          <span class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-accent)]">
+            {r.category}
+          </span>
+        </div>
+        <h3 class="mt-2 font-serif text-[22px] leading-tight group-hover:text-[var(--color-accent)]">
+          {r.title}
+        </h3>
+        <p class="mt-2 text-[14px] leading-relaxed text-[var(--color-text-secondary)]">
+          {r.subtitle}
+        </p>
+      </a>
+    ))}
+  </div>
+)}

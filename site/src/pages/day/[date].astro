@@ -1,0 +1,32 @@
+---
+import Base from "../../layouts/Base.astro";
+import DayView from "../../components/DayView.astro";
+import { getDays, getDayIndex } from "../../lib/reports";
+
+export function getStaticPaths() {
+  const days = getDays();
+  return days.map((date, i) => ({
+    params: { date },
+    props: {
+      date,
+      prevDate: i < days.length - 1 ? days[i + 1] : null,
+      nextDate: i > 0 ? days[i - 1] : null,
+    },
+  }));
+}
+
+const { date, prevDate, nextDate } = Astro.props;
+const day = getDayIndex(date);
+if (!day) return Astro.redirect("/");
+
+const isLatest = nextDate === null;
+---
+
+<Base title={date}>
+  <DayView day={day} prevDate={prevDate} nextDate={isLatest ? null : nextDate} />
+  {isLatest && (
+    <div class="py-4">
+      <a href="/" class="text-[13px] font-medium text-[var(--color-text-tertiary)] hover:text-[var(--color-text)]">&larr; Back to today</a>
+    </div>
+  )}
+</Base>
