@@ -5,13 +5,39 @@
   "title": "Iran's 10-Point Plan and the Coerced Ceasefire",
   "subtitle": "A hostage exchange disguised as diplomacy — both sides are trading things they can't afford to lose.",
   "category": "power",
-  "tags": ["iran", "us", "ceasefire", "geopolitics", "nuclear"],
+  "tags": [
+    "iran",
+    "us",
+    "ceasefire",
+    "geopolitics",
+    "nuclear"
+  ],
   "sources": [
-    { "url": "https://www.aljazeera.com/news/2026/4/8/iran-10-point-peace-plan", "publisher": "Al Jazeera", "angle": "Centers Iran's sovereignty demands, treats the 10 points as serious negotiating positions" },
-    { "url": "https://fortune.com/2026/04/08/trump-iran-ceasefire", "publisher": "Fortune", "angle": "Leads with market relief and the deal-maker narrative" },
-    { "url": "https://www.npr.org/2026/04/08/us-iran-ceasefire", "publisher": "NPR", "angle": "Straight diplomatic process, careful not to assign credit" },
-    { "url": "https://foreignpolicy.com/2026/04/08/iran-ceasefire", "publisher": "Foreign Policy", "angle": "Skeptical of durability, focuses on what's unresolved" },
-    { "url": "https://www.france24.com/en/middle-east/20260408-iran-10-point-plan", "publisher": "France 24", "angle": "European view — emphasizes international law and UN mechanisms" }
+    {
+      "url": "https://www.aljazeera.com/news/2026/4/8/iran-10-point-peace-plan",
+      "publisher": "Al Jazeera",
+      "angle": "Centers Iran's sovereignty demands, treats the 10 points as serious negotiating positions"
+    },
+    {
+      "url": "https://fortune.com/2026/04/08/trump-iran-ceasefire",
+      "publisher": "Fortune",
+      "angle": "Leads with market relief and the deal-maker narrative"
+    },
+    {
+      "url": "https://www.npr.org/2026/04/08/us-iran-ceasefire",
+      "publisher": "NPR",
+      "angle": "Straight diplomatic process, careful not to assign credit"
+    },
+    {
+      "url": "https://foreignpolicy.com/2026/04/08/iran-ceasefire",
+      "publisher": "Foreign Policy",
+      "angle": "Skeptical of durability, focuses on what's unresolved"
+    },
+    {
+      "url": "https://www.france24.com/en/middle-east/20260408-iran-10-point-plan",
+      "publisher": "France 24",
+      "angle": "European view — emphasizes international law and UN mechanisms"
+    }
   ],
   "brief": {
     "bottomLine": "This is a hostage exchange disguised as diplomacy — both sides are trading things they can't afford to lose, and the two-week clock is a feature, not a bug, because neither side wants to find out what a permanent deal actually requires.",
@@ -65,6 +91,7 @@
         "signal": "Sudden unexplained optimism from both sides without any public concessions"
       }
     ],
-    "whatWouldChange": "If Iran drops the enrichment demand without regime collapse — that would mean the internal politics are different than they appear and a real deal is possible. Or if Israel publicly endorses a framework — that would mean the hole in the negotiation has been filled. Either of these would make the bottom line wrong."
+    "whatWouldChange": "If Iran drops the enrichment demand without regime collapse — that would mean the internal politics are different than they appear and a real deal is possible. Or if Israel publicly endorses a framework — that would mean the hole in the negotiation has been filled. Either of these would make the bottom line wrong.",
+    "whatHappened": "Iran published a 10-point peace plan on April 8, 2026, as the basis for ceasefire negotiations with the United States. The plan demands full US military withdrawal from the region, acceptance of Iran's right to uranium enrichment, sanction relief, compensation for war damages, and a binding UN Security Council resolution. Hours earlier, Trump had threatened to 'wipe out Iran's civilization,' then called the plan 'workable.' Pakistan is mediating, and a two-week ceasefire has been agreed."
   }
 }

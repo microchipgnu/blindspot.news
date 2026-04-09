@@ -5,7 +5,15 @@
   "title": "The Strike That Reveals Who Owns Your Steak",
   "subtitle": "JBS workers ended the first major US meatpacking strike since 1985 without a new contract — returning to work into a supply chain where their employer is recording record profits while beef is unaffordable for the people who process it.",
   "category": "conflict",
-  "tags": ["JBS", "meatpacking", "labor strike", "beef prices", "cattle supply", "food system", "union"],
+  "tags": [
+    "JBS",
+    "meatpacking",
+    "labor strike",
+    "beef prices",
+    "cattle supply",
+    "food system",
+    "union"
+  ],
   "sources": [
     {
       "url": "https://www.reuters.com/business/world-at-work/striking-jbs-workers-return-colorado-plant-promise-talks-2026-04-05/",
@@ -80,6 +88,7 @@
         "signal": "Watch for any congressional hearing on food price inflation that specifically invites testimony about meatpacking consolidation — that's the legislative pathway into an antitrust investigation."
       }
     ],
-    "whatWouldChange": "If JBS withdrew the 'Last, Best and Final' designation on its offer before April 9 — signaling genuine willingness to negotiate new terms — that would indicate the strike had shifted the company's calculus. The company calling the offer final while agreeing to more talks suggests the talks are a cooling-off mechanism, not a real negotiation."
+    "whatWouldChange": "If JBS withdrew the 'Last, Best and Final' designation on its offer before April 9 — signaling genuine willingness to negotiate new terms — that would indicate the strike had shifted the company's calculus. The company calling the offer final while agreeing to more talks suggests the talks are a cooling-off mechanism, not a real negotiation.",
+    "whatHappened": "Workers at JBS meatpacking plants across the US ended the first major meatpacking strike since 1985, returning to work without a new contract after several weeks on the picket line. JBS, the world's largest meat processor, reported record profits in its most recent quarter while retail beef prices remain at historic highs and cattle ranchers face collapsing margins."
   }
 }

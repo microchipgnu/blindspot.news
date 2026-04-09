@@ -5,7 +5,15 @@
   "title": "Beijing Invited the Opposition. Taiwan's Government Should Be Alarmed.",
   "subtitle": "The KMT chair's 'Journey of Peace' to Beijing is a sophisticated move to split Taiwanese politics before Trump meets Xi.",
   "category": "power",
-  "tags": ["taiwan", "china", "kmt", "xi-jinping", "trump", "diplomacy", "cross-strait"],
+  "tags": [
+    "taiwan",
+    "china",
+    "kmt",
+    "xi-jinping",
+    "trump",
+    "diplomacy",
+    "cross-strait"
+  ],
   "sources": [
     {
       "url": "https://foreignpolicy.com/2026/04/08/xi-jinping-cheng-li-wun-taiwan-trump-strait/",
@@ -80,6 +88,7 @@
         "signal": "A leaked or announced reduction in the US-Taiwan arms sale pipeline within 90 days of the Trump-Xi summit"
       }
     ],
-    "whatWouldChange": "If Cheng returns from Beijing with a concrete Chinese concession — something Beijing has given rather than only demanded — then the visit is genuine diplomacy rather than a one-sided political operation. Absent that, the ledger runs entirely in Beijing's direction."
+    "whatWouldChange": "If Cheng returns from Beijing with a concrete Chinese concession — something Beijing has given rather than only demanded — then the visit is genuine diplomacy rather than a one-sided political operation. Absent that, the ledger runs entirely in Beijing's direction.",
+    "whatHappened": "KMT chairman Eric Chu traveled to Beijing in April 2026 on a 'Journey of Peace,' meeting senior Chinese officials and signing economic cooperation agreements. The visit happened weeks before a planned Trump-Xi summit and without coordination with Taiwan's ruling DPP government, which condemned it as undermining Taiwan's democratic sovereignty."
   }
 }

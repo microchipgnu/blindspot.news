@@ -5,7 +5,15 @@
   "title": "The Court Took Away the President's Tariff Gun. He's Already Looking for Another One.",
   "subtitle": "SCOTUS killed $166 billion in tariffs in February. By April, Trump was threatening new 50% levies with no named legal authority.",
   "category": "power",
-  "tags": ["tariffs", "ieepa", "supreme-court", "trade", "trump", "executive-power", "constitutional"],
+  "tags": [
+    "tariffs",
+    "ieepa",
+    "supreme-court",
+    "trade",
+    "trump",
+    "executive-power",
+    "constitutional"
+  ],
   "sources": [
     {
       "url": "https://govtransparencyproject.org/articles/ieepa-scotus-ruling-section-122-trade-framework-2026.html",
@@ -85,6 +93,7 @@
         "signal": "A federal circuit court applies Learning Resources logic to a non-IEEPA tariff within 90 days"
       }
     ],
-    "whatWouldChange": "If Trump's post-ceasefire 50% tariff threat on Iran-weapons suppliers gets formally implemented through a named statutory authority that courts uphold, then the IEEPA ruling was narrower than it appeared and executive trade power is largely intact. That would flip the bottom line entirely."
+    "whatWouldChange": "If Trump's post-ceasefire 50% tariff threat on Iran-weapons suppliers gets formally implemented through a named statutory authority that courts uphold, then the IEEPA ruling was narrower than it appeared and executive trade power is largely intact. That would flip the bottom line entirely.",
+    "whatHappened": "The Supreme Court ruled in February 2026 that the president cannot use the International Emergency Economic Powers Act to impose tariffs, striking down $166 billion in trade levies. By April, the Trump administration was threatening new 50% tariffs on multiple countries without citing any specific legal authority, suggesting either a bluff or a willingness to force another Supreme Court confrontation."
   }
 }

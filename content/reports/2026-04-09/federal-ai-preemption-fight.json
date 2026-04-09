@@ -5,7 +5,16 @@
   "title": "Zero Federal AI Laws, 1,561 State Bills, and a White House Framework Nobody Has to Follow",
   "subtitle": "The US has no binding AI law while the EU enforces its Act across 27 countries. The federal-state collision is now the biggest AI governance story in the world.",
   "category": "power",
-  "tags": ["ai", "regulation", "federal", "states", "preemption", "congress", "trump", "tech-policy"],
+  "tags": [
+    "ai",
+    "regulation",
+    "federal",
+    "states",
+    "preemption",
+    "congress",
+    "trump",
+    "tech-policy"
+  ],
   "sources": [
     {
       "url": "https://www.mlstrategies.com/insights-center/viewpoints/54031/2026-04-02-white-house-releases-national-ai-legislative-framework",
@@ -85,6 +94,7 @@
         "signal": "California or Colorado AG sues to block executive AI preemption orders within 60 days of framework implementation"
       }
     ],
-    "whatWouldChange": "If Congress passes a binding federal AI law with actual enforcement authority and teeth — not a framework, not recommendations, not a voluntary standard — then the bottom line changes. A credible federal law with real enforcement would be a genuine governance development. So far there is no evidence Congress is capable of producing one."
+    "whatWouldChange": "If Congress passes a binding federal AI law with actual enforcement authority and teeth — not a framework, not recommendations, not a voluntary standard — then the bottom line changes. A credible federal law with real enforcement would be a genuine governance development. So far there is no evidence Congress is capable of producing one.",
+    "whatHappened": "As of April 2026, the United States has zero binding federal AI laws. The White House released a voluntary AI framework with no enforcement mechanism. Meanwhile, the EU AI Act is actively being enforced across 27 countries, and 45 US states have introduced a combined 1,561 AI-related bills. Congress has not passed a single AI-specific statute."
   }
 }

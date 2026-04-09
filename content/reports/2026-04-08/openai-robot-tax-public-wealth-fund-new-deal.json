@@ -5,7 +5,15 @@
   "title": "OpenAI's Robin Hood Pitch",
   "subtitle": "The company racing hardest to automate the global workforce has published a 13-page plan to compensate everyone it displaces — which is either the most responsible move in AI history or the most successful rebranding.",
   "category": "decision",
-  "tags": ["OpenAI", "AI policy", "automation", "robot tax", "public wealth fund", "labor", "Sam Altman"],
+  "tags": [
+    "OpenAI",
+    "AI policy",
+    "automation",
+    "robot tax",
+    "public wealth fund",
+    "labor",
+    "Sam Altman"
+  ],
   "sources": [
     {
       "url": "https://thenextweb.com/news/openai-robot-taxes-wealth-fund-superintelligence-policy",
@@ -80,6 +88,7 @@
         "signal": "Watch whether any congressional AI bill introduced in the next six months references OpenAI's document at all — silence means the lobbying strategy failed to set the frame."
       }
     ],
-    "whatWouldChange": "If OpenAI committed to unilaterally seeding the wealth fund before legislation passes — putting a floor of, say, $500 million into it from OpenAI's own balance sheet — that would be evidence the company genuinely believes in the proposal rather than using it as regulatory pre-emption. The absence of any voluntary first-mover action is the tell."
+    "whatWouldChange": "If OpenAI committed to unilaterally seeding the wealth fund before legislation passes — putting a floor of, say, $500 million into it from OpenAI's own balance sheet — that would be evidence the company genuinely believes in the proposal rather than using it as regulatory pre-emption. The absence of any voluntary first-mover action is the tell.",
+    "whatHappened": "OpenAI published a 13-page policy paper in April 2026 proposing a 'robot tax' on AI-driven automation, a public wealth fund to redistribute gains, a four-day workweek, and guaranteed income floors for displaced workers. CEO Sam Altman presented it as a framework for ensuring AI benefits are shared broadly. The paper came weeks after OpenAI's $300 billion valuation and amid growing public concern about AI job displacement."
   }
 }

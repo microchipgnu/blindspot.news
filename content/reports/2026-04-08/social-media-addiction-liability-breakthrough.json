@@ -5,7 +5,13 @@
   "title": "Social Media's Tobacco Moment",
   "subtitle": "A jury just declared Instagram and YouTube liable for addiction — and tech's legal immunity era might be over.",
   "category": "decision",
-  "tags": ["social-media", "liability", "addiction", "tech-regulation", "youth"],
+  "tags": [
+    "social-media",
+    "liability",
+    "addiction",
+    "tech-regulation",
+    "youth"
+  ],
   "sources": [
     {
       "url": "https://apnews.com/hub/technology",
@@ -44,7 +50,7 @@
         "when": "As liability precedent spreads to smaller companies over next 2-3 years"
       },
       {
-        "who": "Platform users", 
+        "who": "Platform users",
         "how": "Features get removed or restricted to reduce legal liability, making platforms less useful",
         "when": "Immediately as platforms implement protective measures"
       },
@@ -71,6 +77,7 @@
         "signal": "Platforms start offering different features or access based on user location"
       }
     ],
-    "whatWouldChange": "Evidence that addiction-resistant platforms can maintain healthy business models would prove the liability approach works. Evidence that legal restrictions just push problematic design underground would vindicate the free-market approach."
+    "whatWouldChange": "Evidence that addiction-resistant platforms can maintain healthy business models would prove the liability approach works. Evidence that legal restrictions just push problematic design underground would vindicate the free-market approach.",
+    "whatHappened": "A jury in a landmark trial found Instagram (Meta) and YouTube (Google) liable for designing addictive features that harmed minors, marking the first time social media platforms have been held legally responsible for addiction. The ruling bypassed Section 230 protections by focusing on product design rather than content moderation. Legal experts are calling it the industry's 'tobacco moment.'"
   }
 }

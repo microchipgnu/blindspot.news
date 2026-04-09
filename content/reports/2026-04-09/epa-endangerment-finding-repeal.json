@@ -6,7 +6,14 @@
   "subtitle": "The 2009 endangerment finding was not a regulation — it was the scientific warrant that made regulation possible. Repealing it doesn't just kill pending rules; it retroactively questions whether any climate regulation was ever lawful.",
   "topic": "society",
   "category": "power",
-  "tags": ["climate", "EPA", "regulation", "environment", "federal courts", "Clean Air Act"],
+  "tags": [
+    "climate",
+    "EPA",
+    "regulation",
+    "environment",
+    "federal courts",
+    "Clean Air Act"
+  ],
   "sources": [
     {
       "url": "https://apnews.com/article/zeldin-epa-heartland-climate-change-endangerment-e5b831bb200da83adbaa60a8d50f27f5",
@@ -81,6 +88,7 @@
         "signal": "No court issues an injunction in 2026; the administration continues dismantling individual rules while the core finding litigation proceeds slowly"
       }
     ],
-    "whatWouldChange": "If courts apply the major questions doctrine to require explicit congressional authorization before EPA can regulate greenhouse gases — rather than deferring to the agency's own scientific determinations — the bottom line changes: the fight shifts entirely to Congress, where climate legislation has failed for 15 years. That outcome would be worse than the current scenario, not better."
+    "whatWouldChange": "If courts apply the major questions doctrine to require explicit congressional authorization before EPA can regulate greenhouse gases — rather than deferring to the agency's own scientific determinations — the bottom line changes: the fight shifts entirely to Congress, where climate legislation has failed for 15 years. That outcome would be worse than the current scenario, not better.",
+    "whatHappened": "EPA Administrator Lee Zeldin formally repealed the 2009 endangerment finding in April 2026 — the scientific determination that greenhouse gases endanger public health, which served as the legal foundation for every federal climate regulation since Obama. Zeldin called the repeal 'vindication.' Environmental groups immediately filed suit, arguing the repeal ignores the agency's own scientific record."
   }
 }

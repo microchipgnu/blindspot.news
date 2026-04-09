@@ -6,7 +6,16 @@
   "subtitle": "The MATCH Act would cut China off from Dutch chipmaking tools. China's InP export controls just cut the world off from the material that makes AI data centers run. Washington is winning the equipment war while Beijing controls the supply chain beneath it.",
   "topic": "tech",
   "category": "power",
-  "tags": ["semiconductors", "China", "export controls", "ASML", "MATCH Act", "InP", "chip war", "AI infrastructure"],
+  "tags": [
+    "semiconductors",
+    "China",
+    "export controls",
+    "ASML",
+    "MATCH Act",
+    "InP",
+    "chip war",
+    "AI infrastructure"
+  ],
   "sources": [
     {
       "url": "https://www.cnbc.com/2026/04/07/asml-shares-today-us-chip-export-curbs-china.html",
@@ -81,6 +90,7 @@
         "signal": "The bill does not advance out of Senate committee before the fall 2026 recess; administration signals flexibility on servicing restrictions"
       }
     ],
-    "whatWouldChange": "If the US announces a strategic indium reserve program — similar to the Strategic Petroleum Reserve — and fast-tracks domestic InP wafer production subsidies, the bottom line shifts: the administration is treating this as a full materials war, not just an equipment fight. Absence of that move confirms the US is still thinking about this primarily as a chipmaking equipment problem."
+    "whatWouldChange": "If the US announces a strategic indium reserve program — similar to the Strategic Petroleum Reserve — and fast-tracks domestic InP wafer production subsidies, the bottom line shifts: the administration is treating this as a full materials war, not just an equipment fight. Absence of that move confirms the US is still thinking about this primarily as a chipmaking equipment problem.",
+    "whatHappened": "The US introduced the MATCH Act in April 2026, seeking to cut China off from Dutch-made DUV lithography tools — the last major chipmaking equipment China can still access. Days later, China imposed export controls on indium phosphide (InP), a critical semiconductor material used in AI data center components that China dominates globally. The moves mark a new escalation in the US-China technology war."
   }
 }

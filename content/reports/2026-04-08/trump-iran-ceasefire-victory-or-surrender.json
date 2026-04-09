@@ -5,7 +5,13 @@
   "title": "Trump's Iran Ceasefire: Victory or Surrender?",
   "subtitle": "The strongman who threatened to destroy Iran just settled for a two-week pause.",
   "category": "conflict",
-  "tags": ["trump", "iran", "ceasefire", "foreign-policy", "middle-east"],
+  "tags": [
+    "trump",
+    "iran",
+    "ceasefire",
+    "foreign-policy",
+    "middle-east"
+  ],
   "sources": [
     {
       "url": "https://www.foxnews.com/politics",
@@ -49,7 +55,7 @@
         "when": "Next time the US tries to coerce a regional power"
       },
       {
-        "who": "American voters", 
+        "who": "American voters",
         "how": "Higher gas prices if the ceasefire collapses and conflict resumes",
         "when": "Immediately if Iran closes the strait again"
       },
@@ -76,6 +82,7 @@
         "signal": "Major conservative figures or Trump allies publicly criticize the deal as weakness"
       }
     ],
-    "whatWouldChange": "Evidence that Trump's threats were always theater would vindicate the ceasefire as shrewd diplomacy. Evidence that Iran used the pause to strengthen its position would prove the critics right about American weakness."
+    "whatWouldChange": "Evidence that Trump's threats were always theater would vindicate the ceasefire as shrewd diplomacy. Evidence that Iran used the pause to strengthen its position would prove the critics right about American weakness.",
+    "whatHappened": "President Trump agreed to a two-week ceasefire with Iran on April 8, 2026, days after threatening to 'wipe out Iran's civilization.' The deal was mediated by Pakistan and based on Iran's 10-point peace plan. Trump declared the US had 'already met and exceeded all military objectives.' Coverage split sharply between outlets framing it as diplomatic success and those calling it a retreat from maximalist threats."
   }
 }

@@ -5,7 +5,13 @@
   "title": "The Government Parent Arrives",
   "subtitle": "Greece bans social media for under-15s, joining a global shift where governments override parental authority over children's digital lives.",
   "category": "ethics",
-  "tags": ["social-media", "children", "government", "parental-rights", "greece"],
+  "tags": [
+    "social-media",
+    "children",
+    "government",
+    "parental-rights",
+    "greece"
+  ],
   "sources": [
     {
       "url": "https://www.theguardian.com/world/2026/apr/08/greece-announces-social-media-ban-under-15s-citing-anxiety-sleep-problems",
@@ -40,7 +46,7 @@
     "whoPays": [
       {
         "who": "Families with mature younger teens",
-        "how": "Blanket age restrictions ignore individual readiness and family circumstances", 
+        "how": "Blanket age restrictions ignore individual readiness and family circumstances",
         "when": "Immediately as laws take effect regardless of family preferences"
       },
       {
@@ -71,6 +77,7 @@
         "signal": "Major platforms announce heavily restricted 'child versions' with parental controls and limited features"
       }
     ],
-    "whatWouldChange": "Evidence that social media bans improve children's mental health outcomes without significant negative consequences would justify government intervention. Evidence that bans push problems underground or prevent positive uses would vindicate parental choice."
+    "whatWouldChange": "Evidence that social media bans improve children's mental health outcomes without significant negative consequences would justify government intervention. Evidence that bans push problems underground or prevent positive uses would vindicate parental choice.",
+    "whatHappened": "Greece announced a ban on social media access for children under 15, citing rising rates of anxiety, depression, and sleep disorders linked to platform use. The law requires age verification and holds platforms liable for underage access. Greece joins Australia, France, and several US states in legislating children's social media use."
   }
 }

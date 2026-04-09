@@ -6,7 +6,16 @@
   "subtitle": "Hours after signing a two-week ceasefire with Iran, Trump announced tariffs on any country arming Tehran — citing no legal basis, just days after the Supreme Court stripped his primary enforcement mechanism.",
   "topic": "geopolitics",
   "category": "power",
-  "tags": ["Iran", "tariffs", "IEEPA", "SCOTUS", "China", "secondary sanctions", "trade war", "legal authority"],
+  "tags": [
+    "Iran",
+    "tariffs",
+    "IEEPA",
+    "SCOTUS",
+    "China",
+    "secondary sanctions",
+    "trade war",
+    "legal authority"
+  ],
   "sources": [
     {
       "url": "https://www.trtworld.com/article/4ad950f6e722",
@@ -81,6 +90,7 @@
         "signal": "Iran's Foreign Ministry characterizes the tariff threat as 'incompatible' with the ceasefire framework in an official statement before April 15"
       }
     ],
-    "whatWouldChange": "If the administration publishes an executive order citing a specific statute — Section 232, a new emergency declaration, or an Arms Export Control Act determination — the bottom line changes from theater to genuine policy. The absence of such an order within two weeks of the announcement is the clearest confirmation that this was a pressure signal, not an enforceable act."
+    "whatWouldChange": "If the administration publishes an executive order citing a specific statute — Section 232, a new emergency declaration, or an Arms Export Control Act determination — the bottom line changes from theater to genuine policy. The absence of such an order within two weeks of the announcement is the clearest confirmation that this was a pressure signal, not an enforceable act.",
+    "whatHappened": "Hours after signing the Iran ceasefire on April 8, Trump announced that any country supplying arms to Iran would face 50% tariffs. He cited no specific legal authority for the threat. The announcement came just days after the Supreme Court stripped his primary tariff enforcement mechanism (IEEPA) and one week before a scheduled meeting with Chinese President Xi Jinping."
   }
 }

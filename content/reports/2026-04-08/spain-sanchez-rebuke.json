@@ -5,11 +5,29 @@
   "title": "Sánchez's Bucket and What It Costs to Say No Inside NATO",
   "subtitle": "Spain's PM said the obvious thing — you don't get credit for putting out a fire you started. The interesting question is why he's the only one.",
   "category": "conflict",
-  "tags": ["spain", "nato", "trump", "dissent", "alliance"],
+  "tags": [
+    "spain",
+    "nato",
+    "trump",
+    "dissent",
+    "alliance"
+  ],
   "sources": [
-    { "url": "https://www.cnbc.com/2026/04/08/spain-pm-sanchez-trump-iran-war", "publisher": "CNBC", "angle": "Frames it as transatlantic tension, focuses on trade threat" },
-    { "url": "https://www.aljazeera.com/news/2026/4/8/spain-closes-airspace-us", "publisher": "Al Jazeera", "angle": "Leads with sovereignty — Spain asserting independence" },
-    { "url": "https://www.fdd.org/analysis/2026/spain-cuts-adrift", "publisher": "FDD", "angle": "Hawkish think tank framing Sánchez as abandoning the West" }
+    {
+      "url": "https://www.cnbc.com/2026/04/08/spain-pm-sanchez-trump-iran-war",
+      "publisher": "CNBC",
+      "angle": "Frames it as transatlantic tension, focuses on trade threat"
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/4/8/spain-closes-airspace-us",
+      "publisher": "Al Jazeera",
+      "angle": "Leads with sovereignty — Spain asserting independence"
+    },
+    {
+      "url": "https://www.fdd.org/analysis/2026/spain-cuts-adrift",
+      "publisher": "FDD",
+      "angle": "Hawkish think tank framing Sánchez as abandoning the West"
+    }
   ],
   "brief": {
     "bottomLine": "Sánchez said the thing every European leader thinks and none of them can say — and the speed of the punishment tells you more about how NATO actually works than any treaty does.",
@@ -54,6 +72,7 @@
         "signal": "Spain tables something at the EU level with specific mechanisms, not just rhetoric"
       }
     ],
-    "whatWouldChange": "If Spain's economy takes a measurable hit from US trade retaliation and Sánchez maintains the position anyway — that would prove it's conviction, not cheap coalition politics. Or if another major NATO member (France, Germany) publicly joins the criticism — that would transform this from personal defiance into systemic realignment."
+    "whatWouldChange": "If Spain's economy takes a measurable hit from US trade retaliation and Sánchez maintains the position anyway — that would prove it's conviction, not cheap coalition politics. Or if another major NATO member (France, Germany) publicly joins the criticism — that would transform this from personal defiance into systemic realignment.",
+    "whatHappened": "Spanish Prime Minister Pedro Sánchez publicly refused to credit Trump for the Iran ceasefire on April 8, 2026, saying 'you don't applaud someone who puts out a fire they started.' Spain had already closed its airspace to US military flights and denied base access for operations against Iran. Trump responded with trade threats against Spanish exports. The FDD, a hawkish US think tank, published an analysis titled 'Spain Cuts Adrift from the Western Alliance.'"
   }
 }

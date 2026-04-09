@@ -5,7 +5,15 @@
   "title": "China and Russia Kill the Hormuz Lifeline",
   "subtitle": "Beijing and Moscow didn't veto a resolution protecting shipping — they vetoed the idea that the UN Security Council has any authority over a war they're quietly backing.",
   "category": "power",
-  "tags": ["China", "Russia", "Iran", "Strait of Hormuz", "UN Security Council", "energy", "shipping"],
+  "tags": [
+    "China",
+    "Russia",
+    "Iran",
+    "Strait of Hormuz",
+    "UN Security Council",
+    "energy",
+    "shipping"
+  ],
   "sources": [
     {
       "url": "https://www.aljazeera.com/news/2026/4/7/russia-and-china-block-un-resolution-on-strait-of-hormuz",
@@ -80,6 +88,7 @@
         "signal": "Watch for any Chinese diplomatic trip to Tehran not framed as support but as 'economic dialogue.'"
       }
     ],
-    "whatWouldChange": "If Russia or China explicitly endorsed one of Iran's peace conditions and publicly called for reopening the strait, that would indicate the veto was purely tactical — buying time for a negotiated outcome they wanted. The absence of any positive Chinese peace diplomacy is the tell that the status quo blockade is the goal, not a side effect."
+    "whatWouldChange": "If Russia or China explicitly endorsed one of Iran's peace conditions and publicly called for reopening the strait, that would indicate the veto was purely tactical — buying time for a negotiated outcome they wanted. The absence of any positive Chinese peace diplomacy is the tell that the status quo blockade is the goal, not a side effect.",
+    "whatHappened": "China and Russia vetoed a UN Security Council resolution on April 8, 2026, that would have authorized international protection for commercial shipping through the Strait of Hormuz during the US-Iran conflict. The resolution had broad support from Western and Asian nations dependent on Gulf oil shipments, which carry roughly 20% of global supply."
   }
 }

@@ -6,7 +6,16 @@
   "subtitle": "The CLARITY Act was almost derailed by bank lobbying to prohibit stablecoin yield. A new White House analysis finds the ban would boost bank lending by 0.02% while costing consumers $800 million. The banks are protecting something other than what they claimed.",
   "topic": "economy",
   "category": "power",
-  "tags": ["stablecoin", "CLARITY Act", "crypto", "banking", "yield", "GENIUS Act", "regulation", "fintech"],
+  "tags": [
+    "stablecoin",
+    "CLARITY Act",
+    "crypto",
+    "banking",
+    "yield",
+    "GENIUS Act",
+    "regulation",
+    "fintech"
+  ],
   "sources": [
     {
       "url": "https://www.disruptionbanking.com/2026/04/09/white-house-slams-clarity-act-yield-ban/",
@@ -81,6 +90,7 @@
         "signal": "Three or more Senate Democrats publicly cite the CEA report in statements opposing the yield ban before the markup date"
       }
     ],
-    "whatWouldChange": "If a subsequent analysis showed that stablecoin yield programs were systematically draining deposits from banks serving low-income communities — rather than from large-cap banks — the bottom line shifts: the yield ban becomes a consumer protection issue rather than a bank protection issue. The CEA report does not analyze distributional effects by bank size on the deposit side. That gap is the one piece of evidence that would change the story."
+    "whatWouldChange": "If a subsequent analysis showed that stablecoin yield programs were systematically draining deposits from banks serving low-income communities — rather than from large-cap banks — the bottom line shifts: the yield ban becomes a consumer protection issue rather than a bank protection issue. The CEA report does not analyze distributional effects by bank size on the deposit side. That gap is the one piece of evidence that would change the story.",
+    "whatHappened": "The CLARITY Act, a major US stablecoin regulation bill, nearly stalled in Congress after banking industry lobbying pushed for a provision banning stablecoin issuers from offering yield (interest) to holders. A new White House economic analysis found that the proposed yield ban would increase bank lending capacity by just 0.02% while costing consumers approximately $800 million annually in lost returns."
   }
 }
