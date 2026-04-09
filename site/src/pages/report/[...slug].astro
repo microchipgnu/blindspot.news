@@ -45,8 +45,15 @@ if (ogDescription.length < 110) {
     </div>
     <h1 class="mt-3 font-serif text-[42px] leading-[1.1]">{report.title}</h1>
 
-    <!-- Bottom line — the most important element -->
-    <p class="mt-8 font-serif text-[22px] italic leading-snug text-[var(--color-text-secondary)]">
+    <!-- What happened — context first -->
+    {brief.whatHappened && (
+      <p class="mt-6 text-[16px] leading-relaxed text-[var(--color-text-secondary)]">
+        {brief.whatHappened}
+      </p>
+    )}
+
+    <!-- Bottom line -->
+    <p class="mt-6 font-serif text-[22px] italic leading-snug text-[var(--color-text-secondary)]">
       {brief.bottomLine}
     </p>
 

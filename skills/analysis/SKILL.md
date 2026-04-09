@@ -50,6 +50,12 @@ Produce a judgment brief with these sections. Every section must earn its place 
 
 ## Output format
 
+### What happened
+
+3-4 sentences of factual context. Who did what, when, and what the immediate consequences are. No analysis, no judgment — just the news event. The reader should be able to understand every section that follows without having read any other source.
+
+This is not a summary of your brief. It is the actual story.
+
 ### Bottom line
 
 One sentence. The sharpest thing you can say about this situation. Not a summary — a judgment.

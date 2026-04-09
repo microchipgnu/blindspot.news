@@ -97,7 +97,7 @@ For each story, use Exa to search for 3-5 diverse sources with different angles.
 For each story, follow SKILL.md:
 
 1. Find the crux — the thing that makes the whole situation make sense
-2. Build the brief: bottom line, hidden bets, real disagreement, what no one is saying, who pays, scenarios, what would change this
+2. Build the brief: what happened, bottom line, hidden bets, real disagreement, what no one is saying, who pays, scenarios, what would change this
 
 **Never name a philosopher. Never label a framework. Just do the thinking.**
 
@@ -125,6 +125,7 @@ For each story, write `{slug}.json`:
     }
   ],
   "brief": {
+    "whatHappened": "3-4 sentences. The actual news event — who did what, when, consequences. No analysis.",
     "bottomLine": "The sharpest thing you can say. Not a summary — a judgment.",
     "hiddenBets": [
       {

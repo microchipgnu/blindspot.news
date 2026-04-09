@@ -27,6 +27,7 @@ export interface Scenario {
 }
 
 export interface Brief {
+  whatHappened?: string;
   bottomLine: string;
   hiddenBets: HiddenBet[];
   realDisagreement: string;
