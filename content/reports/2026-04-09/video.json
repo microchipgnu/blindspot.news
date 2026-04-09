@@ -1,0 +1,14 @@
+{
+  "date": "2026-04-09",
+  "generatedAt": "2026-04-09T16:32:07Z",
+  "headerVideo": "/videos/reports/2026-04-09/header.mp4",
+  "script": "Today, the US executive branch fought on four fronts to act without legal authority, and lost on three of them. The Supreme Court killed the tariff gun. Congress defunded ICE. The EPA tried to erase its own climate science. And the administration threatened new tariffs with nothing backing them up. Meanwhile, Beijing played three boards at once: controlling chip materials, splitting Taiwanese politics, and timing it all before the Trump-Xi summit. The question that connects everything today: can power still operate when the legal foundations underneath it have been pulled away?",
+  "scenes": [
+    {
+      "file": "/videos/reports/2026-04-09/header.mp4",
+      "prompt": "Cinematic documentary footage of a diplomatic negotiations room. Slow dolly shot across a long polished table with papers and flags. Warm amber lighting, tension in the air. News footage style, 4K, shallow depth of field. No text overlays.",
+      "storyId": "us-iran-ceasefire-who-won",
+      "duration": 8
+    }
+  ]
+}
