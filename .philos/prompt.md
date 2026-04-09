@@ -55,26 +55,32 @@ For generating header images if needed:
 
 ## Phase 1: Discover
 
-Use Exa to search for today's most significant stories. Run 4-5 searches across these categories:
+Use Exa to search for today's most significant stories. Run **one search per topic** to ensure broad coverage:
 
-- Geopolitics and conflict
-- AI and technology regulation
-- Policy proposals and institutional decisions
-- Corporate strategy and labor
-- Cultural shifts and ethics debates
+| Topic | Search for | Example queries |
+|-------|-----------|-----------------|
+| **Tech** | AI launches, platform policy, data privacy, open source fights, chip wars | "AI regulation 2026", "tech antitrust", "data privacy law" |
+| **Politics** | Elections, legislation, court rulings, executive orders, political realignments | "Supreme Court ruling", "congressional vote", "executive order" |
+| **Geopolitics** | Wars, treaties, sanctions, alliances, territorial disputes | "ceasefire", "sanctions", "NATO", "trade war" |
+| **Economy** | Labor, markets, corporate strategy, trade, inflation, inequality | "strike", "tariffs", "interest rates", "merger" |
+| **Society** | Culture wars, education, health, rights, media, environment | "social media ban", "abortion law", "climate policy" |
 
-Also check Twitter trends for breaking stories that may not be in news search yet.
+Run 5 Exa searches (one per topic) with `startPublishedDate` set to today. Also check Twitter trends for breaking stories.
 
-Collect 15-20 candidates. Prefer stories where reasonable people genuinely disagree — not outrage bait, but real tensions.
+Collect 15-20 candidates across all topics.
 
 ## Phase 2: Select
 
-Pick the 5 best stories. Rank by:
+Pick **5-7 stories**, ensuring **at least one from each topic** that has a good candidate. Do not publish 5 politics stories and zero tech stories. Breadth matters.
+
+Within each topic, rank by:
 
 - Genuine disagreement where both sides have a point
 - Hidden bets worth surfacing — assumptions treated as settled that aren't
 - Concrete stakes — real people or groups who pay
 - Will still matter in a week
+
+If a topic has no good candidate today (nothing with real tension), skip it rather than forcing a weak story. But aim for 3+ topics covered per run.
 
 ## Phase 3: Source
 
@@ -102,7 +108,7 @@ For each story, write `{slug}.json`:
   "generatedAt": "ISO timestamp",
   "title": "Headline",
   "subtitle": "One sharp sentence",
-  "category": "decision|ethics|conflict|identity|power",
+  "category": "tech|politics|geopolitics|economy|society",
   "tags": ["tag1", "tag2"],
   "sources": [
     {
