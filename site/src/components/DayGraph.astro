@@ -26,24 +26,33 @@ const { graph } = Astro.props;
 
 <!-- Modal -->
 <div id="graph-modal" class="fixed inset-0 z-50 hidden">
-  <div id="graph-backdrop" class="absolute inset-0 bg-black/70"></div>
-  <div class="absolute inset-4 flex flex-col overflow-hidden rounded-xl bg-[var(--color-surface-dark)] md:inset-8 lg:inset-16">
-    <div class="flex items-center justify-between px-6 py-4">
-      <div>
-        <p class="text-[13px] font-semibold text-[#e5e5e5]">Today's connections</p>
-        <p class="mt-0.5 text-[11px] text-[#666]">Shared actors and themes across briefs. Drag to explore. Click a story to open it.</p>
-      </div>
-      <div class="flex items-center gap-4">
-        <div class="flex items-center gap-3 text-[11px] text-[#666]">
-          <span class="flex items-center gap-1"><span class="inline-block h-2.5 w-2.5 rounded-full bg-[#c43d2e]"></span> story</span>
-          <span class="flex items-center gap-1"><span class="inline-block h-2.5 w-2.5 rounded-full bg-[#d4a843]"></span> actor</span>
-          <span class="flex items-center gap-1"><span class="inline-block h-2.5 w-2.5 rounded-full bg-[#4caf7a]"></span> thread</span>
-          <span class="flex items-center gap-1"><span class="inline-block h-3 w-3 border-t border-[#4caf7a]"></span> causes</span>
+  <div id="graph-backdrop" class="absolute inset-0 bg-black/80"></div>
+  <div class="absolute inset-3 flex overflow-hidden rounded-xl bg-[#111] md:inset-6 lg:inset-10">
+    <!-- Graph area -->
+    <div class="flex flex-1 flex-col">
+      <div class="flex items-center justify-between px-5 py-3 border-b border-[#222]">
+        <p class="text-[13px] font-medium text-[#ccc]">Today's connections</p>
+        <div class="flex items-center gap-4">
+          <div class="hidden md:flex items-center gap-3 text-[11px] text-[#666]">
+            <span class="flex items-center gap-1"><span class="inline-block h-2.5 w-2.5 rounded-full bg-[#c43d2e]"></span> story</span>
+            <span class="flex items-center gap-1"><span class="inline-block h-2.5 w-2.5 rounded-full bg-[#4caf7a]"></span> thread</span>
+            <span class="flex items-center gap-1"><span class="inline-block h-2.5 w-2.5 rounded-full bg-[#d4a843]"></span> actor</span>
+          </div>
+          <button id="graph-close" class="text-[22px] leading-none text-[#666] hover:text-[#eee]">&times;</button>
         </div>
-        <button id="graph-close" class="text-[24px] leading-none text-[#666] hover:text-[#e5e5e5]">&times;</button>
+      </div>
+      <div id="day-graph" class="flex-1"></div>
+    </div>
+    <!-- Detail panel -->
+    <div id="graph-panel" class="hidden w-[360px] flex-shrink-0 border-l border-[#222] overflow-y-auto bg-[#0d0d0d]">
+      <div class="p-5">
+        <p id="panel-type" class="text-[11px] font-semibold uppercase tracking-widest text-[#4caf7a]"></p>
+        <p id="panel-title" class="mt-2 font-serif text-[20px] leading-snug text-[#eee]"></p>
+        <p id="panel-desc" class="mt-3 text-[14px] leading-relaxed text-[#999]"></p>
+        <div id="panel-connections" class="mt-4 space-y-3"></div>
+        <div id="panel-stories" class="mt-4 space-y-2"></div>
       </div>
     </div>
-    <div id="day-graph" class="flex-1"></div>
   </div>
 </div>
 
@@ -53,28 +62,110 @@ const { graph } = Astro.props;
   const trigger = document.getElementById("graph-trigger");
   const backdrop = document.getElementById("graph-backdrop");
   const closeBtn = document.getElementById("graph-close");
+  const panel = document.getElementById("graph-panel");
   let rendered = false;
 
   function openModal() {
     modal.classList.remove("hidden");
     document.body.style.overflow = "hidden";
-    if (!rendered) {
-      rendered = true;
-      renderGraph();
-    }
+    if (!rendered) { rendered = true; renderGraph(); }
   }
-
   function closeModal() {
     modal.classList.add("hidden");
     document.body.style.overflow = "";
   }
-
   trigger.addEventListener("click", openModal);
   backdrop.addEventListener("click", closeModal);
   closeBtn.addEventListener("click", closeModal);
-  document.addEventListener("keydown", (e) => {
-    if (e.key === "Escape") closeModal();
-  });
+  document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeModal(); });
+
+  function showPanel(node) {
+    const typeLabels = { "cause-effect": "Cause & Effect", "dependency-web": "Hidden Dependencies", "tension-cluster": "Same Question" };
+    panel.classList.remove("hidden");
+
+    if (node.type === "thread") {
+      // Find the thread data from edges
+      const threadEdges = graph.edges.filter(e =>
+        (e.source.id || e.source) === node.id || (e.target.id || e.target) === node.id
+      );
+      const causeEffects = graph.edges.filter(e => e.type === "cause-effect");
+
+      document.getElementById("panel-type").textContent = typeLabels[node.threadType] || node.threadType || "Thread";
+      document.getElementById("panel-title").textContent = node.label;
+      document.getElementById("panel-desc").textContent = "";
+
+      const connDiv = document.getElementById("panel-connections");
+      connDiv.innerHTML = "";
+      causeEffects.forEach(e => {
+        const fromLabel = (e.source.label || e.source);
+        const toLabel = (e.target.label || e.target);
+        if (e.label) {
+          const p = document.createElement("p");
+          p.className = "text-[12px] text-[#777] leading-relaxed";
+          p.innerHTML = `<span class="text-[#ccc]">${fromLabel}</span> → <span class="text-[#ccc]">${toLabel}</span>: ${e.label}`;
+          connDiv.appendChild(p);
+        }
+      });
+
+      document.getElementById("panel-stories").innerHTML = "";
+    } else if (node.type === "report") {
+      document.getElementById("panel-type").textContent = node.topic || node.category || "Story";
+      document.getElementById("panel-title").textContent = node.label;
+      document.getElementById("panel-desc").textContent = "";
+
+      const connDiv = document.getElementById("panel-connections");
+      connDiv.innerHTML = "";
+      // Show connections involving this story
+      graph.edges.filter(e =>
+        e.type === "cause-effect" &&
+        ((e.source.id || e.source) === node.id || (e.target.id || e.target) === node.id)
+      ).forEach(e => {
+        if (e.label) {
+          const fromLabel = (e.source.label || e.source);
+          const toLabel = (e.target.label || e.target);
+          const p = document.createElement("p");
+          p.className = "text-[12px] text-[#777] leading-relaxed";
+          p.innerHTML = `<span class="text-[#4caf7a]">→</span> ${e.label}`;
+          connDiv.appendChild(p);
+        }
+      });
+
+      const storiesDiv = document.getElementById("panel-stories");
+      storiesDiv.innerHTML = "";
+      if (node.url) {
+        const a = document.createElement("a");
+        a.href = node.url;
+        a.className = "inline-block mt-2 text-[13px] font-medium text-[#c43d2e] hover:underline";
+        a.textContent = "Read brief →";
+        storiesDiv.appendChild(a);
+      }
+    } else if (node.type === "actor") {
+      document.getElementById("panel-type").textContent = "Actor";
+      document.getElementById("panel-title").textContent = node.label;
+      document.getElementById("panel-desc").textContent = `Appears in ${node.weight} stories today`;
+      document.getElementById("panel-connections").innerHTML = "";
+
+      const storiesDiv = document.getElementById("panel-stories");
+      storiesDiv.innerHTML = "";
+      graph.edges.filter(e =>
+        e.type === "appears-in" &&
+        ((e.source.id || e.source) === node.id || (e.target.id || e.target) === node.id)
+      ).forEach(e => {
+        const reportNode = graph.nodes.find(n =>
+          n.id === (e.source.id || e.source) && n.type === "report"
+        ) || graph.nodes.find(n =>
+          n.id === (e.target.id || e.target) && n.type === "report"
+        );
+        if (reportNode) {
+          const a = document.createElement("a");
+          a.href = reportNode.url;
+          a.className = "block text-[13px] text-[#999] hover:text-[#c43d2e]";
+          a.textContent = reportNode.label;
+          storiesDiv.appendChild(a);
+        }
+      });
+    }
+  }
 
   async function renderGraph() {
     const d3 = await import("https://esm.sh/d3@7");
@@ -87,50 +178,59 @@ const { graph } = Astro.props;
     const svg = d3.select(container)
       .append("svg")
       .attr("width", width)
-      .attr("height", height)
-      .attr("viewBox", [0, 0, width, height]);
+      .attr("height", height);
 
-    const typeColors = {
-      report: "#c43d2e",
-      actor: "#d4a843",
-      thread: "#4caf7a",
-    };
+    // Zoom
+    const g = svg.append("g");
+    svg.call(d3.zoom().scaleExtent([0.3, 3]).on("zoom", (event) => {
+      g.attr("transform", event.transform);
+    }));
 
-    // Arrow marker for cause-effect edges
+    const typeColors = { report: "#c43d2e", actor: "#d4a843", thread: "#4caf7a" };
+
+    // Arrow marker
     svg.append("defs").append("marker")
       .attr("id", "arrow")
       .attr("viewBox", "0 -5 10 10")
-      .attr("refX", 20)
-      .attr("refY", 0)
-      .attr("markerWidth", 6)
-      .attr("markerHeight", 6)
+      .attr("refX", 25).attr("refY", 0)
+      .attr("markerWidth", 8).attr("markerHeight", 8)
       .attr("orient", "auto")
-      .append("path")
-      .attr("d", "M0,-5L10,0L0,5")
-      .attr("fill", "#4caf7a");
+      .append("path").attr("d", "M0,-4L10,0L0,4").attr("fill", "#4caf7a");
 
+    // Only show thread + cause-effect edges prominently; actor edges very faint
     const simulation = d3.forceSimulation(graph.nodes)
-      .force("link", d3.forceLink(graph.edges).id(d => d.id).distance(120))
-      .force("charge", d3.forceManyBody().strength(-300))
+      .force("link", d3.forceLink(graph.edges).id(d => d.id).distance(d =>
+        d.type === "cause-effect" ? 160 : d.type === "thread-link" ? 100 : 80
+      ))
+      .force("charge", d3.forceManyBody().strength(d =>
+        d.type === "thread" ? -400 : d.type === "report" ? -250 : -100
+      ))
       .force("center", d3.forceCenter(width / 2, height / 2))
-      .force("collision", d3.forceCollide().radius(d => d.type === "report" ? 45 : 25));
+      .force("collision", d3.forceCollide().radius(d =>
+        d.type === "report" ? 50 : d.type === "thread" ? 40 : 20
+      ));
 
-    const link = svg.append("g")
-      .selectAll("line")
-      .data(graph.edges)
-      .join("line")
-      .attr("stroke", d => d.type === "cause-effect" ? "#4caf7a" : d.type === "thread-link" ? "#4caf7a40" : "#333")
-      .attr("stroke-opacity", d => d.type === "cause-effect" ? 0.8 : 0.4)
-      .attr("stroke-width", d => d.type === "cause-effect" ? 2 : d.weight * 1.5)
+    // Edges
+    const link = g.append("g").selectAll("line").data(graph.edges).join("line")
+      .attr("stroke", d => d.type === "cause-effect" ? "#4caf7a" : d.type === "thread-link" ? "#4caf7a" : "#ffffff08")
+      .attr("stroke-width", d => d.type === "cause-effect" ? 2.5 : d.type === "thread-link" ? 1 : 0.5)
+      .attr("stroke-opacity", d => d.type === "cause-effect" ? 0.9 : d.type === "thread-link" ? 0.3 : 0.15)
+      .attr("stroke-dasharray", d => d.type === "thread-link" ? "4,4" : null)
       .attr("marker-end", d => d.type === "cause-effect" ? "url(#arrow)" : null);
 
-    const node = svg.append("g")
-      .selectAll("g")
-      .data(graph.nodes)
-      .join("g")
-      .style("cursor", d => d.url ? "pointer" : "default")
+    // Nodes
+    const node = g.append("g").selectAll("g").data(graph.nodes).join("g")
+      .style("cursor", "pointer")
       .on("click", (event, d) => {
-        if (d.url) window.location.href = d.url;
+        event.stopPropagation();
+        showPanel(d);
+        // Highlight connected edges
+        link.attr("stroke-opacity", e => {
+          const sid = e.source.id || e.source;
+          const tid = e.target.id || e.target;
+          if (sid === d.id || tid === d.id) return 1;
+          return e.type === "cause-effect" ? 0.3 : 0.05;
+        });
       })
       .call(d3.drag()
         .on("start", (event, d) => {
@@ -144,26 +244,63 @@ const { graph } = Astro.props;
         })
       );
 
-    node.append("circle")
-      .attr("r", d => d.type === "report" ? 10 : 6)
-      .attr("fill", d => typeColors[d.type] || "#888")
-      .attr("stroke", d => d.type === "report" ? "#fafaf8" : "none")
-      .attr("stroke-width", d => d.type === "report" ? 1.5 : 0);
+    // Node shapes
+    node.each(function(d) {
+      const el = d3.select(this);
+      if (d.type === "thread") {
+        // Diamond for threads
+        el.append("rect")
+          .attr("width", 14).attr("height", 14)
+          .attr("x", -7).attr("y", -7)
+          .attr("transform", "rotate(45)")
+          .attr("fill", "#4caf7a")
+          .attr("rx", 2);
+      } else if (d.type === "report") {
+        el.append("circle")
+          .attr("r", 8)
+          .attr("fill", "#c43d2e")
+          .attr("stroke", "#1a1a18")
+          .attr("stroke-width", 2);
+      } else {
+        el.append("circle")
+          .attr("r", 4)
+          .attr("fill", "#d4a843")
+          .attr("opacity", 0.6);
+      }
+    });
 
-    node.append("text")
-      .text(d => d.label)
-      .attr("x", d => d.type === "report" ? 16 : 12)
+    // Labels — only for reports and threads, actors on hover
+    node.filter(d => d.type === "report" || d.type === "thread").append("text")
+      .text(d => d.label.length > 35 ? d.label.slice(0, 32) + "..." : d.label)
+      .attr("x", d => d.type === "thread" ? 16 : 14)
       .attr("y", 4)
-      .attr("font-size", d => d.type === "report" ? "13px" : "11px")
-      .attr("font-weight", d => d.type === "report" ? "500" : "400")
-      .attr("fill", d => d.type === "report" ? "#e5e5e5" : "#888")
+      .attr("font-size", d => d.type === "thread" ? "12px" : "11px")
+      .attr("font-weight", d => d.type === "thread" ? "600" : "400")
+      .attr("fill", d => d.type === "thread" ? "#4caf7a" : "#bbb")
       .attr("font-family", "Inter, system-ui, sans-serif");
 
+    // Actor labels on hover
+    const actorLabels = node.filter(d => d.type === "actor").append("text")
+      .text(d => d.label)
+      .attr("x", 8).attr("y", 3)
+      .attr("font-size", "10px")
+      .attr("fill", "#666")
+      .attr("font-family", "Inter, system-ui, sans-serif")
+      .attr("opacity", 0);
+
+    node.filter(d => d.type === "actor")
+      .on("mouseenter", function() { d3.select(this).select("text").attr("opacity", 1); })
+      .on("mouseleave", function() { d3.select(this).select("text").attr("opacity", 0); });
+
+    // Click background to reset
+    svg.on("click", () => {
+      panel.classList.add("hidden");
+      link.attr("stroke-opacity", d =>
+        d.type === "cause-effect" ? 0.9 : d.type === "thread-link" ? 0.3 : 0.15
+      );
+    });
+
     simulation.on("tick", () => {
-      graph.nodes.forEach(d => {
-        d.x = Math.max(80, Math.min(width - 80, d.x));
-        d.y = Math.max(30, Math.min(height - 30, d.y));
-      });
       link
         .attr("x1", d => d.source.x).attr("y1", d => d.source.y)
         .attr("x2", d => d.target.x).attr("y2", d => d.target.y);
