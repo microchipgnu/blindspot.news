@@ -28,26 +28,44 @@ function shortDate(dateStr: string): string {
   return d.toLocaleDateString("en-US", { month: "short", day: "numeric" });
 }
 
+const d = new Date(day.date + "T12:00:00Z");
+const dayNum = d.getDate();
+const monthName = d.toLocaleDateString("en-US", { month: "long" });
+const yearNum = d.getFullYear();
+const weekday = d.toLocaleDateString("en-US", { weekday: "long" });
+
 const rest = day.reports.slice(1);
 const hasOddRest = rest.length % 2 !== 0;
 const gridItems = hasOddRest ? rest.slice(0, -1) : rest;
 const lastItem = hasOddRest ? rest[rest.length - 1] : null;
 ---
 
-<!-- Date bar with nav -->
-<div class="flex items-center justify-between border-b border-[var(--color-border)] py-4">
-  {prevDate ? (
-    <a href={`/day/${prevDate}`} class="text-[13px] font-medium text-[var(--color-text-tertiary)] hover:text-[var(--color-text)]">&larr; {shortDate(prevDate)}</a>
-  ) : (
-    <span />
-  )}
-  <p class="text-[13px] font-medium uppercase tracking-widest text-[var(--color-text-tertiary)]">{formatDate(day.date)}</p>
-  {nextDate ? (
-    <a href={`/day/${nextDate}`} class="text-[13px] font-medium text-[var(--color-text-tertiary)] hover:text-[var(--color-text)]">{shortDate(nextDate)} &rarr;</a>
-  ) : (
-    <span />
-  )}
-</div>
+<!-- Calendar header -->
+<header class="border-b border-[var(--color-border)] py-8">
+  <div class="flex items-center justify-between">
+    {prevDate ? (
+      <a href={`/day/${prevDate}`} class="flex items-center gap-1 text-[13px] font-medium text-[var(--color-text-tertiary)] hover:text-[var(--color-text)]">
+        <span class="text-[18px]">&larr;</span>
+        <span>{shortDate(prevDate)}</span>
+      </a>
+    ) : (
+      <span />
+    )}
+    <div class="text-center">
+      <p class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-text-tertiary)]">{weekday}</p>
+      <p class="mt-1 font-serif text-[56px] leading-none">{dayNum}</p>
+      <p class="mt-1 text-[13px] text-[var(--color-text-tertiary)]">{monthName} {yearNum}</p>
+    </div>
+    {nextDate ? (
+      <a href={`/day/${nextDate}`} class="flex items-center gap-1 text-[13px] font-medium text-[var(--color-text-tertiary)] hover:text-[var(--color-text)]">
+        <span>{shortDate(nextDate)}</span>
+        <span class="text-[18px]">&rarr;</span>
+      </a>
+    ) : (
+      <a href="/" class="text-[13px] font-medium text-[var(--color-accent)] hover:text-[var(--color-text)]">today</a>
+    )}
+  </div>
+</header>
 
 {day.reports.length > 0 && (
   <!-- Hero: lead story -->
