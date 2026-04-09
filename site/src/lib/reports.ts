@@ -138,6 +138,22 @@ export function getAllReports(): { date: string; slug: string }[] {
   return all;
 }
 
+// --- Video ---
+
+export interface DayVideo {
+  date: string;
+  generatedAt: string;
+  headerVideo: string | null;
+  script: string;
+  scenes: { file: string; prompt: string; storyId: string | null; duration: number }[];
+}
+
+export function getDayVideo(date: string): DayVideo | null {
+  const videoPath = path.join(CONTENT_DIR, date, "video.json");
+  if (!fs.existsSync(videoPath)) return null;
+  return JSON.parse(fs.readFileSync(videoPath, "utf-8"));
+}
+
 // --- Threads ---
 
 export interface ThreadConnection {

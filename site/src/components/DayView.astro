@@ -1,5 +1,5 @@
 ---
-import { getReport, getDayThreads, type DayIndex } from "../lib/reports";
+import { getReport, getDayThreads, getDayVideo, type DayIndex } from "../lib/reports";
 import { buildDayGraph } from "../lib/graph";
 import DayGraph from "./DayGraph.astro";
 
@@ -37,6 +37,7 @@ const yearNum = d.getFullYear();
 const weekday = d.toLocaleDateString("en-US", { weekday: "long" });
 
 const graph = buildDayGraph(day.date);
+const dayVideo = getDayVideo(day.date);
 const dayThreads = getDayThreads(day.date);
 
 const typeLabels: Record<string, string> = {
@@ -77,6 +78,20 @@ const lastItem = hasOddRest ? rest[rest.length - 1] : null;
     )}
   </div>
 </header>
+
+{dayVideo && dayVideo.headerVideo && (
+  <div class="mt-6 overflow-hidden rounded-lg">
+    <video
+      src={dayVideo.headerVideo}
+      autoplay
+      muted
+      loop
+      playsinline
+      class="w-full object-cover"
+      style="max-height: 360px;"
+    />
+  </div>
+)}
 
 {graph && <DayGraph graph={graph} />}
 
