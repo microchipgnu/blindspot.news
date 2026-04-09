@@ -137,6 +137,7 @@ if (ogDescription.length < 110) {
     {brief.markets && brief.markets.length > 0 && (
       <section class="mt-10">
         <h2 class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-accent)]">Prediction Markets</h2>
+        <p class="mt-1 text-[12px] text-[var(--color-text-tertiary)]">Prices as of {report.date} — the analysis was written against these odds</p>
         <div class="mt-4 space-y-3">
           {brief.markets.map((m) => (
             <a
@@ -147,7 +148,7 @@ if (ogDescription.length < 110) {
             >
               <div>
                 <p class="text-[14px] font-medium group-hover:text-[var(--color-accent)]">{m.question}</p>
-                <p class="mt-1 text-[12px] text-[var(--color-text-tertiary)]">{m.platform}</p>
+                <p class="mt-1 text-[12px] text-[var(--color-text-tertiary)]">{m.platform} · as of {report.date}</p>
               </div>
               <div class="ml-4 flex-shrink-0 text-right">
                 <p class="text-[24px] font-semibold tabular-nums">{Math.round(m.probability * 100)}%</p>
