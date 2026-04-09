@@ -92,12 +92,27 @@ If a topic has no good candidate today (nothing with real tension), skip it rath
 
 For each story, use Exa to search for 3-5 diverse sources with different angles. Use `contents.text: true` to get the full article text. Note each source's angle in plain language. Only include sources whose URLs you got from Exa search results — these are real, verified article URLs.
 
-## Phase 4: Analyze
+## Phase 4: Find prediction markets
 
-For each story, follow SKILL.md:
+Before analyzing each story, search Polymarket for related markets. This gives you real-money probability signals to use in your analysis.
+
+**Polymarket search** (use `/public-search` not `/markets`):
+```bash
+curl -s "https://gamma-api.polymarket.com/public-search?q=QUERY&events_status=active&limit_per_type=5"
+```
+Response has `events[].markets[]`. Each market has `question`, `outcomePrices` (JSON array where first element is yes probability), `active`, `closed`. Build the URL as `https://polymarket.com/event/{event.slug}`.
+
+For each story, try 2-3 search queries based on key actors and outcomes. Only keep markets that are directly relevant — skip sports, entertainment, and unrelated results. If no relevant markets exist, move on.
+
+## Phase 5: Analyze
+
+For each story, follow SKILL.md. You now have sources AND prediction market odds as inputs.
 
 1. Find the crux — the thing that makes the whole situation make sense
-2. Build the brief: what happened, bottom line, hidden bets, real disagreement, what no one is saying, who pays, scenarios, what would change this
+2. **Check your analysis against the market odds.** If the market says 67% a ceasefire holds and your analysis says it will collapse, either explain what you see that the market doesn't, or adjust your position. Don't ignore the signal.
+3. Build the brief: what happened, bottom line, hidden bets, real disagreement, what no one is saying, who pays, scenarios, what would change this
+4. In the **scenarios** section, note where market odds support or contradict each scenario
+5. In **hidden bets**, flag any assumption where the market price suggests the consensus is wrong
 
 **Never name a philosopher. Never label a framework. Just do the thinking.**
 
@@ -179,26 +194,7 @@ Also write `content/reports/YYYY-MM-DD/index.json`:
 }
 ```
 
-## Phase 5b: Find prediction markets
-
-After writing each brief, search for related prediction markets on Polymarket and Kalshi. These ground the analysis in real-money probability signals.
-
-**Polymarket search** (use `/public-search` not `/markets`):
-```bash
-curl -s "https://gamma-api.polymarket.com/public-search?q=QUERY&events_status=active&limit_per_type=5"
-```
-Response has `events[].markets[]`. Each market has `question`, `outcomePrices` (JSON array where first element is yes probability), `active`, `closed`. Build the URL as `https://polymarket.com/event/{event.slug}`.
-
-**Kalshi search:**
-```bash
-curl -s "https://api.elections.kalshi.com/trade-api/v2/markets?status=open&limit=5&search=QUERY"
-```
-
-For each story, try 2-3 search queries based on the key actors and outcomes (e.g., "Iran ceasefire", "Trump tariffs", "AI regulation"). Include any markets where the question directly relates to the story's scenarios or hidden bets. If no relevant markets exist, set `"markets": []` — don't force it.
-
-**Only include markets you actually found via the API.** Do not fabricate market URLs or probabilities.
-
-## Phase 6: Update state
+## Phase 7: Update state
 
 Update `.philos/state.json` — increment `cycle`, set `lastRun`, update `reportsGenerated`.
 
