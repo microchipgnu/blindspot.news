@@ -6,7 +6,16 @@
   "subtitle": "Chris Taylor won by 20 points, the fourth consecutive liberal landslide in Wisconsin court races. The state court now controls redistricting, election administration, and any litigation over the 2028 presidential result in the most contested swing state in the country.",
   "topic": "politics",
   "category": "power",
-  "tags": ["wisconsin", "supreme-court", "elections", "redistricting", "voting-rights", "2028", "judicial-power", "gerrymandering"],
+  "tags": [
+    "wisconsin",
+    "supreme-court",
+    "elections",
+    "redistricting",
+    "voting-rights",
+    "2028",
+    "judicial-power",
+    "gerrymandering"
+  ],
   "sources": [
     {
       "url": "http://www.guardian.co.uk/us-news/2026/apr/07/wisconsin-supreme-court-election",
@@ -86,5 +95,10 @@
         "probability": 0.685
       }
     ]
-  }
+  },
+  "actors": [
+    "Wisconsin Supreme Court",
+    "GOP",
+    "DNC"
+  ]
 }

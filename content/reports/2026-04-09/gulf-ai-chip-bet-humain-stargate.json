@@ -6,7 +6,20 @@
   "subtitle": "MBS suspended his $500 billion linear city after 1.4% completion, pivoted $23 billion to AI infrastructure, and made Elon Musk's Grok the kingdom's national AI layer. The geopolitical bet underneath this is enormous.",
   "topic": "tech",
   "category": "power",
-  "tags": ["saudi-arabia", "uae", "nvidia", "ai", "chips", "humain", "stargate", "xai", "musk", "pif", "neom", "export-controls"],
+  "tags": [
+    "saudi-arabia",
+    "uae",
+    "nvidia",
+    "ai",
+    "chips",
+    "humain",
+    "stargate",
+    "xai",
+    "musk",
+    "pif",
+    "neom",
+    "export-controls"
+  ],
   "sources": [
     {
       "url": "https://houseofsaud.com/pif-2026-2030-strategy/",
@@ -91,5 +104,12 @@
         "probability": 0.045
       }
     ]
-  }
+  },
+  "actors": [
+    "Saudi Arabia",
+    "Humain",
+    "NVIDIA",
+    "Trump",
+    "China"
+  ]
 }

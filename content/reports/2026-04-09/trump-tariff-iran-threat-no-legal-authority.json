@@ -6,7 +6,17 @@
   "subtitle": "The same Supreme Court that struck down $166 billion in IEEPA tariffs in February is now being asked to validate a new 50% tariff threat posted on Truth Social. The UK is expecting to be hit. No one has named the legal authority.",
   "topic": "economy",
   "category": "power",
-  "tags": ["tariffs", "iran", "ieepa", "supreme-court", "trade-war", "uk", "china", "russia", "trade-policy"],
+  "tags": [
+    "tariffs",
+    "iran",
+    "ieepa",
+    "supreme-court",
+    "trade-war",
+    "uk",
+    "china",
+    "russia",
+    "trade-policy"
+  ],
   "sources": [
     {
       "url": "https://mynorthminster.org/article/trump-s-tariff-threat-50-on-countries-supporting-iran-s-military",
@@ -92,5 +102,11 @@
         "probability": 0.18
       }
     ]
-  }
+  },
+  "actors": [
+    "Trump",
+    "Iran",
+    "China",
+    "SCOTUS"
+  ]
 }

@@ -6,7 +6,16 @@
   "subtitle": "Trump's voter ID bill passed the House in February. A Republican speaker was caught on a hot mic saying it would cut 18% of the electorate. The Senate is now deciding whether that counts as a selling point.",
   "topic": "politics",
   "category": "power",
-  "tags": ["voting-rights", "save-act", "voter-id", "elections", "trump", "senate", "midterms", "disenfranchisement"],
+  "tags": [
+    "voting-rights",
+    "save-act",
+    "voter-id",
+    "elections",
+    "trump",
+    "senate",
+    "midterms",
+    "disenfranchisement"
+  ],
   "sources": [
     {
       "url": "https://time.com/article/2026/04/03/voting-restrictions-citizenship-proof-state-laws-ballot-measures-trump-save-act/",
@@ -102,5 +111,10 @@
         "probability": 0.9545
       }
     ]
-  }
+  },
+  "actors": [
+    "Congress",
+    "Trump",
+    "GOP"
+  ]
 }

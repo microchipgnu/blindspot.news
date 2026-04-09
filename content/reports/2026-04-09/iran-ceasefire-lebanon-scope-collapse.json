@@ -6,7 +6,17 @@
   "subtitle": "VP Vance admitted there are three conflicting drafts of the Iran truce circulating simultaneously. That isn't a diplomatic misunderstanding. It is the deal.",
   "topic": "geopolitics",
   "category": "conflict",
-  "tags": ["iran", "israel", "lebanon", "hezbollah", "ceasefire", "strait-of-hormuz", "vance", "islamabad", "oil"],
+  "tags": [
+    "iran",
+    "israel",
+    "lebanon",
+    "hezbollah",
+    "ceasefire",
+    "strait-of-hormuz",
+    "vance",
+    "islamabad",
+    "oil"
+  ],
   "sources": [
     {
       "url": "https://www.axios.com/2026/04/08/lebanon-attacks-israel-iran-ceasfire",
@@ -104,5 +114,12 @@
         "probability": 0.82
       }
     ]
-  }
+  },
+  "actors": [
+    "Iran",
+    "Israel",
+    "Hezbollah",
+    "Lebanon",
+    "Trump"
+  ]
 }
