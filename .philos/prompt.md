@@ -104,6 +104,27 @@ Response has `events[].markets[]`. Each market has `question`, `outcomePrices` (
 
 For each story, try 2-3 search queries based on key actors and outcomes. Only keep markets that are directly relevant — skip sports, entertainment, and unrelated results. If no relevant markets exist, move on.
 
+## Phase 4b: Pick a cover image
+
+For each story, find a strong editorial image from one of the source articles. Exa search results include an `image` field. Pick the best one, not a logo or generic stock photo, but a real editorial image that captures the story.
+
+Download it to `site/public/images/reports/{DATE}/{SLUG}.jpg`:
+```bash
+mkdir -p site/public/images/reports/{DATE}
+curl -sL -o "site/public/images/reports/{DATE}/{SLUG}.jpg" "IMAGE_URL"
+```
+
+Add to the report JSON:
+```json
+"coverImage": {
+  "url": "original image URL",
+  "local": "/images/reports/{DATE}/{SLUG}.jpg",
+  "credit": "Publisher name"
+}
+```
+
+If no good image is available from any source, skip this field. Do not use logos, icons, or placeholder images.
+
 ## Phase 5: Analyze
 
 For each story, follow SKILL.md. You now have sources AND prediction market odds as inputs.

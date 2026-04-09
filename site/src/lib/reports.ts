@@ -45,6 +45,12 @@ export interface Brief {
   markets?: Market[];
 }
 
+export interface CoverImage {
+  url: string;
+  local: string;
+  credit: string;
+}
+
 export interface Report {
   id: string;
   date: string;
@@ -54,6 +60,7 @@ export interface Report {
   topic?: string;
   category: string;
   tags: string[];
+  coverImage?: CoverImage;
   sources: Source[];
   brief: Brief;
 }

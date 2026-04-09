@@ -80,5 +80,10 @@
     "whatWouldChange": "Evidence that social media integration provides unique AI training advantages would justify Meta's massive investment. Evidence that AI development is becoming commoditized would suggest Meta should focus on application rather than infrastructure.",
     "whatHappened": "Meta announced a 'ground-up overhaul' of its AI strategy on April 8, 2026, unveiling a new model called Muse Spark. The move effectively abandons Meta's previous AI architecture in favor of a rebuilt system, coming after months of criticism that Meta AI products lagged behind OpenAI, Google, and Anthropic in capability and user adoption.",
     "markets": []
+  },
+  "coverImage": {
+    "url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2225880947.jpg?w=1024",
+    "local": "/images/reports/2026-04-08/meta-ai-overhaul-muse-spark-model.jpg",
+    "credit": "TechCrunch"
   }
 }

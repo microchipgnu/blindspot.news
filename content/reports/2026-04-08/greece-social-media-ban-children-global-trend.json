@@ -80,5 +80,10 @@
     "whatWouldChange": "Evidence that social media bans improve children's mental health outcomes without significant negative consequences would justify government intervention. Evidence that bans push problems underground or prevent positive uses would vindicate parental choice.",
     "whatHappened": "Greece announced a ban on social media access for children under 15, citing rising rates of anxiety, depression, and sleep disorders linked to platform use. The law requires age verification and holds platforms liable for underage access. Greece joins Australia, France, and several US states in legislating children's social media use.",
     "markets": []
+  },
+  "coverImage": {
+    "url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2243719467.jpg?resize=1200,800",
+    "local": "/images/reports/2026-04-08/greece-social-media-ban-children-global-trend.jpg",
+    "credit": "TechCrunch"
   }
 }

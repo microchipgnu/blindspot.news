@@ -64,6 +64,22 @@ const sections = [
     <!-- Title -->
     <h1 class="font-serif text-[38px] leading-[1.1] md:text-[42px]">{report.title}</h1>
 
+    <!-- Cover image -->
+    {report.coverImage && (
+      <figure class="mt-6">
+        <img
+          src={report.coverImage.local}
+          alt={report.title}
+          class="w-full rounded-lg object-cover"
+          style="max-height: 400px;"
+          loading="eager"
+        />
+        <figcaption class="mt-2 text-[11px] text-[var(--color-text-tertiary)]">
+          {report.coverImage.credit}
+        </figcaption>
+      </figure>
+    )}
+
     <!-- What happened — context block -->
     {brief.whatHappened && (
       <div id="context" class="mt-6 rounded-lg bg-[var(--color-surface-warm)] p-5">
