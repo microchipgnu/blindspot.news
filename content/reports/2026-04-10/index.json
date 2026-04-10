@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-10",
+  "generatedAt": "2026-04-10T07:58:00Z",
+  "reports": [
+    {
+      "id": "china-iran-ceasefire-gambit",
+      "title": "China's Invisible Hand in the Iran Ceasefire",
+      "subtitle": "Beijing brokered peace through Pakistan, kept its fingerprints off the deal, and is now heading into the Trump summit holding the winning hand.",
+      "category": "power"
+    },
+    {
+      "id": "pentagon-press-contempt",
+      "title": "The Pentagon Keeps Losing in Court and Keeps Not Caring",
+      "subtitle": "Judge Friedman found the Defense Department in contempt for evading his press access ruling. The administration's plan is not to comply. It is to appeal.",
+      "category": "power"
+    },
+    {
+      "id": "epa-endangerment-repeal",
+      "title": "The EPA Just Declared It Has No Legal Authority Over Climate Change",
+      "subtitle": "Revoking the 2009 endangerment finding does not disprove climate science. It just removes the government's legal obligation to act on it.",
+      "category": "power"
+    },
+    {
+      "id": "scotus-birthright-citizenship",
+      "title": "SCOTUS Is About to Strike Down the Birthright Citizenship Order. That Is Not the Hard Part.",
+      "subtitle": "The justices are almost certain to rule against Trump. The question they are really debating is how far the 14th Amendment's citizenship clause reaches, and the answer will outlast this case.",
+      "category": "decision"
+    },
+    {
+      "id": "eff-quits-x",
+      "title": "The Free Speech Group Left the Free Speech Platform",
+      "subtitle": "The Electronic Frontier Foundation's departure from X is not a media story about platform loyalty. It is a signal about who the digital rights movement thinks it is fighting now.",
+      "category": "identity"
+    }
+  ]
+}

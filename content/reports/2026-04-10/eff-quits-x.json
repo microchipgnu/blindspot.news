@@ -1,0 +1,78 @@
+{
+  "id": "eff-quits-x",
+  "date": "2026-04-10",
+  "generatedAt": "2026-04-10T07:57:00Z",
+  "title": "The Free Speech Group Left the Free Speech Platform",
+  "subtitle": "The Electronic Frontier Foundation's departure from X is not a media story about platform loyalty. It is a signal about who the digital rights movement thinks it is fighting now.",
+  "topic": "tech",
+  "category": "identity",
+  "tags": ["EFF", "X", "Elon Musk", "free speech", "platform governance", "Bluesky"],
+  "coverImage": {
+    "url": "https://assets.sfstandard.com/image/994911177489/image_t59jlankop5udfd9ib4t4q9q5a/-S1200x630-FPNG",
+    "local": "/images/reports/2026-04-10/eff-quits-x.jpg",
+    "credit": "SF Standard / Washington Post via Getty"
+  },
+  "sources": [
+    {
+      "url": "https://sfstandard.com/2026/04/09/eff-leaves-x/",
+      "publisher": "SF Standard",
+      "angle": "Focuses on the ideological contradiction: EFF has long attracted conservative donors who supported its free speech mission; those donors are now angry the group is leaving the platform Musk bought to protect free speech. Captures Tim Sweeney's and Jon Oringer's public criticism."
+    }
+  ],
+  "brief": {
+    "actors": ["EFF", "Musk", "X"],
+    "whatHappened": "The Electronic Frontier Foundation, the country's leading digital civil liberties organization since 1990, announced on April 9 that it is leaving X after more than two decades on the platform. The EFF cited declining engagement and criticized X for firing its entire human rights team, which had been tasked with ensuring adherence to UN Guiding Principles on Business and Human Rights. The group said 'X is no longer where the fight is happening.' Conservative tech donors who had supported EFF for its free speech work, including Epic Games founder Tim Sweeney, criticized the move. Bluesky celebrated EFF's announcement in a post published on X.",
+    "bottomLine": "EFF is not abandoning free speech. It is concluding that X has redefined 'free speech' to mean something incompatible with the digital civil liberties framework EFF was built to defend.",
+    "hiddenBets": [
+      {
+        "assumption": "EFF leaving X is about engagement metrics.",
+        "whyItMightBeWrong": "The engagement explanation is the publicly safe reason. The substantive reason is in the fine print: EFF cited the firing of X's human rights team, which was the organizational infrastructure that handled cases like government takedown requests, protections for dissidents, and adherence to international human rights standards. That is not an engagement question. It is a question about what X's governance is for."
+      },
+      {
+        "assumption": "Free speech and digital civil liberties are the same project.",
+        "whyItMightBeWrong": "They were aligned for most of the internet's history, when the threat was government censorship and corporate content moderation was underdeveloped. The fracture is now visible: X's version of free speech is anti-government-censorship maximalism combined with owner-curated amplification. EFF's framework includes protections against government surveillance, platform accountability, and user rights regardless of the platform's political alignment. These are different projects that shared vocabulary and have now diverged."
+      },
+      {
+        "assumption": "The fight for digital rights is moving to Bluesky.",
+        "whyItMightBeWrong": "EFF said 'X is no longer where the fight is happening,' implying the fight is somewhere else. But Bluesky is a lightly governed early-stage platform whose moderation and accountability structures are untested at scale. The fight for digital rights does not move to the platform with the most sympathetic user base. It stays where consequential decisions are being made, which is still X, Meta, and Google."
+      }
+    ],
+    "realDisagreement": "The real fork is between two positions on what platform governance should look like. One: free expression is maximized when government cannot compel platform decisions, regardless of what the platform owner does. Two: free expression as a practical matter requires that platforms be accountable to procedural norms, not just to their owners' ideology, and that users have rights that can be enforced against the platform. EFF has always held the second position. Musk's X holds the first. They were never the same project. EFF's conservative donors were funding the organizational infrastructure of one position while the public argument was framed in the vocabulary of the other. The funding relationship was based on a shared enemy, governments, not on shared values about private power.",
+    "whatNoOneIsSaying": "EFF said it will continue using TikTok and Facebook. TikTok is owned by ByteDance and subject to Chinese government data access obligations. Facebook systematically ignored EU digital rights requirements for years. If EFF's criterion for leaving X is the dismantling of the human rights team, that criterion implies departures from TikTok and Facebook should also be under active consideration. The selective application of the standard reveals that this decision is partly about X's particular politics, not purely about governance principles.",
+    "whoPays": [
+      {
+        "who": "Dissidents, journalists, and at-risk users on X",
+        "how": "The EFF's influence on platform human rights practice came partly from its credentialed presence on platforms, which gave it standing to engage privately on policy. Departure removes that leverage. Cases involving government takedown requests targeting activists on X will now be navigated without EFF's institutional pressure.",
+        "when": "Ongoing from the departure."
+      },
+      {
+        "who": "EFF's cross-partisan donor base",
+        "how": "Donors who funded EFF because of its free speech absolutism now face a values mismatch. The organization's decision reflects a more progressive alignment in its primary threat model: platform owners and the executive branch rather than government censorship and surveillance. Some donors have already signaled they want their money back.",
+        "when": "Immediate; next fundraising cycle will reveal scope."
+      },
+      {
+        "who": "The coalition politics of digital rights",
+        "how": "EFF's long-term value was being credible to both sides of the culture war because it fought government overreach regardless of party. That positioning is harder to maintain after a decision that aligns it visibly against the platform that the current administration and its allies treat as their home. Future cross-partisan coalition work becomes more difficult.",
+        "when": "Medium-term."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Institutional Irrelevance",
+        "whatHappens": "EFF loses its cross-partisan credibility, donor base fragments, and it becomes a well-funded advocacy organization for one political coalition's internet interests rather than a civil liberties institution with broad standing.",
+        "signal": "Significant decline in conservative or libertarian donation share in next two annual reports; organization shifts litigation focus toward executive branch targets exclusively."
+      },
+      {
+        "name": "Strategic Repositioning",
+        "whatHappens": "EFF refocuses on legal challenges to government surveillance, AI data practices, and platform accountability law rather than platform presence. The departure from X is the start of a deliberate pivot toward policy and litigation work that does not depend on platform relationships.",
+        "signal": "Major new EFF litigation or legislative campaign announced within six months; new executive director Nicole Ozer signals the shift in a public statement."
+      },
+      {
+        "name": "Irrelevant to the Fight",
+        "whatHappens": "The consequential decisions about internet governance continue to be made at X, Meta, and in Congress, none of which are particularly attentive to EFF's presence or absence. The departure is noted and forgotten.",
+        "signal": "No measurable change in platform policy or congressional engagement with EFF within one year."
+      }
+    ],
+    "whatWouldChange": "The bottom line would be wrong if EFF uses its departure as leverage in a sustained public campaign that demonstrably changes X's human rights practices, demonstrating that external pressure from outside the platform is more effective than platform presence. There is no current evidence that is the strategy."
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": "china-iran-ceasefire-gambit",
+  "date": "2026-04-10",
+  "generatedAt": "2026-04-10T07:45:00Z",
+  "title": "China's Invisible Hand in the Iran Ceasefire",
+  "subtitle": "Beijing brokered peace through Pakistan, kept its fingerprints off the deal, and is now heading into the Trump summit holding the winning hand.",
+  "topic": "geopolitics",
+  "category": "power",
+  "tags": ["Iran", "China", "ceasefire", "Pakistan", "Strait of Hormuz", "Trump-Xi summit"],
+  "coverImage": {
+    "url": "https://dims.apnews.com/dims4/default/c886276/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa8%2F22%2F8e287c7a78e539b34d0ffee28f15%2F4da58fde603c44a49a0ca7b06417373e",
+    "local": "/images/reports/2026-04-10/china-iran-ceasefire-gambit.jpg",
+    "credit": "AP News"
+  },
+  "sources": [
+    {
+      "url": "https://apnews.com/article/iran-war-china-diplomacy-ceasefire-trump-7ffbf7bf87519f9ec4050ee27127fd1d",
+      "publisher": "AP News",
+      "angle": "Trump openly credits China for the ceasefire; three anonymous diplomats confirm Beijing used its leverage on Tehran; questions remain about whether China will go deeper into the diplomacy."
+    },
+    {
+      "url": "https://www.scmp.com/opinion/asia-opinion/article/3349462/chinas-role-iran-us-ceasefire-reflects-its-strategic-distance",
+      "publisher": "South China Morning Post",
+      "angle": "China deliberately used Pakistan as the public face of mediation to borrow Islamabad's credentials with both the Gulf states and Tehran while keeping its own exposure minimal."
+    },
+    {
+      "url": "https://www.newsweek.com/china-could-be-the-silent-winner-of-the-us-iran-truce-11799181",
+      "publisher": "Newsweek",
+      "angle": "China is the silent winner: it gains peacemaker credentials, positions for reconstruction contracts in post-war Iran, and walks into the Trump summit with demonstrated leverage."
+    },
+    {
+      "url": "https://www.firstpost.com/explainers/us-iran-ceasefire-china-26-calls-push-pakistan-efforts-13998710.html",
+      "publisher": "Firstpost",
+      "angle": "Wang Yi made 26 diplomatic calls during the war; China's last-minute push broke the impasse after other countries' efforts had stalled; Iran explicitly acknowledged China's role."
+    }
+  ],
+  "brief": {
+    "actors": ["China", "Iran", "Trump", "Pakistan", "Xi Jinping", "Israel"],
+    "whatHappened": "On April 7, hours before Trump's deadline to strike Iranian infrastructure, Pakistan announced a two-week US-Iran ceasefire that had been secretly engineered by China. Wang Yi made 26 diplomatic calls during the six-week war, and Iranian officials confirmed that a last-minute Chinese intervention convinced Tehran to accept the deal. Trump publicly credited Beijing. A US-Iran diplomatic meeting is now scheduled in Islamabad this weekend. The Trump-Xi summit, originally planned for April but delayed when the war began, is now rescheduled for mid-May.",
+    "bottomLine": "China traded a small diplomatic favor for a large diplomatic asset: it enters the Trump summit as the country that stopped a war Trump started, with leverage over both the ceasefire's fragile continuation and Iran's oil supply.",
+    "hiddenBets": [
+      {
+        "assumption": "Pakistan brokered this ceasefire.",
+        "whyItMightBeWrong": "Pakistan was the public wrapper on a Chinese diplomatic operation. Islamabad served as a relay because direct US-China coordination would have been politically costly for both sides. The deal's durability depends on Beijing, not Islamabad, maintaining pressure on Tehran."
+      },
+      {
+        "assumption": "Trump's Iran war was a strategic success that brought China to the table.",
+        "whyItMightBeWrong": "Chinese social media was openly mocking Trump for 'chickening out' before the deadline. The fact that Trump did not strike Iranian power plants after threatening to do so suggests he needed the off-ramp as badly as Iran did. China may have provided cover for both sides to retreat."
+      },
+      {
+        "assumption": "China's motivation is goodwill or global stability.",
+        "whyItMightBeWrong": "China imports 90% of Iran's oil exports and half its own supply through the Strait of Hormuz. The ceasefire is self-interested economics dressed as diplomacy. Beijing's refusal to guarantee Iran's long-term security makes clear it is managing its own exposure, not underwriting a peace deal."
+      }
+    ],
+    "realDisagreement": "The real fork is whether China's intervention makes it a responsible global power that can constrain US unilateralism, or an opportunist that extracted maximum diplomatic benefit from a crisis it let worsen before stepping in at the last moment. The first reading makes China a stabilizing force worth engaging at the summit; the second makes it a free-rider on the chaos Trump created. Both are partially true and they pull the Trump-Xi summit in opposite directions. China is heading into that meeting with leverage, but leverage extracted from a war that cost global markets trillions. The question is whether Trump will reward it or resent it.",
+    "whatNoOneIsSaying": "Iran demanded $1 per barrel of oil passing through the Strait as a transit fee, payable in cryptocurrency. If that becomes a negotiating chip in the Islamabad talks, China, as the world's largest oil importer, would effectively be subsidizing Iran's deterrence posture against the United States. Beijing's silence on this demand is conspicuous.",
+    "whoPays": [
+      {
+        "who": "Asian manufacturers and energy importers",
+        "how": "The Strait of Hormuz closure has already spiked oil prices and pushed Chinese factory prices back into inflationary territory. Every week of continued uncertainty extends supply chain disruption across Asia.",
+        "when": "Ongoing; damage is already in progress."
+      },
+      {
+        "who": "Iran's post-war reconstruction",
+        "how": "China is positioned to be first in line for reconstruction contracts under Belt and Road frameworks. But this means Iranian economic recovery will be shaped by Chinese commercial interests, not Iranian sovereignty preferences.",
+        "when": "Medium-term, contingent on a durable deal."
+      },
+      {
+        "who": "Gulf states",
+        "how": "Saudi Arabia and the UAE are watching China demonstrate that it can apply pressure on Iran without triggering escalation, something the US could not manage. This shifts the regional security calculus toward Beijing as an alternative guarantor.",
+        "when": "Slow-burn, visible over 12-24 months."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Durable Deal",
+        "whatHappens": "Islamabad talks produce a framework; China's role is formalized as a guarantor or observer; the Trump-Xi summit advances on Iran sanctions relief and trade; oil prices normalize.",
+        "signal": "Iran agrees to reopen the Strait permanently in exchange for US sanctions relief, and China publicly endorses the deal."
+      },
+      {
+        "name": "Fragile Truce",
+        "whatHappens": "The ceasefire holds through the two-week window but Islamabad talks collapse on Iran's nuclear demands and Hezbollah operations. Trump delays the Xi summit. China pockets its diplomatic gains without deeper commitment.",
+        "signal": "Netanyahu announces continued Hezbollah strikes before the Islamabad talks conclude; Iran walkout."
+      },
+      {
+        "name": "Collapse and Escalation",
+        "whatHappens": "The ceasefire breaks before April 21 (32.5% market probability). Trump resumes strikes. China withdraws from mediation to protect its relationship with Iran. The Trump-Xi summit is cancelled.",
+        "signal": "The ceasefire-ending market price moves above 20% by April 12; Iran's Revolutionary Guard announces resumed Strait operations."
+      }
+    ],
+    "whatWouldChange": "If Trump announces the end of US military operations against Iran before April 30 (currently priced at 42.5% by markets), it would validate China's gambit as the decisive factor in ending the war. If Trump instead resumes strikes, it would suggest his apparent deference to Beijing was tactical misdirection.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Iran x Israel/US conflict ends by April 30?",
+        "url": "https://polymarket.com/event/iran-x-israelus-conflict-ends-by",
+        "probability": 0.695
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Trump announces end of military operations against Iran by April 30?",
+        "url": "https://polymarket.com/event/trump-announces-end-of-military-operations-against-iran-by",
+        "probability": 0.425
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US x Iran diplomatic meeting by April 15, 2026?",
+        "url": "https://polymarket.com/event/us-x-iran-diplomatic-meeting-by-833",
+        "probability": 0.895
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Trump agree to Iranian Oil sanction relief in April?",
+        "url": "https://polymarket.com/event/what-will-the-us-agree-to",
+        "probability": 0.41
+      }
+    ]
+  }
+}
