@@ -1,6 +1,6 @@
 {
   "date": "2026-04-10",
-  "generatedAt": "2026-04-10T12:35:00Z",
+  "generatedAt": "2026-04-10T22:30:00Z",
   "reports": [
     {
       "id": "china-iran-ceasefire-gambit",
@@ -60,6 +60,36 @@
       "id": "dhs-shutdown-partial-deal",
       "title": "The DHS Shutdown Ended. The Fight It Was About Did Not.",
       "subtitle": "After 40 days, the Senate reopened most of the Department of Homeland Security but deliberately left ICE and Border Patrol funding unresolved. The compromise is not a settlement. It is a timeout.",
+      "category": "power"
+    },
+    {
+      "id": "iran-war-inflation-fed-trap",
+      "title": "The Fed Is Trapped Between a War and the Economy It Has to Protect",
+      "subtitle": "March CPI hit 3.3% on an Iran-war energy shock that the Fed did not cause and cannot stop. Rate cuts are now off the table. Rate hikes would crush a fragile recovery. There is no good option.",
+      "category": "conflict"
+    },
+    {
+      "id": "trump-tariff-section122-court",
+      "title": "Trump's Backup Tariff Plan Is in Court. It Has a 150-Day Clock and a Dubious Legal Theory.",
+      "subtitle": "After the Supreme Court killed his IEEPA tariffs in February, Trump pivoted to Section 122 of the Trade Act. The new 10% global levy requires a real 'balance-of-payments deficit' and expires in 150 days. Both conditions are working against him.",
+      "category": "power"
+    },
+    {
+      "id": "openai-illinois-liability-shield",
+      "title": "OpenAI Is Backing a Bill That Would Let It Cause Mass Death Without Full Liability. This Week It Got Sued for Causing a Stalking.",
+      "subtitle": "SB 3444 shields AI firms from damages in catastrophic harm cases, if they publish safety reports. The same week OpenAI endorsed it, a lawsuit dropped alleging ChatGPT deepened a man's delusions until he stalked a woman.",
+      "category": "ethics"
+    },
+    {
+      "id": "coinbase-clarity-act-reversal",
+      "title": "Coinbase Just Endorsed the Bill It Killed Twice. The Treasury Secretary Made the Ask.",
+      "subtitle": "Brian Armstrong spent months blocking the CLARITY Act over stablecoin yield rules that threatened $1.35 billion in Coinbase revenue. After Scott Bessent publicly pushed for it, Armstrong reversed. The yield question is still unresolved.",
+      "category": "power"
+    },
+    {
+      "id": "sotomayor-shadow-docket-alarm",
+      "title": "Sotomayor Says the Supreme Court Did This to Itself",
+      "subtitle": "The Trump administration has filed 30 emergency SCOTUS applications. The court has ruled in its favor more than 80% of the time. Sotomayor's diagnosis: the conservative majority created the incentive by treating temporary orders as permanent wins.",
       "category": "power"
     }
   ]

@@ -1,0 +1,107 @@
+{
+  "id": "iran-war-inflation-fed-trap",
+  "date": "2026-04-10",
+  "generatedAt": "2026-04-10T22:30:00Z",
+  "title": "The Fed Is Trapped Between a War and the Economy It Has to Protect",
+  "subtitle": "March CPI hit 3.3% on an Iran-war energy shock that the Fed did not cause and cannot stop. Rate cuts are now off the table. Rate hikes would crush a fragile recovery. There is no good option.",
+  "topic": "economy",
+  "category": "conflict",
+  "tags": ["Federal Reserve", "inflation", "Iran war", "CPI", "energy prices", "interest rates"],
+  "coverImage": {
+    "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/09/04809921-e165-4fc2-a92a-b018823ab818/thumbnail/1200x630/ac5f4939776f8604b7cc93f8a16c821d/gettyimages-2270492133.jpg",
+    "local": "/images/reports/2026-04-10/iran-war-inflation-fed-trap.jpg",
+    "credit": "CBS News / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://www.cbsnews.com/news/cpi-report-today-march-2026-inflation-iran-war-trump/?intcid=CNI-00-10aaa3a",
+      "publisher": "CBS News",
+      "angle": "Straight CPI data coverage: energy up 10.9%, gasoline up 21.2%, Brent crude at $95 from $73 before the war. Wage gains erased."
+    },
+    {
+      "url": "https://www.cnbc.com/amp/2026/04/10/cpi-inflation-march-2026-breakdown.html",
+      "publisher": "CNBC",
+      "angle": "Breakdown by category: energy drove nearly three-quarters of the monthly gain; core inflation stayed at 0.2% monthly and 2.6% annually, indicating the shock is narrowly concentrated."
+    },
+    {
+      "url": "https://www.benzinga.com/news/politics/26/04/51751880/march-cpi-iran-war-inflation-4-year-high",
+      "publisher": "Benzinga",
+      "angle": "Market-oriented take: the Fed is now pinned with no room to cut without reigniting inflation and no ability to raise without cracking a fragile economy."
+    },
+    {
+      "url": "https://financialpost.com/news/economy/global-rate-veers-higher-trump-shock",
+      "publisher": "Financial Post",
+      "angle": "Global central bank angle: the Iran shock is forcing rate-path revisions worldwide; the Bank of Canada and ECB are both reconsidering cuts they had signaled."
+    }
+  ],
+  "brief": {
+    "actors": ["Federal Reserve", "Powell", "Iran", "Trump", "OPEC"],
+    "whatHappened": "The Bureau of Labor Statistics released March CPI data on April 10 showing annual inflation of 3.3%, the highest since May 2024, up sharply from 2.4% in February. The monthly increase of 0.9% was the biggest since June 2022. Energy prices drove the move, rising 10.9% in a single month as the U.S.-Israeli war with Iran, which began February 28, squeezed crude supply through the Strait of Hormuz. Gasoline prices alone rose 21.2% in March. Core inflation, excluding food and energy, remained contained at 2.6% annually and 0.2% monthly. American wage gains, which had outpaced inflation for nearly three years, were wiped out in a single month.",
+    "bottomLine": "The Fed did not create this inflation and cannot cure it with interest rates, but it will be blamed for both not cutting and not hiking, depending on what breaks first.",
+    "hiddenBets": [
+      {
+        "assumption": "Energy-driven inflation spikes are temporary and should be 'looked through' by the Fed",
+        "whyItMightBeWrong": "That assumption held in 2022 when the Ukraine war spiked energy prices. But the Iran war is different: the Strait of Hormuz handles roughly 20% of global oil supply, and no quick resolution is visible. A multi-month disruption does not self-correct. If the ceasefire collapses, the spike becomes structural."
+      },
+      {
+        "assumption": "Core inflation staying at 2.6% means the Fed has room to wait",
+        "whyItMightBeWrong": "Core inflation is a lagging indicator. Higher gasoline prices flow into shipping costs, food production, and services within 6-8 weeks. Core will likely jump in April. The Fed is making decisions now based on data that has not yet captured the second-order effects."
+      },
+      {
+        "assumption": "The ceasefire announced April 4 stabilizes oil prices",
+        "whyItMightBeWrong": "Markets in April show oil still above $90. The ceasefire is fragile: Polymarket had a 51% chance Trump would be forced to refund tariffs, and multiple sources describe the Iran truce as contested and unverified in its implementation. Each escalation threat sends oil higher."
+      }
+    ],
+    "realDisagreement": "The real fork is whether the Fed should treat this as a supply shock to wait out or as a credibility test requiring action. The case for waiting: core inflation is fine, hiking into a geopolitical supply shock is historically wrong and politically reckless. The case for acting: the Fed already spent credibility on the 2021-2022 'transitory' mistake; if it again declares this transitory and is wrong, inflation expectations become unmoored. The markets currently price 41.5% odds that there will be no Fed rate cuts at all in 2026. That is the market's answer: the Fed cannot cut. But that number would have been near zero six months ago. The lean is toward waiting, but the cost of being wrong a second time is higher than it was the first time.",
+    "whatNoOneIsSaying": "The Iran war is, functionally, a tax on the U.S. economy imposed by a military decision the White House made without pricing in the inflationary cost. The Fed is being asked to clean up the monetary damage from a war it had no role in starting. If it raises rates to combat war-caused inflation, it punishes workers and borrowers for a decision made by the Pentagon and the White House. No one at the Fed can say this, because it would be read as opposing the war.",
+    "whoPays": [
+      {
+        "who": "Workers in sectors with variable pay: drivers, gig workers, hourly wage earners",
+        "how": "Wage gains were already narrow before March; a 0.9% single-month CPI increase erases the entire buffer. Real wages dropped in March. Gig workers have no collective bargaining to adjust pay in response.",
+        "when": "Already happening. April will be worse if oil stays elevated."
+      },
+      {
+        "who": "Homebuyers and mortgage applicants",
+        "how": "Mortgage rates track 10-year Treasury yields, which rise when inflation expectations rise. Any Fed signal that rate cuts are off delays the housing market recovery. Each 0.1% increase in mortgage rates prices roughly 200,000 households out of buying.",
+        "when": "Medium-term: 3-6 months as pricing adjusts."
+      },
+      {
+        "who": "Emerging market governments with dollar-denominated debt",
+        "how": "If the Fed holds rates higher for longer or signals tightening, the dollar strengthens. Dollar-denominated debt becomes harder to service. The Financial Post notes global rate paths are veering higher in the wake of this shock.",
+        "when": "Slow-burn over 6-12 months, accelerating at each new oil shock."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Ceasefire Holds, Prices Normalize",
+        "whatHappens": "The U.S.-Iran ceasefire stabilizes. Brent crude falls from $95 back toward $80. April and May CPI readings moderate. The Fed resumes its gradual easing path with one or two cuts by end of year.",
+        "signal": "Brent crude sustaining below $85 for two consecutive weeks, paired with Iranian compliance on Hormuz transit."
+      },
+      {
+        "name": "War Drags, Fed Freezes",
+        "whatHappens": "The ceasefire frays or collapses by May. Oil holds above $90. Core inflation starts creeping up in April data, released in May. The Fed holds all year. Recession odds rise as higher energy costs compress consumer spending.",
+        "signal": "April CPI core reading above 0.3% monthly; oil above $95 at end of April."
+      },
+      {
+        "name": "Stagflation Lock-In",
+        "whatHappens": "Energy shock persists through summer. Core inflation hits 3% annually. Unemployment also rises as higher costs squeeze margins and force layoffs. The Fed is explicitly trapped: raising rates worsens unemployment, cutting rates worsens inflation. The 1970s playbook becomes unavoidable.",
+        "signal": "Unemployment claims rising while CPI stays above 3.5% for two consecutive months."
+      }
+    ],
+    "whatWouldChange": "A genuine, verified Iranian agreement to guarantee Hormuz transit backed by a third-party enforcement mechanism, paired with two consecutive monthly CPI readings showing energy prices returning below February levels, would change this assessment. Short of that, the Fed's paralysis is the base case.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will no Fed rate cuts happen in 2026?",
+        "url": "https://polymarket.com/event/how-many-fed-rate-cuts-in-2026",
+        "probability": 0.415
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Fed rate cut by June 2026 meeting?",
+        "url": "https://polymarket.com/event/fed-rate-cut-by-629",
+        "probability": 0.115
+      }
+    ]
+  }
+}

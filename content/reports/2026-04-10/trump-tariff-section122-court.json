@@ -1,0 +1,96 @@
+{
+  "id": "trump-tariff-section122-court",
+  "date": "2026-04-10",
+  "generatedAt": "2026-04-10T22:30:00Z",
+  "title": "Trump's Backup Tariff Plan Is in Court. It Has a 150-Day Clock and a Dubious Legal Theory.",
+  "subtitle": "After the Supreme Court killed his IEEPA tariffs in February, Trump pivoted to Section 122 of the Trade Act. The new 10% global levy requires a real 'balance-of-payments deficit' and expires in 150 days. Both conditions are working against him.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Trump", "tariffs", "trade", "Section 122", "Court of International Trade", "IEEPA", "trade law"],
+  "coverImage": {
+    "url": "https://www.ocregister.com/wp-content/uploads/2026/04/Trump_86757-1.jpg?w=1024&h=682",
+    "local": "/images/reports/2026-04-10/trump-tariff-section122-court.jpg",
+    "credit": "AP Photo / OC Register"
+  },
+  "sources": [
+    {
+      "url": "https://www.ocregister.com/2026/04/10/trump-tariffs-lawsuit-federal-court/",
+      "publisher": "OC Register / AP",
+      "angle": "Straight news on oral arguments: 24 states and small businesses challenge the Section 122 tariffs as lacking a real balance-of-payments deficit justification."
+    },
+    {
+      "url": "https://www.upi.com/Top_News/US/2026/04/10/trump-10-global-tariffs-suit/2481775829661/",
+      "publisher": "UPI",
+      "angle": "Legal mechanics: Section 122 allows up to 15% tariff for up to 150 days on balance-of-payments grounds, a significantly narrower authority than IEEPA."
+    },
+    {
+      "url": "https://www.newsobserver.com/news/politics-government/article315328771.html",
+      "publisher": "Raleigh News and Observer",
+      "angle": "State attorney general angle: North Carolina AG Jeff Jackson argues the law's conditions were not actually met and that households and agriculture will pay."
+    },
+    {
+      "url": "https://www.mondaq.com/unitedstates/international-law/1771134/supreme-court-clarifies-separation-of-powers-in-ieepa-tariffs-decision",
+      "publisher": "Mondaq / Braumiller Law",
+      "angle": "Legal history: SCOTUS's Feb 20 IEEPA ruling established that trade-deficit-as-emergency is not a blank check; Section 122 is a narrower, harder-to-abuse tool."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "SCOTUS", "Court of International Trade", "Congress"],
+    "whatHappened": "The U.S. Court of International Trade heard oral arguments on April 10 in challenges to President Trump's 10% global import tariff, imposed February 20 under Section 122 of the Trade Act of 1974. This tariff is Trump's second attempt at universal import levies: his first, imposed under the International Emergency Economic Powers Act, was struck down by the Supreme Court on February 20 for exceeding executive authority. Section 122 allows the president to impose global tariffs of up to 15% for up to 150 days to address a 'large and serious United States balance-of-payments deficit.' Twenty-four states and multiple importers argue the U.S. does not currently have a qualifying balance-of-payments deficit and that Trump is again using the statute to impose whatever tariffs he wants for whatever reason he chooses.",
+    "bottomLine": "Trump's fallback tariff authority has a built-in expiration date, a statutory cap, and a factual condition he may not be able to prove: the U.S. has a trade deficit, not a balance-of-payments crisis, and courts may not treat them as the same thing.",
+    "hiddenBets": [
+      {
+        "assumption": "A trade deficit and a 'balance-of-payments deficit' are legally interchangeable",
+        "whyItMightBeWrong": "A balance-of-payments deficit is a specific technical condition involving the full current and capital accounts, not just goods imports. The U.S. has run a goods trade deficit for decades but has generally had capital account surpluses that offset it. Courts could rule that the statutory condition simply is not present, making the tariff facially invalid regardless of its size."
+      },
+      {
+        "assumption": "The 150-day clock is a problem Trump can solve by renewing the tariff",
+        "whyItMightBeWrong": "Section 122 is not easily renewed. The statute requires the condition to still exist and Congress can terminate the tariff by concurrent resolution within 90 days. Trump's legal team has not explained how they would handle expiration. If the court does not strike it down, the clock forces a resolution by mid-July regardless."
+      },
+      {
+        "assumption": "The Court of International Trade is unlikely to block the tariff given deference to executive trade authority",
+        "whyItMightBeWrong": "Polymarket has a 51% chance the court forces Trump to refund tariffs. That is a coin flip, not deference. The SCOTUS IEEPA ruling already established that courts will scrutinize the legal basis for tariffs closely. The CIT has no reason to be more deferential than SCOTUS was."
+      }
+    ],
+    "realDisagreement": "The real fork is whether the judiciary is willing to set a clear limit on executive trade authority or whether it will find a way to avoid doing so. The argument for restraint: courts have historically deferred to presidents on trade as a foreign policy matter, and Section 122 at least has a textual basis. The argument for limits: SCOTUS already drew a line in February; allowing Section 122 to substitute for the authority SCOTUS just denied would render that ruling meaningless. The lean is toward the court drawing another limit, because the logic of the February ruling specifically warned against treating any available statute as a blank check. But the path from today's oral arguments to a final injunction could take months the tariff's clock will not wait for.",
+    "whatNoOneIsSaying": "The 150-day limit was written into Section 122 precisely because Congress knew it was giving the president real power. The expiration was the price of the grant. Trump's legal theory, taken to its conclusion, would mean the president can perpetually impose 15% tariffs on all imports simply by re-declaring the condition every 150 days. That would make the expiration provision meaningless. No judge who reads the statute literally should be comfortable with that reading.",
+    "whoPays": [
+      {
+        "who": "Importers who paid tariffs under IEEPA and are now paying under Section 122",
+        "how": "Polymarket's 51% odds of a forced refund means there is a near-even chance these businesses paid tariffs that courts will eventually declare illegal. They face a choice between litigating for refunds or absorbing the cost as past losses.",
+        "when": "Immediate cost incurred; refund possibility a 6-18 month court process."
+      },
+      {
+        "who": "Consumers facing higher prices on imported goods",
+        "how": "The 10% universal tariff is already embedded in retail prices. A court ruling does not automatically lower prices; retailers and supply chains have already adjusted pricing models. Even if the tariff is struck down, consumer prices may not recover quickly.",
+        "when": "Price normalization: 3-6 months after a definitive court ruling, if it comes."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Court Strikes It Down",
+        "whatHappens": "The CIT issues an injunction. Trump appeals to the Federal Circuit, which eventually goes to SCOTUS again. The tariff may be paused pending appeal. Trump faces a third attempt at universal tariffs with no clear statutory vehicle remaining.",
+        "signal": "CIT issues a preliminary injunction or scheduling order within 30 days suggesting the court found the balance-of-payments argument weak."
+      },
+      {
+        "name": "Clock Runs Out First",
+        "whatHappens": "The court does not rule quickly enough. The 150-day tariff expires in July. Trump attempts to renew under the same statute or pivot to country-specific tariffs already tested under other authorities. The legal challenge becomes moot on the Section 122 question.",
+        "signal": "No injunction by mid-May; government briefs arguing procedural delay."
+      },
+      {
+        "name": "Court Upholds It",
+        "whatHappens": "The CIT defers to executive authority on trade. The ruling effectively gives the president the power to impose 15% global tariffs in perpetual 150-day windows. Congress would need to legislate a clear limit or SCOTUS would need to revisit.",
+        "signal": "Oral arguments show judges focused on deference doctrine rather than the statutory conditions."
+      }
+    ],
+    "whatWouldChange": "A clear ruling from SCOTUS, or from the CIT and Federal Circuit, that the 'balance-of-payments deficit' condition requires a finding that the current account deficit is large enough to threaten the dollar's stability would change the analysis. Alternatively, if Congress acts under the concurrent resolution provision to terminate the tariff by majority vote, the court question becomes irrelevant.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Court Force Trump to Refund Tariffs?",
+        "url": "https://polymarket.com/event/will-the-court-force-trump-to-refund-tariffs-2026-06-30",
+        "probability": 0.51
+      }
+    ]
+  }
+}

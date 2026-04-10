@@ -1,0 +1,96 @@
+{
+  "id": "coinbase-clarity-act-reversal",
+  "date": "2026-04-10",
+  "generatedAt": "2026-04-10T22:30:00Z",
+  "title": "Coinbase Just Endorsed the Bill It Killed Twice. The Treasury Secretary Made the Ask.",
+  "subtitle": "Brian Armstrong spent months blocking the CLARITY Act over stablecoin yield rules that threatened $1.35 billion in Coinbase revenue. After Scott Bessent publicly pushed for it, Armstrong reversed. The yield question is still unresolved.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Coinbase", "CLARITY Act", "crypto regulation", "stablecoin", "Bessent", "Armstrong"],
+  "coverImage": {
+    "url": "https://images.cointelegraph.com/cdn-cgi/image/f=auto,onerror=redirect,w=1200/https://s3.cointelegraph.com/uploads/2026-04/019d7851-c0e9-7439-96c0-863398aba6c3.jpg",
+    "local": "/images/reports/2026-04-10/coinbase-clarity-act-reversal.jpg",
+    "credit": "Cointelegraph"
+  },
+  "sources": [
+    {
+      "url": "https://cointelegraph.com/news/coinbase-ceo-treasury-secretary-clarity-act",
+      "publisher": "Cointelegraph",
+      "angle": "Armstrong's reversal: he posted on X agreeing with Bessent's public push to pass the CLARITY Act, about three months after Coinbase blocked a committee vote by withdrawing support over stablecoin yield provisions."
+    },
+    {
+      "url": "https://www.cryptotimes.io/2026/04/10/we-agree-coinbase-ceo-backs-clarity-act-after-blocking-it-twice-in-2026/",
+      "publisher": "Crypto Times",
+      "angle": "The specific staking yield issue: Coinbase earns roughly $1.35 billion annually from stablecoin programs. The CLARITY Act as written would restrict those yields. Armstrong blocked the bill twice over this issue."
+    },
+    {
+      "url": "https://www.abcmoney.co.uk/2026/04/inside-the-trump-crypto-war-room-what-the-new-clarity-act-means-for-silicon-valley/",
+      "publisher": "ABC Money",
+      "angle": "White House push: David Sacks (AI and crypto czar), Marc Andreessen, and Fred Ehrsam on the Presidential Council are driving the CLARITY Act. The administration views it as a core second-term legislative priority."
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/crypto/articles/clarity-act-two-more-triggers-081224232.html",
+      "publisher": "Yahoo Finance / DL News",
+      "angle": "Market angle: Bitcoin above $70,000 partly priced on CLARITY Act expectations. The bill's passage is treated as one of three catalysts for the 'next liquidity cycle' in crypto."
+    }
+  ],
+  "brief": {
+    "actors": ["Coinbase", "Armstrong", "Bessent", "Trump", "Sacks"],
+    "whatHappened": "Coinbase CEO Brian Armstrong publicly endorsed the Digital Asset Market Clarity Act on April 9, agreeing with Treasury Secretary Scott Bessent's push for the bill to pass. The reversal came roughly three months after Armstrong withdrew Coinbase's support for the CLARITY Act at a critical committee vote in January, citing language around stablecoin yield rules that threatened the company's approximately $1.35 billion in annual stablecoin revenue. Armstrong had blocked the bill twice before. His endorsement followed a coordinated push from Bessent, SEC chair Paul Atkins, and the White House AI and crypto czar David Sacks. The text of the CLARITY Act and the specific stablecoin yield provisions remain unresolved.",
+    "bottomLine": "Armstrong did not change his position on the stablecoin yield issue; he changed his calculation of whether blocking the bill was worth fighting the Treasury Secretary, the SEC chair, and the White House at the same time.",
+    "hiddenBets": [
+      {
+        "assumption": "Armstrong's endorsement means he accepted the stablecoin yield language",
+        "whyItMightBeWrong": "Nothing in his public statement addressed the yield provisions. His statement was 'it's time to pass' the CLARITY Act, which can mean 'pass it now before someone adds worse amendments' as easily as 'pass it as written.' Coinbase may be betting it can get the yield language changed in conference or in implementation rules after passage. The bill's text and the CEO's endorsement may not be the same thing."
+      },
+      {
+        "assumption": "CLARITY Act passage is bullish for Coinbase's revenue",
+        "whyItMightBeWrong": "If the stablecoin yield restrictions survive into the final law, passage is directly negative for $1.35 billion of Coinbase's revenue. The market is pricing the CLARITY Act as broadly positive for crypto, but Coinbase specifically could see a net revenue loss from the bill it is now publicly supporting."
+      },
+      {
+        "assumption": "This endorsement closes the deal; the bill will pass",
+        "whyItMightBeWrong": "Polymarket has CLARITY Act passage in 2026 at 56.5%. That is above even odds but not decisive. The bill still needs to survive House markup, Senate votes, and conference. Armstrong's flip removed one blocker but the legislative calendar is crowded and crypto legislation has failed in the final stretch before."
+      }
+    ],
+    "realDisagreement": "The actual tension is between what Armstrong does publicly and what he does privately in the next phase. The public endorsement removed his obstruction. But Coinbase's lobbying machine is still funded and active. The fork is: does Armstrong use the post-endorsement period to quietly shape the bill's stablecoin yield provisions through technical amendment and regulatory comment, or does the endorsement represent a genuine strategic retreat from the yield fight? The case for quiet shaping: that is what every regulated company does. The case for genuine retreat: the White House pressure was specific and public, and continuing to fight on the yield provisions would mean fighting the administration that controls the SEC, the Treasury, and the White House Council. The lean is toward quiet shaping: Armstrong gave up the public fight but not the private one.",
+    "whatNoOneIsSaying": "The Treasury Secretary publicly pressuring the CEO of a publicly traded company to support specific legislation is a form of regulatory coercion that, in another context, would generate hearings. Bessent did not threaten Coinbase, but Armstrong knows the administration controls his company's operating license, its exchange registration, and its SEC treatment. The reversal is being covered as a policy development. It is also a demonstration of what happens when the executive branch wants a specific business outcome from a specific company.",
+    "whoPays": [
+      {
+        "who": "Coinbase shareholders, if stablecoin yield restrictions survive",
+        "how": "A $1.35 billion annual revenue line being cut or restricted by legislation the CEO publicly endorsed would be the direct mechanism. Shareholders cannot easily argue the company fought the outcome if the CEO blessed it.",
+        "when": "Realization point: 12-18 months after bill passage and regulatory implementation."
+      },
+      {
+        "who": "Smaller crypto exchanges that do not have Coinbase's lobbying access",
+        "how": "The CLARITY Act's compliance framework will be designed by large exchanges and their lawyers. Smaller platforms face the same regulatory burden with none of the influence over the rules' design. They will comply with rules they had no role in shaping.",
+        "when": "Ongoing: regulatory burden begins at enactment."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Passes With Yield Restrictions Intact",
+        "whatHappens": "CLARITY Act passes largely as written. Stablecoin yield restrictions survive. Coinbase takes a revenue hit it publicly cannot complain about. Armstrong's endorsement becomes a liability to him personally and to shareholders who were not warned about the revenue impact.",
+        "signal": "Conference report does not modify the stablecoin yield provisions."
+      },
+      {
+        "name": "Coinbase Quietly Wins the Yield Fight",
+        "whatHappens": "Coinbase's lobbyists succeed in modifying the yield language in technical amendments or implementation rules. The final bill is favorable to Coinbase's revenue model. Armstrong's public endorsement is credited with getting the bill across the finish line while protecting the company's interests.",
+        "signal": "Technical amendment filings or Treasury regulatory guidance post-passage that carves out exchange-operated stablecoin yield programs."
+      },
+      {
+        "name": "Bill Stalls Again",
+        "whatHappens": "The CLARITY Act fails to advance in the Senate before the legislative calendar crowds it out. Armstrong's endorsement was meaningless. The 56.5% Polymarket odds resolve in the no-passage direction. Crypto regulation returns to the next Congress.",
+        "signal": "Senate Majority Leader does not schedule a floor vote before August recess."
+      }
+    ],
+    "whatWouldChange": "An amendment to the CLARITY Act explicitly preserving exchange-operated stablecoin yield programs would reveal whether Armstrong endorsed the bill as written or endorsed it as a vehicle he planned to reshape. If the amendment appears and Coinbase backs it, the endorsement was always conditional. If the amendment appears and Coinbase opposes it, Armstrong is trying to restore what he gave up.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Clarity Act signed into law in 2026?",
+        "url": "https://polymarket.com/event/clarity-act-signed-into-law-in-2026",
+        "probability": 0.565
+      }
+    ]
+  }
+}

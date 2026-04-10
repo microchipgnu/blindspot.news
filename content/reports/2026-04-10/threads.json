@@ -4,9 +4,9 @@
     {
       "id": "judicial-authority-erosion",
       "title": "Courts Keep Ruling. The Executive Keeps Moving.",
-      "description": "Three stories today involve the executive branch losing in court and then restructuring its approach rather than complying: Pentagon press access, the EPA endangerment repeal, and birthright citizenship. The pattern is not defiance in the traditional sense but procedural exhaustion: revise the policy, force a new lawsuit, appeal every ruling, gain months of de facto implementation while litigation drags. The judiciary's nominal wins are real constraints in the long run but operational losses in the short one.",
+      "description": "Five stories today share the same executive strategy: lose in court, restructure the policy, gain months of de facto implementation while litigation drags. The Pentagon press contempt, EPA endangerment repeal, and birthright citizenship EO were the clearest examples from the morning. By evening, two more: Trump's tariffs, struck down by SCOTUS in February, pivoted to Section 122 and are back in court today. And Sotomayor publicly named the mechanism that makes this work: the conservative majority grants emergency stays that turn procedural delay into permanent outcomes. The judiciary's nominal wins are real constraints in the long run but operational losses in the short one.",
       "type": "tension-cluster",
-      "stories": ["pentagon-press-contempt", "epa-endangerment-repeal", "scotus-birthright-citizenship"],
+      "stories": ["pentagon-press-contempt", "epa-endangerment-repeal", "scotus-birthright-citizenship", "trump-tariff-section122-court", "sotomayor-shadow-docket-alarm"],
       "connections": [
         {
           "from": "pentagon-press-contempt",
@@ -19,9 +19,14 @@
           "relationship": "Both cases hinge on whether the executive can unilaterally remove foundational legal determinations without congressional authorization; the EPA repeal and the birthright EO share the same structural vulnerability to judicial reversal."
         },
         {
+          "from": "trump-tariff-section122-court",
+          "to": "sotomayor-shadow-docket-alarm",
+          "relationship": "The Section 122 tariff case goes through normal court channels that take months to resolve; Sotomayor's warning explains why that timing favors the administration: by the time the CIT rules, either the 150-day clock has expired and the tariff is moot, or the administration files an emergency stay with the SCOTUS majority that has sided with it 80% of the time."
+        },
+        {
           "from": "pentagon-press-contempt",
-          "to": "scotus-birthright-citizenship",
-          "relationship": "Hegseth's continued press restriction despite contempt and the birthright EO's enforcement despite injunctions both test whether the judiciary can impose behavioral compliance on a second-term administration willing to absorb reputational cost."
+          "to": "sotomayor-shadow-docket-alarm",
+          "relationship": "Hegseth's contempt for the press access ruling and the administration's emergency docket strategy are two expressions of the same operational logic: courts issue orders, the administration decides which ones to treat as binding, and the SCOTUS majority has provided the mechanism to delay or override the ones it does not like."
         }
       ]
     },
@@ -84,14 +89,38 @@
     {
       "id": "iran-war-economic-cascade",
       "title": "The Iran War Is Doing to the Global Economy What No One Modeled",
-      "description": "China's factory deflation ending and US regulators panicking about AI cyber risk are on the surface unrelated. But both trace back to the Iran war. The war drove oil prices up, ending China's 41-month deflation spiral and creating a cost-push crisis that Beijing cannot fix with standard stimulus. The same elevated geopolitical tension created the context in which Anthropic's Mythos model, capable of attacking critical infrastructure, became a systemic financial risk concern rather than a future threat. War-driven energy instability is simultaneously hitting the economic base and the security infrastructure of the non-belligerent major powers.",
+      "description": "China's factory deflation ending, US inflation hitting 3.3%, and federal regulators panicking about AI cyber risk all trace back to the same source: the Iran war. The war drove oil prices up, ending China's 41-month deflation spiral and creating a cost-push crisis that Beijing cannot fix with standard stimulus. The same war sent U.S. gasoline up 21.2% in a single month, trapping the Fed between rising prices it cannot control and a fragile economy it cannot afford to tighten. And the elevated geopolitical tension created the context in which Anthropic's Mythos model became a systemic financial risk concern. War-driven energy instability is simultaneously hitting the economic base, the monetary policy framework, and the security infrastructure of the non-belligerent major powers.",
       "type": "dependency-web",
-      "stories": ["china-ppi-iran-inflation", "anthropic-mythos-banking-risk"],
+      "stories": ["china-ppi-iran-inflation", "anthropic-mythos-banking-risk", "iran-war-inflation-fed-trap"],
       "connections": [
         {
           "from": "china-ppi-iran-inflation",
           "to": "anthropic-mythos-banking-risk",
           "relationship": "The Iran war's oil shock explains why Mythos's capability to attack financial and energy infrastructure became an urgent regulatory concern: in a world of elevated geopolitical tension and critical supply chain disruption, an AI that can find and exploit zero-days in bank and energy systems is not a theoretical risk but an active one."
+        },
+        {
+          "from": "iran-war-inflation-fed-trap",
+          "to": "china-ppi-iran-inflation",
+          "relationship": "U.S. CPI rising 3.3% on energy costs and China's PPI turning positive for the first time in 41 months are two readings of the same underlying variable: Strait of Hormuz-constrained oil supply flowing through two different national price mechanisms with different structural consequences."
+        }
+      ]
+    },
+    {
+      "id": "industry-writing-its-own-rules",
+      "title": "Three Frontier Tech Companies Are Using the Regulatory Moment to Cap Their Liability Forever",
+      "description": "OpenAI, Coinbase, and xAI are each pursuing distinct but structurally identical strategies: use the current political environment, where the administration distrusts both traditional regulators and state legislatures, to lock in legal frameworks before robust accountability mechanisms can form. OpenAI wants statutory immunity from mass harm below the catastrophic threshold. Coinbase wants a federal market structure law it helped design and is now shaping from the inside. xAI wants a constitutional barrier that makes AI systems unregulateable by states. All three are doing this simultaneously, and none of them are opposing regulation in general; they are sponsoring the specific regulation that advantages them before neutral regulators can set the terms.",
+      "type": "tension-cluster",
+      "stories": ["openai-illinois-liability-shield", "coinbase-clarity-act-reversal", "xai-colorado-firstamendment"],
+      "connections": [
+        {
+          "from": "openai-illinois-liability-shield",
+          "to": "coinbase-clarity-act-reversal",
+          "relationship": "OpenAI and Coinbase both reversed from opposition to support for legislation the moment they calculated that blocking was more costly than shaping; the shift in each case was triggered by direct engagement from government officials rather than by changes in the bills themselves."
+        },
+        {
+          "from": "coinbase-clarity-act-reversal",
+          "to": "xai-colorado-firstamendment",
+          "relationship": "Coinbase's endorsement of the CLARITY Act and xAI's lawsuit against Colorado regulation are both bets on federal preemption: if federal rules set a floor that Coinbase helped design, state-level restrictions become harder to impose; if xAI wins on First Amendment grounds, states lose the ability to regulate AI outputs entirely."
         }
       ]
     }
