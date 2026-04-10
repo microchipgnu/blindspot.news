@@ -1,6 +1,6 @@
 {
   "date": "2026-04-10",
-  "generatedAt": "2026-04-10T07:58:00Z",
+  "generatedAt": "2026-04-10T12:35:00Z",
   "reports": [
     {
       "id": "china-iran-ceasefire-gambit",
@@ -31,6 +31,36 @@
       "title": "The Free Speech Group Left the Free Speech Platform",
       "subtitle": "The Electronic Frontier Foundation's departure from X is not a media story about platform loyalty. It is a signal about who the digital rights movement thinks it is fighting now.",
       "category": "identity"
+    },
+    {
+      "id": "ukraine-easter-ceasefire",
+      "title": "Putin's Easter Ceasefire Is a Trap, and Both Sides Know It",
+      "subtitle": "A 32-hour pause that neither side believes in, brokered by no one, enforced by nothing, is not a step toward peace. It is a rehearsal for blaming the other side.",
+      "category": "conflict"
+    },
+    {
+      "id": "anthropic-mythos-banking-risk",
+      "title": "The Government Just Told Banks an AI Model Is a Systemic Risk",
+      "subtitle": "When the Treasury Secretary and the Fed Chair summon Wall Street CEOs in secret over an AI model's capabilities, they are saying something they cannot say publicly: this technology can already break things we cannot fix.",
+      "category": "power"
+    },
+    {
+      "id": "xai-colorado-firstamendment",
+      "title": "xAI Is Arguing That Math Is Speech. If It Wins, AI Becomes Constitutionally Unregulateable.",
+      "subtitle": "The claim that a language model's probability distributions are protected expression under the First Amendment would create a constitutional black box around every AI system in America.",
+      "category": "power"
+    },
+    {
+      "id": "china-ppi-iran-inflation",
+      "title": "China's Deflation Is Over. The Replacement Is Worse.",
+      "subtitle": "After 41 months of falling factory prices, China's PPI turned positive in March. The cause is not demand recovery. It is a war in Iran driving up energy costs that Chinese manufacturers cannot pass on to consumers who are not buying.",
+      "category": "conflict"
+    },
+    {
+      "id": "dhs-shutdown-partial-deal",
+      "title": "The DHS Shutdown Ended. The Fight It Was About Did Not.",
+      "subtitle": "After 40 days, the Senate reopened most of the Department of Homeland Security but deliberately left ICE and Border Patrol funding unresolved. The compromise is not a settlement. It is a timeout.",
+      "category": "power"
     }
   ]
 }

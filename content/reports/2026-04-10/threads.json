@@ -52,6 +52,48 @@
           "relationship": "EFF's departure from X reflects its conclusion that private platform power without accountability is incompatible with digital civil liberties; the Pentagon contempt ruling shows the same logic applied to government-controlled press access, where formal credentials substitute for genuine openness."
         }
       ]
+    },
+    {
+      "id": "ceasefire-as-weapon",
+      "title": "Both Wars Have Ceasefires That Are Really Blame Structures",
+      "description": "Putin's Easter ceasefire in Ukraine and the US-brokered Iran ceasefire that China co-opted share a non-obvious feature: neither is designed primarily to stop fighting. Both are designed to create a defensible narrative about who wants peace and who does not. China used Pakistan to claim credit for Iran; Putin announced his ceasefire after initially ignoring Ukraine's proposal. In both cases, the announcement matters more than compliance, and the next violation is already being pre-framed as the other side's fault.",
+      "type": "tension-cluster",
+      "stories": ["ukraine-easter-ceasefire", "china-iran-ceasefire-gambit"],
+      "connections": [
+        {
+          "from": "china-iran-ceasefire-gambit",
+          "to": "ukraine-easter-ceasefire",
+          "relationship": "China's invisible brokerage of the Iran ceasefire established a template for how major powers use peace offers as positioning tools rather than genuine commitments; Putin's Easter ceasefire repeats the same structure in Ukraine, where the offer's propaganda value is independent of whether it holds."
+        }
+      ]
+    },
+    {
+      "id": "federal-preemption-as-deregulation",
+      "title": "Federal Authority Is Being Used to Eliminate Accountability, Not Create It",
+      "description": "xAI's lawsuit against Colorado and the EPA's endangerment finding repeal are superficially opposite cases: one is a company suing to block regulation, the other is a federal agency eliminating its own mandate. But they share a structure. In both, federal authority or the threat of federal preemption is being used to foreclose state-level accountability measures, with the argument that a future federal framework will replace them. That federal framework does not exist and shows no sign of materializing. The result is that accountability disappears at both levels simultaneously.",
+      "type": "cause-effect",
+      "stories": ["xai-colorado-firstamendment", "epa-endangerment-repeal"],
+      "connections": [
+        {
+          "from": "epa-endangerment-repeal",
+          "to": "xai-colorado-firstamendment",
+          "relationship": "The EPA repeal established that the Trump administration is willing to use federal regulatory authority to eliminate accountability requirements rather than enforce them; xAI's lawsuit extends the same logic to AI regulation by invoking White House executive orders against state-level oversight as legal backing."
+        }
+      ]
+    },
+    {
+      "id": "iran-war-economic-cascade",
+      "title": "The Iran War Is Doing to the Global Economy What No One Modeled",
+      "description": "China's factory deflation ending and US regulators panicking about AI cyber risk are on the surface unrelated. But both trace back to the Iran war. The war drove oil prices up, ending China's 41-month deflation spiral and creating a cost-push crisis that Beijing cannot fix with standard stimulus. The same elevated geopolitical tension created the context in which Anthropic's Mythos model, capable of attacking critical infrastructure, became a systemic financial risk concern rather than a future threat. War-driven energy instability is simultaneously hitting the economic base and the security infrastructure of the non-belligerent major powers.",
+      "type": "dependency-web",
+      "stories": ["china-ppi-iran-inflation", "anthropic-mythos-banking-risk"],
+      "connections": [
+        {
+          "from": "china-ppi-iran-inflation",
+          "to": "anthropic-mythos-banking-risk",
+          "relationship": "The Iran war's oil shock explains why Mythos's capability to attack financial and energy infrastructure became an urgent regulatory concern: in a world of elevated geopolitical tension and critical supply chain disruption, an AI that can find and exploit zero-days in bank and energy systems is not a theoretical risk but an active one."
+        }
+      ]
     }
   ]
 }

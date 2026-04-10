@@ -1,0 +1,102 @@
+{
+  "id": "china-ppi-iran-inflation",
+  "date": "2026-04-10",
+  "generatedAt": "2026-04-10T12:35:00Z",
+  "title": "China's Deflation Is Over. The Replacement Is Worse.",
+  "subtitle": "After 41 months of falling factory prices, China's PPI turned positive in March. The cause is not demand recovery. It is a war in Iran driving up energy costs that Chinese manufacturers cannot pass on to consumers who are not buying.",
+  "topic": "economy",
+  "category": "conflict",
+  "tags": ["China", "inflation", "Iran", "oil", "economy", "deflation", "manufacturing", "PPI"],
+  "coverImage": {
+    "url": "https://www.reuters.com/resizer/v2/J3DDEISPY5OT7A4IE6WLF3AAHU.jpg?auth=074d122250f2210ea5511ec486d7d0ff70fb43287264dd2b38d710941d62eea0&height=1005&width=1920&quality=80&smart=true",
+    "local": "/images/reports/2026-04-10/china-ppi-iran-inflation.jpg",
+    "credit": "Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/china/chinas-factories-jolts-back-inflation-iran-war-price-shock-2026-04-10/",
+      "publisher": "Reuters",
+      "angle": "Primary data source; detailed breakdown showing non-ferrous metal mining up 36.4%, smelting up 22.4%; economists cite 'involution' overcapacity as simultaneous structural problem; Beijing faces dilemma: stimulus risks inflation, no stimulus risks recession"
+    },
+    {
+      "url": "https://www.scmp.com/economy/china-economy/article/3349582/chinas-factory-gate-prices-rise-first-time-3-years-iran-war-bites",
+      "publisher": "South China Morning Post",
+      "angle": "Beijing-adjacent framing; notes the government's anti-involution campaign is contributing alongside import costs; presents as a mixed sign rather than bad news"
+    },
+    {
+      "url": "https://www.tradingview.com/news/invezz:d57055692094b:0-why-did-china-s-factory-gate-prices-turn-positive-after-3-years/",
+      "publisher": "TradingView / Invezz",
+      "angle": "Technical analysis; focuses on the PPI-CPI divergence as the key signal: factory prices rising while consumer prices fell 0.7% month-on-month, the steepest monthly drop in three years; argues this divergence will tighten corporate margins"
+    }
+  ],
+  "brief": {
+    "actors": ["China", "Iran", "Beijing", "OPEC"],
+    "whatHappened": "China's National Bureau of Statistics reported Friday that the producer price index rose 0.5% year-on-year in March, the first positive reading after 41 consecutive months of factory-gate deflation. Energy-intensive sectors drove the gain: non-ferrous metal mining jumped 36.4% and smelting 22.4%, with economists attributing the shift primarily to oil price increases from the Iran war. Consumer prices simultaneously slowed, rising only 1% annually while falling 0.7% month-on-month, the steepest monthly CPI decline in three years. Beijing faces a policy bind: the inflation is cost-push rather than demand-led, meaning stimulus to boost demand would accelerate input cost pressures rather than resolve them.",
+    "bottomLine": "China exchanged one trap for another. Three and a half years of factory deflation were destroying corporate profits through price wars, a condition called 'involution.' The war in Iran ended that deflation by making inputs more expensive rather than making consumers richer. Manufacturing margins that were already razor-thin from price competition are now getting squeezed from the cost side as well. The economy is not recovering. It is being hit from a new direction.",
+    "hiddenBets": [
+      {
+        "assumption": "A positive PPI reading signals economic recovery",
+        "whyItMightBeWrong": "The PPI turned positive because oil got more expensive, not because demand increased. When factory-gate prices rise faster than consumer prices, the difference is absorbed by manufacturers as margin compression. A quarter of Chinese manufacturing firms were already operating at a loss. Higher input costs without corresponding consumer demand means more firms move into loss territory. The headline number looks like recovery; the mechanism is the opposite."
+      },
+      {
+        "assumption": "Beijing can use stimulus to stabilize the economy",
+        "whyItMightBeWrong": "The standard response to weak demand is fiscal or monetary stimulus. But stimulating demand here would bid up energy-intensive production further, increasing import inflation. The PBOC is already constrained by yuan stability concerns and limited room to cut rates without accelerating capital outflows. Beijing's anti-involution campaign, which attempts to reduce overcapacity through market consolidation, is the only tool that addresses both problems simultaneously, but it is slow and politically contested because it means letting weak firms fail."
+      },
+      {
+        "assumption": "The Iran war's economic effects on China are primarily a supply shock that will resolve",
+        "whyItMightBeWrong": "China imports roughly 40% of its oil through the Strait of Hormuz. The Iran war, even under ceasefire conditions, has permanently altered the risk premium on Hormuz transit. Insurance costs, rerouting, and strategic reserve drawdowns are not one-time costs. Japan's wholesale inflation jumped simultaneously. The cost structure for Asian export economies has shifted, and it will not revert simply because the fighting stops."
+      }
+    ],
+    "realDisagreement": "The fork is between two interpretations of what China's economy needs. The optimistic reading is that cost-push inflation will gradually work its way into consumer prices, ending deflation sustainably and allowing Beijing to declare the crisis resolved. The pessimistic reading is that Chinese consumers are too financially stressed to absorb higher prices, which means the cost squeeze stays trapped in manufacturing margins until enough firms collapse to reduce overcapacity. The data from March, specifically the 0.7% monthly CPI decline, supports the pessimistic reading. Consumer prices fell while factory prices rose. That is not the data pattern of a recovering economy. I lean toward the pessimistic reading, and the market's 20% probability that China's 2026 annual inflation exceeds 2.5% suggests most bettors do too.",
+    "whatNoOneIsSaying": "China is the world's largest manufacturing base, and it is simultaneously experiencing cost-push inflation in inputs and demand deflation in outputs. This is the exact opposite of the condition that allows export-led growth: you need cheap inputs and willing buyers. The Iran war has broken both sides of that equation for China at once, and the US tariff environment makes alternative markets unavailable. China's export strategy, the entire structural bet of the past 30 years, is being squeezed from three directions simultaneously.",
+    "whoPays": [
+      {
+        "who": "Chinese factory workers in energy-intensive sectors",
+        "how": "A quarter of manufacturing firms were already operating at a loss before the oil shock. Firms that cannot absorb higher input costs will cut wages, hours, or workers. Energy-intensive industries, exactly the sectors seeing the biggest price jumps, employ hundreds of millions of people.",
+        "when": "Immediate to medium-term"
+      },
+      {
+        "who": "Global supply chain buyers (European and US retail/industrial companies)",
+        "how": "Chinese export prices will eventually rise if manufacturers cannot absorb costs indefinitely. Buyers who assumed cheap Chinese manufacturing would stay cheap indefinitely face either price increases or supply chain diversification costs.",
+        "when": "6-18 months depending on contract cycles"
+      },
+      {
+        "who": "Chinese consumers",
+        "how": "Counterintuitively, cost-push inflation hitting manufacturers will eventually filter into consumer goods prices, but the timing means consumers face a period of wage pressure before prices rise. Real incomes contract in the interim.",
+        "when": "Medium-term"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Stagflation Lock",
+        "whatHappens": "Iran war continues to keep oil prices elevated. PPI rises faster than CPI for two to three quarters. Manufacturing sector losses expand. Beijing cannot stimulate without worsening the cost side. GDP growth slows below 4% while measured inflation remains above zero, creating a politically difficult hybrid.",
+        "signal": "Month-on-month CPI continues declining for two or more consecutive months while PPI stays above 0.3% year-on-year. PBOC declines to cut rates at its next scheduled meeting."
+      },
+      {
+        "name": "Managed Contraction",
+        "whatHappens": "Beijing's anti-involution campaign accelerates sector consolidation, eliminating enough overcapacity to let prices rise and restore margins. The adjustment is painful for workers and local governments but resets the economy onto higher-margin production. Takes 18-24 months.",
+        "signal": "Series of large state-guided mergers in energy-intensive sectors. Beijing announces targeted production capacity cuts with enforcement mechanisms rather than just guidance."
+      },
+      {
+        "name": "Demand Shock",
+        "whatHappens": "Beijing deploys major consumption stimulus, accepting inflation risk. Consumer spending rises, CPI follows PPI, and the deflation trap breaks on both sides simultaneously. Requires overcoming political resistance to direct household transfers and PBOC willingness to accept yuan weakness.",
+        "signal": "PBOC cuts rates more than 50 basis points in a single meeting. Central government announces direct consumption voucher program at meaningful scale."
+      }
+    ],
+    "whatWouldChange": "If Chinese consumer prices rise 0.5% or more month-on-month for two consecutive months, that would indicate cost pressures are transmitting into genuine demand recovery. That would change the bottom line. If the Iran war ends and oil prices fall 20% or more, the imported inflation disappears and Beijing gets a clean shot at domestic stimulus without the cost problem.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will China's annual inflation in 2026 be between 0.6% and 1.0%?",
+        "url": "https://polymarket.com/event/china-annual-inflation-2026",
+        "probability": 0.31
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will China's annual inflation in 2026 be at least 2.5%?",
+        "url": "https://polymarket.com/event/china-annual-inflation-2026",
+        "probability": 0.2015
+      }
+    ]
+  }
+}

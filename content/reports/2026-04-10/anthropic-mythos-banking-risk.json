@@ -1,0 +1,101 @@
+{
+  "id": "anthropic-mythos-banking-risk",
+  "date": "2026-04-10",
+  "generatedAt": "2026-04-10T12:35:00Z",
+  "title": "The Government Just Told Banks an AI Model Is a Systemic Risk",
+  "subtitle": "When the Treasury Secretary and the Fed Chair summon Wall Street CEOs in secret over an AI model's capabilities, they are saying something they cannot say publicly: this technology can already break things we cannot fix.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["Anthropic", "AI", "cybersecurity", "banking", "Bessent", "Powell", "Mythos", "systemic risk"],
+  "coverImage": {
+    "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJha2ASqotFs/v1/1200x800.jpg",
+    "local": "/images/reports/2026-04-10/anthropic-mythos-banking-risk.jpg",
+    "credit": "Bloomberg"
+  },
+  "sources": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-04-10/anthropic-model-scare-sparks-urgent-bessent-powell-warning-to-bank-ceos",
+      "publisher": "Bloomberg",
+      "angle": "Original reporting; sourced to people familiar with private discussions; reveals the model is called Mythos and the meeting happened Tuesday at Treasury headquarters"
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/04/10/mythos-ai-threat-sees-bessent-powell-call-urgent-meeting-with-bank-ceos",
+      "publisher": "CoinDesk",
+      "angle": "Explains technical capabilities: Mythos identifies and assembles software exploits at scale; Anthropic rolled it out only to select large tech and financial firms under 'Project Glasswing'; notes Anthropic pre-briefed CISA"
+    },
+    {
+      "url": "https://www.benzinga.com/markets/tech/26/04/51750471/scott-bessent-jerome-powell-quietly-warn-top-wall-street-ceos-about-cyber-risks-from-anthropics-new-ai-model-report",
+      "publisher": "Benzinga",
+      "angle": "Notes Anthropic is simultaneously in a legal dispute with the Pentagon, which labeled it a national security supply-chain risk after it refused to ease safeguards on Claude for surveillance and autonomous weapons"
+    },
+    {
+      "url": "https://investinglive.com/centralbank/powell-bessent-flag-systemic-risk-from-advanced-ai-models-20260410/",
+      "publisher": "InvestingLive",
+      "angle": "Market-focused take; argues this signals AI cyber risk is being reclassified as a financial stability issue, not merely a technology compliance issue; expects compliance cost implications for systemically important banks"
+    }
+  ],
+  "brief": {
+    "actors": ["Anthropic", "Bessent", "Powell", "Trump", "CISA", "Pentagon", "Citigroup", "Goldman Sachs", "JPMorgan"],
+    "whatHappened": "Treasury Secretary Scott Bessent and Federal Reserve Chair Jerome Powell convened an emergency meeting at Treasury headquarters Tuesday with CEOs of systemically important banks including Citigroup, Morgan Stanley, Bank of America, Wells Fargo, and Goldman Sachs. The subject was Anthropic's new AI model, Mythos, which the company simultaneously launched via Project Glasswing: a controlled release to 12 partner organizations for defensive security work. Mythos can identify zero-day software vulnerabilities at scale and assemble exploits. Anthropic pre-briefed CISA and senior government officials before launch. The same week, a federal appeals court declined to block the Pentagon's designation of Anthropic as a national security supply-chain risk.",
+    "bottomLine": "The meeting is a quiet acknowledgment that AI has crossed a threshold regulators were not prepared for: a model capable of finding and weaponizing vulnerabilities in critical financial infrastructure faster and cheaper than human attackers. The government's response is to warn the targets, not constrain the tool. That is what you do when you do not believe you can constrain the tool.",
+    "hiddenBets": [
+      {
+        "assumption": "Project Glasswing is a responsible containment strategy",
+        "whyItMightBeWrong": "Restricting initial release to 12 partners assumes those partners are impenetrable, that the model cannot be accessed or replicated by third parties, and that a limited rollout creates a durable security perimeter. None of those assumptions hold. Anthropic's model weights are not under government control, the 12 partner organizations include private firms, and the underlying research is likely reproducible by well-funded state actors within months. Glasswing is a liability shield, not a security architecture."
+      },
+      {
+        "assumption": "The banks being warned are the primary risk targets",
+        "whyItMightBeWrong": "The meeting focused on systemically important banks because they are the regulators' institutional remit. But financial infrastructure runs on software that also underlies power grids, water systems, and healthcare. A model that finds zero-days in major operating systems and browsers is not only a banking threat. The bank CEOs in that room are hearing the most narrowly framed version of the risk."
+      },
+      {
+        "assumption": "Anthropic's cooperation with government signals alignment of interests",
+        "whyItMightBeWrong": "Anthropic simultaneously consulted CISA before launch and is fighting the Pentagon in court over whether its Claude model can be used for surveillance and autonomous weapons. These are not contradictory positions: they reflect a company that wants to be seen as the responsible AI actor while resisting specific government control over its products. The briefings are branding, not binding commitments."
+      }
+    ],
+    "realDisagreement": "The actual fork is whether advanced AI capability should be developed in a world where governments cannot regulate it, or whether the risk justifies capabilities controls that the industry will resist. Bessent and Powell are acting within the current answer: warn people, hope they prepare. The other answer is that a model capable of systemic financial attack should not be released at all, even in controlled form, until the defensive architecture is in place. The market says Anthropic will still have the best AI model at end of April at 92.5% probability, which means the capability race is running faster than the regulatory response. I lean toward believing the government's chosen response, quietly warning rather than constraining, reflects genuine helplessness more than strategic calculation. What you give up with the alternative is AI development speed, which is itself a national security concern.",
+    "whatNoOneIsSaying": "The Pentagon labeled Anthropic a national security risk for refusing to weaken its safety guardrails for military applications. Now the same government is warning banks about an Anthropic model that is itself a potential weapon. The federal government is simultaneously angry at Anthropic for being too cautious with Claude, and frightened by a different Anthropic model for being too capable. These positions are not reconcilable without acknowledging that the government does not actually have a coherent AI policy, only competing institutional interests.",
+    "whoPays": [
+      {
+        "who": "Community banks and mid-size financial institutions",
+        "how": "Systemically important banks have compliance budgets and security teams capable of absorbing a new threat class. Regional and community banks do not. If Mythos-class capabilities proliferate, the institutions most vulnerable to AI-driven cyberattacks are the ones not in that meeting room.",
+        "when": "Medium-term, as the technology becomes more widely accessible"
+      },
+      {
+        "who": "Anthropic employees and investors",
+        "how": "Anthropic now has two simultaneous government relationships: a cybersecurity cooperation partner and a Pentagon-designated supply chain risk. Both are public record. This creates legal exposure, enterprise sales friction, and contradictory regulatory requirements that no one currently has a clear path to resolve.",
+        "when": "Immediate"
+      },
+      {
+        "who": "Open source AI developers",
+        "how": "If Congress responds to Mythos by imposing capability restrictions on AI development, the compliance burden falls disproportionately on smaller actors who cannot afford to implement government-required security architectures. The effect is to consolidate AI development at large firms that can lobby for favorable regulatory carve-outs.",
+        "when": "If regulatory response materializes: 12-24 months"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Quiet Hardening",
+        "whatHappens": "Banks upgrade their defensive security infrastructure with Mythos-derived tools under Project Glasswing. No public regulatory action. Anthropic's legal dispute with Pentagon resolves in negotiated settlement. The risk management community absorbs the new threat class without systemic disruption.",
+        "signal": "No further public statements from Bessent or Powell. Goldman Sachs or similar announces a cybersecurity infrastructure investment without citing AI threat specifically."
+      },
+      {
+        "name": "Regulatory Escalation",
+        "whatHappens": "Congress or the executive branch uses Mythos as a basis for new AI capability restrictions, framed as financial stability protection. Other AI firms face new disclosure requirements on offensive capability testing. Anthropic's controlled release becomes a regulatory template applied across the industry.",
+        "signal": "Senate Banking Committee schedules an AI cybersecurity hearing within 60 days. FSOC issues a formal guidance document citing AI-driven cyber risk."
+      },
+      {
+        "name": "Active Exploitation",
+        "whatHappens": "A state actor or criminal group deploys a Mythos-equivalent model against financial infrastructure before defensive hardening is complete. A major institution suffers a significant breach traceable to AI-assisted zero-day exploitation. The government's response to the breach is to classify the attack details.",
+        "signal": "An unexplained trading halt or system outage at a major bank, followed by a cybersecurity firm publicly attributing a novel attack vector to AI-assisted vulnerability discovery."
+      }
+    ],
+    "whatWouldChange": "If Anthropic published the full scope of Mythos's offensive capabilities independently of Project Glasswing, that would indicate a company prioritizing transparency over controlled rollout. If Treasury issued a public statement rather than a private warning, that would indicate the government believes disclosure is part of the defense. Neither has happened, which means the bottom line holds: the government is managing disclosure, not risk.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Anthropic have the best AI model at the end of April 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-april",
+        "probability": 0.925
+      }
+    ]
+  }
+}

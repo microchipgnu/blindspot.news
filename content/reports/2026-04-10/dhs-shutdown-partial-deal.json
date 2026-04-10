@@ -1,0 +1,81 @@
+{
+  "id": "dhs-shutdown-partial-deal",
+  "date": "2026-04-10",
+  "generatedAt": "2026-04-10T12:35:00Z",
+  "title": "The DHS Shutdown Ended. The Fight It Was About Did Not.",
+  "subtitle": "After 40 days, the Senate reopened most of the Department of Homeland Security but deliberately left ICE and Border Patrol funding unresolved. The compromise is not a settlement. It is a timeout.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["DHS", "shutdown", "immigration", "TSA", "ICE", "Trump", "Senate", "Democrats"],
+  "sources": [
+    {
+      "url": "https://www.wapt.com/article/mississippi-lawmakers-pass-bill-changing-drivers-license-gender-identification-requirements/70980614",
+      "publisher": "WAPT / ABC 16",
+      "angle": "Local news; unrelated DHS story but used for broader political context on conservative legislative moves this week"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Democrats", "Senate", "ICE", "TSA", "Thune", "Schumer", "Mullin"],
+    "whatHappened": "After 40 days of a partial DHS shutdown that began February 14, the Senate passed a funding package on April 9 that reopened most of the department but deliberately excluded ICE Enforcement and Removal Operations and select CBP components. The resolution came after Trump issued an emergency executive directive ordering TSA agents to be paid, which halted widespread worker call-outs and defused the most visible public disruption: long airport security lines. ICE agents who had been deployed to 14 airports to cover TSA staffing gaps began withdrawing after the compromise. Key immigration disputes remain unresolved, including ICE conduct restrictions demanded by Democrats and sanctuary city funding threats by DHS Secretary Markwayne Mullin.",
+    "bottomLine": "The DHS shutdown ended not through negotiation but through Trump unilaterally removing the part that was politically costly to him, namely airport chaos ahead of summer travel season, while leaving the part that is politically useful, the ongoing fight over ICE funding and immigration enforcement, unresolved. Democrats got TSA workers paid. Republicans kept the immigration fight alive for budget reconciliation. No one's underlying position changed.",
+    "hiddenBets": [
+      {
+        "assumption": "The Senate deal represents a bipartisan compromise on immigration",
+        "whyItMightBeWrong": "The deal was unanimous but only because it explicitly excluded the contentious items. Calling a unanimous vote on a bill that sidesteps the actual dispute a compromise overstates what happened. The 'compromise' is functionally an agreement to fight about the same things next round, with ICE and CBP funding now serving as the next leverage point."
+      },
+      {
+        "assumption": "Trump's emergency TSA pay order was a goodwill gesture toward workers",
+        "whyItMightBeWrong": "The order came after airports started filling with lines and TSA workers called out in protest. The operational disruption was becoming a PR problem during spring break travel. Trump eliminated the public-facing cost of the shutdown while preserving its political utility as a bargaining chip. The workers who got paid were a means to a political end, not the end itself."
+      },
+      {
+        "assumption": "Budget reconciliation will resolve the ICE and CBP funding standoff",
+        "whyItMightBeWrong": "Republicans discussing reconciliation as a vehicle for immigration enforcement funding face the same dynamic that produced the shutdown: they need 60 votes for most Senate action, and the underlying Democratic demands on ICE conduct have not been addressed. Reconciliation has procedural constraints that limit what policy changes it can carry. The fight is likely to repeat."
+      }
+    ],
+    "realDisagreement": "The fork is between two competing theories of what DHS funding is for. Democrats see ICE enforcement funding as a policy lever for limiting deportation tactics they consider illegal or harmful. Republicans see the same funding as an expression of immigration enforcement authority the executive branch should not have to negotiate. These are not positions that can be split: either the legislature sets conditions on how enforcement powers are used, or it does not. The shutdown was a test of which side could hold out longer with the public, and Trump's TSA order effectively cut that test short before either side lost. The real disagreement is now dormant but unresolved, and it will surface again the moment the immigration enforcement community is under budget pressure.",
+    "whatNoOneIsSaying": "DHS Secretary Mullin's threat to withdraw CBP officers from international airports in sanctuary cities, including JFK, LAX, and O'Hare, if those cities continue sanctuary policies would have disrupted customs processing for international travelers at the largest airports in the country during FIFA World Cup summer. This is not a policy argument. It is a hostage strategy: give us what we want on immigration, or your city loses its international airport. That the threat was made publicly and produced no serious congressional response reveals how normalized extortive bargaining has become in federal-state relations.",
+    "whoPays": [
+      {
+        "who": "TSA workers and their families",
+        "how": "Forty days without pay during which workers were legally required to show up. Some took on debt, depleted savings, or took secondary jobs. The emergency pay order does not restore what was lost during the period before it was issued.",
+        "when": "Already incurred"
+      },
+      {
+        "who": "Immigrants and asylum seekers in DHS processing pipelines",
+        "how": "The shutdown slowed immigration court proceedings, USCIS processing, and asylum case adjudications. The backlog grew during 40 days of reduced capacity. People waiting for status determinations face additional delays that affect employment authorization, family reunification, and deportation defense.",
+        "when": "Ongoing"
+      },
+      {
+        "who": "Cities that receive international travelers",
+        "how": "Mullin's sanctuary city airport threat remains active. Cities that maintain policies limiting local law enforcement cooperation with federal immigration authorities now face ongoing uncertainty about whether federal customs and border processing will continue at their airports. International airlines and event organizers planning around the FIFA World Cup face contingency planning costs.",
+        "when": "Immediate and ongoing"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Reconciliation Fight",
+        "whatHappens": "Republicans attempt to fund ICE and CBP enforcement through budget reconciliation, attaching policy conditions that expand deportation authority. Democrats challenge the procedure. The battle over immigration enforcement funding restarts at a different legislative vehicle with a tighter timeline.",
+        "signal": "Senate Budget Committee announces a reconciliation instruction covering DHS enforcement funding within 30 days."
+      },
+      {
+        "name": "Mullin Executes Airport Threat",
+        "whatHappens": "DHS withdraws CBP officers from one or more sanctuary city airports, citing failure to cooperate on immigration enforcement. International terminal processing collapses at a major airport. Political pressure from the business community forces a negotiated resolution, but the precedent of using airport access as an immigration enforcement lever is established.",
+        "signal": "DHS sends formal notice to a specific airport warning of CBP withdrawal with a 30-day window."
+      },
+      {
+        "name": "Standoff Persists",
+        "whatHappens": "Neither side forces a resolution. ICE and CBP enforcement continue on continuing resolution-level funding indefinitely. Democrats do not get conduct restrictions. Republicans do not get expanded enforcement authority. The status quo persists through midterms, with both parties using the ongoing dispute as a campaign issue.",
+        "signal": "No reconciliation action on immigration funding by June 1. Thune announces no legislative calendar slot for DHS enforcement bills before recess."
+      }
+    ],
+    "whatWouldChange": "If Democrats formally dropped their demand for ICE conduct restrictions in exchange for a clean funding bill, that would indicate the political calculus has shifted and Congress could pass a genuine compromise. If Trump issued an executive order expanding deportation authority without congressional authorization, that would escalate the fight to a new constitutional confrontation. Neither seems imminent.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "When will the DHS shutdown end?",
+        "url": "https://polymarket.com/event/when-will-the-dhs-shutdown-end-521",
+        "probability": 0.003
+      }
+    ]
+  }
+}
