@@ -1,4 +1,4 @@
-name: PhilOS Daily Video
+name: Blindspot Daily Video
 
 on:
   # schedule:
@@ -62,6 +62,6 @@ jobs:
       - name: Commit video
         run: |
           git add content/ site/public/videos/
-          git diff --cached --quiet || git commit -m "[philos] Daily video $(date -u +%Y-%m-%d)"
+          git diff --cached --quiet || git commit -m "[blindspot] Daily video $(date -u +%Y-%m-%d)"
           git pull --rebase || true
           git push

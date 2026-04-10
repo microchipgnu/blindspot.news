@@ -7,7 +7,7 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://phil-os-omega.vercel.app",
+  site: "https://blindspot.news",
   vite: {
     plugins: [tailwindcss()]
   },

@@ -12,12 +12,12 @@ export const GET: APIRoute = () => {
     .filter(Boolean)
     .slice(0, 50);
 
-  const site = "https://phil-os-omega.vercel.app";
+  const site = "https://blindspot.news";
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PhilOS</title>
+    <title>Blindspot</title>
     <description>Structured judgment for things that are hard to think about</description>
     <link>${site}</link>
     <atom:link href="${site}/feed.xml" rel="self" type="application/rss+xml"/>

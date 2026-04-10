@@ -1,4 +1,4 @@
-# PhilOS — Product
+# Blindspot — Product
 
 ## Core Model
 
@@ -8,7 +8,7 @@ An automated daily publication that applies philosophical analysis to the news. 
 
 **Output:** 5-10 judgment maps per day. Each one tells you not just what happened, but what different frameworks see that the others miss.
 
-Ground News shows you **that** coverage differs. PhilOS shows you **why** — the value frames, hidden assumptions, and power dynamics driving the disagreement.
+Ground News shows you **that** coverage differs. Blindspot shows you **why** — the value frames, hidden assumptions, and power dynamics driving the disagreement.
 
 ---
 
@@ -248,7 +248,7 @@ content/
 
 ## Comparable Products
 
-| Product | What it does | What PhilOS learns from it |
+| Product | What it does | What Blindspot learns from it |
 |---------|-------------|---------------------------|
 | **Ground News** | Groups coverage, shows framing and blindspots | Make comparison spatial, not textual |
 | **NotebookLM** | Sources in, artifacts out | Artifact-first, not chat-first |

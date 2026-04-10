@@ -1,4 +1,4 @@
-name: PhilOS Generate Reports
+name: Blindspot Generate Reports
 
 on:
   schedule:
@@ -65,7 +65,7 @@ jobs:
           git config user.name "philos-bot"
           git config user.email "philos-bot@users.noreply.github.com"
 
-      - name: Run PhilOS agent
+      - name: Run Blindspot agent
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           AGENTWALLET_USERNAME: ${{ secrets.AGENTWALLET_USERNAME }}
@@ -162,6 +162,6 @@ jobs:
       - name: Commit reports
         run: |
           git add content/ .philos/state.json site/public/images/
-          git diff --cached --quiet || git commit -m "[philos] Reports $(date -u +%Y-%m-%d)"
+          git diff --cached --quiet || git commit -m "[blindspot] Reports $(date -u +%Y-%m-%d)"
           git pull --rebase || true
           git push

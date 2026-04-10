@@ -1,16 +1,18 @@
-# PhilOS
+# Blindspot
 
-![PhilOS — Philosophers gathered around a round table](header.jpeg)
+![Blindspot — Philosophers gathered around a round table](header.jpeg)
 
-**Structured judgment for things that are hard to think about.**
+**See what you're missing.**
 
-An automated daily publication. Philosophy is the engine, not the UI. The output is a **judgment map** — not an essay.
+An automated daily publication of structured judgment briefs. Philosophy is the engine, not the UI. The output is a brief with hidden bets, real disagreements, and cause-effect threads across stories.
+
+Live at [blindspot.news](https://blindspot.news).
 
 ---
 
 ## What It Does
 
-Different philosophical traditions expose different failure modes. PhilOS applies them as **mental operators** and produces a structured visual artifact for each story.
+Different philosophical traditions expose different failure modes. Blindspot applies them as **mental operators** and produces a structured visual artifact for each story.
 
 The core output is a **judgment map** with 6 zones:
 
@@ -52,18 +54,18 @@ The system selects 3-4 relevant lenses per judgment map. Users can override, but
 ## Monorepo Structure
 
 ```
-philos/
+blindspot/
 ├── skills/analysis/            # Philosophical lens skill (SKILL.md + references)
 ├── site/                       # Astro website rendering judgment maps
 ├── content/reports/            # Generated judgment map JSON (by date)
 ├── .philos/prompt.md           # Agent prompt for automated generation
-├── .github/workflows/          # GitHub Actions cron (3x daily)
+├── .github/workflows/          # GitHub Actions cron (4x daily)
 └── opencode.json               # OpenCode config (OpenRouter)
 ```
 
 ### How it works
 
-1. **GitHub Actions** triggers 3x daily (7am, 1pm, 7pm UTC)
+1. **GitHub Actions** triggers 4x daily
 2. **OpenCode** runs with `.philos/prompt.md` — discovers news, applies the analysis skill, writes JSON
 3. **JSON reports** are committed to `content/reports/YYYY-MM-DD/`
 4. **Astro** reads the JSON and renders judgment maps as a static site

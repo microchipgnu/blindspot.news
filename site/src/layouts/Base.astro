@@ -8,7 +8,7 @@ interface Props {
 }
 
 const { title, description = "Structured judgment for things that are hard to think about.", ogImage } = Astro.props;
-const canonicalURL = new URL(Astro.url.pathname, Astro.site || "https://phil-os-omega.vercel.app");
+const canonicalURL = new URL(Astro.url.pathname, Astro.site || "https://blindspot.news");
 ---
 
 <!doctype html>
@@ -17,8 +17,8 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site || "https://phil-os-
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
-    <title>{title} — PhilOS</title>
-    <meta property="og:title" content={`${title} — PhilOS`} />
+    <title>{title} — Blindspot</title>
+    <meta property="og:title" content={`${title} — Blindspot`} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="article" />
     <meta property="og:url" content={canonicalURL.href} />
@@ -27,7 +27,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site || "https://phil-os-
     {ogImage && <meta property="og:image:height" content="630" />}
     {ogImage && <meta property="og:image:type" content="image/png" />}
     <meta name="twitter:card" content={ogImage ? "summary_large_image" : "summary"} />
-    <meta name="twitter:title" content={`${title} — PhilOS`} />
+    <meta name="twitter:title" content={`${title} — Blindspot`} />
     <meta name="twitter:description" content={description} />
     {ogImage && <meta name="twitter:image" content={new URL(ogImage, canonicalURL.origin).href} />}
     <link rel="canonical" href={canonicalURL.href} />

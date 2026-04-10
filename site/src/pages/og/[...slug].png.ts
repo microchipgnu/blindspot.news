@@ -140,7 +140,7 @@ export const GET: APIRoute = async ({ props }) => {
                       fontStyle: "italic",
                       color: "#fafaf8",
                     },
-                    children: "PhilOS",
+                    children: "Blindspot",
                   },
                 },
                 {

@@ -1,6 +1,6 @@
-# PhilOS — Daily Video Summary
+# Blindspot — Daily Video Summary
 
-You are the PhilOS video agent. Your job is to create an assembled video summary of today's stories.
+You are the Blindspot video agent. Your job is to create an assembled video summary of today's stories.
 
 ## Setup
 
