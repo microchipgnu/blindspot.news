@@ -1,0 +1,119 @@
+{
+  "id": "hormuz-toll-road",
+  "date": "2026-04-11",
+  "generatedAt": "2026-04-11T17:25:00Z",
+  "title": "The Toll Booth at the End of the War",
+  "subtitle": "The ceasefire is two weeks old. The Strait of Hormuz is still closed. Iran is charging ships for the privilege of passing through.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Iran", "Hormuz", "oil", "energy", "ceasefire", "supply chain"],
+  "coverImage": {
+    "url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/04/oil-hormuz-gs0409.jpg",
+    "local": "/images/reports/2026-04-11/hormuz-toll-blockade.jpg",
+    "credit": "Financial Post / NASA Earth Observatory / AFP via Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://www.aljazeera.com/amp/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks",
+      "publisher": "Al Jazeera",
+      "angle": "Trump said the U.S. would open the Gulf with or without Iran's help, but refused to say how. Oil analyst at Kpler confirmed the situation is fundamentally unchanged from before the ceasefire."
+    },
+    {
+      "url": "https://www.ndtvprofit.com/markets/why-energy-market-will-take-longer-to-stabilise-even-if-the-strait-of-hormuz-opens-11341646",
+      "publisher": "NDTV Profit",
+      "angle": "The Economist's deputy editor laid out three reasons energy prices will stay elevated even after the strait reopens: Iran's toll scheme, pent-up tanker backlogs, and the new permanent vulnerability Iran has demonstrated."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/04/10/oil-prices-dated-brent-energy-iran-war-ceasefire-strait-of-hormuz.html",
+      "publisher": "CNBC",
+      "angle": "Dated Brent hit $144.42 at its peak before the ceasefire, still above $131. The spread between physical and futures Brent is unprecedented, signaling the physical market sees supply scarcity that traders are already pricing as a floor."
+    },
+    {
+      "url": "https://financialpost.com/commodities/energy/oil-gas/oil-rises-after-biggest-drop-since-2020-as-hormuz-stays-blocked",
+      "publisher": "Financial Post",
+      "angle": "Iran established a designated safe corridor and may require vessels to pay for passage. Just 22 ships transited with AIS on since the ceasefire started, versus about 135 daily before the war."
+    }
+  ],
+  "brief": {
+    "actors": ["Iran", "Trump", "Vance", "OPEC", "China", "UK"],
+    "whatHappened": "A two-week U.S.-Iran ceasefire was announced April 7, but as of April 11, fewer than 22 ships had transited the Strait of Hormuz with tracking systems on, compared to about 135 daily before the war. More than 600 vessels including 325 tankers remain stranded in the Gulf. Iran has announced a designated safe corridor and signaled it will charge tolls for passage even under a peace deal. Dated Brent crude hit a record $144.42 per barrel just before the ceasefire and remains above $131, while Trump told reporters the U.S. would open the strait 'fairly soon' without explaining how.",
+    "bottomLine": "Iran did not just fight a war. It installed infrastructure. The ceasefire ends the shooting, but Iran has turned the world's most important oil chokepoint into a revenue source and a permanent threat to demonstrate it can close again. That is a structural change to the global energy order, not a temporary disruption.",
+    "hiddenBets": [
+      {
+        "assumption": "A peace deal will reopen the Strait automatically.",
+        "whyItMightBeWrong": "Iran has already announced it plans to charge ships for passage and has established a 'safe corridor' that it controls. Trump said he would not allow Iran to run a tollbooth. But the U.S. has not explained how it would force Iranian compliance without resuming strikes. If Iran's terms are a toll plus nuclear limits, the U.S. faces a choice between accepting the toll or going back to war over what amounts to a shipping fee."
+      },
+      {
+        "assumption": "Energy prices will normalize once the strait reopens.",
+        "whyItMightBeWrong": "Even in the best-case scenario, analysts identify three lags: Iran gaming the reopening process, hundreds of ships queued up that cannot all transit at once, and wells and refineries that were shut down and need weeks to restart. The Economist's deputy editor said prices would stay elevated for 'a long period' even after a deal. The market is pricing a May reopening at 59% (Polymarket), suggesting a significant probability of prolonged disruption."
+      },
+      {
+        "assumption": "The ceasefire's primary risk is military escalation.",
+        "whyItMightBeWrong": "Iran's drone campaign against commercial shipping is the actual enforcement mechanism, not its naval forces. Iran demonstrated it can hit commercial ships with persistent aerial threats without restarting the declared war. The ceasefire covers the declared conflict, not the aerial harassment campaign, and there is no confirmed agreement about what governs that."
+      }
+    ],
+    "realDisagreement": "The actual fork is whether what Iran has done is leverage or ransom. The optimistic reading is that Iran needs money to rebuild, knows it cannot hold the strait forever, and will trade access for a deal that relieves sanctions and guarantees it will not face another U.S. strike. That is leverage, and it is negotiable. The pessimistic reading is that Iran has discovered it can close the strait, extract payment, and face no consequence that outweighs the benefit. That is ransom, and rewarding it teaches a lesson to every state with a chokepoint. The lean is toward the pessimistic reading: Iran has established a new permanent risk, and no deal on the table appears to reverse that. The toll will likely be paid in some form, even if the word toll is not used.",
+    "whatNoOneIsSaying": "Twenty percent of the world's oil passed through the Strait of Hormuz before the war. Iran just demonstrated that it can close that artery at will and charge for reopening it. The next time any state or non-state actor sits near a global chokepoint, they have proof that the strategy works and that the U.S. will negotiate rather than force a reopening.",
+    "whoPays": [
+      {
+        "who": "Global consumers",
+        "how": "Dated Brent above $130 translates directly to higher fuel, heating, and freight costs. Inflation rises noted in U.S. data. Countries without dollar reserves, particularly in South Asia and Africa, face currency and import crises.",
+        "when": "Already happening, duration depends on reopening timeline"
+      },
+      {
+        "who": "Gulf state exporters: Saudi Arabia, UAE, Kuwait",
+        "how": "Their oil infrastructure was struck during the war. They face the permanent demonstration that Iran will attack them again if politically convenient. Insurance and security costs on Gulf energy infrastructure are repriced upward indefinitely.",
+        "when": "Permanent structural repricing already underway"
+      },
+      {
+        "who": "600+ stranded vessels and their crews",
+        "how": "Tankers, container ships, and cargo vessels are stuck in the Gulf with no confirmed clearance. Owners are losing money daily. Crews are stranded. Many vessels have been sitting for weeks under drone threat.",
+        "when": "Immediate, ongoing"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Toll Accepted",
+        "whatHappens": "The Islamabad talks produce a deal where Iran agrees to open the strait in exchange for sanctions relief and an undisclosed payment mechanism disguised as port fees or insurance. Traffic normalizes by May, oil drops to the $80s. Iran banks the precedent.",
+        "signal": "Dated Brent falling below $100 and ships transiting without incident. Polymarket has normal traffic by end of May at 59%."
+      },
+      {
+        "name": "Talks Collapse",
+        "whatHappens": "Islamabad negotiations break down over nuclear terms, Iran's toll demands, or Lebanon. The ceasefire expires, drone strikes resume, and dated Brent returns toward $140. A U.S. military escort operation begins as a face-saving alternative to renewed bombing.",
+        "signal": "No deal announcement by April 22 (25-day ceasefire expiry). Polymarket has U.S.-Iran permanent peace deal by April 22 at 18.5%."
+      },
+      {
+        "name": "Forced Opening",
+        "whatHappens": "Trump orders U.S. Navy to escort commercial convoys through the strait without Iranian authorization. Iran backs down to avoid a direct incident. Traffic resumes but Iran retains the option to reimpose pressure when convenient.",
+        "signal": "Trump executive order or direct military statement about unilateral convoy operations. Polymarket has U.S. escorting a commercial ship through Hormuz by April 30 at 30.5%."
+      }
+    ],
+    "whatWouldChange": "If Iran dropped the toll demand and proposed a verified reopening mechanism monitored by a neutral party, that would change the analysis. It would mean Iran sees the strait as leverage it can trade rather than as an asset it intends to keep. Nothing in the current negotiating record suggests Iran has made that offer.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Strait of Hormuz traffic returns to normal by end of May?",
+        "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-may",
+        "probability": 0.59
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Strait of Hormuz traffic returns to normal by end of April?",
+        "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-april-30",
+        "probability": 0.345
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US x Iran permanent peace deal by April 30, 2026?",
+        "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by",
+        "probability": 0.24
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US escorts commercial ship through Hormuz by April 30?",
+        "url": "https://polymarket.com/event/us-escorts-commercial-ship-through-hormuz-by-march-31",
+        "probability": 0.305
+      }
+    ]
+  }
+}

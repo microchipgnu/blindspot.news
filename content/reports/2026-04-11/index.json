@@ -1,6 +1,6 @@
 {
   "date": "2026-04-11",
-  "generatedAt": "2026-04-11T12:00:00Z",
+  "generatedAt": "2026-04-11T17:30:00Z",
   "reports": [
     {
       "id": "vance-iran-islamabad-talks",
@@ -31,6 +31,36 @@
       "title": "32 Hours of Nothing",
       "subtitle": "Putin announced a ceasefire for Orthodox Easter. Ukraine accepted. The war did not.",
       "category": "conflict"
+    },
+    {
+      "id": "xi-kmt-taiwan-split",
+      "title": "Beijing's Proxy in Taipei",
+      "subtitle": "Xi met the KMT's leader in Beijing while 16 Chinese warplanes circled Taiwan. The timing was not coincidental.",
+      "category": "conflict"
+    },
+    {
+      "id": "hormuz-toll-road",
+      "title": "The Toll Booth at the End of the War",
+      "subtitle": "The ceasefire is two weeks old. The Strait of Hormuz is still closed. Iran is charging ships for the privilege of passing through.",
+      "category": "power"
+    },
+    {
+      "id": "ai-agents-governance-gap",
+      "title": "Supremely Intelligent Teenagers",
+      "subtitle": "Seventy-nine percent of enterprises are running AI agents. Eleven percent have security approval for what those agents can do. The gap is not a growing pain.",
+      "category": "power"
+    },
+    {
+      "id": "australia-social-media-ban-enforcement",
+      "title": "The Law That Teenagers Broke in a Week",
+      "subtitle": "Australia's under-16 social media ban has been in force for four months. The regulator says platforms are failing. A 15-year-old named Noah is fighting it in court. Both things can be true.",
+      "category": "power"
+    },
+    {
+      "id": "doj-jawboning-settlement",
+      "title": "The Government That Pressed the Mute Button",
+      "subtitle": "The DOJ settled a lawsuit confirming the Biden State Department funded tools to suppress protected speech on social media. The settlement admits more than it resolves.",
+      "category": "power"
     }
   ]
 }

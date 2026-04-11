@@ -1,0 +1,118 @@
+{
+  "id": "xi-kmt-taiwan-split",
+  "date": "2026-04-11",
+  "generatedAt": "2026-04-11T17:25:00Z",
+  "title": "Beijing's Proxy in Taipei",
+  "subtitle": "Xi met the KMT's leader in Beijing while 16 Chinese warplanes circled Taiwan. The timing was not coincidental.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["Taiwan", "China", "KMT", "cross-strait", "Xi Jinping"],
+  "coverImage": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26100801939432-1775867246_86d419-1775874329.jpg",
+    "local": "/images/reports/2026-04-11/xi-kmt-taiwan-beijing.jpg",
+    "credit": "Al Jazeera / AP"
+  },
+  "sources": [
+    {
+      "url": "https://english.news.cn/20260410/eaf2a77e6cf246bb89cd4229f9d58195/c.html",
+      "publisher": "Xinhua",
+      "angle": "Beijing's official framing: Xi embraced Cheng as a partner in opposing independence and advancing peaceful reunification under the 1992 Consensus."
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/10/china/china-xi-taiwan-opposition-leader-meeting-intl-hnk",
+      "publisher": "CNN",
+      "angle": "Frames the meeting as historically significant and timed to the upcoming Trump-Xi summit, with Xi using global instability as a rhetorical backdrop for cross-strait peace."
+    },
+    {
+      "url": "https://www.scmp.com/news/china/politics/article/3349617/taiwans-opposition-leader-cheng-li-wun-speaks-after-historic-meeting-xi-jinping",
+      "publisher": "South China Morning Post",
+      "angle": "Cheng went beyond expectations, proposing permanent cross-strait dialogue mechanisms and saying she hopes to invite Xi to Taiwan if the KMT wins in 2028."
+    },
+    {
+      "url": "https://focustaiwan.tw/cross-strait/202604110008",
+      "publisher": "Focus Taiwan / CNA",
+      "angle": "Taiwan's ruling DPP premier called Cheng's Beijing visit playing with fire, saying her remarks echo Beijing's framing and undermine allied support for Taiwan's security."
+    },
+    {
+      "url": "https://d2449.cms.socastsrm.com/2026/04/10/taiwan-spotted-chinese-warplanes-as-xi-met-opposition-leader-in-beijing/",
+      "publisher": "KELO-AM / Reuters",
+      "angle": "Taiwan's defense ministry tracked 16 Chinese warplanes near the island during the meeting, with naval activity at unusually high levels, suggesting Beijing was running diplomacy and military pressure in parallel."
+    }
+  ],
+  "brief": {
+    "actors": ["Xi Jinping", "KMT", "China", "Taiwan", "DPP", "Trump"],
+    "whatHappened": "KMT Chairwoman Cheng Li-wun met Xi Jinping at the Great Hall of the People on April 10, the first CPC-KMT leadership summit in a decade. Xi declared Taiwan independence unacceptable and invoked the 1992 Consensus, while Cheng proposed permanent cross-strait dialogue mechanisms and floated inviting Xi to Taiwan if the KMT wins the 2028 presidential election. Taiwan's defense ministry simultaneously tracked 16 Chinese warplanes near the island. The ruling DPP government condemned the visit, with Premier Cho Jung-tai accusing Cheng of playing with fire by echoing Beijing's framing.",
+    "bottomLine": "Beijing is running two strategies simultaneously: diplomacy that rewards the KMT for opposing the ruling DPP, and military pressure that punishes Taiwan for having a government that won't negotiate on Beijing's terms. The meeting is not a peace signal. It is a selection pressure.",
+    "hiddenBets": [
+      {
+        "assumption": "The KMT is pursuing cross-strait engagement to protect Taiwan's security.",
+        "whyItMightBeWrong": "The KMT has also cut Taiwan's special defense budget from NT$1.25 trillion to NT$350 billion, specifically eliminating drone and unmanned surface vessel programs modeled on lessons from the Iran conflict. If the KMT is simultaneously reducing defense capability and deepening diplomatic ties with Beijing, the combination looks less like security and more like preparation for a different kind of outcome."
+      },
+      {
+        "assumption": "The 1992 Consensus is a neutral framework for dialogue.",
+        "whyItMightBeWrong": "The KMT reads the 1992 Consensus as 'one China, respective interpretations.' Beijing reads it as 'one China, no interpretation needed.' The ambiguity has always been the point for Beijing, because it allows China to accept KMT engagement while treating DPP rejection as proof of independence-seeking. The consensus is a trap designed for exactly this moment."
+      },
+      {
+        "assumption": "The Trump-Xi summit scheduled for May will constrain what Beijing can do.",
+        "whyItMightBeWrong": "The meeting with Cheng was timed one month before the Trump-Xi summit. Beijing is not waiting for Trump's permission. It is shaping the preconditions: by the time Trump sits down with Xi, there will already be a KMT-endorsed cross-strait process in motion, making American objections look like interference in a bilateral conversation that is already underway."
+      }
+    ],
+    "realDisagreement": "The actual fork is whether Taiwan's survival depends on democratic unity or on cross-strait engagement. The DPP position is that any negotiation on Beijing's terms legitimizes a claim that Taiwan has already rejected through elections. The KMT position is that only engagement prevents war, and that the DPP's refusal to talk is the actual security risk. Both arguments have force. The DPP is right that the 1992 Consensus is a trap. The KMT is right that a Taiwan that cannot talk to Beijing at all is one that depends entirely on American protection that may not materialize. The lean is toward the DPP: the concessions required to enter dialogue on Beijing's terms are not symmetric. Taiwan gives up its sovereignty claim. China gives up nothing it already has.",
+    "whatNoOneIsSaying": "The KMT's defense budget cuts specifically eliminated the programs most capable of denying China a quick victory. A Taiwan that cannot mine the strait, cannot swarm with drones, and cannot delay a landing force for weeks is a Taiwan that depends on American intervention within hours. That is not a defense strategy. That is a hostage arrangement.",
+    "whoPays": [
+      {
+        "who": "Taiwan's DPP government",
+        "how": "Faces a split opposition narrative ahead of the 2026 local elections, with the KMT claiming it is the party that can deliver peace and the DPP painted as the party that courts war. The DPP has to run on values while the KMT runs on security.",
+        "when": "Immediate and through November 2026 local elections"
+      },
+      {
+        "who": "Taiwan's defense establishment",
+        "how": "The KMT budget cuts have already reduced procurement for USV and drone programs. If these cuts persist through 2027, Taiwan's asymmetric deterrence capacity degrades precisely as China's naval modernization completes its current phase.",
+        "when": "Medium-term, 18-36 months"
+      },
+      {
+        "who": "Small Pacific nations and U.S. allies in the region",
+        "how": "A KMT victory in 2028 that brings cross-strait dialogue on Beijing's terms would reshape the entire regional security architecture. Countries that positioned themselves in the U.S. alliance network partly on the assumption of Taiwan's resolve would face an anchor point that had shifted.",
+        "when": "Long-term if KMT wins 2028 presidential election"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Split Consensus",
+        "whatHappens": "The KMT wins the 2026 local elections on a peace platform, emboldening Cheng to formalize cross-strait dialogue by 2027. The DPP retains the presidency but governs a country where the opposition has its own foreign policy channel to Beijing.",
+        "signal": "KMT sweep in November 2026 local elections, Polymarket has KMT winning 85% of local government races."
+      },
+      {
+        "name": "Trump Sidelines Taiwan",
+        "whatHappens": "The May 2026 Trump-Xi summit produces a deal on trade or Iran in which Taiwan is traded for concessions. The KMT process becomes the de facto American-endorsed path, and the DPP finds itself isolated.",
+        "signal": "Watch for any Trump statement at or after the summit that references the KMT-Xi process as a model for cross-strait stability."
+      },
+      {
+        "name": "Military Crisis Interrupts Diplomacy",
+        "whatHappens": "China's simultaneous warplane deployments escalate into an incident, the Taiwanese military responds, and the diplomatic track collapses. The KMT is discredited and the DPP's warnings are validated.",
+        "signal": "A Taiwan Strait incident during or after the next KMT-Beijing contact. Market pricing: China military clash before 2027 at 13.5%."
+      }
+    ],
+    "whatWouldChange": "If the KMT publicly demanded Beijing pull back warplane operations as a precondition for further talks, and Beijing complied, that would change the analysis. It would mean the KMT has genuine leverage and is not simply absorbing Beijing's preferred framework. Nothing in the current record suggests this is possible.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will KMT win the most head of local government elections in Taiwan's 2026 local elections?",
+        "url": "https://polymarket.com/event/2026-taiwanese-local-elections-party-winner",
+        "probability": 0.855
+      },
+      {
+        "platform": "Polymarket",
+        "question": "China x Taiwan military clash before 2027?",
+        "url": "https://polymarket.com/event/china-x-taiwan-military-clash-before-2027",
+        "probability": 0.135
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will China blockade Taiwan by June 30?",
+        "url": "https://polymarket.com/event/will-china-blockade-taiwan-by-june-30",
+        "probability": 0.039
+      }
+    ]
+  }
+}

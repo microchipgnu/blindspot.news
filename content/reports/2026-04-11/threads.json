@@ -4,7 +4,7 @@
     {
       "id": "executive-authority-without-congress",
       "title": "The End of Congressional Constraints",
-      "description": "Three stories today are secretly about the same question: can the executive branch act without legal authority from Congress, and what happens when it decides the answer is yes? Trump invoked emergency powers to fund DHS outside shutdown rules, reached for a 1974 statute to impose tariffs the Supreme Court said he can't levy under IEEPA, and sent Vance to Pakistan to negotiate a war that Congress explicitly voted not to authorize. These are not separate abuses; they are a single operating theory of executive power being tested simultaneously across three domains.",
+      "description": "Three stories today are secretly about the same question: can the executive branch act without legal authority from Congress, and what happens when it decides the answer is yes? Trump invoked emergency powers to fund DHS outside shutdown rules, reached for a 1974 statute to impose tariffs the Supreme Court said he cannot levy under IEEPA, and sent Vance to Pakistan to negotiate a war that Congress explicitly voted not to authorize. These are not separate abuses; they are a single operating theory of executive power being tested simultaneously across three domains.",
       "type": "tension-cluster",
       "stories": ["dhs-shutdown-recall", "tariff-court-ieepa", "vance-iran-islamabad-talks"],
       "connections": [
@@ -21,35 +21,59 @@
       ]
     },
     {
-      "id": "ceasefire-as-instrument-not-peace",
-      "title": "What a Ceasefire Is Actually For",
-      "description": "Both the Iran and Ukraine ceasefires being discussed today share a structure that has nothing to do with ending wars: they are short-term operational pauses that both sides are using for positioning, signaling, and propaganda, not conflict resolution. Vance's Iran talks are built on a ceasefire that both sides are already accusing each other of violating. The Ukraine Easter truce is scheduled to last 32 hours and was agreed by both sides that are simultaneously requesting more weapons. A ceasefire in 2026 means something different than it used to: it is a negotiating chip, not a beginning.",
+      "id": "chokepoint-as-permanent-weapon",
+      "title": "The Chokepoint Doctrine",
+      "description": "Iran has proven that controlling a physical chokepoint generates leverage that survives a military loss and persists through a ceasefire. The Hormuz toll-booth is not a post-war anomaly. It is the lesson. What makes this connect to Taiwan is specific: the KMT's defense budget cuts eliminated the drone and unmanned surface vessel programs that Taiwan would have used to contest a Chinese naval chokepoint around its own strait. Iran demonstrated a strategy. The KMT removed Taiwan's counter to that strategy. Beijing is watching both.",
       "type": "cause-effect",
-      "stories": ["vance-iran-islamabad-talks", "ukraine-easter-ceasefire"],
+      "stories": ["hormuz-toll-road", "xi-kmt-taiwan-split"],
       "connections": [
         {
-          "from": "ukraine-easter-ceasefire",
-          "to": "vance-iran-islamabad-talks",
-          "relationship": "The Ukraine ceasefire failure pattern, in which short truces collapse without advancing peace, is the context in which Vance is trying to extend the Iran ceasefire into a permanent deal. The Iran talks are happening in the shadow of the Ukraine model, and both US and Iranian negotiators know what short humanitarian truces typically produce."
+          "from": "hormuz-toll-road",
+          "to": "xi-kmt-taiwan-split",
+          "relationship": "Iran's Hormuz drone and mining campaign proved that a weaker power can hold a maritime chokepoint through persistent aerial threat, not just naval capacity. The KMT's NT$900 billion defense budget cut specifically eliminated Taiwan's USV and drone programs, which were modeled on deterring exactly this kind of contested-strait scenario. The Hormuz model is now visible to every military planner. Taiwan's defense against it is being dismantled by its own opposition party."
         }
       ]
     },
     {
-      "id": "who-decides-what-counts-as-emergency",
-      "title": "The Emergency That Justifies Everything",
-      "description": "Four of today's five stories turn on who gets to declare something an emergency and what that declaration permits. Trump declared the DHS shutdown an emergency to recall workers. He cited a national security emergency to impose tariffs after IEEPA was struck down. The Iran war proceeded under emergency executive authority without a declaration of war. The AI regulation fight is partly about whether AI harms constitute an emergency requiring preemptive federal control. The word 'emergency' is doing enormous legal work across every domain of governance right now, and no institution is pushing back hard enough to define its limits.",
+      "id": "who-governs-the-digital-commons",
+      "title": "Four Stories, One Unanswered Question",
+      "description": "Four stories today are all trying to answer the same question through different mechanisms: who has the authority to decide what speech and behavior is acceptable in digital spaces, and what happens when every answer fails? Government jawboning gets you a lawsuit. Congressional regulation produces partisan deadlock over whether AI is dangerous technology or dangerous uses. Corporate self-governance fails the compliance audit. Blanket bans get circumvented by teenagers in a week. The digital commons is ungoverned not because no one wants to govern it, but because every governance mechanism available has a fatal flaw.",
       "type": "tension-cluster",
-      "stories": ["dhs-shutdown-recall", "tariff-court-ieepa", "vance-iran-islamabad-talks", "ai-regulation-congress"],
+      "stories": ["doj-jawboning-settlement", "ai-regulation-congress", "australia-social-media-ban-enforcement", "ai-agents-governance-gap"],
       "connections": [
         {
-          "from": "tariff-court-ieepa",
-          "to": "dhs-shutdown-recall",
-          "relationship": "The trade court is being asked to determine whether a chronic trade deficit is an emergency. The DHS memo uses 'national security emergency' to fund workers during a shutdown. In both cases, the administration is stretching the legal definition of emergency to cover standing policy goals, not acute crises."
+          "from": "doj-jawboning-settlement",
+          "to": "ai-regulation-congress",
+          "relationship": "The settlement makes informal government pressure on platforms constitutionally risky. This removes the jawboning tool from any administration's kit precisely as Congress is trying to decide whether and how to regulate AI content moderation. The legal constraint on informal coordination arrives at the same moment as formal regulation is deadlocked."
         },
         {
-          "from": "dhs-shutdown-recall",
-          "to": "ai-regulation-congress",
-          "relationship": "The federal preemption push in AI regulation relies on the argument that a fragmented state regulatory environment creates an economic and national security emergency requiring federal action. The same emergency logic that justifies DHS's shutdown-defying memo is the rhetorical foundation of the AI preemption argument."
+          "from": "ai-regulation-congress",
+          "to": "australia-social-media-ban-enforcement",
+          "relationship": "The Australian ban represents the regulatory approach that the Democratic caucus in Congress broadly favors: platform-level mandates with government enforcement. The four-month enforcement failure in Australia is the empirical evidence that the approach Congress has not yet passed is not working where it has already passed."
+        },
+        {
+          "from": "australia-social-media-ban-enforcement",
+          "to": "ai-agents-governance-gap",
+          "relationship": "Both stories describe the same pattern: governance mandates that organizations and platforms nominally comply with while the underlying behavior the mandate was meant to stop continues unchecked. Australia's platforms meet the audit. They do not stop teenagers. Enterprises get CISO sign-off on AI policy. They do not govern the agents already deployed. The mechanism of compliance theater is identical."
+        }
+      ]
+    },
+    {
+      "id": "ceasefire-as-instrument-not-peace",
+      "title": "What a Ceasefire Is Actually For",
+      "description": "Both the Iran and Ukraine ceasefires being discussed today share a structure that has nothing to do with ending wars: they are short-term operational pauses that both sides are using for positioning, signaling, and negotiations, not conflict resolution. Vance's Iran talks are built on a ceasefire that both sides are already accusing each other of violating. The Ukraine Easter truce lasted 32 hours. A ceasefire in 2026 is a negotiating chip, not a beginning. And in the Iran case, the ceasefire enabled Iran to convert its military leverage into an economic toll booth that persists regardless of how the peace talks end.",
+      "type": "cause-effect",
+      "stories": ["vance-iran-islamabad-talks", "ukraine-easter-ceasefire", "hormuz-toll-road"],
+      "connections": [
+        {
+          "from": "ukraine-easter-ceasefire",
+          "to": "vance-iran-islamabad-talks",
+          "relationship": "The Ukraine ceasefire failure pattern establishes the context in which Vance is trying to extend Iran's two-week truce into a permanent deal. Both sides know that short humanitarian truces rarely advance peace; they recalibrate positions. The Iran talks are happening with that lesson on the table."
+        },
+        {
+          "from": "vance-iran-islamabad-talks",
+          "to": "hormuz-toll-road",
+          "relationship": "The ceasefire announcement caused markets to drop oil prices by $14, giving the false impression that the crisis was resolving. Iran used the ceasefire period to consolidate its Hormuz toll regime while the world watched diplomatic progress. The truce created cover for the structural change Iran was making."
         }
       ]
     }
