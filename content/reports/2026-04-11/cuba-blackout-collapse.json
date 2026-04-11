@@ -1,0 +1,113 @@
+{
+  "id": "cuba-blackout-collapse",
+  "date": "2026-04-11",
+  "generatedAt": "2026-04-11T22:50:00Z",
+  "title": "Half the Island Goes Dark",
+  "subtitle": "Cuba's power grid is generating half of what the country needs. China and Russia are watching. The US is squeezing. Hospitals are running on generators.",
+  "topic": "society",
+  "category": "conflict",
+  "tags": ["Cuba", "energy crisis", "blackout", "China", "Russia", "US sanctions", "Diaz-Canel"],
+  "coverImage": {
+    "url": "https://i0.wp.com/media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260317cuba-rs-5a0598.jpg",
+    "local": "/images/reports/2026-04-11/cuba-blackout-collapse.jpg",
+    "credit": "NBC News"
+  },
+  "sources": [
+    {
+      "url": "https://en.cibercuba.com/noticias/2026-04-11-u1-e209395-s27061-nid325626-escampa-union-electrica-pronostica-afectacion-1515",
+      "publisher": "CiberCuba",
+      "angle": "Real-time reporting from inside Cuba. Cuba's Unión Eléctrica data showing 1,515 MW deficit against 3,000 MW peak demand. The island was running at 50% capacity as of April 11 nighttime peak."
+    },
+    {
+      "url": "http://www.scmp.com/news/china/article/3349715/china-russia-rally-behind-cuba-us-squeezes-havana-deepening-crisis",
+      "publisher": "South China Morning Post",
+      "angle": "Reports China and Russia rallying behind Cuba diplomatically while the US tightens the blockade. Frames Cuba as a geopolitical chessboard between great powers, not just a domestic crisis."
+    },
+    {
+      "url": "https://custommapposter.com/article/cuba-blackout-hospitals-in-the-dark-fuels-crisis-and-what-it-means-for-the-nation/13027",
+      "publisher": "Custom Map Poster / NBC News syndication",
+      "angle": "Reports on hospitals going dark, the fuel supply chain failure, and early protests. Frames the crisis as reaching a humanitarian threshold."
+    },
+    {
+      "url": "https://dailyittehad.com.pk/news/2026/04/11/china-urges-us-to-end-sanctions-against-cuba/",
+      "publisher": "Daily Ittehad",
+      "angle": "China's Ministry of Foreign Affairs calling on the US to immediately lift the blockade. Chinese framing positions Cuba as a victim of American aggression."
+    }
+  ],
+  "brief": {
+    "actors": ["Cuba", "Diaz-Canel", "China", "Russia", "Trump", "US"],
+    "whatHappened": "Cuba's national power grid is in crisis. As of April 11, the Unión Eléctrica reported a 1,485 MW deficit at peak nighttime hours, meaning the grid was supplying roughly half of demand. Hospitals are operating on backup generators. Rolling blackouts last 12-16 hours in some provinces. The crisis was triggered by the failure of the Antonio Guiteras thermoelectric plant and a second generator, compounded by a US-tightened energy blockade that has restricted Venezuela's ability to supply Cuba with oil. China and Russia have rallied around Havana diplomatically, with Beijing demanding the US end the blockade and Moscow confirming it will continue oil deliveries despite US pressure. Polymarket prices a 56% chance Diaz-Canel is out of power by December 31.",
+    "bottomLine": "Cuba is not having a power outage. Cuba is having a state collapse in slow motion: a government that cannot keep hospitals lit is demonstrating that it can no longer perform the basic function of governance, and the population has noticed.",
+    "hiddenBets": [
+      {
+        "assumption": "Tightening the blockade will force political change",
+        "whyItMightBeWrong": "Sixty years of blockade did not change Cuba's government. What it did was give the Cuban government a permanent external enemy to blame for domestic failures. The current crisis is following the same pattern: the regime attributes every power failure to US aggression, and a significant portion of the population accepts that framing because it is partly true."
+      },
+      {
+        "assumption": "China and Russia can substitute for US-restricted oil",
+        "whyItMightBeWrong": "Russia's oil deliveries to Cuba face logistics constraints as its fleet is already stretched by sanctions. China's support is diplomatic rather than material; Beijing has not committed to large-scale energy transfers. The gap between the announcement of solidarity and actual fuel arriving in Havana harbor is where this story is really happening."
+      },
+      {
+        "assumption": "The Cuban government can manage the crisis politically",
+        "whyItMightBeWrong": "Polymarket prices a 56% chance Diaz-Canel is gone by year-end. That is not a certainty, but it is remarkable for a government that survived six decades of US pressure. The April 2021 protests and the wave of emigration since have substantially changed the social contract. Cubans who stayed are older and poorer; the people most likely to organize a challenge have already left."
+      }
+    ],
+    "realDisagreement": "The real fork is whether the US is tightening the blockade to produce political change or to punish the regime regardless of outcome. If the goal is political change, the blockade is failing by historical precedent and by the risk of humanitarian backlash. If the goal is punishment, the blockade is succeeding and the suffering is an intended cost. American officials say the first. The policy design looks more like the second. You cannot have both: a blockade that causes widespread civilian harm and also claim that harm is not the instrument. Cuba's population is the mechanism of change the policy relies on, and using civilian suffering as a policy tool is different from what officials will admit in public.",
+    "whatNoOneIsSaying": "The most likely near-term outcome is not regime collapse and not a US-Cuba deal. It is managed deterioration: the Cuban government stays in power, China and Russia provide enough material support to prevent a humanitarian catastrophe that would force international action, and the US blockade ensures Cuba stays poor and isolated indefinitely. Everyone in this story is optimizing to avoid being blamed for what happens, not to solve it.",
+    "whoPays": [
+      {
+        "who": "Cuban hospital patients",
+        "how": "Hospitals on generators have limited capacity for surgeries, refrigerated medications, and ICU equipment. Patients who need procedures that require stable power are being deferred or transferred. Deaths that would not occur with functioning power infrastructure are occurring.",
+        "when": "Ongoing, worsening through the summer heat season"
+      },
+      {
+        "who": "Cuban emigrants' families",
+        "how": "Cubans who left send remittances that are the primary income for relatives still on the island. The US has restricted some remittance channels as part of the blockade. Families are caught between the pressure of keeping people alive and the policy restrictions on moving money.",
+        "when": "Ongoing"
+      },
+      {
+        "who": "US Cuban-American political coalition",
+        "how": "The Cuban-American political constituency that supports the blockade has historically been the decisive voice in Florida politics. If the blockade produces visible humanitarian suffering without producing political change, the consensus within that community may fracture, particularly among younger Cuban-Americans.",
+        "when": "Medium-term, through the 2026 midterms"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Managed survival",
+        "whatHappens": "Russia delivers enough oil to restore 70-80% grid capacity. China provides diplomatic cover. Diaz-Canel survives in power. The crisis becomes normalized and forgotten by international media. Cuba continues deteriorating slowly.",
+        "signal": "Russian oil tankers dock in Havana within 2 weeks. Power deficit falls below 500 MW."
+      },
+      {
+        "name": "Regime fracture",
+        "whatHappens": "Power stays below 60% through the summer. Protests spread beyond Havana. A faction within the Cuban military or Communist Party signals willingness to negotiate a transition in exchange for lifting sanctions.",
+        "signal": "Reports of military officers publicly expressing dissatisfaction with the civilian government's management of the crisis."
+      },
+      {
+        "name": "US deal offer",
+        "whatHappens": "The humanitarian optics become too costly for the US domestically and diplomatically. The Trump administration offers partial sanctions relief in exchange for a political concession. Polymarket's US-Cuba economic deal market prices this at 28.5% by June 30.",
+        "signal": "State Department back-channel talks confirmed by a third-country intermediary."
+      }
+    ],
+    "whatWouldChange": "If Russia stops delivering oil to Cuba, the managed survival scenario collapses within weeks. If protests spread to military facilities or the Communist Party apparatus publicly fractures, the 56% Polymarket probability on Diaz-Canel's exit becomes a floor rather than a ceiling.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Miguel Diaz-Canel out as leader of Cuba by December 31?",
+        "url": "https://polymarket.com/event/miguel-daz-canel-out-as-leader-of-cuba-by-june-30",
+        "probability": 0.56
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US x Cuba economic deal by June 30, 2026?",
+        "url": "https://polymarket.com/event/us-x-cuba-economic-deal-by",
+        "probability": 0.285
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will the U.S. invade Cuba in 2026?",
+        "url": "https://polymarket.com/event/will-the-us-invade-cuba-in-2026",
+        "probability": 0.225
+      }
+    ]
+  }
+}

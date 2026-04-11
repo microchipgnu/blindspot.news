@@ -1,6 +1,6 @@
 {
   "date": "2026-04-11",
-  "generatedAt": "2026-04-11T17:30:00Z",
+  "generatedAt": "2026-04-11T22:55:00Z",
   "reports": [
     {
       "id": "vance-iran-islamabad-talks",
@@ -61,6 +61,36 @@
       "title": "The Government That Pressed the Mute Button",
       "subtitle": "The DOJ settled a lawsuit confirming the Biden State Department funded tools to suppress protected speech on social media. The settlement admits more than it resolves.",
       "category": "power"
+    },
+    {
+      "id": "ai-chip-export-stall",
+      "title": "The Bureaucracy That's Losing the Chip War",
+      "subtitle": "Trump's plan to sell AI chips to allies is collapsing inside the Commerce Department, where staff have fled and license approvals now take months.",
+      "category": "power"
+    },
+    {
+      "id": "anthropic-chips-race",
+      "title": "The Company That Beat OpenAI Is Now Afraid of Nvidia",
+      "subtitle": "Anthropic just surpassed OpenAI in revenue and valuation. Its next problem is that both companies depend on a chip supply they do not control.",
+      "category": "power"
+    },
+    {
+      "id": "consumer-sentiment-iran-gas",
+      "title": "The War That Came Home at the Pump",
+      "subtitle": "American consumer sentiment just hit its lowest point on record. The cause is not the stock market. It is the price of gas, and gas is expensive because of a war the administration started.",
+      "category": "power"
+    },
+    {
+      "id": "france-rearmament-europe",
+      "title": "France Spends $53 Billion to Replace the American Guarantee",
+      "subtitle": "Paris just added $53 billion to its defense budget and expanded its nuclear arsenal. This is not NATO burden-sharing. This is Europe preparing for the scenario where America is not coming.",
+      "category": "power"
+    },
+    {
+      "id": "cuba-blackout-collapse",
+      "title": "Half the Island Goes Dark",
+      "subtitle": "Cuba's power grid is generating half of what the country needs. China and Russia are watching. The US is squeezing. Hospitals are running on generators.",
+      "category": "conflict"
     }
   ]
 }

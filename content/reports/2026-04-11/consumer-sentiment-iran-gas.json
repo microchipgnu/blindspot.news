@@ -1,0 +1,107 @@
+{
+  "id": "consumer-sentiment-iran-gas",
+  "date": "2026-04-11",
+  "generatedAt": "2026-04-11T22:40:00Z",
+  "title": "The War That Came Home at the Pump",
+  "subtitle": "American consumer sentiment just hit its lowest point on record. The cause is not the stock market. It is the price of gas, and gas is expensive because of a war the administration started.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["economy", "consumer sentiment", "Iran war", "gas prices", "Trump approval", "tariffs", "recession"],
+  "coverImage": {
+    "url": "https://cbs4local.com/resources/media2/16x9/5948/1320/34x17/90/12456491-e75b-42f5-9b1c-c9e46ff3c677-GettyImages2270119581.jpg",
+    "local": "/images/reports/2026-04-11/consumer-sentiment-iran-gas.jpg",
+    "credit": "Getty Images via CBS4"
+  },
+  "sources": [
+    {
+      "url": "https://m.cbs4local.com/news/nation-world/consumer-sentiment-sinks-to-all-time-low-amid-cost-of-living-stress-from-iran-war",
+      "publisher": "CBS News / The National News Desk",
+      "angle": "Reports the University of Michigan consumer sentiment at an all-time low. Quotes survey director Joanne Hsu directly linking the drop to Iran war cost-of-living impacts. Frames this as a war dividend problem."
+    },
+    {
+      "url": "https://goldrushcam.com/sierrasuntimes/index.php/news/local-news/77144-university-of-michigan-consumer-sentiment-preliminary-results-for-april-2026-falls-11-month-over-month-declines-38-under-president-trump-compared-to-president-biden-in-april-2024",
+      "publisher": "Sierra Sun Times",
+      "angle": "Raw data: April 2026 down 11% month-over-month, and down 38% compared to Biden's April 2024. Provides the partisan comparison the White House will dispute."
+    },
+    {
+      "url": "https://reuters.com/business/energy/boston-denver-us-drivers-cut-back-iran-war-pushes-fuel-costs-higher-2026-04-11/",
+      "publisher": "Reuters",
+      "angle": "Ground-level reporting from drivers in Boston and Denver cutting back on travel. Notes Trump approval ratings falling sharply and analysts expecting elevated prices even if the Iran ceasefire persists."
+    },
+    {
+      "url": "https://www.app.com/story/news/nation/2026/04/08/trump-approval-rating-today-april-8-2026/89512954007/",
+      "publisher": "Asbury Park Press",
+      "angle": "Trump approval hovering in the low 40s across multiple trackers. Attributes the decline to ongoing Middle East conflict and fuel costs. Notes RCP average at 40.9%."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Iran", "Federal Reserve", "OPEC"],
+    "whatHappened": "The University of Michigan's preliminary consumer sentiment survey for April 2026 dropped 11% from March, registering the lowest reading in the survey's history. Survey director Joanne Hsu specifically cited the Iran war as the primary driver through elevated fuel costs and inflation expectations. Gas prices across the US have surged since the Iran conflict began in late March. Reuters reported on April 11 that motorists in Boston, Denver, and Miami are cutting back on driving, and that Trump's approval rating has fallen sharply as a result. Polymarket now prices a 59.5% chance that Trump's approval falls below 39% at some point in April.",
+    "bottomLine": "Trump's economic approval is being destroyed by a cost that flows directly from his own foreign policy: the Iran war raised oil prices, oil prices raised gas prices, and gas prices are the single most visible economic signal in ordinary American life. The administration cannot separate the war from the economic pain because they are the same decision.",
+    "hiddenBets": [
+      {
+        "assumption": "The ceasefire with Iran will bring prices back down",
+        "whyItMightBeWrong": "Reuters reports that analysts expect elevated fuel prices to persist even if the ceasefire holds. The Strait of Hormuz partial blockade and Iran's ongoing leverage over shipping (covered in the separate Hormuz brief) mean supply-side constraints may outlast the formal conflict."
+      },
+      {
+        "assumption": "Consumer sentiment is a lagging indicator and will recover",
+        "whyItMightBeWrong": "When sentiment falls because of fuel prices specifically, it correlates more tightly with actual spending cuts than when it falls from abstract financial anxiety. Reuters found people already cutting travel. Actual behavior change is harder to reverse than survey responses."
+      },
+      {
+        "assumption": "The tariff impact is still in the future",
+        "whyItMightBeWrong": "The tariff debate focuses on imported goods prices, which have a 60-90 day lag from tariff imposition to retail shelves. If the Iran war fuel cost is already compressing sentiment to record lows, adding a tariff-driven goods inflation on top of it this summer would compound an already deteriorating picture."
+      }
+    ],
+    "realDisagreement": "The real fork is whether this is a temporary cost that voters will absorb or a political breaking point that changes the coalition. One view says voters elected Trump understanding he was aggressive on foreign policy and will tolerate the cost. The other says the voters who flipped to Trump in 2024 were specifically the cost-of-living voters who were punishing Biden for inflation, and they will punish Trump for the same reason when the cause is a war he chose. The evidence from approval ratings suggests the second view is correct. Trump is losing ground with exactly the suburban and working-class voters who flipped on the inflation issue, and the mechanism is identical: an energy price spike that the administration either caused or is failing to contain.",
+    "whatNoOneIsSaying": "A president who started a war and is now watching his approval fall because the war raised gas prices has two choices: end the war or blame the pain on someone else. Trump has spent three weeks doing the latter. The ceasefire framework that JD Vance negotiated in Islamabad is partly a political escape from a domestic cost problem, not only a foreign policy achievement.",
+    "whoPays": [
+      {
+        "who": "Low-income US drivers",
+        "how": "Gas price increases take a disproportionate share of income for workers who commute by car and cannot work remotely. The Reuters story found people in Miami and Boston already eliminating discretionary trips. This is not an inconvenience for them; it is a budget cut.",
+        "when": "Ongoing since the Iran conflict began, worsening through at least summer 2026"
+      },
+      {
+        "who": "Republicans in competitive House seats",
+        "how": "Consumer sentiment at record lows six months before midterm primaries means Republican incumbents in cost-of-living-sensitive districts will face pressure to distance themselves from the administration's Iran policy.",
+        "when": "Midterm primary season, spring 2026"
+      },
+      {
+        "who": "Federal Reserve",
+        "how": "Fuel-driven inflation complicates the Fed's rate path. Cutting rates into energy inflation risks embedding higher price expectations. Holding rates into a consumer spending slowdown risks pushing a soft landing into a recession. The Iran war removed the Fed's clean exit.",
+        "when": "Next FOMC meeting and through 2026"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Ceasefire dividend",
+        "whatHappens": "Iran ceasefire holds, Hormuz transit normalizes, oil prices drop $15-20/barrel by June. Gas prices fall, consumer sentiment recovers 5-7 points, and Trump regains ground with cost-of-living voters before midterms.",
+        "signal": "Brent crude falls below $85/barrel within 30 days of a verified ceasefire."
+      },
+      {
+        "name": "Permanent shock",
+        "whatHappens": "Even with a ceasefire, elevated insurance costs and route diversions keep oil prices above pre-war levels. Tariff-driven goods inflation adds on top. Consumer sentiment stays at historic lows through fall 2026, producing a midterm environment comparable to 2022.",
+        "signal": "University of Michigan sentiment in May 2026 fails to recover by more than 3 points from the April low."
+      },
+      {
+        "name": "Recession call",
+        "whatHappens": "Consumer spending actually contracts in Q2. The Fed is caught between cutting into energy inflation or holding into a recession. GDP prints negative for two consecutive quarters and the political environment becomes unmanageable for the administration.",
+        "signal": "Retail sales data for April 2026 shows a month-over-month decline, followed by a downward revision to Q1 GDP."
+      }
+    ],
+    "whatWouldChange": "If gas prices fell back to pre-war levels by May and consumer sentiment recovered above 60 on the Michigan index, the economic damage theory would need to be revised. The current trajectory points in the opposite direction.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Trump's approval rating fall to 39.0% in April?",
+        "url": "https://polymarket.com/event/how-low-will-trumps-approval-rating-go-in-april",
+        "probability": 0.595
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Trump's approval rating hit 35% in 2026?",
+        "url": "https://polymarket.com/event/how-low-will-trumps-approval-rating-go-in-2026",
+        "probability": 0.445
+      }
+    ]
+  }
+}

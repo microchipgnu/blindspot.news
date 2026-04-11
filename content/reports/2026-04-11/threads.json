@@ -76,6 +76,44 @@
           "relationship": "The ceasefire announcement caused markets to drop oil prices by $14, giving the false impression that the crisis was resolving. Iran used the ceasefire period to consolidate its Hormuz toll regime while the world watched diplomatic progress. The truce created cover for the structural change Iran was making."
         }
       ]
+    },
+    {
+      "id": "american-policy-eating-itself",
+      "title": "Washington's Self-Defeating Machine",
+      "description": "Three stories today describe the same structural problem: the US is trying to exercise power through institutions it has systematically weakened, and the result is policy that announces itself loudly and executes badly. The Commerce Department's AI chip export program is staffed by people who left under DOGE pressure; the bureaucracy is too hollowed out to process the licenses that would fulfill the policy. The Iran war was launched over European objections and is now generating domestic economic pain that undermines the administration that started it. Trump's chip export agenda and his Iran agenda are both victims of his own governance choices.",
+      "type": "dependency-web",
+      "stories": ["ai-chip-export-stall", "consumer-sentiment-iran-gas", "dhs-shutdown-recall"],
+      "connections": [
+        {
+          "from": "dhs-shutdown-recall",
+          "to": "ai-chip-export-stall",
+          "relationship": "The DOGE-driven workforce reduction that is being contested in the DHS shutdown recall is the same workforce reduction that gutted the Bureau of Industry and Security's licensing capacity. The administration's domestic cost-cutting is directly undermining its foreign technology strategy."
+        },
+        {
+          "from": "consumer-sentiment-iran-gas",
+          "to": "ai-chip-export-stall",
+          "relationship": "The Iran war drove gas prices up and consumer sentiment to record lows, creating domestic political pressure that now constrains the administration's options on Iran negotiations. Separately, the war created the demand spike for AI infrastructure in Gulf states whose chip purchases are now stuck in the BIS backlog. The administration started a war that is simultaneously hurting American consumers and blocking the commercial deals it needs to fund its AI dominance strategy."
+        }
+      ]
+    },
+    {
+      "id": "chip-sovereignty-triple-bind",
+      "title": "Chips All the Way Down",
+      "description": "Three stories today are secretly about the same supply chain vulnerability: the US wants to control AI chip exports to maintain geopolitical leverage, but the agency that processes export licenses is understaffed and cannot execute; Anthropic is building the most commercially successful AI on chips it does not own and cannot guarantee access to; and Europe is spending $53 billion on defense that depends on semiconductor manufacturing capacity concentrated in Taiwan, which China is actively threatening. Every major power in every story is trying to build strategic autonomy on a foundation it does not control.",
+      "type": "tension-cluster",
+      "stories": ["ai-chip-export-stall", "anthropic-chips-race", "france-rearmament-europe"],
+      "connections": [
+        {
+          "from": "ai-chip-export-stall",
+          "to": "anthropic-chips-race",
+          "relationship": "The same chip shortage that is forcing Anthropic to explore custom silicon is the underlying reason the BIS backlog exists: global AI compute demand exceeds supply, every buyer is scrambling, and the US licensing system cannot keep pace with the commercial urgency. Anthropic and allied nations are fighting through the same bottleneck."
+        },
+        {
+          "from": "anthropic-chips-race",
+          "to": "france-rearmament-europe",
+          "relationship": "France's drone stockpile expansion and AI-guided weapons programs depend on the same advanced semiconductor supply chain that Anthropic is trying to secure. If chip export controls or supply constraints restrict access to advanced compute, France's rearmament timeline slips and the autonomous European defense posture it is building becomes less credible."
+        }
+      ]
     }
   ]
 }
