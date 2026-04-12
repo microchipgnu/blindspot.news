@@ -71,6 +71,41 @@
       "subtitle": "Staffing losses and tighter oversight inside the Commerce Department's Bureau of Industry and Security have turned AI chip export licenses into months-long waits. The US is blocking its own allies.",
       "category": "power",
       "topic": "tech"
+    },
+    {
+      "id": "anthropic-mythos-glasswing",
+      "title": "The Model You Cannot Use",
+      "subtitle": "Anthropic built its most capable AI and refused to release it publicly. Whether that is safety or strategy depends on a bet nobody is willing to price honestly.",
+      "category": "power",
+      "topic": "tech"
+    },
+    {
+      "id": "hungary-election-orban-magyar",
+      "title": "Orban's Last Election",
+      "subtitle": "Hungary is voting today in the first election in 16 years where Fidesz could actually lose. The outcome will determine whether illiberal democracy is a permanent political model or an accident of incumbency advantage.",
+      "category": "power",
+      "topic": "politics"
+    },
+    {
+      "id": "iran-war-inflation-shock",
+      "title": "War Tax at the Pump",
+      "subtitle": "The Iran war produced the largest single-month US price spike in four years. The Federal Reserve cannot fix a supply shock, and Polymarket is pricing April inflation at 3.5-3.7%. Nobody in Washington is explaining who actually pays.",
+      "category": "power",
+      "topic": "economy"
+    },
+    {
+      "id": "pakistan-double-bet",
+      "title": "Pakistan's Both Sides",
+      "subtitle": "Pakistan is hosting US-Iran peace talks while simultaneously sending fighter jets to Saudi Arabia under a mutual defense pact. The two moves are not contradictory. They are Pakistan's bet on being indispensable to everyone.",
+      "category": "conflict",
+      "topic": "geopolitics"
+    },
+    {
+      "id": "trump-pharma-two-strategies",
+      "title": "Two Drug Prices at Once",
+      "subtitle": "Trump is simultaneously threatening 100% tariffs on brand-name drugs that do not cut prices and expanding Medicare's power to negotiate drug prices downward. These are opposite levers. One of them is a bluff.",
+      "category": "power",
+      "topic": "society"
     }
   ]
 }

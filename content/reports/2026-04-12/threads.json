@@ -76,6 +76,49 @@
           "relationship": "DHS operating without a full appropriation and BLM running a compressed seven-day comment process both reflect agencies executing policy under resource and timeline constraints that preclude the level of process the law contemplates. The shortcuts are not coincidental; they are the product of the same capacity problem."
         }
       ]
+    },
+    {
+      "id": "iran-war-domestic-price",
+      "title": "The Iran War's Domestic Bill",
+      "description": "The Iran war has generated three distinct domestic cost streams that no single story captures in full. The inflation shock drives gas past $4, the pharmaceutical tariff threat is partially a response to the political pressure of rising costs, and Pakistan's military deployment to Saudi Arabia is partly funded by Saudi financial support that Pakistan needs because its own economy is being squeezed by high oil import costs. The war is not just a geopolitical event: it is a fiscal transfer from consumers, patients, and import-dependent economies to oil producers and defense contractors.",
+      "type": "dependency-web",
+      "stories": ["iran-ceasefire-collapse", "iran-war-inflation-shock", "pakistan-double-bet", "trump-pharma-two-strategies"],
+      "connections": [
+        {
+          "from": "iran-ceasefire-collapse",
+          "to": "iran-war-inflation-shock",
+          "relationship": "The Islamabad talks failing means the Hormuz disruption continues, which directly sustains the energy price shock driving the inflation spike. Every week without a ceasefire is another week of $4+ gas."
+        },
+        {
+          "from": "iran-war-inflation-shock",
+          "to": "trump-pharma-two-strategies",
+          "relationship": "The political pressure from rising consumer prices creates urgency for the White House to announce visible price-fighting policies; the pharmaceutical tariff is partly a response to that pressure, announced in the same week as the CPI report showing the largest monthly increase in four years."
+        },
+        {
+          "from": "iran-ceasefire-collapse",
+          "to": "pakistan-double-bet",
+          "relationship": "Pakistan's position as ceasefire host depends on the war continuing long enough to need mediation; the collapse of talks simultaneously damages Pakistan's diplomatic standing and maintains its relevance as the venue for any next round."
+        }
+      ]
+    },
+    {
+      "id": "access-as-power",
+      "title": "The New Toll on Expertise",
+      "description": "Two stories today are about the same underlying move: a powerful actor restricting access to something valuable and using that restriction to extract compliance. Anthropic withholds its most capable AI model and uses controlled access to lock in its largest commercial partners. Trump threatens pharmaceutical tariffs and uses the exemption pathway to compel individual deals with the White House. In both cases, the restriction is framed as protection but functions as leverage. The question is not whether either actor has legitimate safety or policy concerns; both might. The question is whether the restriction serves the stated purpose or primarily serves the actor imposing it.",
+      "type": "tension-cluster",
+      "stories": ["anthropic-mythos-glasswing", "trump-pharma-two-strategies", "ai-chip-export-stall"],
+      "connections": [
+        {
+          "from": "anthropic-mythos-glasswing",
+          "to": "trump-pharma-two-strategies",
+          "relationship": "Both Anthropic's Project Glasswing and Trump's pharmaceutical tariff use access restriction as the mechanism: Glasswing partners get the model others cannot have; companies that deal directly with Trump get tariff exemptions others cannot have. In both cases, the restricted access creates a two-tier market where proximity to power is the key variable."
+        },
+        {
+          "from": "ai-chip-export-stall",
+          "to": "anthropic-mythos-glasswing",
+          "relationship": "The US government is using chip export controls to restrict AI capability from adversaries while simultaneously failing to staff the agency that processes those controls. Anthropic is using model access restrictions to limit the same capability from non-partners. Both are access regimes with the same asymmetry: large, established actors with existing relationships get what they need; everyone else waits."
+        }
+      ]
     }
   ]
 }

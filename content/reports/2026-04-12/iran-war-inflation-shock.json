@@ -1,0 +1,113 @@
+{
+  "id": "iran-war-inflation-shock",
+  "date": "2026-04-12",
+  "generatedAt": "2026-04-12T17:40:00Z",
+  "title": "War Tax at the Pump",
+  "subtitle": "The Iran war produced the largest single-month US price spike in four years. The Federal Reserve cannot fix a supply shock, and Polymarket is pricing April inflation at 3.5-3.7%. Nobody in Washington is explaining who actually pays.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["inflation", "Iran war", "gas prices", "Federal Reserve", "CPI", "oil"],
+  "coverImage": {
+    "url": "https://abcnews4.com/resources/media2/16x9/5182/1320/0x271/90/078faffa-c47f-45af-915b-137ec0c73d71-GettyImages2268670793.jpg",
+    "local": "/images/reports/2026-04-12/iran-inflation-gas.jpg",
+    "credit": "Getty Images via ABC News 4"
+  },
+  "sources": [
+    {
+      "url": "https://kvia.com/news/business-technology/cnn-business-consumer/2026/04/10/what-to-expect-from-the-first-us-inflation-report-since-the-iran-war-began/",
+      "publisher": "KVIA / CNN Business",
+      "angle": "Broke down the March CPI: 3.3% annual, 0.9% monthly increase, with gas prices responsible for the majority of the monthly surge. Largest monthly jump since 2022."
+    },
+    {
+      "url": "https://abcnews4.com/news/nation-world/iran-conflict-fuels-biggest-monthly-inflation-spike-in-4-years-as-cpi-hits-33-strait-of-hormuz-oil-gast-energy-costs",
+      "publisher": "ABC News 4 / National News Desk",
+      "angle": "Contextualized the Iran conflict's direct mechanism: Strait of Hormuz disruption is adding $15-20 per barrel to oil prices globally, which flows directly into gasoline prices with a 4-6 week lag."
+    },
+    {
+      "url": "https://www.ironmountaindailynews.com/news/local-news/2026/04/iran-war-sends-inflation-soaring-consumers-mood-plunging/",
+      "publisher": "Iron Mountain Daily News / AP",
+      "angle": "Consumer sentiment data alongside inflation numbers: confidence dropped sharply in March, with low-income households showing the steepest decline."
+    },
+    {
+      "url": "https://www.morningstar.com/news/marketwatch/20260411183/tip-of-the-inflation-iceberg-social-securitys-cola-forecast-rises-to-32",
+      "publisher": "Morningstar / MarketWatch",
+      "angle": "Social Security COLA forecast rising to 3.2% for 2027, but seniors won't see the adjustment until January 2027 while paying higher prices now. Describes it as 'the tip of the inflation iceberg.'"
+    }
+  ],
+  "brief": {
+    "actors": ["Federal Reserve", "Trump", "Iran", "OPEC", "Social Security Administration"],
+    "whatHappened": "March CPI data released April 10 showed US inflation at 3.3% annually, with monthly prices rising 0.9%: the largest single-month increase in four years and triple the 0.3% pace of February. The primary driver was gas prices, which surged more than 18% month-over-month due to Strait of Hormuz disruption from the Iran conflict. Gasoline crossed $4 per gallon nationally for the first time since early 2022. Polymarket is pricing April annual inflation at 3.5-3.7% as the energy shock continues feeding through supply chains. Social Security's COLA forecast for 2027 has already risen to 3.2% to account for the new price level, but seniors and fixed-income households face the increase now while the compensation does not arrive until 2027.",
+    "bottomLine": "The Iran war is being paid for at the pump by people who had nothing to do with starting it, and the Federal Reserve has no tool for a supply shock caused by a military conflict.",
+    "hiddenBets": [
+      {
+        "assumption": "The Federal Reserve can manage inflation back toward its 2% target by adjusting interest rates.",
+        "whyItMightBeWrong": "Rate hikes address demand-pull inflation. This is cost-push inflation driven by an energy supply disruption. Raising rates will not reopen the Strait of Hormuz or lower oil prices. The only way rates help here is by inducing a recession severe enough to crush demand below the supply shock, which is a cure worse than the disease."
+      },
+      {
+        "assumption": "The inflation spike is temporary and will self-correct once the conflict stabilizes.",
+        "whyItMightBeWrong": "The ceasefire talks in Islamabad collapsed on April 12. Polymarket prices the probability of a permanent ceasefire by April 30 as highly uncertain. If the Strait disruption persists through summer, gasoline prices stay elevated into the peak driving season, and the 0.9% monthly increase compounds into 4%+ annual inflation before any resolution."
+      },
+      {
+        "assumption": "Energy inflation does not penetrate into core services the way it did in 2021-2022.",
+        "whyItMightBeWrong": "Transportation costs are embedded in virtually every supply chain. The 4-6 week lag between oil prices and retail gasoline is already working through. The next wave will be food prices, since fertilizer and food transport are both energy-intensive. Core inflation, which the Fed actually targets, will start rising by June even if oil prices stabilize."
+      }
+    ],
+    "realDisagreement": "The genuine fork: is this a temporary war tax that dissipates when the Iran conflict ends, or is it the trigger for a wage-price spiral like 2021-22 where inflation becomes self-reinforcing regardless of the original cause? The 2021 precedent matters: supply-shock inflation that hits 3.3% and is dismissed as 'temporary' can become embedded in wage expectations within two quarters. The Polymarket market for April inflation is currently pricing 3.5-3.7%, suggesting the market leans toward continued acceleration rather than quick reversal. I agree: there is no diplomatic or military development in sight that would reduce Hormuz disruption before June.",
+    "whatNoOneIsSaying": "The war was started and managed by the Trump administration. The inflation it is causing disproportionately hurts the working-class voters who backed Trump in 2024. Gas prices above $4 wiped out his approval rating in 2022. The political risk is not that the Iran war was wrong; it is that its economic consequences will land before any victory dividend does.",
+    "whoPays": [
+      {
+        "who": "Fixed-income households and Social Security recipients",
+        "how": "Pay inflated prices immediately. COLA adjustment is not until January 2027, meaning a 12-16 month gap where real purchasing power declines. The median Social Security recipient will lose roughly $800-1,200 in real purchasing power before any adjustment.",
+        "when": "Immediate through January 2027"
+      },
+      {
+        "who": "Low-income workers without wage bargaining power",
+        "how": "Gas prices above $4 consume a disproportionately large share of low-income budgets. A worker spending $80/week on gas in January now spends $110-120/week. That $30-40 weekly increase represents 3-4% of a $50,000 annual salary.",
+        "when": "Immediate"
+      },
+      {
+        "who": "The Federal Reserve",
+        "how": "Rate decisions made on the assumption of 2% inflation target become incoherent when inflation is being driven by a military conflict. Raising rates to fight supply-shock inflation would cause unnecessary unemployment; holding rates feeds the narrative that the Fed is behind the curve. Neither option is good.",
+        "when": "Next FOMC meeting, May 2026"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Quick resolution",
+        "whatHappens": "A ceasefire agreement is reached before May. Hormuz disruption ends. Oil prices fall back toward $70/barrel. April CPI comes in at 3.4% and May begins declining. Fed holds rates unchanged and markets rally.",
+        "signal": "Brent crude dropping below $80 within 2 weeks. A sustained decline in weekly gasoline price surveys from AAA."
+      },
+      {
+        "name": "Slow burn",
+        "whatHappens": "Conflict continues through summer. Hormuz disruption persists. Gas stays above $4. Food inflation begins accelerating by June. April CPI hits 3.7% and May exceeds 4.0%. Fed raises rates in June, adding credit cost pressure on top of energy costs.",
+        "signal": "April CPI monthly increase of 0.7% or more. Grocery price indices rising more than 0.4% month-over-month."
+      },
+      {
+        "name": "Stagflation trap",
+        "whatHappens": "Energy and food inflation embed into wage demands. Service sector inflation follows. Unemployment begins rising as the Fed tightens. By Q4 2026, the US is in the first stagflation environment since the 1970s: above 4% inflation and rising unemployment simultaneously.",
+        "signal": "Unemployment claims rising while monthly CPI stays above 0.5% for three consecutive months."
+      }
+    ],
+    "whatWouldChange": "A verified ceasefire agreement between the US and Iran that restores Hormuz shipping to normal capacity would immediately shift the scenario. If oil prices fall by $15+ per barrel within 30 days, April CPI data would still be high but May projections would improve and the embedded inflation risk would recede. Short of that, the trajectory is toward the slow-burn scenario.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will annual inflation increase by 3.6% in April?",
+        "url": "https://polymarket.com/event/april-inflation-us-annual",
+        "probability": 0.445
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will annual inflation increase by 3.7% in April?",
+        "url": "https://polymarket.com/event/april-inflation-us-annual",
+        "probability": 0.3505
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Trump agree to Iranian Oil sanction relief in April?",
+        "url": "https://polymarket.com/event/what-will-the-us-agree-to",
+        "probability": 0.295
+      }
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "anthropic-mythos-glasswing",
+  "date": "2026-04-12",
+  "generatedAt": "2026-04-12T17:30:00Z",
+  "title": "The Model You Cannot Use",
+  "subtitle": "Anthropic built its most capable AI and refused to release it publicly. Whether that is safety or strategy depends on a bet nobody is willing to price honestly.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["AI", "Anthropic", "cybersecurity", "Claude", "AI safety"],
+  "coverImage": {
+    "url": "https://www.reuters.com/resizer/v2/ZPFS2KOLTZM5LNFG4COVXOUUFU.jpg?auth=b855006a2ea2368c39d09b397b9f24043520972a108a191a73c62cfb57f18d3b&height=1005&width=1920&quality=80&smart=true",
+    "local": "/images/reports/2026-04-12/anthropic-mythos-glasswing.jpg",
+    "credit": "Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/uk/uk-financial-regulators-rush-assess-risks-anthropics-latest-ai-model-ft-reports-2026-04-12/",
+      "publisher": "Reuters",
+      "angle": "UK financial regulators calling emergency meetings with Bank of England and major banks to assess cyber risks from Mythos; Treasury Secretary Bessent already briefed Wall Street."
+    },
+    {
+      "url": "https://www.anthropic.com/glasswing",
+      "publisher": "Anthropic",
+      "angle": "Official Project Glasswing announcement: coalition of Amazon, Apple, Cisco, Google, JPMorgan, Microsoft, Nvidia and others given controlled access to Mythos Preview for defensive cybersecurity only."
+    },
+    {
+      "url": "https://technosapien.substack.com/p/anthropic-built-an-ai-model-too-dangerous",
+      "publisher": "Technosapien (Substack)",
+      "angle": "Skeptical breakdown: raises whether limited release is about internet protection or preventing competitors from distilling Mythos into cheaper models. Notes Yann LeCun and David Sacks questioning the safety framing."
+    },
+    {
+      "url": "https://www.npr.org/2026/04/11/nx-s1-5778508/anthropic-project-glasswing-ai-cybersecurity-mythos-preview",
+      "publisher": "NPR",
+      "angle": "Contextualizes Mythos within broader trend of AI models getting faster at finding security bugs; explains the technical achievement of 80% exploit reproduction rate."
+    },
+    {
+      "url": "https://open.substack.com/pub/thezvi/p/claude-mythos-2-cybersecurity-and",
+      "publisher": "Don't Worry About the Vase (Substack)",
+      "angle": "Takes safety concerns seriously; argues the controlled Glasswing approach is the right call given the model's demonstrated capability to automate vulnerability discovery at scale."
+    }
+  ],
+  "brief": {
+    "actors": ["Anthropic", "Google", "Microsoft", "Amazon", "JPMorgan", "Nvidia", "UK Treasury", "Bank of England", "Yann LeCun"],
+    "whatHappened": "Anthropic announced that its newest model, Claude Mythos, will not receive a public release. Instead, roughly 40 organizations including Google, Microsoft, Amazon, JPMorgan, Apple, Cisco, and Nvidia are being given access to a restricted version called Claude Mythos Preview through a program called Project Glasswing. The stated reason: Mythos can automate vulnerability discovery at a pace and scale that would make it a powerful offensive weapon in the wrong hands. Internal testing showed the model reproduced and exploited software vulnerabilities in over 80% of cases, finding flaws in every major operating system and web browser. UK financial regulators are now holding emergency sessions with the Bank of England and major banks to assess the risk; the US Treasury already briefed Wall Street last week.",
+    "bottomLine": "The 40 companies inside Project Glasswing did not get access to a safety tool: they got a private monopoly on the most capable offensive hacking engine ever built, licensed as defense.",
+    "hiddenBets": [
+      {
+        "assumption": "Anthropic withheld Mythos primarily to prevent public harm from its hacking capabilities.",
+        "whyItMightBeWrong": "Every company inside Project Glasswing is also a direct Anthropic commercial partner or cloud customer. A model that can find zero-days across every major OS is worth tens of billions in defensive contracts. Keeping it controlled keeps the price high and the competition locked out."
+      },
+      {
+        "assumption": "The 80% exploit reproduction rate is independently verified and accurately represents Mythos's real-world offensive capability.",
+        "whyItMightBeWrong": "All performance claims come from Anthropic's own 244-page system card with no third-party benchmark. Yann LeCun called the framing 'BS from self-delusion,' and TechCrunch noted the figures cannot be independently checked. A model that is only 60% as capable as claimed would still justify the restricted release but would not justify the emergency regulatory meetings."
+      },
+      {
+        "assumption": "Restricting Mythos from public release effectively contains the offensive capability it represents.",
+        "whyItMightBeWrong": "Hugging Face data shows Chinese labs now account for 41% of open-source model downloads. If a competitive model with similar cyber capabilities emerges from a lab that does not practice Anthropic-style containment, the safety case for withholding Mythos collapses retroactively while Anthropic's 40 partners still hold the advantage."
+      }
+    ],
+    "realDisagreement": "The real fork is this: either AI labs should gate capabilities whose offensive potential exceeds any plausible defensive use-case, or gating capability is always and only a competitive move dressed in safety language, and the correct response is open publication so defenses can be built by everyone. Both arguments are coherent. The honest tension is that Anthropic cannot prove its motives are pure, and critics cannot prove they are corrupt. The market is pricing Anthropic as the top AI lab at 89.5% confidence through April, which suggests the world is treating the safety framing as credible. I'd lean toward skepticism: a 244-page system card describing an AI's 'healthy neurotic organization' and its 'primary emotional states of curiosity and anxiety' is an unusual preamble for a boring infrastructure security announcement. It reads like a company controlling its own mythology.",
+    "whatNoOneIsSaying": "The Glasswing coalition is the exact set of companies that would need to pay most to patch vulnerabilities Mythos could discover independently. Anthropic has structured an arrangement where its largest cloud and enterprise customers are simultaneously protected from the threat Mythos represents and dependent on Anthropic to manage that threat. That is not a safety program. It is the most effective enterprise lock-in mechanism in the history of software.",
+    "whoPays": [
+      {
+        "who": "Security researchers outside the Glasswing coalition",
+        "how": "The best vulnerability-finding tool ever built is inaccessible to independent researchers who cannot afford commercial relationships with Anthropic, creating a two-tier security ecosystem where defenses improve faster for large institutions than for everyone else.",
+        "when": "Immediate and ongoing"
+      },
+      {
+        "who": "Smaller software companies and open-source projects",
+        "how": "Mythos will identify critical vulnerabilities in their products and patch them for Glasswing partners. Non-partners will not know what was found or when, potentially remaining exposed after patches are deployed elsewhere.",
+        "when": "Over the next 12-18 months as Glasswing deployments scale"
+      },
+      {
+        "who": "OpenAI, xAI, Google",
+        "how": "Anthropic has used safety framing to occupy the most defensible position in the AI power hierarchy: the only lab mature enough to build something dangerous and responsible enough not to release it publicly. That story, if it holds, is worth more than any benchmark.",
+        "when": "Competitive damage compounds over 2026"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Safety story holds",
+        "whatHappens": "No major breach or offensive exploit traced to Glasswing access. Regulators in the US and UK formalize a framework that treats Mythos Preview as the model for responsible deployment of dangerous AI. Anthropic's commercial position strengthens.",
+        "signal": "Six months with no reported offensive uses of Mythos-class capabilities and active EU/UK regulatory endorsement of Project Glasswing."
+      },
+      {
+        "name": "Competitor catches up",
+        "whatHappens": "A Chinese or open-source lab releases a model with comparable vulnerability-discovery capability within six months. Anthropic's safety premium evaporates. The 40 Glasswing partners now have a defensive advantage over everyone else, but Anthropic's moral authority argument collapses.",
+        "signal": "A Hugging Face release from DeepSeek or Qwen scoring above 70% on the same exploit-reproduction benchmarks."
+      },
+      {
+        "name": "Glasswing access leaks",
+        "whatHappens": "One of the 40 Glasswing partners suffers a breach or an internal employee misuses Mythos Preview access. The safety-through-exclusivity argument is falsified. Anthropic faces regulatory pressure and reputational damage proportional to whatever harm occurs.",
+        "signal": "A zero-day exploit appearing in the wild that traces back to vulnerability data only discoverable at Mythos's claimed capability level."
+      }
+    ],
+    "whatWouldChange": "Evidence that Anthropic's safety team independently blocked commercial use of Mythos in cases where Glasswing partners requested it, documented in verifiable third-party audits. That would shift the balance of evidence toward genuine safety motivation. Short of that, the commercial alignment between Anthropic and every Glasswing partner is too clean to dismiss.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will a Claude Mythos model be released by April 30, 2026?",
+        "url": "https://polymarket.com/event/claude-mythos-released-by",
+        "probability": 0.0355
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will a Claude Mythos model be released by June 30, 2026?",
+        "url": "https://polymarket.com/event/claude-mythos-released-by",
+        "probability": 0.27
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Anthropic have the best AI model at the end of April 2026?",
+        "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-april",
+        "probability": 0.895
+      }
+    ]
+  }
+}
