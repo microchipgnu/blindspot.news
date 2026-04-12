@@ -1,0 +1,106 @@
+{
+  "id": "dhs-shutdown-ice-cbp-split",
+  "date": "2026-04-12",
+  "generatedAt": "2026-04-12T12:35:00Z",
+  "title": "Funding Half a Border Agency",
+  "subtitle": "Congress reopened DHS after 40 days but left ICE and Border Patrol unfunded. Now Republicans want reconciliation to finish the job without Democrats. The shutdown is over in name only.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["DHS", "ICE", "CBP", "shutdown", "reconciliation", "immigration", "Congress", "Trump"],
+  "coverImage": {
+    "url": "https://www.reuters.com/resizer/v2/2BSIFO2ZKZKZVJTHWNBLZQHCWU.jpg?auth=126d784568d069a73ed33dea4ad782885a646f526d5758247912c51b62db45fd&height=1005&width=1920&quality=80&smart=true",
+    "local": "/images/reports/2026-04-12/dhs-shutdown-ice-cbp-split.jpg",
+    "credit": "Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://d2331.cms.socastsrm.com/2026/04/10/us-dhs-calls-furloughed-staff-back-to-work-despite-shutdown/",
+      "publisher": "Reuters / KFGO",
+      "angle": "Straight news: DHS ordered all furloughed staff back to work despite the shutdown still formally ongoing; notes this is legally unusual and creates liability questions."
+    },
+    {
+      "url": "https://www.kolotv.com/2026/04/11/republicans-plan-use-reconciliation-process-fund-ice-border-patrol-without-democrats/",
+      "publisher": "Gray DC / KOLOTV",
+      "angle": "Explains the two-part Republican plan: pass a bipartisan bill for most of DHS, then use reconciliation to fund ICE and CBP with 51 Senate votes. Frames it as the only viable path forward."
+    },
+    {
+      "url": "https://www.nbclosangeles.com/news/national-international/dhs-watchdog-paused-immigration-enforcement-shutdown/3874648/",
+      "publisher": "NBC Los Angeles",
+      "angle": "Reveals the DHS inspector general has suspended audits of immigration enforcement and detention centers during the shutdown. Accountability functions have stopped alongside operations."
+    },
+    {
+      "url": "https://custommapposter.com/article/senate-reopens-dhs-after-40-day-shutdown-but-ice-border-patrol-left-unfunded/13131",
+      "publisher": "Custom Map Poster / NBC News wire",
+      "angle": "Characterizes the Senate's partial reopening as a 'strategic pause' preserving leverage; notes the split was a deliberate deal structure, not an accident of timing."
+    },
+    {
+      "url": "https://www.offthepress.com/gop-bickering-over-expanding-border-bill-to-address-other-priorities/",
+      "publisher": "Off The Press",
+      "angle": "Reports on House conservative demands to expand the reconciliation package beyond ICE and CBP funding. Trump wants it done by June 1; hard-liners want it as a vehicle for broader policy wins."
+    }
+  ],
+  "brief": {
+    "actors": ["DHS", "ICE", "CBP", "Congress", "Trump", "Senate", "DOGE"],
+    "whatHappened": "After a 40-day partial shutdown of the Department of Homeland Security, the Senate passed a bipartisan bill to restore funding to most of the agency. ICE and Customs and Border Patrol were deliberately excluded. DHS then ordered all furloughed employees back to work anyway, creating a legal gray zone where workers are reporting without an appropriation. Republicans have announced a two-part plan: pass the bipartisan bill in the House for the rest of DHS, and use budget reconciliation to fund ICE and CBP without needing Democratic votes. Trump wants the reconciliation package on his desk by June 1.",
+    "bottomLine": "Republicans have engineered a situation where they can claim the humanitarian agencies are funded while holding immigration enforcement hostage to a 51-vote budget maneuver. The shutdown is over in every way except the one that matters to the base.",
+    "hiddenBets": [
+      {
+        "assumption": "Reconciliation will pass cleanly with ICE and CBP funding intact",
+        "whyItMightBeWrong": "House conservatives are already demanding the reconciliation bill include broader policy wins. Every demand added to the package makes the 51-vote math harder in the Senate, where Byrd Rule constraints limit what can survive."
+      },
+      {
+        "assumption": "Calling workers back without an appropriation is a temporary administrative fix",
+        "whyItMightBeWrong": "Federal employees working without pay are entitled to back pay but have limited legal recourse during the window. The IG's suspension of accountability audits means there is no independent oversight of what enforcement agencies are doing while they operate in a funding vacuum."
+      },
+      {
+        "assumption": "The bipartisan DHS bill will pass the House without changes",
+        "whyItMightBeWrong": "House conservatives have already signaled they want to expand it. The Senate passed it unanimously only because ICE and CBP were excluded. Any House amendment sends it back to conference and restarts the standoff."
+      }
+    ],
+    "realDisagreement": "The actual fork is about whether immigration enforcement can be treated as a separable function from the rest of DHS, or whether the split is a constitutional fiction that corrodes the agency. Democrats agreed to the partial funding specifically to create leverage on enforcement funding. Republicans agreed because it let them claim credit for ending the shutdown while still protecting the negotiating pressure. Both sides are using the split instrumentally. The question is whether this structure produces a funded, functional DHS or produces a permanent state of partial operation where enforcement agencies cycle through funding crises. The June 1 deadline is real. But reconciliation packages have a way of expanding until they collapse.",
+    "whatNoOneIsSaying": "No one will say that recalling workers without an appropriation is partly designed to make the shutdown's cost invisible. If workers are back at their desks and planes are departing, the political pressure to close the funding gap drops. The administration gets the operational benefit of ICE and CBP without paying the legislative cost of passing a clean bill.",
+    "whoPays": [
+      {
+        "who": "Federal workers at DHS, ICE, and CBP",
+        "how": "Called back to work without a legal appropriation. Entitled to back pay but face personal financial exposure during the gap. Union protections are limited when the work stoppage is an agency directive rather than a worker action.",
+        "when": "Immediate"
+      },
+      {
+        "who": "Immigrants in detention and deportation proceedings",
+        "how": "DHS's inspector general has suspended audits of detention centers. The oversight layer that checks conditions and legal compliance is gone. Incidents that would normally trigger investigation will not be reviewed until funding resumes.",
+        "when": "Immediate, ongoing until audits resume"
+      },
+      {
+        "who": "Senate Democrats",
+        "how": "By agreeing to the split deal, they removed their only real leverage. Reconciliation bypasses their filibuster. They negotiated themselves out of the one tool that could have forced a clean immigration debate.",
+        "when": "Plays out over the next 60 days before the June 1 deadline"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Reconciliation Holds",
+        "whatHappens": "Senate Majority Leader Thune keeps the package narrow. It passes with 51 votes by June 1. ICE and CBP get their appropriation. The split-funding structure is retroactively validated as a working model.",
+        "signal": "House conservatives drop demands to expand the reconciliation bill beyond immigration enforcement by late April."
+      },
+      {
+        "name": "Package Bloats and Fails",
+        "whatHappens": "House conservatives load the reconciliation bill with unrelated priorities. The Senate parliamentarian strips them under the Byrd Rule. The modified bill fails to get 51 votes. ICE and CBP remain unfunded past June.",
+        "signal": "Freedom Caucus members publicly demand additions to the reconciliation bill that Senate leadership has not endorsed."
+      },
+      {
+        "name": "Permanent Gray Zone",
+        "whatHappens": "Both bills stall. DHS continues operating through informal recall orders and continuing short-term mechanisms. The shutdown remains technically ongoing but politically invisible because workers are present.",
+        "signal": "June 1 passes without a reconciliation vote. Leadership announces a new deadline without a new mechanism."
+      }
+    ],
+    "whatWouldChange": "If the Senate parliamentarian rules that ICE and CBP funding fails the Byrd Rule for reconciliation, the entire two-part structure collapses and Congress has to negotiate a clean bill with 60 Senate votes. That would require Democratic buy-in and reopen the standoff from scratch.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "When will the DHS shutdown end?",
+        "url": "https://polymarket.com/event/when-will-the-dhs-shutdown-end-521",
+        "probability": 0.0
+      }
+    ]
+  }
+}

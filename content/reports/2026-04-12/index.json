@@ -1,6 +1,6 @@
 {
   "date": "2026-04-12",
-  "generatedAt": "2026-04-12T07:00:00Z",
+  "generatedAt": "2026-04-12T12:55:00Z",
   "reports": [
     {
       "id": "iran-ceasefire-collapse",
@@ -36,6 +36,41 @@
       "subtitle": "The US House, Canada's Liberal Party, Australia's eSafety regulator, and Massachusetts have all moved this week to restrict or ban children's social media use. The policy idea has gone global. The implementation gap is enormous.",
       "category": "ethics",
       "topic": "society"
+    },
+    {
+      "id": "xi-taiwan-warplanes-meeting",
+      "title": "The Handshake and the Warplanes",
+      "subtitle": "Xi met Taiwan's opposition leader in Beijing while sending 16 warplanes toward the island. The signal was not diplomatic.",
+      "category": "conflict",
+      "topic": "geopolitics"
+    },
+    {
+      "id": "dhs-shutdown-ice-cbp-split",
+      "title": "Funding Half a Border Agency",
+      "subtitle": "Congress reopened DHS after 40 days but left ICE and Border Patrol unfunded. Now Republicans want reconciliation to finish the job without Democrats. The shutdown is over in name only.",
+      "category": "power",
+      "topic": "politics"
+    },
+    {
+      "id": "lausd-strike-three-unions",
+      "title": "Three Unions, One Deadline",
+      "subtitle": "For the first time in LAUSD history, teachers, support staff, and administrators are all threatening to strike together. The district is negotiating against a unified front it helped create.",
+      "category": "conflict",
+      "topic": "society"
+    },
+    {
+      "id": "chaco-canyon-drilling-protections",
+      "title": "Seven Days to Comment on a Sacred Site",
+      "subtitle": "The Trump administration gave the public one week to weigh in on opening 336,000 acres near Chaco Canyon to oil and gas drilling. 70,000 comments arrived. The review continues anyway.",
+      "category": "power",
+      "topic": "society"
+    },
+    {
+      "id": "ai-chip-export-stall",
+      "title": "The Export Control Bottleneck",
+      "subtitle": "Staffing losses and tighter oversight inside the Commerce Department's Bureau of Industry and Security have turned AI chip export licenses into months-long waits. The US is blocking its own allies.",
+      "category": "power",
+      "topic": "tech"
     }
   ]
 }

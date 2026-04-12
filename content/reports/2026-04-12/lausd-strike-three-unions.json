@@ -1,0 +1,93 @@
+{
+  "id": "lausd-strike-three-unions",
+  "date": "2026-04-12",
+  "generatedAt": "2026-04-12T12:40:00Z",
+  "title": "Three Unions, One Deadline",
+  "subtitle": "For the first time in LAUSD history, teachers, support staff, and administrators are all threatening to strike together. The district is negotiating against a unified front it helped create.",
+  "topic": "society",
+  "category": "conflict",
+  "tags": ["LAUSD", "teachers", "strike", "UTLA", "SEIU", "education", "Los Angeles", "labor"],
+  "coverImage": {
+    "url": "https://scpr.brightspotcdn.com/dims4/default/9e8877c/2147483647/strip/true/crop/7280x3822+0+1125/resize/1200x630!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.us-west-2.amazonaws.com%2F26%2Fb0%2Fb6f6be0d447f9211dd5dd3d05d80%2Fgettyimages-2269969443.jpg",
+    "local": "/images/reports/2026-04-12/lausd-strike-three-unions.jpg",
+    "credit": "LAist / KPCC"
+  },
+  "sources": [
+    {
+      "url": "https://ktla.com/news/local-news/lausd-strike-deadline-union-talks/amp/",
+      "publisher": "KTLA",
+      "angle": "Describes the unprecedented three-union negotiation and the April 14 deadline; notes all sides claim they want a deal but no deal has materialized in months of talks."
+    },
+    {
+      "url": "https://www.dailybreeze.com/2026/04/09/lausd-utla-talks-end-without-a-deal-negotiations-to-resume-saturday-2/",
+      "publisher": "Daily Breeze",
+      "angle": "Reports SEIU Local 99 (support staff) says the strike is still on even as UTLA (teachers) resumed talks; the two main unions are not in lockstep, which creates complexity for district strategy."
+    },
+    {
+      "url": "https://laist.com/brief/news/education/lausd-strike-april-2026-strike-update-union-negotiations-faq",
+      "publisher": "LAist / KPCC",
+      "angle": "Running FAQ-style coverage noting that 85% of district workers plan to strike if no deal; estimates that a full strike would close the second-largest school district in the US."
+    },
+    {
+      "url": "https://armanagement.org/article/lausd-strike-looms-teachers-principals-and-staff-demand-fair-contracts-latest-updates",
+      "publisher": "AR Management via ABC7 wire",
+      "angle": "Details the specific contract demands: 17% salary increase for UTLA, reduced class sizes, no layoffs, and protections for support staff. Notes a conflict-of-interest allegation involving the acting superintendent."
+    }
+  ],
+  "brief": {
+    "actors": ["LAUSD", "UTLA", "SEIU", "Los Angeles"],
+    "whatHappened": "The Los Angeles Unified School District is facing simultaneous contract negotiations with three separate unions: United Teachers Los Angeles representing teachers, SEIU Local 99 representing support staff, and the Administrators of Los Angeles representing principals and district administrators. All three have announced strike deadlines for April 14. It is the first time in LAUSD history that all three groups have bargained concurrently. Nearly 85% of district workers have indicated they will strike if no agreement is reached. A strike would shut down the second-largest school district in the United States.",
+    "bottomLine": "LAUSD created the conditions for this strike by letting all three contracts expire simultaneously and then failing to settle any of them. The unified front is not a coincidence of labor militancy; it is the product of district mismanagement.",
+    "hiddenBets": [
+      {
+        "assumption": "The three unions are negotiating as a unified bloc",
+        "whyItMightBeWrong": "SEIU Local 99 and UTLA are not formally coordinated. SEIU has said its strike is on regardless of where UTLA's talks stand. The district can potentially split the unions by settling with teachers first and leaving support staff out, as happened in the 2023 strike. The appearance of unity is fragile."
+      },
+      {
+        "assumption": "A strike would be short-lived and end quickly once the district feels financial pressure",
+        "whyItMightBeWrong": "The district is already in a structural deficit. A prolonged strike does not create new financial pain for LAUSD leadership; it creates political pain for the mayor and the school board. If those actors are not the ones who break, the strike could run longer than a week."
+      },
+      {
+        "assumption": "This is primarily about wages",
+        "whyItMightBeWrong": "UTLA is demanding reduced class sizes and explicit no-layoff protections alongside the 17% wage ask. The class size demand is structurally incompatible with a district that has lost enrollment for a decade and is cutting budget to match. The wage number may be negotiable. The class size demand is a fight about how many teachers the district needs to employ, which is a different and harder argument."
+      }
+    ],
+    "realDisagreement": "The real fork is between two views of what LAUSD is for. The unions argue the district owes workers a stable, well-compensated career even as enrollment falls, because the work of educating in a high-poverty urban district is structurally underpaid relative to its social value. The district argues that contracts must track enrollment and fiscal capacity, not social value, because spending money the district does not have eventually collapses the institution entirely. Both are correct and neither is affordable. The district will offer something. The question is whether what it can afford is enough to settle before Monday or whether it needs a strike to demonstrate to the unions that there is no more money to give.",
+    "whatNoOneIsSaying": "Nearly half of LAUSD students read or do math below grade level. A district that cannot retain or fairly compensate teachers is not failing because of contract disputes; it is failing because it is trying to serve a population with extraordinary needs on a funding model built for a shrinking and less distressed student body. The strike is the visible symptom. The underlying problem is that California's school funding formula cannot produce adequate outcomes in a district like LAUSD at any salary level the district can currently offer.",
+    "whoPays": [
+      {
+        "who": "Low-income LAUSD families",
+        "how": "School closures during a strike eliminate childcare, meals, and supervision for families without alternatives. LAUSD serves a disproportionately high-poverty, immigrant, and working-class population. Parents who cannot arrange coverage lose wages or jobs.",
+        "when": "Immediately, starting April 14 if no deal"
+      },
+      {
+        "who": "LAUSD support workers",
+        "how": "SEIU Local 99 represents cafeteria workers, custodians, and teaching assistants. They are the lowest-paid workers in the district and have the least financial cushion for an extended strike. They bear the most risk for the least wage gain.",
+        "when": "Immediate financial exposure during any strike period"
+      },
+      {
+        "who": "The district's long-term fiscal position",
+        "how": "Any settlement above what the structural deficit allows accelerates the path to insolvency. Sacramento has historically provided emergency bridge funding rather than let a major urban district collapse, but that assumption may not hold permanently.",
+        "when": "Medium-term, 2-4 years"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Last-Minute Deal",
+        "whatHappens": "The district offers a phased wage increase that splits the difference on the UTLA ask and defers the class size language to a labor-management committee. SEIU settles separately on comparable terms. Strike is averted on April 14.",
+        "signal": "Mayor Karen Bass convenes a joint session with all three union heads and district leadership before Sunday evening; a deal framework leaks by Sunday night."
+      },
+      {
+        "name": "Teachers Settle, Support Staff Strike",
+        "whatHappens": "UTLA reaches a deal. SEIU Local 99 does not and strikes anyway. Schools remain closed because custodians and cafeteria workers do not report. UTLA teachers honor the SEIU picket line. The district claims teachers have a contract but cannot open schools.",
+        "signal": "UTLA announces a tentative agreement but SEIU simultaneously reiterates its strike is proceeding."
+      },
+      {
+        "name": "Full Three-Union Strike",
+        "whatHappens": "No deals are reached. All three unions strike April 14. LAUSD's 600,000 students are out indefinitely. State intervention becomes necessary after 5-7 days.",
+        "signal": "No settlement framework announced by Saturday evening; union social media posts switch from negotiation updates to strike logistics."
+      }
+    ],
+    "whatWouldChange": "If the California state superintendent or Governor Newsom intervenes with emergency bridge funding that expands the district's fiscal room, the structural argument changes and a deal becomes mathematically possible above the district's current offer. Without that, the district's offer ceiling and the unions' floor do not overlap."
+  }
+}

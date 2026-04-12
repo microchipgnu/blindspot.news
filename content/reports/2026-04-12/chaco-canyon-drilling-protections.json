@@ -1,0 +1,93 @@
+{
+  "id": "chaco-canyon-drilling-protections",
+  "date": "2026-04-12",
+  "generatedAt": "2026-04-12T12:45:00Z",
+  "title": "Seven Days to Comment on a Sacred Site",
+  "subtitle": "The Trump administration gave the public one week to weigh in on opening 336,000 acres near Chaco Canyon to oil and gas drilling. 70,000 comments arrived. The review continues anyway.",
+  "topic": "society",
+  "category": "power",
+  "tags": ["Chaco Canyon", "BLM", "oil", "gas", "drilling", "Native American", "environment", "Interior"],
+  "coverImage": {
+    "url": "https://www.hcn.org/wp-content/uploads/2026/04/Pueblo-Bonito-1-2048x1367-1.jpeg",
+    "local": "/images/reports/2026-04-12/chaco-canyon-drilling-protections.jpg",
+    "credit": "High Country News / Danielle Prokop"
+  },
+  "sources": [
+    {
+      "url": "https://nativenewsonline.net/sovereignty/plans-to-withdraw-protections-from-oil-and-gas-development-around-chaco-prompt-70000-public-comments-to-federal-agency-in-one-week/",
+      "publisher": "Native News Online",
+      "angle": "Focuses on the volume of public response (70,000 comments in one week) and BLM's promise of a second comment period. Reports from the perspective of tribes with ancestral ties to the site."
+    },
+    {
+      "url": "https://www.hcn.org/articles/the-public-got-one-week-to-comment-on-chaco-canyon-drilling-its-almost-over/",
+      "publisher": "High Country News",
+      "angle": "Critical of the compressed timeline; notes New Mexico's federal delegation sent a letter demanding an extension that BLM declined. Provides context on the 2021 Biden-era 10-mile buffer that is now being undone."
+    },
+    {
+      "url": "https://www.deseret.com/environment/2026/04/11/land-near-chaco-canyon-new-mexico-lose-protections-open-mining-blm/",
+      "publisher": "Deseret News",
+      "angle": "Factual explainer on the acreage involved and the specific BLM process being used. Notes the proposal concerns a buffer zone, not the national park itself, a distinction that proponents of the rollback emphasize."
+    },
+    {
+      "url": "https://www.eenews.net/articles/greens-decry-tight-deadline-for-trumps-proposed-reversal-of-chaco-drilling-protections/",
+      "publisher": "E&E News by Politico",
+      "angle": "Covers the coalition of environmental groups urging an extension. Notes that Interior plans a second comment period after a draft environmental assessment, which suggests a multi-stage process still to come."
+    }
+  ],
+  "brief": {
+    "actors": ["BLM", "Interior", "Trump", "Navajo Nation", "Congress"],
+    "whatHappened": "The Bureau of Land Management opened a seven-day public comment period on a proposal to remove oil and gas development protections from 336,425 acres surrounding Chaco Culture National Historical Park in northwestern New Mexico. The Biden administration had installed a 10-mile drilling buffer around Chaco in 2022, protecting land considered sacred by multiple Native nations including the Navajo. The comment window closed April 7. BLM reported approximately 70,000 public comments were submitted, an unusually high number for a land management review. BLM has said a second comment period will follow a draft environmental assessment. New Mexico's congressional delegation had requested an extension; BLM declined.",
+    "bottomLine": "A seven-day comment window on a 336,000-acre sacred site rollback is not a public process; it is the legal form of a public process without the substance. The 70,000 comments demonstrate the demand for genuine consultation that the timeline was designed to deny.",
+    "hiddenBets": [
+      {
+        "assumption": "The second comment period will give the public meaningful input",
+        "whyItMightBeWrong": "BLM's promise of a second period is contingent on producing an environmental assessment that can be publicly reviewed. Administrations routinely use this structure to keep decisions formally in process while advancing the conclusion. If the EA is drafted by Interior staff aligned with the rollback, the second comment period changes nothing."
+      },
+      {
+        "assumption": "The proposal affects a buffer zone, not Chaco Canyon itself, so the cultural damage is limited",
+        "whyItMightBeWrong": "The relationship between the park and the surrounding landscape is not a matter of administrative lines. Chaco's significance to Pueblo, Navajo, and other nations extends across the broader landscape. Well pads, access roads, and flaring within the buffer zone create noise, light, and air quality impacts visible and audible inside the park. The administrative boundary does not limit the cultural impact."
+      },
+      {
+        "assumption": "This rollback will survive judicial challenge",
+        "whyItMightBeWrong": "The 2022 Biden-era protections were installed through a formal BLM rule. Reversing a rule requires following the same notice-and-comment procedure. A seven-day initial comment window on a major land use change is vulnerable to APA challenge. Courts have overturned shorter regulatory shortcuts in similar contexts."
+      }
+    ],
+    "realDisagreement": "The genuine fork is about whether consultation is a procedural requirement or a substantive one. The administration argues it is following the required process: a comment period, an EA, another comment period. Tribal nations and their advocates argue that meaningful consultation with Indigenous communities whose ancestral connection to the land predates the BLM's existence cannot happen in seven days of web comments. One view treats consultation as box-checking. The other treats it as a relationship obligation. There is no procedural fix that bridges this gap. The underlying question is whether the federal government owes Native nations a different kind of process, or just the same process with a Native flag on it.",
+    "whatNoOneIsSaying": "The energy economics of Chaco-area development are not actually favorable in 2026. New Mexico's San Juan Basin, which includes Chaco, has aging infrastructure, complex geology, and transport costs that make it less competitive than the Permian Basin. The rollback is not primarily driven by urgent energy need; it is driven by the ideological value of demonstrating that no Biden-era environmental protection is durable. The oil companies most likely to develop the leases are not the ones lobbying hardest for this.",
+    "whoPays": [
+      {
+        "who": "Pueblo, Navajo, and other affiliated nations",
+        "how": "Noise, light, and air quality degradation within and around a site of ongoing ceremonial significance. Sacred landscapes are not substitutable. The harm is irreversible once infrastructure is built.",
+        "when": "If leases are issued, construction begins within 2-3 years"
+      },
+      {
+        "who": "Chaco Canyon park visitors and researchers",
+        "how": "Industrial activity within 10 miles changes the character of the site for archaeology, astrophysics (Chaco hosts significant dark-sky research), and cultural tourism.",
+        "when": "Medium-term; dark-sky and air quality effects precede construction"
+      },
+      {
+        "who": "New Mexico state revenue and tourism",
+        "how": "Chaco is a UNESCO World Heritage Site. Development that compromises its designation or visitor experience reduces the cultural tourism value of the state's most significant archaeological site.",
+        "when": "Long-term, contingent on development scale"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Rollback Proceeds",
+        "whatHappens": "BLM completes the EA, opens a second comment period, and finalizes the rule removing the buffer protections. Leases are issued. Development begins within 2-4 years.",
+        "signal": "BLM publishes a draft EA without recommending against development; comment period opens and closes without extension."
+      },
+      {
+        "name": "Legal Block",
+        "whatHappens": "Tribal nations and environmental groups file suit challenging the compressed comment timeline under the Administrative Procedure Act. A federal court issues a preliminary injunction halting the review pending a fuller process.",
+        "signal": "Litigation filed within 30 days of BLM declining to extend the comment period; district court agrees to hear the APA challenge on an expedited schedule."
+      },
+      {
+        "name": "Congressional Intervention",
+        "whatHappens": "New Mexico's delegation introduces legislation making the Chaco buffer zone permanent. It does not pass but generates enough political cost that Interior slows the review process indefinitely.",
+        "signal": "A bipartisan coalition of Senate voices joins the New Mexico delegation in opposing the rollback; Interior signals it will 'consider all perspectives' before finalizing the EA."
+      }
+    ],
+    "whatWouldChange": "A formal determination by the Advisory Council on Historic Preservation that the rollback constitutes an adverse effect on a National Historic Landmark would trigger a separate federal consultation requirement that is harder to compress into a seven-day window. That determination has not been made and is not currently scheduled."
+  }
+}
