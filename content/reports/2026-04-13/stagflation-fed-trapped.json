@@ -1,0 +1,113 @@
+{
+  "id": "stagflation-fed-trapped",
+  "date": "2026-04-13",
+  "generatedAt": "2026-04-13T22:30:00Z",
+  "title": "The Central Bank in the Box",
+  "subtitle": "With Brent crude at $118 and physical oil touching $149, the Fed faces the only scenario its playbook cannot handle: inflation it cannot fight and growth it cannot save.",
+  "topic": "economy",
+  "category": "decision",
+  "tags": ["Federal Reserve", "stagflation", "oil", "inflation", "Iran", "IMF"],
+  "coverImage": {
+    "url": "https://www.bnnbloomberg.ca/resizer/v2/W4BBCNDCKBCXQVCCK4FDVVPVYY.jpg?smart=true&auth=f06e06b901cc9a603d1b1c20f8ae7fe67506d057152fb774072a745fbc47a5be&width=1200&height=630",
+    "local": "/images/reports/2026-04-13/stagflation-fed-trapped.jpg",
+    "credit": "BNN Bloomberg"
+  },
+  "sources": [
+    {
+      "url": "https://www.ainvest.com/news/imf-warns-stagflation-baseline-locked-oil-supply-cuts-drive-global-cost-shock-2604/",
+      "publisher": "AInvest / IMF analysis",
+      "angle": "IMF's Georgieva framing the energy shock as a permanent baseline shift, not a temporary disruption: 13% oil cut and 20% LNG cut are structural, not cyclical"
+    },
+    {
+      "url": "http://markets.chroniclejournal.com/chroniclejournal/article/marketminute-2026-4-13-crude-awakening-sustained-triple-digit-oil-prices-reshape-2026-market-landscape",
+      "publisher": "Chronicle Journal Markets",
+      "angle": "US CPI tracking toward 4% eliminates any rate cut talk until mid-2027 at earliest; energy tax hitting discretionary spending while core inflation stays lower"
+    },
+    {
+      "url": "https://deenazaidi.com/fed-rate-hike-2026-oil-inflation-analysis",
+      "publisher": "Deena Zaidi Economics",
+      "angle": "Rate hikes now back on the table after failed Iran talks; the Fed's standard operating procedure of waiting for inflation to moderate before cutting cannot survive a supply-side shock"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/business/2026/04/13/global-economy-better-placed-to-weather-oil-shock-recession-bar-higher/",
+      "publisher": "BNN Bloomberg / Citi",
+      "angle": "Contrarian take: global economy better positioned than in 2022 to absorb oil shock, recession bar higher than feared, non-energy inflation still contained"
+    }
+  ],
+  "brief": {
+    "actors": ["Federal Reserve", "IMF", "Iran", "OPEC", "China"],
+    "whatHappened": "The Strait of Hormuz blockade, begun April 13 following the collapse of Islamabad ceasefire talks, has effectively removed roughly 20% of the world's seaborne oil supply from the market. Brent crude futures are trading at $118 per barrel, with physical crude for immediate European delivery touching $149. The IMF, ahead of its April 14 World Economic Outlook, warned that all scenarios now point to higher prices and slower growth simultaneously. US CPI was already at 3.3% year-over-year in March before the latest energy spike. Markets have priced in no Fed rate changes at the April meeting (98.25% probability), and the June meeting shows less than 6% probability of any cut.",
+    "bottomLine": "The Fed was already not cutting because of tariff-driven inflation. Now it faces oil-driven inflation on top of a slowing economy. Doing nothing is the only option, and doing nothing is its own form of damage.",
+    "hiddenBets": [
+      {
+        "assumption": "The energy shock is temporary and will resolve when the Iran conflict de-escalates",
+        "whyItMightBeWrong": "The IMF is specifically warning against this framing. A 13% reduction in daily oil flow and a 20% reduction in LNG creates infrastructure damage, alternative-supply investment, and contract re-routing that takes years to unwind even if hostilities stop tomorrow. The baseline has shifted, not the variance around a stable baseline."
+      },
+      {
+        "assumption": "Core inflation staying lower than headline means the Fed has room to wait",
+        "whyItMightBeWrong": "Energy costs are already feeding into manufacturing, transport, and agriculture prices on a 3-6 month lag. Core inflation typically follows headline by one to two quarters when an energy shock is sustained. If the Strait stays disrupted through summer, core inflation will be rising by Q4 even if energy prices plateau."
+      },
+      {
+        "assumption": "The Fed's main risk is being too hawkish and causing a recession",
+        "whyItMightBeWrong": "The recession probability markets put at 31% suggests the market sees a roughly even chance the Fed gets something wrong in either direction. A central bank that holds rates while inflation rises above 4.5% will lose credibility. The cost of that credibility loss in a future inflationary episode is larger than the cost of a near-term contraction."
+      }
+    ],
+    "realDisagreement": "The genuine fork is between two theories of what central banks are for when supply shocks hit. One theory says the Fed's job is to anchor long-run inflation expectations, which means tightening when inflation rises regardless of the cause, even if it means accepting a recession. The other theory says monetary policy cannot fix supply problems and that hiking into an energy shock would destroy demand without bringing oil prices down, producing a worse outcome than waiting. Both are defensible positions held by serious economists. I lean toward the waiting position, conditionally: if inflation expectations start rising sharply in surveys and market-implied breakevens, the Fed has to move regardless of the supply-side story. What I would give up by waiting is the option to shape the narrative before expectations become self-fulfilling.",
+    "whatNoOneIsSaying": "The Federal Reserve's independence means it cannot publicly acknowledge that the tariff policy, which it explicitly identified as the main driver of the 2025 inflation re-acceleration, is the same administration it cannot criticize. The Fed chair must talk around the fact that two separate administration policies are responsible for both the inflation problem and the growth problem he is being asked to solve. The constraint is not economic. It is institutional.",
+    "whoPays": [
+      {
+        "who": "US consumers with variable-rate debt",
+        "how": "No rate cuts plus persistent inflation means real incomes continue falling while borrowing costs stay high. Credit card rates, adjustable mortgages, and auto loans stay expensive while purchasing power erodes.",
+        "when": "Already happening, worsening over 6-12 months"
+      },
+      {
+        "who": "Midwest agricultural producers",
+        "how": "Fertilizer prices (natural gas-derived) and diesel costs are both spiking from the same energy shock. Soybean and corn prices have not risen fast enough to offset input cost increases. Margin compression is immediate and severe.",
+        "when": "Immediate, through the 2026 planting and growing season"
+      },
+      {
+        "who": "Emerging market economies with dollar-denominated debt",
+        "how": "High US rates combined with dollar strength makes debt service more expensive. A stagflationary dollar-strong environment is the worst combination for EM sovereigns trying to manage both inflation and current account deficits.",
+        "when": "Medium-term, with the highest risk in Q3-Q4 2026 as debt rollovers come due"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Frozen Fed",
+        "whatHappens": "The Fed holds rates unchanged through the end of 2026 while inflation reaches 4.5-5%. Long-term inflation expectations drift upward. A rate hike cycle begins in early 2027, catching markets off guard and triggering a deeper contraction than would have occurred from earlier action.",
+        "signal": "5-year/5-year forward inflation breakevens rising above 2.8% in Treasury markets, or University of Michigan 5-year inflation expectations above 3.5%"
+      },
+      {
+        "name": "Supply Break",
+        "whatHappens": "Iran ceasefire holds within 4-6 weeks, Hormuz reopens, oil falls back below $90. The energy-driven inflation proves transient. The Fed cuts twice in H2 2026 as core inflation moderates. The recession is avoided.",
+        "signal": "Brent crude futures 3-month forward contract falling below $95 per barrel, signaling market belief that supply will normalize"
+      },
+      {
+        "name": "Stagflation Lock",
+        "whatHappens": "Blockade continues 6+ months. Energy infrastructure damage becomes semi-permanent. US inflation reaches 5%+ while GDP growth falls to 0.5-1%. The Fed raises rates once in Q4 to defend expectations, tipping the economy into recession. The IMF downgrades global growth by more than 1 percentage point.",
+        "signal": "US GDP Q2 2026 advance estimate below 1% annualized while CPI remains above 4%"
+      }
+    ],
+    "whatWouldChange": "If Citi's analysis is right and the global economy absorbs the oil shock without broad inflation pass-through, the bottom line is wrong. Specifically: if core CPI (ex-food and energy) stays below 3% through Q3 2026 despite $120+ oil, it would mean the supply shock is not generalizing into systemic inflation and the Fed can wait without consequence. That would require demand destruction to be doing the work that monetary policy is not.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Fed keep rates unchanged at April 2026 meeting?",
+        "url": "https://polymarket.com/event/fed-decision-in-april",
+        "probability": 0.9825
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US recession by end of 2026?",
+        "url": "https://polymarket.com/event/us-recession-by-end-of-2026",
+        "probability": 0.31
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will inflation reach more than 4% in 2026?",
+        "url": "https://polymarket.com/event/how-high-will-inflation-get-in-2026",
+        "probability": 0.54
+      }
+    ]
+  }
+}

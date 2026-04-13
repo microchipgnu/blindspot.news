@@ -91,6 +91,30 @@
       "title": "The Boycott That Became a Federal Case",
       "subtitle": "The FTC is in settlement talks with major ad agencies over whether they illegally coordinated to withhold ad spending from X. Whether or not the underlying conduct was illegal, the investigation itself tells you who has power at the FTC right now.",
       "category": "power"
+    },
+    {
+      "id": "trump-fires-immigration-judges",
+      "title": "The Judge Who Ruled Wrong",
+      "subtitle": "The Trump administration fired the immigration judges who dismissed deportation cases against Ozturk and Mahdawi. The message is not subtle: rule against us and lose your job.",
+      "category": "power"
+    },
+    {
+      "id": "stagflation-fed-trapped",
+      "title": "The Central Bank in the Box",
+      "subtitle": "With Brent crude at $118 and physical oil touching $149, the Fed faces the only scenario its playbook cannot handle: inflation it cannot fight and growth it cannot save.",
+      "category": "decision"
+    },
+    {
+      "id": "stonewall-pride-flag-settlement",
+      "title": "The Flag That Forced a Settlement",
+      "subtitle": "The Trump administration spent two months fighting to keep the Pride flag off a federal flagpole at Stonewall. A lawsuit filed in Manhattan federal court changed that in days.",
+      "category": "power"
+    },
+    {
+      "id": "doge-shadow-docket-social-security",
+      "title": "The Shadow Docket Catches Up",
+      "subtitle": "A divided appeals court sent the DOGE-Social Security data case back to district court. In the 89 pages of competing opinions, a Supreme Court justice's original warning about unfettered data access looks more prescient than when she wrote it.",
+      "category": "power"
     }
   ]
 }

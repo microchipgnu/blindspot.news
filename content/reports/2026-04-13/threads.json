@@ -118,6 +118,39 @@
           "relationship": "Both cases use federal power instrumentally: the FTC probe into ad agencies gives Musk leverage over the advertising industry, and the China tariff threat uses an unverified weapons shipment claim to extract concessions at the May summit; in both cases the investigation or threat is the tool, not the outcome"
         }
       ]
+    },
+    {
+      "id": "fire-the-judge-capture-the-court",
+      "title": "Two Ways to Hollow Out a Court",
+      "description": "The immigration judge firings and the DOGE shadow docket case are both about the same project: removing the judiciary's practical ability to constrain executive action, through two different mechanisms. The immigration judge firings use employment power over non-Article-III adjudicators to ensure future rulings go the right way. The shadow docket move used emergency procedure to authorize the SSA data access before the courts decided it was lawful. One captures the adjudicators. The other moves faster than the courts can stop it. Neither requires overturning a precedent.",
+      "type": "dependency-web",
+      "stories": ["trump-fires-immigration-judges", "doge-shadow-docket-social-security"],
+      "connections": [
+        {
+          "from": "trump-fires-immigration-judges",
+          "to": "doge-shadow-docket-social-security",
+          "relationship": "Both cases demonstrate that the administration does not need to win legal arguments to achieve its goals: firing immigration judges captures adjudication before cases are decided, and using the shadow docket authorizes data access before courts determine it is lawful; in both cases the harm is accomplished in the procedural window before any substantive ruling arrives"
+        }
+      ]
+    },
+    {
+      "id": "iran-war-stagflation-loop",
+      "title": "The War That Trapped the Fed",
+      "description": "The Hormuz blockade and the stagflation brief are not separate stories. The blockade is the direct cause of the oil shock, and the oil shock is what has eliminated the Fed's room to maneuver. But the loop runs further: the tariff-driven inflation that was already forcing the Fed to hold was itself partly a product of the same administration's policy choices. The Fed is now trapped by two separate administration policies simultaneously: tariffs and a war it did not start but cannot end. Neither the Treasury nor the White House has acknowledged this constraint publicly.",
+      "type": "cause-effect",
+      "stories": ["hormuz-blockade-us-navy", "stagflation-fed-trapped", "trump-china-tariff-iran-arms"],
+      "connections": [
+        {
+          "from": "hormuz-blockade-us-navy",
+          "to": "stagflation-fed-trapped",
+          "relationship": "The blockade removed 20% of seaborne oil supply from the market, spiking physical crude to $149 and pushing US headline CPI toward 4.5%, which makes any Fed rate cut politically and practically impossible until the energy shock resolves"
+        },
+        {
+          "from": "trump-china-tariff-iran-arms",
+          "to": "stagflation-fed-trapped",
+          "relationship": "The Federal Reserve's own analysis showed tariffs were the primary driver of 2025 inflation re-acceleration; the simultaneous tariff threat against China for Iran arms supply adds another round of potential tariff-driven inflation on top of the oil shock, compounding the Fed's constraint from two directions at once"
+        }
+      ]
     }
   ]
 }
