@@ -1,0 +1,107 @@
+{
+  "id": "tariff-stagflation-fed",
+  "date": "2026-04-14",
+  "generatedAt": "2026-04-14T06:00:00Z",
+  "title": "The Fed Has No Good Options Left",
+  "subtitle": "A Federal Reserve study confirms tariffs drove 3.1% cumulative inflation. Consumer spending is holding. Growth is stalling. The Fed cannot cut rates into a supply shock without making it worse.",
+  "topic": "economy",
+  "category": "decision",
+  "tags": ["Fed", "inflation", "tariffs", "stagflation", "recession", "Trump"],
+  "coverImage": {
+    "url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/04/2026-04-09T231836Z_1758074177_RC2SRJASO1CB_RTRMADP_3_USA-TRUMP-TARIFFS-LAWSUIT-1024x683.jpg",
+    "local": "/images/reports/2026-04-14/tariff-stagflation-fed.jpg",
+    "credit": "Reuters / PBS NewsHour"
+  },
+  "sources": [
+    {
+      "url": "https://mishtalk.com/economics/fed-study-shows-tariffs-boosted-inflation-by-a-cumulative-3-1-percent/",
+      "publisher": "MishTalk / Fed Research",
+      "angle": "Fed's own study finds tariff cost pass-through to consumers hits 100% by month seven; total cumulative inflation impact is 3.1 percentage points"
+    },
+    {
+      "url": "https://www.ssga.com/us/en/institutional/insights/weekly-economic-perspectives-13-april-2026",
+      "publisher": "State Street Global Advisors",
+      "angle": "First stagflationary impulses visible: energy price surge driving headline inflation while core remains contained and growth signals weaken"
+    },
+    {
+      "url": "https://www.cnbc.com/video/2026/04/13/the-fed-will-most-likely-asterisk-inflation-from-tariffs-and-the-war-as-one-offs-says-jim-cramer.html",
+      "publisher": "CNBC",
+      "angle": "Market bulls argue the Fed will treat tariff inflation and war-related energy spikes as transitory one-offs and hold rates steady rather than hiking"
+    },
+    {
+      "url": "https://www.financialcontent.com/article/marketminute-2026-4-13-the-great-decoupling-why-us-consumer-spending-defies-2026s-sticky-inflation-and-labor-softening",
+      "publisher": "FinancialContent / MarketMinute",
+      "angle": "Consumer spending is defying traditional models despite inflation and labor market softening, creating a paradox that complicates Fed modeling"
+    }
+  ],
+  "brief": {
+    "actors": ["Fed", "Trump", "Treasury", "Kevin Warsh", "Congress"],
+    "whatHappened": "A Federal Reserve study published this week confirmed that tariffs imposed since early 2025 have passed through to consumer prices completely by the seventh month, producing a cumulative 3.1% inflation increase above baseline. Simultaneously, early April data shows headline inflation spiking due to energy prices tied to the Iran war, while core inflation remains relatively contained. The US economy is showing its first stagflationary signals: growth slowing, labor market softening, but inflation structurally elevated above target. The Fed faces a rate decision in May with no clean path: cutting risks entrenching inflation; holding or hiking risks tipping a slowing economy into recession. Polymarket prices a US recession by end of 2026 at 30%.",
+    "bottomLine": "The Fed is holding a hot stove with both hands: tariff inflation is supply-side, not demand-side, which means rate hikes would hurt the economy without fixing the inflation, and rate cuts would worsen the inflation without fixing the economy.",
+    "hiddenBets": [
+      {
+        "assumption": "The Fed can credibly call tariff-driven inflation 'transitory' and look past it",
+        "whyItMightBeWrong": "The Fed used the transitory framing in 2021 and was forced into the fastest rate-hike cycle in 40 years when it proved wrong. Using the same framing again with tariffs locked in by statute is a credibility bet the institution may not be able to afford."
+      },
+      {
+        "assumption": "Consumer spending resilience means the economy is not approaching recession",
+        "whyItMightBeWrong": "Consumer spending is being sustained partly by credit card debt and savings drawdowns. Both indicators are flashing warning signs. Spending strength today may be borrowing from collapse tomorrow."
+      },
+      {
+        "assumption": "The Fed is independent enough to make the right call regardless of White House pressure",
+        "whyItMightBeWrong": "Kevin Warsh is being positioned as the next Fed Chair nominee. The Warsh confirmation process is ongoing. Powell's remaining months create an institutional incentive to avoid controversial decisions that make the Senate confirmation battle messier."
+      }
+    ],
+    "realDisagreement": "The actual fork is between two honest read-outs of the data. The first says: supply shocks cannot be fixed by monetary policy, holding rates is the right call, and the economy will absorb the inflation through a mild slowdown that is better than the alternative. The second says: inflation expectations are not anchored well enough after 2021, allowing 3%+ inflation to persist even one year risks re-igniting a wage-price spiral that requires a much harder correction later. The first read is more defensible given the supply-side origin, but the second is what the bond market is pricing. The right answer is probably to hold through Q2, communicate clearly about the supply-side origin, and only cut if growth genuinely stalls. The risk is the growth signal arrives too late.",
+    "whatNoOneIsSaying": "The tariffs that caused this inflation problem are also being struck down by courts. If the SCOTUS IEEPA ruling and the resulting tariff rollback substantially reduce the tariff load over the next six months, the 3.1% cumulative inflation boost partially reverses. The Fed may be preparing for an inflation environment that the legal system is already beginning to dismantle.",
+    "whoPays": [
+      {
+        "who": "Fixed-income earners and retirees",
+        "how": "3.1% cumulative tariff inflation on top of baseline inflation erodes purchasing power for people on fixed pensions, Social Security, and savings. Wage increases that have tracked inflation in services have not reached this group.",
+        "when": "Already happening, compounding monthly"
+      },
+      {
+        "who": "Small businesses with thin margins",
+        "how": "Input costs rose with tariffs, but competitive pressure limits price pass-through to customers. Businesses absorb the squeeze in margins, leading to layoffs or closures.",
+        "when": "Already visible in Q1 2026 small business confidence surveys"
+      },
+      {
+        "who": "Mortgage holders considering refinancing",
+        "how": "If the Fed holds or hikes in response to inflation, mortgage rates stay high. The housing market remains locked. Homeowners who need to move or refinance face rates that do not reflect an economy slowing below trend.",
+        "when": "Through end of 2026 if current rate path holds"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Hold and communicate",
+        "whatHappens": "Fed holds rates at May meeting, issues clear statement attributing elevated inflation to tariff supply-shock, signals willingness to cut when growth data deteriorates. Markets stabilize, inflation stays elevated but stable around 3.5-4%.",
+        "signal": "May FOMC statement explicitly references tariff pass-through as a supply-side factor distinct from demand inflation"
+      },
+      {
+        "name": "Premature cut",
+        "whatHappens": "White House pressure, slowing jobs data, and a credit event prompt the Fed to cut in June. Inflation re-accelerates, the dollar weakens, import prices rise further, and the Fed is forced to reverse course.",
+        "signal": "Core PCE ticks above 3.5% in the month following a rate cut"
+      },
+      {
+        "name": "Stagflation locks in",
+        "whatHappens": "Neither cutting nor holding resolves the supply-side problem. Tariff inflation persists even if the SCOTUS ruling unwinds some of it. Growth falls below 1% while inflation stays above 3%. The Fed is paralyzed and the 2026 recession probability moves above 50%.",
+        "signal": "Two consecutive quarters of negative GDP growth reported alongside inflation above 3%"
+      }
+    ],
+    "whatWouldChange": "If the tariff rollback triggered by the SCOTUS IEEPA ruling is substantial and fast, the inflation pressure the Fed is managing decreases significantly. In that scenario, the case for rate cuts becomes stronger and the stagflation risk recedes. Watch the CBP refund processing and any new tariff executive actions to judge the actual tariff load trajectory.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "US recession by end of 2026?",
+        "url": "https://polymarket.com/event/us-recession-by-end-of-2026",
+        "probability": 0.30
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will annual inflation increase by more than 3.1% in April?",
+        "url": "https://polymarket.com/event/april-inflation-us-annual",
+        "probability": 0.96
+      }
+    ]
+  }
+}

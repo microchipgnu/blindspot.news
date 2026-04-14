@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-14",
+  "generatedAt": "2026-04-14T06:00:00Z",
+  "reports": [
+    {
+      "id": "anthropic-mythos-zero-days",
+      "title": "Anthropic's AI Can Break Your Bank",
+      "subtitle": "Mythos finds thousands of zero-day exploits autonomously. Washington called an emergency meeting with bank CEOs. Nobody knows whether to use it or ban it.",
+      "category": "power"
+    },
+    {
+      "id": "iran-hormuz-blockade",
+      "title": "The Blockade That Is Already Being Traded Away",
+      "subtitle": "Trump imposed a naval blockade on Iranian ports after Islamabad talks failed. Iran offered a 5-year uranium pause. Markets say both sides want a deal before May.",
+      "category": "conflict"
+    },
+    {
+      "id": "scotus-ieepa-tariff-refund",
+      "title": "The Court Ordered $133 Billion Back. Now What?",
+      "subtitle": "The Supreme Court struck down Trump's IEEPA tariffs. A federal court ordered refunds. Trump is already testing a workaround using a different statute.",
+      "category": "power"
+    },
+    {
+      "id": "tariff-stagflation-fed",
+      "title": "The Fed Has No Good Options Left",
+      "subtitle": "A Federal Reserve study confirms tariffs drove 3.1% cumulative inflation. Consumer spending is holding. Growth is stalling. The Fed cannot cut rates into a supply shock without making it worse.",
+      "category": "decision"
+    },
+    {
+      "id": "social-media-ban-failing",
+      "title": "The Ban That Moves Children Underground",
+      "subtitle": "Australia's under-16 social media ban has failed: two-thirds of affected teens are still on banned platforms. The UK and Massachusetts are about to copy the same approach.",
+      "category": "ethics"
+    }
+  ]
+}

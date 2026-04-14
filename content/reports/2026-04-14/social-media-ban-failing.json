@@ -1,0 +1,94 @@
+{
+  "id": "social-media-ban-failing",
+  "date": "2026-04-14",
+  "generatedAt": "2026-04-14T06:00:00Z",
+  "title": "The Ban That Moves Children Underground",
+  "subtitle": "Australia's under-16 social media ban has failed: two-thirds of affected teens are still on banned platforms. The UK and Massachusetts are about to copy the same approach.",
+  "topic": "society",
+  "category": "ethics",
+  "tags": ["social media", "children", "Australia", "UK", "Meta", "TikTok", "regulation"],
+  "coverImage": {
+    "url": "https://s24television.com/wp-content/uploads/2026/04/UK-Prime-Minister.jpg",
+    "local": "/images/reports/2026-04-14/social-media-ban-failing.jpg",
+    "credit": "S24 Television"
+  },
+  "sources": [
+    {
+      "url": "https://www.aivanet.com/2026/04/majority-of-australian-kids-are-still-on-banned-social-media-platforms-study-finds/",
+      "publisher": "AIVAnet / Molly Rose Foundation",
+      "angle": "Survey shows 2/3 of Australian 12-15 year olds continue using banned platforms; the ban has made verification burdensome but has not removed access"
+    },
+    {
+      "url": "https://www.mediaweek.com.au/social-media-ban-falls-flat-but-parents-urge-government-to-fix-it-not-ditch-it/",
+      "publisher": "Mediaweek Australia",
+      "angle": "Australian parents in majority say the ban has failed, but most want it improved rather than removed; political consensus for banning is stronger than the evidence"
+    },
+    {
+      "url": "https://inview.org.uk/news/189102-under-16_cocial_media_ban_on_table_as_uk_debates_child_safety_online",
+      "publisher": "InView / UK Independent News",
+      "angle": "UK Education Secretary says government is not afraid of tech companies; under-16 ban now under active consideration despite Australian evidence"
+    },
+    {
+      "url": "https://en.tempo.co/read/2098007/social-media-age-limits-well-intentioned-but-ineffective",
+      "publisher": "Tempo (Indonesia)",
+      "angle": "Global overview: over a dozen countries are pursuing age limits; experts across jurisdictions question effectiveness and point to unintended consequences"
+    }
+  ],
+  "brief": {
+    "actors": ["Meta", "TikTok", "Australia", "UK", "Keir Starmer", "Massachusetts"],
+    "whatHappened": "A survey by the Molly Rose Foundation found that two-thirds of Australian 12-15 year olds are still using platforms including Instagram, TikTok, YouTube, X, and Reddit, despite Australia's law mandating age verification and imposing large fines on platforms that fail to enforce it. Platforms must verify user ages but the methods are easily circumvented. Despite this evidence, the UK is now actively considering an identical under-16 ban, with Prime Minister Keir Starmer indicating the government is not afraid of confronting tech companies. Massachusetts legislators are simultaneously moving toward what they are calling the most restrictive social media age law in the United States.",
+    "bottomLine": "Countries are adopting a policy that the first adopter's own data shows does not work, because the political value of performing concern about children outweighs the policy value of actually protecting them.",
+    "hiddenBets": [
+      {
+        "assumption": "The ban's failure is a technical enforcement problem that better age verification would fix",
+        "whyItMightBeWrong": "Teenagers are using VPNs, borrowed accounts, and parent credentials. The enforcement problem is not technical but social: teenagers with phones and motivated peers will find a workaround regardless of the verification method. No technical barrier survives adolescent social motivation."
+      },
+      {
+        "assumption": "Removing teenagers from major platforms reduces the harms those platforms cause",
+        "whyItMightBeWrong": "Bans push use underground, away from algorithms and into unmonitored Discord servers, private group chats, and less-regulated platforms. The harmful content moves with the user; the transparency does not."
+      },
+      {
+        "assumption": "Parents support the ban because it is working for them",
+        "whyItMightBeWrong": "Australian parent surveys show majority support for the ban, but parents also report their own children are still on the platforms. The support reflects desire for something to be done, not evidence that this particular thing is working."
+      }
+    ],
+    "realDisagreement": "The genuine tension is between two honest accounts of government capacity to regulate tech platforms. The first says: government has the power and responsibility to force platforms to change their products, and age verification is the minimum entry point. The second says: platforms are genuinely unregulatable at the enforcement level government would need, and the bans drain political energy from interventions that could actually work, like algorithmic transparency requirements and liability for design choices. The first position has moral force and votes. The second has the evidence. The right policy is probably to regulate the product design, not the user population, but that approach is less legible as protection for children and therefore harder to pass.",
+    "whatNoOneIsSaying": "Meta and TikTok have not seriously opposed these bans. A law that creates the appearance of regulation without requiring them to change their products or algorithms is the best possible outcome for them. The platforms are not fighting the bans because the bans protect the platforms.",
+    "whoPays": [
+      {
+        "who": "Teenagers in low-income households",
+        "how": "Age verification systems work better for families with government-issued ID documents and credit histories. Children without those anchors are more likely to be denied access to legitimate channels and driven to unmonitored alternatives, while wealthier teenagers use parent credentials or VPN services.",
+        "when": "Immediately upon enforcement"
+      },
+      {
+        "who": "Children already experiencing online harassment",
+        "how": "Bans reduce the platforms' visibility into patterns of coordinated harassment. If children move to private channels to evade bans, their harassment also moves out of reach of the platform moderation systems that are, imperfectly, already watching.",
+        "when": "Within 6 months of enforcement in any new jurisdiction"
+      },
+      {
+        "who": "Tech platforms in the medium run",
+        "how": "If bans proliferate, platforms face a patchwork of incompatible age verification requirements across jurisdictions, compliance costs that favor incumbents, and potential exclusion from markets where they have strong user bases. The short-term benefit of weak regulation becomes a medium-term regulatory nightmare.",
+        "when": "2 to 5 years as regulatory fragmentation compounds"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Copy-paste failure",
+        "whatHappens": "UK and Massachusetts pass bans modeled on Australia's law. Three years later, compliance surveys show similar 60-70% failure rates. The policy debate restarts with the same evidence and the same conclusion.",
+        "signal": "UK or Massachusetts age verification systems launch with the same technical architecture as Australia's"
+      },
+      {
+        "name": "Product liability pivot",
+        "whatHappens": "A major court ruling or congressional testimony shifts the regulatory frame from age verification to design liability. Platforms face lawsuits over algorithmic choices that cause harm, and settle by implementing feed chronology requirements, social graph limits for minors, and content filters. Teens stay on platforms but the product is structurally different.",
+        "signal": "A US federal court allows a product liability case against a social platform to proceed past motion to dismiss"
+      },
+      {
+        "name": "VPN and workaround normalization",
+        "whatHappens": "Bans proliferate globally, VPN use by teenagers becomes standard, and the bans effectively stratify access by technical sophistication. Governments declare victory, harm data remains flat or worsens among high-risk groups.",
+        "signal": "VPN downloads by under-18 users in Australia or UK spike within 60 days of enforcement"
+      }
+    ],
+    "whatWouldChange": "If a jurisdiction implemented age verification combined with algorithmic transparency requirements that made the feed experience for minors genuinely different, and a randomized study showed reduced harm, the evidence would shift. The current bans test age gatekeeping in isolation; no one is testing whether the product design changes are the variable that matters.",
+    "markets": []
+  }
+}

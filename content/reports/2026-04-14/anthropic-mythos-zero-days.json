@@ -1,0 +1,99 @@
+{
+  "id": "anthropic-mythos-zero-days",
+  "date": "2026-04-14",
+  "generatedAt": "2026-04-14T06:00:00Z",
+  "title": "Anthropic's AI Can Break Your Bank",
+  "subtitle": "Mythos finds thousands of zero-day exploits autonomously. Washington called an emergency meeting with bank CEOs. Nobody knows whether to use it or ban it.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["AI", "cybersecurity", "Anthropic", "banking", "Pentagon"],
+  "coverImage": {
+    "url": "https://www.reuters.com/resizer/v2/UWSLG7GWPVLT5A7MGRBZSDDUOU.jpg?auth=f658254af3caec33e009b3bd043d4ed2a2f9f315a77c8e70c95faceefd4255cb&height=1005&width=1920&quality=80&smart=true",
+    "local": "/images/reports/2026-04-14/anthropic-mythos-zero-days.jpg",
+    "credit": "Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://www.reuters.com/legal/litigation/ai-boosted-hacks-with-anthropics-mythos-could-have-dire-consequences-banks-2026-04-13/",
+      "publisher": "Reuters",
+      "angle": "Banks face a new tier of cyber risk from Mythos, which can exploit legacy systems at a scale and speed no human attacker could match"
+    },
+    {
+      "url": "https://techxplore.com/news/2026-04-anthropic-mythos-ai-uncovers-thousands.html",
+      "publisher": "TechXplore",
+      "angle": "Mythos autonomously uncovered thousands of zero-day bugs; Treasury Secretary Bessent and Fed Chair Powell convened emergency meeting with bank CEOs"
+    },
+    {
+      "url": "https://www.secureworld.io/industry-news/anthropic-claude-mythos-finds-exploits-zero-days",
+      "publisher": "SecureWorld",
+      "angle": "Technical breakdown: Mythos finds and exploits zero-days autonomously, raising serious questions about responsible deployment"
+    },
+    {
+      "url": "https://www.strategicstudyindia.com/2026/02/congressnot-pentagon-or-anthropicshould.html",
+      "publisher": "Indian Strategic Studies / Lawfare",
+      "angle": "Congress, not the Pentagon or Anthropic, should set military AI rules; current executive-driven approach lacks democratic legitimacy"
+    },
+    {
+      "url": "https://www.pymnts.com/cybersecurity/2026/banks-face-complex-cyber-risks-from-anthropics-mythos/",
+      "publisher": "PYMNTS",
+      "angle": "Financial sector scrambling to understand Mythos exposure; JPMorgan, Goldman, Citi, BofA, Morgan Stanley testing it internally on government urging"
+    }
+  ],
+  "brief": {
+    "actors": ["Anthropic", "Pentagon", "Treasury", "Fed", "JPMorgan", "Goldman Sachs", "Congress"],
+    "whatHappened": "Anthropic's Claude Mythos, unveiled in early April 2026, has demonstrated the ability to autonomously discover and exploit thousands of zero-day vulnerabilities across complex software systems. Treasury Secretary Scott Bessent and Federal Reserve Chair Jerome Powell called an emergency meeting with the CEOs of the five largest US banks to assess exposure. The Pentagon, separately, is reportedly considering designating Anthropic a 'supply chain risk,' which would bar it from government contracts and force DoD contractors to cut ties with the company. Wall Street banks are now running internal red-team tests using Mythos, at Washington's urging, to find their own vulnerabilities before adversaries do.",
+    "bottomLine": "The US government is simultaneously treating Anthropic as a national security threat and relying on its tool to defend national security infrastructure: that contradiction cannot hold.",
+    "hiddenBets": [
+      {
+        "assumption": "Running Mythos against your own systems to find vulnerabilities is a net security gain",
+        "whyItMightBeWrong": "Any institution that runs Mythos produces a detailed map of its own vulnerabilities. That map, once created, is itself a high-value target. The act of testing may create a new attack surface."
+      },
+      {
+        "assumption": "The Pentagon's supply chain risk designation is about security, not competitive positioning",
+        "whyItMightBeWrong": "Designating Anthropic a supply chain risk would channel DoD AI contracts exclusively to competitors. The designation is a procurement weapon disguised as a safety measure."
+      },
+      {
+        "assumption": "This is primarily a cybersecurity story",
+        "whyItMightBeWrong": "The deeper question is who controls a system capable of breaking any software at scale. The cybersecurity framing obscures that this is a power-concentration story."
+      }
+    ],
+    "realDisagreement": "The fork is between two responses to a model that can autonomously break systems. The first says: restrict access, treat it like a weapon, let government control deployment. The second says: push it out fast, use it defensively, and accept that adversaries will build the same capability regardless. The first approach buys time but creates a monopoly in whoever controls access. The second accepts that a defensive advantage today requires wide availability that enemies will also use. Neither path avoids the damage; they just allocate it differently. The defensive-access argument has the better near-term case, but it assumes attackers are not already there, and that assumption is probably wrong.",
+    "whatNoOneIsSaying": "Anthropic disclosed this capability. That disclosure is its own strategy: by making the threat visible, Anthropic made itself indispensable to the government it is simultaneously being threatened by. Announcing that your product can break everything is the fastest way to ensure no one can afford to exclude you.",
+    "whoPays": [
+      {
+        "who": "Community banks and credit unions",
+        "how": "They lack the resources to run Mythos-style red-teams on their own infrastructure. Larger banks testing and patching their systems creates a security gap between institutions that will widen fast.",
+        "when": "Within 12 months, as Mythos-derived exploit techniques diffuse"
+      },
+      {
+        "who": "Federal contractors not affiliated with Anthropic or its rivals",
+        "how": "If the Pentagon supply chain risk designation proceeds, any contractor using Anthropic tools must either switch vendors at cost or lose government business",
+        "when": "Immediately if the designation is finalized"
+      },
+      {
+        "who": "Depositors at institutions with legacy core banking systems",
+        "how": "Older core banking platforms built in COBOL have the largest zero-day exposure. Mythos-style attacks targeting those systems could freeze accounts or corrupt transaction records.",
+        "when": "The vulnerability exists now; exploitation risk rises as Mythos or equivalents spread"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Controlled access carve-out",
+        "whatHappens": "The Pentagon backs off the supply chain designation, Anthropic gets a restricted government-licensed deployment path for Mythos, and Wall Street banks receive mandatory audit requirements using the tool.",
+        "signal": "Treasury and DoD issue a joint framework for 'dual-use AI security tools' within the next 60 days"
+      },
+      {
+        "name": "Designation proceeds, splits market",
+        "whatHappens": "Pentagon designates Anthropic a supply chain risk. Government contracts flow to OpenAI and Google. Anthropic pivots to commercial and allied-nation deployment of Mythos, creating a parallel security apparatus outside US government oversight.",
+        "signal": "Anthropic announces a major European or UK government partnership within 90 days"
+      },
+      {
+        "name": "Adversary deployment first",
+        "whatHappens": "A state actor releases a Mythos-equivalent publicly before the US government resolves its Anthropic question. The defensive window closes, and the debate becomes moot.",
+        "signal": "CISA issues an emergency alert about AI-assisted zero-day campaigns attributed to a foreign nation-state"
+      }
+    ],
+    "whatWouldChange": "If Anthropic shared Mythos capabilities with the Pentagon under an existing contract and the supply chain risk designation is withdrawn, the story becomes evidence of a functioning public-private security relationship rather than a breakdown. The contradiction resolves only if the government picks a side.",
+    "markets": []
+  }
+}

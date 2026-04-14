@@ -1,0 +1,67 @@
+{
+  "date": "2026-04-14",
+  "threads": [
+    {
+      "id": "executive-authority-without-legal-basis",
+      "title": "Four Ways to Act Without Permission",
+      "description": "Three stories today share a hidden structural pattern: an actor is using a power they either do not legally hold or that courts have already revoked, and no one can stop them fast enough to matter. Trump's IEEPA tariffs were struck down but $133 billion was already collected. The Iran blockade has no explicit congressional authorization but the Navy is already deployed. Anthropic deployed a model capable of breaking critical infrastructure before any legal framework existed to govern it. The lag between action and accountability is the actual policy environment we are operating in.",
+      "type": "tension-cluster",
+      "stories": ["scotus-ieepa-tariff-refund", "iran-hormuz-blockade", "anthropic-mythos-zero-days"],
+      "connections": [
+        {
+          "from": "scotus-ieepa-tariff-refund",
+          "to": "iran-hormuz-blockade",
+          "relationship": "The SCOTUS ruling that stripped Trump's IEEPA trade authority was issued the same week Trump announced a naval blockade with no clear statutory authority; the administration's response to legal defeat in one domain was to escalate in another domain where courts cannot move as fast"
+        },
+        {
+          "from": "iran-hormuz-blockade",
+          "to": "anthropic-mythos-zero-days",
+          "relationship": "Both the blockade and Mythos represent actors deploying capabilities that outrun the governance structures built to constrain them; the damage is done before the legal question is resolved"
+        },
+        {
+          "from": "scotus-ieepa-tariff-refund",
+          "to": "anthropic-mythos-zero-days",
+          "relationship": "In both cases the question of who authorizes the action has been answered in theory (Congress, not the president; Congress, not Anthropic or the Pentagon) but not yet in practice, because implementation is months or years behind the capability"
+        }
+      ]
+    },
+    {
+      "id": "pressure-leverage-trap",
+      "title": "Coercion That Creates the Thing It Is Trying to Prevent",
+      "description": "Two stories today involve coercive pressure that may be producing the outcome it is designed to prevent. The Hormuz blockade is meant to force Iran to a nuclear deal, but extended blockades historically consolidate domestic support for hardliners who use external pressure as political cover for rejecting concessions. Australia's social media ban was meant to reduce children's exposure to harmful platforms, but its primary effect has been to move use underground and out of view. Both cases reveal the same trap: interventions that signal seriousness while destroying the conditions needed for the underlying goal.",
+      "type": "cause-effect",
+      "stories": ["iran-hormuz-blockade", "social-media-ban-failing"],
+      "connections": [
+        {
+          "from": "iran-hormuz-blockade",
+          "to": "social-media-ban-failing",
+          "relationship": "Both deploy a blockade mechanism as their primary lever: one blocks Iranian ports, one blocks app access for under-16s; in both cases the blocked party has found workarounds that are less visible and harder to monitor than the original behavior the intervention was targeting"
+        }
+      ]
+    },
+    {
+      "id": "tariffs-inflation-war-loop",
+      "title": "The War That Made the Economy Worse, and the Economy That Shapes the War",
+      "description": "The stagflation story and the Iran blockade story are feeding each other in a loop that neither brief captures alone. Tariff-driven inflation already has the Fed paralyzed. The Iran war added an energy price spike on top of that inflation, making the Fed's position worse. The Hormuz blockade extends the energy disruption. Meanwhile the SCOTUS tariff ruling that is supposed to relieve some inflation pressure requires an administration that is simultaneously using a naval blockade as trade leverage. The tariff rollback and the Hormuz blockade are on a collision course: you cannot use economic coercion abroad while courts are unwinding your economic coercion at home.",
+      "type": "dependency-web",
+      "stories": ["tariff-stagflation-fed", "iran-hormuz-blockade", "scotus-ieepa-tariff-refund"],
+      "connections": [
+        {
+          "from": "iran-hormuz-blockade",
+          "to": "tariff-stagflation-fed",
+          "relationship": "The blockade's energy price effect is adding to the tariff-driven inflation the Fed is already managing; the war that the blockade is part of is a direct input into the stagflation signal"
+        },
+        {
+          "from": "scotus-ieepa-tariff-refund",
+          "to": "tariff-stagflation-fed",
+          "relationship": "The tariff rollback triggered by the SCOTUS ruling would reduce the inflation pressure the Fed is managing, but only if the administration complies with refund orders; the court battle over enforcement is therefore also a Fed policy question"
+        },
+        {
+          "from": "tariff-stagflation-fed",
+          "to": "iran-hormuz-blockade",
+          "relationship": "A US economy slipping toward recession reduces the administration's willingness to sustain a costly blockade, which is one of the few mechanisms that could accelerate a deal timeline from the US side"
+        }
+      ]
+    }
+  ]
+}

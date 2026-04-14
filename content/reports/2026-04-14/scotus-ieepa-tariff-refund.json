@@ -1,0 +1,94 @@
+{
+  "id": "scotus-ieepa-tariff-refund",
+  "date": "2026-04-14",
+  "generatedAt": "2026-04-14T06:00:00Z",
+  "title": "The Court Ordered $133 Billion Back. Now What?",
+  "subtitle": "The Supreme Court struck down Trump's IEEPA tariffs. A federal court ordered refunds. Trump is already testing a workaround using a different statute. The constitutional crisis is just starting.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["Trump", "SCOTUS", "tariffs", "IEEPA", "trade", "Congress"],
+  "coverImage": {
+    "url": "https://www.reuters.com/resizer/v2/VGKNERMKEVIOHD4XSMGZVJJ4ME.jpg?auth=99b789f249ce65c430083bff6f437a6f81ca5e8d35559c32dd2cb6a46b278fda&height=1005&width=1920&quality=80&smart=true",
+    "local": "/images/reports/2026-04-14/scotus-ieepa-tariff-refund.jpg",
+    "credit": "Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://www.briefs.co/news/a-federal-court-just-ordered-the-u-s-to-start-paying-back-133-billion-in-tariffs/",
+      "publisher": "Briefs Finance",
+      "angle": "Federal Court of International Trade orders the US to begin refunding IEEPA tariffs already collected; $133 billion at stake"
+    },
+    {
+      "url": "https://www.reuters.com/legal/government/us-trade-court-weighs-legality-trump-10-global-tariff-2026-04-10/",
+      "publisher": "Reuters",
+      "angle": "Court weighs legality of the residual 10% global tariff after SCOTUS struck down IEEPA baseline; Section 122 pivot under scrutiny"
+    },
+    {
+      "url": "https://www.pbs.org/newshour/amp/economy/federal-court-hears-new-case-against-trumps-latest-global-tariffs",
+      "publisher": "PBS NewsHour",
+      "angle": "New court challenge targets Trump's attempt to route tariff authority through Section 232 and other statutes after IEEPA ruling"
+    },
+    {
+      "url": "https://www.strategicstudyindia.com/2026/02/trump-renews-attack-on-taiwans-chip.html",
+      "publisher": "Indian Strategic Studies / Lawfare",
+      "angle": "Trump is redirecting tariff pressure onto Taiwan's chip sector specifically, seeking leverage not blocked by the IEEPA ruling"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "SCOTUS", "Congress", "Taiwan", "China", "WTO"],
+    "whatHappened": "The Supreme Court struck down the 'Universal Baseline Tariffs' Trump imposed under the International Emergency Economic Powers Act, ruling that IEEPA does not grant the president unlimited authority to impose tariffs on the grounds of an ongoing emergency. A federal judge at the Court of International Trade subsequently ordered the US government to begin refunding tariffs collected under the struck-down authority: roughly $133 billion. Trump has responded by exploring Section 122 of the Trade Act of 1974 as a replacement authority, and has separately renewed attacks on Taiwan's semiconductor sector, which IEEPA's scope does not cover. The courts are now hearing challenges to the Section 122 pivot as well.",
+    "bottomLine": "The Court did not end Trump's tariff ambitions; it forced him to use statutory authorities that Congress actually wrote for tariffs, and those authorities have real limits that IEEPA's emergency language was designed to evade.",
+    "hiddenBets": [
+      {
+        "assumption": "The $133 billion refund order will be paid",
+        "whyItMightBeWrong": "The administration will appeal every step of the refund process. The actual cash outflows could be delayed years by procedural battles over who qualifies, how claims are filed, and whether the administration complies voluntarily with refund orders."
+      },
+      {
+        "assumption": "Section 122 and Section 232 are adequate replacements for IEEPA's tariff authority",
+        "whyItMightBeWrong": "Section 122 caps tariffs at 15% and limits duration to 150 days. Section 232 requires a national security finding by Commerce, which takes months. Neither lets the president impose universal baseline tariffs via executive order in a week."
+      },
+      {
+        "assumption": "Congress will use this moment to reassert trade authority",
+        "whyItMightBeWrong": "Congress has been delegating trade authority to the executive branch for 80 years. The institutional incentive is to let the president take both the credit and the heat. There is no sign the current Republican majority wants to own tariff policy."
+      }
+    ],
+    "realDisagreement": "The real dispute is not about tariff levels; it is about who in the US government has the power to set trade policy unilaterally. The Court's ruling says Congress must be involved. The administration's response is to find the fastest path back to unilateral authority using different statutory text. One side believes executive trade power is essential for rapid geopolitical response; the other believes unchecked executive trade power is legislatively illegitimate and produces bad policy. Both are right about something: speed matters in trade negotiations, and unchecked power produces abuse. The court is enforcing the Constitution's answer, which is that Congress must be involved, and that answer is correct even if inconvenient.",
+    "whatNoOneIsSaying": "The $133 billion refund order is a political gift to every US importer who paid the tariffs. That is a large, organized constituency with legal representation and strong incentive to push enforcement. The administration cannot quietly ignore the refund orders the way it might ignore softer judgments.",
+    "whoPays": [
+      {
+        "who": "US importers waiting for refunds",
+        "how": "Refund claims require filing through CBP's CAPE declaration system. Companies that paid tariffs and went bankrupt or restructured may not be able to recover. The refund process will be slow and bureaucratically adversarial.",
+        "when": "Refund process begins now; full recovery could take 2 to 5 years"
+      },
+      {
+        "who": "Taiwan semiconductor industry",
+        "how": "Trump's renewed focus on Taiwan chips bypasses the IEEPA ruling. Targeted tariffs on semiconductors are now being considered under Section 232, which would require a national security finding but would be harder to challenge.",
+        "when": "Commerce Department national security review underway; outcome in 6 to 12 months"
+      },
+      {
+        "who": "US trading partners that structured agreements around IEEPA pause deals",
+        "how": "Countries that negotiated tariff reductions or pauses in exchange for concessions under the IEEPA regime face an uncertain legal status for those agreements now that the underlying authority is gone.",
+        "when": "Immediate uncertainty; legal clarification needed before new agreements can be structured"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Slow statutory rebuild",
+        "whatHappens": "Trump spends 2026 using Section 232 findings to rebuild a tariff architecture that survives judicial review. It takes longer, is narrower in scope, and requires a Commerce Department process, but produces a legally durable result.",
+        "signal": "Commerce Department initiates a new Section 232 national security investigation covering a broad category of imports"
+      },
+      {
+        "name": "Congressional delegation",
+        "whatHappens": "Trump asks Congress to pass a new trade authority statute that grants the tariff powers SCOTUS said IEEPA does not provide. Congress debates but ultimately passes a narrow version, permanently reshaping executive-legislative trade power.",
+        "signal": "A White House bill explicitly granting 'emergency tariff authority' is introduced in the Senate Finance Committee"
+      },
+      {
+        "name": "Compliance standoff",
+        "whatHappens": "The administration refuses to process refunds, challenges every refund order in court, and continues collecting tariffs under the Section 122 replacement. The constitutional conflict over enforcement becomes the new crisis.",
+        "signal": "CBP fails to issue CAPE processing guidance within 60 days despite the court order"
+      }
+    ],
+    "whatWouldChange": "If Congress passes legislation explicitly authorizing the tariff levels Trump imposed, the Court's ruling becomes moot and executive trade power expands permanently. Watch for any Senate Finance Committee markup of a trade authority bill.",
+    "markets": []
+  }
+}
