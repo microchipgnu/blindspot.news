@@ -1,0 +1,93 @@
+{
+  "id": "rfk-vaccine-court",
+  "date": "2026-04-15",
+  "generatedAt": "2026-04-15T22:50:00Z",
+  "title": "A Judge Froze RFK Jr.'s Vaccine Changes. He's Already Working Around the Ruling.",
+  "subtitle": "US District Judge Brian Murphy blocked all Trump-era changes to the national vaccine schedule. The same day, HHS announced new criteria for the advisory panel RFK Jr. had already stacked. The courts and the executive are playing whack-a-mole with public health infrastructure.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["rfk-jr", "vaccines", "hhs", "acip", "trump", "public-health", "courts", "pediatrics"],
+  "coverImage": {
+    "url": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/b/1f/b1ffb260-7c7d-4acd-a825-add3ea6f984c/69d6b287554de.image.jpg?crop=1762%2C926%2C0%2C124&resize=1200%2C631&order=crop%2Cresize",
+    "local": "/images/reports/2026-04-15/rfk-vaccine-court.jpg",
+    "credit": "Post and Courier / Reuters / Julie Steenhuysen"
+  },
+  "sources": [
+    {
+      "url": "https://world.infonasional.com/judge-blocks-trump-vaccine-changes",
+      "publisher": "Info Nasional (Reuters reporting)",
+      "angle": "Primary news on Judge Murphy's April 15 stay; details the American Academy of Pediatrics lawsuit; describes the ACIP meeting cancellation and the freeze on immunization schedule changes"
+    },
+    {
+      "url": "https://www.postandcourier.com/health/rfk-jr-rewrites-rules-for-vaccine-advisory-panel/article_dd5d4a38-b52e-473a-935a-8b94e901f2c6.html",
+      "publisher": "Post and Courier / Reuters",
+      "angle": "Documents RFK Jr.'s strategy to rewrite ACIP membership criteria after a court blocked his previous unqualified nominees; shows the workaround pattern"
+    },
+    {
+      "url": "https://www.fox5atlanta.com/news/atlanta-doctors-warn-cdc-panel-changes-dangerous",
+      "publisher": "FOX 5 Atlanta",
+      "angle": "Medical community perspective: Atlanta physicians describe the changes as 'dangerous'; documents RFK Jr.'s move to revise ACIP charter requirements to allow vaccine-skeptical appointments"
+    },
+    {
+      "url": "https://www.cidrap.umn.edu/public-health/cidrap-op-ed-don-t-be-distracted-acip-was-never-only-play",
+      "publisher": "CIDRAP / University of Minnesota",
+      "angle": "Public health expert argues that the ACIP fight is a distraction from RFK Jr.'s broader dismantling of advisory infrastructure across multiple agencies; the panel fight is the visible tip"
+    }
+  ],
+  "brief": {
+    "actors": ["RFK Jr.", "Trump", "HHS", "CDC"],
+    "whatHappened": "US District Court Judge Brian Murphy issued an emergency stay on April 15 blocking all changes to the national vaccine schedule and immunization advisory infrastructure made by the Trump administration since January 2026. The ruling came after a lawsuit by the American Academy of Pediatrics challenging HHS Secretary RFK Jr.'s dismissal of expert advisers and unilateral revisions to childhood immunization recommendations. The order froze the Advisory Committee on Immunization Practices schedule and halted a planned ACIP meeting. Within hours, HHS announced it was revising the criteria for ACIP membership, a move that sidesteps the court order by creating a new application process rather than reinstating the blocked nominees.",
+    "bottomLine": "The courts are restraining RFK Jr.'s vaccine agenda one maneuver at a time, and RFK Jr. is generating one new maneuver per ruling: the battle is not over the vaccine schedule, it's over whether any institutional check on the executive can survive long enough to matter.",
+    "hiddenBets": [
+      {
+        "assumption": "The court order is an effective check on HHS vaccine policy",
+        "whyItMightBeWrong": "The order freezes the vaccine schedule as of January 2026. It does not restore the advisory infrastructure that was dismantled before January 2026, before the lawsuit was filed, or through mechanisms the court order did not specifically address. The CIDRAP analysis suggests the ACIP fight is a distraction: the more consequential dismantling happened in the FDA's drug approval infrastructure and CDC's disease surveillance networks, neither of which is addressed by this ruling."
+      },
+      {
+        "assumption": "RFK Jr.'s ACIP membership revision is a legitimate administrative response to the court ruling",
+        "whyItMightBeWrong": "A federal judge has now blocked one set of ACIP changes as unlawful. Immediately revising the criteria to produce different nominees who would reach the same policy outcomes is not compliance with the court order; it is creative compliance theater. If the revised criteria produce the same composition and the same policy shifts, the AAP will file another lawsuit, and the court will face the question of whether the revision was made in good faith."
+      },
+      {
+        "assumption": "Restoring the pre-January vaccine schedule protects children's health",
+        "whyItMightBeWrong": "The court order was sought and won by the American Academy of Pediatrics, which represents the mainstream medical community. But the pre-January schedule already reflected years of scientific consensus that the medical establishment considers sound. What the order protects is the institutional process, not any specific vaccine outcome. If the pre-January schedule itself were suboptimal on any particular vaccine, the court freeze would lock in that suboptimality along with everything else."
+      }
+    ],
+    "realDisagreement": "The core tension is between two different theories of what public health expertise is for. The mainstream position is that immunization policy should be made by credentialed experts insulated from political pressure, because vaccination decisions aggregate across millions of people and political interference produces systematically worse health outcomes. RFK Jr.'s position, stated consistently, is that the current expert infrastructure has failed to honestly evaluate vaccine risks and has been captured by pharmaceutical industry interests. Both positions are internally coherent. The problem is that the mainstream position's evidence base is strong but its defenders refuse to engage seriously with specific critiques, while RFK Jr.'s critiques occasionally land on real problems (there are documented failures in the FDA approval process) but are embedded in a broader framework that has repeatedly been wrong. I lean toward the institutional expertise model, at real cost: it means defending the legitimacy of institutions that have genuinely made mistakes and that have, in some cases, genuinely failed the people who trusted them.",
+    "whatNoOneIsSaying": "The American Academy of Pediatrics won this lawsuit today. It has done so by defending institutional process rather than specific scientific claims. The AAP is not required to demonstrate in court that any particular RFK Jr. change would harm children; it only needs to show that the process for making that change violated administrative law. That is a strategic advantage in litigation. It also means the legal system is adjudicating the form of the decision, not its substance. A future administration, or this one through revised procedures, could make the same substantive changes through a process that satisfies the court's procedural requirements, and the AAP would have no grounds for challenge.",
+    "whoPays": [
+      {
+        "who": "Parents navigating childhood vaccination decisions in 2026",
+        "how": "The policy uncertainty created by the fight over the advisory infrastructure means physicians are receiving conflicting guidance. Recommendations that were stable for years are now in legal limbo. Some pediatricians are advising parents to follow the pre-January schedule; others are uncertain which recommendations remain valid.",
+        "when": "Immediate and ongoing through the legal resolution"
+      },
+      {
+        "who": "Vaccine-preventable disease surveillance programs",
+        "how": "The CIDRAP analysis documents that dismantling of CDC advisory and surveillance infrastructure extends beyond ACIP. Disease tracking systems that provided early warning of outbreaks are understaffed or discontinued. The damage here does not show up until a preventable outbreak occurs.",
+        "when": "Slow-burn with acute risk spikes"
+      },
+      {
+        "who": "Children in communities with lower baseline vaccination rates",
+        "how": "Policy instability reduces vaccination uptake most sharply in communities with preexisting vaccine hesitancy, where any signal of official uncertainty is taken as confirmation of doubt. The institutional fight in Washington translates into real coverage gaps in rural and low-income areas.",
+        "when": "6-18 months for measurable effect on coverage rates"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Whack-a-Mole Stalemate",
+        "whatHappens": "HHS continues issuing revised ACIP criteria and procedures; the AAP continues filing lawsuits; courts continue issuing stays on each new iteration. The vaccine schedule remains frozen in de facto legal limbo for months. No major policy change is actually implemented; no major rollback is actually secured.",
+        "signal": "A second court ruling within 60 days blocking the revised ACIP criteria that HHS announced today."
+      },
+      {
+        "name": "SCOTUS Resolution",
+        "whatHappens": "The DC Circuit or SCOTUS takes up the question of how much deference courts should give HHS on vaccine advisory committee composition. A ruling that limits judicial intervention in executive agency personnel decisions opens the door for RFK Jr.'s agenda to proceed. A ruling that affirms broad AAP standing closes it.",
+        "signal": "HHS formally appeals Judge Murphy's order to the DC Circuit; the administration requests expedited review."
+      },
+      {
+        "name": "Congressional Override",
+        "whatHappens": "Congressional Republicans pass legislation codifying specific changes to the vaccine advisory process that circumvent the court's administrative law analysis. The AAP's procedural lawsuit loses its grip. The substantive policy debate moves from courts to Congress.",
+        "signal": "Senate HELP Committee introduces standalone legislation on ACIP composition and authority within the next 60 days."
+      }
+    ],
+    "whatWouldChange": "If an independent review of RFK Jr.'s specific ACIP nominees showed that their credentials, while unconventional, include legitimate scientific work that is simply outside the mainstream consensus, the case that this is anti-science dismantling rather than heterodox reform becomes harder to sustain. That would shift the analysis from institutional capture to genuine expert disagreement."
+  }
+}

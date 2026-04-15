@@ -1,6 +1,6 @@
 {
   "date": "2026-04-15",
-  "generatedAt": "2026-04-15T13:30:00Z",
+  "generatedAt": "2026-04-15T22:55:00Z",
   "reports": [
     {
       "id": "ai-liability-split",
@@ -36,6 +36,36 @@
       "id": "ohio-abortion-constitutional-defiance",
       "title": "Ohio Voters Put Abortion Rights in the Constitution. The Legislature Is Systematically Dismantling Them Anyway.",
       "subtitle": "The SHE WINS Act is the 11th Ohio bill targeting abortion since voters enshrined reproductive freedom in the state constitution by 57% in 2023. The real test is whether the Ohio Supreme Court will honor the referendum.",
+      "category": "power"
+    },
+    {
+      "id": "trump-fires-powell",
+      "title": "Trump Threatens to Fire Powell. The Market Says He Won't Get What He Wants Either Way.",
+      "subtitle": "The Federal Reserve chair's term ends May 15, but his replacement can't get confirmed, a criminal investigation is blocking the vote, and Powell says he's staying. No one is getting a rate cut.",
+      "category": "power"
+    },
+    {
+      "id": "hormuz-china-blockade",
+      "title": "The Hormuz Blockade Is Not About Iran. It's About What China Will Agree to Before Trump Arrives in Beijing.",
+      "subtitle": "The US naval embargo that's halting oil tankers in the world's most critical shipping lane has a secondary audience of one: Xi Jinping, who needs that oil and who Trump is visiting in six weeks.",
+      "category": "power"
+    },
+    {
+      "id": "eu-age-verification-children",
+      "title": "The EU Just Built the Infrastructure to Ban Children from Social Media. The Harder Question Is Who Decides What a Child Is.",
+      "subtitle": "Von der Leyen announced an EU age verification app today. Canada is going further and applying the same logic to AI chatbots. The technology exists. The politics are just beginning.",
+      "category": "power"
+    },
+    {
+      "id": "eu-sanctions-israel-hungary",
+      "title": "Orban Lost His Election. His Israel Policy Did Not.",
+      "subtitle": "Hungary's incoming leader Peter Magyar says he will keep the veto on EU sanctions against Israel. Five countries want to punish Israel for Gaza. One country can stop all of them. And the EU is starting to ask whether the unanimity rule should survive this.",
+      "category": "power"
+    },
+    {
+      "id": "rfk-vaccine-court",
+      "title": "A Judge Froze RFK Jr.'s Vaccine Changes. He's Already Working Around the Ruling.",
+      "subtitle": "US District Judge Brian Murphy blocked all Trump-era changes to the national vaccine schedule. The same day, HHS announced new criteria for the advisory panel RFK Jr. had already stacked. The courts and the executive are playing whack-a-mole with public health infrastructure.",
       "category": "power"
     }
   ]

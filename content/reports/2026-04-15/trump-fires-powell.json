@@ -1,0 +1,112 @@
+{
+  "id": "trump-fires-powell",
+  "date": "2026-04-15",
+  "generatedAt": "2026-04-15T22:30:00Z",
+  "title": "Trump Threatens to Fire Powell. The Market Says He Won't Get What He Wants Either Way.",
+  "subtitle": "The Federal Reserve chair's term ends May 15, but his replacement can't get confirmed, a criminal investigation is blocking the vote, and Powell says he's staying. No one is getting a rate cut.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["federal-reserve", "trump", "jerome-powell", "kevin-warsh", "interest-rates", "tariffs"],
+  "coverImage": {
+    "url": "https://www.theglobeandmail.com/resizer/v2/TMNIWFPMPREV5CU7HY72WIPI5Q.jpg?auth=95c74b6c831074502d3d025be4142fa16b8b8b8a905638d16596302026298115&width=1200&height=800&quality=80&smart=true",
+    "local": "/images/reports/2026-04-15/trump-fires-powell.jpg",
+    "credit": "The Globe and Mail / Sophie Park / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://toronto.citynews.ca/2026/04/15/trump-threatens-to-fire-powell-if-the-fed-chair-remains-with-central-bank-after-his-term-ends/",
+      "publisher": "City News / Associated Press",
+      "angle": "Breaking news on Trump's Fox Business threat; federal prosecutors made an unannounced visit to the Fed building construction site, were turned away; details on Tillis blocking Warsh confirmation"
+    },
+    {
+      "url": "https://edition.cnn.com/2026/04/14/economy/new-disclosures-show-trumps-fed-nominee-has-extensive-financial-ties",
+      "publisher": "CNN",
+      "angle": "Confirms April 21 Warsh confirmation hearing; details Tillis's hard no position, Warren calling Warsh a 'Trump sock puppet'; Pirro's investigation described as having 'embarrassing setbacks'"
+    },
+    {
+      "url": "https://www.theglobeandmail.com/business/international-business/us-business/article-donald-trump-threatens-to-fire-jerome-powell-from-federal-reserve/",
+      "publisher": "The Globe and Mail",
+      "angle": "Explains the full board composition and why Trump needs multiple seats to control monetary policy; frames the firing threat as driven by need to clear board space for Warsh"
+    },
+    {
+      "url": "https://uk.finance.yahoo.com/news/trumps-fed-chair-nominee-face-194242268.html",
+      "publisher": "AFP / Yahoo Finance",
+      "angle": "Bessent calls Warsh confirmation a certainty despite obstacles; notes Iran war and blockade are complicating the rate question by fueling inflation"
+    },
+    {
+      "url": "https://www.npr.org/2026/04/15/nx-s1-5786478/trump-federa-reserve-jerome-powell",
+      "publisher": "NPR",
+      "angle": "Frames the threat as continuation of a long campaign to undermine Fed independence; notes SCOTUS is simultaneously hearing a case on whether Trump can fire Fed Governor Lisa Cook"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Powell", "Warsh", "Pirro", "Tillis", "Warren", "Bessent", "Fed"],
+    "whatHappened": "President Trump threatened on April 15 to fire Federal Reserve Chair Jerome Powell from his seat on the Fed's Board of Governors if Powell remains after his term as chair expires May 15. Powell has said he will not leave the board until a Justice Department investigation into a $2.5 billion Fed building renovation is completed with 'transparency and finality.' The investigation is being run by DC US Attorney Jeanine Pirro, whose prosecutors made an unannounced visit to the construction site this week and were turned away. The probe has stalled Senate confirmation of Trump's Fed chair nominee Kevin Warsh: Republican Senator Thom Tillis holds the decisive vote and says he is a 'hard no' until the DOJ investigation is dropped.",
+    "bottomLine": "Trump's campaign to control the Fed is collapsing under its own weight: the investigation he launched to pressure Powell into resigning is now the single biggest obstacle to getting his preferred replacement confirmed.",
+    "hiddenBets": [
+      {
+        "assumption": "Dropping the DOJ investigation would clear the path to Warsh's confirmation",
+        "whyItMightBeWrong": "Even if Tillis flips, Senate Democrats are unified against Warsh and can use procedural tools to slow the process. Warren's 'Trump sock puppet' framing signals a floor fight, not a rubber stamp. And even a confirmed Warsh cannot guarantee rate cuts: inflation from the Iran war is real, and the Fed's institutional pressure against premature easing remains regardless of who holds the gavel."
+      },
+      {
+        "assumption": "Firing Powell from the board would give Trump effective control of rate policy",
+        "whyItMightBeWrong": "Of the Fed's seven governors, three were Biden appointees, one (Powell) was a Trump appointee who proved independent, and the majority resist rate cuts. Firing Powell clears one seat, but Stephen Miran's seat has already expired. Trump would still need to confirm multiple new governors to dominate the board, which requires Senate votes he doesn't have secured."
+      },
+      {
+        "assumption": "The Iran war and tariff pressures are an argument for rate cuts",
+        "whyItMightBeWrong": "The Fed sees the same data Trump sees and interprets it differently. Energy shocks from the Hormuz blockade are inflationary, not deflationary. The 'double danger' framing from Fed officials suggests the central bank is more likely to hold or raise rates than cut them regardless of Trump's preferences or who chairs the institution."
+      }
+    ],
+    "realDisagreement": "The actual fork is whether the Federal Reserve's independence is a load-bearing feature of the US economy or an institutional fiction that has outlived its usefulness. Trump's position, stated openly, is that the Fed should respond to elected officials on rate decisions. The counter-position is that any signal of political control over monetary policy immediately undermines global confidence in dollar-denominated debt. Both propositions are defensible. The problem is they are incompatible: you cannot have an independent Fed and a politically controlled Fed simultaneously. I'd lean toward the institutional independence side, but at real cost: it means accepting higher interest rates during a war, which concentrates pain on mortgage holders and small businesses while insulating financial markets that benefit from dollar credibility.",
+    "whatNoOneIsSaying": "The DOJ investigation into Powell's renovation testimony is, by the administration's own prosecutors' admission, supported by no evidence of a crime. Keeping it running is not a legal strategy. It is a negotiating chip being held past its useful life because dropping it would mean conceding that it was never legitimate. The result is a situation where Pirro won't drop a probe that even a federal judge called 'pretextual,' and Tillis won't vote for Warsh until she does, and Trump won't make Pirro drop it because he refuses to admit he was wrong. The logjam is entirely self-made.",
+    "whoPays": [
+      {
+        "who": "Homebuyers and small business owners",
+        "how": "The longer the Fed confirmation fight drags on, the longer uncertainty around monetary policy keeps borrowing costs elevated. Rates that might have been cut are held steady or raised because no one knows who will run the institution in six weeks.",
+        "when": "Immediate and ongoing through at least Q3 2026"
+      },
+      {
+        "who": "Kevin Warsh",
+        "how": "His nomination is hostage to an investigation his own backer launched for unrelated political reasons. His financial disclosures are being scrutinized for Epstein ties and $130 million in assets. If the hearing proceeds April 21 with Tillis still a no, it becomes a public flogging with no vote at the end.",
+        "when": "Immediate"
+      },
+      {
+        "who": "Global dollar-denominated debt holders",
+        "how": "Each escalation in the Fed independence fight marginally raises the risk premium on US sovereign debt. The damage is slow and cumulative but real: foreign holders of Treasuries are watching a president threaten to fire the central bank chair for political reasons, which is the scenario that historically triggers capital flight.",
+        "when": "Slow-burn, materializing over months to years if the conflict continues"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "The Pirro Retreat",
+        "whatHappens": "DOJ quietly winds down the investigation in the next two weeks; Tillis flips to yes; Warsh is confirmed by end of May after Powell's term expires. Powell leaves the board voluntarily. Warsh begins signaling rate cuts for summer.",
+        "signal": "Pirro stops making public statements about the investigation; a federal court filing shows her office is not appealing Boasberg's ruling."
+      },
+      {
+        "name": "The Long Standoff",
+        "whatHappens": "Investigation continues; Warsh hearing proceeds April 21 with Tillis as a no; vote is blocked or indefinitely delayed. Powell remains as chair past May 15, defying Trump. Trump issues an executive order attempting to remove Powell from the board; SCOTUS takes the case. No rate policy changes until late 2026.",
+        "signal": "Trump signs an executive action on Fed personnel before May 15; Powell issues a public statement refusing to comply."
+      },
+      {
+        "name": "The Recess Appointment",
+        "whatHappens": "Trump uses a congressional recess to install Warsh without Senate confirmation, citing the urgency of the Iran war. The legality is contested. Warsh votes to cut rates at the next FOMC meeting. Markets rally and then immediately reprice downward as the legal challenge mounts.",
+        "signal": "Senate Republicans announce a targeted recess break in May; Bessent stops saying 'I'm confident Warsh will be confirmed' and starts saying 'the President has options.'"
+      }
+    ],
+    "whatWouldChange": "If inflation data for April shows a significant decline despite the Iran war energy shock, the political case for rate cuts becomes harder to dismiss and the Fed's resistance softens. That would change the bottom line from 'no one gets what they want' to 'Trump wins on rates even if he loses on personnel.'",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Fed cut rates before Kevin Warsh is confirmed as Fed Chair?",
+        "url": "https://polymarket.com/event/what-will-happen-before-kevin-warsh-is-confirmed",
+        "probability": 0.05
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US recession by end of 2026?",
+        "url": "https://polymarket.com/event/us-recession-by-end-of-2026",
+        "probability": 0.285
+      }
+    ]
+  }
+}
