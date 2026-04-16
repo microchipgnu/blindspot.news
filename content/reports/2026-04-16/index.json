@@ -1,6 +1,6 @@
 {
   "date": "2026-04-16",
-  "generatedAt": "2026-04-16T08:25:00Z",
+  "generatedAt": "2026-04-16T10:20:00Z",
   "reports": [
     {
       "id": "iran-hormuz-blockade",
@@ -31,6 +31,36 @@
       "title": "Five Countries, One Law They Cannot Write",
       "subtitle": "Canada, Australia, the EU, and multiple US states are all trying to ban social media for minors. None of them know how to enforce it.",
       "category": "power"
+    },
+    {
+      "id": "china-iran-weapons-deal",
+      "title": "The Deal That Depends on Beijing Keeping Its Word",
+      "subtitle": "Trump says China agreed not to arm Iran. That claim is doing enormous diplomatic work for a ceasefire that does not yet exist.",
+      "category": "conflict"
+    },
+    {
+      "id": "imf-recession-iran-war",
+      "title": "The IMF Is Describing a Recession. Bessent Is Calling It a Strategy.",
+      "subtitle": "The IMF cut global growth forecasts and warned the Iran war could tip the world into recession. The US Treasury Secretary told the BBC the pain is worth it.",
+      "category": "decision"
+    },
+    {
+      "id": "nvidia-chip-smuggling",
+      "title": "Jensen Huang Said There Was No Evidence. There Were Six Indictments.",
+      "subtitle": "Federal prosecutors have charged six men in three weeks with smuggling billions in Nvidia chips to China. The CEO who denied it is now selling chips to the US government instead.",
+      "category": "power"
+    },
+    {
+      "id": "presidential-records-act",
+      "title": "The DOJ Just Said Trump Can Burn His Papers",
+      "subtitle": "The Justice Department declared the Presidential Records Act unconstitutional. The law was passed because a president tried to do exactly this before.",
+      "category": "power"
+    },
+    {
+      "id": "icj-climate-legal-obligation",
+      "title": "Courts Are Making Climate Policy Because Governments Won't",
+      "subtitle": "The ICJ's 2025 advisory opinion is now triggering binding rulings from The Hague to the Caribbean. The Dutch government is appealing. Governments worldwide are watching who wins.",
+      "category": "conflict"
     }
   ]
 }

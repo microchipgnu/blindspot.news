@@ -1,0 +1,99 @@
+{
+  "id": "presidential-records-act",
+  "date": "2026-04-16",
+  "generatedAt": "2026-04-16T10:15:00Z",
+  "title": "The DOJ Just Said Trump Can Burn His Papers",
+  "subtitle": "The Justice Department declared the Presidential Records Act unconstitutional. The law was passed because a president tried to do exactly this before.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["Trump", "DOJ", "OLC", "National Archives", "Presidential Records Act", "Watergate", "democracy"],
+  "coverImage": {
+    "url": "https://images.theconversation.com/files/729543/original/file-20260413-57-u4xqt9.jpg?ixlib=rb-4.1.0&rect=0%2C251%2C2999%2C1499&q=45&auto=format&w=1356&h=668&fit=crop",
+    "local": "/images/reports/2026-04-16/presidential-records-act.jpg",
+    "credit": "The Conversation / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://theconversation.com/a-justice-department-opinion-arguing-the-presidential-records-act-is-unconstitutional-could-revert-the-nation-to-a-time-when-presidents-freely-burned-their-papers-280078",
+      "publisher": "The Conversation",
+      "angle": "Historical context: before 1978, presidents owned their records; the OLC opinion could revert to that pre-Watergate norm."
+    },
+    {
+      "url": "https://www.justsecurity.org/136242/presidential-records-act-constitutional/",
+      "publisher": "Just Security",
+      "angle": "Legal rebuttal: the opinion is deeply surprising because no serious scholarship had questioned the PRA's constitutionality; it will not survive judicial review."
+    },
+    {
+      "url": "https://www.nbcnews.com/politics/justice-department/justice-department-says-trump-not-turn-presidential-records-rcna266434",
+      "publisher": "NBC News",
+      "angle": "News report: OLC concluded Trump does not need to turn over presidential records to the National Archives at end of administration."
+    },
+    {
+      "url": "https://abcnews.com/US/doj-rejecting-decades-law-trump-presidential-records/story?id=131668575",
+      "publisher": "ABC News",
+      "angle": "The opinion could keep future presidential records from public view; it explicitly argues the PRA is untethered from constitutional authority."
+    },
+    {
+      "url": "https://www.justice.gov/olc/media/1434131/dl",
+      "publisher": "DOJ / OLC",
+      "angle": "The opinion itself: argues the PRA is facially unconstitutional because it exceeds Congress's enumerated powers and aggrandizes the Legislative Branch at the expense of executive independence."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "DOJ", "OLC", "National Archives", "Congress"],
+    "whatHappened": "On April 1, 2026, the Department of Justice's Office of Legal Counsel issued a memorandum concluding that the Presidential Records Act of 1978 is facially unconstitutional. The opinion, written by Assistant Attorney General T. Elliot Gaiser, argues the law exceeds Congress's enumerated powers and impermissibly limits executive independence. The PRA was passed in the wake of Watergate specifically because Richard Nixon tried to retain and destroy incriminating presidential materials. Under the opinion, Trump would not be required to transfer his presidential records to the National Archives at the end of his term. Just Security's legal experts called the opinion 'surprising' and noted there is essentially no prior scholarship questioning the law's constitutionality.",
+    "bottomLine": "A president who has been prosecuted for mishandling presidential records has directed his Justice Department to declare the law against mishandling presidential records unconstitutional. The timing and authorship make the legal argument secondary to the operational objective.",
+    "hiddenBets": [
+      {
+        "assumption": "An OLC opinion changes legal reality.",
+        "whyItMightBeWrong": "OLC opinions bind executive branch agencies but are not law. Courts have never upheld an OLC opinion that contradicted decades of settled statutory compliance. If challenged, the PRA's constitutionality would be evaluated by federal courts that will review whether Congress has enumerated power to require record preservation. The answer is almost certainly yes, under the Property Clause and Congress's inherent oversight authority."
+      },
+      {
+        "assumption": "This is primarily about historical record access.",
+        "whyItMightBeWrong": "The more immediate effect is that agencies under Trump's direction can refuse FOIA requests and congressional subpoenas for records on the grounds that the records belong to the president personally and were never government property. This is a live legal argument in ongoing litigation, not just a future archive question."
+      },
+      {
+        "assumption": "Future presidents benefit equally from this precedent.",
+        "whyItMightBeWrong": "OLC opinions are used by the executive branch that issues them. A future Democratic administration's OLC can simply withdraw this opinion. The precedent created is not legal: it is normative, establishing that executive branch lawyers will write opinions justifying whatever the current president needs. That norm persists across parties."
+      }
+    ],
+    "realDisagreement": "The genuine fork is whether OLC opinions are legitimate uses of executive legal interpretation or instruments of self-dealing. The traditional view holds that OLC is a check on executive branch overreach, offering neutral legal analysis that the White House must follow even when it dislikes the answer. The current practice treats OLC as a legal justification factory: identify the outcome, write the opinion backward from there. Both views describe real OLC functions. The fork matters because one version produces a functional separation of powers and the other produces a presidency that can legally justify anything by hiring the right lawyers. The current administration has made clear which version it is operating under. The question is whether Congress or the courts will enforce the other one.",
+    "whatNoOneIsSaying": "The PRA was passed because of Nixon. Nixon's key surviving argument was that his records were his personal property. The DOJ just revived that argument and won, within the executive branch. The next president who loses a close election will have no legal obligation to preserve any evidence of what they did.",
+    "whoPays": [
+      {
+        "who": "Future accountability investigations",
+        "how": "If presidential records are personal property, congressional committees, special counsels, and future administrations have no legal right of access. Watergate-style accountability becomes legally impossible.",
+        "when": "Immediate for ongoing litigation; systemic for future presidencies"
+      },
+      {
+        "who": "National Archives staff and archivists",
+        "how": "Their institutional function is to receive and preserve presidential records. Under this opinion, they can be refused records by any president who adopts the OLC argument. Their legal authority to demand compliance is nullified.",
+        "when": "Current and end of current term"
+      },
+      {
+        "who": "Historians and the public",
+        "how": "Presidential decision-making becomes permanently unverifiable if records are never transferred. The public loses the ability to understand how power was exercised for decades after the fact.",
+        "when": "Long-term, upon end of term"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Courts reject the opinion",
+        "whatHappens": "A lawsuit challenging the OLC opinion reaches federal courts; judges rule the PRA is constitutional; Archives reasserts its authority; Trump complies under court order.",
+        "signal": "A federal district court issues a preliminary injunction requiring record preservation pending a constitutional challenge."
+      },
+      {
+        "name": "Opinion stands and spreads",
+        "whatHappens": "No court challenge materializes in time; Trump transfers no records at end of term; the opinion becomes a template other agencies cite for resisting oversight.",
+        "signal": "A cabinet department cites the OLC opinion as grounds for refusing a congressional records subpoena by June."
+      },
+      {
+        "name": "Congress legislates",
+        "whatHappens": "Bipartisan backlash produces a new statutory framework with criminal penalties and automatic transfer mechanisms that are harder to challenge; the OLC opinion is rendered moot.",
+        "signal": "A Senate Records Preservation Act passes committee with Republican co-sponsors by July."
+      }
+    ],
+    "whatWouldChange": "If a federal court rules the PRA constitutional on the merits, the bottom line is wrong: the DOJ opinion is legally irrelevant. If the opinion is used within months to successfully block a congressional subpoena for records, the bottom line is confirmed and the institutional damage is already done.",
+    "markets": []
+  }
+}
