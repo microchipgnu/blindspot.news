@@ -172,6 +172,63 @@
           "relationship": "Maine's moratorium and Anthropic's capability restrictions are both attempts to create governance structures for AI before there are mandatory ones; both depend entirely on the willingness of the constrained party to accept the constraint, which creates identically fragile enforcement."
         }
       ]
+    },
+    {
+      "id": "wars-of-distraction",
+      "title": "The War That Broke the Queue",
+      "description": "Two stories today are connected by the same structural fact: the Iran war has become a priority-allocation mechanism for US attention, and everything else is being rationed around it. Ukraine's peace negotiators are in Muscat. The IMF warned of global recession. India is quietly building censorship infrastructure. All of this is happening in the space that the Iran war has opened up by consuming the diplomatic bandwidth of the world's most influential government. The thread is not about Iran. It is about what happens in the gaps created by an administration with finite capacity running multiple simultaneous crises.",
+      "type": "dependency-web",
+      "stories": ["ukraine-us-distracted", "iran-hormuz-blockade", "senate-iran-war-powers"],
+      "connections": [
+        {
+          "from": "iran-hormuz-blockade",
+          "to": "ukraine-us-distracted",
+          "relationship": "The Hormuz blockade is the operational reason Witkoff and Kushner are in Muscat instead of Kyiv; the ceasefire Zelenskyy needs is structurally impossible to prioritize while the Iran ceasefire is still being negotiated."
+        },
+        {
+          "from": "senate-iran-war-powers",
+          "to": "ukraine-us-distracted",
+          "relationship": "The Senate's failure to pass a war powers resolution keeps the Iran conflict's legal status unresolved, which means US diplomatic and military leadership stays focused on its domestic authorization problem rather than the Ukraine track."
+        }
+      ]
+    },
+    {
+      "id": "after-the-strongman",
+      "title": "After the Strongman",
+      "description": "Hungary's election is the only story today where a democracy beat an authoritarian on his home turf. But it connects to three others through a shared structural problem: institutions built by powerful actors to perpetuate their control do not dissolve when the actor loses. Orban spent 16 years building state media, captured courts, and a clientelist economy. The SCOTUS shadow docket is a different mechanism but the same product: a decision-making infrastructure that generates outcomes without producing a record reviewable by outsiders. The Indian IT Rules are the same machinery being built in advance. The lesson each story teaches about the others is that capturing institutions is fast and cheap; reversing it is slow and expensive.",
+      "type": "tension-cluster",
+      "stories": ["hungary-magyar-orban-end", "scotus-shadow-docket", "india-it-rules-2026"],
+      "connections": [
+        {
+          "from": "hungary-magyar-orban-end",
+          "to": "india-it-rules-2026",
+          "relationship": "Orban's capture of state media took years and required gradual ratcheting of legal instruments; India is building the equivalent infrastructure in a single regulatory amendment cycle, with the advantage of not needing to capture media organizations directly when you can make platforms do it."
+        },
+        {
+          "from": "scotus-shadow-docket",
+          "to": "hungary-magyar-orban-end",
+          "relationship": "The shadow docket's insulation from review is the same design principle Orban used to make Hungary's Constitutional Court unreviewable after 2013; Magyar faces an institution engineered to perpetuate outcomes beyond electoral control, just as Jackson is describing from the inside."
+        }
+      ]
+    },
+    {
+      "id": "who-pays-for-the-platform",
+      "title": "Who Pays for the Platform",
+      "description": "The AI copyright story and the India IT Rules story are both about platforms caught between two sets of claimants who both want something the platform cannot give both at once. AI companies trained on artists' work and now face demands for compensation from creators who have no enforcement mechanism. India's platforms face binding advisory demands from ministries and free speech demands from users who have no recourse. In both cases, the platforms will comply with the party that has legal and market leverage, not the party with the stronger moral claim. The two stories together show that platform governance is converging globally toward the same outcome: whoever can credibly threaten the business model wins.",
+      "type": "tension-cluster",
+      "stories": ["ai-copyright-training-data", "india-it-rules-2026", "social-media-ban-minors"],
+      "connections": [
+        {
+          "from": "india-it-rules-2026",
+          "to": "ai-copyright-training-data",
+          "relationship": "Both create compliance obligations for platforms where the party with enforcement power (governments, settling plaintiffs) has leverage and the party with the moral claim (censored users, unpaid artists) does not; in both cases platforms will optimize for the party that can remove their legal protection."
+        },
+        {
+          "from": "social-media-ban-minors",
+          "to": "india-it-rules-2026",
+          "relationship": "India's binding advisory mechanism is structurally more effective than the minor ban laws, because it does not require platform implementation of age verification; it bypasses the enforcement gap by making the advisory itself the mechanism, regardless of platform compliance."
+        }
+      ]
     }
   ]
 }

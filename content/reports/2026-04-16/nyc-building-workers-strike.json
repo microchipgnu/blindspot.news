@@ -1,0 +1,93 @@
+{
+  "id": "nyc-building-workers-strike",
+  "date": "2026-04-16",
+  "generatedAt": "2026-04-16T22:40:00Z",
+  "title": "34,000 NYC Building Workers Just Authorized a Strike. The Mayor Cheered.",
+  "subtitle": "The contract deadline is April 20. Mayor Mamdani is standing with the union, not between the parties. That changes what a strike would mean.",
+  "topic": "economy",
+  "category": "conflict",
+  "tags": ["NYC", "labor", "strike", "32BJ SEIU", "housing", "Mamdani", "real estate"],
+  "coverImage": {
+    "url": "https://brooklyneagle.com/wp-content/uploads/2026/04/building-workers-strike-06-Mamdani-32BJSEIU-scaled.jpg",
+    "local": "/images/reports/2026-04-16/nyc-building-workers-strike.jpg",
+    "credit": "Brooklyn Eagle / 32BJ SEIU"
+  },
+  "sources": [
+    {
+      "url": "https://www.usatoday.com/story/news/2026/04/16/nyc-doormen-may-go-on-strike-with-1-5-million-affected-what-to-know/89644255007/",
+      "publisher": "USA Today",
+      "angle": "National coverage of the scale: 1.5 million residents affected, services including trash, security, and maintenance at risk"
+    },
+    {
+      "url": "https://brooklyneagle.com/381161/building-workers-authorize-citywide-strike-with-mamdanis-support/",
+      "publisher": "Brooklyn Eagle",
+      "angle": "Ground-level account of the Park Avenue rally; Mayor Mamdani appeared in person and said NYC 'will always be a union town'"
+    },
+    {
+      "url": "https://therealdeal.com/new-york/2026/04/16/doormen-residential-building-service-workers-vote-to-strike/",
+      "publisher": "The Real Deal",
+      "angle": "Real estate industry perspective: Realty Advisory Board's position, landlord calculus on labor costs vs. operational disruption"
+    },
+    {
+      "url": "https://abc7ny.com/post/nyc-building-workers-32bj-rally-upper-east-side-ahead-strike-authorization-vote/18892913/",
+      "publisher": "ABC7 New York",
+      "angle": "Building-level reporting: specific properties affected, worker pay demands, superintendent and porter concerns"
+    },
+    {
+      "url": "https://www.fox5ny.com/news/nyc-doormen-strike",
+      "publisher": "FOX 5 New York",
+      "angle": "Landlord and tenant impact framing; notes additional simultaneous strike wave involving NYC nurses"
+    }
+  ],
+  "brief": {
+    "actors": ["32BJ SEIU", "Mamdani", "Realty Advisory Board", "NYC"],
+    "whatHappened": "On April 15-16, more than 34,000 members of 32BJ SEIU, representing doormen, porters, superintendents, and other residential building service workers across 3,500 buildings in Manhattan, Brooklyn, Queens, and Staten Island, voted to authorize a strike. Their contract with the Realty Advisory Board (RAB), which represents building owners, expires April 20. If no deal is reached, workers could walk off the job as early as April 21, leaving an estimated 1.5 million New York City apartment residents without essential building services. Mayor Zohran Mamdani appeared at the Park Avenue rally to personally express support for the workers, not as a mediator but as an ally, calling New York 'a union town.'",
+    "bottomLine": "When a mayor shows up at a strike authorization rally instead of a negotiating table, the signal to building owners is not subtle: settle or hold the bag.",
+    "hiddenBets": [
+      {
+        "assumption": "The Realty Advisory Board will settle before April 20 to avoid disruption",
+        "whyItMightBeWrong": "Landlords have a strong financial incentive to hold out. A strike authorization is not a strike. Building owners know that Mamdani's political support for workers exists in tension with his responsibility to 1.5 million residents who will blame him if their garbage piles up for a week. Some landlords may calculate that maximum pressure, including actually letting the strike happen, forces a settlement on their terms."
+      },
+      {
+        "assumption": "A strike would be short, as labor actions in New York building services typically are",
+        "whyItMightBeWrong": "This is Mamdani's first major labor test as mayor. He has staked political credibility on the union side. If he brokers an early settlement that workers see as insufficient, he loses his left flank. If he lets it drag and city life degrades, he loses moderate voters. His incentive structure pushes him toward a settlement that looks like a union win, which requires him not to blink first. That can extend negotiations."
+      },
+      {
+        "assumption": "This is an isolated contract dispute",
+        "whyItMightBeWrong": "32BJ is simultaneously in overlapping contract periods with commercial building workers. NYC nurses went on strike the same week. A building workers strike layered on top of an ongoing nurses strike is not a coincidence; it is a labor market tightening to the point where multiple unions read their leverage as maximum simultaneously. What looks like separate disputes may be the same underlying pressure."
+      }
+    ],
+    "realDisagreement": "The actual fork is whether this is a moment of genuine labor power or a managed performance of labor power. Mamdani's presence at the rally suggests he wants to be seen as pro-worker. The Realty Advisory Board is also sophisticated enough to know that a mayor who campaigns on housing affordability cannot afford to let residential buildings go dark. Both sides are betting the other will blink. The workers have the more credible threat: they can walk, and Mamdani can't stop them without undercutting himself. The building owners have the more flexible timeline: they lose some services but they still own the buildings.",
+    "whatNoOneIsSaying": "Mamdani ran on housing affordability. The same building owners whose workers are striking are the landlords who control the rent rolls. A mayor who supports the strike authorization is simultaneously negotiating against the industry he needs to cooperate on housing development. Every concession 32BJ wins from the Realty Advisory Board is a concession that comes, eventually, out of the same economic calculation that determines whether landlords build new units or sit on existing ones.",
+    "whoPays": [
+      {
+        "who": "Elderly and disabled residents in doorman buildings",
+        "how": "Package delivery management, mail sorting, emergency response coordination, and basic maintenance in large buildings depend on this workforce. Disruption for those who cannot manage independently is not inconvenient; it is dangerous.",
+        "when": "Day one of any strike"
+      },
+      {
+        "who": "Low-wage building workers themselves",
+        "how": "Strike pay from SEIU covers a fraction of normal wages. Workers who live paycheck to paycheck bear the cost of any extended action even when they win.",
+        "when": "Immediately upon strike commencement"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Last-Minute Deal",
+        "whatHappens": "Building owners settle by April 19 under Mamdani's informal pressure. Workers get a meaningful wage increase and improved benefits. Mamdani claims credit. The real estate industry absorbs the cost.",
+        "signal": "RAB and 32BJ announce a 48-hour extension of contract talks before the April 20 deadline"
+      },
+      {
+        "name": "Short Strike, Quick Settlement",
+        "whatHappens": "Workers walk April 21. Three to five days of building service disruption. National media pressure on both sides. Settlement by April 25 on terms close to union demands.",
+        "signal": "Mamdani holds a press conference outside a struck building but does not call on workers to return to the table"
+      },
+      {
+        "name": "Extended Strike",
+        "whatHappens": "Negotiations stall for two or more weeks. Health and safety incidents in unstaffed buildings create political pressure on Mamdani to intervene as mediator. He has to choose between his labor allies and his responsibility for city services.",
+        "signal": "City Department of Buildings issues emergency safety notices for large residential buildings after the first week of a strike"
+      }
+    ],
+    "whatWouldChange": "If Mamdani convenes both sides at Gracie Mansion before April 20 and positions himself as a mediator rather than a union backer, the dynamic changes entirely. That would signal he calculates the political risk of disruption outweighs the benefit of labor solidarity. Until then, the maximum pressure scenario holds."
+  }
+}

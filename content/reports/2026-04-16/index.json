@@ -91,6 +91,36 @@
       "title": "Anthropic Built a Weapon. Then It Built a Cage.",
       "subtitle": "Claude Opus 4.7 launched today with a built-in cybersecurity block. Anthropic admits it deliberately reduced the model's offensive capabilities. The question is whether deliberate reduction is enough.",
       "category": "ethics"
+    },
+    {
+      "id": "ukraine-us-distracted",
+      "title": "Zelenskyy Says Washington Has No Time for Ukraine",
+      "subtitle": "Russia launched 659 aerial targets at Ukraine on April 16 while the diplomats who are supposed to be negotiating Ukraine's peace deal were in Muscat talking to Iran.",
+      "category": "conflict"
+    },
+    {
+      "id": "hungary-magyar-orban-end",
+      "title": "Hungary After Orban Is Harder Than Hungary Without Orban",
+      "subtitle": "Peter Magyar won the election. Now he has to dismantle a state that was built to be impossible to dismantle from within.",
+      "category": "power"
+    },
+    {
+      "id": "nyc-building-workers-strike",
+      "title": "34,000 NYC Building Workers Just Authorized a Strike. The Mayor Cheered.",
+      "subtitle": "The contract deadline is April 20. Mayor Mamdani is standing with the union, not between the parties. That changes what a strike would mean.",
+      "category": "conflict"
+    },
+    {
+      "id": "india-it-rules-2026",
+      "title": "India Just Rewrote the Rules for Who Controls Speech Online",
+      "subtitle": "The 2026 IT Rules amendment gives government ministries direct power to order takedowns, make advisories binding, and remove safe harbour from platforms that don't comply within hours.",
+      "category": "power"
+    },
+    {
+      "id": "ai-copyright-training-data",
+      "title": "AI Companies Trained on Artists' Work. Now Everyone Is Arguing About Who Owns What.",
+      "subtitle": "The Supreme Court declined to rule on AI-generated copyright. Anthropic settled with authors for $1.5 billion. Chicken Soup for the Soul sued eight AI companies at once. The law has not kept up.",
+      "category": "ethics"
     }
   ]
 }

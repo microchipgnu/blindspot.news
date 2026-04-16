@@ -1,0 +1,93 @@
+{
+  "id": "ai-copyright-training-data",
+  "date": "2026-04-16",
+  "generatedAt": "2026-04-16T22:50:00Z",
+  "title": "AI Companies Trained on Artists' Work. Now Everyone Is Arguing About Who Owns What.",
+  "subtitle": "The Supreme Court declined to rule on AI-generated copyright. Anthropic settled with authors for $1.5 billion. Chicken Soup for the Soul sued eight AI companies at once. The law has not kept up.",
+  "topic": "tech",
+  "category": "ethics",
+  "tags": ["AI", "copyright", "training data", "artists", "fair use", "OpenAI", "Anthropic", "regulation"],
+  "coverImage": {
+    "url": "https://dims.apnews.com/dims4/default/fc94b2c/2147483647/strip/true/crop/5040x3358+1+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8c%2F1d%2Fc981718ae92cf6560991bf75652b%2F74b39721d7e242e38aba5d3e56476f88",
+    "local": "/images/reports/2026-04-16/ai-copyright-training-data.jpg",
+    "credit": "AP News"
+  },
+  "sources": [
+    {
+      "url": "https://mashable.com/article/the-ai-doc-creators-artificial-intelligence-copyright-battle",
+      "publisher": "Mashable",
+      "angle": "Artist and filmmaker perspective on AI training data theft; the cultural economy argument for why licensing matters beyond money"
+    },
+    {
+      "url": "https://kipcurrierethics.blogspot.com/2026/03/chicken-soup-for-soul-sues-ai-firms-for.html",
+      "publisher": "Publishers Weekly (via blog)",
+      "angle": "Details of March 2026 suit against OpenAI, Anthropic, Google, Meta, xAI, Perplexity, Apple, and Nvidia simultaneously; 'single act' copyright framing"
+    },
+    {
+      "url": "https://kipcurrierethics.blogspot.com/2026/03/us-supreme-court-declines-to-hear.html",
+      "publisher": "Reuters (via blog)",
+      "angle": "SCOTUS declining to resolve AI-generated copyright question, leaving lower court splits intact"
+    },
+    {
+      "url": "https://www.mondaq.com/unitedstates/copyright/1773142/ai-code-leak-exposes-the-fault-lines-of-copyright",
+      "publisher": "Mondaq / Law Firm Analysis",
+      "angle": "How leaked training data details have exposed specific copyright claims that were previously theoretical"
+    },
+    {
+      "url": "https://www.lewissilkin.com/insights/2026/04/16/eu-artificial-intelligence-act-timeline",
+      "publisher": "Lewis Silkin Law",
+      "angle": "EU AI Act's approach to training data transparency requirements, which differ fundamentally from US fair use doctrine"
+    }
+  ],
+  "brief": {
+    "actors": ["OpenAI", "Anthropic", "Meta", "Google", "SCOTUS", "EU", "artists"],
+    "whatHappened": "The AI copyright question has escalated from theoretical to litigated to settled and back to unsettled in the space of 18 months. Anthropic reached a $1.5 billion settlement with authors in September 2025. In March 2026, Chicken Soup for the Soul filed suit against eight AI companies simultaneously, framing all training data use as a single act of mass infringement. Also in March, the US Supreme Court declined to hear a case about whether AI-generated content can itself be copyrighted, leaving lower courts split. On April 16, multiple analysts and outlets noted that the EU AI Act's training data disclosure requirements, now in their active phase, are creating compliance obligations that US law still does not require. The legal and regulatory landscape is fragmented: some companies settle, some litigate, and the underlying question of whether training on copyrighted data constitutes fair use remains unresolved in US courts.",
+    "bottomLine": "AI companies trained on stolen work, some of them paid to make it go away, and the law still doesn't say they had to. The Anthropic settlement was not an admission; it was an insurance policy against a ruling that hasn't come yet.",
+    "hiddenBets": [
+      {
+        "assumption": "The fair use question will eventually be resolved by US courts, providing clarity",
+        "whyItMightBeWrong": "The Supreme Court's decision not to take the AI-generated copyright case signals it may continue to avoid AI copyright questions until Congress acts. Congress has shown no inclination to act. The result may not be eventual clarity but permanent legal ambiguity that functions as a de facto permission structure for the largest companies that can afford litigation and settlements while smaller competitors cannot."
+      },
+      {
+        "assumption": "Settlements like Anthropic's represent adequate compensation for creators",
+        "whyItMightBeWrong": "$1.5 billion sounds large but spread across the universe of authors whose work trained Claude, it represents cents per work per author. More importantly, it covers past use. It establishes no licensing mechanism for ongoing training. The next model generation will train on new data, and the question of compensation starts over."
+      },
+      {
+        "assumption": "The EU AI Act's training data requirements will create a global standard",
+        "whyItMightBeWrong": "The Act requires disclosure of what was trained on, not consent or payment. A company can comply with EU law by saying 'we trained on the Common Crawl dataset' without licensing a single piece of content. The transparency requirement is real; the compensation requirement is not."
+      }
+    ],
+    "realDisagreement": "The core tension is between two things that both seem true: first, that AI models would not exist without the creative work of millions of people who were never asked permission and were never paid; second, that requiring consent and payment for training data at scale would make training models prohibitively expensive or impossible, in a way that might freeze AI development at its current state. Both are accurate statements. You cannot have both copyright protection and unconstrained AI development on the current timeline. Something has to give. The question is whether it is artists or AI companies, and who decides.",
+    "whatNoOneIsSaying": "The settlement wave, Anthropic, Udio, others, is being treated as evidence that the system is working. It is evidence of the opposite. Companies that know they are legally exposed are buying peace before a ruling that might cost more. The settlements insulate the current generation of models from liability while establishing no precedent. The next generation of models, trained on synthetic data or on licensed content from a small number of large content owners, will be even more concentrated in fewer hands and will represent an even smaller fraction of human creative output. The settlement economy is not resolving the copyright question; it is funding the next phase of the problem.",
+    "whoPays": [
+      {
+        "who": "Individual artists, illustrators, and writers",
+        "how": "Their work was ingested without consent. Settlements go to organizational plaintiffs and their lawyers. Individual creators receive nothing from Anthropic's $1.5 billion deal unless they were named plaintiffs.",
+        "when": "Already happened; ongoing as each new model trains"
+      },
+      {
+        "who": "Smaller AI companies and startups",
+        "how": "The legal risk from training data is now large enough that only well-capitalized companies can absorb settlement costs. This creates a structural advantage for incumbents and a barrier to entry for challengers who lack $1.5 billion in settlement reserves.",
+        "when": "Now and ongoing"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Perpetual Ambiguity",
+        "whatHappens": "US courts split further. No Supreme Court ruling. Congress debates but passes nothing. Companies settle selectively and continue training. The status quo, where large AI companies bear manageable legal risk and artists bear the costs, persists for the foreseeable future.",
+        "signal": "SCOTUS denies certiorari on the second AI copyright case brought before it in 2026"
+      },
+      {
+        "name": "Congressional Licensing Framework",
+        "whatHappens": "Congress passes an AI training data licensing compulsory license scheme, modeled on music's Section 115. AI companies pay into a royalty pool. A collective licensing body distributes payments. Artists receive small but real amounts.",
+        "signal": "The Senate Judiciary Committee holds hearings specifically on a training data licensing bill with bipartisan co-sponsors"
+      },
+      {
+        "name": "Landmark Ruling Against Fair Use",
+        "whatHappens": "A major circuit court rules that training on copyrighted material without license is not fair use. AI companies face retroactive liability for existing models. Settlement negotiations become existential for smaller firms. Large companies use their legal war chests to stay in the market while competitors cannot.",
+        "signal": "The Ninth Circuit or Second Circuit issues a ruling in one of the pending cases that specifically rejects the fair use defense for training data"
+      }
+    ],
+    "whatWouldChange": "If the EU AI Act's training data transparency requirements reveal that major models were trained on specific, identifiable works in volumes large enough to make the 'transformative use' argument implausible, that would shift the legal ground significantly. Or if a US circuit court issues a ruling on the merits rather than on standing or discovery, the ambiguity ends. Until one of those happens, the status quo favors AI companies."
+  }
+}
