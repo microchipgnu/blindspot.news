@@ -61,6 +61,36 @@
       "title": "Courts Are Making Climate Policy Because Governments Won't",
       "subtitle": "The ICJ's 2025 advisory opinion is now triggering binding rulings from The Hague to the Caribbean. The Dutch government is appealing. Governments worldwide are watching who wins.",
       "category": "conflict"
+    },
+    {
+      "id": "maine-ai-data-center-moratorium",
+      "title": "The First State to Say No to AI",
+      "subtitle": "Maine just passed the nation's first statewide moratorium on AI data centers. The governor hasn't signed it yet, and that's where the real story begins.",
+      "category": "power"
+    },
+    {
+      "id": "senate-iran-war-powers",
+      "title": "The Fourth Time Is Not the Charm",
+      "subtitle": "Senate Republicans blocked the Iran war powers resolution again. But the 60-day War Powers Act clock is ticking, and their private words no longer match their public votes.",
+      "category": "power"
+    },
+    {
+      "id": "trump-inflation-g7-worst",
+      "title": "He Said It Was Defeated",
+      "subtitle": "In January, Trump told G7 leaders inflation was beaten. The IMF now projects the US will have the worst inflation of any G7 country in 2026.",
+      "category": "decision"
+    },
+    {
+      "id": "bessent-oil-waivers-end",
+      "title": "The Waiver Is Gone. India Is Next.",
+      "subtitle": "Bessent just ended the sanctions relief that let India buy Russian and Iranian oil. He also threatened secondary sanctions on the banks that helped them do it.",
+      "category": "power"
+    },
+    {
+      "id": "claude-opus-47-security-tradeoff",
+      "title": "Anthropic Built a Weapon. Then It Built a Cage.",
+      "subtitle": "Claude Opus 4.7 launched today with a built-in cybersecurity block. Anthropic admits it deliberately reduced the model's offensive capabilities. The question is whether deliberate reduction is enough.",
+      "category": "ethics"
     }
   ]
 }

@@ -115,5 +115,63 @@
         }
       ]
     }
+    ,
+    {
+      "id": "the-defeat-that-wasnt",
+      "title": "The Defeat That Wasn't",
+      "description": "Three stories today are about the same broken claim: that economic pain is a tool the US controls rather than a condition it is also subject to. Bessent ended the oil waivers that temporarily cushioned US allies from the war's energy shock, feeding directly into the inflation dynamic the IMF already flagged as making the US the worst G7 performer. These are not three separate economic stories. The waiver end is the mechanism; the G7-worst inflation is the outcome; and the IMF's recession warning is the global feedback loop. The through-line is that the administration treated 'maximum pressure' as a foreign policy option that could be turned on and off without domestic economic consequences. The IMF data suggests otherwise.",
+      "type": "cause-effect",
+      "stories": ["bessent-oil-waivers-end", "trump-inflation-g7-worst", "imf-recession-iran-war"],
+      "connections": [
+        {
+          "from": "bessent-oil-waivers-end",
+          "to": "trump-inflation-g7-worst",
+          "relationship": "Ending the oil waivers removes the pressure valve that briefly moderated energy prices; the resulting price spike feeds directly into the CPI trajectory that makes the US the G7-worst inflation performer the IMF projected."
+        },
+        {
+          "from": "trump-inflation-g7-worst",
+          "to": "imf-recession-iran-war",
+          "relationship": "The G7-worst inflation outcome is part of the same IMF downgrade that warns of a global recession; the domestic and global economic damage are not separate stories but the same Iran war cost seen at different scales."
+        }
+      ]
+    },
+    {
+      "id": "the-april-deadline-convergence",
+      "title": "The April Deadline Convergence",
+      "description": "Three stories today share the same narrow window: April 22 (ceasefire expiry), April 19 (Iranian oil waiver expiry), and May 1 (60-day War Powers Act deadline). They look like separate clocks. They are not. If the ceasefire collapses before the War Powers Act deadline, US forces resume hostilities without congressional authorization at the exact moment Iran's oil revenues are being squeezed by the waiver end. The Senate war powers story and the oil waiver story are not in different categories. They are the political and economic arms of the same escalation ladder, and they are both counting down simultaneously.",
+      "type": "dependency-web",
+      "stories": ["senate-iran-war-powers", "iran-hormuz-blockade", "bessent-oil-waivers-end"],
+      "connections": [
+        {
+          "from": "iran-hormuz-blockade",
+          "to": "senate-iran-war-powers",
+          "relationship": "The Hormuz blockade is the active military operation that the Senate's war powers votes are attempting to constrain; if the blockade continues past the 60-day deadline without congressional authorization, the constitutional question becomes live rather than theoretical."
+        },
+        {
+          "from": "bessent-oil-waivers-end",
+          "to": "senate-iran-war-powers",
+          "relationship": "The waiver end removes a diplomatic moderating factor at exactly the moment ceasefire negotiations need it most; a failed ceasefire extension raises the probability that the 60-day War Powers Act deadline arrives with hostilities ongoing and Congress still divided."
+        }
+      ]
+    },
+    {
+      "id": "voluntary-constraints-without-enforcers",
+      "title": "Voluntary Constraints Without Enforcers",
+      "description": "Three stories today are about the AI industry setting its own rules and hoping the rules hold. Anthropic built a cybersecurity block into Opus 4.7 and restricted its best model to 50 vetted partners. Maine passed a moratorium that awaits a governor's signature while the industry watches whether other states copy the template. The Pentagon designated Anthropic a national security risk and then watched federal agencies continue using Claude anyway. All three stories ask the same question from different directions: when there is no external enforcement mechanism, does self-regulation produce real constraints or liability-minimizing paperwork? The answer is visible in the gap between what each actor says the constraint achieves and what the constraint can actually enforce.",
+      "type": "tension-cluster",
+      "stories": ["claude-opus-47-security-tradeoff", "maine-ai-data-center-moratorium", "anthropic-pentagon-blacklist"],
+      "connections": [
+        {
+          "from": "claude-opus-47-security-tradeoff",
+          "to": "anthropic-pentagon-blacklist",
+          "relationship": "Anthropic's voluntary cyber capability reduction in Opus 4.7 is the same self-regulatory posture that failed to prevent the Pentagon from designating it a national security risk; the constraint is real to Anthropic, but external authorities evaluate it differently."
+        },
+        {
+          "from": "maine-ai-data-center-moratorium",
+          "to": "claude-opus-47-security-tradeoff",
+          "relationship": "Maine's moratorium and Anthropic's capability restrictions are both attempts to create governance structures for AI before there are mandatory ones; both depend entirely on the willingness of the constrained party to accept the constraint, which creates identically fragile enforcement."
+        }
+      ]
+    }
   ]
 }

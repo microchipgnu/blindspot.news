@@ -1,0 +1,101 @@
+{
+  "id": "maine-ai-data-center-moratorium",
+  "date": "2026-04-16",
+  "generatedAt": "2026-04-16T17:55:00Z",
+  "title": "The First State to Say No to AI",
+  "subtitle": "Maine just passed the nation's first statewide moratorium on AI data centers. The governor hasn't signed it yet, and that's where the real story begins.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["AI", "data centers", "Maine", "energy", "regulation", "Trump", "elections"],
+  "coverImage": {
+    "url": "https://media.wbur.org/wp/2026/04/Data_Center_Moratoriums_26105497699164-1000x666.jpg",
+    "local": "/images/reports/2026-04-16/maine-ai-data-center-moratorium.jpg",
+    "credit": "WBUR / AP"
+  },
+  "sources": [
+    {
+      "url": "https://abcnews.com/Technology/wireStory/data-center-boom-meets-resistance-maine-lawmakers-pass-132065208",
+      "publisher": "ABC News / AP",
+      "angle": "Straight news: bipartisan context, community opposition framing, national significance of Maine being first to pass a statewide chamber vote"
+    },
+    {
+      "url": "https://www.wbur.org/news/2026/04/16/maine-data-center-bill-freeze-ai-energy-electricity",
+      "publisher": "WBUR",
+      "angle": "Local angle emphasizing electricity costs, clean energy goals, and the governor's still-undecided position"
+    },
+    {
+      "url": "https://www.dw.com/en/us-maine-pushes-for-first-statewide-pause-on-ai-data-centers/a-76784015",
+      "publisher": "Deutsche Welle",
+      "angle": "International framing: contextualizes Maine's move within global AI infrastructure backlash; notes 65% of Americans oppose a data center in their community"
+    },
+    {
+      "url": "https://chronicleai.org/article/maine-poised-to-enact-nations-first-statewide-pause-on-ai-data-centers",
+      "publisher": "Chronicle AI",
+      "angle": "Technical and legislative detail: explains LD 307 provisions, the 20-megawatt threshold, and the Maine Data Center Coordination Council structure"
+    }
+  ],
+  "brief": {
+    "actors": ["Maine", "Janet Mills", "Trump", "Big Tech", "Data Center Coalition"],
+    "whatHappened": "Maine's Democratic-controlled legislature passed LD 307 on April 15, 2026, creating the nation's first statewide moratorium on new AI data centers above 20 megawatts. The bill now sits on the desk of Governor Janet Mills, who has not said whether she will sign it. Mills is term-limited and running for US Senate against Republican Susan Collins. She had previously signaled support for an exemption for a planned project in the town of Jay, a former paper mill site promising 800-1,000 construction jobs. The bill as passed does not contain that exemption. Mills has 10 days to sign, veto, or let the bill become law without her signature.",
+    "bottomLine": "This is not a story about Maine blocking data centers. It is a story about a governor who wants to win a Senate race, who must now choose between the Democratic voters who pushed this bill and the economic narrative she needs to beat Susan Collins.",
+    "hiddenBets": [
+      {
+        "assumption": "The moratorium will slow AI data center development",
+        "whyItMightBeWrong": "Maine has no major data centers now, and developers were not flocking there in large numbers. The practical effect on AI infrastructure nationally is near-zero. The bill's real impact is symbolic: it provides a legal template and political permission structure for other states, and that is vastly more consequential than anything that happens in Maine."
+      },
+      {
+        "assumption": "Community opposition to data centers is fundamentally anti-AI",
+        "whyItMightBeWrong": "Voters replacing city councils over data center projects and passing local moratoriums are not opposed to AI. They are opposed to paying higher electricity bills without receiving local economic benefit. The grievance is distributional, not ideological: tech companies capture the value, ratepayers absorb the cost. The bill's support from labor and community groups reflects that specific calculus."
+      },
+      {
+        "assumption": "Trump's AI infrastructure push is incompatible with this law",
+        "whyItMightBeWrong": "Maine's moratorium targets facilities above 20 megawatts, which would cover hyperscale data centers. But Trump's executive infrastructure push is largely targeting federal lands and larger states with existing grid capacity. A Maine moratorium is annoying to the AI industry, not fatal to it. The administration is more likely to use this as a political foil than to fight it in court."
+      }
+    ],
+    "realDisagreement": "The genuine fork is between two legitimate claims: that communities deserve input and protection from the distributional harms of AI infrastructure, and that the US needs massive data center buildout to stay ahead of China in AI capability. Both are true. You cannot have both simultaneously. Maine's bill answers the question: when forced to choose at the state level, local cost-of-living beats national competitiveness. What you give up in that choice is the economic activity and jobs that could have anchored rural towns like Jay. Mills knows this, which is why she hasn't signed yet. The harder truth is that the communities opposing these centers tend to be the same ones that would most benefit from the construction employment. The bill pits their immediate electricity cost concerns against their long-term economic opportunity, and they chose the former.",
+    "whatNoOneIsSaying": "Janet Mills is running for Senate in a tight race. She did not introduce this bill, did not champion it, and asked for an exemption that was denied. She is now being handed a politically toxic choice. If she signs it, Trump and tech companies will use it against her in November. If she vetoes it, her own base and the Democratic coalition that just passed this bill will be furious. The bill was not designed to help her. It was designed to force her hand.",
+    "whoPays": [
+      {
+        "who": "Jay, Maine residents and workers",
+        "how": "A $550 million data center project promising 800-1,000 construction jobs and 125-150 permanent high-paying positions may be blocked or delayed by the moratorium",
+        "when": "Immediately, if Mills signs without an exemption"
+      },
+      {
+        "who": "Maine residential electricity ratepayers",
+        "how": "If the moratorium prevents projects that would have paid into grid infrastructure improvements, existing ratepayers absorb those costs without the offsetting benefit of data center tax revenues",
+        "when": "Long-term, as AI energy demand grows in neighboring states instead"
+      },
+      {
+        "who": "Tech companies planning hyperscale facilities",
+        "how": "Legal uncertainty deters investment while the moratorium is studied; the 11 other states watching Maine's process may enact their own bans if Maine's survives legal challenge",
+        "when": "Medium-term, 1-2 years"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Mills signs with exemption",
+        "whatHappens": "Mills uses executive action or pushes an amended version through quickly that carves out the Jay project. She satisfies rural job concerns while keeping the moratorium broadly intact. The bill becomes law but with reduced bite in the only case that mattered locally.",
+        "signal": "Mills' office communicates with the Jay town council before her 10-day deadline expires"
+      },
+      {
+        "name": "Mills signs as is",
+        "whatHappens": "The moratorium passes in its strictest form. Jay project is blocked. Mills takes heat from the right and from rural Democrats but consolidates progressive environmental support. Data center industry mounts a legal challenge arguing the moratorium violates interstate commerce clauses.",
+        "signal": "Data Center Coalition files or announces litigation within 30 days of signing"
+      },
+      {
+        "name": "Mills vetoes",
+        "whatHappens": "Veto fractures Maine Democrats. Progressive wing mobilizes against her Senate campaign. Legislature does not override (they don't have the votes). Data center developers proceed with Jay project. Maine becomes a cautionary tale about AI opposition overreach within the Democratic Party.",
+        "signal": "Maine progressive groups announce opposition to Mills' Senate campaign within a week of a veto"
+      }
+    ],
+    "whatWouldChange": "If the energy grid data showed that data centers in Maine would actually reduce rather than increase average residential electricity rates, the community opposition collapses. That's the empirical question underlying all of this, and neither side has answered it cleanly.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "AI data center moratorium passed before 2027?",
+        "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
+        "probability": 0.47
+      }
+    ]
+  }
+}
