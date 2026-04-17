@@ -1,0 +1,106 @@
+{
+  "id": "fisa-702-expiry",
+  "date": "2026-04-17",
+  "generatedAt": "2026-04-17T17:40:00Z",
+  "title": "FISA Section 702 Is About to Expire. Republicans Killed the Bill That Would Have Saved It.",
+  "subtitle": "Twenty Republicans joined most Democrats to block the five-year extension Trump demanded. Then the same chamber voted unanimously to punt for ten days. The program expires Monday.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["FISA", "Section 702", "surveillance", "privacy", "Congress", "Trump", "civil liberties"],
+  "coverImage": {
+    "url": "https://i.abcnewsfe.com/a/1433aee2-a4fb-4968-850d-f56282a2e722/wirestory_3dc3e84c3b9b03f52b84dfb3b01fc770_16x9.jpg?w=1600",
+    "local": "/images/reports/2026-04-17/fisa-702-expiry.jpg",
+    "credit": "ABC News / Associated Press"
+  },
+  "sources": [
+    {
+      "url": "https://edition.cnn.com/2026/04/17/politics/house-fisa-foreign-surveillance",
+      "publisher": "CNN",
+      "angle": "The blow-by-blow of the overnight collapse: two failed votes, a midnight retreat, and the 10-day patch that replaced the long-term deal"
+    },
+    {
+      "url": "https://abcnews.com/US/wireStory/house-extends-surveillance-powers-april-30-after-late-132126967",
+      "publisher": "ABC News / Associated Press",
+      "angle": "Straight reporting on the vote sequence with quotes from both GOP holdouts and Democratic critics"
+    },
+    {
+      "url": "https://reason.com/2026/04/15/house-readies-spy-powers-vote/",
+      "publisher": "Reason",
+      "angle": "Civil liberties framing: the flip-flopping by both Trump and Democrats on warrants reveals the issue is partisan convenience, not principled civil liberties"
+    },
+    {
+      "url": "https://www.cbsnews.com/news/controversial-surveillance-program-fisa-section-702-house-vote/",
+      "publisher": "CBS News",
+      "angle": "Detailed breakdown of the policy substance: what 702 allows, what the 2024 reforms did, and what the holdouts actually want"
+    },
+    {
+      "url": "https://www.nextgov.com/cybersecurity/2026/04/house-readies-vote-renew-fisa-702-without-warrant-amendment/",
+      "publisher": "Nextgov/FCW",
+      "angle": "National security framing: Joint Chiefs wrote that expiration would significantly impair intelligence capabilities during active Iran war ceasefire"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Congress", "FBI", "CIA", "NSA"],
+    "whatHappened": "Early Friday morning, the House voted unanimously on a voice vote to extend Section 702 of the Foreign Intelligence Surveillance Act until April 30, after two attempts at longer extensions collapsed in after-midnight floor votes. Section 702, which expires Monday April 20, allows intelligence agencies to collect the communications of foreign targets without a warrant, and incidentally captures Americans' communications with those targets. Twenty Republicans joined most Democrats to block the 18-month extension Trump had demanded. Speaker Johnson then tried a five-year extension with new privacy provisions. That also failed. The 10-day patch now goes to the Senate for an emergency session.",
+    "bottomLine": "Trump publicly demanded Republican unity on a surveillance expansion. Twenty of his own members blocked it. That is not a procedural hiccup. It is evidence that the coalition supporting warrantless surveillance of Americans is smaller than surveillance proponents have claimed for twenty years.",
+    "hiddenBets": [
+      {
+        "assumption": "This is a fight about civil liberties",
+        "whyItMightBeWrong": "Reason documented the flip-flops precisely: Trump called for killing FISA in 2024 and now demands its clean extension. Democrats who voted to extend 702 in 2024 and blocked warrant amendments are now opposing any extension. Neither side changed its principles. They changed which party controls the program."
+      },
+      {
+        "assumption": "A warrant requirement would break the intelligence program",
+        "whyItMightBeWrong": "CIA Director Ratcliffe said warrants 'won't work' because decisions need to happen in hours. But the 2024 reforms already imposed pre-authorization requirements for FBI queries. The question is not whether there can be any process, but how fast it has to be."
+      },
+      {
+        "assumption": "The 10-day extension buys time for a deal",
+        "whyItMightBeWrong": "The same coalition that blocked the five-year deal will be present in ten days. Nothing about the substance changes in that window. The extension buys time for negotiation, but the underlying disagreement, whether the government should be able to query Americans' communications without a warrant, has not narrowed."
+      }
+    ],
+    "realDisagreement": "The actual fork is between two positions that are both coherent: the government needs fast access to communications data to prevent attacks, and requiring a warrant in every case would create operational delays that cost lives. Versus: the government has repeatedly abused 702 to investigate political activity, racial justice protesters, and January 6 defendants in ways courts found improper, and the only meaningful check is a warrant requirement. You cannot have both speed and accountability in this design. The holdouts chose accountability. Leadership chose speed. Johnson is right that the tool is operationally critical during active military operations. The holdouts are right that past abuses were real and unaddressed. The 10-day patch is a refusal to choose.",
+    "whatNoOneIsSaying": "The warrant demand is not primarily about civil liberties. It is about preventing the Trump administration from using 702 data to investigate political opponents, immigration cases, and protesters. Democrats who supported 702 when Obama and Biden ran the program are now opposing it for exactly that reason. The policy debate is a proxy for the question of whether this administration can be trusted with a warrantless database of Americans' communications.",
+    "whoPays": [
+      {
+        "who": "Intelligence agencies",
+        "how": "If the Senate does not act by Monday, 702 expires and the FBI, CIA, and NSA lose real-time access to foreign communications data. During the Iran war ceasefire, Joint Chiefs called this a 'significant impairment' to battlefield intelligence.",
+        "when": "Monday April 20 if Senate fails to pass the extension"
+      },
+      {
+        "who": "Americans in contact with foreign surveillance targets",
+        "how": "If 702 is renewed without a warrant requirement, their communications remain available to federal law enforcement for any purpose, including investigations with no connection to national security.",
+        "when": "Ongoing if clean extension passes"
+      },
+      {
+        "who": "Speaker Johnson",
+        "how": "A second high-profile floor collapse in a month confirms the House Republican majority is too fractured to pass contested legislation without Democratic help. That dependency makes every future whip count harder.",
+        "when": "Immediate political cost, compounding over next two weeks"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Clean Extension Passes",
+        "whatHappens": "Senate passes the 10-day patch; Johnson brings a clean 18-month extension back before April 30. A handful of holdouts are pressured or paid off with unrelated concessions. 702 survives without warrants.",
+        "signal": "Senate Majority Leader Thune sets a floor vote on the long-term extension before April 28."
+      },
+      {
+        "name": "Warrant Deal",
+        "whatHappens": "Holdouts extract a limited warrant requirement for queries on US persons that is narrow enough for the White House to accept and broad enough for privacy hawks to claim victory. 702 is extended for two to three years.",
+        "signal": "Rep. Chip Roy and the White House both issue statements describing the same amendment in positive terms."
+      },
+      {
+        "name": "Lapse",
+        "whatHappens": "The Senate fails to act by Monday or cannot reach agreement on terms. 702 expires. The intelligence community operates on alternative legal authorities for days or weeks. Rapid bipartisan pressure forces a retroactive fix.",
+        "signal": "A senior intelligence official publicly says collection has been interrupted or an emergency session of the Senate Intelligence Committee is convened."
+      }
+    ],
+    "whatWouldChange": "If the FBI or NSA publicly documented a specific foiled plot that required 702 data queried without a warrant on a US person, the operational case becomes harder to dismiss. If a court finds that a current administration official used 702 data for non-national-security purposes, the warrant demand becomes politically unstoppable.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "FISA Section 702 reauthorized before it expires?",
+        "url": "https://polymarket.com/event/fisa-section-702-reauthorized-before-it-expires",
+        "probability": 0.936
+      }
+    ]
+  }
+}

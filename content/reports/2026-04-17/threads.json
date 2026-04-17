@@ -1,5 +1,6 @@
 {
   "date": "2026-04-17",
+  "generatedAt": "2026-04-17T18:10:00Z",
   "threads": [
     {
       "id": "war-as-economic-shock",
@@ -93,6 +94,63 @@
           "from": "match-act-chip-curbs",
           "to": "jackson-scotus-emergency-orders",
           "relationship": "Both stories are about institutions trying to close loopholes in their own authority: Congress trying to close the chip-smuggling loophole through legislation, and Jackson arguing the Supreme Court has created a loophole in the rule of law through emergency orders."
+        }
+      ]
+    },
+    {
+      "id": "surveillance-architecture-under-pressure",
+      "title": "The Infrastructure of US Intelligence Is Being Dismantled From Both Ends",
+      "description": "FISA Section 702 and the Mythos civilian rollout are not opposite stories. They are both about the same underlying question: which surveillance and intelligence tools does the United States government actually control, for whom, and under what accountability framework? FISA 702's near-expiry reveals that Congress cannot maintain oversight continuity of the surveillance tools it authorized. The Mythos civilian bypass reveals that the executive can deploy AI capabilities that the DoD banned, through a separate procurement channel, without resolving the underlying security question. The net effect is an intelligence architecture where the legal rules are fragmenting while the capabilities themselves keep expanding.",
+      "type": "tension-cluster",
+      "stories": ["fisa-702-expiry", "mythos-civilian-bypass"],
+      "connections": [
+        {
+          "from": "fisa-702-expiry",
+          "to": "mythos-civilian-bypass",
+          "relationship": "Both stories are about the executive branch gaining discretion over intelligence and surveillance tools at the moment when congressional oversight mechanisms are weakest: FISA via expiry and patch, Mythos via OMB memo that circumvents the Pentagon's blacklisting authority."
+        }
+      ]
+    },
+    {
+      "id": "iran-war-second-order-damage",
+      "title": "The Iran War's Damage Is Now Showing Up in Places Nobody Is Watching",
+      "description": "Three new stories today are downstream effects of the Iran conflict that do not show up in the ceasefire headlines. The CFTC oil insider-trading investigation is only possible because the Iran war created sharp, announcement-driven oil price movements that could be exploited. The Israel-Lebanon ceasefire exists only because Iran insisted Lebanon be included in its own ceasefire terms. Rural American farmers are facing higher energy bills for their operations because the Iran oil shock raised fuel and electricity prices nationwide. The war's effects are no longer contained to the Gulf. They are now embedded in US domestic policy, domestic markets, and the negotiating conditions for every other regional conflict.",
+      "type": "dependency-web",
+      "stories": ["iran-oil-insider-trades", "israel-lebanon-ceasefire", "trump-reap-solar-farmers", "iran-ceasefire-hormuz"],
+      "connections": [
+        {
+          "from": "iran-ceasefire-hormuz",
+          "to": "iran-oil-insider-trades",
+          "relationship": "The announcement-driven oil price movements created by the Iran ceasefire negotiations are the specific mechanism enabling the insider-trading pattern the CFTC is investigating. Without the war, there are no sharp directional moves to front-run."
+        },
+        {
+          "from": "iran-ceasefire-hormuz",
+          "to": "israel-lebanon-ceasefire",
+          "relationship": "Iran's insistence that Lebanon be included in its own ceasefire is the proximate reason the Israel-Lebanon deal happened at all. The Lebanon ceasefire is a side condition of the Iran deal, not an independently negotiated outcome."
+        },
+        {
+          "from": "iran-ceasefire-hormuz",
+          "to": "trump-reap-solar-farmers",
+          "relationship": "The Iran oil shock raised agricultural energy costs to multi-year highs, making REAP's energy cost-offset function more valuable at the exact moment the administration eliminated it. The oil war and the grant freeze are compounding shocks to the same rural operations."
+        }
+      ]
+    },
+    {
+      "id": "retroactive-rule-changes",
+      "title": "Three Stories Today Involve Rules Changed After the Bets Were Made",
+      "description": "A pattern across today's briefs: actors made commitments or investments under one set of rules, and the rules changed after the money moved. Farmers installed solar under REAP expectations that were then revoked retroactively. FISA 702 operating on a 10-day patch creates uncertainty for intelligence contractors and foreign partners who built compliance systems around a 5-year reauthorization. And the oil futures traders caught by the CFTC investigation were operating in markets where material non-public information about ceasefire announcements was apparently circulating before public disclosure. In each case, the problem is not the outcome but the timing: information or policy changes applied after irrevocable decisions were made.",
+      "type": "tension-cluster",
+      "stories": ["trump-reap-solar-farmers", "fisa-702-expiry", "iran-oil-insider-trades"],
+      "connections": [
+        {
+          "from": "trump-reap-solar-farmers",
+          "to": "fisa-702-expiry",
+          "relationship": "Both involve government commitments that actors planned around being revoked or put in jeopardy after significant investment: farmers in solar infrastructure, intelligence partners in long-term surveillance-sharing arrangements built on 702 reauthorization continuity."
+        },
+        {
+          "from": "iran-oil-insider-trades",
+          "to": "trump-reap-solar-farmers",
+          "relationship": "Both are stories about information asymmetry between the government and private actors: the CFTC case involves someone with advance knowledge of ceasefire announcements; the REAP freeze involved farmers who had no advance notice of the program's termination while USDA state offices were also kept in the dark."
         }
       ]
     }

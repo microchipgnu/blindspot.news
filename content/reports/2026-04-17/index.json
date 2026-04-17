@@ -1,6 +1,6 @@
 {
   "date": "2026-04-17",
-  "generatedAt": "2026-04-17T13:10:00Z",
+  "generatedAt": "2026-04-17T18:10:00Z",
   "reports": [
     {
       "id": "iran-ceasefire-hormuz",
@@ -70,6 +70,41 @@
       "title": "Trump Is About to Make Banks the Immigration Police.",
       "subtitle": "An executive order requiring banks to collect citizenship data from all customers would turn the financial system into a deportation tool.",
       "category": "power",
+      "topic": "society"
+    },
+    {
+      "id": "mythos-civilian-bypass",
+      "title": "The White House Is Giving Civilian Agencies a Model the Pentagon Banned.",
+      "subtitle": "The OMB is routing Anthropic's Mythos to civilian federal agencies while the Defense Department's blacklisting of Anthropic remains in force. One government is doing two opposite things at once.",
+      "category": "power",
+      "topic": "tech"
+    },
+    {
+      "id": "fisa-702-expiry",
+      "title": "FISA Section 702 Is About to Expire. Congress Passed a 10-Day Extension.",
+      "subtitle": "Twenty House Republicans killed the five-year reauthorization. The surveillance authority that underpins most US counterterrorism and foreign intelligence collection is now running on a patch.",
+      "category": "power",
+      "topic": "politics"
+    },
+    {
+      "id": "iran-oil-insider-trades",
+      "title": "Someone Made $950 Million Betting on Oil Minutes Before the Iran Ceasefire.",
+      "subtitle": "The CFTC is investigating futures trades that were positioned perfectly ahead of each of Trump's Iran announcements. The pattern is too consistent to be coincidence.",
+      "category": "power",
+      "topic": "economy"
+    },
+    {
+      "id": "israel-lebanon-ceasefire",
+      "title": "Israel and Lebanon Have a Ceasefire. Hezbollah Is Not Part of It.",
+      "subtitle": "The 10-day truce excludes the party doing most of the fighting. Israel has reserved the right to strike at any time. Hezbollah says occupied land gives Lebanon the right to resist. This is not a ceasefire. It is a pause with paperwork.",
+      "category": "conflict",
+      "topic": "geopolitics"
+    },
+    {
+      "id": "trump-reap-solar-farmers",
+      "title": "Rural Farmers Bet on Solar. Trump Changed the Rules After the Money Was Spent.",
+      "subtitle": "The USDA froze the REAP clean energy grant program and rescinded its funding announcement. Farmers who installed solar panels under the old rules are now holding debt with no grant to offset it.",
+      "category": "decision",
       "topic": "society"
     }
   ]

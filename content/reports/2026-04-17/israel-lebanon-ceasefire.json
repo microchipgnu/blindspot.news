@@ -1,0 +1,118 @@
+{
+  "id": "israel-lebanon-ceasefire",
+  "date": "2026-04-17",
+  "generatedAt": "2026-04-17T17:40:00Z",
+  "title": "Israel and Lebanon Have a Ceasefire. Hezbollah Is Not Part of It.",
+  "subtitle": "The 10-day truce excludes the party doing most of the fighting. Israel has reserved the right to strike at any time. Hezbollah says occupied land gives Lebanon 'the right to resist.' This is not a ceasefire. It is a pause with paperwork.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["Israel", "Lebanon", "Hezbollah", "ceasefire", "Iran", "Trump", "Pakistan"],
+  "coverImage": {
+    "url": "https://npr.brightspotcdn.com/dims4/default/736d86e/2147483647/strip/true/crop/8492x4458+0+159/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F8492x4777%200%20442%2Fresize%2F8492x4777%21%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd9%2Ff6%2F018263c1488fa6e15d1a190e0aff%2Fap26106770139446.jpg",
+    "local": "/images/reports/2026-04-17/israel-lebanon-ceasefire.jpg",
+    "credit": "NPR / AP"
+  },
+  "sources": [
+    {
+      "url": "https://ca.finance.yahoo.com/news/israel-lebanon-ceasefire-what-deal-170804059.html",
+      "publisher": "Reuters / Yahoo Finance",
+      "angle": "The deal's exact text: Lebanon gets sovereignty recognition from Israel's security forces, Israel retains the right to strike at any time, Hezbollah is not required to disarm and not party to the agreement"
+    },
+    {
+      "url": "https://www.thecanadianpressnews.ca/business/a-10-day-ceasefire-agreed-on-by-israel-and-lebanon-goes-into-effect/article_9e4c0f9e-4e57-5ee7-ac0d-24c6f3cda190.html",
+      "publisher": "The Canadian Press / AP",
+      "angle": "Ground reality: gunshots fired in Beirut to celebrate, displaced families moving south despite warnings, Lebanon's state news reporting Israeli shelling after the designated start time"
+    },
+    {
+      "url": "https://www.iowapublicradio.org/news-from-npr/2026-04-16/israel-starts-a-tense-ceasefire-in-lebanon-as-trump-sounds-optimistic-on-iran-talks",
+      "publisher": "NPR / Iowa Public Radio",
+      "angle": "Iran's role: Tehran insisted Lebanon be included in the US-Iran ceasefire; Pakistan brokered; the Lebanon deal is essentially a side effect of Iran's negotiating demands"
+    },
+    {
+      "url": "https://apnews.com/article/lebanon-israel-negotiations-hezbollah-rubio-washington-88f5123bfcf4c00625e98ea14a16eef9",
+      "publisher": "AP News",
+      "angle": "Historical context: every previous Lebanon-Israel ceasefire collapsed or was violated; the 2024 deal had over 10,000 documented violations mostly by Israeli forces; Lebanon fears it has no leverage in these talks"
+    },
+    {
+      "url": "https://cryptobriefing.com/us-brokered-ceasefire-between-israel-and-lebanon-begins-excludes-hezbollah/",
+      "publisher": "CryptoBriefing",
+      "angle": "Prediction market signal: Hezbollah ceasefire extension by April 21 at 18%, by April 26 at 74.5%; markets are pricing a moderate but not high probability of the ceasefire holding through the month"
+    }
+  ],
+  "brief": {
+    "actors": ["Israel", "Lebanon", "Hezbollah", "Iran", "Trump", "Pakistan"],
+    "whatHappened": "A 10-day ceasefire between Israel and Lebanon took effect on April 16 at 9 PM GMT, announced by Trump and agreed to after calls between him, Israeli Prime Minister Netanyahu, and Lebanese President Aoun. The deal is between Israel and Lebanon's government, not between Israel and Hezbollah, which did the vast majority of the fighting. Hezbollah acknowledged the ceasefire but said Israeli occupation on Lebanese territory gives the Lebanese people 'the right to resist,' a formula that preserves its military option. Israel reserved the right to strike at any time against 'planned, imminent, or ongoing attacks.' Israeli troops are holding positions up to 10 kilometers inside Lebanon and Netanyahu said they are not leaving. The deal resulted partly because Iran, in its own ceasefire negotiations with the US, insisted Lebanon be included, and Pakistan brokered the outcome.",
+    "bottomLine": "This is a ceasefire between two governments over a conflict that one of them is not fully fighting. Lebanon's government does not control Hezbollah. Hezbollah has not disarmed. Israel has not withdrawn. The 10-day clock is a diplomatic interval, not a peace process.",
+    "hiddenBets": [
+      {
+        "assumption": "Lebanon's government can enforce the ceasefire on its territory",
+        "whyItMightBeWrong": "The Lebanese government banned Hezbollah's military activities, declared Iran's ambassador persona non grata, and passed laws against the group's militancy. Hezbollah continued fighting anyway. The government's ability to compel Hezbollah is close to zero, and the ceasefire text acknowledges this by framing Lebanon's obligation as 'meaningful steps,' not disarmament."
+      },
+      {
+        "assumption": "The ceasefire is primarily about Lebanon",
+        "whyItMightBeWrong": "Iran demanded Lebanon be included in the US-Iran ceasefire deal. The Lebanon track exists because Tehran needed it as a negotiating condition. If the Iran-US talks collapse, there is no reason for the Lebanon ceasefire to survive, regardless of what the Lebanese government wants."
+      },
+      {
+        "assumption": "Past ceasefire failures make this one unusually fragile",
+        "whyItMightBeWrong": "The 2024 deal had 10,000+ violations and still held for months. Fragility and non-violation are not binary. A ceasefire can be technically violated while being strategically maintained, which is the most likely outcome: low-level Israeli strikes that neither side formally acknowledges as ceasefire violations."
+      }
+    ],
+    "realDisagreement": "The core tension is between Lebanon's demand that a ceasefire precede any substantive talks, and Israel's insistence that talks must include Hezbollah's disarmament. Lebanon can only get the first. Israel will only accept the second. The ceasefire text sidesteps this by making disarmament aspirational and the ceasefire temporary. Ten days is not enough time to bridge that gap. The question is whether 10 days of quiet buys enough political capital to generate pressure for an extension, or whether the underlying incompatibility reasserts itself the moment either side sees an advantage. Israel has historically been the side that reasserts. That is what makes the market's 74.5% probability of extension by April 26 look optimistic.",
+    "whatNoOneIsSaying": "The ceasefire is not primarily a Lebanon story. It is an Iran story. Iran's negotiating team demanded Hezbollah's front be included in any deal before Tehran would move forward. The Lebanon deal happened not because Lebanon or Israel changed their positions, but because Iran needed it to justify its own negotiating track to the Iranian public and to Hezbollah's donors. Lebanon is a bargaining chip in someone else's deal.",
+    "whoPays": [
+      {
+        "who": "1 million displaced Lebanese",
+        "how": "The deal does not specify when they can return. Israel holds 10 km of southern Lebanon. Hezbollah says the right to resist applies as long as Israeli troops are present. Until Israeli withdrawal happens, returnees face live fire risk from both sides.",
+        "when": "Immediate and ongoing"
+      },
+      {
+        "who": "Lebanese government",
+        "how": "Lebanon agreed to direct talks with Israel for the first time since 1983, which Hezbollah called 'free concessions' to an enemy state. If the deal collapses, Lebanon has paid the political cost of the talks without gaining anything from them. If the deal holds, Lebanon faces pressure to actually disarm Hezbollah, which would likely trigger a domestic political crisis.",
+        "when": "10 days to know which problem"
+      },
+      {
+        "who": "Global shipping and oil markets",
+        "how": "The Lebanon ceasefire is tied to the Iran ceasefire. If Lebanon collapses and Iran uses it to exit negotiations, Hormuz reopening reverses, oil spikes, and shipping insurance costs resurge.",
+        "when": "Contingent on whether Lebanon ceasefire survives past April 26"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Extended Pause",
+        "whatHappens": "The 10-day ceasefire is extended by mutual agreement. Israeli troops remain in southern Lebanon. Hezbollah refrains from firing but maintains its weapons and position. Formal peace talks begin but stall on the disarmament sequence. The ceasefire lasts months in a frozen-conflict state.",
+        "signal": "Lebanon and Israel agree to extend by April 24, and Hezbollah makes no public statement rescinding its 'right to resist' language."
+      },
+      {
+        "name": "Ceasefire Collapses at Day 10",
+        "whatHappens": "Either Israel strikes a target it deems a threat or Hezbollah fires rockets in response to Israeli troop movements. Each side invokes the other's violation as justification. The 10-day framework expires without extension. Fighting resumes.",
+        "signal": "Lebanon's National News Agency reports Israeli strikes south of the Litani within the first five days, or Hezbollah issues a statement calling a specific Israeli action a justification for response."
+      },
+      {
+        "name": "Linked to Iran Collapse",
+        "whatHappens": "US-Iran negotiations break down over nuclear enrichment terms before April 22. Iran signals it is no longer bound by the conditions that led to the Lebanon deal. Hezbollah interprets this as freedom to resume. Israel does not wait.",
+        "signal": "US-Iran talks end without an agreement by April 22 deadline, and a Hezbollah official explicitly links resumed fighting to the Iran track."
+      }
+    ],
+    "whatWouldChange": "If Israel withdraws its troops from any of the five occupied positions in southern Lebanon before the 10-day deadline, that is a signal the deal is intended to be real rather than tactical. No withdrawal has happened yet, and Netanyahu explicitly said there would be none.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Israel x Hezbollah Ceasefire extended by April 21, 2026?",
+        "url": "https://polymarket.com/event/israel-x-hezbollah-ceasefire-extended-by",
+        "probability": 0.18
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Israel x Hezbollah Ceasefire extended by April 26, 2026?",
+        "url": "https://polymarket.com/event/israel-x-hezbollah-ceasefire-extended-by",
+        "probability": 0.745
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Israel x Hezbollah permanent peace deal by May 31, 2026?",
+        "url": "https://polymarket.com/event/israel-x-hezbollah-permanent-peace-deal-by",
+        "probability": 0.145
+      }
+    ]
+  }
+}
