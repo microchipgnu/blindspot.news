@@ -1,6 +1,6 @@
 {
   "date": "2026-04-17",
-  "generatedAt": "2026-04-17T08:00:00Z",
+  "generatedAt": "2026-04-17T13:10:00Z",
   "reports": [
     {
       "id": "iran-ceasefire-hormuz",
@@ -36,6 +36,41 @@
       "subtitle": "A House of Commons committee wants mandatory labels on AI-generated material. The recommendation is reasonable. The implementation problem is that the boundary between AI-assisted and AI-generated has already dissolved.",
       "category": "decision",
       "topic": "tech"
+    },
+    {
+      "id": "match-act-chip-curbs",
+      "title": "Congress Is Trying to Lock China Out of the Chip Industry. Nvidia Says That's the Wrong Move.",
+      "subtitle": "The MATCH Act would block China from buying the machines that make advanced chips. Jensen Huang says restricting China just makes it build faster.",
+      "category": "power",
+      "topic": "tech"
+    },
+    {
+      "id": "jackson-scotus-emergency-orders",
+      "title": "Justice Jackson Says the Supreme Court Is Rubber-Stamping Illegal Policies. She Is Probably Right.",
+      "subtitle": "A sitting justice went to Yale Law School to accuse her colleagues of issuing 'scratch-paper musings' that let Trump implement policies courts already found unlawful.",
+      "category": "power",
+      "topic": "politics"
+    },
+    {
+      "id": "putin-ukraine-istanbul-talks",
+      "title": "Putin Wants to Talk. Ukraine Has Heard This Before.",
+      "subtitle": "Russia is proposing direct negotiations in Istanbul on May 15 with no preconditions. The last time that happened, Kyiv drafted a deal and then dropped it under Western pressure.",
+      "category": "conflict",
+      "topic": "geopolitics"
+    },
+    {
+      "id": "petrodollar-yuan-iran-war",
+      "title": "Yuan Settlements Hit $1 Trillion a Day. The Petrodollar System Is Being Stress-Tested.",
+      "subtitle": "The Iran war locked 16 percent of global oil production behind the Strait of Hormuz. The biggest beneficiaries are Russia and China.",
+      "category": "power",
+      "topic": "economy"
+    },
+    {
+      "id": "trump-bank-citizenship-data",
+      "title": "Trump Is About to Make Banks the Immigration Police.",
+      "subtitle": "An executive order requiring banks to collect citizenship data from all customers would turn the financial system into a deportation tool.",
+      "category": "power",
+      "topic": "society"
     }
   ]
 }

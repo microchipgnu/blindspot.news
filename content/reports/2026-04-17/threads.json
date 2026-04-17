@@ -47,6 +47,54 @@
           "relationship": "Canada's labeling recommendations and the UK's age assurance preference both create compliance frameworks that major platforms can satisfy through documentation rather than effective change, concentrating regulatory capture at the point of standard-setting."
         }
       ]
+    },
+    {
+      "id": "iran-war-as-geopolitical-lever",
+      "title": "The Iran War Is Simultaneously Destroying and Creating Geopolitical Leverage",
+      "description": "Four stories today are shaped by the same root cause: the Iran war. It is stressing the petrodollar system by locking up Gulf oil. It is giving Russia an opening to insert itself as mediator in both Ukraine and the Middle East. It is pressuring the Strait of Hormuz in ways that damaged TSMC's earnings guidance. And it is the context in which Putin is offering peace talks that are partly a positioning move to gain diplomatic capital. The war created a leverage vacuum and multiple actors are rushing to fill it.",
+      "type": "dependency-web",
+      "stories": ["iran-ceasefire-hormuz", "petrodollar-yuan-iran-war", "putin-ukraine-istanbul-talks", "imf-recession-warning"],
+      "connections": [
+        {
+          "from": "iran-ceasefire-hormuz",
+          "to": "petrodollar-yuan-iran-war",
+          "relationship": "The Hormuz blockade is the direct mechanism stranding 16 percent of global oil production, which is the specific shock accelerating yuan-denominated settlements and the petrodollar debate."
+        },
+        {
+          "from": "petrodollar-yuan-iran-war",
+          "to": "imf-recession-warning",
+          "relationship": "The oil supply disruption and currency uncertainty compound the IMF's recession risk scenario by adding inflation pressure on top of already-damaged trade flows."
+        },
+        {
+          "from": "iran-ceasefire-hormuz",
+          "to": "putin-ukraine-istanbul-talks",
+          "relationship": "Putin's offer to mediate the Iran conflict and his Ukraine talks proposal are linked: Russia is leveraging the Iran war to maximize its diplomatic indispensability simultaneously across two conflicts, buying itself reduced sanctions pressure."
+        }
+      ]
+    },
+    {
+      "id": "executive-power-without-checks",
+      "title": "Five Stories Today Are About Whether Power Requires Accountability",
+      "description": "Today's reports cluster around a single underlying question: can an executive actor deploy power without explanation, legal justification, or effective constraint? The Supreme Court's conservative majority issues emergency orders with no reasoning. Trump prepares an executive order routing around Congress to turn banks into immigration enforcement tools. Congress passes immigration bills it knows will not become law. And the MATCH Act chip restrictions attempt to close a technology chokepoint through executive-adjacent legislation while smugglers are already operating around the existing framework. In each case, the formal accountability mechanism exists on paper but does not function in practice.",
+      "type": "tension-cluster",
+      "stories": ["jackson-scotus-emergency-orders", "trump-bank-citizenship-data", "haiti-tps-house-vote", "match-act-chip-curbs"],
+      "connections": [
+        {
+          "from": "jackson-scotus-emergency-orders",
+          "to": "trump-bank-citizenship-data",
+          "relationship": "The SCOTUS emergency order pattern creates the legal environment in which Trump's bank citizenship executive order is less likely to be stayed by courts, because the court has been allowing controversial executive actions to proceed while cases develop."
+        },
+        {
+          "from": "trump-bank-citizenship-data",
+          "to": "haiti-tps-house-vote",
+          "relationship": "The bank citizenship order and the Haiti TPS vote are about the same underlying population, framed from opposite ends: Congress briefly protected Haitians while Treasury prepares to cut them off from the financial system."
+        },
+        {
+          "from": "match-act-chip-curbs",
+          "to": "jackson-scotus-emergency-orders",
+          "relationship": "Both stories are about institutions trying to close loopholes in their own authority: Congress trying to close the chip-smuggling loophole through legislation, and Jackson arguing the Supreme Court has created a loophole in the rule of law through emergency orders."
+        }
+      ]
     }
   ]
 }

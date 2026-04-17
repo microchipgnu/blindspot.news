@@ -1,0 +1,96 @@
+{
+  "id": "petrodollar-yuan-iran-war",
+  "date": "2026-04-17",
+  "generatedAt": "2026-04-17T13:00:00Z",
+  "title": "Yuan Settlements Hit $1 Trillion a Day. The Petrodollar System Is Being Stress-Tested.",
+  "subtitle": "The Iran war locked 16 percent of global oil production behind the Strait of Hormuz. The biggest beneficiaries are Russia and China. The dollar's reserve status depends on assumptions that are now visibly cracking.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["dollar", "yuan", "petrodollar", "Iran", "oil", "China", "Russia", "de-dollarization"],
+  "coverImage": {
+    "url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/04/14/534687.jpg",
+    "local": "/images/reports/2026-04-17/petrodollar-yuan-iran-war.jpg",
+    "credit": "Japan Times"
+  },
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/04/16/us-dollar-dominance-reserve-currency-iran-war-oil-china.html",
+      "publisher": "CNBC",
+      "angle": "Frames the Deutsche Bank vs. Franklin Templeton debate: Deutsche predicts petroyuan rise; Franklin Templeton calls it 'remarkably simplistic' and says oil exporters need dollars for market liquidity, not US military protection."
+    },
+    {
+      "url": "https://democracyofhope.substack.com/p/the-end-of-the-petrodollar-how-the",
+      "publisher": "Democracy of Hope (Substack)",
+      "angle": "Argues the Iran war has already begun fragmenting the global oil market, with 16 percent of global production stranded behind Hormuz and Russia's shadow tanker fleet now operating in plain sight."
+    },
+    {
+      "url": "https://thetricontinental.org/newsletterissue/a-primer-on-the-petrodollar/",
+      "publisher": "Tricontinental Institute",
+      "angle": "Historical context: the petrodollar system was built on US military control of chokepoints and client states. Iran's control of Hormuz is the most direct challenge to that structure in fifty years."
+    }
+  ],
+  "brief": {
+    "actors": ["US", "China", "Russia", "Saudi Arabia", "Iran", "OPEC", "Deutsche Bank", "Federal Reserve"],
+    "whatHappened": "Bloomberg reported this week that yuan-denominated oil settlements exceeded $1 trillion per day for the first time, a milestone driven by the Iran war's disruption of Gulf oil flows through the Strait of Hormuz. Deutsche Bank published a note predicting the petroyuan is emerging as a structural alternative to the petrodollar, citing the war as a catalyst. Franklin Templeton pushed back sharply, arguing oil exporters need dollars for access to deep capital markets, not because of US military protection. The Fed held rates at 3.5-3.75 percent in March; March CPI came in at 3.3 percent annually with energy up 10.9 percent. Analysts estimate roughly 16 percent of global oil production is now stranded behind the Strait of Hormuz. Russia, whose economy has benefited from higher oil prices and the rehabilitation of its shadow tanker fleet, is operating those tankers in plain sight.",
+    "bottomLine": "The petrodollar system is not dying from a single blow; it is being hollowed out by the accumulation of workarounds that the US created conditions for by weaponizing the oil system as a geopolitical tool.",
+    "hiddenBets": [
+      {
+        "assumption": "The dollar's reserve currency status is safe because there is no viable alternative.",
+        "whyItMightBeWrong": "Franklin Templeton's argument assumes oil exporters are choosing between dollar markets and nothing. But China has been building yuan-denominated capital markets, clearing infrastructure, and swap lines for a decade. The alternative does not need to be as good as the dollar to be good enough for countries that feel coerced."
+      },
+      {
+        "assumption": "Saudi Arabia will stay in the dollar system because the US-Saudi security relationship holds.",
+        "whyItMightBeWrong": "The Iran war damaged that relationship. Saudi Arabia's position as the swing producer depends on Hormuz staying open, and the US war put that at risk. Riyadh is watching Washington prioritize its own interests and considering the margin of that relationship more carefully."
+      },
+      {
+        "assumption": "De-dollarization is a slow process that will take decades to matter.",
+        "whyItMightBeWrong": "Network effects in currency systems can shift faster than expected when a triggering event forces actors off their default behavior. The $1 trillion yuan daily settlement figure is a structural shift, not a temporary spike."
+      }
+    ],
+    "realDisagreement": "Deutsche Bank says the petrodollar system depends on a security guarantee, and that guarantee is no longer credible after the Iran war. Franklin Templeton says the system depends on capital market depth and liquidity, which no yuan market can match. Both are arguing past each other because they are describing two different things: Deutsche is talking about the political foundation of the system, Franklin is talking about the financial mechanics. Both foundations matter. The political foundation is cracking. The financial mechanics are still intact but are being actively worked around. The question is which foundation fails first. The market signal from EUR/USD (priced to hit 1.20 this year with 81.5 percent probability) suggests dollar weakness is already in motion, but not collapse.",
+    "whatNoOneIsSaying": "The US engineered the conditions for this problem. Weaponizing sanctions, blocking Iranian oil through military action, and using dollar-denominated financial infrastructure as a tool of coercion accelerated every country's interest in building alternatives. The petrodollar stress is a direct consequence of using the petrodollar as a weapon.",
+    "whoPays": [
+      {
+        "who": "US consumers and importers",
+        "how": "If the dollar loses reserve premium, import prices rise structurally. The US runs a persistent current account deficit that is financed in part by foreign dollar demand. Reduced foreign dollar demand means higher borrowing costs and a permanently weaker dollar for ordinary transactions.",
+        "when": "Medium-term."
+      },
+      {
+        "who": "Developing countries with dollar-denominated debt",
+        "how": "If the dollar weakens significantly, countries that borrowed in dollars but earn in local currencies face higher real debt burdens. If the dollar strengthens instead because of safe-haven flows, those same countries face crushing debt service on weak local currencies.",
+        "when": "Medium-term."
+      },
+      {
+        "who": "Gulf Arab exporters",
+        "how": "Their oil is currently stranded or selling at a discount because of the Hormuz closure. They are losing revenue every day the Strait remains contested, and the US military action that created this situation did not ask their permission.",
+        "when": "Immediate."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Managed erosion",
+        "whatHappens": "The dollar retains reserve currency status but sees its global share fall from roughly 58 percent to 45 percent over five years. The yuan handles oil settlements in Asia and the Gulf; the dollar handles global financial contracts. Both systems coexist. The US loses the 'exorbitant privilege' of cheap borrowing but does not face a currency crisis.",
+        "signal": "Saudi Arabia announces a small percentage of oil exports will be settled in yuan, framed as a pilot program."
+      },
+      {
+        "name": "Sharp fracture",
+        "whatHappens": "A second major US military action in the Middle East, or a US default threat, triggers a coordinated move by Gulf states and China to expand yuan-based oil settlement agreements. The dollar index falls more than 15 percent. The Fed is forced to raise rates aggressively. US consumer prices spike.",
+        "signal": "Saudi Arabia and the UAE announce a joint statement committing to settling a fixed percentage of oil exports in non-dollar currencies."
+      },
+      {
+        "name": "Dollar strengthens",
+        "whatHappens": "Global recession fear drives safe-haven dollar demand. Oil demand falls, reducing the pressure on petrodollar alternatives. The de-dollarization thesis is put on hold for two to three years. Yuan settlement volumes fall back below $1 trillion daily.",
+        "signal": "EUR/USD falls below 1.14 and the yield on 10-year Treasuries drops below 4 percent."
+      }
+    ],
+    "whatWouldChange": "A sustained ceasefire in Iran that reopens Hormuz would reduce the immediate pressure on the petrodollar system by restoring Gulf oil flows and reducing Russia's windfall. Conversely, a US Treasury market auction that fails to clear at expected rates would be the single most alarming confirmation that reserve demand is already structurally declining.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will EUR/USD hit 1.20 (High) in 2026?",
+        "url": "https://polymarket.com/event/will-eurusd-hit-in-2026",
+        "probability": 0.815
+      }
+    ]
+  }
+}

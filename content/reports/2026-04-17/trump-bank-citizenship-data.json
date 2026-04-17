@@ -1,0 +1,96 @@
+{
+  "id": "trump-bank-citizenship-data",
+  "date": "2026-04-17",
+  "generatedAt": "2026-04-17T13:05:00Z",
+  "title": "Trump Is About to Make Banks the Immigration Police.",
+  "subtitle": "An executive order requiring banks to collect citizenship data from all customers would turn the financial system into a deportation tool. Bessent says it's reasonable. Immigrant advocates say it creates an underclass with no safe place to keep money.",
+  "topic": "society",
+  "category": "power",
+  "tags": ["Trump", "immigration", "banks", "Bessent", "executive-order", "KYC", "citizenship"],
+  "coverImage": {
+    "url": "https://thehill.com/wp-content/uploads/sites/2/2026/02/69a07d64db2a09.48881656.jpeg",
+    "local": "/images/reports/2026-04-17/trump-bank-citizenship-data.jpg",
+    "credit": "The Hill"
+  },
+  "sources": [
+    {
+      "url": "https://www.the-express.com/news/politics/204948/trump-executive-order-banks-citizenship-info",
+      "publisher": "Daily Express US",
+      "angle": "Reports Bessent's Semafor dinner announcement and notes the order is the first public confirmation; frames it as extending UK-style customer identification."
+    },
+    {
+      "url": "https://amgreatness.com/2026/04/15/treasury-secretary-executive-order-coming-to-require-banks-collect-citizenship-data/",
+      "publisher": "American Greatness",
+      "angle": "Frames the order as a Know Your Customer security measure and a major shift in banking regulation to align with immigration enforcement."
+    },
+    {
+      "url": "http://www.fox9.com/news/citizenship-data-banks-trump-executive-order",
+      "publisher": "Fox 9",
+      "angle": "Includes the immigrant advocate counterargument: bank accounts for undocumented people allow them to pay taxes and avoid the cash economy that exposes them to crime and exploitation."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Bessent", "Treasury", "US banks", "undocumented immigrants"],
+    "whatHappened": "Treasury Secretary Scott Bessent confirmed at a Semafor dinner in Washington on April 14 that the Trump administration is preparing an executive order requiring banks to collect citizenship status information from all customers, new and existing. Bessent framed it as a Know Your Customer security measure, saying 'Why don't we have information on who's in our banking system?' The order has not yet been signed or made public. Under current law, US bank accounts do not require proof of citizenship; immigrants without legal status can and do hold bank accounts using Individual Taxpayer Identification Numbers. The executive order, if signed, would require banks to request citizenship documentation and would likely result in account closures or denials for undocumented customers.",
+    "bottomLine": "This is not a banking reform. It is a deportation infrastructure measure that uses the financial system as a detection and exclusion mechanism for people the administration cannot otherwise remove fast enough.",
+    "hiddenBets": [
+      {
+        "assumption": "Banks can practically verify citizenship status for existing customers.",
+        "whyItMightBeWrong": "There are roughly 11-12 million undocumented immigrants in the US. Requiring banks to re-verify all existing accounts would impose enormous compliance costs and create massive operational backlogs. Most large banks will lobby hard against the retroactive application. The order will likely apply to new accounts in practice, not existing ones."
+      },
+      {
+        "assumption": "Excluding undocumented immigrants from banking reduces their ability to remain in the US.",
+        "whyItMightBeWrong": "Undocumented immigrants excluded from banks move to cash, money orders, and informal systems. They become harder to track, not easier. The executive order may actually complicate enforcement by driving more activity underground while simultaneously making undocumented people more vulnerable to wage theft and financial exploitation."
+      },
+      {
+        "assumption": "The executive order is clearly within presidential authority over banking regulation.",
+        "whyItMightBeWrong": "Banks are chartered and regulated by a mix of federal and state authorities. Compelling state-chartered banks to add citizenship verification requirements through executive order rather than legislation may face significant legal challenges. The Bank Secrecy Act and existing KYC rules are statutory frameworks. An executive order cannot easily override them."
+      }
+    ],
+    "realDisagreement": "The real fork is between two views of the banking system's purpose. One view: the banking system is a public utility that should be broadly accessible; financial exclusion is a harm that increases poverty and crime. The other: the banking system is a privilege contingent on legal presence; providing services to people who are in the country illegally is a subsidy for illegal immigration. Bessent's stated justification is neither; it is a security argument about terrorist financing and foreign nationals operating undetected. That framing is doing a lot of work: it makes a broad immigration enforcement measure sound like targeted counterterrorism. The problem with the security frame is that the actual threat, foreign terrorists using US bank accounts, already has robust existing mechanisms under the Patriot Act. The citizenship verification order solves a different problem entirely.",
+    "whatNoOneIsSaying": "If undocumented immigrants lose bank access, they stop paying taxes through the withholding system. Many currently file tax returns using ITINs precisely because they want to build a record of contribution. The executive order, if it results in mass account closures, reduces tax compliance among a population that currently pays into a system they have no right to claim benefits from. The Treasury Department is signing an order that shrinks its own revenue base.",
+    "whoPays": [
+      {
+        "who": "Undocumented immigrants",
+        "how": "Loss of bank accounts means inability to receive direct-deposit wages, build savings safely, pay bills online, or access credit. They are pushed into the cash economy, which exposes them to wage theft, robbery, and exploitation.",
+        "when": "Immediate, once the order is signed."
+      },
+      {
+        "who": "Banks",
+        "how": "Compliance costs for retroactive citizenship verification on existing accounts would be substantial. Banks with large immigrant customer bases in states like California, Texas, and New York face the largest operational burden. Community banks and credit unions that serve immigrant communities could lose significant deposit bases.",
+        "when": "Medium-term."
+      },
+      {
+        "who": "Low-income neighborhood economies",
+        "how": "If immigrant households are excluded from banking, their spending becomes harder to track and their financial participation in local economies decreases. Businesses, landlords, and service providers that accept electronic payments from immigrant customers lose that transaction infrastructure.",
+        "when": "Medium-term."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "New accounts only",
+        "whatHappens": "Banks lobby successfully to limit the order to new accounts only, not existing ones. New undocumented arrivals cannot open accounts. Existing ITIN account holders are grandfathered. The order's practical enforcement impact is limited but its symbolic and deterrent effect is real.",
+        "signal": "Large bank lobbying groups release statements welcoming the order's intent while noting 'operational considerations' for existing customers."
+      },
+      {
+        "name": "Full retroactive enforcement",
+        "whatHappens": "The order requires citizenship verification for all accounts. Banks begin notifying existing ITIN customers of new documentation requirements. Mass account closures follow for those who cannot provide documentation. Legal challenges are filed immediately.",
+        "signal": "The signed executive order includes explicit language about existing customer re-verification timelines."
+      },
+      {
+        "name": "Legal block",
+        "whatHappens": "Advocacy organizations obtain a preliminary injunction within weeks of the order's signing, arguing it violates the Bank Secrecy Act's statutory framework, equal protection, or requires notice-and-comment rulemaking. The order is stayed pending litigation for months or years.",
+        "signal": "ACLU or similar organizations file suit within 48 hours of the order being signed."
+      }
+    ],
+    "whatWouldChange": "If a significant terrorist financing case were linked to ITIN bank accounts, the security justification would become much harder to dismiss. If a federal court finds the order is within executive authority and does not require legislation, the implementation timeline accelerates. If Congress passes the SAVE Act or similar legislation requiring citizenship verification for benefits, the banking order becomes one piece of a broader legislative framework rather than an isolated executive action.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "SCOTUS strikes down Trump's Birthright Citizenship EO?",
+        "url": "https://polymarket.com/event/scotus-strikes-down-trumps-birthright-citizenship-eo",
+        "probability": 0.937
+      }
+    ]
+  }
+}
