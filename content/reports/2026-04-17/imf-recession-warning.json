@@ -1,0 +1,96 @@
+{
+  "id": "imf-recession-warning",
+  "date": "2026-04-17",
+  "generatedAt": "2026-04-17T08:00:00Z",
+  "title": "The IMF Abandoned Its Baseline",
+  "subtitle": "When the world's economic referee stops issuing forecasts and starts issuing warnings, that is the forecast.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["IMF", "recession", "Iran", "oil", "inflation", "global economy"],
+  "coverImage": {
+    "url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2269663591.jpg?c=16x9&q=w_800,c_fill",
+    "local": "/images/reports/2026-04-17/imf-recession-warning.jpg",
+    "credit": "Getty Images / CNN"
+  },
+  "sources": [
+    {
+      "url": "https://us.cnn.com/2026/04/15/business/imf-global-recession-iran-war-intl-hnk",
+      "publisher": "CNN Business",
+      "angle": "IMF chief economist Pierre-Olivier Gourinchas warns that even if the war stops tonight, an oil shortfall for 2026 is already locked in; governments told to resist overspending"
+    },
+    {
+      "url": "https://www.wsws.org/en/articles/2026/04/15/wldc-a15.html",
+      "publisher": "World Socialist Web Site",
+      "angle": "The IMF dropped its standard baseline scenario entirely, replacing it with a 'reference scenario'; under the adverse scenario, global growth falls to 2.5 percent, the worst since COVID"
+    },
+    {
+      "url": "https://miraitalk.com/article/global-economy-imf-cuts-growth-forecast-amid-iran-us-conflict-and-hormuz-blockade/13686",
+      "publisher": "MiraiTalk",
+      "angle": "Global growth forecast cut to 3.1 percent; IMF report emphasizes that the Hormuz blockade is the structural mechanism connecting the war to global economic damage"
+    }
+  ],
+  "brief": {
+    "actors": ["IMF", "Iran", "US", "China", "India"],
+    "whatHappened": "The International Monetary Fund released its World Economic Outlook on April 15, cutting its global growth forecast to 3.1 percent for 2026, down from 3.5 percent in 2025, and projecting inflation rising to 4.4 percent. In an unprecedented move, the IMF abandoned its standard 'baseline scenario' and replaced it with a 'reference scenario' that assumes the war ends quickly. Under an adverse scenario, global growth falls to 2.5 percent, the lowest since the COVID pandemic. The IMF chief economist confirmed that even a ceasefire tonight would leave a global oil shortfall for 2026, as the IEA reported the largest supply disruption in history: 10.1 million barrels per day lost in March. The IMF also told governments to resist fiscal stimulus to shield consumers from energy prices, noting public finances were 'already strained.'",
+    "bottomLine": "The IMF is not warning that a recession might happen if things go badly. It is warning that the damage is already in the pipeline regardless of what happens diplomatically, and that governments do not have the fiscal room to absorb it.",
+    "hiddenBets": [
+      {
+        "assumption": "Governments can protect consumers from energy price shocks through subsidies and transfers",
+        "whyItMightBeWrong": "The IMF explicitly warned against this. Post-COVID debt levels mean most governments are operating with limited headroom. Stimulus that worked in 2020 would push already-strained sovereign balance sheets closer to instability in 2026."
+      },
+      {
+        "assumption": "A ceasefire will quickly restore oil supply and normalize prices",
+        "whyItMightBeWrong": "The IMF chief economist said directly that even if fighting stopped immediately, 2026 will still have a global oil shortfall. Infrastructure damage, supply chain reset time, and the geopolitical risk premium in oil pricing do not disappear when guns go silent."
+      },
+      {
+        "assumption": "Central banks can manage this inflation through rate policy the way they handled 2022",
+        "whyItMightBeWrong": "In 2022, the inflation shock was primarily demand-driven. This is supply-driven: there is less oil regardless of how much you slow the economy. Rate hikes reduce demand but do not rebuild Iranian port infrastructure or reopen Hormuz. The tool is wrong for the problem."
+      }
+    ],
+    "realDisagreement": "The real fork is whether the current global economic shock is a sharp but temporary disruption, or whether it reshapes the structural baseline that policymakers will operate from for years. If it is temporary, the right response is to hold fiscal and monetary lines and wait it out. If it is structural, every day of inaction compounds the damage. The IMF's choice to drop its baseline scenario is essentially an admission that it does not know which world we are in. That admission matters more than the numbers.",
+    "whatNoOneIsSaying": "The IMF told governments not to use fiscal stimulus to shield consumers, but it did not name the political consequence: governments that follow this advice will face electoral punishment. The technocratic prescription and the political survival calculation are directly opposed. Which governments follow the IMF's advice will tell you which ones have already decided they are losing the next election anyway.",
+    "whoPays": [
+      {
+        "who": "Low-income countries dependent on oil imports",
+        "how": "They pay the full market price for replacement oil without the fiscal capacity to subsidize it. Import bills balloon, current account deficits widen, currencies depreciate. The IMF's own prescription tells these countries they cannot borrow to offset this.",
+        "when": "Immediate and accelerating through Q2 2026"
+      },
+      {
+        "who": "Emerging market governments with dollar-denominated debt",
+        "how": "Energy price inflation typically strengthens the dollar as a safe haven. Stronger dollar means larger debt service burdens in local currency terms. Countries like Pakistan, Egypt, and Sri Lanka are already close to the edge.",
+        "when": "Medium-term: next 6-18 months as debt maturities come due"
+      },
+      {
+        "who": "European energy consumers",
+        "how": "Europe rebuilt its energy supply chains after Russia's invasion of Ukraine by sourcing more LNG and Middle Eastern oil. Iran war disrupts precisely the supply routes Europe diversified into. The hedge failed.",
+        "when": "Immediate; European energy ministers have already begun emergency consultations"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Contained damage",
+        "whatHappens": "War ends within weeks. Oil markets normalize over 3-6 months. Global growth comes in near the reference scenario at 3.1 percent. Governments absorb the hit through modest fiscal loosening. No sovereign defaults.",
+        "signal": "Watch for the IEA revising its supply disruption estimate downward, and for oil futures curves to flatten."
+      },
+      {
+        "name": "Slow grind",
+        "whatHappens": "War drags on through Q2. Ceasefire extensions replace actual peace. Oil stays $40-50 above pre-war levels. Global growth falls into the 2.5-3 percent range. Several emerging market currencies face speculative attacks. IMF issues special drawing rights to stabilize the most exposed.",
+        "signal": "Watch for IMF emergency consultations with more than three countries simultaneously, and for the World Bank activating crisis lending windows."
+      },
+      {
+        "name": "Cascade",
+        "whatHappens": "A sovereign default in a mid-sized emerging market triggers contagion. Dollar funding conditions tighten globally. Central banks in developed markets face the worst combination: inflation from oil and recession from financial tightening. The adverse scenario becomes the baseline.",
+        "signal": "Watch for credit default swap spreads on Pakistan, Egypt, or Argentina widening past 600 basis points."
+      }
+    ],
+    "whatWouldChange": "The bottom line changes if a ceasefire comes with a credible Hormuz reopening timetable. That would change the oil supply outlook materially, not just optically. Short of that, the damage the IMF has outlined is already in motion and the only question is how large it gets.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "US recession by end of 2026?",
+        "url": "https://polymarket.com/event/us-recession-by-end-of-2026",
+        "probability": 0.265
+      }
+    ]
+  }
+}

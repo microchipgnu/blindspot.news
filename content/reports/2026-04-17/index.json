@@ -1,0 +1,41 @@
+{
+  "date": "2026-04-17",
+  "generatedAt": "2026-04-17T08:00:00Z",
+  "reports": [
+    {
+      "id": "iran-ceasefire-hormuz",
+      "title": "The Ceasefire That Depends on the Blockade",
+      "subtitle": "Iran and the US are negotiating peace while simultaneously threatening the conditions that make peace impossible.",
+      "category": "conflict",
+      "topic": "geopolitics"
+    },
+    {
+      "id": "imf-recession-warning",
+      "title": "The IMF Abandoned Its Baseline",
+      "subtitle": "When the world's economic referee stops issuing forecasts and starts issuing warnings, that is the forecast.",
+      "category": "power",
+      "topic": "economy"
+    },
+    {
+      "id": "haiti-tps-house-vote",
+      "title": "Ten Republicans Voted Against Trump on Immigration. It Will Not Matter.",
+      "subtitle": "The House passed a bill protecting Haitian immigrants. The Senate will kill it. Trump will veto anything that survives. The vote was not for policy; it was for the record.",
+      "category": "power",
+      "topic": "politics"
+    },
+    {
+      "id": "uk-social-media-ban",
+      "title": "Parliament Voted Down the Ban. Starmer Called Tech CEOs Into Downing Street Anyway.",
+      "subtitle": "The UK government rejected an immediate social media ban for under-16s while simultaneously signaling it might do exactly that.",
+      "category": "decision",
+      "topic": "society"
+    },
+    {
+      "id": "canada-ai-content-labeling",
+      "title": "Canada Wants to Label AI Content. The Problem Is Everything Is AI Content Now.",
+      "subtitle": "A House of Commons committee wants mandatory labels on AI-generated material. The recommendation is reasonable. The implementation problem is that the boundary between AI-assisted and AI-generated has already dissolved.",
+      "category": "decision",
+      "topic": "tech"
+    }
+  ]
+}

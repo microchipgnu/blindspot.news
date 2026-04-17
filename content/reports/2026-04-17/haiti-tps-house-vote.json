@@ -1,0 +1,93 @@
+{
+  "id": "haiti-tps-house-vote",
+  "date": "2026-04-17",
+  "generatedAt": "2026-04-17T08:00:00Z",
+  "title": "Ten Republicans Voted Against Trump on Immigration. It Will Not Matter.",
+  "subtitle": "The House passed a bill protecting Haitian immigrants. The Senate will kill it. Trump will veto anything that survives. The vote was not for policy; it was for the record.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["immigration", "TPS", "Haiti", "Republicans", "Trump", "Congress"],
+  "coverImage": {
+    "url": "https://media.nbcnewyork.com/2026/04/GettyImages-2267815214.jpg?quality=85&strip=all&resize=1200%2C675",
+    "local": "/images/reports/2026-04-17/haiti-tps-house-vote.jpg",
+    "credit": "Getty Images / NBC New York"
+  },
+  "sources": [
+    {
+      "url": "https://www.npr.org/2026/04/16/g-s1-117718/house-passes-bill-extending-protections-for-haitian-migrants-in-the-u-s",
+      "publisher": "NPR",
+      "angle": "House voted 224-204 to extend TPS for Haitian migrants through 2029; 10 Republicans joined Democrats; White House issued veto threat immediately"
+    },
+    {
+      "url": "https://www.newsweek.com/house-gop-join-dems-advance-haiti-tps-bill-11835017",
+      "publisher": "Newsweek",
+      "angle": "Full list of Republican defectors: Bacon, Fitzpatrick, Lawler, Salazar, Gimenez, Malliotakis; all from competitive districts or Florida Haitian-American communities"
+    },
+    {
+      "url": "https://www.aclu.org/press-releases/house-passes-bill-to-create-humanitarian-protections-for-haitians-with-bipartisan-support",
+      "publisher": "ACLU",
+      "angle": "Frames this as first pro-immigrant bill to pass Congress this session, a structural rebuke to Trump's immigration agenda"
+    },
+    {
+      "url": "https://www.nbcnewyork.com/news/national-international/house-advances-bill-shield-haitian-immigrants/6490755/",
+      "publisher": "NBC New York",
+      "angle": "Florida Republicans' votes explained by large Haitian-American constituencies; highlights electoral calculus behind the defection"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Republicans", "Democrats", "Haiti", "Pressley"],
+    "whatHappened": "The House of Representatives voted 224-204 on April 16 to pass legislation extending Temporary Protected Status for Haitian immigrants through 2029. Ten Republicans joined all Democrats in approving the bill, which was forced to a vote through a discharge petition led by Rep. Ayanna Pressley. The Republicans who defected include Florida members with large Haitian-American constituencies and members from competitive swing districts including New York. The White House immediately issued a veto threat, calling it a 'terrible bill' that 'is going nowhere.' The bill now heads to the Senate, where Republicans hold the majority and have shown no appetite for immigration measures that conflict with Trump.",
+    "bottomLine": "This vote was not legislation; it was a political alibi. The Republicans who crossed over have already done the calculation that their constituents need to see the vote, not the law. The bill is dead and everyone in the chamber knew it when they voted.",
+    "hiddenBets": [
+      {
+        "assumption": "Bipartisan votes on immigration signal a genuine rift in Republican support for Trump's immigration agenda",
+        "whyItMightBeWrong": "The Republicans who voted yes were selected for their geographic position, not their ideology. Salazar and Gimenez represent districts with large Haitian-American populations. They are not dissenting from Trump; they are managing constituent pressure while knowing the veto makes their vote cost-free."
+      },
+      {
+        "assumption": "The discharge petition mechanism is a meaningful tool for the opposition to force votes on legislation it supports",
+        "whyItMightBeWrong": "Discharge petitions can force a floor vote, but they cannot override a Senate majority or a presidential veto. If the discharge petition becomes the Democrats' primary legislative strategy, it is a strategy for losing while appearing active rather than a strategy for winning."
+      },
+      {
+        "assumption": "The Haitian immigrant community will reward these Republican votes",
+        "whyItMightBeWrong": "If TPS is not extended in practice, the vote is symbolism. Communities that have watched prior TPS fights know the difference between a member who voted and a member who fought. The political credit for a symbolic vote depreciates quickly when deportations continue."
+      }
+    ],
+    "realDisagreement": "The actual fork is whether performing opposition to Trump's immigration agenda, through votes that cannot become law, builds political capital for the 2026 midterms, or whether it exhausts it. Democrats are betting that being on record matters to their base and to swing voters. Republicans who defected are betting their constituents want the gesture more than the outcome. The harder question: is there a version of this strategy that actually changes policy, or is it permanently symbolic? If it is permanently symbolic, it becomes a ritual that the White House can afford to ignore indefinitely.",
+    "whatNoOneIsSaying": "The White House's statement said 'the administration understands members have to vote their districts at times.' That is not a statement of opposition. It is a permission slip. Trump's team has concluded that a handful of Florida Republicans can vote for Haitian TPS protection, the bill can die in the Senate, and no one's loyalty is questioned. That arrangement is actually stable for the White House: it defuses electoral pressure in competitive districts without costing anything substantively.",
+    "whoPays": [
+      {
+        "who": "Haitian TPS holders",
+        "how": "Without a law, TPS protections depend on administrative renewals that the Trump administration has been contesting in court. Court-blocked deportations resume if cases are resolved unfavorably. The House vote changes nothing about their legal exposure.",
+        "when": "Ongoing legal uncertainty; court cases moving through the system in the next 6-12 months"
+      },
+      {
+        "who": "Florida Haitian-American communities",
+        "how": "Constituent pressure gets absorbed by symbolic votes. Community organizations that mobilized for this legislation will need to explain to members why passing the House was not enough, and will face difficulty sustaining mobilization against an endless series of procedural defeats.",
+        "when": "Immediate community impact; sustained organizational fatigue over 12-18 months"
+      },
+      {
+        "who": "Senate Democrats",
+        "how": "The bill arrives in the Senate where it will be tabled or blocked without debate. Democratic senators in competitive states will be forced to take a vote that will be used in attack ads by Republican opponents. The House vote creates a Senate liability.",
+        "when": "Next 30-60 days as the bill moves through Senate procedural stages"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Senate burial",
+        "whatHappens": "The bill reaches the Senate, where Republican leadership refuses to schedule a vote or tables it procedurally. Nothing changes for TPS holders. The Republican defectors use their House vote in their campaign materials.",
+        "signal": "Watch for Senate Majority Leader to announce the bill will not receive a floor vote within the next two weeks."
+      },
+      {
+        "name": "Veto showcase",
+        "whatHappens": "Enough Senate Republicans, facing their own competitive districts, allow a vote that passes narrowly. Trump vetoes it publicly and prominently. The veto becomes a campaign signal to his base.",
+        "signal": "Watch for Trump posting about the bill before the Senate vote, which would indicate he wants the veto moment rather than a quiet kill."
+      },
+      {
+        "name": "Court resolution",
+        "whatHappens": "Federal courts issue a definitive ruling on the administration's authority to terminate TPS, making the legislative question moot. If courts side with TPS holders, the bill's failure in the Senate becomes irrelevant. If courts side with the administration, the bill's failure becomes catastrophic.",
+        "signal": "Watch for the Supreme Court granting or denying certiorari on the TPS cases currently working through the circuit courts."
+      }
+    ],
+    "whatWouldChange": "The bottom line changes if Senate Republicans in Florida or New York face the same constituent pressure as their House counterparts and can be peeled off. That requires the affected communities to target specific senators with the same precision Pressley's coalition targeted House members. It has not happened yet."
+  }
+}

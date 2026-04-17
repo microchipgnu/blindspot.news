@@ -1,0 +1,52 @@
+{
+  "date": "2026-04-17",
+  "threads": [
+    {
+      "id": "war-as-economic-shock",
+      "title": "The Iran War Is Doing What the Tariffs Could Not",
+      "description": "The Iran-US conflict and the IMF recession warning are not two separate stories. The war is the single mechanism producing global oil supply collapse, fiscal stress, and the conditions under which every other story in today's brief is playing out. The ceasefire negotiations are happening inside an economy already structurally damaged by the blockade. The UK government is warning against fiscal stimulus at the IMF meeting in Washington while simultaneously facing the same energy price spiral the IMF warned about. These are not parallel developments; one is causing the other.",
+      "type": "cause-effect",
+      "stories": ["iran-ceasefire-hormuz", "imf-recession-warning"],
+      "connections": [
+        {
+          "from": "iran-ceasefire-hormuz",
+          "to": "imf-recession-warning",
+          "relationship": "The Hormuz blockade is the specific mechanism the IMF identified as producing the largest oil supply disruption in recorded history, locking in 2026 economic damage regardless of whether the ceasefire holds."
+        }
+      ]
+    },
+    {
+      "id": "symbolic-vs-structural",
+      "title": "The Gap Between Votes and Outcomes",
+      "description": "Three of today's five stories share a hidden structure: an institution takes a visible, high-profile action in response to a problem, the action does not structurally resolve the problem, and everyone involved understands this. The House passed the Haiti TPS bill knowing the Senate would kill it. The UK Parliament rejected the social media ban while Starmer summoned tech CEOs to make essentially voluntary commitments. Canada's committee issued 13 recommendations that will take years to become law while AI displacement of creative workers continues now. Each case is a performance of governance that substitutes for governance.",
+      "type": "tension-cluster",
+      "stories": ["haiti-tps-house-vote", "uk-social-media-ban", "canada-ai-content-labeling"],
+      "connections": [
+        {
+          "from": "haiti-tps-house-vote",
+          "to": "uk-social-media-ban",
+          "relationship": "Both involve legislative bodies taking votes they know will not resolve the underlying policy problem, because the political cost of inaction exceeds the political cost of a visible but symbolic action."
+        },
+        {
+          "from": "uk-social-media-ban",
+          "to": "canada-ai-content-labeling",
+          "relationship": "Both governments are managing tech company power through recommendation and voluntary commitment frameworks rather than binding enforcement, because the companies' legal and lobbying resources make binding enforcement politically and practically costly."
+        }
+      ]
+    },
+    {
+      "id": "tech-regulation-without-enforcement",
+      "title": "Governments Keep Winning Arguments Against Tech and Losing the Policy Fight",
+      "description": "The UK and Canada stories together reveal a pattern in Western democracies' relationship with technology companies: the diagnosis is correct, the proposed remedies are insufficient, and the companies' voluntary compliance framework is preferred over binding enforcement. In both cases, the affected communities (bereaved parents in the UK, creative workers in Canada) have made their case successfully at the level of political rhetoric, and unsuccessfully at the level of structural change. The Downing Street tech summit and the Canadian heritage committee hearing are the same type of event: a government asserting authority it has not yet operationalized.",
+      "type": "tension-cluster",
+      "stories": ["uk-social-media-ban", "canada-ai-content-labeling"],
+      "connections": [
+        {
+          "from": "canada-ai-content-labeling",
+          "to": "uk-social-media-ban",
+          "relationship": "Canada's labeling recommendations and the UK's age assurance preference both create compliance frameworks that major platforms can satisfy through documentation rather than effective change, concentrating regulatory capture at the point of standard-setting."
+        }
+      ]
+    }
+  ]
+}
