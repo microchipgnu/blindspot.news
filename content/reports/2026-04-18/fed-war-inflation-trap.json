@@ -1,0 +1,113 @@
+{
+  "id": "fed-war-inflation-trap",
+  "date": "2026-04-18",
+  "generatedAt": "2026-04-18T12:30:00Z",
+  "title": "The Fed's War Hostage",
+  "subtitle": "Governor Waller said rate cuts are possible if the Iran war ends quickly. It may not end quickly. The Fed is now making monetary policy based on a military outcome it cannot predict or influence.",
+  "topic": "economy",
+  "category": "decision",
+  "tags": ["Fed", "Federal Reserve", "Iran", "inflation", "interest rates", "recession", "IMF", "oil"],
+  "coverImage": {
+    "url": "https://www.reuters.com/resizer/v2/CRZJIO4QVFPHNIAAQFXIBJNFZY.jpg?auth=3405e455d62229dd02f448e5ff097ed0a0b033c2a4096c8b1125a2e0e5eb181d&height=1005&width=1920&quality=80&smart=true",
+    "local": "/images/reports/2026-04-18/fed-war-inflation-trap.jpg",
+    "credit": "Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://www.reuters.com/business/feds-waller-says-swift-war-end-could-keep-rate-cut-hopes-alive-2026-04-17/",
+      "publisher": "Reuters",
+      "angle": "Straight news report of Waller's April 17 speech: war drives near-term inflation, quick end keeps rate cut door open, prolonged conflict makes cuts less likely. Key quote: 'The longer energy prices remain elevated and the Strait is constrained, the greater the chance...'"
+    },
+    {
+      "url": "https://www.federalreserve.gov/newsevents/speech/waller20260417a.htm",
+      "publisher": "Federal Reserve",
+      "angle": "Primary source. Waller calls this 'One Transitory Shock After Another.' He is explicit that his February outlook was overtaken by the Iran war, which sent global energy prices up and created a new inflationary shock. He is treating this like COVID-era transitory shocks. The title alone is a tell about how he is framing the risk."
+    },
+    {
+      "url": "https://us.cnn.com/2026/04/15/business/imf-global-recession-iran-war-intl-hnk",
+      "publisher": "CNN Business",
+      "angle": "IMF view: global oil shortfall this year even if war ended this week. Governments should resist broad energy subsidies. Public finances already strained. The IMF is flagging a fiscal and monetary double bind that Waller's speech does not directly address."
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/long-iran-war-may-require-painful-central-bank-tightening-imf-chief-economist-2026-04-14/",
+      "publisher": "Reuters (IMF's Gourinchas interview)",
+      "angle": "IMF chief economist: a long war may require more economic pain than the 2022 rate-hiking cycle to control inflation, because COVID inflation made the world more inflation-sensitive. But Gourinchas also says this is not 1970s stagflation. Frames the bet as central banks needing to act earlier and harder if the war extends."
+    }
+  ],
+  "brief": {
+    "actors": ["Fed", "Waller", "IMF", "Iran", "Trump", "OPEC"],
+    "whatHappened": "On April 17, Federal Reserve Governor Christopher Waller gave a speech titled 'One Transitory Shock After Another,' explicitly conditioning his rate-cut outlook on the pace of resolution in the US-Israeli war with Iran. He said the war has sent energy prices up, created a new inflationary shock, and complicated the Fed's ability to assess the labor market. Rate cuts remain possible in 2026 if the war ends quickly; prolonged conflict makes cuts less likely and could require rate increases to contain inflation. The IMF simultaneously published a regional economic outlook warning that Europe's growth forecast has deteriorated to 1.1 percent in 2026 due to the energy supply shock, and IMF chief economist Gourinchas warned that a prolonged war could require more painful monetary tightening than the post-COVID rate cycle. Polymarket prices a 35 percent chance of zero Fed cuts in 2026 and only a 10 percent chance of a cut by the June meeting.",
+    "bottomLine": "The Fed's inflation mandate now depends on a military ceasefire that neither the Fed nor the US government has demonstrated it can deliver on any particular timeline. The 'transitory' framing Waller is using was wrong once; it may be structurally wrong in a way that is harder to recover from the second time.",
+    "hiddenBets": [
+      {
+        "assumption": "The Iran war energy shock is temporary and will resolve on a monetary-policy-relevant timeline.",
+        "whyItMightBeWrong": "Waller's 'One Transitory Shock After Another' framing treats each disruption as temporary by definition. But the Strait of Hormuz constraint is not a weather event or a supply chain bottleneck: it is the product of active military operations that neither side has demonstrated an ability to end. The transitory label may be hope dressed as analysis."
+      },
+      {
+        "assumption": "The Fed can hold rates through a war-driven inflation spike without the labor market deteriorating.",
+        "whyItMightBeWrong": "Energy price shocks hit consumers and businesses simultaneously. Small businesses, especially in logistics and manufacturing, cannot pass through energy cost increases the way large companies can. If the labor market softens faster than inflation recedes, the Fed will face stagflation conditions where both raising and cutting rates cause harm."
+      },
+      {
+        "assumption": "Markets have priced the war scenario correctly.",
+        "whyItMightBeWrong": "Polymarket gives only 35 percent odds to zero Fed cuts in 2026, suggesting markets expect at least one cut. But that expectation is conditioned on a moderately quick war resolution that the military situation does not obviously support. The market may be pricing diplomatic optimism rather than battlefield reality."
+      }
+    ],
+    "realDisagreement": "The genuine tension is between two accurate observations: the Fed has a mandate to maintain price stability, which the war is threatening; and the Fed has a mandate to support maximum employment, which high rates are threatening. You cannot fully honor both at once while a war you cannot control drives energy prices. The choice is who bears the cost of that uncertainty. Holding rates (or raising them) to fight war-driven inflation transfers the cost to workers who lose jobs and homeowners who cannot refinance. Cutting rates to support employment transfers the cost to consumers as inflation persists. The Fed will cut eventually, probably too late, because the political cost of persistently high inflation is larger than the political cost of a soft labor market, and because central banks are institutionally more afraid of repeating 1970s stagflation than of repeating 2023 over-tightening. That bias shapes the decision even when it should not.",
+    "whatNoOneIsSaying": "The Fed cannot end the Iran war. It is setting monetary policy based on an input it cannot influence, while publicly signaling that cuts are conditional on a military outcome. That is not a policy position; it is a wish. Every time Waller or Powell say 'if the war ends quickly,' they are admitting that the most important variable in the US economy right now is outside their control.",
+    "whoPays": [
+      {
+        "who": "Variable-rate mortgage holders",
+        "how": "Every month that rates stay elevated due to war-prolonged inflation is a month of higher monthly payments. Refinancing opportunities remain closed. The gap between their rate and pre-war rate expectations widens.",
+        "when": "Immediate and compounding monthly"
+      },
+      {
+        "who": "Small and mid-size businesses in energy-intensive industries",
+        "how": "Energy costs have increased faster than they can be passed through to customers. Borrowing to bridge the gap is more expensive due to elevated rates. The combination squeezes margins from both sides simultaneously.",
+        "when": "Q2-Q3 2026, accelerating if war extends past summer"
+      },
+      {
+        "who": "Emerging market governments with dollar-denominated debt",
+        "how": "High US rates strengthen the dollar and make servicing dollar debt more expensive in local currency terms. The IMF's warning about strained public finances applies most acutely to countries that borrowed heavily in dollars and now face both higher debt service and energy import costs.",
+        "when": "Ongoing, with crisis risk if war extends 6-12 months"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Quick resolution, cuts resume",
+        "whatHappens": "Ceasefire in the Iran war by June 2026 allows energy prices to partially recover. Inflation data for July-August shows decelerating pressure. The Fed cuts once in September and signals further cuts contingent on data. Markets reprice to 2-3 cuts in the next 12 months.",
+        "signal": "A verified ceasefire agreement with Strait of Hormuz transit guarantees by early June 2026."
+      },
+      {
+        "name": "Prolonged war, stagflation pressure",
+        "whatHappens": "War continues through Q3. Energy prices remain elevated. Inflation stays above 3 percent. The labor market softens as energy-sensitive businesses reduce hours and hiring. The Fed holds rates while both employment and price targets deteriorate simultaneously. No cuts in 2026.",
+        "signal": "Fed's July meeting statement removes language about rate cuts and adds language about 'monitoring inflation expectations closely.'"
+      },
+      {
+        "name": "Forced tightening",
+        "whatHappens": "Inflation expectations become unanchored as the war extends past 6 months. The Fed raises rates by 25-50 basis points to defend its credibility. A mild recession in H2 2026 is accepted as the price of preventing a worse inflation spiral.",
+        "signal": "Any FOMC member publicly uses language about 're-anchoring inflation expectations' or 'credibility' in April or May 2026."
+      }
+    ],
+    "whatWouldChange": "A verified, durable ceasefire with international guarantees for Strait transit. Not a temporary pause, not a diplomatic statement: an operationally verified opening of the Strait, sustained for at least 30 days, that allows energy markets to price a genuine resolution. Anything short of that is noise.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will no Fed rate cuts happen in 2026?",
+        "url": "https://polymarket.com/event/how-many-fed-rate-cuts-in-2026",
+        "probability": 0.35
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Fed rate cut by June 2026 meeting?",
+        "url": "https://polymarket.com/event/fed-rate-cut-by-629",
+        "probability": 0.10
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US recession by end of 2026?",
+        "url": "https://polymarket.com/event/us-recession-by-end-of-2026",
+        "probability": 0.24
+      }
+    ]
+  }
+}

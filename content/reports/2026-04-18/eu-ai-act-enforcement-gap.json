@@ -1,0 +1,94 @@
+{
+  "id": "eu-ai-act-enforcement-gap",
+  "date": "2026-04-18",
+  "generatedAt": "2026-04-18T12:27:00Z",
+  "title": "The Law That Cannot Enforce Itself",
+  "subtitle": "The EU AI Act has been in force for two years. Not a single enforcement action has been taken against a deployed high-risk system. The systems it was designed to govern are still expanding.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["EU", "AI regulation", "AI Act", "enforcement", "Digital Omnibus", "governance"],
+  "coverImage": {
+    "url": "https://edri.org/wp-content/uploads/2026/04/OL_Safeguard-scaled.png",
+    "local": "/images/reports/2026-04-18/eu-ai-act-enforcement-gap.jpg",
+    "credit": "EDRi"
+  },
+  "sources": [
+    {
+      "url": "https://expatriot116.substack.com/p/the-ai-regulatory-enforcement-fiction",
+      "publisher": "Substack / Marguerite Arnold",
+      "angle": "Detailed structural critique: enforcement infrastructure is not built, standards are late, and the Digital Omnibus delay is framed as technical prudence while being driven by industry pressure. Most damning read of the gap."
+    },
+    {
+      "url": "https://edri.org/our-work/open-letter-eu-lawmakers-must-safeguard-the-ai-act/",
+      "publisher": "EDRi (European Digital Rights)",
+      "angle": "41 civil society organizations call the Omnibus procedurally illegitimate and substantively a deregulation move. Frames the delay as stripping rights from people already subject to unaccountable AI systems."
+    },
+    {
+      "url": "https://en.ilsole24ore.com/art/industry-asks-europe-for-simpler-rules-and-clearer-timeframes-AI2UKIXC",
+      "publisher": "Il Sole 24 Ore",
+      "angle": "Industry side: BSA and 14 other trade associations call for simpler rules and extended grace periods. Frames compliance burden as threatening innovation. Represents the lobby view that drove the delay."
+    },
+    {
+      "url": "https://dev.to/aguardic/the-eu-ai-act-delay-is-not-a-reprieve-heres-how-to-use-the-extra-time-5ajd",
+      "publisher": "DEV Community",
+      "angle": "Practitioner view: delays change deadlines but not the underlying compliance work. Argues teams pausing implementation are making a strategic mistake. Useful as a counterweight to industry lobbying."
+    }
+  ],
+  "brief": {
+    "actors": ["EU Commission", "EU Parliament", "EDRi", "BSA", "US Tech Industry"],
+    "whatHappened": "The EU AI Act entered force in August 2024 with penalties up to 35 million euros or 7 percent of global revenue for violations. Two years on, zero enforcement actions have been taken against any deployed high-risk AI system. On March 26, 2026, the European Parliament voted 569 to 45 to pass the Digital Omnibus package, which delays the main compliance obligations for high-risk systems from August 2026 to December 2027 at the earliest. The enforcement infrastructure the Act depends on is not ready: technical standards from CEN and CENELEC missed their 2025 deadline, only 8 of 27 member states have designated national enforcement contacts, and the Commission's own guidance on high-risk system classification arrived late.",
+    "bottomLine": "The EU AI Act is not a regulation. It is a compliance performance: companies produce documentation that satisfies formal requirements, enforcement bodies do not yet exist to verify whether that documentation reflects what systems actually do, and the systems themselves keep running.",
+    "hiddenBets": [
+      {
+        "assumption": "The delay is a technical necessity caused by missing standards.",
+        "whyItMightBeWrong": "The Commission missed its own deadlines for guidance and standards not because the work was hard but because it deprioritized it under sustained US and industry diplomatic pressure. The infrastructure gap is a result, not a cause, of the political choice to delay."
+      },
+      {
+        "assumption": "When enforcement eventually arrives, the Act's teeth will be usable.",
+        "whyItMightBeWrong": "By December 2027, the systems under review will be 3-4 years older, embedded in government procurement contracts, and operationally indispensable. Enforcement against entrenched systems is structurally harder than enforcement against new ones. The delay is not a pause; it is a burial."
+      },
+      {
+        "assumption": "Compliance documentation produced now is evidence of actual accountability.",
+        "whyItMightBeWrong": "The compliance industry has grown around producing artefacts that satisfy formal requirements, not around verifying whether systems behave as documented. Risk assessments, model cards, and oversight procedures exist because they are required, not because they change what AI systems do to people."
+      }
+    ],
+    "realDisagreement": "The genuine fork: should a regulation hold to its deadlines even when the enforcement infrastructure is not ready, risking legally uncertain penalties companies cannot reliably comply with? Or should it delay until the infrastructure exists, accepting that the systems it was designed to govern will operate without accountability in the meantime? Both sides have a point. Legal uncertainty does impose real compliance costs. But the delay argument assumes those costs land equally on all parties. They do not. The cost of uncertain compliance falls on companies and lawyers. The cost of no enforcement falls on people whose welfare, credit, and employment are being decided by unaccountable systems right now. The asymmetry is the story. The industry won this argument because it could afford to keep making it; the people who bear the actual cost of delayed enforcement cannot send lobbyists to Brussels.",
+    "whatNoOneIsSaying": "The Commission missed its own standards and guidance deadlines before any lobbying pressure arrived. The enforcement gap is partly self-inflicted. Blaming industry for the delay while ignoring the Commission's own failures makes the story simpler and less true.",
+    "whoPays": [
+      {
+        "who": "People in welfare, credit, and employment screening systems",
+        "how": "Automated decision systems operating in high-risk categories continue processing consequential decisions without the human oversight the Act requires. Appeals are nominal, documentation is untested. The delay means no accountability until late 2027 at the earliest.",
+        "when": "Now, continuously, through the delay period"
+      },
+      {
+        "who": "Smaller EU AI companies",
+        "how": "Large US firms with compliance resources can absorb uncertainty and delay; smaller EU companies making genuine good-faith compliance investments are disadvantaged relative to those who waited. The delay rewards non-compliance.",
+        "when": "Immediate competitive harm through 2027"
+      },
+      {
+        "who": "National competent authorities in 19 of 27 member states",
+        "how": "Countries that have not designated enforcement contacts now have less pressure to build infrastructure, making a functional enforcement regime in 2027 even less likely than the Omnibus assumes.",
+        "when": "Slow-burn institutional erosion through 2026-2027"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Paper compliance holds",
+        "whatHappens": "The Omnibus passes in July 2026, the December 2027 deadline becomes the new baseline, and the compliance industry continues producing documentation without enforcement testing it. High-risk AI expands with a formal paper trail and no accountability.",
+        "signal": "National competent authorities remain undesignated in more than half of member states by end of 2026."
+      },
+      {
+        "name": "A single enforcement action breaks the dam",
+        "whatHappens": "One member state, likely France or Germany, uses existing tools to bring an action against a high-risk system in welfare or employment before the August 2026 original deadline. The precedent forces other states to act, creating patchwork enforcement that pressures the Commission to accelerate infrastructure.",
+        "signal": "A national regulator opens a formal investigation of an operational AI system in a named high-risk category by June 2026."
+      },
+      {
+        "name": "Omnibus collapses and the original deadline applies",
+        "whatHappens": "Trilogue negotiations fail to reach agreement before August 2026. The original deadline technically applies to an enforcement infrastructure that cannot handle it, creating mass legal confusion and de facto non-enforcement through a different mechanism.",
+        "signal": "Trilogue still unresolved by June 30, 2026."
+      }
+    ],
+    "whatWouldChange": "Evidence that national competent authorities are actively building investigative capacity, hiring technical staff, and opening preliminary investigations against specific named high-risk systems. If that were happening, the enforcement gap might close despite the timeline delay. It is not happening.",
+    "markets": []
+  }
+}

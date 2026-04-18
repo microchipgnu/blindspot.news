@@ -2,54 +2,49 @@
   "date": "2026-04-18",
   "threads": [
     {
-      "id": "executive-power-without-authority",
-      "title": "Acting Without Authorization",
-      "description": "Three stories today share the same underlying structure: the executive branch taking or attempting major actions that courts, precedent, or statute say it cannot. The SCOTUS tariff ruling, Trump's threat to fire Powell, and the Iran blockade without a formal war declaration are all instances of the same pattern. In each case, the administration's response to legal constraint is not to seek authorization but to find a workaround. The IEEPA ruling produced a Section 232 backup. The Fed independence problem produced a DOJ probe as a pressure tool. The lack of a war powers resolution produced an undeclared naval blockade. The pattern is more significant than any single case.",
+      "id": "bureaucratic-blockade",
+      "title": "When Governments Block Their Own Policies",
+      "description": "Three stories today share an invisible actor: government bureaucracy that defeats the government's own stated goals. Trump approved Nvidia H200 sales to China, then BIS staff attrition made approvals impossible. The EU passed the AI Act with 35 million euro penalties, then failed to build the enforcement infrastructure those penalties require. The pattern is not corruption or opposition; it is institutional incapacity created by the same political forces that passed the original policy. The law exists. The mechanism to execute it does not.",
       "type": "tension-cluster",
-      "stories": ["scotus-tariff-refunds", "trump-fires-powell-fed", "hormuz-blockade-iran-deal"],
+      "stories": ["nvidia-h200-china-deadlock", "eu-ai-act-enforcement-gap"],
       "connections": [
         {
-          "from": "scotus-tariff-refunds",
-          "to": "trump-fires-powell-fed",
-          "relationship": "The Supreme Court's willingness to strike down IEEPA tariffs signals the same legal logic could apply to removing Fed governors; the administration is stress-testing how much the judiciary will tolerate before trying the firing move."
-        },
-        {
-          "from": "hormuz-blockade-iran-deal",
-          "to": "scotus-tariff-refunds",
-          "relationship": "The Iran blockade is operating without a formal war declaration or congressional authorization, mirroring the IEEPA approach: use existing emergency-adjacent law to take actions that require new authority, and dare the courts to stop it while the action is already underway."
-        },
-        {
-          "from": "trump-fires-powell-fed",
-          "to": "hormuz-blockade-iran-deal",
-          "relationship": "Oil price shocks from the Iran war are the proximate cause of the Fed's current inflation problem, which is the substantive justification Powell gives for not cutting rates, which is the substantive grievance Trump uses to build the case for firing him. The Iran war is what makes the Fed fight urgent rather than abstract."
+          "from": "nvidia-h200-china-deadlock",
+          "to": "eu-ai-act-enforcement-gap",
+          "relationship": "Both show the same pattern: a formal policy decision (chip approval, AI regulation) exists on paper while the administrative capacity to execute it has been deliberately or accidentally hollowed out, leaving the policy as statement rather than mechanism."
         }
       ]
     },
     {
-      "id": "war-creates-its-own-facts",
-      "title": "War as Policy Override",
-      "description": "The Iran conflict is not just a foreign policy story. It is generating domestic policy outcomes that would not exist without it: European arms shipments delayed, Russian oil sanctions waived, the Fed's monetary policy hemmed in by an oil shock it did not cause and cannot fix. Operation Epic Fury is the most significant driver of economic and political instability in the US this month, but it is being analyzed in foreign policy terms while its domestic consequences accumulate quietly.",
-      "type": "cause-effect",
-      "stories": ["hormuz-blockade-iran-deal", "trump-fires-powell-fed"],
+      "id": "war-chains-everything",
+      "title": "The Iran War Tax",
+      "description": "The Iran war appears in three of today's five briefs as a first-order or second-order constraint. It is blocking Fed rate cuts, driving the economic shock that makes the IMF warn of global recession, and creating the strategic context in which China's solar equipment threat becomes more credible as a negotiating lever. The war is not background noise; it is the price variable that is making every other decision harder. Policymakers in Washington, Brussels, and Beijing are all making consequential choices while the same military variable sits outside their control.",
+      "type": "dependency-web",
+      "stories": ["fed-war-inflation-trap", "china-solar-weapon", "nvidia-h200-china-deadlock"],
       "connections": [
         {
-          "from": "hormuz-blockade-iran-deal",
-          "to": "trump-fires-powell-fed",
-          "relationship": "The Iran war's Hormuz oil shock raised inflation expectations, which backed Powell into a hold position on rates, which triggered Trump's firing threat. The Fed conflict has an external cause that neither Trump nor Powell is publicly acknowledging."
+          "from": "fed-war-inflation-trap",
+          "to": "china-solar-weapon",
+          "relationship": "The Iran war raises energy prices and tightens US monetary policy, which weakens US negotiating leverage in trade disputes with China by signaling economic vulnerability, reducing the cost to China of escalating solar equipment restrictions."
+        },
+        {
+          "from": "fed-war-inflation-trap",
+          "to": "nvidia-h200-china-deadlock",
+          "relationship": "BIS staff were diverted to Iran-related export enforcement beginning in late February 2026, according to reporting, directly contributing to the chip approval bottleneck that is blocking Nvidia H200 shipments."
         }
       ]
     },
     {
-      "id": "failed-controls-stronger-controls",
-      "title": "When Failure Justifies Escalation",
-      "description": "Australia's social media ban demonstrably failed on its own terms, with 61% of affected teens still online. The political response in the UK and US is not to examine whether the ban approach works, but to design more invasive versions of the same approach. The US OS-level age verification bill would build surveillance infrastructure under the cover of a policy whose predecessor failed. This pattern, where a failed blunt intervention produces a more invasive follow-on rather than a rethink, connects the social media story to the broader dynamic in the tariff story: the SCOTUS struck down IEEPA tariffs, so the administration reaches for more aggressive statutory instruments. Failure produces escalation, not recalibration.",
-      "type": "cause-effect",
-      "stories": ["australia-social-media-ban-fails", "scotus-tariff-refunds"],
+      "id": "ai-accountability-void",
+      "title": "AI Decides, Nobody Answers",
+      "description": "The EU AI Act brief and the tech layoffs brief are both, at bottom, about the same question: who is accountable when AI systems make consequential decisions about people? The AI Act was supposed to establish that accountability for high-risk systems in welfare, credit, and employment. It has not. Tech companies blaming AI for layoffs are using the same absence of accountability standards: there is no legal framework that requires them to prove AI caused the cut rather than merely justifying it. Both stories exist in the same regulatory void.",
+      "type": "tension-cluster",
+      "stories": ["eu-ai-act-enforcement-gap", "tech-layoffs-ai-displacement"],
       "connections": [
         {
-          "from": "australia-social-media-ban-fails",
-          "to": "scotus-tariff-refunds",
-          "relationship": "Both stories show the same political logic: when a blunt instrument is struck down or fails empirically, the response is to find a stronger instrument rather than reconsider the goal. Australia's failed ban is producing an OS-level US bill; the struck-down IEEPA tariffs produced a Section 232 backup. The underlying drive for control survives the specific tool."
+          "from": "eu-ai-act-enforcement-gap",
+          "to": "tech-layoffs-ai-displacement",
+          "relationship": "The EU AI Act's unenforced high-risk category includes employment screening and job decisions. The same enforcement gap that lets AI hiring systems run unaccountably also means AI-attributed layoffs face no documentation or verification requirement. Both operate in the same compliance-performance-without-accountability void."
         }
       ]
     }

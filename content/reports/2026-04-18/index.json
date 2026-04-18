@@ -1,6 +1,6 @@
 {
   "date": "2026-04-18",
-  "generatedAt": "2026-04-18T08:00:00Z",
+  "generatedAt": "2026-04-18T12:31:00Z",
   "reports": [
     {
       "id": "hormuz-blockade-iran-deal",
@@ -31,6 +31,36 @@
       "title": "The Ban That Made VPNs Mandatory",
       "subtitle": "Australia banned social media for under-16s in December. Four months later, 61% of affected teens still have access. Now the UK and US are considering the same approach.",
       "category": "decision"
+    },
+    {
+      "id": "eu-ai-act-enforcement-gap",
+      "title": "The Law That Cannot Enforce Itself",
+      "subtitle": "The EU AI Act has been in force for two years. Not a single enforcement action has been taken against a deployed high-risk system. The systems it was designed to govern are still expanding.",
+      "category": "power"
+    },
+    {
+      "id": "nvidia-h200-china-deadlock",
+      "title": "Approved, Blocked, Halted",
+      "subtitle": "Trump approved Nvidia H200 chip sales to China. Chinese customs blocked the shipments anyway. Nvidia's suppliers have now stopped production. Nobody is in control of this trade.",
+      "category": "conflict"
+    },
+    {
+      "id": "tech-layoffs-ai-displacement",
+      "title": "The 48 Percent Question",
+      "subtitle": "Tech companies cut 78,557 jobs in Q1 2026 and blamed 48 percent of them on AI. That number is probably wrong in two different directions at once.",
+      "category": "decision"
+    },
+    {
+      "id": "fed-war-inflation-trap",
+      "title": "The Fed's War Hostage",
+      "subtitle": "Governor Waller said rate cuts are possible if the Iran war ends quickly. It may not end quickly. The Fed is now making monetary policy based on a military outcome it cannot predict or influence.",
+      "category": "decision"
+    },
+    {
+      "id": "china-solar-weapon",
+      "title": "China's Green Weapon",
+      "subtitle": "China is considering restricting solar panel equipment exports to the US. The US clean energy buildout depends almost entirely on Chinese-made manufacturing tools. Tesla, Google, and Amazon are directly exposed.",
+      "category": "conflict"
     }
   ]
 }
