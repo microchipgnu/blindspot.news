@@ -1,0 +1,108 @@
+{
+  "id": "warsh-fed-confirmation",
+  "date": "2026-04-18",
+  "generatedAt": "2026-04-18T22:35:00Z",
+  "title": "The Fed Nominee Who Owns What He Would Regulate",
+  "subtitle": "Kevin Warsh disclosed holdings in crypto and AI firms before his Senate hearing. The real question is not his investments. It is whether he will cut rates in a stagflation environment to satisfy the man who nominated him.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Federal-Reserve", "Warsh", "Powell", "interest-rates", "Senate", "inflation"],
+  "coverImage": {
+    "url": "https://www.gannett-cdn.com/authoring/authoring-images/2026/04/14/USAT/89614812007-20260414-t-224241-z-1664523193-rc-29-pkai-4-par-rtrmadp-3-irancrisisusavance.JPG?crop=5530,3112,x0,y287",
+    "local": "/images/reports/2026-04-18/warsh-fed-confirmation.jpg",
+    "credit": "USA Today / Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://www.usatoday.com/story/money/2026/04/18/fed-chair-warsh-new-economic-mandate-senate/89610078007/",
+      "publisher": "USA Today",
+      "angle": "Sympathetic pre-hearing profile: Warsh faces a structurally different economy than any previous Fed chair, and rate cuts may be the wrong tool regardless of politics"
+    },
+    {
+      "url": "https://www.americanbanker.com/news/exclusive-warren-to-probe-warsh-on-his-role-in-2008-crisis",
+      "publisher": "American Banker",
+      "angle": "Warren is demanding records on Warsh's 2008 conduct; argues he downplayed subprime risks before the crisis, raising questions about his judgment under pressure"
+    },
+    {
+      "url": "https://www.morningstar.com/news/marketwatch/20260418140/trump-expects-his-fed-chair-nominee-to-cut-interest-rates-heres-how-kevin-warsh-might-try-to-do-it",
+      "publisher": "Morningstar / MarketWatch",
+      "angle": "Analytical: Warsh may argue that balance sheet shrinkage worth $1 trillion justifies a 50 basis point cut; but this logic only works if inflation cooperates"
+    },
+    {
+      "url": "https://bettermarkets.org/analysis/federal-reserve-chair-nominee-kevin-warshs-priorities-main-street-or-wall-street/",
+      "publisher": "Better Markets",
+      "angle": "Progressive critique: Warsh's crypto and AI investments create direct conflicts with regulatory oversight the Fed Chair would exercise over financial system stability"
+    }
+  ],
+  "brief": {
+    "actors": ["Warsh", "Trump", "Powell", "Warren", "Senate", "Fed"],
+    "whatHappened": "Kevin Warsh's Senate Banking Committee confirmation hearing for Federal Reserve Chair is scheduled for the week of April 21. Ahead of the hearing, Warsh disclosed holdings in cryptocurrency and AI-related investment funds, which immediately generated conflict-of-interest scrutiny. Senator Elizabeth Warren has requested Fed records on Warsh's conduct during the 2008 financial crisis, arguing he downplayed subprime mortgage risks before the collapse. Trump, who nominated Warsh in January when Powell refused to cut rates, expects his nominee to deliver lower borrowing costs. Powell's term as chair ends May 15, though he has said he would remain as a board member unless removed.",
+    "bottomLine": "Trump nominated Warsh to cut rates. Rates may need to go up. Warsh's only path to confirmation is promising independence he will not be allowed to exercise.",
+    "hiddenBets": [
+      {
+        "assumption": "Warsh will cut rates as Trump expects",
+        "whyItMightBeWrong": "The Fed's own models show inflation is still running above 3% with the Iran war pushing oil above $90. Warsh has written publicly that cutting rates into supply-side inflation is exactly the policy mistake the Fed made in the 1970s. His intellectual record contradicts what his nominator wants. Either Warsh cuts rates and damages his historical reputation, or he doesn't cut and Trump attacks him publicly before the ink on his confirmation dries."
+      },
+      {
+        "assumption": "Confirmation is straightforward given Republican Senate majority",
+        "whyItMightBeWrong": "Lisa Murkowski is a swing vote at 60% probability of confirming, according to Polymarket. The crypto disclosures have given wavering Republicans a procedural reason to pause. Warren's 2008 records request could produce documents that reframe Warsh as a crisis-denier rather than a steady hand. A single defection in a thin majority creates real uncertainty."
+      },
+      {
+        "assumption": "The balance-sheet shrinkage argument justifies a rate cut",
+        "whyItMightBeWrong": "The $1 trillion balance sheet reduction argument, where less quantitative tightening creates room for a rate cut, assumes that the balance sheet and the rate are interchangeable levers. They are not. Reducing the balance sheet tightens long-term credit. Cutting rates loosens short-term credit. Using one as justification for the other would be a political argument disguised as technical analysis."
+      }
+    ],
+    "realDisagreement": "The real fork is whether central bank independence is a structural feature or a cultural norm. If it is structural, Warsh can give Trump the nomination and then ignore him once confirmed. If it is cultural, and it increasingly looks that way after Trump's public pressure campaigns on Powell, then confirmation means submission. The market is pricing Warsh's confirmation as near-certain at 99.25%, which implies markets believe he will both get confirmed and cut rates, or that markets have stopped caring about the difference. The scarier interpretation is that the market has priced in political control of monetary policy and decided that's fine. It is not fine.",
+    "whatNoOneIsSaying": "Powell staying on as a board member after May 15 is not a compromise. It is a confrontation in slow motion. A board member Powell can dissent publicly on every rate decision Warsh makes, giving every rate cut a credibility shadow. Trump does not appear to have thought through what a dissident inside the Fed looks like in practice.",
+    "whoPays": [
+      {
+        "who": "Pension funds and fixed-income investors",
+        "how": "If Warsh cuts rates in a 3%+ inflation environment, real yields go negative again. Pension funds with fixed liability requirements absorb the loss; beneficiaries eventually receive less than promised",
+        "when": "Within 6 months of any rate cut announcement"
+      },
+      {
+        "who": "First-time homebuyers",
+        "how": "If Warsh refuses to cut against Trump's wishes, mortgage rates stay at or above 7%, keeping the housing market frozen for buyers without existing equity to deploy",
+        "when": "Through 2027 at minimum"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Confirmed, Cuts Immediately",
+        "whatHappens": "Warsh passes the Senate and cuts 50 basis points at his first meeting, citing balance sheet normalization. Markets rally. Inflation re-accelerates six months later. Warsh is blamed for repeating the 1970s mistake.",
+        "signal": "Warsh testifies that balance sheet reduction is equivalent to rate tightening, signaling his intent to use the substitution argument"
+      },
+      {
+        "name": "Confirmed, Holds Rates",
+        "whatHappens": "Warsh gets confirmed and faces a CPI print above 3.5% in his first month. He holds rates. Trump attacks him. The political pressure escalates publicly. Markets price in uncertainty about the Fed's independence for the rest of 2026.",
+        "signal": "Warsh declines at the confirmation hearing to commit to a rate cut timeline"
+      },
+      {
+        "name": "Confirmation Delayed or Blocked",
+        "whatHappens": "Warren's 2008 records request turns up damaging documents. A Republican defects. Confirmation is delayed past May 15. Powell's term expires before a new chair is confirmed, creating a headless Fed during an active war economy.",
+        "signal": "Warren successfully subpoenas 2008 Fed records and they are released before the committee vote"
+      }
+    ],
+    "whatWouldChange": "If Warsh testifies at his hearing that he sees no room to cut rates in 2026 given current inflation, it would mean Trump's rate-cut strategy has already failed before Warsh is even confirmed. That would be the most important thing said in Washington this week and would receive almost no coverage.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Kevin Warsh Fed Chair nomination withdrawn by May 15?",
+        "url": "https://polymarket.com/event/kevin-warsh-fed-chair-nomination-withdrawn-by-may-15",
+        "probability": 0.0075
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Jerome Powell depart as Fed Chair by June 30 2026?",
+        "url": "https://polymarket.com/event/jerome-powell-departs-as-fed-chair-by",
+        "probability": 0.915
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Lisa Murkowski vote to confirm Kevin Warsh as Chair of the Federal Reserve?",
+        "url": "https://polymarket.com/event/who-will-vote-to-confirm-kevin-warsh-as-fed-chair",
+        "probability": 0.6
+      }
+    ]
+  }
+}

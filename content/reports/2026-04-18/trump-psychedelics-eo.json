@@ -1,0 +1,97 @@
+{
+  "id": "trump-psychedelics-eo",
+  "date": "2026-04-18",
+  "generatedAt": "2026-04-18T22:30:00Z",
+  "title": "The Drug War's Strangest Defector",
+  "subtitle": "Trump just directed the FDA to fast-track ibogaine and psilocybin. The people who built the drug war are now selling the cure.",
+  "topic": "society",
+  "category": "decision",
+  "tags": ["psychedelics", "FDA", "drug-policy", "mental-health", "veterans", "ibogaine"],
+  "coverImage": {
+    "url": "https://cdnph.upi.com/sv/ph/og/upi/4641776528076/2026/1/05c1d75def6f5c015831aa6608478307/v1.5/Trump-signs-order-to-speed-research-on-psychedelics-for-mental-health.jpg",
+    "local": "/images/reports/2026-04-18/trump-psychedelics-eo.jpg",
+    "credit": "UPI"
+  },
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/trump-announces-reforms-accelerate-access-psychedelic-drug-treatments-2026-04-18/",
+      "publisher": "Reuters",
+      "angle": "Neutral wire coverage: $50M for federal ibogaine research, FDA ordered to fast-track review, Joe Rogan and RFK Jr. flanked Trump at the signing"
+    },
+    {
+      "url": "https://www.npr.org/2026/04/18/nx-s1-5789859/psychedelic-treatments-mental-health",
+      "publisher": "NPR",
+      "angle": "Covers FDA's first-ever national priority vouchers for psychedelics; notes commissioner says approval could come in weeks; highlights bipartisan veteran support"
+    },
+    {
+      "url": "https://www.nbcnews.com/politics/trump-administration/excutive-order-psychedelic-drugs-ibogaine-mental-health-research-rcna340790",
+      "publisher": "NBC News",
+      "angle": "Details mechanism: FDA to offer breakthrough therapy designations; notes ibogaine is Schedule I and currently illegal in the US; points to veteran suicide crisis as political driver"
+    },
+    {
+      "url": "https://www.cbsnews.com/amp/news/trump-administration-executive-order-psychedelic-drug-ibogaine/",
+      "publisher": "CBS News",
+      "angle": "Focuses on the political coalition: conservative veterans groups, RFK Jr., and Rogan -- an unlikely alignment that made this possible"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "FDA", "RFK Jr.", "Joe Rogan", "Veterans", "DEA"],
+    "whatHappened": "President Trump signed an executive order on April 18 directing the FDA to fast-track its review of psychedelic drugs including ibogaine and psilocybin for medical use. The order allocates $50 million for federal ibogaine research and instructs the FDA to issue national priority vouchers to three psychedelics, potentially enabling approval in weeks. Trump signed the order in the Oval Office flanked by HHS Secretary RFK Jr., podcaster Joe Rogan, and military veterans including Marcus Luttrell. Ibogaine, which is Schedule I and illegal in the United States, has been used in other countries to treat PTSD and addiction, particularly among combat veterans.",
+    "bottomLine": "Trump just did what progressives spent a decade begging Obama and Biden to do: crack the drug war's seal on psychedelic medicine. He did it through veterans and Joe Rogan, which means it will stick.",
+    "hiddenBets": [
+      {
+        "assumption": "The FDA fast-track is the main obstacle to psychedelic medicine",
+        "whyItMightBeWrong": "The DEA controls Schedule I classification, which criminalizes manufacturing, distribution, and possession regardless of FDA status. Fast-tracking approval creates legal medicine that no one can legally make at scale without DEA rescheduling, which requires a separate, slower process the executive order does not address."
+      },
+      {
+        "assumption": "Veteran support makes this politically durable",
+        "whyItMightBeWrong": "The same conservative coalition that backed this can turn against it if ibogaine's legal access expands to civilian recreational markets. The political glue is suffering veterans, not drug liberalization. The moment dispensaries enter the picture, this coalition fractures."
+      },
+      {
+        "assumption": "This is primarily a health policy move",
+        "whyItMightBeWrong": "Ibogaine treatment currently happens legally in Mexico and Canada, where American veterans already travel. Fast-tracking FDA approval domestically creates a domestic market, which is also a domestic revenue stream. The $50 million in research funds will flow to specific institutions and companies. The health logic and the economic logic point in the same direction, but the people who benefit most are not identical."
+      }
+    ],
+    "realDisagreement": "The actual fork is whether psychedelic-assisted therapy requires a controlled, therapeutic context or whether access to the substances themselves is the key variable. The evidence base for ibogaine comes almost entirely from clinician-supervised settings in specialized facilities. Making the drug federally approved without requiring that supervision framework could produce worse outcomes than the current system of Mexicans clinics and word-of-mouth among veterans. Proponents say access is what matters; skeptics say the context is what makes it work. Both positions have real evidence behind them. The honest position is that the executive order moves faster than the science, and Trump is betting on the substance, not the framework."
+    ,
+    "whatNoOneIsSaying": "Ibogaine causes potentially fatal cardiac arrhythmias. The clinical trials that need to happen before FDA approval are explicitly there to quantify that risk. Fast-tracking review does not eliminate the trials; it accelerates the paperwork around them. If the FDA commissioner means what she says about weeks, that suggests the trials are already done or nearly done, which means this was in the pipeline long before Joe Rogan texted Trump.",
+    "whoPays": [
+      {
+        "who": "Veterans who use ibogaine in unregulated settings",
+        "how": "Faster FDA movement creates political pressure to shut down the gray-market clinics and word-of-mouth networks that currently provide access, before the domestic regulated version is available",
+        "when": "Within 12-18 months of any FDA approval announcement"
+      },
+      {
+        "who": "DEA-licensed pharmaceutical manufacturers",
+        "how": "If ibogaine gets Schedule I status maintained but FDA approval granted, the legal contradiction creates a manufacturing limbo that only large, politically connected companies can navigate",
+        "when": "Immediately after approval, for 2-3 years until rescheduling"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Medical Approval, Rescheduling Stuck",
+        "whatHappens": "FDA approves ibogaine for specific PTSD indications within 12 months. DEA refuses to reschedule, creating a drug that is both federally approved and federally illegal to make. Access exists in theory for patients with prescriptions who cannot fill them.",
+        "signal": "DEA declines to publish a Notice of Proposed Rulemaking for rescheduling within 90 days of FDA approval"
+      },
+      {
+        "name": "Full Legalization Track",
+        "whatHappens": "FDA approval triggers a DEA rescheduling review; ibogaine moves to Schedule II or III within two years. Domestic clinical centers open. Veterans get legal access. Congress passes the psychedelic therapy legislation already being drafted.",
+        "signal": "DEA administrator publicly endorses rescheduling within 60 days of the executive order"
+      },
+      {
+        "name": "Political Reversal",
+        "whatHappens": "A high-profile adverse event, such as a veteran death linked to ibogaine use, becomes a political liability. Conservative media turns. The executive order's fast-track provisions are quietly reversed or defunded in the next appropriations cycle.",
+        "signal": "A single publicized fatality involving ibogaine before FDA approval is finalized"
+      }
+    ],
+    "whatWouldChange": "If the FDA commissioner's claim that approval could come in 'weeks' turns out to be accurate, it would mean either the clinical trials are already complete, or the administration is willing to approve without adequate trial data. The first possibility makes this a legitimate policy win. The second would make it a serious public health risk dressed as compassion.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "FDA approves a psychedelic for medical use in 2026?",
+        "url": "https://polymarket.com/event/fda-approves-a-psychedelic-for-medical-use-in-2026",
+        "probability": 0.675
+      }
+    ]
+  }
+}

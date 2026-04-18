@@ -1,0 +1,91 @@
+{
+  "id": "eu-defense-without-us",
+  "date": "2026-04-18",
+  "generatedAt": "2026-04-18T22:50:00Z",
+  "title": "Europe Rehearses the Scenario It Cannot Say Out Loud",
+  "subtitle": "For the first time in history, the EU is running war simulations that exclude the United States. The exercise has a diplomatic name and a plain meaning: they are planning for American abandonment.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["EU", "NATO", "defense", "autonomy", "France", "Cyprus", "Article-42-7"],
+  "coverImage": {
+    "url": "https://defence24.com/uploads/2024/11/screenshot-2024-11-21-at-13.04.55.png",
+    "local": "/images/reports/2026-04-18/eu-defense-without-us.jpg",
+    "credit": "Defence24"
+  },
+  "sources": [
+    {
+      "url": "https://nato.news-pravda.com/world/2026/04/18/100707.html",
+      "publisher": "NATO News / Pravda",
+      "angle": "Reports the Bloomberg leak: EU will simulate Article 42.7 mutual defense scenarios without US participation; ambassadors first, then defense ministers in Cyprus in May"
+    },
+    {
+      "url": "https://defence24.com/geopolitics/france-is-preparing-europe-for-defence-without-the-usa",
+      "publisher": "Defence24",
+      "angle": "French military planning has explicitly modeled US absence as a base case; France treats the US as both ally and competitor; dependence on American technology identified as a strategic vulnerability"
+    },
+    {
+      "url": "https://www.lrt.lt/en/news-in-english/19/2900110/is-there-plan-b-lithuanian-officials-clash-over-defence-without-us-support",
+      "publisher": "LRT (Lithuanian national broadcaster)",
+      "angle": "Internal EU debate: Lithuanian officials publicly clash over whether a Plan B without US support is even viable; the disagreement is about defense spending gaps that European members cannot close in time"
+    }
+  ],
+  "brief": {
+    "actors": ["EU", "NATO", "France", "Macron", "Trump", "Cyprus", "Lithuania", "Rutte"],
+    "whatHappened": "The European Union is conducting its first-ever war simulation exercises under Article 42.7 of the EU Treaty, explicitly excluding the United States. The simulations, which will run among ambassadors in Brussels and then among defense ministers in Cyprus in May, model scenarios where an EU member state requests military assistance from its partners. Article 42.7 is a stronger obligation than NATO's Article 5: it requires member states to provide 'assistance and support by all means.' The exercises come as French military planners have shifted to assuming US absence as a base case for European defense planning. NATO Secretary General Rutte has publicly called US withdrawal from NATO unlikely, but Polymarket prices the probability at 12% before 2027.",
+    "bottomLine": "Europe is not preparing to replace American security guarantees. It is preparing to discover, concretely, how far short its own capacity falls. The exercises will be revealing, and what they reveal will be uncomfortable.",
+    "hiddenBets": [
+      {
+        "assumption": "Article 42.7 is a viable substitute for Article 5 in a real conflict",
+        "whyItMightBeWrong": "Article 42.7 obligates EU members to provide 'all available means.' But most EU member states have spent three decades cutting defense budgets on the assumption that NATO, meaning the US, would provide the high-end capabilities. 'All available means' from Germany currently means armored vehicles, logistics, and air defense, but not the ISR, long-range strike, and logistics backbone that the US provides to NATO. The exercise will reveal this gap, not paper over it."
+      },
+      {
+        "assumption": "The exercises signal serious EU strategic autonomy",
+        "whyItMightBeWrong": "Running a simulation and building actual military capacity are different things. France's nuclear deterrent and some European expeditionary forces can operate independently, but a continental defense of the eastern flank against a peer adversary cannot. The exercises signal political seriousness, not military readiness. Russia's response to the announcement will matter more than the exercise itself."
+      },
+      {
+        "assumption": "Trump's pressure on NATO is a negotiating tactic, not a structural shift",
+        "whyItMightBeWrong": "If it were a negotiating tactic, it would be accompanied by a clear set of deliverables that would restore commitment. It has not been. Trump has variously demanded higher defense spending, trade concessions, and deference on Ukraine policy. The demands change. The pattern of threatening disengagement does not. European planners are treating it as structural because the track record over two terms gives them no reason not to."
+      }
+    ],
+    "realDisagreement": "The real fork is whether European strategic autonomy, building genuine independent defense capability, is achievable within a decade or whether it will always be a planning fiction. France's argument is that it is achievable if Europe commits defense spending of 3% of GDP and concentrates on filling specific capability gaps. Lithuania's counter is that the spending gap is too large, the timeline too short, and the political will too fragile; that the window for credible autonomy does not exist before the next potential crisis. Both positions are grounded in real numbers. France's position requires European political behavior that has historically been aspirational. Lithuania's position concedes deterrence to whoever shows up with capability. The EU war gaming is, in effect, a test of which side is right.",
+    "whatNoOneIsSaying": "Cyprus is hosting the defense ministers' exercise. Cyprus is not a NATO member. It has a territorial dispute with Turkey, which is a NATO member. Running the EU's first autonomous defense simulation in Cyprus is a message about where the EU's security perimeter sits, and it is not the message NATO would have chosen.",
+    "whoPays": [
+      {
+        "who": "Eastern European NATO members, especially Baltic states",
+        "how": "Any credible US disengagement scenario leaves the eastern flank exposed; the states that border Russia most directly face the highest risk and have the least capacity to fill the gap independently. Lithuania's public debate about whether Plan B exists reflects this asymmetry precisely.",
+        "when": "Risk is immediate if US commitment visibly weakens; military consequence is medium-term, 2-5 years"
+      },
+      {
+        "who": "European defense ministries and procurement agencies",
+        "how": "Moving toward genuine strategic autonomy requires joint procurement, capability pooling, and industrial coordination that EU member states have consistently failed to execute. The political cost of that coordination, national industrial policy, sovereignty over military decisions, falls on defense ministries that already struggle to get domestic funding",
+        "when": "Through the current decade; visible in procurement decisions by 2027-2028"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Exercise Reveals Capability Gaps, Accelerates Spending",
+        "whatHappens": "The May Cyprus simulation produces a classified assessment showing that Europe cannot mount a credible defense of eastern member states without the US. This assessment is selectively leaked. Political pressure on defense spending in Germany, Italy, and Spain increases sharply. A real capability-building program begins in 2027.",
+        "signal": "Classified exercise results are referenced in national defense budget debates by June"
+      },
+      {
+        "name": "US Remains, Exercises Become Routine",
+        "whatHappens": "The US does not withdraw from NATO. The exercises become a regular feature of EU security practice, demonstrating due diligence without being tested. European defense spending rises incrementally. The strategic ambiguity between US presence and EU autonomy is maintained for another decade.",
+        "signal": "Rutte announces a formal US defense commitment at the next NATO summit"
+      },
+      {
+        "name": "Crisis Exposes the Gap Publicly",
+        "whatHappens": "A genuine Article 5 trigger event occurs, and US response is delayed, conditional, or politically contested. Europe is forced to respond under Article 42.7 before US support arrives. The gap between simulation and reality becomes publicly visible, creating a political rupture in the alliance.",
+        "signal": "A NATO member requests Article 5 assistance and Trump publicly conditions the response on burden-sharing payment"
+      }
+    ],
+    "whatWouldChange": "If Rutte's claim that US withdrawal from NATO is unlikely is backed by a formal US defense posture commitment, specifically a presidential statement that makes withdrawal legally or politically costly, the European exercises would shift from contingency planning to optional capability-building. Without that commitment, they remain contingency planning for a scenario that the US government's own behavior has made plausible.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will US withdraw from NATO before 2027?",
+        "url": "https://polymarket.com/event/will-us-withdraw-from-nato-before-2027",
+        "probability": 0.1205
+      }
+    ]
+  }
+}

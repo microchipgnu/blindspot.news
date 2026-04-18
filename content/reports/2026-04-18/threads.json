@@ -2,6 +2,63 @@
   "date": "2026-04-18",
   "threads": [
     {
+      "id": "us-russia-quiet-accommodation",
+      "title": "The Undeclared Detente",
+      "description": "Three stories today form a single pattern: the United States is quietly accommodating Russian interests while publicly maintaining confrontational postures. Treasury says the Russian oil waiver is over, then extends it. US diplomatic bandwidth for Ukraine is consumed by Iran negotiations, giving Russia negotiating space at no cost. The Russia-Ukraine peace stall and the oil waiver are not separate stories. They are the same story: the US is not applying sustained pressure on Russia on any front simultaneously. Russia is benefiting from the gap between stated US policy and actual US behavior.",
+      "type": "dependency-web",
+      "stories": ["russia-oil-sanctions-waiver", "lavrov-ukraine-peace-stall", "hormuz-blockade-iran-deal"],
+      "connections": [
+        {
+          "from": "hormuz-blockade-iran-deal",
+          "to": "lavrov-ukraine-peace-stall",
+          "relationship": "The Iran war consumes the attention of Witkoff and Kushner, the only US officials managing Ukraine negotiations, making Russia's stall costless: Moscow can wait for US diplomatic bandwidth to free up without losing anything."
+        },
+        {
+          "from": "russia-oil-sanctions-waiver",
+          "to": "lavrov-ukraine-peace-stall",
+          "relationship": "The sanctions waiver extension, reversed after a public commitment to let it expire, signals to Russia that the US has a price ceiling on economic pressure. This reduces Moscow's incentive to negotiate under pressure, since the pressure consistently relaxes."
+        }
+      ]
+    },
+    {
+      "id": "executive-overrides-process",
+      "title": "The President Doesn't Want to Wait",
+      "description": "Four stories across today's cycle share a single executive move: bypassing an institution that is moving too slowly for political purposes. Trump used an executive order to fast-track psychedelic drug review, bypassing the normal FDA timeline. The SCOTUS tariff ruling forced a pivot to new executive authority before the ink dried on the decision. The state AI patchwork emerged because the White House's preferred federal preemption stalled, prompting states to legislate. The EU is simulating autonomous defense because the alliance mechanism that was supposed to provide security has become politically unpredictable. In each case, an institution that was supposed to provide a durable guarantee has been routed around. The pattern is not chaos. It is the systematic decay of the assumption that institutions can be trusted to stay predictable.",
+      "type": "tension-cluster",
+      "stories": ["trump-psychedelics-eo", "scotus-tariff-refunds", "state-ai-regulation-patchwork", "eu-defense-without-us"],
+      "connections": [
+        {
+          "from": "scotus-tariff-refunds",
+          "to": "trump-psychedelics-eo",
+          "relationship": "Both use executive orders as primary policy instruments to override or accelerate processes that normal institutional routes would delay: tariff authority post-SCOTUS and FDA review timelines for psychedelics."
+        },
+        {
+          "from": "state-ai-regulation-patchwork",
+          "to": "eu-defense-without-us",
+          "relationship": "Both show subordinate actors, US states and EU member states, building independent capacity because the higher-level institution they were supposed to rely on, federal preemption and US alliance guarantees, has become unreliable. The institutional gap is identical; the domain differs."
+        }
+      ]
+    },
+    {
+      "id": "warsh-iran-fed-triangle",
+      "title": "The War That Controls the Economy",
+      "description": "The Warsh confirmation story and the Fed war inflation brief are directly connected, but the connection runs deeper than a shared topic. Trump nominated Warsh to cut rates. The Iran war is the reason rates cannot be cut. Warsh's confirmation hearings happen in an environment where the president's own foreign policy is the primary obstacle to the domestic economic policy the president wants. The US government is simultaneously fighting a war that raises inflation and nominating a Fed chair to lower rates in response to inflation. These are not separate decisions. They are a contradiction being resolved by pretending it does not exist.",
+      "type": "cause-effect",
+      "stories": ["warsh-fed-confirmation", "fed-war-inflation-trap", "hormuz-blockade-iran-deal"],
+      "connections": [
+        {
+          "from": "hormuz-blockade-iran-deal",
+          "to": "fed-war-inflation-trap",
+          "relationship": "The Iran war drives oil prices and inflation, which is the direct reason the Fed cannot cut rates, which is the direct reason Trump is trying to replace Powell with Warsh."
+        },
+        {
+          "from": "fed-war-inflation-trap",
+          "to": "warsh-fed-confirmation",
+          "relationship": "If Warsh is confirmed and cuts rates into war-driven inflation, he validates Waller's warning that the Fed would be making monetary policy based on a military outcome it cannot control. The confirmation hearing is the political moment where this contradiction becomes public."
+        }
+      ]
+    },
+    {
       "id": "bureaucratic-blockade",
       "title": "When Governments Block Their Own Policies",
       "description": "Three stories today share an invisible actor: government bureaucracy that defeats the government's own stated goals. Trump approved Nvidia H200 sales to China, then BIS staff attrition made approvals impossible. The EU passed the AI Act with 35 million euro penalties, then failed to build the enforcement infrastructure those penalties require. The pattern is not corruption or opposition; it is institutional incapacity created by the same political forces that passed the original policy. The law exists. The mechanism to execute it does not.",
