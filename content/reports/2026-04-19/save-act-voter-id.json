@@ -1,0 +1,107 @@
+{
+  "id": "save-act-voter-id",
+  "date": "2026-04-19",
+  "generatedAt": "2026-04-19T07:42:00Z",
+  "title": "The SAVE Act Is Not About Noncitizens. It Is About Who Controls the Voter List.",
+  "subtitle": "Trump's push to use DHS's SAVE program for election verification is dividing election officials ahead of midterms, and polls show it is popular.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["SAVE Act", "voting rights", "DHS", "midterms", "voter ID", "elections", "Trump"],
+  "coverImage": {
+    "url": "https://nbc16.com/resources/media2/16x9/7825/1320/0x409/90/ac879119-97d0-4d07-8ab2-184a05ee24c9-GettyImages2267246328.jpg",
+    "local": "/images/reports/2026-04-19/save-act-voter-id.jpg",
+    "credit": "Getty Images / NBC16"
+  },
+  "sources": [
+    {
+      "url": "https://alleghenyadvocate.com/the-department-of-homeland-securitys-save-program-is-dividing-poll-workers-as-november-approaches/",
+      "publisher": "Allegheny Advocate (via WV Watch / Stateline)",
+      "angle": "The DHS SAVE program, originally for checking immigration benefit eligibility, has been repurposed into a citizenship verification tool for state voter rolls; Republicans call it accurate, Democrats say it will misidentify citizens and suppress turnout."
+    },
+    {
+      "url": "https://nbc16.com/news/nation-world/polls-show-support-for-gop-backed-election-changes-ahead-of-midterms-nationwide-congress-president-donald-trump-federal-save-voting",
+      "publisher": "NBC16 / The National News Desk",
+      "angle": "Polling shows broad public support for photo ID requirements and citizenship verification, giving Republican election changes popular legitimacy even as civil rights groups warn about implementation errors."
+    },
+    {
+      "url": "https://www.salon.com/2026/04/16/gop-states-are-taking-up-voting-laws-modeled-after-trumps-save-america-act/",
+      "publisher": "Salon / The 19th",
+      "angle": "State-level replication: GOP states passing voting laws modeled on the SAVE America Act, with particular impact on married women, transgender people, and others who have changed their legal names since registration."
+    },
+    {
+      "url": "https://custommapposter.com/article/trump-s-threat-backfires-white-house-clarifies-president-s-position-on-dhs-funding/12392",
+      "publisher": "Custom Map Poster (analysis)",
+      "angle": "Trump threatened to veto all legislation unless the SAVE Act passes; White House quickly walked it back, illustrating the gap between presidential ultimatums and legislative reality in a filibuster-prone Senate."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "DHS", "Congress", "DOJ"],
+    "whatHappened": "With midterm elections approaching, the Trump administration is pushing the SAVE America Act, which would require proof of citizenship for voter registration and give DHS access to state voter rolls for cross-checking. The DHS SAVE program, originally designed to verify immigration benefit eligibility, has been repurposed as a citizenship verification tool and made free for states. A House Administration Committee hearing on Thursday showed deep partisan division: Republican secretaries of state call SAVE effective and point to cases like Kansas identifying over 5,500 voters who died outside the state; Democratic secretaries say the system will falsely flag eligible citizens and suppress turnout. Trump threatened to veto all legislation until the SAVE Act passes, then the White House immediately clarified he only meant non-DHS-related bills. The Senate has 2% market odds of passing it by June.",
+    "bottomLine": "The real stakes are not noncitizen voting, which studies show is vanishingly rare. The stakes are which party controls the infrastructure of voter eligibility determination before a midterm that could flip the House.",
+    "hiddenBets": [
+      {
+        "assumption": "The SAVE program accurately identifies noncitizens on voter rolls at meaningful scale.",
+        "whyItMightBeWrong": "The original purpose of SAVE was checking individual immigration benefit claims, not bulk citizenship verification of voter databases. The error rate for bulk matching against names and birthdates is significantly higher than for individual benefit checks. Democratic secretaries of state cite this directly. Kansas's 5,500 'identified' voters included people who died in a different state, not necessarily noncitizens who voted."
+      },
+      {
+        "assumption": "Because polling supports voter ID, the SAVE Act has a viable path to broad adoption.",
+        "whyItMightBeWrong": "Polling support for 'voter ID' in the abstract does not translate to support for a specific federal system that transfers state voter roll control to DHS. Federalism concerns cross party lines. Several Republican secretaries of state have expressed resistance to federal database access even while supporting ID requirements generally."
+      },
+      {
+        "assumption": "The Trump veto threat was a real ultimatum.",
+        "whyItMightBeWrong": "The White House clarified within hours. The veto threat was a public signaling device, not an operational policy. It worked as designed: it generated news coverage and demonstrated commitment to the base without requiring the administration to actually govern around it."
+      }
+    ],
+    "realDisagreement": "The genuine fork is between two theories of electoral legitimacy. The first: legitimacy requires verified eligibility; any voter who cannot be positively confirmed as a citizen should not vote, and temporary disenfranchisement of eligible voters is an acceptable error cost. The second: legitimacy requires access; any system that incorrectly removes eligible voters from rolls undermines democratic legitimacy more than the vanishingly rare case of noncitizen voting. These are not resolvable by data, because they are value judgments about which error is worse. Republicans accept Type I errors (false positives flagging citizens as ineligible) to prevent Type II errors (false negatives allowing noncitizens to vote). Democrats accept Type II errors to prevent Type I. Lean toward the first framing winning politically in the short term because polling supports it, even if courts strike specific implementations.",
+    "whatNoOneIsSaying": "The Justice Department has sued 29 states to force compliance with voter data sharing requirements. This means the federal government is using litigation to compel states to hand over data to a federal citizenship verification system, which is a significant expansion of federal authority over elections regardless of which party is doing it. The constitutional precedent being set here will survive long after this administration.",
+    "whoPays": [
+      {
+        "who": "Married women who changed their names after registration",
+        "how": "Name mismatch between registration records and government databases (passport, Social Security) is a documented source of false SAVE flags. Women who married and changed names are disproportionately affected; their registration names may not match ID documents.",
+        "when": "At point of registration or verification before midterm elections."
+      },
+      {
+        "who": "Transgender voters",
+        "how": "Name and gender marker changes in legal documents create mismatches in SAVE cross-checks. Salon/The 19th reporting identifies this as a documented implementation risk in state-level laws modeled on the SAVE Act.",
+        "when": "Immediate in states already implementing SAVE-modeled laws."
+      },
+      {
+        "who": "State election officials in non-compliant states",
+        "how": "DOJ is suing 29 states to force data sharing. Officials in those states face either legal costs defending their position or political costs of complying with a federal system they have publicly opposed.",
+        "when": "Ongoing through at minimum the 2026 midterms."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "SAVE Act stalls in Senate, states proceed anyway",
+        "whatHappens": "The bill never clears a Senate filibuster. But 20+ GOP-controlled states implement their own SAVE-modeled laws and submit voter rolls to DHS voluntarily. The federal system grows through state adoption without requiring a national statute.",
+        "signal": "Additional GOP states announce voluntary SAVE enrollment in the next 90 days without waiting for federal legislation."
+      },
+      {
+        "name": "Courts block state SAVE implementations",
+        "whatHappens": "Federal courts grant preliminary injunctions against state-level citizenship verification for voter registration, citing due process or Voting Rights Act violations. Implementation is paused pending appeals through the 2026 cycle.",
+        "signal": "A circuit court stays a state SAVE implementation within 60 days of a challenge filing."
+      },
+      {
+        "name": "Pre-midterm purge crisis",
+        "whatHappens": "A large-scale voter roll purge using SAVE data incorrectly removes thousands of eligible voters weeks before the 2026 midterms. Emergency litigation, partisan recrimination, and questions about election legitimacy dominate the final weeks of the campaign.",
+        "signal": "A state reports removing more than 10,000 voters from rolls using SAVE data; civil rights groups immediately challenge; federal judge orders emergency restoration of removed voters."
+      }
+    ],
+    "whatWouldChange": "If independent audits of SAVE cross-checks in Kansas and similar states showed error rates below 0.1% for eligible citizen misidentification, the Democratic technical objection would lose its strongest empirical leg. Conversely, if a SAVE purge demonstrably removed confirmed US citizens before an election, the Republican 'it's accurate' argument collapses. Both sides are betting the empirical evidence will vindicate them before the midterms force the issue.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Senate pass the SAVE America Act (H.R. 7296)?",
+        "url": "https://polymarket.com/event/will-the-senate-pass-the-save-america-act-hr-7296",
+        "probability": 0.0195
+      },
+      {
+        "platform": "Polymarket",
+        "question": "SAVE Act becomes law by December 31, 2026?",
+        "url": "https://polymarket.com/event/save-act-becomes-law-by",
+        "probability": 0.325
+      }
+    ]
+  }
+}

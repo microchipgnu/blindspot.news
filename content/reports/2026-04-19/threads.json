@@ -1,0 +1,57 @@
+{
+  "date": "2026-04-19",
+  "threads": [
+    {
+      "id": "executive-without-authority",
+      "title": "Acting Without a Legal Mandate",
+      "description": "Three stories today share a structural pattern: the executive branch takes an action, a court or constitutional constraint says it cannot do that specific thing, and the administration finds a workaround or continues through a different mechanism. SCOTUS struck IEEPA tariffs; USTR launched Section 301. Courts have repeatedly blocked jawboning; the FTC pressures NewsGuard through 'information demands' with no clear statutory basis. The DOJ sues 29 states to force voter data access under contested authority. The common bet is that institutional friction can be bypassed faster than courts can rule.",
+      "type": "tension-cluster",
+      "stories": ["trump-tariffs-income-tax", "save-act-voter-id", "government-jawboning-censorship"],
+      "connections": [
+        {
+          "from": "trump-tariffs-income-tax",
+          "to": "government-jawboning-censorship",
+          "relationship": "Both involve executive agencies acting beyond what courts have sanctioned: the FTC's NewsGuard inquiry mirrors the USTR's Section 301 pivot in that both are attempts to rebuild authority the courts have constrained, through legal mechanisms that have not yet been tested."
+        },
+        {
+          "from": "save-act-voter-id",
+          "to": "trump-tariffs-income-tax",
+          "relationship": "The DOJ's lawsuit against 29 states for voter data access and the USTR's Section 301 investigation both represent the administration finding statutory paths to achieve goals that SCOTUS or courts blocked through other routes; the strategy is route substitution, not compliance."
+        },
+        {
+          "from": "government-jawboning-censorship",
+          "to": "save-act-voter-id",
+          "relationship": "The FTC's pressure on NewsGuard and the DHS's repurposing of the SAVE program for voter roll verification both involve taking tools designed for one regulatory purpose (consumer protection, immigration benefit verification) and redirecting them against political targets without new legislation."
+        }
+      ]
+    },
+    {
+      "id": "tariffs-iran-leverage",
+      "title": "SCOTUS Cut the Knife Trump Needed for Iran",
+      "description": "The Supreme Court striking down IEEPA tariffs did not just affect trade policy. IEEPA is the same authority Trump used to impose economic pressure across the board, including against countries involved in the Iran crisis. The US naval blockade of Iranian ports is backed by the same maximum-pressure framework that SCOTUS partially dismantled. As the administration scrambles to rebuild tariff authority through Section 301, it is simultaneously trying to use economic coercion against Iran, with a legal toolkit that is more constrained than it was six months ago.",
+      "type": "cause-effect",
+      "stories": ["trump-tariffs-income-tax", "iran-hormuz-ceasefire"],
+      "connections": [
+        {
+          "from": "trump-tariffs-income-tax",
+          "to": "iran-hormuz-ceasefire",
+          "relationship": "SCOTUS invalidating IEEPA as a tariff authority weakened the legal and political credibility of the same executive emergency powers framework underpinning the Iran naval blockade; Iran's negotiators can point to the ruling as evidence that Trump's maximum-pressure tools are legally contested."
+        }
+      ]
+    },
+    {
+      "id": "who-owns-the-truth-layer",
+      "title": "The Fight to Own How We Know Things",
+      "description": "Two stories today are secretly about the same question: who gets to control the layer of judgment that sits between raw information and decisions that matter? OpenAI is closing access to the AI model that will tell pharmaceutical researchers which drug hypotheses are worth pursuing. The FTC is attacking the company that tells advertisers which news outlets are credible. Both involve a powerful actor trying to either privatize or politically capture the evaluative infrastructure that shapes what other institutions treat as true.",
+      "type": "tension-cluster",
+      "stories": ["openai-gpt-rosalind", "government-jawboning-censorship"],
+      "connections": [
+        {
+          "from": "openai-gpt-rosalind",
+          "to": "government-jawboning-censorship",
+          "relationship": "OpenAI restricts who can inspect GPT-Rosalind's scientific reasoning to approved enterprise customers; the FTC pressures NewsGuard in ways that discourage independent credibility ratings. Both actions reduce the number of actors with access to or control over the epistemic layer of high-stakes fields, concentrating that power in either a corporation or the government."
+        }
+      ]
+    }
+  ]
+}

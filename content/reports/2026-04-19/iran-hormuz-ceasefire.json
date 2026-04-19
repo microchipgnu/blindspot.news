@@ -1,0 +1,124 @@
+{
+  "id": "iran-hormuz-ceasefire",
+  "date": "2026-04-19",
+  "generatedAt": "2026-04-19T07:40:00Z",
+  "title": "Iran Closes Hormuz Again. The Ceasefire Was Never a Ceasefire.",
+  "subtitle": "Tehran and Washington are each enforcing their version of the truce while calling the other side's actions a violation.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["Iran", "Strait of Hormuz", "US Navy", "ceasefire", "oil", "Pakistan", "nuclear"],
+  "coverImage": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26108498659582-1776553841.jpg?resize=1920%2C1440",
+    "local": "/images/reports/2026-04-19/iran-hormuz-ceasefire.jpg",
+    "credit": "Al Jazeera / AP"
+  },
+  "sources": [
+    {
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/19/iran-war-live-tehran-says-no-date-set-for-us-talks-hormuz-strait-closed",
+      "publisher": "Al Jazeera",
+      "angle": "Iran's perspective: the US blockade of Iranian ports is itself a ceasefire violation; Tehran frames Hormuz closure as defensive and proportional."
+    },
+    {
+      "url": "https://tribune.com.pk/story/2603555/iran-reimposes-hormuz-curbs-as-peace-talks-hit-critical-phase",
+      "publisher": "Express Tribune (Pakistan)",
+      "angle": "Pakistan's mediator role; Iranian supreme leader signals readiness to fight while simultaneously 'examining' new peace proposals."
+    },
+    {
+      "url": "https://www.theworldsignal.com/article/iran-reimposes-military-control-over-strait-of-hormuz-as-u-s-blockade-continues",
+      "publisher": "The World Signal",
+      "angle": "Detailed sequence: Iran FM opened strait Friday, IRGC closed it Saturday, Trump blockade remains; contradictory signals from Tehran as pattern."
+    },
+    {
+      "url": "https://www.abc.net.au/news/2026-04-19/uncertainty-in-strait-of-hormuz-as-deadline-approaches/106580284",
+      "publisher": "ABC Australia",
+      "angle": "On-the-ground shipping chaos: tankers attempting to run the gauntlet, IRGC gunboat fire, convoys attempting transit; ceasefire deadline imminent."
+    },
+    {
+      "url": "https://www.rferl.org/a/iran-protests-live-blog-trump-khamenei/33640284/lbl0lbi447438.html",
+      "publisher": "Radio Free Europe / Radio Liberty",
+      "angle": "Iran says it is 'reviewing' new US proposals while blocking shipping; no date set for next face-to-face talks."
+    }
+  ],
+  "brief": {
+    "actors": ["Iran", "IRGC", "Trump", "Pakistan", "US Navy"],
+    "whatHappened": "Iran's IRGC declared Saturday that the Strait of Hormuz is closed to commercial shipping, reversing a Friday announcement by Iranian Foreign Minister Araghchi that the waterway would remain open for the remainder of a two-week ceasefire. IRGC gunboats fired on at least two tankers attempting transit; neither was hit. The US naval blockade of Iranian ports, which Tehran calls a ceasefire violation, remains in force. Pakistan's foreign minister says talks continue and Lebanon's ceasefire offers 'good news,' but Iran's deputy foreign minister says no date has been set for the next round of face-to-face negotiations, and the ceasefire deadline is days away.",
+    "bottomLine": "Both sides are enforcing their own version of the ceasefire while calling the other side's actions a violation. This is not a pause in conflict; it is the same conflict with extra steps.",
+    "hiddenBets": [
+      {
+        "assumption": "Pakistan can bridge the gap between US and Iranian demands before the deadline.",
+        "whyItMightBeWrong": "Pakistan's leverage depends on Iran needing Pakistani mediation more than Iran needs to demonstrate resolve to domestic hardliners. The IRGC's Saturday reversal of the foreign minister's Friday announcement suggests Khamenei's military faction is overriding the diplomats, which means Pakistan is negotiating with the wrong power center in Tehran."
+      },
+      {
+        "assumption": "The US naval blockade is a temporary pressure tool that will be lifted once a deal is reached.",
+        "whyItMightBeWrong": "The blockade has now become a face-saving precondition for both sides. Iran cannot accept lifting Hormuz tolls while the blockade is in place without appearing to capitulate; the US cannot lift the blockade without appearing to reward IRGC gunboat fire. The tools have trapped both parties."
+      },
+      {
+        "assumption": "Global oil markets are factoring in a high probability of a deal.",
+        "whyItMightBeWrong": "Polymarket gives only 27% odds on a US-Iran nuclear deal by April 30. Markets pricing in a deal resolution before month's end should be treating this as a minority scenario."
+      }
+    ],
+    "realDisagreement": "The actual fork is whether this is a negotiation or a capitulation test. Trump's position: Iran closes Hormuz, imposes tolls, gets bombed, then agrees to stop. Iran's position: the US attacked first, blockaded Iranian ports, and must end maximum pressure before Iran concedes anything. These are not compatible starting points. They would only converge if one side concludes it cannot absorb further costs. Iran's economy is already crushed by the blockade; Trump faces $4 gas domestically. The question is who flinches first. The market says a deal before June is likely at 64%; but the market also said Hormuz would normalize by end of April at only 20% odds, which tracks with what is happening right now. Lean toward the deal happening after a narrower-than-expected crisis, but not before the ceasefire formally expires and one more military gesture is made by both sides.",
+    "whatNoOneIsSaying": "Iran's foreign minister and the IRGC issued opposite statements within 24 hours, which means there is no unified Iranian position. The US is negotiating with an opponent that cannot control its own military. Any deal signed by Araghchi can be reversed by an IRGC commander the next morning.",
+    "whoPays": [
+      {
+        "who": "South and East Asian importers (India, China, Japan, South Korea)",
+        "how": "Approximately one-fifth of global daily oil consumption routes through Hormuz. Each day the strait is closed or restricted adds insurance, rerouting, and delay costs to every oil tanker that cannot transit; those costs pass directly to Asian refiners and then to fuel prices.",
+        "when": "Immediate and cumulative; already driving inflation in the US above $4/gallon for gasoline."
+      },
+      {
+        "who": "Iranian civilian population",
+        "how": "The US naval blockade of Iranian ports cuts off imports and export revenue simultaneously. The IRGC's decision to close Hormuz prolongs the blockade by removing any US incentive to negotiate quickly.",
+        "when": "Already underway; accelerating as ceasefire deadline passes without a deal."
+      },
+      {
+        "who": "Pakistan",
+        "how": "Pakistan earns significant diplomatic capital from mediating this crisis, but if the crisis collapses, Pakistan absorbs the reputational cost of failure and faces pressure from both sides to choose.",
+        "when": "Within days of deadline expiration."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Framework by deadline",
+        "whatHappens": "Pakistan brokers a written framework: Iran lifts Hormuz tolls, US pauses (not lifts) naval blockade, both sides commit to full nuclear talks within 30 days. IRGC hardliners privately accept because the framework preserves ambiguity.",
+        "signal": "Iran's foreign minister, not IRGC spokesperson, makes the announcement. The US simultaneously pauses (not rescinds) blockade orders."
+      },
+      {
+        "name": "Expired ceasefire, limited escalation",
+        "whatHappens": "Ceasefire lapses with no deal. US strikes a single IRGC naval facility. Iran retaliates asymmetrically (missile attack on a US base in the region, not US soil). Both sides privately agree to a 48-hour stand-down through back channels.",
+        "signal": "Trump posts a 'job well done' after a limited strike and immediately returns to offering talks."
+      },
+      {
+        "name": "Spiral",
+        "whatHappens": "Iran strikes Saudi oil infrastructure or a US carrier. US responds with broader campaign. Oil spikes past $150/barrel. Global recession risk becomes dominant market narrative.",
+        "signal": "Iran fires on a non-IRGC commercial vessel with casualties, or a US vessel is hit. The IRGC publicly takes credit before Tehran can issue a diplomatic denial."
+      }
+    ],
+    "whatWouldChange": "If the US publicly announced a partial lift of port blockade pressure in exchange for a specific, verifiable Iranian action on uranium enrichment, that would be a real signal toward a deal. Right now neither side has named a concrete de-escalation step the other can take. Until one does, this is posturing, not negotiation.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "US-Iran nuclear deal by April 30?",
+        "url": "https://polymarket.com/event/us-iran-nuclear-deal-by-april-30",
+        "probability": 0.27
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US-Iran nuclear deal by June 30?",
+        "url": "https://polymarket.com/event/us-iran-nuclear-deal-by-june-30",
+        "probability": 0.645
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Strait of Hormuz traffic returns to normal by end of April?",
+        "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-april-30",
+        "probability": 0.205
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Strait of Hormuz traffic returns to normal by end of May?",
+        "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-may",
+        "probability": 0.615
+      }
+    ]
+  }
+}

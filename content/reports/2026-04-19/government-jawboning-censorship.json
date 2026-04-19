@@ -1,0 +1,84 @@
+{
+  "id": "government-jawboning-censorship",
+  "date": "2026-04-19",
+  "generatedAt": "2026-04-19T07:44:00Z",
+  "title": "The FTC Is Doing to NewsGuard What Rhode Island Did to Comic Books in 1956.",
+  "subtitle": "Courts have repeatedly ruled that government pressure on private intermediaries to suppress speech is unconstitutional. The Trump administration is doing it anyway, from a different direction.",
+  "topic": "society",
+  "category": "power",
+  "tags": ["FTC", "NewsGuard", "First Amendment", "censorship", "jawboning", "FCC", "SCOTUS", "free speech"],
+  "coverImage": {
+    "url": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/03/featurejawboning1.jpg",
+    "local": "/images/reports/2026-04-19/government-jawboning-censorship.jpg",
+    "credit": "Reason Magazine"
+  },
+  "sources": [
+    {
+      "url": "https://reason.com/2026/04/18/government-jawboning-is-a-menace-to-freedom-of-speech/",
+      "publisher": "Reason",
+      "angle": "Legal history and constitutional analysis: Bantam Books v. Sullivan (1963) established that government pressure on intermediaries is unconstitutional even without enforcement power; current FTC action against NewsGuard mirrors the Rhode Island morality commission's playbook."
+    },
+    {
+      "url": "https://www.aol.com/articles/opinion-supreme-court-refusal-stand-130000540.html",
+      "publisher": "AOL / The Hill (Opinion)",
+      "angle": "SCOTUS declined to protect a journalist (Priscilla Villarreal) who was prosecuted for asking a police officer for publicly available information; federal courts have been inconsistent defenders of press freedom."
+    }
+  ],
+  "brief": {
+    "actors": ["FTC", "Trump", "FCC", "NewsGuard", "SCOTUS"],
+    "whatHappened": "The Federal Trade Commission, whose chair Andrew Ferguson views NewsGuard as biased against conservative outlets, has issued demands for information from NewsGuard without clear statutory justification. NewsGuard rates the credibility of online news sources and sells those ratings to advertisers and readers. The FTC demands have led NewsGuard to file a First Amendment lawsuit in February arguing the agency is attempting to discourage advertisers from using the service. Separately, President Trump has repeatedly suggested that FCC could revoke broadcast licenses of television stations he considers hostile. Both actions follow a pattern that the Supreme Court addressed in Bantam Books v. Sullivan (1963): government agencies with no direct enforcement power over speech using the threat of that power to pressure private actors into self-censorship. Federal courts struck down similar Biden-era efforts to pressure social media platforms over 'misinformation,' and a New York regulator's pressure on banks to drop the NRA.",
+    "bottomLine": "The Trump administration has learned from the Biden administration's jawboning losses in court: if you pressure a company that rates other companies' speech rather than directly pressuring speakers, you add one more degree of separation from the constitutional violation. It is still unconstitutional.",
+    "hiddenBets": [
+      {
+        "assumption": "The FTC's NewsGuard investigation is a legitimate regulatory inquiry into potential consumer protection issues.",
+        "whyItMightBeWrong": "The FTC chair publicly attributed the investigation to his view that NewsGuard is biased against conservative outlets. If a regulatory investigation is triggered by the government's disagreement with the target's political assessments, that is the definition of viewpoint discrimination, which is the clearest form of First Amendment violation. The legal theory for this being legitimate consumer protection regulation is thin."
+      },
+      {
+        "assumption": "Courts will stop jawboning if the FTC is sanctioned in the NewsGuard case.",
+        "whyItMightBeWrong": "The Biden administration's jawboning of social media platforms produced the Murthy v. Missouri case, which the Supreme Court resolved without issuing a clear substantive ruling that would stop future jawboning. Procedural losses slow but do not stop the practice. Each administration finds new targets and new intermediaries to pressure."
+      },
+      {
+        "assumption": "FCC license threats against TV stations are unenforceable bluster.",
+        "whyItMightBeWrong": "License renewal is not an automatic process. An FCC chair aligned with the administration can initiate hearings, delay renewals, and impose conditions that cost broadcasters millions even if the license is ultimately renewed. The threat does not need to result in revocation to achieve a chilling effect."
+      }
+    ],
+    "realDisagreement": "The genuine fork is between two views of who counts as a censor. One view: government is the only entity that can genuinely censor because only government has coercive authority; private companies declining to advertise with certain outlets or rating them poorly is just market preference. The other view: when government uses regulatory pressure to direct market behavior against specific speakers, the private-sector action is not voluntary and the government is the effective censor regardless of the formal legal structure. The Supreme Court's reasoning in Bantam Books supports the second view, but a current Court with a different composition might narrow that doctrine considerably. The newsguard lawsuit will test where this Court draws the line. Lean toward the current SCOTUS being sympathetic to some jawboning restrictions while creating exceptions that give the administration room to operate.",
+    "whatNoOneIsSaying": "NewsGuard's ratings are itself a form of editorial judgment: it decides which outlets are credible and which are not, and those decisions affect advertiser revenue. The FTC's position is that the government should be able to scrutinize private credibility ratings that affect market outcomes. If that principle were applied consistently, it would give regulators standing to investigate any media critic, analyst, or rating agency whose assessments affect market behavior. That is a far broader principle than either side is openly defending.",
+    "whoPays": [
+      {
+        "who": "NewsGuard and similar credibility-rating services",
+        "how": "Regulatory investigation costs, legal fees, and advertiser uncertainty about using the service regardless of the investigation's outcome. The chilling effect on advertisers happens before any court ruling.",
+        "when": "Immediate; lawsuit filed February 2026."
+      },
+      {
+        "who": "Smaller news outlets rated as low-credibility",
+        "how": "If NewsGuard is successfully pressured to soften negative ratings of conservative-leaning outlets flagged as unreliable, advertisers previously deterred by those ratings will return. This is a direct financial transfer from the credibility-rating system to outlets the administration favors.",
+        "when": "Medium-term; depends on investigation outcome and whether NewsGuard alters its methodology under pressure."
+      },
+      {
+        "who": "Broadcast television stations in competitive markets",
+        "how": "FCC license renewal uncertainty increases operating costs and risk premium. Stations covering Trump-adjacent stories must now factor license risk into editorial decisions, even if the FCC never actually acts.",
+        "when": "Ongoing through FCC review cycles; accelerates as license renewals come up."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Courts block FTC, practice continues elsewhere",
+        "whatHappens": "NewsGuard wins its First Amendment lawsuit; the FTC is enjoined from further demands. The administration shifts jawboning pressure to a different intermediary (credit card processors, cloud providers, domain registrars) using a different regulatory agency. The cycle restarts.",
+        "signal": "FTC drops the NewsGuard investigation or a court issues a preliminary injunction; within 60 days, a different agency opens an inquiry into a different speech-adjacent company."
+      },
+      {
+        "name": "SCOTUS narrows Bantam Books",
+        "whatHappens": "A First Amendment jawboning case reaches the current Supreme Court, which distinguishes modern government speech pressure from the 1963 Rhode Island commission facts and allows at least some forms of agency inquiry into private credibility-rating companies. The doctrine narrows and the administration gains more room to operate.",
+        "signal": "SCOTUS accepts cert on a jawboning case involving the current administration and schedules argument."
+      },
+      {
+        "name": "FCC revokes or threatens a license",
+        "whatHappens": "FCC initiates a formal proceeding against a specific broadcast license, citing content. Even if the proceeding ultimately fails, the action produces immediate self-censorship at the target station and a broader chilling effect industry-wide.",
+        "signal": "FCC files a formal notice of apparent liability or hearing designation order against a named broadcast licensee citing programming content."
+      }
+    ],
+    "whatWouldChange": "If the FTC's Andrew Ferguson publicly produced evidence that NewsGuard's ratings were demonstrably factually wrong rather than ideologically disagreeable, the constitutional case against the investigation would weaken. Viewpoint discrimination is unconstitutional; factual error is a different category. The distinction between 'we disagree with your ratings' and 'your ratings are factually inaccurate' is where this case will be decided.",
+    "markets": []
+  }
+}

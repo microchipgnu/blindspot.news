@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-19",
+  "generatedAt": "2026-04-19T07:45:00Z",
+  "reports": [
+    {
+      "id": "iran-hormuz-ceasefire",
+      "title": "Iran Closes Hormuz Again. The Ceasefire Was Never a Ceasefire.",
+      "subtitle": "Tehran and Washington are each enforcing their version of the truce while calling the other side's actions a violation.",
+      "category": "conflict"
+    },
+    {
+      "id": "trump-tariffs-income-tax",
+      "title": "Trump Says Tariffs Will Replace the Income Tax. The Math Doesn't Work. That's Not the Point.",
+      "subtitle": "The proposal is arithmetically impossible and legally requires Congress. It is doing its intended job anyway.",
+      "category": "power"
+    },
+    {
+      "id": "save-act-voter-id",
+      "title": "The SAVE Act Is Not About Noncitizens. It Is About Who Controls the Voter List.",
+      "subtitle": "Trump's push to use DHS's SAVE program for election verification is dividing election officials ahead of midterms, and polls show it is popular.",
+      "category": "power"
+    },
+    {
+      "id": "openai-gpt-rosalind",
+      "title": "OpenAI's Drug Discovery AI Is Closed-Access. That Is the Whole Strategy.",
+      "subtitle": "GPT-Rosalind can access 50+ scientific databases but researchers cannot see its reasoning, weights, or error analysis. OpenAI is positioning to own the epistemic layer of pharmaceutical discovery.",
+      "category": "power"
+    },
+    {
+      "id": "government-jawboning-censorship",
+      "title": "The FTC Is Doing to NewsGuard What Rhode Island Did to Comic Books in 1956.",
+      "subtitle": "Courts have repeatedly ruled that government pressure on private intermediaries to suppress speech is unconstitutional. The Trump administration is doing it anyway, from a different direction.",
+      "category": "power"
+    }
+  ]
+}
