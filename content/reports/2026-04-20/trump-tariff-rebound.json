@@ -1,0 +1,107 @@
+{
+  "id": "trump-tariff-rebound",
+  "date": "2026-04-20",
+  "generatedAt": "2026-04-20T08:00:00Z",
+  "title": "Tariffs Ruled Illegal, Then Hiked to 15%",
+  "subtitle": "The Supreme Court struck down Trump's IEEPA tariffs as unconstitutional, so Trump raised them under a different legal theory.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["tariffs", "Trump", "SCOTUS", "trade", "Bessent", "IEEPA"],
+  "coverImage": {
+    "url": "https://www.inquirer.com/resizer/v2/7FYL7RALFN6S4RDTBDO4UOQ47U.jpg?auth=647d7f20f649fee3ed959ee4313ef6df33a3595b5d920b55bb8b2837d53fa0e7&width=760&height=507&smart=true",
+    "local": "/images/reports/2026-04-20/trump-tariff-rebound.jpg",
+    "credit": "Philadelphia Inquirer / AP"
+  },
+  "sources": [
+    {
+      "url": "https://fortune.com/2026/04/19/businesses-trump-tariffs-refunds-cpd-portal-importers-brokers/",
+      "publisher": "Fortune",
+      "angle": "Explains the refund portal mechanics: 60-90 day wait, requires documentation, may be clawed back if new tariffs are ruled legal"
+    },
+    {
+      "url": "https://www.inquirer.com/business/tariff-refund-trump-customs-20260419.html",
+      "publisher": "Philadelphia Inquirer",
+      "angle": "AP wire account of the refund system launch; notes importers may not actually collect if tariffs return"
+    },
+    {
+      "url": "https://miraitalk.com/article/trump-hikes-global-tariff-rate-to-15pc-after-supreme-court-loss/11957",
+      "publisher": "Mirai Talk",
+      "angle": "Reports the 15% replacement tariff hike under Section 301 authority as Trump's direct response to the Supreme Court ruling"
+    },
+    {
+      "url": "https://www.aol.com/articles/bessent-says-trump-tariffs-could-000024564.html",
+      "publisher": "Fox News via AOL",
+      "angle": "Bessent confirms tariffs could return to prior levels by July through Section 301 investigations; signals this is a deliberate end-run"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "SCOTUS", "Bessent", "CBP"],
+    "whatHappened": "The Supreme Court ruled earlier this year that Trump's emergency tariffs, imposed using the International Emergency Economic Powers Act (IEEPA), exceeded his statutory authority. Starting Monday April 21, businesses can file claims through a US Customs and Border Protection portal to reclaim overpaid duties, with disbursements expected in 60-90 days. But in the same week the refund portal opened, Trump raised a separate global tariff to 15% using Section 301 trade authority, and Treasury Secretary Scott Bessent told a Wall Street Journal event that the prior tariff levels could return by July once Section 301 investigations are complete.",
+    "bottomLine": "The Supreme Court won the legal argument and lost the policy fight: the administration absorbed the ruling, pivoted to a different legal authority, and is on track to restore the same tariff levels within 90 days.",
+    "hiddenBets": [
+      {
+        "assumption": "Section 301 authority is clearly legal where IEEPA was not",
+        "whyItMightBeWrong": "Section 301 has historically been used for targeted, country-specific actions with documented unfair trade practices. Applying it as a blanket global rate hike as a substitute for the struck-down IEEPA tariffs could face the same constitutional challenge, particularly if courts find the administration is using it as an end-run."
+      },
+      {
+        "assumption": "Businesses will actually collect their refunds",
+        "whyItMightBeWrong": "If Section 301 tariffs return to prior levels by July, the practical effect of the refund is a 90-day interest-free loan from the government. The money flows back and then flows out again in higher duties. The refund portal is procedurally real but economically ephemeral for most importers."
+      },
+      {
+        "assumption": "The administration wants lower tariffs",
+        "whyItMightBeWrong": "Bessent's comment about July restoration was not reluctant. The administration has consistently treated high tariffs as a goal rather than a negotiating tool. The Supreme Court ruling was a setback in legal theory, not a change in policy intent."
+      }
+    ],
+    "realDisagreement": "The fork is between two ways to read the Supreme Court's ruling: as a genuine constraint on executive power that the administration must respect, or as a procedural obstacle that can be routed around using alternative legal authority that accomplishes the same economic result. The courts struck down IEEPA tariffs because Congress had not clearly authorized them for this purpose. If Section 301 gets challenged and courts find it was used as an intentional substitute, the same logic applies. But Section 301 has decades of precedent as a trade tool, so the administration is on stronger ground. The practical outcome is: the tariffs probably come back, and businesses that filed for refunds may end up paying them again.",
+    "whatNoOneIsSaying": "The refund portal's existence creates a politically convenient illusion that the rule of law worked. Businesses file for refunds, the press reports on the Supreme Court 'victory,' and meanwhile the replacement tariffs go back in at the same rate by July. The court didn't reduce tariffs. It changed which statute they're imposed under.",
+    "whoPays": [
+      {
+        "who": "US importers, especially small and mid-size manufacturers",
+        "how": "The 60-90 day refund window requires upfront documentation costs and legal fees. If tariffs return by July as Bessent projected, the net gain is minimal and the administrative burden is real.",
+        "when": "Immediate and ongoing"
+      },
+      {
+        "who": "US consumers",
+        "how": "A 15% blanket global tariff hits consumer goods prices across electronics, clothing, and household goods. The tariff incidence falls primarily on domestic buyers, not foreign exporters.",
+        "when": "Already priced in from prior tariff levels; sustained at 15% going forward"
+      },
+      {
+        "who": "Trading partners, especially Southeast Asian manufacturers",
+        "how": "Section 301 actions require evidence of specific unfair trade practices. But if the administration is running 301 investigations on 20+ countries simultaneously to replicate a blanket tariff, the evidentiary bar is likely being applied inconsistently.",
+        "when": "Medium-term, as investigations conclude by July"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Tariffs return by July as promised",
+        "whatHappens": "Section 301 investigations conclude, tariffs go back to prior levels. Some importers who filed refund claims find the net effect near zero. Legal challenges to 301 tariffs are filed but courts are slower to rule than on IEEPA.",
+        "signal": "Bessent or USTR announce the first Section 301 determinations by early June"
+      },
+      {
+        "name": "Refund system gets overwhelmed or litigated",
+        "whatHappens": "CBP portal handles claims at scale; disputes over documentation standards or eligibility generate a second wave of litigation. Disbursements are delayed past 90 days, creating cash flow problems for businesses that built inventory plans around refund timing.",
+        "signal": "CBP extends the filing window or announces backlog delays before May 15"
+      },
+      {
+        "name": "Section 301 tariffs also challenged successfully",
+        "whatHappens": "Courts rule the Section 301 application was procedurally defective as a de facto IEEPA replacement. Administration is left without broad tariff authority, forced to negotiate individual country deals or seek congressional authorization.",
+        "signal": "A federal circuit court issues a temporary injunction on 301 tariffs within 60 days, citing the IEEPA ruling's reasoning"
+      }
+    ],
+    "whatWouldChange": "If a court issues a preliminary injunction on Section 301 tariffs with explicit language connecting them to the IEEPA ruling, the administration's legal path narrows significantly. Alternatively, if Congress acts to explicitly authorize broad tariff powers under a new statute, that would change the entire legal landscape. Markets currently give the tariff-return scenario the higher probability.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Court Force Trump to Refund Tariffs?",
+        "url": "https://polymarket.com/event/will-the-court-force-trump-to-refund-tariffs-2026-06-30",
+        "probability": 0.625
+      },
+      {
+        "platform": "Polymarket",
+        "question": "U.S. agrees to a new trade deal with European Union before 2027?",
+        "url": "https://polymarket.com/event/which-countries-will-trump-make-new-trade-deals-with-before-2027-921",
+        "probability": 0.105
+      }
+    ]
+  }
+}

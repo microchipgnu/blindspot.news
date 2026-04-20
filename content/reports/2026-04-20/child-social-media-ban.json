@@ -1,0 +1,98 @@
+{
+  "id": "child-social-media-ban",
+  "date": "2026-04-20",
+  "generatedAt": "2026-04-20T08:00:00Z",
+  "title": "The Social Media Ban That Already Failed",
+  "subtitle": "Australia's under-16 ban went global this week as governments launched an EU age-verification app, a world leaders summit, and Australian legal threats. The app was hacked in two minutes.",
+  "topic": "society",
+  "category": "power",
+  "tags": ["social media", "children", "EU", "Australia", "regulation", "age verification"],
+  "coverImage": {
+    "url": "https://reclaimthenet.org/wp-content/uploads/2026/04/wmZ6yhD5fQ4s-scaled.jpg",
+    "local": "/images/reports/2026-04-20/child-social-media-ban.jpg",
+    "credit": "Reclaim the Net"
+  },
+  "sources": [
+    {
+      "url": "https://www.straitstimes.com/world/europe/eu-age-verification-app-ready-as-europe-moves-to-curb-childrens-social-media-access",
+      "publisher": "Straits Times",
+      "angle": "EU Commission launch: age verification app presented as technically ready across all member states"
+    },
+    {
+      "url": "https://stuartjeannebramhall.com/2026/04/19/eus-new-age-verification-app-hacked-in-two-minutes/",
+      "publisher": "Reclaim the Net via Most Revolutionary Act",
+      "angle": "Security researchers bypassed the EU app within hours of launch; documents specific vulnerabilities found"
+    },
+    {
+      "url": "https://lnginnorthernbc.ca/2026/04/19/who-said-australias-social-media-ban-model-was-working/",
+      "publisher": "LNG in Northern BC / News Room USA",
+      "angle": "Critiques the Australia model: Greek teens already bypassed the ban within four months; compliance is minimal"
+    },
+    {
+      "url": "https://itsfoss.com/opinion/age-verification-tobacco-moment/",
+      "publisher": "It's FOSS",
+      "angle": "Argues the 'protect children' push will centralize identity verification in ways that strengthen Big Tech and enable surveillance"
+    },
+    {
+      "url": "https://worldnews.whatfinger.com/2026/04/19/should-kids-be-banned-from-social-media-the-world-is-deciding-france-24-english/",
+      "publisher": "France 24",
+      "angle": "News summary of the world leaders video summit and rapid coordinated movement across governments"
+    }
+  ],
+  "brief": {
+    "actors": ["EU", "Australia", "Meta", "TikTok"],
+    "whatHappened": "This week saw a coordinated international push to restrict children's social media access. The EU Commission launched a bloc-wide age verification app, presented by Ursula von der Leyen as 'technically ready' for deployment. Security researchers bypassed it within hours of the open-source code being published. A video summit of world leaders convened to discuss bans modeled on Australia's December 2025 law restricting under-16s from major platforms. Australian authorities issued legal threats against platforms for non-compliance. Meanwhile, fresh data showed that 61% of Australian minors who had accounts before the ban still accessed the same platforms four months in, and platform identification rates remain below 40%.",
+    "bottomLine": "Governments are racing to build age verification infrastructure that doesn't work, for a problem the evidence doesn't clearly support, in a way that creates the most powerful identity surveillance system the internet has ever seen.",
+    "hiddenBets": [
+      {
+        "assumption": "Age verification can actually prevent under-16s from accessing social media",
+        "whyItMightBeWrong": "Australia's own data says 61% of banned minors are still on the platforms four months in. VPNs, borrowed accounts, and device sharing are trivial workarounds that require no technical sophistication. Enforcement is structurally impossible without real-time identity verification of every user session."
+      },
+      {
+        "assumption": "Social media is demonstrably harmful enough to justify restricting it",
+        "whyItMightBeWrong": "The scientific evidence on social media harm to adolescents is genuinely contested. A 2026 Los Angeles jury found Meta liable for addiction-related harm, but that case involved specific product design features, not access itself. The 'tobacco moment' framing elides a real distinction: we can demonstrate cigarette chemistry causes cancer. The social media harm literature is correlational and confounded."
+      },
+      {
+        "assumption": "Age verification infrastructure stays limited to social media access",
+        "whyItMightBeWrong": "Once a national or EU-level identity-to-platform verification system exists, it becomes infrastructure. The same architecture that blocks a 14-year-old from TikTok can block a dissident from a news site if the legal purpose is broadened. Every authoritarian state looking for a legitimized model for internet identity controls is watching this closely."
+      }
+    ],
+    "realDisagreement": "The fork is between protecting children from documented harm and avoiding the construction of identity surveillance infrastructure that will be abused. Both concerns are real. A parent watching their 13-year-old develop an eating disorder from TikTok has a legitimate grievance. A civil liberties researcher watching governments build mandatory real-time identity verification for internet access has a legitimate alarm. You cannot do the first without building the second, and every assurance that the infrastructure will be 'limited to protection purposes' has been contradicted by every comparable surveillance system in history. Governments that are serious about child safety could regulate platform product design directly (algorithmic amplification, infinite scroll, notification timing) without requiring identity infrastructure.",
+    "whatNoOneIsSaying": "The major platforms are not fighting these laws hard. Meta, TikTok, and YouTube have the legal resources to tie age verification laws up in courts for years. They aren't. Because a world where platform access requires verified identity means the platforms own the verified identity. That is worth more than any advertising revenue they lose from losing the 13-16 demographic.",
+    "whoPays": [
+      {
+        "who": "Teenagers in countries with functioning bans",
+        "how": "The kids who comply are disproportionately the ones from stable households with parental oversight who were least at risk. The kids most at risk use VPNs or borrowed accounts and remain exposed while their compliant peers lose access to social support networks that also exist on these platforms.",
+        "when": "Immediate"
+      },
+      {
+        "who": "Privacy-conscious adults who aren't children",
+        "how": "If age verification infrastructure is deployed, all users need to verify, not just minors. Privacy-preserving zero-knowledge proof approaches exist but are technically complex and politically unappealing to regulators who want audit trails. The default implementation is a government-or-platform identity database of every user.",
+        "when": "Medium-term, as systems roll out"
+      },
+      {
+        "who": "Users in authoritarian-adjacent countries",
+        "how": "The EU's open-source age verification app sets a technical and political precedent for mandatory identity-to-internet linking. Countries in Eastern Europe, Central Asia, and Southeast Asia that use EU technical standards as a model will adapt the architecture for broader population surveillance.",
+        "when": "Long-term, as the infrastructure diffuses"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Security-theater compliance",
+        "whatHappens": "Platforms nominally implement age verification. Bypass rates hover around 50-70% globally, similar to Australia's current numbers. Governments declare success politically. The underlying harm metrics don't change. Identity verification infrastructure is built and used for adjacent purposes.",
+        "signal": "EU member states announce 'high compliance rates' within 90 days of app deployment without publishing methodology"
+      },
+      {
+        "name": "Technical failure forces redesign",
+        "whatHappens": "The EU app's security vulnerabilities become a public scandal. Von der Leyen is forced to pause deployment. A serious redesign process with actual security standards takes 12-18 months. Meanwhile country-level bans proceed using different and inconsistent approaches.",
+        "signal": "A major security research firm publishes a full vulnerability disclosure on the EU app within 30 days of launch"
+      },
+      {
+        "name": "Platform design regulation wins instead",
+        "whatHappens": "A coalition of countries shifts from access restriction to product design regulation: mandatory chronological feeds, no algorithmic amplification for minors, restricted notification timing, removal of infinite scroll for under-18 accounts. This is harder to bypass and less dependent on identity infrastructure.",
+        "signal": "UK Online Safety Act enforcement actions target specific product features rather than age gates within the next six months"
+      }
+    ],
+    "whatWouldChange": "If a randomized controlled study showed that restricting social media access for minors produced measurable mental health improvements (not just correlational data), the policy case becomes substantially stronger and the surveillance tradeoff more defensible. That study does not currently exist. Alternatively, if a major European court rules that mandatory age verification for internet services is incompatible with GDPR or fundamental rights, the entire regulatory program requires reconstruction."
+  }
+}

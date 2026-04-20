@@ -1,0 +1,42 @@
+{
+  "date": "2026-04-20",
+  "generatedAt": "2026-04-20T08:00:00Z",
+  "reports": [
+    {
+      "id": "iran-ceasefire-expiry",
+      "title": "The Ceasefire That Was Never a Ceasefire",
+      "subtitle": "Iran pulls out of second-round talks as the US seizes a cargo ship and the two-week truce expires in 48 hours.",
+      "category": "conflict"
+    },
+    {
+      "id": "trump-tariff-rebound",
+      "title": "Tariffs Ruled Illegal, Then Hiked to 15%",
+      "subtitle": "The Supreme Court struck down Trump's IEEPA tariffs as unconstitutional, so Trump raised them under a different legal theory.",
+      "category": "power"
+    },
+    {
+      "id": "anthropic-mythos-danger",
+      "title": "The AI Model Too Dangerous to Release (Except to the Government)",
+      "subtitle": "Anthropic withheld Mythos from the public for being too capable at cyberattacks, then flew its CEO to the White House to discuss federal access.",
+      "category": "power"
+    },
+    {
+      "id": "trump-ice-first-amendment",
+      "title": "The Government That Made Apple Delete Its Own Critics",
+      "subtitle": "A federal judge found the Trump administration coerced Facebook and Apple into removing ICE-tracking tools, ruling it a First Amendment violation.",
+      "category": "power"
+    },
+    {
+      "id": "warsh-fed-confirmation",
+      "title": "The Fed's New Chair Will Inherit a Trap",
+      "subtitle": "Kevin Warsh faces his Senate confirmation hearing Tuesday as Trump demands rate cuts, oil spikes, and inflation shows no signs of cooperating.",
+      "category": "power"
+    },
+    {
+      "id": "child-social-media-ban",
+      "title": "The Social Media Ban That Already Failed",
+      "subtitle": "Australia's under-16 ban went global this week as governments launched an EU age-verification app, a world leaders summit, and Australian legal threats. The app was hacked in two minutes.",
+      "category": "power"
+    }
+  ]
+}

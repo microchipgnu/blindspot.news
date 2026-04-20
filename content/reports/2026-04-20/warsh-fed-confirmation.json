@@ -1,0 +1,114 @@
+{
+  "id": "warsh-fed-confirmation",
+  "date": "2026-04-20",
+  "generatedAt": "2026-04-20T08:00:00Z",
+  "title": "The Fed's New Chair Will Inherit a Trap",
+  "subtitle": "Kevin Warsh faces his Senate confirmation hearing Tuesday as Trump demands rate cuts, oil spikes, and inflation shows no signs of cooperating.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Warsh", "Fed", "Powell", "Trump", "interest rates", "inflation"],
+  "coverImage": {
+    "url": "https://i.ytimg.com/vi/VfZ_qq-GedU/sddefault.jpg",
+    "local": "/images/reports/2026-04-20/warsh-fed-confirmation.jpg",
+    "credit": "Bloomberg Television"
+  },
+  "sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=VfZ_qq-GedU",
+      "publisher": "Bloomberg Television",
+      "angle": "Preview of Warsh hearing: what senators are likely to probe, how Warsh will try to appear independent while not alienating Trump"
+    },
+    {
+      "url": "https://biztoc.com/x/952bf503ca02e76c",
+      "publisher": "MarketWatch via BizToc",
+      "angle": "Trump expects rate cuts from Warsh; analysis of Warsh's academic record and how he might actually cut rates in an inflationary environment"
+    },
+    {
+      "url": "https://investbusinesses.com/new-york-fed-president-williams-worries-war-will-slow-growth-aggravate-inflation/",
+      "publisher": "Invest Businesses / Reuters",
+      "angle": "NY Fed President Williams publicly flags the Iran war as a stagflationary risk: prices up, growth slowing simultaneously"
+    },
+    {
+      "url": "https://www.bbh.com/us/en/insights/blog/mind-on-the-markets/Drivers-for-the-Week-of-April-20-2026.html",
+      "publisher": "Brown Brothers Harriman",
+      "angle": "Markets brief noting the confirmation hearing is the key policy event of the week, alongside ceasefire expiry and PMI data"
+    }
+  ],
+  "brief": {
+    "actors": ["Warsh", "Trump", "Powell", "Fed"],
+    "whatHappened": "The Senate Banking Committee holds Kevin Warsh's confirmation hearing as Fed Chair nominee at 10am Tuesday, April 21. Trump has publicly expected Warsh to cut rates and has renewed threats to fire current chair Jerome Powell before his term ends, apparently to install Warsh early. Markets are already pricing the transition: the Polymarket probability that Powell departs by June 30 stands at 88%. The economic backdrop is deteriorating: oil has spiked back toward $90 on Iran tensions, the NY Fed president warned this week that the war is causing simultaneous price spikes and growth slowdowns, and the Dow futures fell 450 points Monday morning."
+    ,
+    "bottomLine": "Trump is about to install a Fed chair who will be politically pressured to cut rates into an inflationary environment caused by Trump's own tariffs and war posture. Warsh knows this is a trap. The question is whether he can refuse it after accepting the nomination.",
+    "hiddenBets": [
+      {
+        "assumption": "Warsh will cut rates because Trump expects him to",
+        "whyItMightBeWrong": "Warsh's academic record and prior Fed tenure make him a hawk, not a dove. His actual stated view is that inflation must be controlled before stimulus. He may cut rates slowly and conditionally, which Trump will experience as a betrayal regardless of the nominal compliance."
+      },
+      {
+        "assumption": "Powell's departure is clean and resolved before Warsh takes over",
+        "whyItMightBeWrong": "Polymarket gives a 14.5% probability that Powell is gone by May 16, meaning an 85% chance he's still there at the start of Warsh's confirmation process. A prolonged power struggle between the outgoing and incoming chairs creates genuine governance uncertainty at the Fed at the worst possible macroeconomic moment."
+      },
+      {
+        "assumption": "Senate confirmation is straightforward",
+        "whyItMightBeWrong": "Polymarket gives only a 65.5% probability that Lisa Murkowski, the most likely moderate Republican swing vote, confirms Warsh. A 34% chance of Murkowski defection means the margin is thin. A single additional defection from a Republican who is worried about Fed independence could block confirmation entirely."
+      }
+    ],
+    "realDisagreement": "The fork is this: the Fed's dual mandate requires it to control inflation AND support employment. Right now those two goals are pulling apart. Iran-driven oil prices are inflationary. Tariffs are inflationary. War uncertainty is slowing growth. The traditional response to stagflation is to do nothing or raise rates, because cutting rates into inflation makes it worse. But Trump wants cuts, and Warsh needs Trump's support to function as chair. If Warsh cuts into stagflation, he destroys his own credibility and likely makes the problem worse. If he refuses, he faces a public fight with the White House that undermines the very independence that makes the Fed functional. There is no clean path.",
+    "whatNoOneIsSaying": "Powell has lasted this long because Trump's legal arguments for firing him were always weak, not because Trump didn't want to fire him. If Warsh is confirmed but then refuses to cut rates as aggressively as Trump wants, Trump faces the same problem with a nominee he personally selected. Warsh's confirmation does not end the Fed-White House conflict. It restarts it.",
+    "whoPays": [
+      {
+        "who": "Households with variable-rate debt (mortgages, credit cards, auto loans)",
+        "how": "If Warsh cuts rates and inflation rises, the real value of debt payments stays high while purchasing power falls. Rate cuts in an inflationary environment redistribute wealth from savers to borrowers and from fixed-income retirees to asset owners.",
+        "when": "Medium-term, 6-12 months after any rate cut"
+      },
+      {
+        "who": "Bond markets and dollar-denominated assets globally",
+        "how": "A Fed chair who is perceived as politically captured loses the credibility that makes dollar-denominated assets the world's safe haven. Capital flows shift if markets price in that US monetary policy is now a function of White House pressure rather than inflation data.",
+        "when": "Immediate, at the first sign that Warsh is deferring to Trump on rate decisions"
+      },
+      {
+        "who": "Working-class Americans",
+        "how": "Stagflation harms people with fixed wages and no financial assets most directly. Energy price spikes (driven by Iran tensions) and food price inflation eat a larger share of household income for the bottom two income quintiles.",
+        "when": "Ongoing and accelerating if oil stays above $85"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Confirmed, cuts reluctantly",
+        "whatHappens": "Warsh is confirmed with 52-53 votes. He delivers one 25bp rate cut in Q3 to satisfy Trump, then holds or reverses if inflation data worsens. Trump publicly expresses disappointment but doesn't fire him. The Fed's credibility takes a moderate hit but survives.",
+        "signal": "Warsh's testimony uses language like 'data-dependent' and 'appropriate timing' rather than committing to a specific cut schedule"
+      },
+      {
+        "name": "Confirmation blocked",
+        "whatHappens": "One or two Republican senators vote no, citing Fed independence concerns. Powell remains chair past May. Trump accelerates legal maneuvers to fire Powell as a board member, generating a constitutional crisis at the Fed.",
+        "signal": "Collins or Murkowski publicly signals concerns about Fed independence before the vote"
+      },
+      {
+        "name": "Warsh confirmed, refuses cuts",
+        "whatHappens": "Confirmed and then faces stagflation data that makes rate cuts indefensible. Warsh holds rates or raises them. Trump publicly attacks him. The conflict plays out over months, damaging both the White House's economic credibility and the Fed's nominal independence simultaneously.",
+        "signal": "Within 90 days of confirmation, a Truth Social post attacks 'my Fed chair' for failing to cut"
+      }
+    ],
+    "whatWouldChange": "If Q2 inflation data comes in below expectation (driven by oil price moderation or tariff impacts washing out), Warsh has cover to cut rates in Q3 without appearing politically captured. The economic case for cuts would be real, not manufactured. That is the scenario where the Fed-White House conflict is defused rather than deferred.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Jerome Powell depart as Fed Chair by June 30 2026?",
+        "url": "https://polymarket.com/event/jerome-powell-departs-as-fed-chair-by",
+        "probability": 0.88
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Jerome Powell depart as Fed Chair between May 15 and May 22?",
+        "url": "https://polymarket.com/event/when-will-jerome-powell-depart-as-fed-chair",
+        "probability": 0.535
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Lisa Murkowski vote to confirm Kevin Warsh as Chair of the Federal Reserve?",
+        "url": "https://polymarket.com/event/who-will-vote-to-confirm-kevin-warsh-as-fed-chair",
+        "probability": 0.655
+      }
+    ]
+  }
+}

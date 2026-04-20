@@ -1,0 +1,62 @@
+{
+  "date": "2026-04-20",
+  "threads": [
+    {
+      "id": "end-run-on-legal-authority",
+      "title": "The End-Run Playbook",
+      "description": "Four stories today are variations on the same move: a legal constraint is applied, and the executive branch routes around it using a different mechanism that produces the same outcome. SCOTUS strikes down IEEPA tariffs; Trump raises Section 301 tariffs to the same level. Courts say you can't directly censor ICE-trackers; administration pressures platforms to do it privately. Iran ceasefire prohibits air strikes; blockade operations continue and a ship is seized. Courts may block you from firing Powell; nominate Warsh so Powell becomes irrelevant. The pattern is not defiance of law. It is institutional fluency: finding which legal mechanism isn't covered yet.",
+      "type": "tension-cluster",
+      "stories": ["trump-tariff-rebound", "trump-ice-first-amendment", "iran-ceasefire-expiry", "warsh-fed-confirmation"],
+      "connections": [
+        {
+          "from": "trump-tariff-rebound",
+          "to": "trump-ice-first-amendment",
+          "relationship": "Both cases involve the administration achieving a prohibited outcome through an adjacent legal mechanism: a different statute for tariffs, private platform pressure for censorship"
+        },
+        {
+          "from": "trump-ice-first-amendment",
+          "to": "warsh-fed-confirmation",
+          "relationship": "Both represent attempts to exercise power over an independent institution (courts, Fed) by going around the formal constraint rather than through it"
+        },
+        {
+          "from": "iran-ceasefire-expiry",
+          "to": "trump-tariff-rebound",
+          "relationship": "The ceasefire-while-blockading logic mirrors the tariff-under-new-authority logic: same economic or military effect, different legal framing"
+        }
+      ]
+    },
+    {
+      "id": "iran-economic-chain",
+      "title": "Iran War as Economic Contagion",
+      "description": "The Iran ceasefire collapse does not stay inside the geopolitics box. Oil approaching $90 because of Hormuz disruption is the direct input into the stagflation problem that makes the Warsh confirmation hearing matter so much this week. The NY Fed already flagged war as a simultaneous inflation and growth drag. Warsh cannot cut rates into a war-driven oil spike without destroying his credibility before he starts. The Iran story and the Fed story are not parallel events; they are cause and effect playing out over the same 72-hour window.",
+      "type": "cause-effect",
+      "stories": ["iran-ceasefire-expiry", "warsh-fed-confirmation", "trump-tariff-rebound"],
+      "connections": [
+        {
+          "from": "iran-ceasefire-expiry",
+          "to": "warsh-fed-confirmation",
+          "relationship": "Hormuz disruption spikes oil toward $90, feeding inflation that makes Trump's rate-cut demands impossible for Warsh to satisfy without credibility loss"
+        },
+        {
+          "from": "trump-tariff-rebound",
+          "to": "warsh-fed-confirmation",
+          "relationship": "15% blanket tariff adds a second independent inflation input to the same economy Warsh will inherit, compounding the stagflationary environment"
+        }
+      ]
+    },
+    {
+      "id": "government-as-exclusive-gatekeeper",
+      "title": "The Dangerous Tool Exclusivity Play",
+      "description": "Two unrelated stories this week share a structure: a capability is declared too dangerous for public access, which means it can only be provided exclusively through government channels. Anthropic withholds Mythos from the public and sells access to federal agencies. EU governments build age verification infrastructure that only states can operate. In both cases, the 'too dangerous' framing converts a public good into a government-controlled chokepoint. The pattern is worth naming because it is becoming a template: declare something harmful, restrict it publicly, retain it institutionally.",
+      "type": "tension-cluster",
+      "stories": ["anthropic-mythos-danger", "child-social-media-ban"],
+      "connections": [
+        {
+          "from": "anthropic-mythos-danger",
+          "to": "child-social-media-ban",
+          "relationship": "Both cases involve restricting public access to a capability while channeling it through government custody, with the same surveillance infrastructure risk in each: government becomes the only entity that holds the power"
+        }
+      ]
+    }
+  ]
+}
