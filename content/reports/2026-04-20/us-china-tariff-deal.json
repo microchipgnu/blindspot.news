@@ -1,0 +1,107 @@
+{
+  "id": "us-china-tariff-deal",
+  "date": "2026-04-20",
+  "generatedAt": "2026-04-20T13:00:00Z",
+  "title": "The 90-Day Truce That Changes Nothing",
+  "subtitle": "The US and China rolled back their tariff war from 145% and 125% to 30% and 10% respectively. The deal expires in 90 days. Neither side agreed to anything structural.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["US", "China", "tariffs", "trade", "Bessent", "Geneva"],
+  "coverImage": {
+    "url": "https://cassette.sphdigital.com.sg/image/straitstimes/ee3f63899cb3dd51bcdcff01269bf2e26317cf032e12b82a9e7bba4d4d94818d",
+    "local": "/images/reports/2026-04-20/us-china-tariff-deal.jpg",
+    "credit": "Straits Times / AFP"
+  },
+  "sources": [
+    {
+      "url": "https://en.azvision.az/news/189451/us,-china-agree-initial-90-day-tariff-relief.html",
+      "publisher": "AzVision / Anadolu Agency",
+      "angle": "Joint statement from Bessent and Greer announces tariff rollback; 30% US rate and 10% China rate take effect May 14."
+    },
+    {
+      "url": "https://www.cnbc.com/amp/2026/04/19/trump-tariffs-business-refunds.html",
+      "publisher": "CNBC",
+      "angle": "Tariff refund portal launches same week as Geneva deal, complicating the political framing of Trump as trade-war winner."
+    },
+    {
+      "url": "https://www.briefs.co/news/trump-50-percent-china-tariff-iran-arms/",
+      "publisher": "Briefs",
+      "angle": "Just days before the Geneva deal, Trump threatened a 50% tariff on China over reported Iran arms shipments, illustrating how quickly this deal can unravel."
+    },
+    {
+      "url": "https://www.reuters.com/commentary/breakingviews/iran-catastrophe-has-some-silver-linings-2026-04-20/",
+      "publisher": "Reuters Breakingviews",
+      "angle": "The Iran war's side effects, including EU energy independence pressure and US LNG gains, may do more to reshape trade flows than any negotiated deal."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "China", "Bessent", "Xi"],
+    "whatHappened": "Following intensive weekend negotiations in Geneva, the US and China announced a 90-day tariff truce on April 20. US tariffs on Chinese goods drop from 145% to 30%, effective May 14. Chinese tariffs on US goods drop from 125% to 10%. Treasury Secretary Scott Bessent and US Trade Representative Jamieson Greer announced the deal in a joint statement. No structural commitments on technology transfer, intellectual property, state subsidies, or market access were included. Trump characterized it as a major breakthrough while Chinese state media called it a mutual de-escalation.",
+    "bottomLine": "This is a pause, not a deal. Both sides agreed to stop hurting each other for 90 days without agreeing on what comes next. The tariff war has not ended; it has been suspended pending the same negotiations that have failed repeatedly since 2018.",
+    "hiddenBets": [
+      {
+        "assumption": "30% tariffs represent a genuinely lower friction environment for trade.",
+        "whyItMightBeWrong": "US tariffs at 30% are still roughly four times higher than pre-2018 Most Favored Nation rates on most Chinese goods. Supply chains that were restructured to avoid 145% tariffs will not reverse for a 90-day window. The short-term trade relief is real; the structural supply chain shift is not undone."
+      },
+      {
+        "assumption": "The deal signals genuine US willingness to de-escalate the broader technology and security competition with China.",
+        "whyItMightBeWrong": "The Trump administration threatened a 50% China tariff over Iran arms shipments in the same week it negotiated the Geneva deal. The trade truce is transactional and siloed from the geopolitical competition, which continues across AI chip controls, Taiwan, and the Iran war."
+      },
+      {
+        "assumption": "Markets pricing in the deal as a durable resolution are reading the fundamentals correctly.",
+        "whyItMightBeWrong": "The 90-day structure was used in 2019, 2020, and again in this cycle. Each time, it raised hopes that collapsed when structural issues were not resolved. The probability of a durable structural deal within 90 days is low because neither side has domestic political incentives to make the core concessions required."
+      }
+    ],
+    "realDisagreement": "The genuine fork is whether this deal's primary function is economic, reducing real trade costs and supply chain disruption, or political, giving both Trump and Xi a face-saving pause before the next escalation. The economic case requires follow-through that has never materialized. The political case requires nothing more than 90 days passing without a public breakdown. The political reading is more plausible, which means anyone making long-term investment decisions based on this deal is mispricing the risk of re-escalation before August.",
+    "whatNoOneIsSaying": "China agreed to this deal under exactly the conditions it has historically resisted: during an active US military operation in Iran that China opposes, while being threatened with sanctions for alleged Iran arms shipments. The fact that China signed anyway reveals how much economic damage the 145% tariffs were inflicting on Chinese exporters, and how much leverage the US retains even in a divided geopolitical environment.",
+    "whoPays": [
+      {
+        "who": "US importers who restructured supply chains away from China at 145%",
+        "how": "Capital expenditure sunk into Vietnam, Mexico, and India factory builds is not recovered by a 90-day tariff pause. They now face a period of higher costs from their new supply chains while competitors who held Chinese supply relationships benefit temporarily.",
+        "when": "Immediate; the cost mismatch is felt in Q2 and Q3 2026 earnings."
+      },
+      {
+        "who": "Chinese export-dependent manufacturers who held out",
+        "how": "The same firms that did not shift supply chains benefited from the deal, but 30% tariffs still reduce US market competitiveness versus pre-2018 baselines. The relief is partial and temporary.",
+        "when": "Medium-term; inventory drawdown takes weeks to show as improved revenue."
+      },
+      {
+        "who": "Third-country manufacturers in Vietnam, Bangladesh, and Mexico who captured diverted trade",
+        "how": "If even 20% of supply chains that shifted to these countries shift back to China, the labor market and investment climate disruption in those countries is significant, particularly for garment and electronics sectors.",
+        "when": "Medium-term, if a structural deal follows the 90-day truce."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Truce Holds, Talks Stall",
+        "whatHappens": "The 90 days pass without incident. Structural negotiations begin but produce no agreement. A third 90-day extension is offered. Markets treat each extension as a new win. Nothing structural changes.",
+        "signal": "Watch for any announcement of a 'framework' or 'principles agreement' without specific timelines or enforcement mechanisms."
+      },
+      {
+        "name": "Iran Rupture Kills the Deal",
+        "whatHappens": "Evidence surfaces of Chinese military hardware in Iranian hands. Trump implements the threatened 50% tariff on China. The Geneva deal collapses within 60 days. Markets sell off sharply.",
+        "signal": "A Trump social media post naming China in connection with Iranian military hardware. The threat was already made; the trigger was the only missing piece."
+      },
+      {
+        "name": "Xi Visit Produces a Structural Deal",
+        "whatHappens": "The tariff truce is used to arrange a Trump-Xi summit. A broader deal covering tech, Taiwan, and energy is sketched out. 30% tariffs become the new baseline. Real structural reform is limited but the diplomatic architecture stabilizes.",
+        "signal": "A confirmed Xi Jinping visit to the US, which markets at 65.5% probability on Polymarket."
+      }
+    ],
+    "whatWouldChange": "If the next 90-day round of negotiations produces a binding agreement with independent enforcement mechanisms on any one structural issue, technology transfer, state subsidy caps, or market access, the 'pause not a deal' judgment becomes wrong. That has not happened in eight years of US-China trade negotiations.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Xi Jinping visit US before 2027?",
+        "url": "https://polymarket.com/event/will-xi-jinping-visit-us-before-2027",
+        "probability": 0.655
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US x China Military clash before 2027?",
+        "url": "https://polymarket.com/event/us-x-china-military-clash-before-2027",
+        "probability": 0.07
+      }
+    ]
+  }
+}

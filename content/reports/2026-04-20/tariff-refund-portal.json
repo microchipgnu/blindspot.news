@@ -1,0 +1,101 @@
+{
+  "id": "tariff-refund-portal",
+  "date": "2026-04-20",
+  "generatedAt": "2026-04-20T13:00:00Z",
+  "title": "The Largest Trade Refund in US History Goes to the Wrong People",
+  "subtitle": "The CAPE portal opened Monday for businesses to claim $127-166 billion in tariff refunds. Consumers who actually paid the higher prices get nothing.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["tariffs", "SCOTUS", "Trump", "trade", "CBP", "importers", "consumers"],
+  "coverImage": {
+    "url": "https://www.gpb.org/sites/default/files/styles/three_two_702x468/public/npr_story_images/2026/04/20/acecpb-3.jpg?h=40fb7835&itok=hezw1P5C",
+    "local": "/images/reports/2026-04-20/tariff-refund-portal.jpg",
+    "credit": "GPB / NPR"
+  },
+  "sources": [
+    {
+      "url": "https://www.npr.org/2026/04/19/nx-s1-5786635/tariff-refunds-customs-ace-portal",
+      "publisher": "NPR",
+      "angle": "Portal mechanics: first phase covers only a subset of goods, many claims will take months to process, and the refund structure heavily favors large importers with legal resources."
+    },
+    {
+      "url": "https://www.cnbc.com/amp/2026/04/19/trump-tariffs-business-refunds.html",
+      "publisher": "CNBC",
+      "angle": "Refund process opens Monday for the tariffs SCOTUS struck down in February; importers and brokers can file claims, but refunds go to businesses, not end consumers."
+    },
+    {
+      "url": "https://www.newsbytesapp.com/news/business/us-tariff-refund-process-begins-after-supreme-court-ruling/story",
+      "publisher": "NewsBytesApp",
+      "angle": "Process expected to be the largest in US history; first phase only; total refunds could exceed $100 billion once all phases complete."
+    },
+    {
+      "url": "https://www.newser.com/story/387609/refund-portal-for-tariffs-ruled-unconstitutional-opens-today.html",
+      "publisher": "Newser",
+      "angle": "Portal opens same day as Iran ceasefire standoff and China trade deal, burying a story with direct financial implications for millions of businesses in the news cycle."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "SCOTUS", "CBP", "Congress"],
+    "whatHappened": "The US Customs and Border Protection launched the CAPE portal on April 20, allowing importers and customs brokers to begin claiming refunds on tariffs the Supreme Court struck down in February as an unconstitutional exercise of emergency economic powers. The first phase covers a subset of affected goods. Total refundable amounts range from $127 billion to $166 billion depending on the final scope of the court's order, making it the largest trade refund operation in US history. No mechanism exists to pass the refunds to retail consumers or downstream buyers who actually absorbed the tariff costs.",
+    "bottomLine": "The government is returning money to the entities that wrote the checks, not to the people who paid the bill. The constitutional victory over Trump's emergency tariff authority produces a windfall for large importers and erases nothing for the consumers and small businesses that absorbed the costs.",
+    "hiddenBets": [
+      {
+        "assumption": "Tariff refunds represent a meaningful economic stimulus.",
+        "whyItMightBeWrong": "The refund is a balance-sheet event for large import corporations and customs brokers who have already priced the tariff costs into their structures. Small importers who could not absorb the costs simply went out of business or shifted supply chains; they see no refund. The stimulus effect is highly concentrated and mostly non-stimulative for consumption."
+      },
+      {
+        "assumption": "The SCOTUS ruling against IEEPA tariffs constrains Trump's future use of emergency economic powers.",
+        "whyItMightBeWrong": "Trump immediately re-imposed tariffs under a different legal theory after the original IEEPA ruling. The CAPE portal refunds are for the specifically struck-down tariffs; the replacement tariffs at 15% are still in force under a different authority. The ruling may produce refunds without meaningfully constraining tariff policy."
+      },
+      {
+        "assumption": "The refund process will be completed efficiently and without significant dispute.",
+        "whyItMightBeWrong": "The portal is the first phase of a multi-phase process. CBP has no precedent for processing this volume of claims simultaneously. Large corporations with specialized customs legal teams will file quickly and correctly; small businesses with limited legal resources will face the same bureaucratic friction that made the original tariff burden disproportionate."
+      }
+    ],
+    "realDisagreement": "The fork is between treating this as a procedural compliance story, the government faithfully implementing a court order, and treating it as a distributional story, the government returning $127 billion to corporations while consumers who paid higher prices for two years see nothing. Both are accurate. The procedural reading treats the SCOTUS ruling as a sufficient remedy. The distributional reading asks who actually bore the cost and whether the remedy reaches them. The distributional reading is more honest: the entities receiving refunds are not the entities who suffered the most from the tariffs.",
+    "whatNoOneIsSaying": "The largest beneficiaries of the CAPE portal are likely the same large retailers and importers who lobbied against the tariffs for two years. They will book the refunds as income. Their prices will not drop. They have already adjusted their pricing models to the tariff environment. The constitutional victory is real; the consumer benefit is effectively zero.",
+    "whoPays": [
+      {
+        "who": "Small importers who could not outlast the tariff period",
+        "how": "Businesses that went insolvent, shut down, or permanently shifted supply chains under 145% tariff pressure have no refund claim and no entity left to receive it. The survival-of-the-fittest tariff period has already resolved their situation with no remedy.",
+        "when": "The cost was paid between 2025 and early 2026; no retroactive relief."
+      },
+      {
+        "who": "Retail consumers who paid higher prices",
+        "how": "Tariff pass-through to consumer prices was estimated at 60-80% by most economists. Consumers have no standing to claim refunds under the CAPE portal structure, which refunds the importer of record, not downstream buyers.",
+        "when": "The cost was distributed continuously over the tariff period; no mechanism to recover it."
+      },
+      {
+        "who": "CBP and customs administration",
+        "how": "Processing claims for the largest refund operation in US history will strain staffing and technology at an agency that was not resourced for this scale of reverse operation.",
+        "when": "Immediate and sustained through all refund phases."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Large-Importer Windfall, No Consumer Relief",
+        "whatHappens": "The portal processes claims efficiently for large importers with legal counsel. $80-100 billion is disbursed within six months. Retail prices do not move. The story disappears from public view.",
+        "signal": "Major retailers begin reporting tariff refund gains as one-time income items in Q2 and Q3 2026 earnings releases."
+      },
+      {
+        "name": "Processing Backlog, Litigation Wave",
+        "whatHappens": "The portal cannot handle the claim volume. Disputes about which goods qualify for which phase generate a litigation wave in the Court of International Trade. The refund process stretches into 2027 or 2028.",
+        "signal": "CBP announces a pause or phased delay in processing within 30 days of launch."
+      },
+      {
+        "name": "Congressional Consumer Remedy",
+        "whatHappens": "Democrats introduce legislation requiring importers who receive refunds to pass a portion to documented downstream buyers. It does not pass but creates political pressure that pushes some retailers to announce voluntary consumer credits.",
+        "signal": "A Senate hearing specifically on consumer pass-through of tariff refunds, which currently has no legislative vehicle or political champion."
+      }
+    ],
+    "whatWouldChange": "If CBP releases data showing that a significant portion of refund claims are from small businesses rather than large corporations, the distributional critique weakens. That data will not be available for months.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Court Force Trump to Refund Tariffs?",
+        "url": "https://polymarket.com/event/will-the-court-force-trump-to-refund-tariffs-2026-06-30",
+        "probability": 0.625
+      }
+    ]
+  }
+}

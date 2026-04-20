@@ -1,0 +1,112 @@
+{
+  "id": "hormuz-oil-standstill",
+  "date": "2026-04-20",
+  "generatedAt": "2026-04-20T13:00:00Z",
+  "title": "Hormuz Is Open. The Oil Isn't Flowing.",
+  "subtitle": "Commercial traffic through the Strait stopped cold on Monday after the US seized an Iranian cargo ship. The IEA says full energy recovery will take two years.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["Iran", "oil", "Hormuz", "energy", "shipping", "IEA"],
+  "coverImage": {
+    "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqGFwQsOnEro/v1/1200x800.jpg",
+    "local": "/images/reports/2026-04-20/hormuz-oil-standstill.jpg",
+    "credit": "Bloomberg"
+  },
+  "sources": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/hormuz-traffic-at-standstill-as-us-vessel-seizure-widens-risk",
+      "publisher": "Bloomberg",
+      "angle": "Commercial traffic at a virtual standstill after US vessel seizure; shipper risk aversion far exceeds any formal blockade."
+    },
+    {
+      "url": "https://www.reuters.com/markets/commodities/opening-hormuz-is-easy-part-restoring-oil-flows-isnt-2026-04-20/",
+      "publisher": "Reuters",
+      "angle": "Even after Hormuz reopens, physical oil infrastructure and insurance markets will keep flows suppressed for months."
+    },
+    {
+      "url": "https://www.oilandgasmiddleeast.com/news/hormuz-recovery-timeline",
+      "publisher": "Oil and Gas Middle East",
+      "angle": "IEA director Birol warns full energy output recovery will take approximately two years, varying by country."
+    },
+    {
+      "url": "https://moderndiplomacy.eu/2026/04/20/hormuz-may-reopen-quickly-but-oil-flows-face-a-long-uneven-recovery/",
+      "publisher": "Modern Diplomacy",
+      "angle": "Structural damage to oil infrastructure, insurance voids, and rerouting inertia mean the strait reopening is a political signal, not an operational fix."
+    },
+    {
+      "url": "https://www.straitstimes.com/world/middle-east/hormuz-traffic-at-standstill-as-us-vessel-seizure-widens-risk",
+      "publisher": "Straits Times",
+      "angle": "Brief reopening on Saturday reversed by Monday; Kpler data showed more than 20 vessels passed on Saturday before traffic stopped again."
+    }
+  ],
+  "brief": {
+    "actors": ["Iran", "US", "IEA", "Saudi Arabia", "OPEC", "China"],
+    "whatHappened": "Commercial shipping through the Strait of Hormuz came to a virtual standstill on April 20 after the US Navy seized an Iranian-flagged cargo ship attempting to breach the blockade the previous day. A brief and confused reopening on Saturday, when more than 20 vessels transited, reversed within hours after the seizure triggered a new round of Iranian threats. The International Energy Agency warned that even once the Strait formally reopens, full recovery of energy output from the broader Middle East conflict will take approximately two years, with Iraq facing the longest timeline.",
+    "bottomLine": "The Strait reopening is a diplomatic event, not an energy one. Tanker operators, insurers, and buyers have already repriced the route as structurally risky, and no ceasefire announcement unwinds that repricing overnight.",
+    "hiddenBets": [
+      {
+        "assumption": "Reopening the Strait restores oil flows quickly.",
+        "whyItMightBeWrong": "Physical infrastructure damage, voided insurance policies, and cargo rerouting inertia mean that even after a political agreement, tanker operators and their insurers will impose weeks-to-months of risk surcharges before normalizing traffic. The market priced this wrong in the brief Saturday opening."
+      },
+      {
+        "assumption": "The two-year IEA recovery estimate refers only to production capacity.",
+        "whyItMightBeWrong": "The IEA timeline covers energy output, but the shadow supply chain disruptions, including redirected LNG contracts, new long-term supplier relationships, and strategic reserve drawdowns, will shape energy markets far longer than the physical infrastructure repair does."
+      },
+      {
+        "assumption": "The US has clear leverage over when the Strait reopens.",
+        "whyItMightBeWrong": "Iran does not need to physically block the Strait to choke traffic. The act of seizing a cargo ship was enough to halt commercial transits voluntarily. Iran's deterrent now operates through shipper risk aversion, which the US cannot simply switch off with a military maneuver."
+      }
+    ],
+    "realDisagreement": "The core split is between treating Hormuz as a military problem, which the US can solve with naval presence, and treating it as an insurance and commercial risk problem, which no navy resolves. The US is operating under the first model. Tanker operators and insurers are already priced into the second. Both can't be right simultaneously. Lean toward the second: war risk insurance markets move faster than political negotiations, and once rates spike, they do not fall until there is a sustained track record of safe transits, not just an announced truce.",
+    "whatNoOneIsSaying": "The country most quietly benefiting from Hormuz's disruption is the United States itself. American LNG exporters have gained long-term contracts that would have been impossible to close against cheaper Qatari and Iranian alternatives. The US simultaneously runs a naval blockade and collects the energy market premium it creates.",
+    "whoPays": [
+      {
+        "who": "Asian manufacturing importers, especially South Korean and Japanese petrochemical producers",
+        "how": "Naphtha and LPG from the Gulf have been replaced by more expensive US ethane and rerouted Qatari LNG; input costs hit operating margins directly and are not easily passed to customers in slow consumer environments.",
+        "when": "Ongoing; April US ethane imports to China already 60% above monthly average."
+      },
+      {
+        "who": "Iraqi oil-dependent state budget",
+        "how": "Iraq exports roughly 3.3 million barrels per day through a combination of southern Gulf terminals and pipeline routes; infrastructure damage and insurance surcharges reduce effective export revenue even when some flows move.",
+        "when": "IEA says Iraq faces the longest recovery timeline among affected producers, potentially 2-plus years."
+      },
+      {
+        "who": "Non-Gulf developing economies with dollar-denominated energy import bills",
+        "how": "Elevated oil prices combined with a strengthening dollar squeeze import budgets, reduce fiscal space, and force central banks in markets like Pakistan, Egypt, and Sri Lanka toward austerity.",
+        "when": "Immediate; oil above $100 has been sustained since the war began."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Diplomatic Reopening, Slow Recovery",
+        "whatHappens": "A ceasefire agreement formally reopens the Strait within weeks, but insurance rates remain elevated and traffic normalizes over six to nine months. Oil prices drop from peak but stay above $85 as structural disruption persists.",
+        "signal": "Watch war risk insurance premium spreads for Gulf voyages, not political announcements. They will narrow before traffic recovers, but only after multiple clean transits without incident."
+      },
+      {
+        "name": "Protracted Standoff",
+        "whatHappens": "Negotiations collapse again, the US seizure provokes Iranian retaliation against a non-Iranian vessel, and the insurance market exits the Gulf entirely for a period. Brent trades toward $130-150 range.",
+        "signal": "A non-Iranian flagged vessel attacked or detained in the Strait or surrounding waters signals this path."
+      },
+      {
+        "name": "Rerouting Becomes Permanent",
+        "whatHappens": "Even after a formal reopening, buyers in Asia have locked in alternative supply chains and the Gulf's role as the marginal swing supplier permanently shrinks. The damage to OPEC cohesion outlasts the war.",
+        "signal": "New long-term LNG and crude supply contracts signed between Asian buyers and non-Gulf producers in the second half of 2026."
+      }
+    ],
+    "whatWouldChange": "If a major non-Iranian tanker transits Hormuz with full insurance coverage and no incident within 48 hours of a formal ceasefire, and insurance premium spreads drop by more than 50% within a week, the 'slow recovery' thesis weakens. That combination would suggest the market priced in more durable structural disruption than actually exists.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Trump agree to Iranian Oil sanction relief in April?",
+        "url": "https://polymarket.com/event/what-will-the-us-agree-to",
+        "probability": 0.46
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will WTI Crude Oil hit $115 week of April 20, 2026?",
+        "url": "https://polymarket.com/event/will-wti-hit-week-of-april-20-2026",
+        "probability": 0.125
+      }
+    ]
+  }
+}

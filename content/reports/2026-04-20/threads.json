@@ -57,6 +57,49 @@
           "relationship": "Both cases involve restricting public access to a capability while channeling it through government custody, with the same surveillance infrastructure risk in each: government becomes the only entity that holds the power"
         }
       ]
+    },
+    {
+      "id": "iran-war-economic-ripple",
+      "title": "One War, Four Economic Shockwaves",
+      "description": "The Iran conflict is the direct upstream cause of at least three other stories today: Hormuz standstill is the mechanism by which the ceasefire's instability converts into an energy market crisis; the US-China tariff deal collapsed and was rebuilt partly because China needed relief from 145% tariffs to absorb the Iran-related supply chain disruptions; and the Gulf states are reconsidering their security arrangements because the economic fallout of the war landed on them, not on the party that initiated it. The war is not a geopolitics story that has economic side effects. It is the organizing event that makes the economic stories this week make sense.",
+      "type": "cause-effect",
+      "stories": ["hormuz-oil-standstill", "us-china-tariff-deal", "gulf-china-pivot", "iran-ceasefire-expiry"],
+      "connections": [
+        {
+          "from": "iran-ceasefire-expiry",
+          "to": "hormuz-oil-standstill",
+          "relationship": "The ceasefire's failure to hold converts directly into Hormuz traffic stoppage, as commercial shippers price in war risk that political announcements cannot remove"
+        },
+        {
+          "from": "hormuz-oil-standstill",
+          "to": "us-china-tariff-deal",
+          "relationship": "Gulf energy disruption raised input costs for Chinese manufacturing, deepening the economic pressure that made China willing to accept a 90-day tariff truce on US terms"
+        },
+        {
+          "from": "iran-ceasefire-expiry",
+          "to": "gulf-china-pivot",
+          "relationship": "The US military operation in Iran made the costs of the US security guarantee visible to Gulf states in a new way, accelerating diversification toward China that was already underway"
+        }
+      ]
+    },
+    {
+      "id": "refund-who-wins",
+      "title": "The Refund Paradox",
+      "description": "Two major tariff stories today share an invisible structural problem: the people who nominally win are not the people who actually paid. The CAPE refund portal returns $127 billion to importers, not to consumers who absorbed the price increases. The US-China 90-day deal lowers tariffs back toward importers who restructured supply chains, not toward the workers in third countries who built new factories based on the prior tariff environment. In both cases, the formal remedy and the actual economic harm do not overlap, and the gap is almost entirely invisible in mainstream coverage.",
+      "type": "tension-cluster",
+      "stories": ["tariff-refund-portal", "us-china-tariff-deal", "trump-tariff-rebound"],
+      "connections": [
+        {
+          "from": "tariff-refund-portal",
+          "to": "trump-tariff-rebound",
+          "relationship": "The refund portal returns money for the IEEPA tariffs SCOTUS struck down, but Trump's replacement 15% tariffs are still in force, meaning importers get a partial refund while ongoing tariff costs continue"
+        },
+        {
+          "from": "us-china-tariff-deal",
+          "to": "tariff-refund-portal",
+          "relationship": "Both stories are characterized by large headline numbers that flow to corporations rather than to the workers and consumers who absorbed the actual cost of the tariff war"
+        }
+      ]
     }
   ]
 }

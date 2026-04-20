@@ -1,0 +1,93 @@
+{
+  "id": "rfk-hhs-vaccine-split",
+  "date": "2026-04-20",
+  "generatedAt": "2026-04-20T13:00:00Z",
+  "title": "Kennedy Is Running HHS. Trump Nominated a Vaccine Supporter to Run the CDC.",
+  "subtitle": "RFK Jr. got grilled in Congress over killing a CDC vaccine awareness campaign. The same week, Trump nominated a former deputy surgeon general who supports vaccines to lead the CDC.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["Kennedy", "HHS", "CDC", "vaccines", "Trump", "MAHA", "Medicaid"],
+  "coverImage": {
+    "url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/04/2026-04-17T131921Z_1676239484_RC21RKA0Y8ZQ_RTRMADP_3_USA-CONGRESS-KENNEDY-1024x681.jpg",
+    "local": "/images/reports/2026-04-20/rfk-hhs-vaccine-split.jpg",
+    "credit": "PBS NewsHour / Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://thedispatch.com/article/kennedy-congress-health-maha-vaccines/",
+      "publisher": "The Dispatch",
+      "angle": "The White House is visibly constraining Kennedy's MAHA agenda, preventing him from acting on vaccine skepticism even as he testifies about it. Kennedy pivoted away from his core anti-vaccine agenda under White House pressure."
+    },
+    {
+      "url": "https://www.kpbs.org/news/health/2026/04/16/rfk-jr-defends-his-health-agenda-and-trumps-proposed-budget-cuts-in-hearing",
+      "publisher": "KPBS / NPR",
+      "angle": "Kennedy defended a $16 billion HHS budget cut while fielding questions about ending the CDC public vaccine awareness campaign; Democrats pressed him on the measles outbreak response."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/04/16/trump-nominates-erica-schwartz-as-cdc-director.html",
+      "publisher": "CNBC",
+      "angle": "Trump nominated Rear Admiral Erica Schwartz, a former deputy surgeon general who supports vaccine programs, as CDC director, in direct institutional tension with Kennedy's stated views."
+    },
+    {
+      "url": "https://www.aol.com/articles/rfk-jr-faces-heat-lawmakers-212421986.html",
+      "publisher": "AOL / AP",
+      "angle": "Sharp congressional questioning from both parties over Kennedy's decision to end CDC vaccine awareness campaigns and his response to the measles outbreak."
+    }
+  ],
+  "brief": {
+    "actors": ["Kennedy", "Trump", "CDC", "HHS", "Congress"],
+    "whatHappened": "Health and Human Services Secretary Robert F. Kennedy Jr. appeared before the House Committee on Ways and Means on April 16 for his first congressional testimony since September 2025, defending $16 billion in proposed HHS budget cuts and controversial changes to CDC vaccine guidance. Kennedy faced sharp questions from Democrats over his decision to end a CDC public awareness campaign promoting vaccines and over the department's response to an ongoing measles outbreak. The same week, Trump nominated Rear Admiral Erica Schwartz, a former deputy surgeon general who has publicly expressed support for vaccine programs, to lead the CDC, creating a direct institutional split between the HHS secretary's views and the nominee his boss selected to lead a subordinate agency.",
+    "bottomLine": "Kennedy was hired to disrupt public health orthodoxy and is being systematically prevented from doing so. The Schwartz nomination is the clearest evidence that Trump used Kennedy for political branding while building a firewall around the actual public health infrastructure.",
+    "hiddenBets": [
+      {
+        "assumption": "Kennedy has genuine authority over CDC policy as HHS secretary.",
+        "whyItMightBeWrong": "The Schwartz nomination signals that the White House will install a pro-vaccine administrator at the CDC who will resist Kennedy's policy direction. Kennedy controls HHS budget and organizational structure, but a confirmed CDC director with Senate backing and institutional support can operate with significant independence on scientific and programmatic guidance."
+      },
+      {
+        "assumption": "The MAHA agenda represents a coherent policy program with White House support.",
+        "whyItMightBeWrong": "The Dispatch reporting makes clear that the White House has repeatedly stopped Kennedy from acting on his signature issue: removing vaccines from the childhood immunization schedule. What remains of the MAHA agenda is the budget cuts and organizational disruption, not the substantive anti-vaccine policy. Kennedy may have disrupted public health infrastructure without implementing the alternative he promised."
+      },
+      {
+        "assumption": "Kennedy's congressional testimony damages his standing with Trump.",
+        "whyItMightBeWrong": "Kennedy's political function is to signal to MAHA voters that the administration is disrupting public health orthodoxy. Whether he is effective at HHS is secondary to whether his presence signals the right things to a specific voter constituency. Trump may keep him precisely because he is ineffective but symbolically useful."
+      }
+    ],
+    "realDisagreement": "The actual fork is whether Kennedy's most consequential impact is on the institutions, years of CDC credibility eroded, Medicaid cuts enacted, vaccine program confusion created, or on politics, a signal to MAHA voters that was always more about optics than outcomes. If the institutional damage is the primary impact, then the Schwartz nomination is a partial fix. If the political signal was always the point, then the Schwartz nomination is complementary: Trump gets to say his CDC director supports vaccines while Kennedy's disruption of the agency continues. The political reading is more consistent with Trump's track record.",
+    "whatNoOneIsSaying": "The measles outbreak is the story being avoided. Kennedy's HHS is managing an active public health emergency that was directly predictable from declining vaccine coverage rates that his own rhetoric contributed to accelerating. Both parties are treating the congressional hearings as performance rather than accountability. Nobody is asking: if a child dies from measles in a county where the outbreak spread because of HHS's decision to end vaccine awareness campaigns, what is the legal and political accountability chain?",
+    "whoPays": [
+      {
+        "who": "Unvaccinated children and their families in measles outbreak zones",
+        "how": "Declining CDC public awareness of vaccination combined with Kennedy's rhetorical platform reducing vaccine confidence has measurable effects on immunization rates in specific geographic communities. The measles outbreak is the near-term clinical consequence.",
+        "when": "Ongoing; outbreak is active."
+      },
+      {
+        "who": "Medicaid recipients facing $16 billion in HHS budget cuts",
+        "how": "Kennedy's proposed budget cuts, which he defended in the hearing, will reduce Medicaid reimbursement rates and cut administrative funding for state Medicaid programs, reducing access to care for low-income beneficiaries.",
+        "when": "Contingent on congressional approval; timeline is 2026-2027 budget cycle."
+      },
+      {
+        "who": "CDC career staff and public health researchers",
+        "how": "Organizational disruption, leadership turmoil, and budget uncertainty are already producing departures from the CDC. Institutional knowledge that takes years to build is leaving faster than it can be replaced.",
+        "when": "Immediate and cumulative; the drain began at the start of the administration."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Schwartz Installed, Kennedy Sidelined",
+        "whatHappens": "Schwartz is confirmed by the Senate. She runs CDC with relative independence. Kennedy continues as HHS secretary but his policy reach over CDC narrows. The MAHA agenda produces disruption without the anti-vaccine content Kennedy's supporters wanted.",
+        "signal": "Watch for Kennedy allies in conservative media attacking the Schwartz nomination as a betrayal of the MAHA movement."
+      },
+      {
+        "name": "Kennedy Resigns or Is Forced Out",
+        "whatHappens": "The contradiction between Kennedy's stated agenda and his actual constraints becomes publicly untenable. Kennedy leaves the administration citing White House interference. MAHA voter backlash is contained because Trump controls the framing.",
+        "signal": "A Kennedy interview where he expresses frustration with White House constraints, or a resignation that he attributes to policy disagreements."
+      },
+      {
+        "name": "Measles Outbreak Escalates",
+        "whatHappens": "The measles outbreak crosses a casualty threshold that makes it politically impossible to ignore. Kennedy's decisions are directly scrutinized in congressional hearings. The political cost of keeping him becomes higher than the political benefit.",
+        "signal": "A measles death in a county with documented declining vaccination rates following a Kennedy public appearance in that region."
+      }
+    ],
+    "whatWouldChange": "If Kennedy uses his HHS authority to formally override CDC vaccine scheduling guidance, that would show he has more real power than the Schwartz nomination suggests. If that happens and Trump doesn't reverse it, the 'political branding with institutional firewall' reading is wrong."
+  }
+}

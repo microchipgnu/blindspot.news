@@ -37,6 +37,36 @@
       "title": "The Social Media Ban That Already Failed",
       "subtitle": "Australia's under-16 ban went global this week as governments launched an EU age-verification app, a world leaders summit, and Australian legal threats. The app was hacked in two minutes.",
       "category": "power"
+    },
+    {
+      "id": "hormuz-oil-standstill",
+      "title": "Hormuz Is Open. The Oil Isn't Flowing.",
+      "subtitle": "Commercial traffic through the Strait stopped cold on Monday after the US seized an Iranian cargo ship. The IEA says full energy recovery will take two years.",
+      "category": "conflict"
+    },
+    {
+      "id": "us-china-tariff-deal",
+      "title": "The 90-Day Truce That Changes Nothing",
+      "subtitle": "The US and China rolled back their tariff war from 145% and 125% to 30% and 10% respectively. The deal expires in 90 days. Neither side agreed to anything structural.",
+      "category": "power"
+    },
+    {
+      "id": "tariff-refund-portal",
+      "title": "The Largest Trade Refund in US History Goes to the Wrong People",
+      "subtitle": "The CAPE portal opened Monday for businesses to claim $127-166 billion in tariff refunds. Consumers who actually paid the higher prices get nothing.",
+      "category": "power"
+    },
+    {
+      "id": "rfk-hhs-vaccine-split",
+      "title": "Kennedy Is Running HHS. Trump Nominated a Vaccine Supporter to Run the CDC.",
+      "subtitle": "RFK Jr. got grilled in Congress over killing a CDC vaccine awareness campaign. The same week, Trump nominated a former deputy surgeon general who supports vaccines to lead the CDC.",
+      "category": "power"
+    },
+    {
+      "id": "gulf-china-pivot",
+      "title": "The Gulf States Just Watched the US Go to War Next Door. Now They're Reconsidering.",
+      "subtitle": "The Iran war exposed a fault line the Gulf states had managed for decades: the US security guarantee requires hosting a war you didn't choose. Saudi Arabia and the UAE are quietly hedging.",
+      "category": "power"
     }
   ]
 }
