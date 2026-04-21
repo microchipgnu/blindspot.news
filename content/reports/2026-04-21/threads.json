@@ -67,5 +67,39 @@
         }
       ]
     }
+    ,
+    {
+      "id": "replacing-unreliable-patrons",
+      "title": "When Your Guarantor Becomes a Risk, You Take Whatever Comes Next",
+      "description": "Three of today's stories share an invisible structure: a weaker party has discovered that the dominant actor it depended on for security or infrastructure is unreliable, and is now locking itself into a new dependency relationship. Poland accepted French nuclear leverage because American reliability collapsed. Anthropic accepted decade-long AWS infrastructure dependency because compute scarcity threatened its existence. Hungary under Magyar is conditioning EU loan support on a pipeline dispute because Russian energy dependency is still real even after Orban lost. In each case, the new relationship trades one set of risks for another without resolving the underlying vulnerability.",
+      "type": "tension-cluster",
+      "stories": ["france-poland-nuclear", "amazon-anthropic-compute", "eu-hungary-sanctions"],
+      "connections": [
+        {
+          "from": "france-poland-nuclear",
+          "to": "amazon-anthropic-compute",
+          "relationship": "Poland replaced US nuclear dependency with French nuclear dependency after Trump made US reliability uncertain; Anthropic replaced infrastructure independence with AWS dependency after compute scarcity made independence untenable. Both actors accepted concentrated control from a new patron to avoid a worse outcome."
+        },
+        {
+          "from": "eu-hungary-sanctions",
+          "to": "france-poland-nuclear",
+          "relationship": "Hungary's new government is discovering that removing Orban's explicit Russia dependency does not remove Hungary's structural energy dependency on Druzhba, just as Poland's new French nuclear arrangement does not remove Poland's dependence on a single nuclear power making decisions in Paris. Changing the patron does not eliminate the dependency; it just changes who holds the leverage."
+        }
+      ]
+    },
+    {
+      "id": "elected-out-but-not-reversed",
+      "title": "Courts and Voters Can Remove a Policy. Getting the Money Back Is a Different Problem.",
+      "description": "The SCOTUS tariff refund story and the EU Hungary sanctions story share an underexamined parallel: in both cases, a political actor used a position of power to extract value over an extended period, and is now being forced to reverse course. But the reversal is incomplete. The $166 billion in tariff refunds go to corporations, not the consumers who actually paid. Hungary's loan veto may be removed, but the EUR 90 billion loan is still conditioned on an energy dispute Hungary cannot resolve. Winning the political battle does not automatically recover what was lost during the period of obstruction.",
+      "type": "cause-effect",
+      "stories": ["scotus-tariff-refund", "eu-hungary-sanctions"],
+      "connections": [
+        {
+          "from": "scotus-tariff-refund",
+          "to": "eu-hungary-sanctions",
+          "relationship": "The SCOTUS ruling forced a reversal of the tariff policy but the remedy flows only to direct corporate payors, leaving consumer harm unaddressed; the removal of Hungary's EU veto similarly reverses the political obstruction but leaves the EUR 90 billion loan conditioned on a separate energy dispute that the new government cannot resolve any faster than the old one could."
+        }
+      ]
+    }
   ]
 }

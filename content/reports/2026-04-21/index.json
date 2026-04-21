@@ -1,6 +1,6 @@
 {
   "date": "2026-04-21",
-  "generatedAt": "2026-04-21T13:00:00Z",
+  "generatedAt": "2026-04-21T18:10:00Z",
   "reports": [
     {
       "id": "iran-ceasefire-deadline",
@@ -61,6 +61,36 @@
       "title": "Trump's EPA Cuts Are Making the Air Dirtier. The People Breathing It Cannot Afford to Move.",
       "subtitle": "DOGE-driven EPA staff cuts have gutted enforcement capacity in the same states where air quality was already failing federal standards. The regulatory apparatus still exists on paper. It has stopped functioning.",
       "category": "ethics"
+    },
+    {
+      "id": "scotus-tariff-refund",
+      "title": "The Government Is Mailing $166 Billion Back to Importers. Consumers Who Paid the Tariffs Get Nothing.",
+      "subtitle": "The refund portal is live. Only the companies that wrote the checks to Customs can claim. The people who actually absorbed the cost in higher prices are legally invisible.",
+      "category": "power"
+    },
+    {
+      "id": "france-poland-nuclear",
+      "title": "Macron Is Offering Poland a Nuclear Umbrella. France Still Controls the Button.",
+      "subtitle": "The Franco-Polish summit in Gdansk produced the clearest articulation yet of a European nuclear deterrence framework that does not depend on Washington. The Kremlin immediately called it militarization.",
+      "category": "power"
+    },
+    {
+      "id": "amazon-anthropic-compute",
+      "title": "Anthropic Is Paying Amazon $100 Billion to Not Run Out of Computers",
+      "subtitle": "The $5 billion headline understates what actually happened: Anthropic has pledged its entire infrastructure future to AWS for a decade in exchange for being allowed to keep growing.",
+      "category": "power"
+    },
+    {
+      "id": "uk-school-phone-ban",
+      "title": "England Is Making the Phone Ban in Schools a Legal Requirement. Most Schools Already Have One.",
+      "subtitle": "The UK government is turning existing guidance into law through the Children's Wellbeing Bill. The real story is not what changes in classrooms. It is what this signals about who controls the terms of the debate over children and screens.",
+      "category": "decision"
+    },
+    {
+      "id": "eu-hungary-sanctions",
+      "title": "Hungary's New Government Drops the Veto. Now the EU Finds Out Whether Orbán Was the Problem or the Excuse.",
+      "subtitle": "Peter Magyar's election win on April 12 unblocked two EU sanctions packages and a EUR 90 billion Ukraine loan. But Magyar is already conditioning the loan on a pipeline restart, and Slovakia has not moved.",
+      "category": "power"
     }
   ]
 }

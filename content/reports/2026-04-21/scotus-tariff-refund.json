@@ -1,0 +1,106 @@
+{
+  "id": "scotus-tariff-refund",
+  "date": "2026-04-21",
+  "generatedAt": "2026-04-21T17:45:00Z",
+  "title": "The Government Is Mailing $166 Billion Back to Importers. Consumers Who Paid the Tariffs Get Nothing.",
+  "subtitle": "The refund portal is live. Only the companies that wrote the checks to Customs can claim. The people who actually absorbed the cost in higher prices are legally invisible.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["tariffs", "SCOTUS", "IEEPA", "trade", "Trump", "refunds", "customs"],
+  "coverImage": {
+    "url": "https://cdn.govexec.com/media/img/cd/2026/04/20/042026tariffs/open-graph.jpg",
+    "local": "/images/reports/2026-04-21/scotus-tariff-refund.jpg",
+    "credit": "Government Executive"
+  },
+  "sources": [
+    {
+      "url": "https://www.govexec.com/management/2026/04/businesses-line-166b-refunds-trumps-tariffs-cbp-system-goes-live/412988/",
+      "publisher": "Government Executive",
+      "angle": "Procedural account of the refund portal launch; focuses on the CBP timeline and documentation requirements"
+    },
+    {
+      "url": "https://finance.yahoo.com/economy/policy/articles/166-billion-tariff-refund-shock-111421201.html",
+      "publisher": "Yahoo Finance / Wealth of Geeks",
+      "angle": "Business-friendly framing; notes large corporations like FedEx, Costco, Toyota were first in line and had anticipated this"
+    },
+    {
+      "url": "https://fortune.com/2026/04/21/why-didnt-trump-administration-appeal-universal-tariff-refund-court-order-cape-rollout/",
+      "publisher": "Fortune",
+      "angle": "Legal analysis; flags that the administration has not yet appealed, but retains the option to use procedural moves to make refund applications moot"
+    },
+    {
+      "url": "https://www.opb.org/article/2026/04/20/businesses-refunds-monday-trump-tariffs/",
+      "publisher": "OPB / NPR",
+      "angle": "Consumer-side angle; notes individual consumers who paid higher prices are not eligible for direct refunds"
+    },
+    {
+      "url": "https://www.theglobeandmail.com/investing/markets/funds/ATL3683.CF/pressreleases/354818/us-supreme-court-brings-the-hammer-down-on-trump-tariffs/",
+      "publisher": "Globe and Mail / ATL Capital",
+      "angle": "Investment implications; argues the ruling creates room for Fed easing and benefits import-intensive firms most"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "SCOTUS", "CBP", "Congress", "importers"],
+    "whatHappened": "U.S. Customs and Border Protection launched a refund portal on April 21 allowing businesses to claim back tariffs paid under the IEEPA-based trade measures the Supreme Court struck down 6-3 in February. The ruling found that Trump exceeded his statutory authority by using the International Emergency Economic Powers Act to impose broad-based tariffs without congressional approval. CBP expects to process refunds within 30 to 60 days. Only the importers who directly paid duties to CBP are eligible; individual consumers who absorbed the cost through higher retail prices are not.",
+    "bottomLine": "The $166 billion refund goes to corporations that can document their Customs filings. The households that paid it in the form of higher prices for electronics, appliances, and clothes get zero. That is not an accident.",
+    "hiddenBets": [
+      {
+        "assumption": "The refund process will run smoothly and businesses will get their money in 30-60 days",
+        "whyItMightBeWrong": "Fortune's legal reporting flags that the administration has not appealed the Court of International Trade order, but retains the option to deploy procedural moves that would render refund applications a waste of time. The administration has every political incentive to do exactly that, and the legal window to act has not closed."
+      },
+      {
+        "assumption": "The SCOTUS ruling permanently constrains executive tariff power",
+        "whyItMightBeWrong": "The ruling was on IEEPA's scope, not on tariffs themselves. Congress could pass legislation retroactively authorizing the tariffs, converting the illegal exactions into valid ones. Several Republican members have already floated this. If that passes, refund applications filed under the current portal could be extinguished."
+      },
+      {
+        "assumption": "Corporations will pass refunds back to consumers who paid higher prices",
+        "whyItMightBeWrong": "There is no legal mechanism requiring it. A retailer that charged consumers a tariff surcharge and is now refunded by CBP keeps the spread. The consumer has no claim on the corporate windfall."
+      }
+    ],
+    "realDisagreement": "The genuine fork is whether the refund is a victory for the rule of law or a gift to large importers at the expense of everyone else. Those who sued the tariffs argued constitutional principle: the executive cannot tax unilaterally. They were right, and won. But the practical outcome is that FedEx, Costco, and Toyota recover their costs while the waitress who paid more for her phone case in 2025 is simply out the money. You cannot fully celebrate the constitutional principle without acknowledging that the economic remedy is radically incomplete. The side worth leaning toward is the procedural win. IEEPA tariffs without congressional approval were a genuine abuse. But the celebration should be muted until someone explains why the remedy flows only to the direct payors and not to the people those payors were billing.",
+    "whatNoOneIsSaying": "The Trump administration opening a refund portal without appealing is structurally bizarre. They lost a major constitutional case and the instinct of every administration in the history of American law is to appeal, delay, and preserve executive power. The fact that they did not suggests either that they expect Congress to legislate their way out of the problem, or that they want the refund process to appear cooperative while engineering its collapse from within.",
+    "whoPays": [
+      {
+        "who": "Consumers who paid tariff surcharges at retail",
+        "how": "No legal mechanism to claim refunds; the importer who received the refund keeps the spread between what they recovered from CBP and what they charged downstream",
+        "when": "Already paid; no recovery path"
+      },
+      {
+        "who": "Small importers without trade attorneys",
+        "how": "The refund portal requires specific customs entry documentation; businesses that relied on brokers or consolidated entries may lack the paperwork to file valid claims; large corporations with dedicated trade compliance teams have already filed",
+        "when": "Documentation challenge plays out over the 30-60 day filing window"
+      },
+      {
+        "who": "US federal budget",
+        "how": "The Treasury collected $166 billion it now has to return; the deficit absorbs the hole; this lands at a moment when the administration is trying to use tariff revenue projections to fund the reconciliation bill",
+        "when": "Refunds begin within 60 days; fiscal impact spreads across Q2 and Q3 2026"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Clean Refund",
+        "whatHappens": "Administration processes the portal claims without obstruction, refunds go out within 60 days, and the IEEPA ruling becomes a settled limit on executive tariff authority going forward.",
+        "signal": "Administration files no challenge to the Court of International Trade order by May 15; refund batches confirmed by CBP on schedule"
+      },
+      {
+        "name": "Congressional End-Run",
+        "whatHappens": "Republican leadership inserts retroactive tariff authorization into the reconciliation bill, arguing it converts the IEEPA tariffs into congressionally approved ones, extinguishing pending refund claims.",
+        "signal": "Senate Finance or Ways and Means produces draft legislative text on tariff authorization within the next three weeks"
+      },
+      {
+        "name": "Procedural Freeze",
+        "whatHappens": "Administration uses procedural moves at the Court of International Trade to stay the refund order pending further review, creating months of uncertainty; companies that filed are left in limbo.",
+        "signal": "DOJ files a motion to stay or administratively close the CIT proceedings without a full appeal by end of April"
+      }
+    ],
+    "whatWouldChange": "If the administration appeals to the Federal Circuit Court of Appeals and obtains a stay of the refund order, the bottom line becomes wrong: refunds would not be mailed, and the constitutional question would be relitigated at a higher level. The absence of an appeal by May 1 would substantially confirm the clean refund path.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Court Force Trump to Refund Tariffs?",
+        "url": "https://polymarket.com/event/will-the-court-force-trump-to-refund-tariffs-2026-06-30",
+        "probability": 0.62
+      }
+    ]
+  }
+}
