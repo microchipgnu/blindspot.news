@@ -1,0 +1,94 @@
+{
+  "id": "scotus-catholic-preschool",
+  "date": "2026-04-21",
+  "generatedAt": "2026-04-21T08:15:00Z",
+  "title": "SCOTUS Takes Up a Case That Could Let Religious Schools Exclude LGBTQ Families and Still Take Public Money",
+  "subtitle": "The Catholic preschool case is not about preschools. It is about whether publicly funded institutions can use religious identity to opt out of nondiscrimination requirements.",
+  "topic": "politics",
+  "category": "ethics",
+  "tags": ["SCOTUS", "religious freedom", "LGBTQ", "Colorado", "education", "First Amendment", "public funding"],
+  "coverImage": {
+    "url": "https://kion546.b-cdn.net/2026/04/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbW8yeXZxdW0wMDA1M2I2cTN2cHhlMmd1-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtbzJ5djIzcDAwMHkyY3FpZzk4emd2bmE-860x573.jpg",
+    "local": "/images/reports/2026-04-21/scotus-catholic-preschool.jpg",
+    "credit": "AP Photo via KION Central Coast"
+  },
+  "sources": [
+    {
+      "url": "https://www.reuters.com/legal/government/us-supreme-court-scrutinize-colorado-preschool-programs-protections-lgbt-parents-2026-04-20/",
+      "publisher": "Reuters",
+      "angle": "Factual: SCOTUS agrees to hear Archdiocese of Denver bid for exemption from Colorado nondiscrimination requirement in publicly funded preschool program"
+    },
+    {
+      "url": "https://www.aol.com/articles/supreme-court-hear-catholic-preschools-141948326.html",
+      "publisher": "AP via AOL",
+      "angle": "The case provides a pathway for conservative justices to narrow the 1990 Employment Division v. Smith precedent, which currently limits religious exemptions"
+    },
+    {
+      "url": "https://www.upi.com/Top_News/US/2026/04/20/supreme-court-catholic-case-rejecting-gay-parents-children/2751776717083/",
+      "publisher": "UPI",
+      "angle": "Archdiocese argues Colorado's exclusion from the voter-approved universal preschool program over nondiscrimination requirements is unconstitutional"
+    },
+    {
+      "url": "https://www.wyff4.com/article/supreme-court-colorado-preschool-law-same-sex-couples/71071933",
+      "publisher": "CNN via WYFF4",
+      "angle": "The 6-3 conservative court will now decide what to do after years of expanding religious schools' access to public funds"
+    }
+  ],
+  "brief": {
+    "actors": ["SCOTUS", "Colorado", "Trump", "Archdiocese of Denver", "LGBTQ families"],
+    "whatHappened": "The Supreme Court agreed Monday to hear a case brought by the Archdiocese of Denver and St. Mary Catholic Parish, which object to Colorado's exclusion of their preschools from the state's voter-approved universal pre-K program. The exclusion applies because the schools refuse to enroll children of LGBTQ couples, violating the program's nondiscrimination requirement. The Trump administration has filed a brief supporting the Catholic schools. Three conservative justices have previously signaled willingness to narrow or overturn Employment Division v. Smith, the 1990 precedent that currently limits religious exemptions from generally applicable laws.",
+    "bottomLine": "If the court rules for the Catholic schools, it will have established that religious institutions can take public money while maintaining discriminatory admissions practices, and that framing is more consequential than anything about preschools.",
+    "hiddenBets": [
+      {
+        "assumption": "This case is primarily about religious freedom",
+        "whyItMightBeWrong": "The practical question is who pays for religious institutions' selective admissions. Colorado's universal pre-K program was funded by taxpayers, including LGBTQ taxpayers, to make preschool broadly accessible. The religious freedom framing makes the Catholic schools the victims. The funding framing makes LGBTQ families the excluded party. Which frame the court uses will determine the outcome."
+      },
+      {
+        "assumption": "Narrowing Employment Division v. Smith would only affect small religious institutions",
+        "whyItMightBeWrong": "If the court establishes that religious organizations can receive public funding while opting out of nondiscrimination rules, the precedent applies to hospitals, universities, social service agencies, and adoption agencies that receive hundreds of billions in public dollars. The preschool case is the vehicle; the target is the full scope of publicly funded religious institutions."
+      },
+      {
+        "assumption": "The outcome is predictable given the 6-3 conservative majority",
+        "whyItMightBeWrong": "Even within the conservative bloc, there are genuine disagreements about the scope of religious exemptions versus the no-establishment principle. A ruling that allows religious schools to receive public money while discriminating may face resistance from justices who worry about the reverse implication: if the state funds discriminatory religious schools, it is arguably establishing religion."
+      }
+    ],
+    "realDisagreement": "The genuine fork is between two principles that both have real legal grounding: free exercise says the government cannot penalize a church for following its doctrine, and equal treatment says the government cannot subsidize discrimination. You cannot fully honor both. The court has been moving steadily toward free exercise since 2020, but each step raises the question of where religious exemptions end and state endorsement of discrimination begins. The honest answer is there is no neutral line. The question is which principle this court weights more heavily, and the answer to that question will restructure large portions of how public money flows to religious institutions across the country."
+    ,
+    "whatNoOneIsSaying": "Colorado's universal pre-K program was approved by voters as a program for all children. The Catholic schools are arguing that they should receive the same public funds as everyone else while serving fewer children. That is not a religious freedom claim; it is a claim to public subsidy without public obligation. The Trump administration's support for this position is consistent with its broader project of routing public funding through religious institutions while reducing accountability requirements.",
+    "whoPays": [
+      {
+        "who": "Children of LGBTQ families in states that adopt similar programs",
+        "how": "If Catholic and other religious preschools can exclude children of LGBTQ parents while receiving public funds, those children lose access to a share of the publicly funded system their parents help pay for.",
+        "when": "If the ruling is broad, immediately across all states with universal pre-K programs"
+      },
+      {
+        "who": "LGBTQ employees at publicly funded religious hospitals, universities, and social service agencies",
+        "how": "A broad ruling provides legal cover for religiously affiliated institutions to discriminate in hiring while maintaining public funding. The scope depends on how the court writes the opinion.",
+        "when": "Medium-term, as downstream litigation tests the ruling's reach"
+      },
+      {
+        "who": "State and local governments",
+        "how": "States running universal programs will face the choice of either excluding religious institutions or funding discriminatory practices. Either way, their programs become politically and legally contested.",
+        "when": "After the ruling, which will be issued in the court's next term"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Narrow ruling for Catholic schools",
+        "whatHappens": "Court rules Colorado cannot exclude the schools from the program but limits the holding to the specific facts of a voter-approved universal program. Religious organizations get access to funding; the nondiscrimination condition is held to be an unconstitutional penalty on religious practice in this context only.",
+        "signal": "Opinion emphasizes the 'generally available' nature of the program without explicitly narrowing Smith"
+      },
+      {
+        "name": "Smith narrowed or overturned",
+        "whatHappens": "Court uses the case to establish a new framework requiring strict scrutiny for any generally applicable law that burdens religious practice. This would expand religious exemptions broadly across employment, healthcare, education, and social services.",
+        "signal": "Opinion explicitly addresses Smith rather than deciding the case on narrower grounds"
+      },
+      {
+        "name": "Court rules for Colorado",
+        "whatHappens": "Court upholds Colorado's right to condition public funding on nondiscrimination, affirming that participation in a public program comes with public obligations. A significant but not impossible outcome given the current court's trajectory.",
+        "signal": "One or more conservative justices sides with the three liberal justices on the funding-condition question"
+      }
+    ],
+    "whatWouldChange": "If a majority of justices ask hard questions about the Establishment Clause implications of publicly funding discriminatory admissions during oral argument, that would suggest a narrower or pro-Colorado outcome. If the questions focus entirely on the burden on religious practice, the ruling will be broad."
+  }
+}

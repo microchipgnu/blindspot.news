@@ -1,0 +1,102 @@
+{
+  "id": "warsh-fed-confirmation",
+  "date": "2026-04-21",
+  "generatedAt": "2026-04-21T08:10:00Z",
+  "title": "Kevin Warsh Goes Before the Senate Promising Independence He May Not Be Able to Deliver",
+  "subtitle": "Trump's Fed pick is vowing to protect central bank autonomy while depending entirely on Trump's party to get confirmed. The contradiction is the point.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Warsh", "Federal Reserve", "Trump", "monetary policy", "interest rates", "Senate", "Powell"],
+  "coverImage": {
+    "url": "https://www.srnnews.com/media/2026/04/1776679524135973v72kzzHFSh.jpg",
+    "local": "/images/reports/2026-04-21/warsh-fed-confirmation.jpg",
+    "credit": "SRN News / Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/04/20/kevin-warsh-fed-confirmation-senate.html",
+      "publisher": "CNBC",
+      "angle": "Warsh's prepared remarks stress 'stay in its lane' independence; he argues Fed independence is threatened by its own overreach into fiscal policy"
+    },
+    {
+      "url": "https://www.reuters.com/world/us/fed-chair-nominee-warsh-commits-independence-with-limits-2026-04-20/",
+      "publisher": "Reuters",
+      "angle": "Warsh pledges to work with administration on non-monetary matters; independence is 'with limits'"
+    },
+    {
+      "url": "https://finance.yahoo.com/economy/policy/live/fed-confirmation-hearing-live-kevin-warsh-faces-senate-lawmakers-214813901.html",
+      "publisher": "Yahoo Finance / Reuters Live",
+      "angle": "Senate Banking Committee hearing live coverage; no mention of current views on rates in opening remarks"
+    },
+    {
+      "url": "https://srnnews.com/fed-chair-nominee-warsh-has-big-ideas-here-are-some-in-his-own-words/",
+      "publisher": "SRN News / Reuters",
+      "angle": "Warsh has proposed regime change at the Fed: lower policy rate, new inflation approach, smaller balance sheet, narrower mandate"
+    }
+  ],
+  "brief": {
+    "actors": ["Warsh", "Trump", "Powell", "Senate", "Fed"],
+    "whatHappened": "Kevin Warsh, Trump's nominee to replace Jerome Powell as Federal Reserve Chair, testified before the Senate Banking Committee on Tuesday. His prepared remarks, released Monday, stressed his commitment to central bank independence on monetary policy while criticizing the Fed for straying into 'fiscal and social policies.' One Republican senator, Thom Tillis of North Carolina, has said he will block Warsh in committee. Warsh's opening statement contained no mention of his current views on interest rates, which Trump has repeatedly demanded the Fed lower. Democrats plan to raise Warsh's alleged appearance in Epstein files. The market gives a 98.7% probability that Warsh's nomination will not be withdrawn by May 15.",
+    "bottomLine": "Warsh is performing independence for the Senate while Trump performs impatience publicly, and everyone in the room knows Trump picked Warsh because he believes Warsh will cut rates faster than Powell would.",
+    "hiddenBets": [
+      {
+        "assumption": "Warsh will actually protect Fed independence once confirmed",
+        "whyItMightBeWrong": "Warsh was selected by a president who fired his Treasury Secretary, publicly berated his previous Fed chair, and has signaled he wants rate cuts before the midterms. Warsh is not a random independent economist; he is the person Trump believes will do what Trump wants while saying the right things in public. His entire confirmation testimony is designed to pass a test he won't face again once he's in the chair."
+      },
+      {
+        "assumption": "Warsh's stated policy views represent what he'll actually do",
+        "whyItMightBeWrong": "Warsh has criticized the Fed for doing too much and suggested it should do more, sometimes in the same period. His written remarks call for a 'narrower remit' and 'smaller balance sheet' but also signal openness to rate cuts. These are contradictory positions that can only be resolved by watching what he actually does under pressure."
+      },
+      {
+        "assumption": "The Epstein connection is a distraction that won't affect the vote",
+        "whyItMightBeWrong": "If Democrats use the hearing to establish the Epstein link publicly, they may not be trying to block Warsh but to create a political cost for Republicans who vote yes. That's a different game: using the confirmation to damage Trump rather than to stop the nominee."
+      }
+    ],
+    "realDisagreement": "The actual fork: the Fed's independence has always been informal, maintained by norms and the personal courage of whoever holds the chair. It has no formal constitutional protection. The question is not whether Warsh will 'protect' independence in some abstract sense, but whether he will raise rates when Trump wants them lowered, or hold them when Trump wants them cut. Powell did. His reward was two years of Trump publicly attacking him and a replacement nomination. The bet Warsh is making is that he can satisfy Trump on rates without fully capitulating to political control, staying just independent enough to keep markets calm. That bet has never succeeded in the modern era. Either the chair is fully independent or the president gets what he wants. Warsh will almost certainly choose the latter when the pressure is real, and the market price for 10-year Treasuries will be the signal.",
+    "whatNoOneIsSaying": "The Warsh confirmation is not really about Warsh or even about the Fed's independence. It is about whether Trump can successfully install loyalists in every major independent institution before the midterms create a political check. The Fed is one of three remaining institutions with genuine authority to constrain executive economic policy. The others are the judiciary and the Congressional Budget Office. Warsh's confirmation is part of that same project.",
+    "whoPays": [
+      {
+        "who": "Fixed-income investors and pension funds",
+        "how": "If Warsh cuts rates faster than economic conditions justify, inflation returns and the real value of existing bonds falls. Pension funds with long-duration Treasury holdings take losses.",
+        "when": "12-24 months post-confirmation if rate cuts materialize"
+      },
+      {
+        "who": "Working-class borrowers",
+        "how": "Premature rate cuts that reignite inflation hurt lower-income households disproportionately because food and energy consume a larger share of their budgets and they lack inflation-hedging assets.",
+        "when": "6-18 months, if rate cuts accelerate before inflation is fully controlled"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Confirmed, performs expected independence",
+        "whatHappens": "Warsh is confirmed, cuts rates modestly but slower than Trump publicly demands, maintains some committee independence, markets treat him as credible. Trump complains but does not act.",
+        "signal": "First Fed meeting under Warsh holds rates or cuts by 25bps despite Trump pressure for 50bps+"
+      },
+      {
+        "name": "Confirmed, becomes political instrument",
+        "whatHappens": "Warsh delivers the rate cuts Trump wants on the timeline Trump prefers. The FOMC becomes less collegial. Markets price in the loss of institutional credibility with a persistent inflation premium on long-term bonds.",
+        "signal": "Fed cut of 50+ bps within 3 months of Warsh taking the chair, with inflation above 3%"
+      },
+      {
+        "name": "Tillis kills it in committee",
+        "whatHappens": "Senator Tillis holds firm. Trump withdraws or the nomination stalls. Powell serves out his term through 2026. Trump nominates someone else.",
+        "signal": "Tillis does not change his stated position by end of April"
+      }
+    ],
+    "whatWouldChange": "If Warsh publicly committed to maintaining rates at current levels for a specific period regardless of executive preference, that would be real evidence of independence. Saying 'independence is essential' in prepared remarks is not evidence of anything.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Kevin Warsh Fed Chair nomination withdrawn by May 15?",
+        "url": "https://polymarket.com/event/kevin-warsh-fed-chair-nomination-withdrawn-by-may-15",
+        "probability": 0.013
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Jerome Powell depart as Fed Chair by June 30, 2026?",
+        "url": "https://polymarket.com/event/jerome-powell-departs-as-fed-chair-by",
+        "probability": 0.89
+      }
+    ]
+  }
+}

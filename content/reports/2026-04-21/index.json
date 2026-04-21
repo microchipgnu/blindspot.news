@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-21",
+  "generatedAt": "2026-04-21T08:25:00Z",
+  "reports": [
+    {
+      "id": "iran-ceasefire-deadline",
+      "title": "The Iran Ceasefire Expires Wednesday and Trump Says He Won't Extend It",
+      "subtitle": "A 14-day pause in a seven-week war is about to end. The market gives a deal only 17% odds. The blockade of Hormuz is the real fight.",
+      "category": "conflict"
+    },
+    {
+      "id": "apple-ternus-ceo",
+      "title": "Tim Cook Is Out. Apple's New CEO Is a Hardware Engineer in the Age of AI.",
+      "subtitle": "Apple just handed its future to the person who builds devices, not the person who trains models. That's a deliberate bet on what the AI era actually requires.",
+      "category": "power"
+    },
+    {
+      "id": "warsh-fed-confirmation",
+      "title": "Kevin Warsh Goes Before the Senate Promising Independence He May Not Be Able to Deliver",
+      "subtitle": "Trump's Fed pick is vowing to protect central bank autonomy while depending entirely on Trump's party to get confirmed. The contradiction is the point.",
+      "category": "power"
+    },
+    {
+      "id": "scotus-catholic-preschool",
+      "title": "SCOTUS Takes Up a Case That Could Let Religious Schools Exclude LGBTQ Families and Still Take Public Money",
+      "subtitle": "The Catholic preschool case is not about preschools. It is about whether publicly funded institutions can use religious identity to opt out of nondiscrimination requirements.",
+      "category": "ethics"
+    },
+    {
+      "id": "pa-medicaid-abortion",
+      "title": "Pennsylvania Court Strikes Down Medicaid Abortion Ban, Opening the Next Front in the Post-Dobbs War",
+      "subtitle": "The ruling uses the state constitution's Equal Rights Amendment to establish a fundamental right to reproductive autonomy. That's a legal argument designed to survive federal courts.",
+      "category": "ethics"
+    }
+  ]
+}

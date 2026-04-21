@@ -1,0 +1,43 @@
+{
+  "date": "2026-04-21",
+  "threads": [
+    {
+      "id": "institutions-under-pressure",
+      "title": "Which Institutions Still Have Independent Authority?",
+      "description": "Three of today's five stories are about the same underlying question: can an institution maintain autonomous decision-making when the political environment has decided it should not? The Fed chair nominee is performing independence for senators while everyone knows the president wants rate cuts. The SCOTUS is being asked to reshape the boundary between religious freedom and public obligation. The Pennsylvania court is using its own constitution to carve out space federal courts cannot touch. Each story is a test case for how much independence survives direct political and legal pressure.",
+      "type": "tension-cluster",
+      "stories": ["warsh-fed-confirmation", "scotus-catholic-preschool", "pa-medicaid-abortion"],
+      "connections": [
+        {
+          "from": "warsh-fed-confirmation",
+          "to": "scotus-catholic-preschool",
+          "relationship": "Both cases involve an institution (the Fed, the court) being asked to accommodate executive and political preferences while maintaining the formal appearance of independence; the mechanism differs but the pressure is the same."
+        },
+        {
+          "from": "scotus-catholic-preschool",
+          "to": "pa-medicaid-abortion",
+          "relationship": "The SCOTUS case could expand religious institutions' ability to receive public funds with fewer public obligations; the PA ruling uses state constitutional law to establish rights the federal court system no longer provides, positioning state courts as the last line of defense precisely as SCOTUS expands federal religious exemptions."
+        }
+      ]
+    },
+    {
+      "id": "hormuz-is-about-china",
+      "title": "The Iran War, Apple's Hardware Bet, and the Contest for AI Infrastructure Are the Same Fight",
+      "description": "The US blockade of the Strait of Hormuz is explicitly designed to constrain China's energy supply. Apple chose a hardware engineer as CEO because controlling silicon is how you win the AI era against Chinese and other competitors. Kevin Warsh's Fed, if it cuts rates faster than economic conditions justify, weakens the dollar's position in global trade settlement at the exact moment the US is trying to use financial leverage against Beijing. All three stories are about the same great-power competition, but nobody is connecting them in real time.",
+      "type": "dependency-web",
+      "stories": ["iran-ceasefire-deadline", "apple-ternus-ceo", "warsh-fed-confirmation"],
+      "connections": [
+        {
+          "from": "iran-ceasefire-deadline",
+          "to": "apple-ternus-ceo",
+          "relationship": "The Hormuz blockade is a US attempt to control the physical infrastructure of Chinese energy supply; Apple naming a hardware-first CEO signals that controlling the physical AI infrastructure stack is how the US tech sector expects to maintain advantage over Chinese AI rivals who run on American chips."
+        },
+        {
+          "from": "warsh-fed-confirmation",
+          "to": "iran-ceasefire-deadline",
+          "relationship": "Premature rate cuts under Warsh that reignite inflation would weaken US financial leverage over China and oil-exporting nations at the exact moment Trump is using the Hormuz blockade as a geopolitical pressure tool; monetary policy and military strategy are working in opposite directions."
+        }
+      ]
+    }
+  ]
+}

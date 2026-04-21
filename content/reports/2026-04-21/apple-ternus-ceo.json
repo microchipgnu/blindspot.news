@@ -1,0 +1,88 @@
+{
+  "id": "apple-ternus-ceo",
+  "date": "2026-04-21",
+  "generatedAt": "2026-04-21T08:05:00Z",
+  "title": "Tim Cook Is Out. Apple's New CEO Is a Hardware Engineer in the Age of AI.",
+  "subtitle": "Apple just handed its future to the person who builds devices, not the person who trains models. That's a deliberate bet on what the AI era actually requires.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["Apple", "Tim Cook", "John Ternus", "AI", "hardware", "leadership"],
+  "coverImage": {
+    "url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2264179980.jpg?resize=1200,800",
+    "local": "/images/reports/2026-04-21/apple-ternus-ceo.jpg",
+    "credit": "Adam Gray / Bloomberg via Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://fortune.com/2026/04/20/apple-ceo-tim-cook-stepping-down-hardware-exec-john-ternus-new-ceo/",
+      "publisher": "Fortune",
+      "angle": "Announcement framing: Cook leaves at a peak, Ternus is the right choice for AI era, board-approved succession plan"
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/",
+      "publisher": "TechCrunch",
+      "angle": "Ternus profile: SVP of hardware engineering since 2020, credited with Apple Silicon transition, M-series chips, and Vision Pro"
+    },
+    {
+      "url": "https://indianexpress.com/article/world/us-news/apple-names-insider-john-ternus-as-ceo-cook-to-become-executive-chairman-10647294/",
+      "publisher": "The Indian Express",
+      "angle": "Cook will engage policymakers as executive chairman; Ternus takes reins September 1, 2026"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/info-tech/apple-names-john-ternus-as-next-ceo-signals-ai-driven-future/article70886990.ece",
+      "publisher": "The Hindu BusinessLine",
+      "angle": "Move signals renewed focus on product innovation and new devices amid rivalry from Nvidia and Meta in AI hardware"
+    }
+  ],
+  "brief": {
+    "actors": ["Apple", "Tim Cook", "John Ternus", "OpenAI", "Nvidia", "Meta"],
+    "whatHappened": "Apple announced on April 20 that Tim Cook will step down as CEO on September 1, 2026, after 15 years leading the company. John Ternus, 50, Apple's Senior Vice President of Hardware Engineering and the architect of the Apple Silicon transition, will take over. Cook will become executive chairman and continue engaging with policymakers. Apple's stock dipped slightly after hours. The succession was described by the board as a long-planned, unanimously approved handoff.",
+    "bottomLine": "Apple's board looked at the AI era and decided the most important skill the company needs is the ability to build the physical stack that AI runs on, not to manage software partnerships or supply chains.",
+    "hiddenBets": [
+      {
+        "assumption": "This is a smooth leadership transition with no strategic shift",
+        "whyItMightBeWrong": "Cook built Apple around supply chain mastery and services revenue. Ternus built things. His entire career has been about making hardware that nobody else can replicate. Putting him in charge signals that Apple's board believes the AI endgame is fought at the silicon and device layer, not at the model or platform layer. That is a significant strategic reorientation, not continuity."
+      },
+      {
+        "assumption": "Cook's move to executive chairman is a ceremonial goodbye",
+        "whyItMightBeWrong": "The announcement specifically said Cook will 'continue to engage with policymakers.' Apple is currently navigating antitrust pressure in the EU, the DOJ App Store case, and US-China trade tensions that directly affect its manufacturing. Cook as policy ambassador while Ternus builds is a deliberate division of labor, not retirement."
+      },
+      {
+        "assumption": "Apple's AI strategy is already settled with its OpenAI partnership",
+        "whyItMightBeWrong": "Apple's AI integration via Siri and OpenAI has been widely criticized as behind competitors. Ternus has shown he can build hardware that gives Apple a 3-5 year moat over rivals. The question is whether he can do the same for AI infrastructure, specifically the silicon and device architecture that would let Apple train or run models without depending on OpenAI."
+      }
+    ],
+    "realDisagreement": "The real fork is whether Apple's AI future is primarily a software and model problem or a hardware and silicon problem. If it's software, promoting a hardware engineer to CEO is the wrong call: Apple should have promoted someone who can lead AI research and negotiate model partnerships. If it's hardware, Ternus is exactly right: the company that controls the silicon controls the margin, and every AI company that doesn't own its stack eventually becomes a commodity. The market's slight negative reaction suggests investors are uncertain which world they're in. The board's decision is a clear statement: hardware wins. The risk is that they're right about the endgame but wrong about the timeline, and Apple loses the next two to three years while rivals build better models on Apple's own hardware.",
+    "whatNoOneIsSaying": "The reason Cook is staying as executive chairman is not goodwill. Apple faces the largest regulatory exposure of any tech company right now, and Cook is the only person who has successfully managed relationships with the EU, China, and the US government simultaneously. Ternus has no track record in policy. Cook's 'advisory' role is load-bearing.",
+    "whoPays": [
+      {
+        "who": "OpenAI",
+        "how": "If Ternus moves Apple toward building its own foundation models or substantially reducing dependence on external AI providers, OpenAI loses one of its largest and most visible distribution partners.",
+        "when": "18-36 months as Ternus sets product direction"
+      },
+      {
+        "who": "Apple's software and services teams",
+        "how": "A hardware-first CEO will allocate resources and credibility toward device teams. The services business that Cook built into Apple's second-largest revenue source may find itself deprioritized.",
+        "when": "Medium-term, beginning with the first Ternus product cycle"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Silicon moat holds",
+        "whatHappens": "Ternus delivers an AI-native chip architecture that makes Apple devices the best platform for on-device inference. AI runs better on iPhone and Mac than anywhere else. Apple's hardware premium is justified again, and the OpenAI dependency becomes optional.",
+        "signal": "A dedicated AI chip announcement within 18 months of Ternus taking over"
+      },
+      {
+        "name": "Model gap widens",
+        "whatHappens": "Ternus is excellent at hardware but the AI competition is won at the model and agent layer. Apple's AI features remain behind Google, OpenAI, and Meta. The hardware is beautiful, the intelligence is mediocre.",
+        "signal": "Apple fails to ship a competitive AI assistant or agent product by 2028"
+      },
+      {
+        "name": "Cook's shadow government",
+        "whatHappens": "Ternus runs product but Cook retains real authority over the company's most consequential decisions through his policy and board roles. Apple continues to operate as Cook's Apple with a different face on the org chart.",
+        "signal": "Ternus rarely appears in policy or government contexts; Cook continues traveling to Beijing and Brussels"
+      }
+    ],
+    "whatWouldChange": "If Apple announces a major AI research lab hire, a foundation model project, or a material reduction in the OpenAI partnership within the next year, that would mean the board is actually pivoting to software-first AI. Right now all signals point the other way."
+  }
+}
