@@ -1,0 +1,88 @@
+{
+  "id": "arkansas-social-media-age-block",
+  "date": "2026-04-21",
+  "generatedAt": "2026-04-21T19:30:00Z",
+  "title": "A Federal Judge Blocked Arkansas's Social Media Age Law. This Is the Third Time.",
+  "subtitle": "NetChoice keeps winning in court. States keep passing new versions of the same law. Neither side is trying to resolve the constitutional question. They are trying to outlast each other.",
+  "topic": "society",
+  "category": "decision",
+  "tags": ["social media", "age verification", "children", "First Amendment", "Arkansas", "NetChoice", "Meta"],
+  "coverImage": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/kjnbtv.com/content/tncms/assets/v3/editorial/e/d4/ed47c8dc-426d-4b58-b20d-9c174ba14bac/69e7c4fa9f6d7.image.png?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+    "local": "/images/reports/2026-04-21/arkansas-social-media-age-block.jpg",
+    "credit": "KJNBTV / Local 3 News"
+  },
+  "sources": [
+    {
+      "url": "https://www.biometricupdate.com/202604/netchoice-wins-in-arkansas-but-faces-forever-war-against-age-assurance",
+      "publisher": "Biometric Update",
+      "angle": "NetChoice has won this same fight before; Arkansas keeps revising the law and re-filing; the industry faces a war of attrition even when it wins in court"
+    },
+    {
+      "url": "https://arkansasadvocate.com/2026/04/20/federal-judge-blocks-reworked-arkansas-law-restricting-minors-social-media/",
+      "publisher": "Arkansas Advocate",
+      "angle": "Judge Brooks found the law is likely to fail First Amendment review; the 'addictive practices' prohibition is also constitutionally problematic"
+    },
+    {
+      "url": "https://commonwealthbeacon.org/government/how-would-proposed-age-restrictions-on-social-media-use-actually-work/",
+      "publisher": "Commonwealth Beacon",
+      "angle": "Massachusetts is advancing similar legislation; the practical enforcement problem is that age verification requires collecting data on every user, not just minors"
+    },
+    {
+      "url": "https://incyber.org/en/article/online-regulation-of-minors-young-and-overlooked/",
+      "publisher": "INCYBER News",
+      "angle": "The entire policy frame may be wrong: blocking minors may make regulated platforms safer while driving them to unregulated ones"
+    }
+  ],
+  "brief": {
+    "actors": ["NetChoice", "Meta", "Arkansas", "Massachusetts", "First Amendment"],
+    "whatHappened": "US District Judge Timothy Brooks temporarily blocked Arkansas Act 900 of 2025, a law that would have required social media platforms to verify the age of users before allowing account creation. The ruling, which came hours before the law was set to take effect Tuesday, found that NetChoice was likely to succeed on First Amendment grounds. This is the third time Arkansas has passed a version of this law and the third time a federal court has blocked it. A previous iteration, Act 689, was similarly enjoined. The addictive practices provision, which would have prohibited platforms from using engagement-maximizing design features with minors, was also found constitutionally suspect by the judge. Massachusetts and other states are simultaneously advancing their own versions of the same framework.",
+    "bottomLine": "States have now lost this constitutional fight three times and are still passing the same law. The real goal is not to win in court but to make platforms self-censor while litigation drags on.",
+    "hiddenBets": [
+      {
+        "assumption": "Age verification laws are blocked because courts protect Big Tech",
+        "whyItMightBeWrong": "The constitutional problem with age verification is not about protecting tech companies. It is about what the law requires platforms to do to all users, not just minors. To verify that someone is over 13, you must collect and verify identifying information on everyone, including adults who have no legal obligation to share it. The First Amendment problem is real and exists regardless of whether you like social media companies."
+      },
+      {
+        "assumption": "The legal losses will eventually stop as states craft better legislation",
+        "whyItMightBeWrong": "The fundamental constitutional conflict has not changed between Act 689 and Act 900. Courts have been consistent. States are iterating on the same approach and getting the same answer. The question is not whether the next version will be better. It is whether any version of mandatory age verification survives First Amendment review."
+      },
+      {
+        "assumption": "Protecting children from social media requires restricting access to it",
+        "whyItMightBeWrong": "The INCYBER analysis is important: if regulated platforms implement age restrictions, teenagers migrate to unregulated alternatives. The harms remain. The regulated space becomes less harmful and the unregulated space becomes more populated by the people age verification was supposed to protect."
+      }
+    ],
+    "realDisagreement": "The core fork is between two models of protecting children online. The access-restriction model says the harm comes from being on platforms, so block access. The design-regulation model says the harm comes from how platforms are built, so regulate the product rather than who can see it. Both have genuine support. The access-restriction model has popular support and legislative momentum but keeps losing in court. The design-regulation model has a stronger constitutional path but requires technical expertise and ongoing enforcement that states do not have. Arkansas is pursuing the first model repeatedly. Massachusetts is pursuing a hybrid. The lean is toward design regulation being the approach that survives judicially and actually changes behavior, but the political incentives strongly favor access restriction because it is simpler to explain.",
+    "whatNoOneIsSaying": "Age verification laws are, in practice, data collection mandates. Every platform that implements them must build infrastructure to collect and store government-quality identification on hundreds of millions of users. The companies most capable of building that infrastructure securely are the large platforms these laws are meant to constrain. The likely outcome of universal age verification is that it advantages the largest incumbents, who can absorb compliance costs, over smaller competitors who cannot.",
+    "whoPays": [
+      {
+        "who": "Teenagers in states with age restriction laws",
+        "how": "If laws ever take effect, they create friction for legal access and none for illegal access. VPNs and alternative platforms are not age-gated. The restriction lands on compliant users, not on those most at risk.",
+        "when": "If any version of these laws survives judicial review"
+      },
+      {
+        "who": "Smaller social media platforms",
+        "how": "Age verification compliance infrastructure is expensive. Large platforms can absorb costs. Smaller competitors, which might offer less algorithmically optimized alternatives, cannot scale under compliance burdens designed for companies with Meta's resources.",
+        "when": "Immediately upon any law taking effect"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Perpetual injunction cycle",
+        "whatHappens": "Arkansas passes Act 901. A court blocks it. Massachusetts passes its version. Another court blocks it. Congress never acts. The cycle continues for five years while platforms self-regulate minimally, knowing the litigation threat gives them political cover without legal obligation.",
+        "signal": "Arkansas Governor Sanders announces intent to revise the law within 60 days of the current injunction"
+      },
+      {
+        "name": "Supreme Court sets a rule",
+        "whatHappens": "A circuit split develops between courts that block these laws and a court that allows one to take effect. SCOTUS takes the case, likely in its 2027 term, and either validates age verification (upending the current First Amendment framework for platforms) or kills it definitively.",
+        "signal": "A federal appeals court, likely the Eighth Circuit, upholds a state age verification law over a NetChoice challenge"
+      },
+      {
+        "name": "Federal legislation displaces state laws",
+        "whatHappens": "Congress passes a federal child online protection framework that preempts the state patchwork. The federal law faces its own judicial challenge but establishes a uniform standard that at least clarifies what platforms must do.",
+        "signal": "A bipartisan Senate vote to advance a federal online child protection bill within the next 12 months"
+      }
+    ],
+    "whatWouldChange": "If a federal court, particularly an appellate court, upheld a version of this law on the merits rather than blocking it at the preliminary injunction stage, it would indicate that the constitutional analysis is shifting and that some version of access restriction can survive. That has not happened yet."
+  }
+}

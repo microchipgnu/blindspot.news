@@ -100,6 +100,58 @@
           "relationship": "The SCOTUS ruling forced a reversal of the tariff policy but the remedy flows only to direct corporate payors, leaving consumer harm unaddressed; the removal of Hungary's EU veto similarly reverses the political obstruction but leaves the EUR 90 billion loan conditioned on a separate energy dispute that the new government cannot resolve any faster than the old one could."
         }
       ]
+    },
+    {
+      "id": "states-as-last-resort",
+      "title": "States Are Not Filling a Vacuum. They Are Becoming the Primary Arena.",
+      "description": "Three stories today share a structure: a federal institution either withdrew, settled, or was bypassed, and states moved in. The DOJ settled with Live Nation mid-trial on terms 33 state AGs rejected, then the states won at verdict. Arkansas has now passed three versions of the same social media age restriction law because Congress has not acted and federal courts keep blocking state versions. Today's Semafor piece explicitly names the pattern: states are 'flexing antitrust muscles' across industries from Live Nation to Meta. This is not a temporary gap-filling exercise. States are becoming the permanent enforcement layer for consumer protection and antitrust, creating a patchwork that favors companies with compliance capacity over companies that cannot navigate 50 different frameworks.",
+      "type": "tension-cluster",
+      "stories": ["live-nation-antitrust-verdict", "arkansas-social-media-age-block", "epa-air-rollback"],
+      "connections": [
+        {
+          "from": "live-nation-antitrust-verdict",
+          "to": "arkansas-social-media-age-block",
+          "relationship": "State AGs won the Live Nation antitrust case after DOJ settled mid-trial, demonstrating that state coalitions can succeed where federal enforcement retreated; Arkansas is trying to regulate social media for minors because Congress has not passed federal legislation, following the same pattern of state action filling federal absence."
+        },
+        {
+          "from": "epa-air-rollback",
+          "to": "live-nation-antitrust-verdict",
+          "relationship": "Federal EPA enforcement capacity collapsed through staff attrition, leaving affected states to pursue environmental protection through their own attorneys general and courts; the DOJ's Live Nation retreat follows the same mechanism: federal withdrawal forces state actors to become the enforcement system, with inconsistent results across different states."
+        }
+      ]
+    },
+    {
+      "id": "process-designed-for-one-side",
+      "title": "The Most Effective Form of Bias Is a Process That Looks Neutral While Delivering Predetermined Results",
+      "description": "The leaked SCOTUS memos and the Zelensky-Witkoff story both reveal the same mechanism: a process that appears procedurally neutral was constructed to favor one party from the start. Roberts designed the emergency docket so conservative majorities could block progressive policy before it could be defended on the merits. Witkoff and Kushner have visited Moscow eight times and Kyiv zero times, meaning any framework they produce reflects Russian priorities by design. In both cases, the appearance of a legitimate process, judicial deliberation and international mediation, legitimizes an outcome that the process was engineered to produce.",
+      "type": "tension-cluster",
+      "stories": ["scotus-shadow-docket-leak", "zelensky-witkoff-moscow"],
+      "connections": [
+        {
+          "from": "scotus-shadow-docket-leak",
+          "to": "zelensky-witkoff-moscow",
+          "relationship": "Roberts used internal persuasion campaigns and emergency procedural tools to ensure the court could block policies before they could be argued; Witkoff and Kushner's repeated Moscow visits with no Kyiv counterpart means the peace framework will reflect Russian framing, not Ukrainian framing, regardless of what any eventual document says. Both are examples of process capture: the legitimate-looking institution is structurally biased before a decision is made."
+        }
+      ]
+    },
+    {
+      "id": "numbers-doing-political-work",
+      "title": "The Most Persuasive Political Arguments Are Presented as Arithmetic",
+      "description": "Three stories today feature numbers that appear to be factual claims but are actually political constructs designed to obscure who wins and who loses. The University of California presented a '32.3 percent wage increase' that erases healthcare cost increases imposed without bargaining. Trump's tariff refund system returned $166 billion to companies that wrote the checks, not the consumers who paid higher prices. The OECD's 4.2 percent inflation forecast is being dismissed by Polymarket traders pricing a recession at 24.5 percent. In each case, the number is technically accurate but tells the wrong story: the beneficiary of the presented number is not the party being asked to accept it.",
+      "type": "tension-cluster",
+      "stories": ["uc-workers-strike", "scotus-tariff-refund", "oecd-tariff-inflation"],
+      "connections": [
+        {
+          "from": "uc-workers-strike",
+          "to": "scotus-tariff-refund",
+          "relationship": "The UC system presented a 32.3 percent raise while simultaneously raising healthcare costs that offset much of it for the lowest-paid workers; the tariff refund system returned money to importers who paid duties while the consumers who absorbed higher prices through goods spending were excluded by design. Both use technically accurate numbers to obscure the actual distribution of costs and benefits."
+        },
+        {
+          "from": "scotus-tariff-refund",
+          "to": "oecd-tariff-inflation",
+          "relationship": "The SCOTUS refund process returns money to corporate payors while the OECD attributes 4.2 percent inflation directly to tariffs that consumers paid; the same policy is generating a corporate windfall and a consumer loss simultaneously, but the headline numbers for each are reported in separate stories with separate framings."
+        }
+      ]
     }
   ]
 }

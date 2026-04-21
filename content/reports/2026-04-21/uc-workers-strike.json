@@ -1,0 +1,88 @@
+{
+  "id": "uc-workers-strike",
+  "date": "2026-04-21",
+  "generatedAt": "2026-04-21T19:30:00Z",
+  "title": "42,000 UC Workers Are Preparing to Strike. The University's 'Historic' Offer Is Arithmetically Dishonest.",
+  "subtitle": "The University of California touted a 32.3 percent wage increase. The actual raise, after accounting for the healthcare premium hike it imposed without bargaining, is negative for many workers.",
+  "topic": "economy",
+  "category": "decision",
+  "tags": ["UC", "AFSCME", "strike", "labor", "healthcare", "wages", "California"],
+  "coverImage": {
+    "url": "https://s.yimg.com/os/en/aol_sacramento_bee_mcclatchy_114/598c29129292c5e532af4dd7dc11d7d1",
+    "local": "/images/reports/2026-04-21/uc-workers-strike.jpg",
+    "credit": "Sacramento Bee / Hector Amezcua"
+  },
+  "sources": [
+    {
+      "url": "https://www.dailycal.org/news/uc/afscme-3299-set-to-strike-next-month-over-health-care-hike-and-housing/article_6a6f688d-d2c4-486e-abd7-abd1ad908c73.html",
+      "publisher": "Daily Californian",
+      "angle": "Detailed breakdown of the healthcare cost increase ($100-200/month on a $62k average salary) and the housing benefit dispute; frames it as a contract breach, not just a negotiation"
+    },
+    {
+      "url": "https://www.wsws.org/en/articles/2026/04/21/vpcf-a21.html",
+      "publisher": "World Socialist Web Site",
+      "angle": "Argues the 32.3 percent wage claim is misleading because it front-loads small percentages and buries the compounding structure; characterizes the union's leadership as complicit in managing worker discontent rather than resolving it"
+    },
+    {
+      "url": "https://www.aol.com/news/two-years-bargaining-uc-health-183000541.html",
+      "publisher": "Sacramento Bee (via AOL)",
+      "angle": "Two-year timeline of bargaining; five previous short-term strikes have not moved the university; this open-ended strike is described as a first for the UC system"
+    }
+  ],
+  "brief": {
+    "actors": ["AFSCME", "UC", "California"],
+    "whatHappened": "AFSCME Local 3299, which represents approximately 42,000 University of California service and healthcare workers including custodians, food service workers, patient care assistants, and hospital technicians, announced Tuesday it will begin an open-ended strike on May 14 across all UC campuses. Workers have been without a contract for nearly three years. The union has called five short-term strikes during negotiations, none of which produced an agreement. The dispute centers on two core issues: the UC system raised health insurance premiums for workers without bargaining, costing members roughly $100-200 per month, and the university refused to negotiate housing benefits in a state where many workers cannot afford to live near campuses. The UC system's latest offer claims a 32.3 percent wage increase but the union and independent analysis suggest the net benefit is significantly lower once the healthcare cost increase is factored in.",
+    "bottomLine": "The university advertised a 32.3 percent raise while simultaneously raising costs that offset it. That is not a wage increase. It is a wage presentation.",
+    "hiddenBets": [
+      {
+        "assumption": "The university's 32.3 percent figure is a straightforward number that can be evaluated on its face",
+        "whyItMightBeWrong": "The WSWS analysis claims the percentage is front-loaded with small annual increments compounded over the contract term. If healthcare premium increases of $100-200 per month are added to the baseline, workers making $62,000 per year would see a net take-home increase smaller than advertised, and some would see negative net change."
+      },
+      {
+        "assumption": "Five short strikes proved the tactic works and an open-ended strike is the next logical step",
+        "whyItMightBeWrong": "Five short strikes over two years produced no contract. The UC system correctly modeled them as manageable disruptions. An open-ended strike at hospitals creates patient care complications that generate political pressure in a way short strikes do not, but it also risks wearing down workers financially before the university concedes anything."
+      },
+      {
+        "assumption": "This is a dispute about wages",
+        "whyItMightBeWrong": "The housing demand is the harder ask and the more structurally important one. UC campuses are located in some of the most expensive housing markets in the country. Workers earning $62,000 per year in Berkeley or Los Angeles cannot afford to live within practical commuting distance. No wage increase short of doubling salaries resolves that problem. The union is asking for a benefit that changes the cost structure of employment at UC, not just the wage number."
+      }
+    ],
+    "realDisagreement": "The genuine fork is between two theories of what the UC system owes its lowest-paid workers. Theory one: the university is a budget-constrained public institution; it should pay market wages, and if workers cannot afford to live nearby, that is a housing market problem, not a university problem. Theory two: a public institution that depends on essential service workers has an obligation to ensure those workers can actually participate in the community where they work; the university benefits from proximity, and it should pay for it. These are not reconcilable through a wage number alone. The housing demand makes this dispute structurally different from a standard wage negotiation. The lean is toward theory two being correct and politically unwinnable at the bargaining table, meaning the workers either strike until the university yields or they compromise on housing and accept the wage math.",
+    "whatNoOneIsSaying": "An open-ended hospital strike at UC creates patient harm risk that will eventually force the governor's office to intervene. That intervention will look like mediation but will function as pressure on the union to settle on terms the university finds acceptable. The workers' strongest leverage is the hospital disruption, and using it fully risks generating a political resolution that blames the union for the patient care consequences.",
+    "whoPays": [
+      {
+        "who": "UC hospital patients",
+        "how": "An open-ended strike involving respiratory therapists, MRI technicians, and patient care assistants disrupts non-elective care. Hospitals can operate with reduced staff but not indefinitely. Some patients face delays in scheduled procedures.",
+        "when": "From May 14 if the strike begins as announced"
+      },
+      {
+        "who": "UC service workers currently paying higher insurance premiums",
+        "how": "Workers already absorbed the premium increase without a new contract. Each month without a settlement is another month of reduced effective pay with no offsetting wage gain.",
+        "when": "Ongoing since the premium increase took effect"
+      },
+      {
+        "who": "AFSCME leadership",
+        "how": "An open-ended strike that does not produce a materially better contract damages the union's credibility. Five short strikes already set expectations that the tactic works. If the open-ended strike ends in a marginal improvement, the membership will evaluate leadership performance on whether it was worth it.",
+        "when": "At the moment a settlement is reached or workers return without one"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Strike forces real concessions",
+        "whatHappens": "Hospital disruption escalates within 10 days. The governor's office applies pressure. UC agrees to roll back the premium increase and offer a housing stipend for workers below a salary threshold. Workers return with a genuinely improved deal.",
+        "signal": "The governor's office issues a public statement calling for expedited resolution within the first week of the strike"
+      },
+      {
+        "name": "Strike grinds down without a win",
+        "whatHappens": "UC holds the line, the governor mediates a face-saving settlement that modestly adjusts the premium increase and offers a small housing pilot program. Workers ratify because they cannot afford to stay out. The structural problems remain.",
+        "signal": "Strike enters its third week without a new UC proposal, and union begins signaling flexibility on housing"
+      },
+      {
+        "name": "Strike averted at the last moment",
+        "whatHappens": "UC makes a revised offer in the next three weeks that meaningfully addresses the healthcare premium. The housing demand is deferred to a separate working group. Workers vote to accept and the May 14 date passes without action.",
+        "signal": "AFSCME announces a tentative agreement before May 10"
+      }
+    ],
+    "whatWouldChange": "If independent analysis confirmed that the 32.3 percent wage increase produces net positive take-home pay even after the healthcare premium increase, the arithmetic argument collapses and the dispute becomes one about housing alone. That would make the union's position harder to sustain publicly and easier for the university to characterize as maximalist. The mathematics of the offer are central to who is right here."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "scotus-shadow-docket-leak",
+  "date": "2026-04-21",
+  "generatedAt": "2026-04-21T19:30:00Z",
+  "title": "Leaked Supreme Court Memos Show Roberts Built the Shadow Docket to Block Obama's Climate Policy",
+  "subtitle": "The documents don't just expose how a 2016 emergency stay happened. They reveal that the Chief Justice used internal persuasion campaigns to make unsigned, unreasoned emergency orders a standard tool of conservative governance.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["SCOTUS", "Roberts", "shadow docket", "emergency orders", "leak", "judicial independence"],
+  "coverImage": {
+    "url": "https://www.scotusblog.com/wp-content/uploads/2025/12/GettyImages-1244486494.jpg",
+    "local": "/images/reports/2026-04-21/scotus-shadow-docket-leak.jpg",
+    "credit": "SCOTUSblog / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://www.scotusblog.com/2026/04/what-the-new-york-times-got-wrong-and-right-about-the-emergency-docket/",
+      "publisher": "SCOTUSblog",
+      "angle": "Pushes back on the NYT framing that Roberts was purely political, argues the data shows emergency docket usage is bipartisan and predates the memos"
+    },
+    {
+      "url": "https://news.bloomberglaw.com/us-law-week/the-shadow-docket-is-roberts-disappointing-legacy-noah-feldman",
+      "publisher": "Bloomberg Law (Noah Feldman)",
+      "angle": "Roberts used the major questions doctrine as political cover for conservative activism; the memos prove he knew what he was building"
+    },
+    {
+      "url": "https://newrepublic.com/article/209283/supreme-court-shadow-docket-memos-west-virginia-epa",
+      "publisher": "The New Republic",
+      "angle": "The memos show the shadow docket is not a procedural tool but a substantive veto on progressive policy, used before cases can be fully argued"
+    },
+    {
+      "url": "https://reason.com/2026/04/21/the-supreme-courts-shadow-docket-has-sprung-a-leak/",
+      "publisher": "Reason",
+      "angle": "Focuses on the institutional damage from the leak itself: internal candor will now be chilled across the court"
+    },
+    {
+      "url": "https://www.usatoday.com/story/opinion/columnist/2026/04/21/supreme-court-leaked-memos-2016/89705631007/",
+      "publisher": "USA Today",
+      "angle": "Argues the leaks erode judicial independence by making justices communicate differently if they fear internal memos becoming public"
+    },
+    {
+      "url": "https://slate.com/news-and-politics/2026/04/supreme-court-leak-john-roberts-the-worst.html",
+      "publisher": "Slate",
+      "angle": "Roberts' arguments in the memos are riddled with factual errors about administrative law; he persuaded colleagues not with legal rigor but with authority"
+    }
+  ],
+  "brief": {
+    "actors": ["Roberts", "SCOTUS", "Obama", "NYT", "EPA"],
+    "whatHappened": "The New York Times published a set of leaked internal Supreme Court memos from 2016, showing Chief Justice John Roberts writing on formal letterhead to persuade his colleagues to grant an unprecedented administrative stay blocking the Obama administration's Clean Power Plan. The documents reveal that Roberts was the driving force behind using the emergency docket as a regular tool to block major federal policies before they could be argued on the merits. The stay in question was the first of its kind for a major regulatory program, and the memos show Roberts lobbied for it specifically to establish precedent for using emergency orders in this way. Multiple justices pushed back in their own memos, and some of those responses have also now been published.",
+    "bottomLine": "Roberts did not just preside over the rise of the shadow docket. He designed it as a mechanism to stop progressive governance before it could be defended in court.",
+    "hiddenBets": [
+      {
+        "assumption": "The shadow docket became powerful because the court's conservative majority wanted fast wins",
+        "whyItMightBeWrong": "The memos show it was a deliberate institutional strategy by Roberts specifically, built around the major questions doctrine. This is not a majority acting opportunistically. It is a chief justice constructing a tool and persuading colleagues to use it."
+      },
+      {
+        "assumption": "Leaking internal court deliberations is primarily a breach of confidentiality",
+        "whyItMightBeWrong": "The more consequential damage is to the deliberative process itself. If justices believe their memos will become public, they will stop writing candidly about their reasoning. That does not make the court more accountable. It makes its decisions less reasoned and more opaque."
+      },
+      {
+        "assumption": "This is a story about past abuse that has since been corrected",
+        "whyItMightBeWrong": "The emergency docket is more active now than it was in 2016. The pattern the memos reveal did not stop. It accelerated, and Roberts is still chief justice."
+      }
+    ],
+    "realDisagreement": "The genuine fork is between two ways to think about what the court is. Version one: the court is an independent legal institution that occasionally makes politically consequential decisions; the shadow docket is a procedural tool that can be reformed. Version two: the court is a political institution that uses legal procedure to produce politically predetermined outcomes; the shadow docket is proof of design, not dysfunction. The memos are stronger evidence for version two than the court's defenders want to admit. The lean here is toward version two, with the caveat that Roberts seems genuinely to believe he is doing law rather than politics, which makes him more dangerous, not less.",
+    "whatNoOneIsSaying": "The source of the leak is almost certainly inside the building. Someone with access to 2016 internal memos is still at the court, and they chose now to give them to the Times. That timing, during an active term where the emergency docket is under intense scrutiny, is not an accident. Someone on the court is trying to shape how the institution is perceived while it is still making decisions that affect their legacy.",
+    "whoPays": [
+      {
+        "who": "Federal agencies pursuing major regulatory programs",
+        "how": "Any significant new rule is now a candidate for an emergency stay before it can be implemented or argued on the merits. The Clean Power Plan was blocked for years before the underlying case was ever decided. That pattern applies to climate, labor, health, and financial regulation.",
+        "when": "Every time a new major rule is finalized"
+      },
+      {
+        "who": "Future justices",
+        "how": "If internal memos can be leaked to the press, justices will stop writing candidly. Oral argument and published opinions will carry less reasoning because the real deliberation will move to informal channels that leave no record.",
+        "when": "Immediately, as the current term continues"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Institutional damage contained",
+        "whatHappens": "Roberts gives a public statement or speech acknowledging the leak without addressing the substance. The court continues operating. The memos become a historical record used in law reviews but do not change current doctrine.",
+        "signal": "Roberts references the importance of judicial confidentiality in a public address or in an upcoming opinion's concurrence"
+      },
+      {
+        "name": "Congress moves on shadow docket legislation",
+        "whatHappens": "The memos give Senate Democrats the political justification to advance a bill requiring the court to provide written reasoning for emergency orders. It does not pass, but it creates a new standard for critique.",
+        "signal": "A Senate Judiciary subcommittee hearing scheduled on emergency docket transparency within 30 days"
+      },
+      {
+        "name": "More leaks follow",
+        "whatHappens": "The 2016 memos are the first release of a larger cache. Internal deliberations from current cases become public during the term. The court's ability to maintain confidentiality collapses as the source or additional sources continue providing material.",
+        "signal": "A second set of documents published by the Times or another outlet referencing cases from 2020 or later"
+      }
+    ],
+    "whatWouldChange": "If SCOTUSblog's empirical counter-argument holds up, showing that emergency docket use was already rising before Roberts' specific lobbying and is not significantly different from liberal court behavior in prior decades, then the 'designed it' framing would need to be revised to 'accelerated it.' That is still significant but is a different indictment.",
+    "markets": []
+  }
+}

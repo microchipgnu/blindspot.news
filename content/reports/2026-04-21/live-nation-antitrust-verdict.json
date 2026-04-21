@@ -1,0 +1,98 @@
+{
+  "id": "live-nation-antitrust-verdict",
+  "date": "2026-04-21",
+  "generatedAt": "2026-04-21T19:30:00Z",
+  "title": "33 States Beat Ticketmaster. The DOJ Settled. The States Did Not.",
+  "subtitle": "A federal jury found Live Nation operated an illegal monopoly. The story is not about concert tickets. It is about what happens to antitrust enforcement when the federal government stops doing it.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Live Nation", "Ticketmaster", "antitrust", "states", "DOJ", "monopoly"],
+  "coverImage": {
+    "url": "https://www.rollingstone.com/wp-content/uploads/2026/04/live-nation-op-ed-letitia-james.jpg?w=1600&h=900&crop=1",
+    "local": "/images/reports/2026-04-21/live-nation-antitrust-verdict.jpg",
+    "credit": "Rolling Stone / Drew Angerer / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://www.rollingstone.com/music/music-features/live-nation-verdict-attorneys-general-fans-op-ed-1235551218/",
+      "publisher": "Rolling Stone",
+      "angle": "Op-ed by New York and Tennessee AGs; frames the case as a bipartisan consumer protection win and highlights that states continued after DOJ settled mid-trial"
+    },
+    {
+      "url": "https://www.jdsupra.com/legalnews/jury-finds-live-nation-and-ticketmaster-8372198/",
+      "publisher": "JDSupra / Holtzman Vogel",
+      "angle": "Legal analysis: the verdict signals that multistate enforcement coalitions are the new frontier of antitrust, with or without federal leadership"
+    },
+    {
+      "url": "https://www.semafor.com/article/04/21/2026/us-states-flex-their-antitrust-muscles",
+      "publisher": "Semafor",
+      "angle": "States are systematically filling the vacuum left by Trump's DOJ across multiple industries; this is not an isolated case but a structural shift"
+    },
+    {
+      "url": "https://jeffjacksonnc.substack.com/p/winning-the-ticketmaster-case",
+      "publisher": "Jeff Jackson (North Carolina AG, Substack)",
+      "angle": "Inside account from a participating AG; DOJ settled mid-trial for 'structural remedies' that critics say were weak; states refused the same deal"
+    },
+    {
+      "url": "https://www.kcra.com/article/live-nation-ticketmaster-monopoly-verdict-ticket-prices/71064593",
+      "publisher": "KCRA / AP",
+      "angle": "Consumer focus: what the verdict actually means for ticket prices, which depends entirely on what remedies the judge orders"
+    }
+  ],
+  "brief": {
+    "actors": ["Live Nation", "Ticketmaster", "DOJ", "SCOTUS", "Trump"],
+    "whatHappened": "A federal jury in the Southern District of New York found Live Nation Entertainment and its subsidiary Ticketmaster liable for illegally monopolizing the US concert ticketing market. The verdict came after a six-week trial. The Department of Justice, which had co-led the case with states for two years, settled with Live Nation mid-trial in exchange for structural remedies that 33 state attorneys general and Washington, D.C. considered insufficient. The states refused the settlement terms and continued to verdict. The judge will now determine what remedies, potentially including a structural breakup, Live Nation must implement. Live Nation also agreed Tuesday to pay $9.9 million to settle a separate DC deceptive pricing lawsuit.",
+    "bottomLine": "The DOJ gave up. Thirty-three state AGs did not. The verdict is what antitrust enforcement looks like when the federal government treats the problem as solved and the states treat it as started.",
+    "hiddenBets": [
+      {
+        "assumption": "The verdict means ticket prices will fall",
+        "whyItMightBeWrong": "Remedies are determined by the judge, not the jury, and a structural remedy that actually creates competition in ticketing would take years to implement. Live Nation could comply with behavioral remedies, maintain its vertical integration, and prices would change very little. The Eras Tour debacle has already happened and it took more than that to produce this case."
+      },
+      {
+        "assumption": "The DOJ's settlement was a betrayal of the case",
+        "whyItMightBeWrong": "The DOJ may have calculated that a settlement with guaranteed structural remedies was more durable than a jury verdict that Live Nation would appeal for five years. The states took the gambling move. It paid off. That does not mean the DOJ was corrupt. It may have been wrong, but wrong and corrupt are different things."
+      },
+      {
+        "assumption": "This verdict sets a precedent for breaking up other large platform companies",
+        "whyItMightBeWrong": "Live Nation's monopoly is unusually visible and vertically integrated in a way that is rare in tech. The company controlled venues, promoters, and ticketing simultaneously. That structural fact made the case winnable. Platform companies with more diffuse market power face harder antitrust cases even if they are equally harmful."
+      }
+    ],
+    "realDisagreement": "The real fork is between two theories of what antitrust enforcement is for. Version one: antitrust is a tool to restore competition so prices fall and consumers benefit; break up Live Nation and let the market work. Version two: antitrust is fundamentally about power, and market concentration is harmful even when prices are not obviously elevated; the verdict is a statement about who should control access to culture. These are not the same goal. Structural remedies that restore price competition may not address the power version, and vice versa. The states won on both arguments simultaneously without having to choose. The remedies phase will force the choice. The lean is toward version one dominating in court but version two being the reason people actually care about the case.",
+    "whatNoOneIsSaying": "Live Nation's leverage during the remedies phase is enormous. Breaking up a company that controls venues, promoters, and ticketing requires either selling assets to buyers who can actually run them or licensing access to competitors who do not yet exist. If no viable buyers appear for Ticketmaster's core infrastructure, the judge faces a choice between a remedies order that sounds strong and does nothing, or one that disrupts an industry without creating a better alternative.",
+    "whoPays": [
+      {
+        "who": "Live Nation shareholders",
+        "how": "The stock faces uncertainty through the remedies phase, which could last 18-24 months. If divestiture is ordered, the company's valuation depends on what it sells and at what price.",
+        "when": "Over the next 2 years during remedies proceedings"
+      },
+      {
+        "who": "Independent promoters and venue operators",
+        "how": "A genuine structural remedy would require Live Nation to stop bundling promotion and venue access. This would benefit independent operators immediately by removing the competitive disadvantage built into the current system.",
+        "when": "If and when divestiture is actually implemented"
+      },
+      {
+        "who": "State AGs' political careers",
+        "how": "This verdict is the highest-profile consumer antitrust win in years. Letitia James and Jonathan Skrmetti are both named in the Rolling Stone op-ed. This is not a cost. It is a significant political benefit for both.",
+        "when": "Immediately, as coverage continues"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Behavioral remedy, no breakup",
+        "whatHappens": "The judge orders Live Nation to change specific practices, restrict bundling, and increase transparency, but does not require divestiture. Live Nation complies on paper, competes effectively against weaker competitors, prices stay high, and the case is cited for the next decade as a failure of antitrust remedies.",
+        "signal": "Live Nation's lawyers begin filing briefs arguing that structural remedies are disproportionate within the next 60 days"
+      },
+      {
+        "name": "Ticketmaster divestiture ordered",
+        "whatHappens": "The judge orders Live Nation to divest Ticketmaster as a separate company. The process takes 2-3 years. A buyer emerges, possibly a private equity firm, and creates a genuinely independent ticketing competitor. Concert prices fall modestly over 5 years.",
+        "signal": "The judge's initial remedy order references the 2000 AT&T breakup as precedent within 90 days of verdict"
+      },
+      {
+        "name": "Appeal delays everything",
+        "whatHappens": "Live Nation immediately appeals the verdict. The appeals process takes 3-4 years. No remedies are implemented during that time. The case becomes a symbol of why antitrust verdicts do not change industry structure.",
+        "signal": "Live Nation files its notice of appeal within 30 days, before the remedies phase concludes"
+      }
+    ],
+    "whatWouldChange": "If the remedies phase produces a genuine structural separation, and if an independent Ticketmaster competitor actually lowers service fees within two years, the bottom line holds and is confirmed. If instead the case ends in behavioral remedies and Live Nation continues to dominate, the verdict was a legal win with no economic consequence, and the DOJ's settlement was the less naive outcome."
+  }
+}
