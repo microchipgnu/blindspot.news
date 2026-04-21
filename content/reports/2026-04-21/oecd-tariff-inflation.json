@@ -1,0 +1,112 @@
+{
+  "id": "oecd-tariff-inflation",
+  "date": "2026-04-21",
+  "generatedAt": "2026-04-21T13:00:00Z",
+  "title": "The OECD Says Tariffs Pushed US Inflation to 4.2 Percent. The Market Does Not Believe a Recession Is Coming.",
+  "subtitle": "Every major forecasting institution is revising US growth down and inflation up, attributing both directly to tariffs. Polymarket still prices a recession at 24.5%. One of them is badly wrong.",
+  "topic": "economy",
+  "category": "decision",
+  "tags": ["tariffs", "inflation", "recession", "OECD", "IMF", "Federal Reserve", "Goldman Sachs", "economy"],
+  "coverImage": {
+    "url": "https://www.counterpunch.org/wp-content/uploads/2026/04/Screenshot-2026-04-20-at-3.55.48-PM-949x630.png",
+    "local": "/images/reports/2026-04-21/oecd-tariff-inflation.jpg",
+    "credit": "CounterPunch"
+  },
+  "sources": [
+    {
+      "url": "https://www.counterpunch.org/2026/04/21/countdown-to-recession/",
+      "publisher": "CounterPunch",
+      "angle": "OECD March 2026 Interim Economic Outlook revised US inflation up 1.2 percentage points to 4.2%, highest in the G7; attributes the cause directly to tariffs"
+    },
+    {
+      "url": "https://sg.finance.yahoo.com/news/goldman-sachs-drops-cautious-signal-043700912.html",
+      "publisher": "Yahoo Finance / The Street",
+      "angle": "Goldman Sachs warns that oil-driven inflation from the Iran war could complicate the Fed's rate path; the energy shock is adding to the tariff shock"
+    },
+    {
+      "url": "https://cryptobriefing.com/gunvor-warns-global-recession-risk-if-strait-of-hormuz-stays-closed-three-months/",
+      "publisher": "Crypto Briefing",
+      "angle": "Gunvor, a major commodity trading firm, warns that if the Strait of Hormuz stays closed three months, global recession risk becomes serious; three-month threshold is approaching"
+    },
+    {
+      "url": "https://www.bnpparibas-am.com/en-be/professional-investor/front-of-mind/take-two-ecb-revises-eurozone-inflation-forecast-up/",
+      "publisher": "BNP Paribas Asset Management",
+      "angle": "IMF revised global growth down to 3.1% from 3.3%; Middle East war could slow global expansion to 2%; ECB also raised eurozone inflation forecast"
+    },
+    {
+      "url": "https://www.economicnewstoday.com/world/global-trade-in-2026-tariff-war-impact-on-businesses-and-world-economy/",
+      "publisher": "Economic News Today",
+      "angle": "Broad overview of 2026 trade disruption; SCOTUS tariff ruling early in the year changed the legal baseline, enabling the broader tariff structure"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Federal Reserve", "OECD", "IMF", "Goldman Sachs", "China"],
+    "whatHappened": "The OECD's March 2026 Interim Economic Outlook revised US inflation upward by 1.2 percentage points to 4.2%, the highest rate in the G7, attributing the cause directly to tariffs. The IMF simultaneously revised global growth down to 3.1% from its January forecast of 3.3%, warning that the Middle East war could push growth to 2%. Goldman Sachs issued a cautious note on Fed rate cuts, characterizing the US situation as an inflation shock driven by tariffs and energy rather than excess demand. Gunvor, one of the world's largest commodity trading firms, warned that three months of Strait of Hormuz closure would trigger global recession risk. Consumer inflation expectations have risen to 3.4%, a level last seen during the 2022 inflation surge.",
+    "bottomLine": "The major forecasting institutions agree on what is happening: tariffs are producing inflation, the Iran war is compounding it through energy prices, and growth is slowing. The question is not whether the diagnosis is right. It is whether the Fed can fix stagflation without causing a recession, and there is no evidence it can.",
+    "hiddenBets": [
+      {
+        "assumption": "The 24.5% Polymarket recession probability is an accurate assessment of risk",
+        "whyItMightBeWrong": "Polymarket is pricing a formal recession, defined as two consecutive quarters of negative GDP growth. But the combination of 4.2% inflation, slowing growth, and a Fed that cannot cut rates without re-igniting inflation is stagflation, and stagflation does not require a formal recession to be economically devastating for households. The market measure misses the real harm."
+      },
+      {
+        "assumption": "The Fed will cut rates in 2026 once inflation moderates",
+        "whyItMightBeWrong": "Tariff-driven inflation does not respond to interest rate cuts. Raising rates would slow growth further without reducing the cost of goods that are expensive because of import duties, not because of credit creation. The Fed's standard toolkit is a bad fit for the problem, and Powell has said as much. Goldman's cautious signal on cuts may be understating how long the constraint lasts."
+      },
+      {
+        "assumption": "A trade deal with China or a ceasefire in the Strait of Hormuz would reverse the inflation trend quickly",
+        "whyItMightBeWrong": "Supply chain pricing adjustments are asymmetric: they go up fast and come down slowly. Companies that raised prices in response to tariff uncertainty do not immediately lower them when uncertainty resolves. The 1.2 percentage point inflation increase will not reverse in the same timeframe it took to accumulate."
+      }
+    ],
+    "realDisagreement": "The genuine fork is whether the tariff-inflation relationship is temporary or structural. The temporary view holds that tariffs are a negotiating tactic, deals get done, import prices normalize, and inflation retreats. The structural view holds that the US is in the process of de-linking its supply chains from China permanently, and that this re-industrialization is inherently inflationary for a decade or more. The temporary view is what equity markets are pricing. The structural view is what the OECD's forecast implies. They cannot both be right. The structural view means that anyone expecting rate cuts to arrive in 2026 or 2027 is misreading the situation.",
+    "whatNoOneIsSaying": "The OECD directly named tariffs as the cause of the US inflation spike, not the Iran war, not Biden-era spending, not wages. That attribution puts the administration in the unusual position of having caused, through deliberate policy, the highest inflation in the G7. Every previous president who faced high inflation inherited it or blamed external shocks. This one owns it structurally, and the political communication around it has not caught up to that fact.",
+    "whoPays": [
+      {
+        "who": "US households in the bottom two income quintiles",
+        "how": "They spend a higher proportion of income on goods subject to tariffs: imported electronics, clothing, food-adjacent products. A 4.2% inflation rate with wages growing at 3.5% is a real wage cut for most workers.",
+        "when": "Ongoing, compounding monthly"
+      },
+      {
+        "who": "Small and mid-sized US manufacturers dependent on Chinese inputs",
+        "how": "They cannot absorb input cost increases the way large companies can, and they cannot pass all costs through to customers without losing business. The tariff structure was designed for political messaging, not precision targeting.",
+        "when": "Ongoing; companies in industries like electronics assembly and apparel are already closing"
+      },
+      {
+        "who": "Fixed-income retirees",
+        "how": "Their purchasing power is being eroded by inflation they did not cause and cannot hedge. Social Security cost-of-living adjustments lag actual inflation by months and use a CPI basket that understates their actual spending.",
+        "when": "Ongoing"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Soft landing",
+        "whatHappens": "Trade deals reduce tariff rates on key goods by Q3 2026. The Iran ceasefire holds or is extended. Oil prices stabilize. Inflation falls back to 3% by year-end. The Fed cuts rates once in December. Growth is slow but positive.",
+        "signal": "A US-China trade framework announced before July 2026 with specific tariff rollbacks on consumer goods."
+      },
+      {
+        "name": "Stagflation plateau",
+        "whatHappens": "Inflation remains at 3.5-4.5% through 2026. Growth stays at 1.0-1.5%. The Fed holds rates steady, unable to cut without risking inflation reacceleration. Wage growth stalls. Political pressure on the Fed intensifies.",
+        "signal": "Q2 2026 GDP print comes in below 1.5% annualized with CPI above 3.5%."
+      },
+      {
+        "name": "Recession trigger",
+        "whatHappens": "Strait of Hormuz closure extends beyond three months, oil spikes to $130+. Tariff inflation hits 5.5%. Consumer spending contracts sharply. Unemployment rises. The economy meets the technical definition of recession by Q4 2026.",
+        "signal": "Gunvor's three-month threshold breached; consumer confidence index falls below 70."
+      }
+    ],
+    "whatWouldChange": "If the Iran ceasefire is extended and a US-China trade deal produces meaningful tariff rollbacks before June 2026, the stagflation thesis weakens considerably. The economy could then find a path where inflation retreats to 2.5-3% without a recession. That would validate the market's 24.5% recession odds as roughly right.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "US recession by end of 2026?",
+        "url": "https://polymarket.com/event/us-recession-by-end-of-2026",
+        "probability": 0.245
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will monthly inflation increase by 0.5% in April?",
+        "url": "https://polymarket.com/event/april-inflation-us-monthly",
+        "probability": 0.395
+      }
+    ]
+  }
+}

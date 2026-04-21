@@ -1,0 +1,101 @@
+{
+  "id": "nvidia-china-h200-block",
+  "date": "2026-04-21",
+  "generatedAt": "2026-04-21T13:00:00Z",
+  "title": "China Blocked Nvidia's H200 Chips Even After Trump Gave the Green Light",
+  "subtitle": "The White House approved the deal. Beijing's customs officials stopped it anyway. The chip war now has two fronts: one in Washington, one inside the US bureaucracy.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["nvidia", "china", "semiconductors", "export-controls", "trade-war", "AI"],
+  "coverImage": {
+    "url": "https://i0.wp.com/cdn.mos.cms.futurecdn.net/JnpwGz9EQ7WPv7peZQsunM-2560-80.jpg?ssl=1",
+    "local": "/images/reports/2026-04-21/nvidia-china-h200-block.jpg",
+    "credit": "Tom's Hardware"
+  },
+  "sources": [
+    {
+      "url": "https://en.azvision.az/news/196031/nvidia-suppliers-halt-h200-output-after-china-blocks-chip-shipments.html",
+      "publisher": "AzVision / Financial Times",
+      "angle": "Suppliers paused H200 component manufacturing after Chinese customs blocked shipments, despite Trump's earlier approval of the sale"
+    },
+    {
+      "url": "https://startupnews.fyi/2026/04/14/approvals-for-nvidia-and-amd-ai-chip-exports-to-china-stall-under-government-bottleneck-20-staff-turnover-hobbles-bureau-of-industry-and-security/",
+      "publisher": "Tom's Hardware via Startup News",
+      "angle": "BIS has lost 19% of staff, approval times doubled to 76 days, and the deputy secretary personally reviews nearly every license"
+    },
+    {
+      "url": "https://thecapitalist.com/nvidia-earnings-export-control-risk/",
+      "publisher": "The Capitalist",
+      "angle": "Nvidia posted $44B in Q1 2026 revenue but took a $4.5B write-down on chips it cannot ship; export control risk is structurally underpriced"
+    },
+    {
+      "url": "https://broadbandbreakfast.com/bipartisan-bill-targets-chinas-access-to-u-s-semiconductor-technology/",
+      "publisher": "Broadband Breakfast",
+      "angle": "Bipartisan MATCH Act would tighten chip export controls further, closing loopholes that let China access advanced tools via third countries"
+    }
+  ],
+  "brief": {
+    "actors": ["Nvidia", "China", "Trump", "BIS", "AMD"],
+    "whatHappened": "Chinese customs officials blocked shipments of Nvidia's H200 AI chips into China, halting production of H200 components at suppliers who make critical parts like printed circuit boards. This happened despite Trump's announcement last month that he would permit H200 sales to China, and despite Nvidia having already scaled up production in anticipation. Separately, reporting confirmed that the US Bureau of Industry and Security has lost 19% of its licensing staff since 2024, with approval times doubling to 76 days. The agency's deputy secretary is personally reviewing nearly every export license application.",
+    "bottomLine": "Trump gave Nvidia permission to sell into China, then Washington's own bureaucracy failed to process the paperwork, and then Beijing blocked the shipment anyway. Both sides are using the chip supply chain as leverage while pretending they want a deal.",
+    "hiddenBets": [
+      {
+        "assumption": "The Trump approval of H200 sales signals a genuine thaw in the chip war",
+        "whyItMightBeWrong": "China's customs block happened after Trump's announcement, suggesting Beijing does not view the H200 as a concession worth reciprocating. The chips may have been approved precisely because they are one generation behind the real prize, the H100 and Blackwell architectures."
+      },
+      {
+        "assumption": "The BIS staffing crisis is an accident of DOGE cuts",
+        "whyItMightBeWrong": "A 76-day approval timeline on strategic technology exports, with the deputy secretary personally bottlenecking each decision, functions as a de facto slow-roll on chip sales regardless of what the White House says publicly. Whether this is intentional or not, it serves the hardliners inside the administration who oppose the sales."
+      },
+      {
+        "assumption": "Nvidia's $44B quarter means export controls are not seriously hurting the company",
+        "whyItMightBeWrong": "The $4.5B write-down on unsellable chips is buried in the footnotes of a record quarter. If the China market remains closed and the BIS backlog persists, Nvidia faces a structural ceiling on revenue that no amount of data center demand in the US and Gulf can fully replace."
+      }
+    ],
+    "realDisagreement": "The actual fork is whether the US should allow China to buy older-generation AI chips as a pressure release valve that keeps Beijing from accelerating its own development, or whether any sale of advanced chips extends China's AI timeline and should be blocked regardless of generation. The pro-sale side argues that China's domestic chip industry will catch up anyway, so you might as well collect revenue and maintain leverage. The anti-sale side argues that every chip sold narrows the capability gap and that the revenue goes to a strategic competitor. The market is pricing in 77% odds that restrictions will loosen, but the BIS bottleneck and China's customs block together suggest both governments are acting as if restrictions will tighten. The market is probably wrong.",
+    "whatNoOneIsSaying": "Nvidia lobbied hard for the H200 approval and scaled up production before the paperwork cleared. The company is now caught between two governments using it as a bargaining chip while pretending to help it. Nvidia's real problem is not Washington's policy on China. It is that it structured its supply chain around a deal that neither government has any incentive to actually complete.",
+    "whoPays": [
+      {
+        "who": "Nvidia's H200 component suppliers in Taiwan and South Korea",
+        "how": "They paused production lines after investing in scaling up H200 output. Each month of uncertainty has carrying costs: idle capacity, contract penalties, workforce holding patterns.",
+        "when": "Immediate and ongoing"
+      },
+      {
+        "who": "Chinese tech companies and cloud providers waiting for H200 delivery",
+        "how": "They face higher prices and longer lead times for AI compute, accelerating their investment in domestic alternatives like Huawei's Ascend chips.",
+        "when": "Medium-term, over the next 6-12 months"
+      },
+      {
+        "who": "BIS licensing staff still at the agency",
+        "how": "19% attrition has created a workload that is growing while headcount shrinks. The remaining staff are processing 76-day backlogs for the world's most contested technology.",
+        "when": "Ongoing, compounding"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Diplomatic thaw",
+        "whatHappens": "US-China trade talks produce a framework that unblocks H200 shipments in exchange for some Chinese concession. Nvidia ships, suppliers resume production, BIS processes the backlog.",
+        "signal": "China customs lifts the informal block without requiring a formal policy announcement."
+      },
+      {
+        "name": "Bureaucratic stalemate",
+        "whatHappens": "The BIS backlog persists, China's customs block holds, and Nvidia's H200 sales into China remain at zero even as the political approval stays nominally in place. Both governments can claim they want a deal without either having to make one.",
+        "signal": "BIS approval times remain above 60 days through June 2026."
+      },
+      {
+        "name": "Escalation",
+        "whatHappens": "China formalizes the H200 ban as a regulatory measure, the MATCH Act passes, and the US restricts additional chip architectures. The chip war widens from AI processors to include chipmaking equipment.",
+        "signal": "China's Ministry of Commerce issues a formal notice restricting H200 imports rather than relying on customs discretion."
+      }
+    ],
+    "whatWouldChange": "If Nvidia confirms actual H200 deliveries into China or if BIS reduces its average processing time below 40 days, both would signal the logjam is breaking. Either event would make the diplomatic thaw scenario the base case.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will NVIDIA (NVDA) close above $200 on April 21?",
+        "url": "https://polymarket.com/event/nvda-close-above-on-april-21-2026",
+        "probability": 0.725
+      }
+    ]
+  }
+}

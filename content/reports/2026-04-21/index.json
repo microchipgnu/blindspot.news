@@ -1,6 +1,6 @@
 {
   "date": "2026-04-21",
-  "generatedAt": "2026-04-21T08:25:00Z",
+  "generatedAt": "2026-04-21T13:00:00Z",
   "reports": [
     {
       "id": "iran-ceasefire-deadline",
@@ -30,6 +30,36 @@
       "id": "pa-medicaid-abortion",
       "title": "Pennsylvania Court Strikes Down Medicaid Abortion Ban, Opening the Next Front in the Post-Dobbs War",
       "subtitle": "The ruling uses the state constitution's Equal Rights Amendment to establish a fundamental right to reproductive autonomy. That's a legal argument designed to survive federal courts.",
+      "category": "ethics"
+    },
+    {
+      "id": "nvidia-china-h200-block",
+      "title": "China Blocked Nvidia's H200 Chips Even After Trump Gave the Green Light",
+      "subtitle": "The White House approved the deal. Beijing's customs officials stopped it anyway. The chip war now has two fronts: one in Washington, one inside the US bureaucracy.",
+      "category": "power"
+    },
+    {
+      "id": "virginia-redistricting-vote",
+      "title": "Virginia Voters Decide Today Whether Democrats Can Gerrymander Back",
+      "subtitle": "Nearly $100 million spent on a ballot measure that bypasses Virginia's own bipartisan commission. The redistricting wars Trump started now require Democrats to become what they said they were against.",
+      "category": "power"
+    },
+    {
+      "id": "taiwan-strait-pla-balikatan",
+      "title": "China Sent a Carrier Through the Taiwan Strait on the Same Day Japan Did",
+      "subtitle": "The PLA's Liaoning and Japan's Ikazuchi transited the strait within 24 hours of each other. This is not a coincidence. It is a demonstration of who controls the calendar of escalation.",
+      "category": "conflict"
+    },
+    {
+      "id": "oecd-tariff-inflation",
+      "title": "The OECD Says Tariffs Pushed US Inflation to 4.2 Percent. The Market Does Not Believe a Recession Is Coming.",
+      "subtitle": "Every major forecasting institution is revising US growth down and inflation up, attributing both directly to tariffs. Polymarket still prices a recession at 24.5%. One of them is badly wrong.",
+      "category": "decision"
+    },
+    {
+      "id": "epa-air-rollback",
+      "title": "Trump's EPA Cuts Are Making the Air Dirtier. The People Breathing It Cannot Afford to Move.",
+      "subtitle": "DOGE-driven EPA staff cuts have gutted enforcement capacity in the same states where air quality was already failing federal standards. The regulatory apparatus still exists on paper. It has stopped functioning.",
       "category": "ethics"
     }
   ]

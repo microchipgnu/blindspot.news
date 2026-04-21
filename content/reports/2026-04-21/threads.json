@@ -4,7 +4,7 @@
     {
       "id": "institutions-under-pressure",
       "title": "Which Institutions Still Have Independent Authority?",
-      "description": "Three of today's five stories are about the same underlying question: can an institution maintain autonomous decision-making when the political environment has decided it should not? The Fed chair nominee is performing independence for senators while everyone knows the president wants rate cuts. The SCOTUS is being asked to reshape the boundary between religious freedom and public obligation. The Pennsylvania court is using its own constitution to carve out space federal courts cannot touch. Each story is a test case for how much independence survives direct political and legal pressure.",
+      "description": "Three of today's earlier stories are about the same underlying question: can an institution maintain autonomous decision-making when the political environment has decided it should not? The Fed chair nominee is performing independence for senators while everyone knows the president wants rate cuts. The SCOTUS is being asked to reshape the boundary between religious freedom and public obligation. The Pennsylvania court is using its own constitution to carve out space federal courts cannot touch. Each story is a test case for how much independence survives direct political and legal pressure.",
       "type": "tension-cluster",
       "stories": ["warsh-fed-confirmation", "scotus-catholic-preschool", "pa-medicaid-abortion"],
       "connections": [
@@ -36,6 +36,34 @@
           "from": "warsh-fed-confirmation",
           "to": "iran-ceasefire-deadline",
           "relationship": "Premature rate cuts under Warsh that reignite inflation would weaken US financial leverage over China and oil-exporting nations at the exact moment Trump is using the Hormuz blockade as a geopolitical pressure tool; monetary policy and military strategy are working in opposite directions."
+        }
+      ]
+    },
+    {
+      "id": "chip-war-three-fronts",
+      "title": "The Semiconductor War Is Being Fought in Washington, Beijing, and the Taiwan Strait at the Same Time",
+      "description": "Today's new stories reveal that the chip conflict is no longer a single bilateral dispute. China blocked Nvidia's H200 chips even after Trump approved sales, while simultaneously the PLA is conducting Taiwan Strait exercises that parallel US-Japan-Philippines Balikatan drills. The chip supply chain runs through Taiwan's TSMC. The military escalation in the strait is inseparable from the supply chain competition: China cannot win the AI race without either gaining access to advanced chips or denying the US the ability to manufacture them. Both moves are happening simultaneously.",
+      "type": "dependency-web",
+      "stories": ["nvidia-china-h200-block", "taiwan-strait-pla-balikatan"],
+      "connections": [
+        {
+          "from": "nvidia-china-h200-block",
+          "to": "taiwan-strait-pla-balikatan",
+          "relationship": "China's customs block on Nvidia H200 chips signals that Beijing views chip access as a political variable to be controlled; the concurrent Liaoning carrier transit through the Taiwan Strait, where TSMC's fabs are located, means China is simultaneously pressuring the demand side (blocking imports) and the supply side (demonstrating military reach over the world's leading chipmaker)."
+        }
+      ]
+    },
+    {
+      "id": "deregulation-as-enforcement-collapse",
+      "title": "The Real Deregulation Is Not Rule Repeal. It Is Stopping the People Who Enforce the Rules.",
+      "description": "Two of today's stories are structurally identical despite appearing unrelated: the EPA story and the BIS/chip-approval bottleneck story both describe the same mechanism. Regulatory capacity has been gutted not through formal rule changes, which require process and face legal challenge, but through staff attrition and bureaucratic paralysis. The EPA cannot enforce air quality standards it no longer has staff to monitor. BIS cannot approve chip exports on a timeline that allows deals to close. In both cases, the policy outcome was achieved by dismantling the institutional capacity to implement the policy, while leaving the policy itself on the books.",
+      "type": "tension-cluster",
+      "stories": ["epa-air-rollback", "nvidia-china-h200-block"],
+      "connections": [
+        {
+          "from": "epa-air-rollback",
+          "to": "nvidia-china-h200-block",
+          "relationship": "DOGE's EPA staff cuts eliminated enforcement capacity without touching the underlying regulations; BIS's 19% staff loss doubled approval times and bottlenecked chip export deals the White House publicly approved. Both are examples of deregulation-through-attrition: the rules remain, the institution cannot function."
         }
       ]
     }
