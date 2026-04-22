@@ -161,6 +161,58 @@
           "relationship": "Warsh's confirmation would install a Fed chair who pledged independence but owes his position to presidential pressure, converting personnel selection into an informal policy mechanism; CEOs are already treating tariffs as permanent despite SCOTUS striking down the legal authority, converting executive behavior into planning infrastructure. Both are cases where formal legal reversal does not restore the pre-existing institutional condition."
         }
       ]
+    },
+    {
+      "id": "federal-preemption-as-weapon",
+      "title": "Three Stories Today Use Federal Power to Kill State Action. The Direction Depends on Who Benefits.",
+      "description": "The SECURE Data Act, the pharma tariff story, and the Virginia redistricting fight all involve federal power overriding state-level decisions, but the targets are different enough that neither party has a consistent principle. Republicans are using federal preemption to kill California's privacy law, which is a conservative victory. The same administration is using Section 232 to override the pharmaceutical market decisions of companies in states with strong drug-pricing laws, which is a centralization of economic control. Virginia Democrats bypassed a state commission to produce partisan maps, which Republicans immediately asked federal courts to strike down. All three parties invoke federalism when it serves them and abandon it when it does not. The operational rule is not federalism; it is preference laundered through whichever level of government will produce the desired outcome.",
+      "type": "tension-cluster",
+      "stories": ["secure-data-act-preemption", "pharma-tariffs-drug-supply", "virginia-redistricting-arms-race"],
+      "connections": [
+        {
+          "from": "secure-data-act-preemption",
+          "to": "pharma-tariffs-drug-supply",
+          "relationship": "The SECURE Data Act uses total federal preemption to wipe out California's strong privacy law in the name of simplifying compliance; the pharma tariff uses federal Section 232 authority to override pharmaceutical market decisions in the name of national security. Both use federal authority to eliminate state-level regulatory variation, but in one case the beneficiary is the tech industry and in the other it is the executive's political leverage over drug pricing."
+        },
+        {
+          "from": "virginia-redistricting-arms-race",
+          "to": "secure-data-act-preemption",
+          "relationship": "Virginia Democrats bypassed a state nonpartisan commission to produce gerrymandered maps favorable to their party, then Republicans demanded federal courts intervene; Republicans in Congress are simultaneously using federal preemption to override California's more protective state privacy law. Both parties use whichever level of government produces their preferred outcome, then invoke the opposing principle when the other side does the same."
+        }
+      ]
+    },
+    {
+      "id": "iran-war-costs-are-not-in-the-ceasefire-coverage",
+      "title": "Every Domestic Economy Story Today Is Secretly an Iran War Story",
+      "description": "The pharma tariff story and the Warsh Fed confirmation are being covered as separate economic issues: drug prices and monetary policy. They are both downstream of the same fact: the Iran war has driven Brent crude from $72 to nearly $120 per barrel, the largest monthly oil price surge since the Russia-Ukraine war. The pharma supply chain disruption is not primarily about tariffs; air freight costs above a war zone and Red Sea rerouting have already increased pharmaceutical logistics costs before a single tariff takes effect. Warsh's problem is not an interest rate question; it is a stagflation question caused by an energy shock the Fed cannot directly address. The Iran ceasefire extension story covered earlier today treats the war as a diplomatic event. These two economic stories reveal what that war actually costs, and who is paying.",
+      "type": "cause-effect",
+      "stories": ["pharma-tariffs-drug-supply", "warsh-fed-independence", "iran-ceasefire-deadlock"],
+      "connections": [
+        {
+          "from": "iran-ceasefire-deadlock",
+          "to": "pharma-tariffs-drug-supply",
+          "relationship": "The Iran war closed the Strait of Hormuz and disrupted the Red Sea shipping corridor, increasing pharmaceutical air freight costs and creating supply chain exposure for drugs sourced in Jordan and Israel; the pharma tariffs taking effect in July compound this disruption by adding cost pressure to a supply chain already operating near its limits."
+        },
+        {
+          "from": "iran-ceasefire-deadlock",
+          "to": "warsh-fed-independence",
+          "relationship": "The Iran war drove the largest monthly oil price surge since Russia-Ukraine, generating simultaneous inflation pressure and growth risk that creates the exact stagflation scenario Warsh has never navigated; his hawkish instincts favor rate increases to fight inflation, but the growth risk from an energy shock argues for cuts, and he will be confirmed into a position where both are simultaneously correct and incompatible."
+        }
+      ]
+    },
+    {
+      "id": "russia-probing-while-west-looks-away",
+      "title": "Russia Is Running Two Simultaneous Tests: One in Ukraine and One in the Baltic",
+      "description": "The NATO Baltic bomber intercepts and the Ukraine ceasefire push are being covered as separate stories about different theaters. They are a coordinated posture. Russia is simultaneously testing whether Zelenskyy can force a direct summit that bypasses US-mediated talks (which would let Russia negotiate without American oversight) and testing NATO's Baltic response times during a period when Western political attention is consumed by Iran. The Dutch MIVD report says Russia needs one year after a Ukraine ceasefire to be ready for a NATO challenge. The Baltic provocations are not a separate phenomenon from the ceasefire negotiation; they are the preparation phase of the timeline the Dutch are warning about. Ukraine asking Turkey to host a leaders-level summit and Russia sending nuclear bombers over the Baltic on the same day is not a coincidence.",
+      "type": "dependency-web",
+      "stories": ["nato-russia-baltic-provocations", "russia-nato-one-year"],
+      "connections": [
+        {
+          "from": "nato-russia-baltic-provocations",
+          "to": "russia-nato-one-year",
+          "relationship": "Russia's five Baltic intercepts in eight days are occurring while NATO's political attention is on Iran and while ceasefire negotiations are active in Ukraine; the Dutch MIVD report says Russia needs one year after a ceasefire to rearm for a NATO challenge. The Baltic provocations are data collection operations occurring during the window of opportunity that ceasefire negotiations create."
+        }
+      ]
     }
   ]
 }

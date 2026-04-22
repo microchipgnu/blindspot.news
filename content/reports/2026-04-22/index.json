@@ -97,6 +97,36 @@
       "title": "The Supreme Court Is About to Rule on Birthright Citizenship. The Outcome May Turn on a Single Word from 1868.",
       "subtitle": "Whether millions of US-born children of undocumented immigrants remain citizens may depend on how SCOTUS defines 'domicile' in the 14th Amendment. The court already signaled doubt about Trump's position. The market puts his odds at 8%.",
       "category": "power"
+    },
+    {
+      "id": "virginia-redistricting-arms-race",
+      "title": "Virginia Voters Approved a Gerrymander. Both Parties Cheered for Democracy While Doing It.",
+      "subtitle": "Virginia's redistricting vote passed 51-49 and could flip 4 House seats to Democrats. It also could be nullified by the state Supreme Court within weeks. The national gerrymandering arms race is nearly over, and nobody won.",
+      "category": "power"
+    },
+    {
+      "id": "secure-data-act-preemption",
+      "title": "Republicans Want a National Privacy Law. The Price Is Wiping Out California's.",
+      "subtitle": "The SECURE Data Act would give Americans the right to delete their data and opt out of targeted ads. It would also kill every state privacy law in the country and strip consumers of any right to sue. The tech industry is quietly thrilled.",
+      "category": "power"
+    },
+    {
+      "id": "harvard-graduate-strike",
+      "title": "Harvard's Grad Workers Are Striking for Wages. They're Also Striking Against ICE.",
+      "subtitle": "4,000 graduate workers walked off the job at one of the world's wealthiest universities. The demands mix pay parity with immigration protections in a way Harvard cannot easily split. That's the point.",
+      "category": "conflict"
+    },
+    {
+      "id": "nato-russia-baltic-provocations",
+      "title": "Russia Sent Nuclear Bombers Over the Baltic Five Times in Eight Days. The West Was Watching Iran.",
+      "subtitle": "Six NATO nations scrambled jets to intercept Russian Tu-22M3 bombers carrying live missiles on April 20. It was the fifth intercept in eight days. Russia is probing NATO's eastern flank while the alliance's attention is in the Middle East.",
+      "category": "conflict"
+    },
+    {
+      "id": "pharma-tariffs-drug-supply",
+      "title": "Trump's 100% Pharma Tariffs Land in July. The Supply Chain Is Already Failing.",
+      "subtitle": "Section 232 tariffs on branded drugs take effect this summer. The Iran war is already disrupting pharmaceutical logistics. Nearly half of the 100 most vulnerable medicines depend on a single country for a key ingredient. The timing is not an accident.",
+      "category": "power"
     }
   ]
 }

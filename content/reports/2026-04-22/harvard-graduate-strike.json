@@ -1,0 +1,93 @@
+{
+  "id": "harvard-graduate-strike",
+  "date": "2026-04-22",
+  "generatedAt": "2026-04-22T22:30:00Z",
+  "title": "Harvard's Grad Workers Are Striking for Wages. They're Also Striking Against ICE.",
+  "subtitle": "4,000 graduate workers walked off the job at one of the world's wealthiest universities. The demands mix pay parity with immigration protections in a way Harvard cannot easily split. That's the point.",
+  "topic": "society",
+  "category": "conflict",
+  "tags": ["Harvard", "UAW", "grad workers", "strike", "ICE", "immigration", "labor", "university"],
+  "coverImage": {
+    "url": "https://thumbnails.thecrimson.com/photos/2026/04/21/194508_1385857.jpg.2000x1333_q95_crop-smart_upscale.jpg",
+    "local": "/images/reports/2026-04-22/harvard-graduate-strike.jpg",
+    "credit": "The Harvard Crimson"
+  },
+  "sources": [
+    {
+      "url": "https://www.wsws.org/en/articles/2026/04/22/craq-a22.html",
+      "publisher": "World Socialist Web Site",
+      "angle": "Far-left framing: Harvard Corporation is engaging in class warfare, union bureaucracy is designed to contain rather than advance the struggle. Urges rank-and-file committees independent of UAW apparatus. Useful for understanding the left critique of the union leadership's conduct."
+    },
+    {
+      "url": "https://www.thecrimson.com/article/2026/4/22/mackay-hgsu-strike/",
+      "publisher": "The Harvard Crimson",
+      "angle": "On-the-ground reporting: former HGSU president returning to picket line. Emphasizes how political pressures from Trump administration (deportations, visa revocations) have made this round feel different. Local political figures joining."
+    },
+    {
+      "url": "https://www.thecrimson.com/article/2026/4/22/sc-plaza-largest-showing-yet/",
+      "publisher": "The Harvard Crimson",
+      "angle": "Strike activity: largest showing yet at Science Center. Chants include 'ICE off campus.' Describes expanding picketing across campus. Local officials showing up in solidarity."
+    },
+    {
+      "url": "https://www.thecrimson.com/article/2026/4/22/hgsu-strike-picketing-expands/",
+      "publisher": "The Harvard Crimson",
+      "angle": "Coverage of picket expansion and traffic blockades. Shows the strike is actively disrupting campus operations."
+    }
+  ],
+  "brief": {
+    "actors": ["Harvard", "UAW", "HGSU-UAW", "Trump", "ICE"],
+    "whatHappened": "On April 21, approximately 4,000 Harvard graduate student workers represented by the Harvard Graduate Student Union-United Auto Workers launched an indefinite strike, suspending teaching, grading, and laboratory research. The workers are demanding wages that match the Boston cost of living (Teaching Fellows currently earn $18-21 per hour, against a documented need for a 74% increase to achieve parity with Research Assistants), as well as protections for non-citizen workers against ICE enforcement and third-party arbitration for harassment and discrimination cases. After 14 months of negotiations and more than 20 bargaining sessions, 23 proposals remain unresolved. Harvard's clerical and technical workers separately signed a one-year deal earlier this month, which critics say was designed to isolate the graduate workers.",
+    "bottomLine": "Harvard is using a divide-and-conquer strategy that has worked before, and the union is trying to make it fail by bundling wages with immigration protections that the university cannot grant without making a public political statement it is not prepared to make.",
+    "hiddenBets": [
+      {
+        "assumption": "Harvard will eventually negotiate a contract that addresses both wage and immigration demands",
+        "whyItMightBeWrong": "ICE protections are not a labor contract matter in the conventional sense. Harvard cannot contractually prevent ICE from entering campus; it can only adopt institutional policies. The union is asking for something the university can only deliver politically, not legally. This sets up a negotiation where Harvard can agree to language while retaining the power to interpret it narrowly when enforcement actually comes."
+      },
+      {
+        "assumption": "The HUCTW one-year deal weakens the graduate workers' position",
+        "whyItMightBeWrong": "If HUCTW members reject the deal at their May 12-13 ratification vote, the isolated settlement collapses and three unions are simultaneously in conflict with Harvard. The divide-and-conquer strategy only works if the clerical workers ratify. That vote is the most important piece of leverage in this dispute that nobody is watching."
+      },
+      {
+        "assumption": "This strike is primarily about wages",
+        "whyItMightBeWrong": "The wage gap is real and severe, but the political demands around ICE are the ones that make this strike structurally different from the 2019 and 2021 actions. This strike is asking Harvard to take an institutional position on immigration enforcement against the Trump administration. Harvard has been in a sustained conflict with the administration over research funding and student visa revocations. The strike is trying to force Harvard to make its resistance explicit rather than institutional."
+      }
+    ],
+    "realDisagreement": "The central fork is whether a labor contract is the right instrument to protect immigrant workers from federal enforcement. Union supporters say contract protections create institutional commitments Harvard must defend publicly. Critics say this conflates workplace protection with political advocacy and weakens the wage argument by attaching demands the university legitimately cannot meet through collective bargaining. I lean toward the union's side on this: Harvard has $53 billion and is already fighting the administration over research funding. Demanding explicit institutional protection for workers it employs is not a category error; it is a consequence of Harvard having chosen to recruit international students and then benefit from their labor.",
+    "whatNoOneIsSaying": "Harvard's $53 billion endowment is subject to a new federal endowment tax under legislation pushed by the Trump administration. Harvard is simultaneously in a budget squeeze (frozen federal grants, endowment taxes) and a financial position that makes its claimed inability to pay a 74% wage increase to Teaching Fellows implausible. The university is choosing to fund other priorities rather than being unable to fund worker wages.",
+    "whoPays": [
+      {
+        "who": "Undergraduates enrolled in courses with striking Teaching Fellows",
+        "how": "Classes suspended or moved to Zoom; grading delayed; lab work halted. The strike directly degrades the product Harvard is selling to undergraduates at $85,000+ per year.",
+        "when": "Immediate, throughout the strike"
+      },
+      {
+        "who": "International graduate students without alternative income",
+        "how": "Striking means forgoing $18-21 per hour in a high cost-of-living city. Workers whose visa status depends on their enrollment and employment are in the most precarious position: striking creates financial risk while the alternative is accepting poverty wages that also create financial risk.",
+        "when": "Immediate, throughout the strike"
+      },
+      {
+        "who": "Research faculty whose labs depend on striking graduate workers",
+        "how": "Laboratory research suspended means ongoing experiments are paused or abandoned. For time-sensitive research, the cost is permanent loss of data. NIH grant timelines are unforgiving.",
+        "when": "Immediate and accumulating with each week of the strike"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "HUCTW Ratifies, Strike Isolated",
+        "whatHappens": "Clerical workers ratify their one-year deal May 12. Harvard waits out the graduate strike. The UAW apparatus, facing the same dynamic from previous strikes, settles for moderate wage increases and symbolic language on ICE that both sides can claim as a win. International student protections remain vague and unenforceable.",
+        "signal": "HUCTW ratification vote passes with significant majority; Harvard makes no new substantive wage offer in the week after"
+      },
+      {
+        "name": "HUCTW Rejects, Strike Expands",
+        "whatHappens": "Clerical workers reject the one-year deal. HAW-UAW faculty authorize a strike. Three unions are simultaneously in conflict with Harvard. The administration faces operational breakdown during exam season. Massachusetts state officials escalate intervention. Harvard makes a substantially improved offer on wages.",
+        "signal": "HUCTW ratification vote fails on May 12; HAW-UAW announces strike dates within 72 hours"
+      },
+      {
+        "name": "Federal Intervention Reshapes the Fight",
+        "whatHappens": "The Trump administration, emboldened by Harvard's refusal to hand over student data or comply with federal demands, signals support for Harvard's hardline stance. ICE sends agents to campus in connection with visa enforcement. The political nature of the immigration demands becomes impossible to separate from the labor dispute. The strike becomes a national story about something larger than wages.",
+        "signal": "ICE activity on or near Harvard campus; Trump administration publicly criticizes the strike's immigration demands"
+      }
+    ],
+    "whatWouldChange": "If Harvard offered a wage increase above 30% with a binding commitment to fund worker advocacy organizations that assist with immigration legal cases, the strike's logic collapses: the economic demand would be substantially met and the immigration protection would be operationalized through institutional funding rather than unenforceable contract language. Harvard will not do this voluntarily. It would require the strike to last long enough to threaten end-of-year institutional functions, including commencement."
+  }
+}

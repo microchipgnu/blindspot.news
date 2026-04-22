@@ -1,0 +1,93 @@
+{
+  "id": "secure-data-act-preemption",
+  "date": "2026-04-22",
+  "generatedAt": "2026-04-22T22:30:00Z",
+  "title": "Republicans Want a National Privacy Law. The Price Is Wiping Out California's.",
+  "subtitle": "The SECURE Data Act would give Americans the right to delete their data and opt out of targeted ads. It would also kill every state privacy law in the country and strip consumers of any right to sue. The tech industry is quietly thrilled.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["SECURE Data Act", "data privacy", "California", "federal preemption", "FTC", "tech regulation", "Congress"],
+  "coverImage": {
+    "url": "https://ppc.land/content/images/size/w1200/2026/04/data-new-law.jpg",
+    "local": "/images/reports/2026-04-22/secure-data-act-preemption.jpg",
+    "credit": "PPC Land"
+  },
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/04/22/data-privacy-bill-congress-states.html",
+      "publisher": "CNBC",
+      "angle": "Neutral news take: two committee chairs introduced complementary bills, Republican strategy is to secure intra-party votes first, then seek Democratic support. Notes absence of private right of action as key Democratic objection."
+    },
+    {
+      "url": "https://www.rstreet.org/commentary/congress-has-fresh-chance-to-pass-a-comprehensive-data-privacy-law/",
+      "publisher": "R Street Institute",
+      "angle": "Pro-bill conservative think tank: celebrates preemption as simplification, warns against GDPR-style regulation, argues private rights of action enrich trial lawyers more than plaintiffs."
+    },
+    {
+      "url": "https://ppc.land/secure-data-act",
+      "publisher": "PPC Land",
+      "angle": "Ad tech practitioner perspective: total preemption is the key provision. Explains what the bill means for advertising infrastructure, data broker registry, and automated decision-making scope."
+    },
+    {
+      "url": "https://www.cbia.com/news/issues-policies/senate-passes-sweeping-ai-mandates",
+      "publisher": "Connecticut Business and Industry Association",
+      "angle": "State-level context: Connecticut just passed its own sweeping AI/privacy bill. Illustrates the state-level action the federal bill would preempt, and the industry compliance burden that state-by-state variation creates."
+    }
+  ],
+  "brief": {
+    "actors": ["Congress", "FTC", "California", "Tech industry", "Democrats", "Republicans"],
+    "whatHappened": "House Republicans introduced two complementary privacy bills on April 22: the SECURE Data Act covering technology companies and the GUARD Financial Data Act covering financial services. Together they would create the first national consumer data privacy framework, giving Americans the right to access, correct, delete, and export their personal data, and to opt out of targeted advertising. The bills would also wipe out all state privacy laws through total federal preemption. Critically, neither bill includes a private right of action, meaning consumers could not sue companies for violations. Enforcement would rest with the FTC and state attorneys general operating under federal standards. House Energy and Commerce Committee Chair Brett Guthrie is backing the bills, suggesting they have momentum for committee votes next month.",
+    "bottomLine": "This bill is the privacy law that gives consumers new rights with one hand and takes away their ability to enforce those rights with the other. It is primarily designed to kill California's law, not protect Americans' data.",
+    "hiddenBets": [
+      {
+        "assumption": "Federal preemption of state laws creates a higher and more uniform privacy floor",
+        "whyItMightBeWrong": "California's CPPA has already secured million-dollar enforcement actions and runs an aggressive enforcement agenda. The SECURE Data Act hands that to the FTC, which has limited resources and a history of modest settlements. For residents in states with strong privacy laws, this bill is a downgrade dressed as an upgrade. The 'uniformity' benefit accrues primarily to companies, not consumers."
+      },
+      {
+        "assumption": "Lack of a private right of action is a Republican principle against litigation",
+        "whyItMightBeWrong": "It is a technology industry demand. Private rights of action are the mechanism that makes compliance economical to enforce at scale; without them, enforcement depends entirely on which administration controls the FTC. A privacy law with no private cause of action is a floor that can be raised or lowered entirely by executive branch enforcement discretion."
+      },
+      {
+        "assumption": "This bill will pass because both parties want national privacy legislation",
+        "whyItMightBeWrong": "Congress has tried and failed to pass comprehensive privacy legislation for at least two consecutive sessions. The same fights remain: Democrats want strong preemption rules that preserve states' ability to exceed federal standards, and they want private rights of action. Neither is in this bill. The intra-Republican splits that killed prior bills also remain: members from states with existing laws face constituent pressure to preserve them."
+      }
+    ],
+    "realDisagreement": "The genuine tension is between two things that are both true: a national privacy standard would reduce compliance costs for businesses and give Americans in weak-privacy states new rights they do not currently have. But total preemption would strip consumers in strong-privacy states of protections they currently enjoy and of enforcement mechanisms that work. You cannot fully have both. The bill's sponsors chose industry simplification over consumer enforcement. That is a defensible choice in a world where the FTC reliably enforces privacy law; it is indefensible in a world where FTC enforcement changes with each administration, which is the world we actually live in.",
+    "whatNoOneIsSaying": "The bill's strongest supporters in the tech industry are the companies whose business models are currently most constrained by California's law. Total federal preemption does not just simplify compliance; it resets the regulatory floor to whatever the federal government will actually enforce, which historically has been much less than California's standard. This is regulatory capture dressed as consumer protection.",
+    "whoPays": [
+      {
+        "who": "California consumers",
+        "how": "Currently have the right to know what data companies hold, correct it, delete it, opt out of its sale, and sue companies that violate those rights. The SECURE Data Act preserves access, correction, deletion, and opt-out rights but removes the private cause of action and displaces California's dedicated enforcement agency with the FTC.",
+        "when": "Two years after enactment, when federal law takes effect"
+      },
+      {
+        "who": "Connecticut, Virginia, and 20+ other states that passed privacy laws",
+        "how": "All of their state laws would be preempted entirely on the day the federal bill takes effect. State legislatures lose their ability to set higher standards regardless of public demand.",
+        "when": "Day of federal enactment"
+      },
+      {
+        "who": "Small businesses currently navigating state-by-state compliance",
+        "how": "Compliance costs drop significantly. The R Street Institute estimated the state patchwork costs $1 trillion over 10 years, with $200 billion falling on small businesses. This is the bill's most legitimate benefit.",
+        "when": "Phased in over one to two years after enactment"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Dies in Committee",
+        "whatHappens": "The same intra-Republican splits that killed the American Privacy Rights Act resurface. Members from California, Virginia, and other states with strong existing laws block the bill or demand carve-outs that make it unworkable. The bill stalls at committee markup, and the state patchwork continues expanding.",
+        "signal": "Chair Guthrie cannot schedule a committee vote by June, or the markup is postponed after pushback from Republican members in strong-privacy states"
+      },
+      {
+        "name": "Passes House, Dies in Senate",
+        "whatHappens": "The bill passes the House on a partisan vote. Senate Democrats block it in floor debate or through procedural maneuver, citing the lack of private right of action. The state patchwork continues. Businesses remain in the compliance maze.",
+        "signal": "Senate Majority Leader schedules the bill but Democratic senators announce they will not support any bill without private rights of action"
+      },
+      {
+        "name": "Passes with Amendments",
+        "whatHappens": "Republicans add limited private right of action for the most serious violations in order to secure enough Democratic votes. California's law is still preempted. The FTC gets significantly expanded enforcement resources as part of the deal. Companies get uniformity but face more robust federal enforcement than they expected.",
+        "signal": "Senate Judiciary Committee holds hearings specifically on the private right of action provision; bipartisan amendments proposed in markup"
+      }
+    ],
+    "whatWouldChange": "If the FTC gained significant new enforcement resources, dedicated privacy staff, and mandatory minimum penalty structures as part of the deal, the case against this bill collapses. Strong federal enforcement with uniform standards would genuinely serve consumers in states that currently have no privacy protections at all. The bill as introduced does not include those resources; the bill as negotiated might."
+  }
+}
