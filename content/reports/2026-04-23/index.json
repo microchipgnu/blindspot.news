@@ -31,6 +31,36 @@
       "title": "Russia's Oil Unlocks Europe's Money for Ukraine",
       "subtitle": "The Druzhba pipeline resumed flowing Russian crude through Ukraine, which unblocked Hungary's veto on a $105 billion EU loan to Kyiv. The pipeline is the lever that connects everything.",
       "category": "power"
+    },
+    {
+      "id": "mythos-ai-cybersecurity-weapon",
+      "title": "Anthropic Built a Cyberweapon and Decided Not to Sell It",
+      "subtitle": "Mythos can chain zero-days autonomously. The NSA is using it. The Pentagon called Anthropic a supply chain risk. None of these facts fit together cleanly.",
+      "category": "power"
+    },
+    {
+      "id": "tariff-refund-trap",
+      "title": "The Tariff Refund Is a Bill, Not a Check",
+      "subtitle": "Businesses that passed tariff costs to consumers are now eligible for government refunds. Taxpayers pay twice and the money flows to companies that already made their customers whole.",
+      "category": "power"
+    },
+    {
+      "id": "social-security-doge-closures",
+      "title": "Social Security Is Closing Its Doors",
+      "subtitle": "DOGE cut 7,500 SSA employees. Offices in 12 states are now turning away walk-ins. The agency just ended phone applications too. There is nowhere left to go.",
+      "category": "power"
+    },
+    {
+      "id": "taiwan-south-china-sea-taiping",
+      "title": "Taiwan Sends a Minister to Its Loneliest Island",
+      "subtitle": "A ministerial visit to Taiping Island after seven years signals that Taiwan is quietly expanding its South China Sea posture while the world watches the Taiwan Strait.",
+      "category": "conflict"
+    },
+    {
+      "id": "google-agentic-enterprise-shift",
+      "title": "Google Says Agents Are the Architecture Now",
+      "subtitle": "Google Cloud Next 2026 was not a product launch. It was a declaration that the unit of enterprise software has changed from applications to autonomous agents.",
+      "category": "power"
     }
   ]
 }
