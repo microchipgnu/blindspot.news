@@ -1,0 +1,93 @@
+{
+  "id": "social-media-kids-liability",
+  "date": "2026-04-23",
+  "generatedAt": "2026-04-23T22:30:00Z",
+  "title": "A Jury Said Meta and Google Addicted a Child. Congress Is About to Try to Help.",
+  "subtitle": "The $6 million verdict in KGM v. Meta cracked Section 230 on product design. Now Britt and Fetterman are pushing Senate bills that have been stalled for a year. The courts may move faster than Congress.",
+  "topic": "society",
+  "category": "ethics",
+  "tags": ["Meta", "Google", "social media", "Section 230", "children", "mental health", "liability", "Fetterman", "Britt", "legislation"],
+  "coverImage": {
+    "url": "https://www.opb.org/article/2026/04/03/social-media-verdicts-may-bring-new-era-of-tech-accountability/_jcr_content/article/intro_photo.img.768.high.jpg",
+    "local": "/images/reports/2026-04-23/social-media-kids-liability.jpg",
+    "credit": "OPB"
+  },
+  "sources": [
+    {
+      "url": "https://www.jdsupra.com/legalnews/landmark-6-million-verdict-holds-social-3897519/",
+      "publisher": "JDSupra / Husch Blackwell",
+      "angle": "Legal analysis of the March 25 verdict: jury found Meta and Google liable for addictive design, not content, which bypasses Section 230; both companies are appealing"
+    },
+    {
+      "url": "https://www.opb.org/article/2026/04/03/social-media-verdicts-may-bring-new-era-of-tech-accountability",
+      "publisher": "OPB",
+      "angle": "Historical context: how Section 230 shielded platforms from product liability suits for decades, and why the KGM case succeeded where others failed by arguing design defect rather than content moderation"
+    },
+    {
+      "url": "https://www.nbcnews.com/politics/congress/katie-britt-john-fetterman-social-media-guardrails-children-teenagers-rcna341688",
+      "publisher": "NBC News",
+      "angle": "Britt and Fetterman push at NBC Common Ground event: they are co-sponsoring the Kids Off Social Media Act and the Stop the Scroll Act, neither of which has reached the Senate floor"
+    },
+    {
+      "url": "https://www.lawsociety.ie/gazette/top-stories/2026/april/social-media-on-trial-what-california-verdict-means-here/",
+      "publisher": "Law Society of Ireland Gazette",
+      "angle": "International perspective: the verdict matters globally because it establishes that product design choices, not just posted content, can trigger liability"
+    }
+  ],
+  "brief": {
+    "actors": ["Meta", "Google", "Fetterman", "Britt", "SCOTUS"],
+    "whatHappened": "On March 25, 2026, a Los Angeles County jury awarded $6 million in damages against Meta and Google in KGM v. Meta Platforms, finding both companies liable for the addictive design of Instagram and YouTube as experienced by a young woman who had used the platforms since early childhood. The case succeeded by arguing product design defect, not content liability, which Section 230 of the Communications Decency Act does not protect. Both companies announced appeals. On April 23, Senators Katie Britt (R-AL) and John Fetterman (D-PA) used an NBC News bipartisan event to push for two stalled Senate bills: the Stop the Scroll Act, which requires mental health warning labels, and the Kids Off Social Media Act, which would ban under-13s from creating accounts and require school restrictions. Neither bill has come to a Senate floor vote.",
+    "bottomLine": "The courts have accomplished in one verdict what Congress has failed to do in three years of legislation: create a real financial incentive for platforms to redesign their products around children's welfare rather than engagement maximization.",
+    "hiddenBets": [
+      {
+        "assumption": "Section 230 still fully protects platforms from design liability",
+        "whyItMightBeWrong": "The KGM verdict explicitly distinguished design from content. Courts are increasingly receptive to the argument that how a product is built, not what users put into it, can create tortious harm. Section 230 was written to protect user-generated content, not algorithmic amplification systems. If the appeal fails, the legal protection that has shielded platforms for 30 years narrows significantly."
+      },
+      {
+        "assumption": "Congressional legislation is the primary policy lever here",
+        "whyItMightBeWrong": "The verdict creates more immediate pressure on platforms than any bill currently pending. A sustained pattern of $6 million verdicts in state courts scales to catastrophic liability faster than federal regulation. Platforms may self-regulate more aggressively to prevent litigation than they would under a warning label mandate."
+      },
+      {
+        "assumption": "Age verification is a viable enforcement mechanism for social media bans",
+        "whyItMightBeWrong": "Every country that has tried age-gating social media has faced the same problem: minors use parents' accounts, VPNs, or alternate identity documents. The Kids Off Social Media Act would require platforms and schools to enforce restrictions. The enforcement burden on schools in particular is unworkable, and platforms have demonstrated they cannot verify age at scale."
+      }
+    ],
+    "realDisagreement": "The core tension is between platform freedom to design maximally engaging products and legal accountability for the documented harms of that design on children. Section 230 was the legislative resolution of this tension in 1996, before algorithmic amplification existed. The KGM verdict is the first successful challenge to that resolution using product liability law rather than content regulation. The disagreement is not about whether platforms harm children. The evidence on that is strong enough that both Britt and Fetterman, who agree on almost nothing, co-sponsored the same bill. The real dispute is whether the remedy should be liability (which is decentralized, retrospective, and expensive) or regulation (which is centralized, prospective, and easier to capture). Platforms prefer regulation because they can shape it. Plaintiffs' lawyers prefer liability because they cannot.",
+    "whatNoOneIsSaying": "Fetterman has been openly critical of social media's effect on his own mental health and has said it contributed to his depression after his 2022 Senate victory. He is also the only Democrat who consistently votes with Republicans to continue the Iran war. His willingness to break with his party on matters he personally experiences is the only consistent thread in his Senate record. The media treats both as character notes rather than as evidence that personal experience overrides party loyalty on issues where the pain is direct and visible.",
+    "whoPays": [
+      {
+        "who": "Meta and Google shareholders",
+        "how": "If the KGM appeal fails and verdict stands, it opens a class of litigation that could scale to billions. Platforms would need to redesign recommendation systems for minors or face ongoing liability, at significant engineering and revenue cost.",
+        "when": "Appeal timeline is 12-24 months; if lost, class action wave follows"
+      },
+      {
+        "who": "Teen users currently addicted to algorithmic feeds",
+        "how": "Legislation banning under-13s does not address 13-17 year olds, who are the heaviest users and the most vulnerable. The Stop the Scroll warning label is the equivalent of a cigarette warning: it documents harm without preventing it.",
+        "when": "Ongoing without more targeted intervention"
+      },
+      {
+        "who": "Smaller social platforms",
+        "how": "Age verification infrastructure costs are fixed. Large platforms can absorb them. Smaller competitors cannot, giving incumbents a regulatory moat if strict age-gating legislation passes.",
+        "when": "If legislation passes within 12 months"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Courts Win",
+        "whatHappens": "The KGM appeal fails. A wave of similar product-design liability suits follows in plaintiff-friendly states. Platforms redesign recommendation systems for minors without waiting for legislation because the litigation risk exceeds the revenue.",
+        "signal": "Meta announces changes to its recommendation algorithm for under-18 users within 6 months of the appeal ruling"
+      },
+      {
+        "name": "Congress Acts First",
+        "whatHappens": "The Kids Off Social Media Act reaches the Senate floor after bipartisan momentum builds. It passes with significant industry carve-outs that weaken enforcement but create the appearance of legislative action.",
+        "signal": "Senate Majority Leader schedules the bill for floor debate before July"
+      },
+      {
+        "name": "Stalemate",
+        "whatHappens": "The KGM appeal succeeds on Section 230 grounds. Congress fails to advance either bill past committee. The status quo continues: platforms self-regulate minimally, lawsuits are filtered out at the appeals stage, and the harm to teen mental health continues undisrupted.",
+        "signal": "KGM appeal reversed by the 9th Circuit within 18 months"
+      }
+    ],
+    "whatWouldChange": "If a second jury in a different state returns a verdict of comparable or greater size against the same defendants on the same theory, the litigation risk becomes uninsurable and platforms have to change their products. One verdict is a data point. Two is a pattern. Three is a regulatory regime run by juries."
+  }
+}

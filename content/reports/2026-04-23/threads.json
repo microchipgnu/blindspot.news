@@ -2,6 +2,58 @@
   "date": "2026-04-23",
   "threads": [
     {
+      "id": "funding-the-adversary",
+      "title": "Who's Paying for the Other Side's War",
+      "description": "The US White House accused China of stealing its AI on April 23 while approving Nvidia chip sales to China in January and leaving them unenforced. The EU passed its toughest Russia sanctions package in two years only after Ukraine agreed to run Russian crude oil through its territory to Hungarian refineries. In both cases, the country threatening to cut off an adversary is simultaneously the adversary's enabling infrastructure. The threat of economic decoupling has been monetized as leverage, not executed as strategy.",
+      "type": "tension-cluster",
+      "stories": ["china-ai-distillation-theft", "eu-sanctions-20-russia-kyrgyzstan"],
+      "connections": [
+        {
+          "from": "china-ai-distillation-theft",
+          "to": "eu-sanctions-20-russia-kyrgyzstan",
+          "relationship": "Both stories describe governments that have the legal authority to cut off an adversary's access to critical resources (US chips to China, EU energy to Russia) but choose to use that access as leverage rather than exercise the cut. The restraint is not strategic patience: it is the cost of maintaining the threat as a negotiating tool rather than a policy."
+        }
+      ]
+    },
+    {
+      "id": "civilian-control-compression",
+      "title": "The Chain of Command Is Getting Shorter",
+      "description": "Hegseth fired the Navy Secretary for not following orders during an active war. Trump is directing the Postmaster General through executive order to override a statutory independent agency on ballot handling. Roberts coordinated shadow docket strategy in private memos. Three distinct institutional buffers that existed to create friction between executive will and government action have each been compressed or bypassed this week. The institutions themselves still formally exist. The independence that was their purpose does not.",
+      "type": "tension-cluster",
+      "stories": ["navy-secretary-phelan-fired", "trump-mail-ballot-postal", "scotus-shadow-docket-leak"],
+      "connections": [
+        {
+          "from": "navy-secretary-phelan-fired",
+          "to": "trump-mail-ballot-postal",
+          "relationship": "Both remove an institutional actor whose job included resisting direct executive commands: Phelan was supposed to manage the Navy's civilian equities, the Postmaster General is supposed to operate the postal system independent of electoral politics. In both cases the mechanism for removal is executive authority applied to an institution that was designed to be insulated from it."
+        },
+        {
+          "from": "trump-mail-ballot-postal",
+          "to": "scotus-shadow-docket-leak",
+          "relationship": "The ballot EO will almost certainly reach the Supreme Court through emergency docket. The shadow docket Roberts built is now the procedural channel through which the administration's most legally contested actions will be evaluated, by a court whose internal deliberation on those same actions is now documented as strategically coordinated."
+        }
+      ]
+    },
+    {
+      "id": "courts-outpacing-congress",
+      "title": "Juries Are Writing Tech Policy",
+      "description": "Congress has stalled on social media liability legislation for three years while bipartisan coalitions formed, bills got introduced, and nothing reached a floor vote. In March 2026, a Los Angeles jury did in one verdict what Congress could not: created a real financial penalty for platform design choices that harm children. The same pattern is visible in birthright citizenship, redistricting, and SCOTUS shadow docket rulings. Courts are moving on politically contested questions that legislatures refuse to resolve. The question is whether unelected juries and judges are legitimately filling a democratic vacuum or substituting for it.",
+      "type": "tension-cluster",
+      "stories": ["social-media-kids-liability", "birthright-citizenship-scotus", "virginia-redistricting-court"],
+      "connections": [
+        {
+          "from": "social-media-kids-liability",
+          "to": "birthright-citizenship-scotus",
+          "relationship": "In both cases, a legally contested question that Congress declined to resolve through legislation is being settled by courts acting on constitutional or common law grounds. Congress could pass a law clarifying birthright citizenship; it has not. Congress could pass a law establishing social media product liability; it has not. Courts fill the vacuum."
+        },
+        {
+          "from": "virginia-redistricting-court",
+          "to": "social-media-kids-liability",
+          "relationship": "Virginia voters approved a redistricting map that a judge blocked. Los Angeles jurors found social media platforms liable in a way that Congress has avoided codifying. Both results illustrate that democratic resolution of contested questions does not determine legal outcomes: institutional actors with different authority override the popular outcome."
+        }
+      ]
+    },
+    {
       "id": "courts-as-policy-veto",
       "title": "Who Gets to Block the Government",
       "description": "Three stories today are secretly about the same question: can unelected institutions veto elected ones without accountability? Roberts built a shadow docket to block executive policy without explanation. Trump is using an executive order to override a statutory independent agency. The EU is deferring its most powerful sanctions tool to G7 coordination that may never come. In each case, the real power is held by an entity that does not have to say why.",

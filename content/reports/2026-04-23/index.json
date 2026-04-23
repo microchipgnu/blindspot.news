@@ -1,6 +1,6 @@
 {
   "date": "2026-04-23",
-  "generatedAt": "2026-04-23T17:30:00Z",
+  "generatedAt": "2026-04-23T22:30:00Z",
   "reports": [
     {
       "id": "iran-hormuz-ceasefire",
@@ -91,6 +91,36 @@
       "title": "Business Is Growing. Prices Are Growing Faster.",
       "subtitle": "April's flash PMI hit a 47-month high for manufacturing. It also logged the fastest input price inflation since 2022. Both facts are true. The Fed cannot act on either one.",
       "category": "decision"
+    },
+    {
+      "id": "china-ai-distillation-theft",
+      "title": "The White House Says China Is Copying America's AI. The Timing Is the Story.",
+      "subtitle": "A memo accusing China of industrial-scale AI theft lands three weeks before Trump visits Beijing. That's not a coincidence.",
+      "category": "power"
+    },
+    {
+      "id": "navy-secretary-phelan-fired",
+      "title": "The Navy Secretary Fired for Not Following Orders He Disagreed With",
+      "subtitle": "John Phelan thought his job was to run the Navy. Pete Hegseth thought his job was to execute Pentagon directives. One of them was right about who the boss is.",
+      "category": "power"
+    },
+    {
+      "id": "trump-regeneron-drug-deal",
+      "title": "Trump Got All 17 Pharma Companies to Say Yes. Now the Hard Part Starts.",
+      "subtitle": "Every major drug company has signed a most-favored-nation pledge. None of it is enforceable, and the tariff relief that made it happen just created a new exemption class.",
+      "category": "decision"
+    },
+    {
+      "id": "eu-sanctions-20-russia-kyrgyzstan",
+      "title": "The EU's Toughest Russia Sanctions Required Letting Russian Oil Flow First",
+      "subtitle": "Package 20 is the harshest restrictions on Russia in two years. Hungary and Slovakia unlocked it only after Ukraine reopened the Druzhba pipeline. The oil is the price of the loan.",
+      "category": "power"
+    },
+    {
+      "id": "social-media-kids-liability",
+      "title": "A Jury Said Meta and Google Addicted a Child. Congress Is About to Try to Help.",
+      "subtitle": "The $6 million verdict in KGM v. Meta cracked Section 230 on product design. Now Britt and Fetterman are pushing Senate bills that have been stalled for a year. The courts may move faster than Congress.",
+      "category": "ethics"
     }
   ]
 }
