@@ -1,6 +1,6 @@
 {
   "date": "2026-04-23",
-  "generatedAt": "2026-04-23T14:00:00Z",
+  "generatedAt": "2026-04-23T17:30:00Z",
   "reports": [
     {
       "id": "iran-hormuz-ceasefire",
@@ -61,6 +61,36 @@
       "title": "Google Says Agents Are the Architecture Now",
       "subtitle": "Google Cloud Next 2026 was not a product launch. It was a declaration that the unit of enterprise software has changed from applications to autonomous agents.",
       "category": "power"
+    },
+    {
+      "id": "scotus-shadow-docket-leak",
+      "title": "The Court That Stopped Explaining Itself",
+      "subtitle": "Leaked memos show Roberts built the shadow docket in private to kill policies he couldn't stop openly. The court's legitimacy crisis is now documented from the inside.",
+      "category": "power"
+    },
+    {
+      "id": "trump-mail-ballot-postal",
+      "title": "The President Can't Run the Post Office. He's Trying Anyway.",
+      "subtitle": "Trump's March 31 executive order instructs the Postmaster General to control how states send ballots. It violates a 55-year-old law, and a coalition of AGs is now defending it.",
+      "category": "power"
+    },
+    {
+      "id": "eu-russia-sanctions-maritime",
+      "title": "The EU Passed Its Toughest Russia Sanctions. Then Left Out the Main One.",
+      "subtitle": "Package 20 adds 46 ships to the blacklist, bans Murmansk port transactions, and promises a full maritime oil transport ban. Just not yet. The G7 has to agree first.",
+      "category": "power"
+    },
+    {
+      "id": "usmca-china-mexico-tariffs",
+      "title": "The Free Trade Deal That Isn't Free Anymore",
+      "subtitle": "The USMCA review hits July 1 with a US Trade Representative telling Mexico its tariffs on steel, autos, and aluminum are staying. The agreement's survival now depends on what Mexico does with Chinese factories inside its borders.",
+      "category": "power"
+    },
+    {
+      "id": "us-pmi-inflation-april",
+      "title": "Business Is Growing. Prices Are Growing Faster.",
+      "subtitle": "April's flash PMI hit a 47-month high for manufacturing. It also logged the fastest input price inflation since 2022. Both facts are true. The Fed cannot act on either one.",
+      "category": "decision"
     }
   ]
 }

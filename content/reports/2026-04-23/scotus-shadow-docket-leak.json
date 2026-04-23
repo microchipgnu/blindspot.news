@@ -1,0 +1,106 @@
+{
+  "id": "scotus-shadow-docket-leak",
+  "date": "2026-04-23",
+  "generatedAt": "2026-04-23T17:30:00Z",
+  "title": "The Court That Stopped Explaining Itself",
+  "subtitle": "Leaked memos show Roberts built the shadow docket in private to kill policies he couldn't stop openly. The court's legitimacy crisis is now documented from the inside.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["SCOTUS", "shadow docket", "John Roberts", "Supreme Court", "judicial legitimacy", "emergency docket"],
+  "coverImage": {
+    "url": "https://compote.slate.com/images/6e3808f9-ec9a-4a69-8cdd-33c90c03f908.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+    "local": "/images/reports/2026-04-23/scotus-shadow-docket-leak.jpg",
+    "credit": "Slate / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://slate.com/news-and-politics/2026/04/supreme-court-leak-john-roberts-the-worst.html",
+      "publisher": "Slate",
+      "angle": "Roberts used formal judicial letterhead to lobby colleagues on politically charged policy, treating the emergency docket as an ideological weapon while maintaining the fiction of neutrality."
+    },
+    {
+      "url": "https://newrepublic.com/article/209318/chief-justice-john-roberts-shadow-docket-fossil-fuel-lobby",
+      "publisher": "The New Republic",
+      "angle": "Roberts' 2016 memos on blocking Obama's Clean Power Plan read like fossil fuel industry talking points. The editorial line: the chief justice captured."
+    },
+    {
+      "url": "https://reason.com/2026/04/21/the-supreme-courts-shadow-docket-has-sprung-a-leak/",
+      "publisher": "Reason",
+      "angle": "Libertarian-leaning legal commentary: the leak itself is as significant as the content. A court that cannot keep internal deliberations private is a court losing coherence."
+    },
+    {
+      "url": "https://news.bloomberglaw.com/class-action/the-justices-seem-unhappy-and-the-emergency-docket-is-a-factor",
+      "publisher": "Bloomberg Law",
+      "angle": "Structural account: the emergency docket is straining the court's internal relationships. Justices are burning time on emergency requests that were never meant to be substantive rulings."
+    },
+    {
+      "url": "https://reason.com/volokh/2026/04/23/what-would-it-take-to-tame-the-shadow-docket/",
+      "publisher": "Reason / Volokh Conspiracy",
+      "angle": "Practical legal analysis: what legislative or procedural fixes could constrain the shadow docket, and why almost all of them face serious constitutional obstacles."
+    }
+  ],
+  "brief": {
+    "actors": ["SCOTUS", "Roberts", "Obama", "Trump", "Congress", "EPA"],
+    "whatHappened": "The New York Times published 16 pages of confidential internal memos from Supreme Court justices, obtained by reporters Jodi Kantor and Adam Liptak, dating to 2016. The memos show Chief Justice John Roberts coordinating the court's use of emergency stays to block Obama's Clean Power Plan, citing the 'major questions doctrine' before that doctrine had been formally established in any ruling. The documents reveal Roberts as the architect of an approach that allowed the conservative majority to kill major policies before full briefing, oral argument, or written opinions. Justice Ketanji Brown Jackson raised public alarm at Yale Law on Tuesday, calling the shadow docket's expansion a threat to the court's legitimacy.",
+    "bottomLine": "Roberts built a system that lets the court make major policy decisions without accountability, and the leaked memos show he knew exactly what he was doing.",
+    "hiddenBets": [
+      {
+        "assumption": "The shadow docket is a procedural tool that occasionally gets misused.",
+        "whyItMightBeWrong": "The memos suggest it was designed from the beginning as a substantive policy tool, not a procedural convenience. The distinction between 'emergency' and 'merits' was always political fiction."
+      },
+      {
+        "assumption": "Roberts is the institutionalist on the court who cares about its reputation above all else.",
+        "whyItMightBeWrong": "His shadow docket campaign on the Clean Power Plan preceded any formal ruling and used private lobbying to move colleagues. A genuine institutionalist would have demanded full merits review. Roberts protects the appearance of the institution while hollowing out its substance."
+      },
+      {
+        "assumption": "Congressional reform of the shadow docket is theoretically possible.",
+        "whyItMightBeWrong": "The court decides what constraints on its own power are constitutional. Any law limiting emergency stays could be invalidated by the same court it was meant to constrain."
+      }
+    ],
+    "realDisagreement": "The actual fork is this: either the shadow docket is a legitimate tool for an overburdened court managing an emergency request surge, or it is a mechanism for conservatives to achieve substantive results without the procedural costs of accountability. Both stories are partially true, but they cannot both be fully true. If you believe the former, the leak is a problem of oversharing by disgruntled clerks. If you believe the latter, the leak is evidence of institutional capture that the public has a right to see. The second reading is harder to dismiss given that Roberts was invoking a legal doctrine in private that hadn't been established in public yet. He was writing the doctrine and using it simultaneously, in secret.",
+    "whatNoOneIsSaying": "The leak itself is the second leak from the Supreme Court in four years. The first, in 2022, was the Dobbs draft. The court has not identified who leaked that document. A court that cannot control its own internal communications is not a court that can credibly claim to be a stable institution of last resort.",
+    "whoPays": [
+      {
+        "who": "Regulated industries and environmental plaintiffs",
+        "how": "Any major regulation can now be enjoined before it takes effect via an emergency stay, making durable policy impossible. The administrative state's ability to implement Congress's mandates is permanently constrained by a five-justice majority's sense of whether a regulation is 'major'.",
+        "when": "Ongoing, accelerating with each new administration"
+      },
+      {
+        "who": "Future litigants in high-stakes cases",
+        "how": "If the shadow docket becomes the primary vehicle for constitutional decisions, parties get no oral argument, limited briefing, and no written reasoning. They lose without knowing why.",
+        "when": "Immediately, in any case the court chooses to resolve on emergency posture"
+      },
+      {
+        "who": "Lower court judges",
+        "how": "Emergency stay orders without explanation give lower courts no guidance on how to apply the law. They either guess or create circuit splits, which generate more emergency petitions.",
+        "when": "Every term, compounding"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Roberts Containment",
+        "whatHappens": "Roberts moves to limit emergency docket use in response to reputational pressure. The court begins requiring fuller explanations for stays. The leak becomes the catalyst for internal reform.",
+        "signal": "A majority opinion with a section explicitly explaining why emergency stay standards require restraint, written by Roberts."
+      },
+      {
+        "name": "Escalation",
+        "whatHappens": "The next administration files more emergency stay requests than any predecessor, confident the conservative majority will grant them. The shadow docket becomes the primary mechanism for presidential policy implementation.",
+        "signal": "More than 20 emergency applications in a single term granted without full merits briefing."
+      },
+      {
+        "name": "Congressional Response",
+        "whatHappens": "A Democratic Congress passes legislation requiring written explanations for emergency stays and a 7-justice supermajority. The court accepts the constraint to avoid a larger confrontation, or strikes it down and triggers a constitutional crisis.",
+        "signal": "Introduction of a 'Supreme Court Transparency Act' with bipartisan co-sponsors in the Senate."
+      }
+    ],
+    "whatWouldChange": "If it turned out the memos were not authenticated, or that Roberts' private lobbying did not correspond to his public votes, the bottom line would need revision. Also: if the court moved to full written explanations for all emergency stays voluntarily, it would signal genuine self-correction rather than the continued drift the memos document.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "SCOTUS bars counting mail ballots after election day?",
+        "url": "https://polymarket.com/event/scotus-bars-counting-mail-ballots-after-election-day",
+        "probability": 0.70
+      }
+    ]
+  }
+}

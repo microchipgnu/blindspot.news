@@ -1,0 +1,101 @@
+{
+  "id": "trump-mail-ballot-postal",
+  "date": "2026-04-23",
+  "generatedAt": "2026-04-23T17:30:00Z",
+  "title": "The President Can't Run the Post Office. He's Trying Anyway.",
+  "subtitle": "Trump's March 31 executive order instructs the Postmaster General to control how states send ballots. It violates a 55-year-old law, and a coalition of AGs is now defending it.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["Trump", "USPS", "mail voting", "election integrity", "executive order", "Postal Service"],
+  "coverImage": {
+    "url": "https://images.theconversation.com/files/731149/original/file-20260420-57-ksmlc7.jpg?ixlib=rb-4.1.0&rect=0%2C790%2C5000%2C2500&q=45&auto=format&w=1356&h=668&fit=crop",
+    "local": "/images/reports/2026-04-23/trump-mail-ballot-postal.jpg",
+    "credit": "AFP via Getty Images / The Conversation"
+  },
+  "sources": [
+    {
+      "url": "https://azmirror.com/2026/04/23/repub/trumps-mail-ballot-order-would-shatter-55-years-of-postal-service-independence-experts-say/",
+      "publisher": "Arizona Mirror",
+      "angle": "Postal law experts: the Postal Reorganization Act of 1970 explicitly removed the Postal Service from presidential control. The EO is facially invalid."
+    },
+    {
+      "url": "https://www.kcur.org/politics-elections-and-government/2026-04-22/missouri-attorney-general-mail-ballot-elections",
+      "publisher": "KCUR / Missouri Independent",
+      "angle": "Missouri AG Catherine Hanaway leading a coalition of Republican state AGs defending the order in court. The operative argument: USPS's role in elections makes it a federal interest subject to executive direction."
+    },
+    {
+      "url": "https://theconversation.com/why-trump-cant-just-decree-changes-to-voting-by-mail-a-former-federal-judge-explains-how-the-presidents-executive-order-is-a-solution-looking-for-a-problem-280680",
+      "publisher": "The Conversation",
+      "angle": "Former federal judge John Jones: no evidence of the fraud the EO claims to address. The order's stated rationale fails basic judicial scrutiny on the facts."
+    },
+    {
+      "url": "https://www.lapost.com/content/senators-urge-us-postal-service-not-to-implement-trump-mail-in-voting-order",
+      "publisher": "LA Post",
+      "angle": "Democratic and independent senators urging the Postal Service Board of Governors to refuse implementation, citing their independent legal authority under the 1970 Act."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "USPS", "Congress", "Missouri", "Senate"],
+    "whatHappened": "President Trump's March 31 executive order instructs the Postmaster General to create rules requiring states to notify the Postal Service before sending mail ballots during federal elections. The order further implies USPS should restrict ballot mailings to voters on a federally approved list. Democratic and independent senators sent a letter to the USPS Board of Governors this week urging non-compliance, while Missouri Attorney General Catherine Hanaway is leading a multistate coalition defending the order in court. Legal experts cite the Postal Reorganization Act of 1970, which was written specifically to remove the Postal Service from White House control after decades of presidents using the mail as a political lever.",
+    "bottomLine": "Trump is trying to do through executive order what Congress deliberately prevented in 1970: make the Postal Service answer to the president during elections. The law says no. The fight is over whether the courts agree quickly enough to matter.",
+    "hiddenBets": [
+      {
+        "assumption": "The Postal Service Board of Governors will simply comply with a presidential EO.",
+        "whyItMightBeWrong": "The Board is legally independent. Its members are Senate-confirmed and can only be removed for cause. They have no obligation to follow a directive that their own counsel has likely flagged as illegal. The Board could refuse implementation entirely, forcing a confrontation that doesn't favor the administration."
+      },
+      {
+        "assumption": "The courts will quickly enjoin this order before the 2026 midterms.",
+        "whyItMightBeWrong": "Litigation takes time. If the order stands long enough to require states to build new notification systems, the disruption has already occurred regardless of eventual judicial outcome. Confusion itself suppresses mail ballot use."
+      },
+      {
+        "assumption": "This is primarily about preventing fraud.",
+        "whyItMightBeWrong": "No credible evidence of mail ballot fraud at scale exists in the record. The order's real function is to create a pre-2026 record of federal election oversight that Republicans can use to challenge results they don't like."
+      }
+    ],
+    "realDisagreement": "The real fork is between two readings of the administrative state: either the president has inherent authority to direct federal agencies on matters of national security and elections, or Congress can create genuinely independent agencies that the president cannot touch. These are incompatible constitutional theories. The Supreme Court has been steadily moving toward the first view since 2020. If that view prevails here, it doesn't just affect mail voting; it means no federal agency with election-related functions is independent from the White House. The second view preserves the architecture Congress built in 1970 but requires courts to hold the line at a moment when their own independence is contested. The first reading is the more legally dangerous one in the long run even for people who support it, because a future Democratic president would inherit the same power.",
+    "whatNoOneIsSaying": "If the Postal Service Board of Governors simply refuses to implement the order and dares Trump to fire them, the administration faces a choice it hasn't had to make yet: force the confrontation publicly or retreat. The board members are removable only for cause, and firing them over a disputed EO would itself be litigable. The board could kill this order without a court ever ruling on it.",
+    "whoPays": [
+      {
+        "who": "Rural and elderly voters who depend on mail ballots",
+        "how": "Any disruption to mail ballot access disproportionately affects voters without easy access to polling places. Notification requirements and approved-list restrictions would invalidate ballots from voters who followed the old rules.",
+        "when": "By the November 2026 midterms if the order is implemented"
+      },
+      {
+        "who": "State election officials",
+        "how": "New notification requirements create compliance costs and legal uncertainty. States that don't comply risk having their mail ballots challenged as invalid after the fact.",
+        "when": "Starting now, through election certification next year"
+      },
+      {
+        "who": "The Postal Service itself",
+        "how": "Being drawn into election administration disputes exposes USPS to litigation and political attack from both sides. An agency already in financial difficulty cannot afford to become a partisan battleground.",
+        "when": "Immediately"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Board Refuses",
+        "whatHappens": "The USPS Board of Governors declines to implement the EO, citing its independent statutory authority. Trump threatens removal, litigation begins, and courts must decide whether presidential removal power extends to independent postal board members.",
+        "signal": "A public statement from the Board Chairperson asserting the 1970 Act as controlling authority and declining to proceed."
+      },
+      {
+        "name": "Quiet Implementation",
+        "whatHappens": "The Postmaster General begins drafting the notification rules quietly, hoping the order takes effect before courts intervene. Some states begin compliance planning to avoid legal risk. Mail ballot use drops in affected states for the 2026 midterms.",
+        "signal": "A Federal Register notice from USPS proposing rulemaking on mail ballot notification procedures."
+      },
+      {
+        "name": "Court Blocks, EO Lives as Precedent",
+        "whatHappens": "A federal court enjoins implementation within 60 days. The order is never fully enforced, but it establishes the claim that the president can direct USPS on election-related matters, which future administrations build on.",
+        "signal": "An injunction granted by a district court, followed by no emergency SCOTUS appeal from the administration."
+      }
+    ],
+    "whatWouldChange": "If courts ruled that the 1970 Postal Reorganization Act does not actually prohibit presidential direction on election-related postal functions, the legal foundation of the opposition collapses and the order stands. Alternatively, if evidence emerged of systematic mail ballot fraud that the existing system failed to catch, the stated rationale for the order would gain credibility it currently lacks.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "SCOTUS bars counting mail ballots after election day?",
+        "url": "https://polymarket.com/event/scotus-bars-counting-mail-ballots-after-election-day",
+        "probability": 0.70
+      }
+    ]
+  }
+}

@@ -2,68 +2,54 @@
   "date": "2026-04-23",
   "threads": [
     {
-      "id": "iran-war-domestic-squeeze",
-      "title": "The Iran War Is Doing Trump's Opponents' Work For Them",
-      "description": "Three separate stories today are constrained by a single variable: the Iran war's inflation shock. The Fed cannot cut rates because of energy prices from the Hormuz closure. The Fed chair nomination is stalled because cutting into that inflation would be visibly reckless. And Trump's tariff refunds, ordered by the IEEPA tariff ruling, are being paid out at the same moment the Iran conflict is raising the cost of everything else. Trump's signature policies are being undone not by political opposition but by the downstream economic consequences of his own military campaign.",
+      "id": "courts-as-policy-veto",
+      "title": "Who Gets to Block the Government",
+      "description": "Three stories today are secretly about the same question: can unelected institutions veto elected ones without accountability? Roberts built a shadow docket to block executive policy without explanation. Trump is using an executive order to override a statutory independent agency. The EU is deferring its most powerful sanctions tool to G7 coordination that may never come. In each case, the real power is held by an entity that does not have to say why.",
+      "type": "tension-cluster",
+      "stories": ["scotus-shadow-docket-leak", "trump-mail-ballot-postal", "eu-russia-sanctions-maritime"],
+      "connections": [
+        {
+          "from": "scotus-shadow-docket-leak",
+          "to": "trump-mail-ballot-postal",
+          "relationship": "The same shadow docket Roberts built to block Obama's regulations is now available to Trump. The EO on mail ballots will likely reach the Supreme Court as an emergency application. Roberts built the tool that will decide his legacy."
+        },
+        {
+          "from": "trump-mail-ballot-postal",
+          "to": "eu-russia-sanctions-maritime",
+          "relationship": "Both cases involve a principal (president, EU Council) trying to act through an agent (USPS, G7) that has independent interests. The principal's stated goal requires the agent's compliance, which neither can guarantee."
+        }
+      ]
+    },
+    {
+      "id": "tariff-trap",
+      "title": "The Tariff Trap",
+      "description": "The USMCA negotiation and the US PMI data are the same story told from two different points of view. PMI shows tariffs have raised US input prices to a 4-year high while growth recovers, ruling out rate cuts. USMCA shows the US using those same tariffs as permanent leverage over allied trade partners rather than as negotiating chips. The tariffs that are making the Fed's job impossible are also the tariffs that are supposed to discipline Mexico on China. They cannot do both at once.",
       "type": "dependency-web",
-      "stories": ["warsh-fed-nomination", "iran-hormuz-ceasefire", "tariff-refund-trap"],
+      "stories": ["usmca-china-mexico-tariffs", "us-pmi-inflation-april"],
       "connections": [
         {
-          "from": "iran-hormuz-ceasefire",
-          "to": "warsh-fed-nomination",
-          "relationship": "The Hormuz closure has pushed PCE inflation to 3.7%, which makes the rate cuts Trump nominated Warsh to deliver economically indefensible and politically radioactive if they happen."
+          "from": "usmca-china-mexico-tariffs",
+          "to": "us-pmi-inflation-april",
+          "relationship": "Tariffs on Mexican steel and autos are part of the same tariff regime that is driving the input cost inflation in the April PMI. The supply chain pressure PMI respondents are reporting comes partly from the USMCA disputes that Greer is refusing to resolve."
+        }
+      ]
+    },
+    {
+      "id": "accountability-gap",
+      "title": "The Accountability Gap",
+      "description": "Four of today's five new stories describe institutions doing significant things without having to explain themselves. Roberts coordinated a legal strategy in private memos. Trump is directing an independent agency by executive fiat. The EU is deferring its biggest sanction to a G7 process that operates without public deliberation. Greer told Mexico's industry groups tariffs are permanent in private conversations that only leaked through sourcing. The pattern is not partisan: it is structural. The political systems that are supposed to generate accountability are producing opacity instead.",
+      "type": "tension-cluster",
+      "stories": ["scotus-shadow-docket-leak", "trump-mail-ballot-postal", "eu-russia-sanctions-maritime", "usmca-china-mexico-tariffs"],
+      "connections": [
+        {
+          "from": "scotus-shadow-docket-leak",
+          "to": "eu-russia-sanctions-maritime",
+          "relationship": "Both institutions, SCOTUS and the EU Council, have developed procedural mechanisms that allow major decisions to be made without full deliberation or public rationale. The shadow docket and the deferred G7 coordination both serve the same function: plausible deniability for hard choices."
         },
         {
-          "from": "iran-hormuz-ceasefire",
-          "to": "tariff-refund-trap",
-          "relationship": "The Iran war's oil price shock is the second force, alongside remaining tariffs, erasing the Big Beautiful Bill's tax refund gains for ordinary Americans, compounding the tariff damage the CAPE refund system was meant to address."
-        }
-      ]
-    },
-    {
-      "id": "executive-authority-unraveling",
-      "title": "Three Trump Overreaches, Three Courts Saying No",
-      "description": "Four of today's stories involve courts blocking executive action: SCOTUS signaling 7-2 against the birthright citizenship order, a circuit court blocking Virginia's certified referendum result, the IEEPA tariff ruling that forced $166 billion in refunds, and now the ongoing question of whether DOGE's SSA workforce reduction can be challenged as a constructive denial of statutory benefits. The through-line is not that courts are biased. It is that the Trump administration has consistently staked legal positions that assume executive authority has no structural limits, and courts across the ideological spectrum keep drawing the same conclusion: it does.",
-      "type": "tension-cluster",
-      "stories": ["birthright-citizenship-scotus", "virginia-redistricting-court", "tariff-refund-trap", "social-security-doge-closures"],
-      "connections": [
-        {
-          "from": "birthright-citizenship-scotus",
-          "to": "virginia-redistricting-court",
-          "relationship": "Both cases turn on whether a political majority can unilaterally reinterpret settled constitutional arrangements: in SCOTUS, Trump argues the 14th Amendment means something different than 128 years of precedent says; in Virginia, Democrats argued voters could bypass a commission they themselves created. Both were challenged in court the same week."
-        },
-        {
-          "from": "tariff-refund-trap",
-          "to": "social-security-doge-closures",
-          "relationship": "The Supreme Court's IEEPA tariff ruling established that executive emergency powers have judicial limits; advocates are now building the same argument that DOGE's SSA staffing cuts constitute an unlawful constructive denial of statutory benefits, testing whether the same legal logic extends to administrative rather than regulatory executive action."
-        }
-      ]
-    },
-    {
-      "id": "infrastructure-leverage",
-      "title": "The Pipeline and the Blockade: Infrastructure as the Real Battlefield",
-      "description": "The Druzhba pipeline story and the Hormuz blockade story are structurally identical and nobody has noticed. In both cases, a piece of physical infrastructure runs through contested territory, and the party that controls the pipe controls the negotiation. Ukraine discovered it can weaponize Russia's oil transit to extract EU funds. Iran discovered it can weaponize the Strait to survive US military superiority. In both cases, the infrastructure gives the weaker party leverage the stronger party cannot destroy without paying an equal or greater cost. This is the 21st-century version of siege warfare: you don't capture territory, you control the tube.",
-      "type": "cause-effect",
-      "stories": ["iran-hormuz-ceasefire", "druzhba-ukraine-eu-loan"],
-      "connections": [
-        {
-          "from": "druzhba-ukraine-eu-loan",
-          "to": "iran-hormuz-ceasefire",
-          "relationship": "Ukraine's use of the Druzhba pipeline as a diplomatic lever to unlock EU funds demonstrates the exact model Iran is deploying with the Strait of Hormuz: controlling physical infrastructure gives you negotiating power that military losses cannot eliminate, because destroying the infrastructure hurts both sides equally."
-        }
-      ]
-    },
-    {
-      "id": "ai-containment-paradox",
-      "title": "The Same Week That Proved AI Cannot Be Contained",
-      "description": "Anthropic tried to keep Mythos secret; it leaked. Anthropic then restricted access to vetted actors; the NSA is using it while the Pentagon considers Anthropic a security risk, and Microsoft is integrating it into its developer platform. Google simultaneously declared the unit of enterprise software has permanently shifted to autonomous agents, with Polymarket traders pricing Google's best-model odds at under 1%. The Mythos story and the Google agentic story are not two separate AI news items. They are the same story from different angles: nobody in the AI industry is controlling the deployment trajectory of what they are building. The labs are producing capabilities they cannot safely contain, and the platform companies are deploying architectures whose failure modes have not been characterized.",
-      "type": "tension-cluster",
-      "stories": ["mythos-ai-cybersecurity-weapon", "google-agentic-enterprise-shift"],
-      "connections": [
-        {
-          "from": "mythos-ai-cybersecurity-weapon",
-          "to": "google-agentic-enterprise-shift",
-          "relationship": "Mythos demonstrates that frontier AI capabilities cannot be reliably contained once a small set of organizations has access; Google Cloud Next demonstrates that enterprise deployment of autonomous AI agents is accelerating regardless of unresolved safety and liability questions, meaning the deployment layer is running ahead of the safety infrastructure the labs claim to be building."
+          "from": "usmca-china-mexico-tariffs",
+          "to": "us-pmi-inflation-april",
+          "relationship": "The Fed cannot cut rates because tariff-driven inflation is too high, but the tariff policy that is causing that inflation is being set through bilateral trade talks that have no congressional authorization or public review process. The inflation that the Fed is accountable for was caused by a policy the Fed had no voice in."
         }
       ]
     }

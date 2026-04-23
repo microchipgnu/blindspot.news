@@ -1,0 +1,102 @@
+{
+  "id": "us-pmi-inflation-april",
+  "date": "2026-04-23",
+  "generatedAt": "2026-04-23T17:30:00Z",
+  "title": "Business Is Growing. Prices Are Growing Faster.",
+  "subtitle": "April's flash PMI hit a 47-month high for manufacturing. It also logged the fastest input price inflation since 2022. Both facts are true. The Fed cannot act on either one.",
+  "topic": "economy",
+  "category": "decision",
+  "tags": ["PMI", "inflation", "Fed", "tariffs", "manufacturing", "US economy", "interest rates"],
+  "coverImage": {
+    "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMnRKXfC9YPk/v1/1200x-1.jpg",
+    "local": "/images/reports/2026-04-23/us-pmi-inflation-april.jpg",
+    "credit": "Bloomberg"
+  },
+  "sources": [
+    {
+      "url": "https://pro.thestreet.com/portfolio/flash-pmi-reveals-persistent-inflation-pressures-supply-chain-risks",
+      "publisher": "TheStreet Pro",
+      "angle": "Supply chain risk focus: the PMI data shows persistent supply problems alongside price increases, suggesting the inflation is not demand-driven but cost-push from tariffs and logistics disruption."
+    },
+    {
+      "url": "https://www.fxstreet.com/news/when-is-the-us-flash-sp-global-pmi-for-april-and-how-could-it-affect-eur-usd-202604231141",
+      "publisher": "FX Street",
+      "angle": "Markets reaction: composite PMI at 52, manufacturing at 54, services lagging. The dollar strengthened on the data before giving back gains as traders processed the inflation component."
+    },
+    {
+      "url": "https://www.tradingview.com/news/te_news:544446:0-us-business-activity-rebounds-s-p/",
+      "publisher": "TradingView / Trading Economics",
+      "angle": "Context note: business activity growth recovered from near-stagnation in March, which was linked to the outbreak of Middle East war and oil price spike. The April rebound is partly mechanical, not structural."
+    }
+  ],
+  "brief": {
+    "actors": ["Fed", "S&P Global", "US", "Trump"],
+    "whatHappened": "S&P Global's flash US PMI data released April 23 showed manufacturing activity at 54.0, a 47-month high, and the composite index at 52.0, recovering from 50.3 in March. But the same data showed input prices rising at the fastest pace since mid-2022, driven by tariff pass-through and fuel costs. Employment ticked up modestly. Services activity remained subdued. The report explicitly links the price acceleration to tariffs and supply chain disruptions connected to the Middle East conflict. The data follows last week's jobless claims which were also lower than expected, creating a picture of an economy growing faster than feared but inflating faster than the Fed wants.",
+    "bottomLine": "The US economy is proving more resilient than the tariff pessimists predicted, but the price of that resilience is tariff-driven inflation that rules out the rate cuts the president is demanding and the market is pricing.",
+    "hiddenBets": [
+      {
+        "assumption": "The Fed can wait for inflation to fall on its own before cutting rates.",
+        "whyItMightBeWrong": "If tariffs become a permanent structural feature of US trade policy, supply-side inflation does not revert to target. The Fed's 2% mandate becomes unachievable without a recession that the Fed does not want to cause. The 'wait and see' strategy works only if tariffs are temporary."
+      },
+      {
+        "assumption": "Strong PMI data means the economy is on solid footing.",
+        "whyItMightBeWrong": "The manufacturing PMI at 54 is partly a restocking story: companies front-loaded inventory ahead of expected tariff increases. When restocking ends, the orders component softens. Front-loading creates a one-quarter sugar rush followed by a hangover."
+      },
+      {
+        "assumption": "Higher prices hurt consumers enough to dampen demand and self-correct inflation.",
+        "whyItMightBeWrong": "If wage growth keeps pace with tariff-driven price increases, the real economy doesn't slow. Nominal GDP growth continues. The Fed sees inflation above target with growth above trend and has no conventional tool that addresses tariff-induced cost-push without deliberately creating unemployment."
+      }
+    ],
+    "realDisagreement": "The fork is between two readings of what this economy is doing. One reading: tariffs are a one-time price adjustment, firms are absorbing them better than feared, and once the adjustment is complete, inflation normalizes. On this view, the Fed can be patient and growth persists. The other reading: tariffs have permanently raised the US cost structure, services are already softening, and the manufacturing PMI strength is restocking-driven and temporary. On this view, the second half of 2026 looks like stagflation: growth slows as restocking ends while prices stay elevated. Polymarket puts April annual inflation above 3.1% as near-certain (98.8% probability). The market is already pricing the second reading, even if equity prices haven't caught up.",
+    "whatNoOneIsSaying": "The administration wants rate cuts and the PMI shows why it can't have them. The economy is not weak enough to justify cuts and the inflation data is not soft enough to permit them. The only scenario in which the Fed cuts in 2026 is one where the economy deteriorates sharply, which is the opposite of what the PMI shows. The president is publicly demanding something that his own tariff policy has made impossible.",
+    "whoPays": [
+      {
+        "who": "Fixed-income borrowers and mortgage holders",
+        "how": "Rate cuts that everyone expected in early 2026 are now priced out to 2027 at earliest. Mortgage rates remain elevated. Refinancing relief for locked-in 2023-era borrowers does not materialize.",
+        "when": "Through at least end of 2026"
+      },
+      {
+        "who": "Small and midsize manufacturers",
+        "how": "Input cost inflation that large firms can absorb through pricing power or scale squeezes smaller competitors. The PMI's price index does not distinguish between firms that can pass costs on and those that cannot.",
+        "when": "Over the next two quarters"
+      },
+      {
+        "who": "Service-sector workers",
+        "how": "Services PMI remains below manufacturing. If services slow while goods-sector inflation runs hot, workers in restaurants, hospitality, and retail face a squeeze: their wages face pressure while their grocery bills rise.",
+        "when": "Q2-Q3 2026"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Soft Landing, Sticky Prices",
+        "whatHappens": "Growth stays above 2% through 2026. Inflation stays above 3%. The Fed holds rates flat all year. No recession, but no relief on borrowing costs. The economy runs hot with a persistent price problem that nobody calls a crisis.",
+        "signal": "Q2 GDP print above 2.5% with CPI above 3.2% in the same month."
+      },
+      {
+        "name": "Restocking Hangover",
+        "whatHappens": "Manufacturing orders fall sharply in Q3 as front-loaded inventory is worked down. PMI drops back below 50. Services remain weak. Growth slows to near-zero. Inflation stays elevated. Stagflation politics emerge as the administration looks for someone to blame.",
+        "signal": "New orders subindex of the PMI falling 5+ points from the April reading in the June flash report."
+      },
+      {
+        "name": "Tariff Reversal Relief",
+        "whatHappens": "A trade deal or tariff pause reduces input costs. Supply-side inflation pressure lifts. The Fed has room to cut by year-end. Manufacturing and services both recover.",
+        "signal": "A White House announcement of tariff suspension on intermediate goods for US manufacturers."
+      }
+    ],
+    "whatWouldChange": "If the tariff regime were significantly rolled back, cost-push inflation would ease and the Fed's path to rate cuts would reopen. The current data makes sense only if tariffs are permanent. Evidence that businesses are successfully absorbing tariff costs into margins without passing them to prices would also change the inflation picture.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will annual inflation increase by 3.1% or less in April?",
+        "url": "https://polymarket.com/event/april-inflation-us-annual",
+        "probability": 0.0115
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+        "url": "https://polymarket.com/event/fed-decision-in-july-181",
+        "probability": 0.825
+      }
+    ]
+  }
+}

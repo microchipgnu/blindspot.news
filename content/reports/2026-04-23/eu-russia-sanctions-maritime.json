@@ -1,0 +1,101 @@
+{
+  "id": "eu-russia-sanctions-maritime",
+  "date": "2026-04-23",
+  "generatedAt": "2026-04-23T17:30:00Z",
+  "title": "The EU Passed Its Toughest Russia Sanctions. Then Left Out the Main One.",
+  "subtitle": "Package 20 adds 46 ships to the blacklist, bans Murmansk port transactions, and promises a full maritime oil transport ban. Just not yet. The G7 has to agree first.",
+  "topic": "geopolitics",
+  "category": "power",
+  "tags": ["EU", "Russia", "sanctions", "maritime", "shadow fleet", "oil", "Ukraine", "G7"],
+  "coverImage": {
+    "url": "https://www.reuters.com/resizer/v2/EK6OE7Q4Q5PBHHNPRA5FTTOUIU.jpg?auth=1327be8bff61abf1e80cfcca31a576ca8fb8dcc6025c0a2b320fda285510828b&height=1005&width=1920&quality=80&smart=true",
+    "local": "/images/reports/2026-04-23/eu-russia-sanctions-maritime.jpg",
+    "credit": "Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://www.reuters.com/business/energy/whats-eus-20th-package-sanctions-against-russia-2026-04-22/",
+      "publisher": "Reuters",
+      "angle": "Factual rundown of the package: 120 individual restrictions, 46 new vessel listings bringing the total to 632, Murmansk and Tuapse port transaction bans. The maritime oil transport ban is 'laid out as a framework' for future G7 coordination."
+    },
+    {
+      "url": "https://www.euronews.com/my-europe/2026/04/23/eu-agrees-fresh-sanctions-on-russia-but-leaves-maritime-services-ban-on-hold",
+      "publisher": "Euronews",
+      "angle": "The maritime services ban was explicitly deferred because the EU wants G7 agreement before acting alone. Concern that a unilateral EU ban would be evaded through non-G7 operators."
+    },
+    {
+      "url": "https://www.bairdmaritime.com/security/incidents/piracy/factbox-the-eus-20th-package-of-russia-sanctions-in-detail",
+      "publisher": "Baird Maritime",
+      "angle": "Detailed maritime-sector perspective: the new vessel listings include LNG tankers and icebreakers. Due diligence requirements on tanker sales are the sleeper provision with teeth."
+    },
+    {
+      "url": "https://united24media.com/latest-news/eu-adopts-20th-sanctions-package-targeting-russias-energy-sector-and-shadow-fleet-network-18180",
+      "publisher": "United24 Media",
+      "angle": "Ukrainian government-aligned coverage: emphasizes the LNG terminal services ban starting January 2027 as the long-term choke point on Russian gas revenue."
+    }
+  ],
+  "brief": {
+    "actors": ["EU", "Russia", "Ukraine", "G7", "Hungary", "Slovakia"],
+    "whatHappened": "The EU Council adopted its 20th package of Russia sanctions on April 23, adding 46 vessels to the maritime blacklist (total now 632), banning port transactions at Murmansk and Tuapse, and restricting financial flows to Russian military-industrial entities and shadow fleet operators. Starting January 2027, providing LNG terminal services to Russian entities becomes illegal across the bloc. The main headline measure, a full ban on maritime transport of Russian crude and petroleum products, was deliberately held back pending G7 coordination. Hungary and Slovakia dropped their vetoes after the Druzhba pipeline resumed Russian oil flows through Ukraine, unlocking both the sanctions package and the separate 90 billion euro EU loan to Kyiv.",
+    "bottomLine": "The EU's most expansive sanctions package yet still can't deliver the one measure that would actually cut Russia's oil revenue: a full maritime transport ban. The G7 veto over EU sanctions policy is the hidden architecture holding the whole thing together.",
+    "hiddenBets": [
+      {
+        "assumption": "The price cap and vessel listings are meaningfully constraining Russian oil exports.",
+        "whyItMightBeWrong": "The shadow fleet now numbers in the thousands of vessels, most flagged in non-G7 countries. Of 632 listed EU vessels, many have already been reflagged or transferred. Russia's oil export revenue has fallen, but not because the sanctions regime is airtight: oil prices fell too. Attribution is contested."
+      },
+      {
+        "assumption": "G7 coordination will eventually produce a full maritime transport ban.",
+        "whyItMightBeWrong": "The US, Japan, and South Korea all have interests in not fully blocking Russian energy. India and China have already effectively opted out of the price cap. A G7-coordinated ban only works if it covers the buyers too, and the largest buyers are outside the G7."
+      },
+      {
+        "assumption": "The LNG terminal services ban starting 2027 will hurt Russia.",
+        "whyItMightBeWrong": "Russia has 18 months to route LNG terminal services through non-EU intermediaries. Qatar and UAE are already providing alternative services. The ban will hurt European LNG re-export businesses more than Russian production."
+      }
+    ],
+    "realDisagreement": "The actual tension is between the EU's desire to demonstrate resolve on Ukraine and its structural inability to enforce unilateral sanctions without causing more damage to itself than to Russia. The EU can list ships and ban ports, but it cannot stop Indian or Chinese tankers from carrying Russian oil to Asian markets. Every new package has the same architecture: strong at the edges, weak at the core. The alternative, a genuine extraterritorial sanctions regime with secondary sanctions against third-country buyers, would blow up relations with India and China and trigger counter-retaliation on European exports. The EU is choosing legibility over effectiveness, and that's a defensible choice given the constraints, but it's not what the press releases say.",
+    "whatNoOneIsSaying": "Hungary and Slovakia's veto was bought with Druzhba pipeline oil: Russia restored the flow, and they lifted the veto. The EU's most powerful leverage over its own members is the same commodity it is trying to sanction. This is not a design flaw. It is the actual structure of the system.",
+    "whoPays": [
+      {
+        "who": "Russian military-adjacent shipping operators",
+        "how": "The due diligence requirements on tanker sales now expose any EU-connected entity to liability for downstream use. European insurance and financing for shadow fleet transactions becomes genuinely costly to arrange.",
+        "when": "Immediately, compounding as listings accumulate"
+      },
+      {
+        "who": "European LNG re-exporters",
+        "how": "Companies that import Russian LNG, re-liquefy it, and sell it to third countries will lose that business stream by 2027. The Netherlands, Belgium, and France are the primary affected markets.",
+        "when": "January 2027"
+      },
+      {
+        "who": "Non-EU shipping and insurance markets",
+        "how": "As EU operators exit Russian oil shipping, the business flows to Dubai, Hong Kong, and Istanbul. The sanctions create revenue for competitors, not abstinence from Russia.",
+        "when": "Already happening"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "G7 Coordinated Ban",
+        "whatHappens": "The G7 agrees to a full maritime transport ban by late 2026, replacing the price cap. India and China continue buying Russian oil but through entirely non-G7 infrastructure. Russian oil revenue falls modestly. European credibility is restored.",
+        "signal": "A G7 communique language endorsing 'transition from price cap to transport-based restrictions' at the June 2026 summit."
+      },
+      {
+        "name": "Drift",
+        "whatHappens": "The full maritime ban stays perpetually deferred. New packages keep listing more ships and banks. Russia adapts each time. The war continues. European sanctions fatigue grows as the economy stagnates.",
+        "signal": "Package 21 announced with no new structural measures, only expanded vessel and entity listings."
+      },
+      {
+        "name": "Ceasefire Freeze",
+        "whatHappens": "A Ukraine ceasefire is agreed, making new sanctions politically difficult to justify. Existing packages are maintained but not expanded. Russia uses the breathing room to rebuild shipping capacity outside the listed fleet.",
+        "signal": "EU foreign policy chief announcing a 'pause' on new restrictive measures pending peace negotiations."
+      }
+    ],
+    "whatWouldChange": "If India and China joined a coordinated price cap enforcement regime, the sanctions would have genuine bite. That would require offers that the West has not made and may not be able to make. Alternatively, if Russia's oil export volume fell enough to materially constrain its defense budget, the current regime would deserve more credit than the analysis above gives it.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Russia invade another country in 2026?",
+        "url": "https://polymarket.com/event/will-russia-invade-another-country-in-2026",
+        "probability": 0.125
+      }
+    ]
+  }
+}
