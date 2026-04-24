@@ -1,0 +1,94 @@
+{
+  "id": "us-eu-minerals-china",
+  "date": "2026-04-24",
+  "generatedAt": "2026-04-24T22:30:00Z",
+  "title": "Washington and Brussels Just Signed an Anti-China Deal They Cannot Say Is Anti-China",
+  "subtitle": "The US-EU critical minerals memorandum of understanding targets supply chains 'dominated by non-market practices' and does not name China once.",
+  "topic": "geopolitics",
+  "category": "power",
+  "tags": ["US", "EU", "China", "critical minerals", "supply chain", "Rubio", "trade"],
+  "coverImage": {
+    "url": "https://www.reuters.com/resizer/v2/JDE6VUYD5RMXVM5LVWJZ5PDLNU.jpg?auth=7b5a0f8117fbe7861d6ab2fb7a9e030f200af752a248e0a64b5af3a086cf94a1&height=1005&width=1920&quality=80&smart=true",
+    "local": "/images/reports/2026-04-24/us-eu-minerals-china.jpg",
+    "credit": "Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/china/us-eu-deepen-cooperation-critical-minerals-with-eye-broader-agreement-2026-04-24/",
+      "publisher": "Reuters",
+      "angle": "Reports the MOU signing by Rubio and Sevcovic; notes the deal includes price floor mechanisms, stockpiling coordination, investment screening, and is explicitly described as a precursor to a more comprehensive agreement"
+    },
+    {
+      "url": "https://thedeepdive.ca/us-eu-critical-minerals-china/",
+      "publisher": "The Deep Dive",
+      "angle": "Analysis piece noting the plan coordinates trade policy, price support, stockpiling, standards, and investment screening without naming China; argues this is the clearest transatlantic coordination effort yet against Chinese supply chain dominance"
+    },
+    {
+      "url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/04/secretary-of-state-marco-rubio-and-european-union-trade-commissioner-maros-sefcovic-at-the-signing-of-a-memorandum-of-understanding-for-the-u-s-eu-strategic-partnership-on-critical-minerals-washing/",
+      "publisher": "US State Department",
+      "angle": "Official readout of the signing ceremony; Rubio's remarks frame the deal as restoring 'supply chain resilience' and building 'strategic independence' without mentioning China by name"
+    },
+    {
+      "url": "https://www.euronews.com/my-europe/2026/04/24/eu-and-us-deepen-cooperation-on-critical-minerals-amid-concerns-over-chinas-dominance",
+      "publisher": "Euronews",
+      "angle": "European framing: EU officials see this as balancing act between reducing China exposure and avoiding a full economic decoupling that would harm European manufacturers dependent on Chinese rare earth inputs"
+    }
+  ],
+  "brief": {
+    "actors": ["US", "EU", "China", "Rubio"],
+    "whatHappened": "Secretary of State Marco Rubio and EU Trade Commissioner Maros Sevcovic signed a Memorandum of Understanding at the State Department establishing a US-EU Strategic Partnership on Critical Minerals. The deal coordinates trade policy, price floors, stockpiling, technical standards, and investment screening across the two blocs. It targets supply chains 'dominated by non-market policies and practices' without naming China. The MOU is explicitly framed as a precursor to a more comprehensive bilateral agreement. It comes on the same day that the US and Ukraine were in active dispute over a separate minerals deal, and a week after China sanctioned seven European defense firms for Taiwan-related arms sales.",
+    "bottomLine": "The US and EU are building the economic architecture for a China-free supply chain in strategic materials. They are doing it without naming China, without a binding treaty, and without resolving the fundamental tension that the EU still depends heavily on Chinese inputs for its own manufacturing.",
+    "hiddenBets": [
+      {
+        "assumption": "The MOU represents a meaningful strategic alignment between the US and EU",
+        "whyItMightBeWrong": "The US simultaneously has the UK under tariff threat for its digital services tax on American tech companies, is in active trade negotiations with the EU that have not produced a deal in years, and is demanding that allies take sides on Taiwan. The minerals MOU is real, but it exists alongside continuing transatlantic trade friction that the document does not resolve."
+      },
+      {
+        "assumption": "Investment screening and price floors can substitute for domestic production capacity",
+        "whyItMightBeWrong": "China controls between 60-85% of processing capacity for most critical minerals regardless of where the ore is extracted. Coordinating standards and investment screening does not build refining infrastructure. The US and EU are coordinating demand without having solved supply."
+      },
+      {
+        "assumption": "China will retaliate against the MOU directly",
+        "whyItMightBeWrong": "China sanctioned European defense firms one week ago over Taiwan arms sales. It may judge that a measured non-response to the minerals MOU is more effective than escalation, since it gives Europe room to continue buying Chinese inputs without triggering a formal break."
+      }
+    ],
+    "realDisagreement": "The genuine tension is whether the EU can reduce China exposure in critical minerals without triggering Chinese retaliation on the manufacturing inputs Europe still needs. The US can afford a harder line because its manufacturing dependence on Chinese rare earth processing is smaller. For Germany and France, the choice between aligning with the US on supply chain security and maintaining the Chinese inputs their auto and electronics sectors depend on is not abstract. The MOU papers over that divide without resolving it. Both sides signed because an MOU is not a commitment. It is an agreement to keep talking.",
+    "whatNoOneIsSaying": "The US signed a critical minerals partnership with Europe on the same day it was trying to extract a critical minerals deal from Ukraine under coercive terms. The two deals express opposite power relationships: with Europe, the US is coordinating as an equal; with Ukraine, it is extracting as a creditor. Both are mineral supply chain strategies. Only one of them is being called a partnership.",
+    "whoPays": [
+      {
+        "who": "European manufacturers dependent on Chinese rare earth inputs",
+        "how": "If the MOU leads to actual investment screening that blocks Chinese-sourced materials, manufacturers face higher input costs and supply disruptions before domestic or ally-sourced alternatives come online.",
+        "when": "Medium-term, 2-4 years if MOU becomes binding agreement"
+      },
+      {
+        "who": "African and Latin American mining nations",
+        "how": "US-EU coordination on price floors and investment screening restructures who has access to the premium market for critical minerals. Nations outside the partnership become price takers in a market where buyers have coordinated terms.",
+        "when": "Visible in contract terms within 12-18 months"
+      },
+      {
+        "who": "China's processing sector",
+        "how": "If the US-EU successfully build parallel processing capacity over 5-7 years, Chinese dominance in refining rare earths loses pricing power. The MOU is not an immediate threat; it is a 10-year threat if executed.",
+        "when": "Long-term structural pressure, not immediate"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "MOU Becomes Treaty",
+        "whatHappens": "US-EU negotiate a binding critical minerals agreement within 18 months. Investment screening is harmonized, joint stockpiles are built, and processing facilities in allied nations receive coordinated financing. China accelerates its own alliance-building with Global South producers.",
+        "signal": "Both sides announce a binding treaty negotiation timeline within 6 months of MOU signing"
+      },
+      {
+        "name": "MOU Remains Symbolic",
+        "whatHappens": "Ongoing US-EU trade disputes over digital taxes, agricultural standards, and defense burden-sharing prevent the MOU from becoming an operational agreement. Both sides continue sourcing from China on existing terms while publicly signaling strategic independence.",
+        "signal": "US-EU digital services tax standoff escalates to new tariff threats within 60 days"
+      },
+      {
+        "name": "China Preempts",
+        "whatHappens": "China uses its processing monopoly to offer preferential long-term contracts to European buyers before the MOU can be converted to policy. European manufacturers accept the terms, fracturing EU unity on the strategic independence framework.",
+        "signal": "Germany or France announces new long-term rare earth supply agreement with Chinese state processor within 90 days"
+      }
+    ],
+    "whatWouldChange": "If the US-EU digital services tax dispute escalates to new tariff threats in the next two months, it signals that the transatlantic relationship cannot hold a minerals partnership together while the trade relationship is breaking down. If China announces retaliatory export restrictions on rare earth processing, it accelerates the timeline and forces both sides to move from MOU to binding agreement faster than planned.",
+    "markets": []
+  }
+}

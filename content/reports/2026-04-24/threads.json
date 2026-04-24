@@ -161,6 +161,44 @@
           "relationship": "The US is pressuring the UK to remove its digital services tax that applies to US tech companies while simultaneously failing to tax Chinese AI companies exploiting US models; the UK faces US trade threats for taxing American tech while neither the US nor the EU has successfully constrained Chinese AI and manufacturing expansion."
         }
       ]
+    },
+    {
+      "id": "minerals-are-the-new-leverage",
+      "title": "Critical Minerals Have Replaced Oil as the Currency of Geopolitical Coercion",
+      "description": "Three stories today turn on who controls access to critical minerals and who can be coerced through that control. Ukraine is being asked to trade its mineral wealth for security guarantees that may not materialize. The US and EU are coordinating to reduce China's mineral supply chain dominance while simultaneously both trying to extract Ukrainian minerals. Google is paying $40 billion partly to secure AI compute capacity, which is itself a function of semiconductor supply chains built on rare earth inputs. Minerals are no longer just a resource. They are the mechanism through which war, diplomacy, and technology investment are all being structured simultaneously.",
+      "type": "dependency-web",
+      "stories": ["ukraine-mineral-deal-collapse", "us-eu-minerals-china", "google-anthropic-bet"],
+      "connections": [
+        {
+          "from": "ukraine-mineral-deal-collapse",
+          "to": "us-eu-minerals-china",
+          "relationship": "The US signed an anti-China minerals partnership with Europe on the same day it was trying to extract Ukrainian minerals under coercive terms; the two mineral strategies exist in parallel but express opposite power relationships: coordination with equals, extraction from the desperate."
+        },
+        {
+          "from": "us-eu-minerals-china",
+          "to": "google-anthropic-bet",
+          "relationship": "The US-EU minerals partnership targets the semiconductor and battery material supply chains that underpin AI infrastructure; Google's $40 billion Anthropic bet includes 5GW of compute capacity that is itself dependent on the rare earth processing dominance China currently holds and the partnership is trying to reduce."
+        }
+      ]
+    },
+    {
+      "id": "iran-hits-the-home-front",
+      "title": "The Iran War Is Now a Domestic Economy Story",
+      "description": "Consumer sentiment hitting a 74-year record low is not primarily a story about household psychology. It is a story about what the Strait of Hormuz disruption is doing to gas prices, what gas prices are doing to inflation expectations, and what that combination is doing to the Fed's options. The DHS shutdown, the Ukraine mineral deal collapse, and the US-EU minerals partnership are all connected through the same channel: the Iran war has created an economic pressure that makes every other policy negotiation more expensive and every political position more brittle. Governments under fiscal pressure make worse deals.",
+      "type": "cause-effect",
+      "stories": ["consumer-sentiment-iran-inflation", "dhs-shutdown-reconciliation", "ukraine-mineral-deal-collapse"],
+      "connections": [
+        {
+          "from": "consumer-sentiment-iran-inflation",
+          "to": "dhs-shutdown-reconciliation",
+          "relationship": "Record-low consumer sentiment and inflation fears reduce political tolerance for government dysfunction; the DHS shutdown has lasted 10 weeks partly because economic anxiety has made both parties less willing to be seen as the side that blinked on enforcement or accountability."
+        },
+        {
+          "from": "consumer-sentiment-iran-inflation",
+          "to": "ukraine-mineral-deal-collapse",
+          "relationship": "The Iran war inflation spike is the immediate backdrop to Trump's pressure on Ukraine to sign the minerals deal; an administration facing record-low public confidence on the economy has strong incentive to extract a visible economic win from Ukraine, even on terms Ukraine cannot accept."
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,107 @@
+{
+  "id": "consumer-sentiment-iran-inflation",
+  "date": "2026-04-24",
+  "generatedAt": "2026-04-24T22:30:00Z",
+  "title": "Consumer Confidence Just Hit Its Lowest Point Since Records Began",
+  "subtitle": "The University of Michigan index dropped to 49.8, breaking a 74-year-old floor. The war with Iran is the immediate cause. The structural damage started before the first missile was fired.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["economy", "inflation", "Iran", "consumer sentiment", "recession", "gas prices"],
+  "coverImage": {
+    "url": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2263925271.jpg?c=16x9&q=w_800,c_fill",
+    "local": "/images/reports/2026-04-24/consumer-sentiment-iran.jpg",
+    "credit": "Getty Images via CNN"
+  },
+  "sources": [
+    {
+      "url": "https://www.reuters.com/business/us-consumer-sentiment-drops-near-four-year-low-april-2026-04-24/",
+      "publisher": "Reuters",
+      "angle": "Reports the final April reading of 49.8, revised up from 47.6 preliminary; notes year-ahead inflation expectations rose to 4.7%, the largest one-month jump since the early 1980s"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/24/economy/us-consumer-sentiment",
+      "publisher": "CNN Business",
+      "angle": "Consumer-facing explainer tying the record low to grocery prices, gas above $4, and Iran conflict uncertainty; survey director Joanne Hsu cautions against reading too much into the record but confirms the drop is real"
+    },
+    {
+      "url": "https://www.cbsnews.com/news/iran-war-economic-impact-gas-prices-inflation-2026/",
+      "publisher": "CBS News",
+      "angle": "Eight-week economic damage assessment: Strait of Hormuz disruption has kept oil above $100, economists say effects will linger months after any ceasefire because supply chains need time to normalize"
+    },
+    {
+      "url": "https://www.newsweek.com/chart-american-pessimism-us-economy-record-high-11874521",
+      "publisher": "Newsweek",
+      "angle": "Fox News poll showing 70% of registered voters believe the economy is worsening, matching a 2023 record; frames this as a direct political liability for Trump despite strong PMI numbers"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Iran", "Fed", "US"],
+    "whatHappened": "The University of Michigan's Consumer Sentiment Index hit a final April reading of 49.8, the lowest since the survey began in 1952, slightly revised up from a preliminary 47.6. The drop is driven by the US-Iran war that began eight weeks ago, which has pushed Brent crude above $100 per barrel, sent gas prices past $4 a gallon nationally, and raised year-ahead inflation expectations to 4.7%. A simultaneous Fox News poll found 70% of registered voters believe the economy is getting worse, matching a record high. US business activity as measured by the Composite PMI rose to 52.0 in April, suggesting actual economic output has not collapsed despite the sentiment drop.",
+    "bottomLine": "Americans feel worse about the economy than at any moment in living memory, while the economy's actual output numbers are fine. The gap between that sentiment and the underlying data is not a communications problem. It is a real cost that the PMI does not measure.",
+    "hiddenBets": [
+      {
+        "assumption": "The sentiment drop is temporary and will reverse when the Iran conflict deescalates",
+        "whyItMightBeWrong": "CBS News economists note that oil supply chain normalization takes months after a conflict ends, not weeks. Even if Iran and the US reach a deal in May, gas prices remain elevated through the summer, inflation expectations stay anchored at 4.7%, and the sentiment recovery lags by a quarter or more."
+      },
+      {
+        "assumption": "The gap between PMI (strong) and sentiment (record low) means sentiment will eventually catch up",
+        "whyItMightBeWrong": "Gas prices and grocery costs are not in the PMI. Business activity can expand while households get squeezed on energy and food. The divergence is not confusion; it reflects that business output and consumer purchasing power are measuring different things."
+      },
+      {
+        "assumption": "Record-low sentiment will force the Fed to cut rates",
+        "whyItMightBeWrong": "Sentiment at record lows with inflation expectations jumping to 4.7% is the worst possible combination for rate cuts. The Fed cannot ease into a war-driven inflation spike without risking wage-price dynamics. Warsh at the Fed chair hearing explicitly refused to commit to anything. The April 29 FOMC meeting is almost certainly a hold."
+      }
+    ],
+    "realDisagreement": "The genuine tension is between two different ways of describing the same economy. The administration's frame: PMI at 52, business activity expanding, labor market holding. The household frame: gas above $4, groceries up, inflation expectations at 40-year highs, and a war that no one voted for pushing energy costs higher indefinitely. Both are accurate descriptions. Neither explains the other. The political cost of the gap runs one direction: administrations get blamed for what households feel, not what businesses report. Market pricing on US recession by end of 2026 sits at 26%, which is elevated but not catastrophic. The market is not predicting collapse; it is pricing in sustained damage.",
+    "whatNoOneIsSaying": "The Iran war is doing to consumer sentiment what tariffs were doing to it two months ago. The administration has traded one inflation driver for another, and the cumulative effect is sentiment at a 74-year low. Neither shock alone would have set the record. Together they did.",
+    "whoPays": [
+      {
+        "who": "Lower-income households",
+        "how": "Gas and grocery inflation absorbs a larger share of income for households spending more than half their budget on necessities. The $4 gas floor hits a $40,000/year household three times harder as a percentage of income than a $150,000/year household.",
+        "when": "Immediate and ongoing until oil normalizes"
+      },
+      {
+        "who": "Fixed-income retirees",
+        "how": "Social Security COLA adjustments trail actual inflation by a year. If inflation expectations at 4.7% prove accurate, retirees lose real purchasing power in 2026 that COLA does not fully compensate until 2027.",
+        "when": "Cumulative over 2026"
+      },
+      {
+        "who": "Small businesses in discretionary sectors",
+        "how": "When households are paying more for gas and groceries, restaurant visits, entertainment, and non-essential retail are the first cuts. Sentiment at record lows predicts those cuts, even if PMI does not show them yet.",
+        "when": "Visible in Q2 earnings, June-August 2026"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "War Ends, Costs Linger",
+        "whatHappens": "US-Iran reach a deal in May. Oil falls from $103 toward $85. Gas prices drop slowly over summer. Sentiment recovers to mid-50s by Q3. The 2026 political damage is priced in and limited.",
+        "signal": "Brent crude drops below $90 on a confirmed ceasefire announcement"
+      },
+      {
+        "name": "War Drags, Sentiment Hardens",
+        "whatHappens": "No Iran deal through summer. Gas stays above $4. Inflation expectations stay elevated. The Fed holds rates. Consumer spending slows enough that PMI falls below 50, confirming contraction. Recession probability rises from 26% toward 40%.",
+        "signal": "FOMC April statement signals 'higher for longer' explicitly citing energy prices"
+      },
+      {
+        "name": "Stagflation Setup",
+        "whatHappens": "Supply shock meets slowing demand. PMI falls while inflation stays elevated. The Fed faces the 1970s problem again: it cannot cut to help growth without accelerating inflation. This is the scenario where 26% recession probability proves too low.",
+        "signal": "June CPI prints above 4.5% while unemployment rises above 4.5%"
+      }
+    ],
+    "whatWouldChange": "A verified Iran ceasefire that brings Brent below $90 within 30 days would reverse most of the sentiment damage within a quarter. A June CPI print showing inflation expectations de-anchoring above 5% would confirm the worst scenario regardless of what happens in the Strait of Hormuz.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "US recession by end of 2026?",
+        "url": "https://polymarket.com/event/us-recession-by-end-of-2026",
+        "probability": 0.26
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Trump agree to Iranian oil sanction relief in April?",
+        "url": "https://polymarket.com/event/what-will-the-us-agree-to",
+        "probability": 0.14
+      }
+    ]
+  }
+}
