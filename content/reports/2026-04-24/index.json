@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-24",
+  "generatedAt": "2026-04-24T08:15:00Z",
+  "reports": [
+    {
+      "id": "hormuz-standoff",
+      "title": "The Ceasefire That Isn't",
+      "subtitle": "Both sides are calling it peace while actively fighting. The real question is who blinks first before the next deadline.",
+      "category": "conflict"
+    },
+    {
+      "id": "tariff-refund-gap",
+      "title": "The $166 Billion Bait and Switch",
+      "subtitle": "The Supreme Court struck down the tariffs. The refunds are real. The question nobody will answer is who actually gets the money.",
+      "category": "power"
+    },
+    {
+      "id": "warsh-fed-independence",
+      "title": "The Fed Chair Who Won't Say What He Thinks",
+      "subtitle": "Kevin Warsh's confirmation hearing confirmed one thing: he has no intention of telling Congress, or the markets, what he will actually do.",
+      "category": "power"
+    },
+    {
+      "id": "china-embodied-intelligence",
+      "title": "America Is Winning the AI Race and Losing the War",
+      "subtitle": "China isn't trying to build the best AI model. It is building the best factory. Those are different competitions, and the US has barely started the second one.",
+      "category": "power"
+    },
+    {
+      "id": "uk-digital-tax-ultimatum",
+      "title": "Trump to Britain: Protect Apple or Pay Tariffs",
+      "subtitle": "The UK's digital services tax is not a trade dispute. It is a test of whether any US ally can tax American tech companies without US retaliation.",
+      "category": "power"
+    }
+  ]
+}

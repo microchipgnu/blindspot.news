@@ -1,0 +1,106 @@
+{
+  "id": "tariff-refund-gap",
+  "date": "2026-04-24",
+  "generatedAt": "2026-04-24T08:15:00Z",
+  "title": "The $166 Billion Bait and Switch",
+  "subtitle": "The Supreme Court struck down the tariffs. The refunds are real. The question nobody will answer is who actually gets the money.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["tariffs", "IEEPA", "Supreme Court", "CAPE", "refund", "consumers", "importers", "Trump"],
+  "coverImage": {
+    "url": "https://www.deseret.com/resizer/v2/2W5KHPL7YFF4DMGD5RGWWKOAB4.jpg?focal=0%2C0&auth=44b23fd0f69e3eb5477f4b82bde584120f83f32f2260bcb8dec163f5fd6afbc3&width=630&height=331",
+    "local": "/images/reports/2026-04-24/tariff-refund-gap.jpg",
+    "credit": "Damian Dovarganes / Associated Press via Deseret News"
+  },
+  "sources": [
+    {
+      "url": "https://allaboutlawyer.com/166-billion-tariff-refunds-have-started-ieepa-duties-were-collected-from-more-than-330000-importers-across-53-million-shipments/",
+      "publisher": "All About Lawyer",
+      "angle": "Pro-refund legal overview: walks through the CBP CAPE portal mechanics, the $166B figure, and who qualifies (importers and brokers, not consumers)"
+    },
+    {
+      "url": "https://www.deseret.com/opinion/2026/04/23/tariff-refunds-wont-help-you/",
+      "publisher": "Deseret News",
+      "angle": "Economist's take: the Gordian Knot argument that refunds flow to whoever paid at the port, which is not households, even though households bore the cost through higher prices"
+    },
+    {
+      "url": "https://www.ksgf.com/2026/04/23/democratic-lawmakers-urge-retail-shipper-ceos-to-pass-trump-tariff-refunds-to-consumers/",
+      "publisher": "KSGF (Reuters)",
+      "angle": "Congressional angle: 15 House Democrats urging retailers to pass refunds to consumers; also notes Trump warning companies he will 'remember' them if they forego refunds, creating a political pressure game"
+    },
+    {
+      "url": "https://patriotpost.us/opinion/126998-you-paid-for-the-tariffs-now-pay-for-the-tariff-refunds-2026-04-22",
+      "publisher": "Patriot Post",
+      "angle": "Conservative critique: consumers funded both the tariffs on the front end and now will fund the refunds (via government interest payments) on the back end, with no direct benefit"
+    },
+    {
+      "url": "https://www.visiontimes.com/2026/04/23/supreme-court-ruling-triggers-potential-175-billion-tariff-refunds.html",
+      "publisher": "Vision Times",
+      "angle": "Reports the gap: only importers and customs brokers qualify for CAPE portal refunds, not 'ordinary consumers even if they paid higher prices as a direct result of the tariffs'"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "SCOTUS", "CBP", "Walmart", "Amazon", "Congress", "Democrats"],
+    "whatHappened": "The Supreme Court struck down Trump's IEEPA tariffs 6-3 in February 2026, ruling that tariff-setting authority belongs to Congress, not the president under emergency powers. US Customs and Border Protection has now opened the CAPE portal, allowing importers and customs brokers to apply for refunds on the $166 billion collected from approximately 330,000 importers across 53 million shipments. Consumers who paid elevated prices are explicitly excluded from the portal. Fifteen House Democrats sent letters to Walmart, Amazon, Target, and others demanding the companies pass refunds to customers. Trump separately told reporters he will 'remember' companies that skip applying for refunds, adding a political punishment threat to the mix.",
+    "bottomLine": "The refunds confirm the tariffs were unconstitutional, but the structure of who gets the money confirms that the cost was always borne by households and the benefit goes to the corporations that paid at the port. The court fixed the legal problem. The economic wound stays open.",
+    "hiddenBets": [
+      {
+        "assumption": "Companies will pass refunds downstream to lower prices",
+        "whyItMightBeWrong": "There is no legal mechanism requiring it. Companies set prices based on current costs and competitive conditions, not reimbursements for past costs. Refunds arrived months after prices were raised; there is nothing stopping companies from banking the windfall as margin recovery."
+      },
+      {
+        "assumption": "The $166 billion refund process will run smoothly",
+        "whyItMightBeWrong": "CBP's CAPE system is processing refunds for 53 million shipments through a portal that already had 'performance issues' on launch day. The government warned refunds won't arrive for 45-60 days. Some importers who didn't complete ACH registration won't receive automatic payments. And Trump has signaled displeasure with companies that use the portal, creating a political deterrent alongside the legal entitlement."
+      },
+      {
+        "assumption": "The Polymarket-priced 63% chance the court forces full refunds means this is largely resolved",
+        "whyItMightBeWrong": "A court order to process refunds is not the same as households recovering lost purchasing power. The legal question (do importers get their money back?) has a different answer than the economic question (do families get their money back?). The 63% probability is about the former, not the latter."
+      }
+    ],
+    "realDisagreement": "The real fork is between treating tariffs as a business cost that passes through prices versus a direct government tax on consumers. If you think tariffs are a business cost, the refund to importers is economically correct: those who paid the duty get the refund. If you think tariffs are a hidden consumption tax, then refunding importers while consumers stay out of pocket is just completing the original extraction. Economists are nearly unanimous that import tariffs are borne by domestic buyers, not foreign exporters. But the legal structure of import duties assigns the payer as the importer. That gap is not an oversight: it is how the system was designed. Leaning toward the consumer-tax view: Penn Wharton and others have modeled the pass-through at 70-90%. Families paid the effective tax. The refund architecture ignores that.",
+    "whatNoOneIsSaying": "Trump warned companies he will 'remember' those that skip the refund portal, implying future regulatory favor for abstaining. This is essentially asking corporations to voluntarily forfeit a legal entitlement in exchange for political goodwill. If that pressure succeeds, the government keeps a portion of what the courts said it owed. Nobody in Washington is naming that as what it is.",
+    "whoPays": [
+      {
+        "who": "US households who absorbed elevated retail prices",
+        "how": "Average family paid an estimated $2,000-plus in higher prices over the tariff period. That money flows to importers as refunds, not back to families.",
+        "when": "Already paid; no recovery mechanism exists"
+      },
+      {
+        "who": "Small importers without compliance capacity",
+        "how": "CAPE is a technical portal requiring ACH registration and entry-level documentation. Companies without customs counsel may fail to navigate it correctly in time.",
+        "when": "Claim windows are limited; errors mean permanent forfeiture"
+      },
+      {
+        "who": "Federal taxpayers",
+        "how": "The government owes interest on top of the $166B principal, funded by general appropriations, meaning households pay the tariffs twice: once as consumers, once as taxpayers funding the interest.",
+        "when": "Interest payments ongoing through refund processing"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Quiet corporate windfall",
+        "whatHappens": "Major retailers apply for refunds through CAPE, keep the money as margin recovery, prices don't move, and congressional letters go unanswered. The story disappears from headlines.",
+        "signal": "No major retailer announces consumer-facing price reductions or credits within 60 days of receiving refunds."
+      },
+      {
+        "name": "Legislative intervention",
+        "whatHappens": "Democrats pass or force votes on a bill requiring companies receiving refunds to distribute a portion to consumers, or use it as a campaign issue in midterms.",
+        "signal": "A floor vote on a 'tariff dividend' bill or a Senate hearing with Walmart and Amazon executives testifying about refund distribution plans."
+      },
+      {
+        "name": "Trump freezes refunds",
+        "whatHappens": "Trump uses executive authority to slow-walk or condition refunds, effectively overriding the court order through administrative delay, which then triggers contempt proceedings.",
+        "signal": "CBP misses its stated 45-60 day processing timeline and provides no public explanation."
+      }
+    ],
+    "whatWouldChange": "If a major retailer publicly commits to a consumer dividend from refunds, it would signal the political pressure from Democrats is working and reframe the story. The bottom line changes if a court later holds that downstream consumers have standing to claim refunds directly.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Court Force Trump to Refund Tariffs?",
+        "url": "https://polymarket.com/event/will-the-court-force-trump-to-refund-tariffs-2026-06-30",
+        "probability": 0.63
+      }
+    ]
+  }
+}

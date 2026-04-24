@@ -1,0 +1,52 @@
+{
+  "date": "2026-04-24",
+  "threads": [
+    {
+      "id": "war-inflates-the-problem",
+      "title": "The Iran War Is Making Every Domestic Problem Harder",
+      "description": "The Strait of Hormuz standoff is pushing oil above $100 and driving the inflation that makes cutting rates politically demanded but economically reckless. China is filling the manufacturing vacuum created by US supply chain disruption and energy cost spikes. The war is not a separate story from the economy: it is the input that worsens every other story in today's briefing simultaneously.",
+      "type": "dependency-web",
+      "stories": ["hormuz-standoff", "warsh-fed-independence", "china-embodied-intelligence"],
+      "connections": [
+        {
+          "from": "hormuz-standoff",
+          "to": "warsh-fed-independence",
+          "relationship": "Iran-driven oil prices are the specific inflation signal that makes Warsh's promised rate cuts economically unjustifiable, putting him on a collision course with Trump's demands before he even takes the job."
+        },
+        {
+          "from": "hormuz-standoff",
+          "to": "china-embodied-intelligence",
+          "relationship": "US manufacturing faces higher energy costs and supply chain disruptions from the Iran standoff at the exact moment China is deploying robotic manufacturing at scale; the war widens the structural advantage China is building in industrial automation."
+        }
+      ]
+    },
+    {
+      "id": "courts-win-people-lose",
+      "title": "Institutions Win on Paper, Everyone Else Pays",
+      "description": "Two stories today show American institutions successfully checking executive overreach: the Supreme Court struck down IEEPA tariffs, and Senate process is blocking immediate Warsh confirmation. In both cases the institutional win is real but incomplete. The court's refund goes to corporations, not families. The Senate may confirm Warsh but cannot compel independence once he is in office. The formal check works; the underlying harm persists. This is the pattern of institutional resilience that looks strong in the headlines and hollow in the outcome.",
+      "type": "tension-cluster",
+      "stories": ["tariff-refund-gap", "warsh-fed-independence"],
+      "connections": [
+        {
+          "from": "tariff-refund-gap",
+          "to": "warsh-fed-independence",
+          "relationship": "Both stories turn on the same question: whether formal institutional constraints on executive power produce substantive protection for ordinary people or merely procedural victories that leave the power structure intact."
+        }
+      ]
+    },
+    {
+      "id": "us-trade-power-vs-allied-sovereignty",
+      "title": "Washington Is Testing Whether Allies Can Have Domestic Policy",
+      "description": "Trump's IEEPA tariffs were struck down domestically as an unconstitutional overreach of executive trade power. The UK digital services tax dispute shows the US trying to exercise equivalent power extraterritorially: threatening tariffs to override a foreign government's sovereign tax policy. The court stopped the domestic version. There is no court that can stop the international one. The question these two stories share is whether the US executive can use trade threats to nullify domestic policy decisions by other sovereign actors, and what happens to the rules-based trade order if it can.",
+      "type": "cause-effect",
+      "stories": ["tariff-refund-gap", "uk-digital-tax-ultimatum"],
+      "connections": [
+        {
+          "from": "tariff-refund-gap",
+          "to": "uk-digital-tax-ultimatum",
+          "relationship": "The Supreme Court limiting IEEPA tariff authority domestically has no equivalent external constraint; the UK cannot appeal to a court, which is why the same executive trade power that was ruled unconstitutional at home is being exercised unchecked abroad."
+        }
+      ]
+    }
+  ]
+}
