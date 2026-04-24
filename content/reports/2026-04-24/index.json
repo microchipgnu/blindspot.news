@@ -1,6 +1,6 @@
 {
   "date": "2026-04-24",
-  "generatedAt": "2026-04-24T13:25:00Z",
+  "generatedAt": "2026-04-24T18:10:00Z",
   "reports": [
     {
       "id": "hormuz-standoff",
@@ -60,6 +60,36 @@
       "id": "haiti-tps-scotus",
       "title": "No One in Washington Wants to Own the Haiti Decision",
       "subtitle": "The Supreme Court hears arguments April 29 on whether the Trump administration can deport Haitians back to a country in active gang war. Congress just voted to stop it. Both institutions are trying to hand the problem to the other.",
+      "category": "power"
+    },
+    {
+      "id": "meta-ai-layoffs",
+      "title": "Meta Is Firing Workers to Pay for the Machines That Will Replace Them",
+      "subtitle": "8,000 jobs cut, $135 billion in AI spending. The math is not a coincidence. It is a confession.",
+      "category": "power"
+    },
+    {
+      "id": "china-eu-arms-ban",
+      "title": "China Just Told Europe: Arm Taiwan and Pay the Price",
+      "subtitle": "Beijing sanctioned seven European defense firms for selling weapons to Taiwan. It is the first time China has directly targeted European companies for Taiwan-related arms sales. The message is the action.",
+      "category": "conflict"
+    },
+    {
+      "id": "trump-asylum-court",
+      "title": "The Court Said Trump's Asylum Ban Is Illegal. The White House Will Try Again.",
+      "subtitle": "A federal appeals court struck down the administration's summary deportation rules today. This is the third time a court has blocked a Trump immigration order at this stage. The administration keeps filing.",
+      "category": "power"
+    },
+    {
+      "id": "epa-abortion-water",
+      "title": "The EPA Wants to Test Your Water for Abortion Pills",
+      "subtitle": "The agency added mifepristone and misoprostol to its drinking water monitoring list. The stated reason is environmental safety. The actual effect is a surveillance infrastructure for medication abortion.",
+      "category": "power"
+    },
+    {
+      "id": "paramount-warner-merger",
+      "title": "Hollywood Consolidates Into the Last Two Studios That Matter",
+      "subtitle": "Warner Bros. shareholders approved Paramount's $81 billion takeover. HBO Max and Paramount+ will merge. Five legacy studios are becoming two. The survivors will still lose to Netflix.",
       "category": "power"
     }
   ]

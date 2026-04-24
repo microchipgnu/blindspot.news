@@ -104,6 +104,63 @@
           "relationship": "The EU sanctions package that Hungary finally approved targets Russian-Iranian military cooperation, including drone transfers used in Ukraine; the Lebanon and Ukraine conflicts share an Iranian military supply chain that the EU is attempting to cut while the US is attempting to negotiate around."
         }
       ]
+    },
+    {
+      "id": "executive-power-no-statutory-authority",
+      "title": "The Administration Keeps Acting Without Legal Authority and Keeps Losing",
+      "description": "Two separate courts ruled today that the Trump administration exceeded its statutory authority: the appeals court struck down the asylum summary removal rules for violating the Immigration and Nationality Act, and this follows SCOTUS ruling the IEEPA tariffs exceeded executive trade authority. The EPA's pharmaceutical water testing guidance is a third instance: it uses the Safe Drinking Water Act framework as cover for a surveillance function Congress never authorized. Three stories today share the same structural problem: the administration wants an outcome, lacks the statutory authority to achieve it directly, and uses executive guidance or rule-making to get there anyway. Courts catch some of it. Most of it takes years.",
+      "type": "tension-cluster",
+      "stories": ["trump-asylum-court", "tariff-refund-gap", "epa-abortion-water"],
+      "connections": [
+        {
+          "from": "tariff-refund-gap",
+          "to": "trump-asylum-court",
+          "relationship": "The IEEPA tariff ruling and the asylum summary removal ruling both rely on the same legal logic: the INA and the Trade Act set specific statutory procedures the president must follow, and executive action alone cannot substitute for or override them."
+        },
+        {
+          "from": "trump-asylum-court",
+          "to": "epa-abortion-water",
+          "relationship": "The asylum ban is being challenged because the executive created procedures Congress did not authorize; the EPA water guidance operates in the same space, using an environmental safety statute to build a surveillance infrastructure whose actual purpose is unrelated to water quality and was never authorized by Congress."
+        }
+      ]
+    },
+    {
+      "id": "ai-displaces-labor-concentrates-capital",
+      "title": "AI Spending Is Being Financed by the Workers It Will Replace",
+      "description": "Meta is cutting 8,000 employees while spending $135 billion on AI infrastructure, using keystroke surveillance of its own workers to train the agents that will replace them. Samsung's chip workers are demanding their share of the AI profit boom that their chips enabled. The Paramount-Warner merger is driven by the need to consolidate against Netflix and Amazon, both of which use AI-driven recommendation engines to extract subscriber value that human curation cannot match. Three stories today describe the same wealth transfer: capital flowing from human labor toward AI systems, with workers either cut, surveilled, or priced out of the gains their work created.",
+      "type": "dependency-web",
+      "stories": ["meta-ai-layoffs", "samsung-chip-strike", "paramount-warner-merger"],
+      "connections": [
+        {
+          "from": "meta-ai-layoffs",
+          "to": "samsung-chip-strike",
+          "relationship": "Meta's $135 billion AI infrastructure spend flows directly through Samsung's chip production, making Samsung workers' labor the physical substrate of the productivity gains Meta is using to justify cutting its human workforce; the workers demanding profit-sharing are partially funding the machines replacing Meta's employees."
+        },
+        {
+          "from": "meta-ai-layoffs",
+          "to": "paramount-warner-merger",
+          "relationship": "Meta is consolidating around AI to reduce headcount and scale; Paramount and Warner Bros. are consolidating against Netflix and Amazon, both of which use AI to personalize and retain subscribers more effectively than human editorial teams can; in both cases smaller human-intensive operations are losing to AI-augmented scale."
+        }
+      ]
+    },
+    {
+      "id": "china-builds-the-cost-schedule",
+      "title": "China Is Systematically Pricing the Cost of Opposing It",
+      "description": "China sanctioned seven European defense firms for arming Taiwan on the same day Taiwan confirmed a $6.6 billion US arms deal. The Trump administration announced a crackdown on Chinese firms exploiting US AI models, and China has been adding EU entities to its export control list in response to Russia sanctions. China is not reacting randomly. It is building a deterrence cost schedule: arm Taiwan and pay; sanction Russia-linked Chinese firms and pay; let US AI models train Chinese products and pay. Each action is a data point in a systematic effort to price the cost of behavior China dislikes, with the goal of making the price visible before anyone has to actually pay it.",
+      "type": "cause-effect",
+      "stories": ["china-eu-arms-ban", "china-embodied-intelligence", "uk-digital-tax-ultimatum"],
+      "connections": [
+        {
+          "from": "china-eu-arms-ban",
+          "to": "china-embodied-intelligence",
+          "relationship": "China is simultaneously restricting European access to Chinese dual-use exports and building its own AI-driven manufacturing capacity; the export controls slow European defense industrial capacity while the robot factory buildout accelerates China's own military-industrial convergence."
+        },
+        {
+          "from": "china-embodied-intelligence",
+          "to": "uk-digital-tax-ultimatum",
+          "relationship": "The US is pressuring the UK to remove its digital services tax that applies to US tech companies while simultaneously failing to tax Chinese AI companies exploiting US models; the UK faces US trade threats for taxing American tech while neither the US nor the EU has successfully constrained Chinese AI and manufacturing expansion."
+        }
+      ]
     }
   ]
 }
