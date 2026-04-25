@@ -1,0 +1,62 @@
+{
+  "date": "2026-04-25",
+  "threads": [
+    {
+      "id": "executive-without-authority",
+      "title": "Acting Without Permission",
+      "description": "Four stories today are variations on the same question: can the executive branch do things that no law authorizes? Trump's asylum ban was struck down for creating removal procedures 'of his own making.' His IRS lawsuit was questioned because he controls both parties. The Polymarket market on courts forcing a tariff refund sits at 64.5%. The tariff sanctions on Chinese refiners are imposed under executive authority with no congressional vote. The same administration that is fighting courts over the scope of presidential power is simultaneously expanding that scope in every domain where it has not yet been stopped.",
+      "type": "tension-cluster",
+      "stories": [
+        "trump-asylum-ban-overturned",
+        "tariffs-one-year-reckoning",
+        "iran-pakistan-talks-hormuz"
+      ],
+      "connections": [
+        {
+          "from": "trump-asylum-ban-overturned",
+          "to": "tariffs-one-year-reckoning",
+          "relationship": "The asylum ban ruling and the Polymarket 64.5% probability of courts forcing tariff refunds both reflect the same judicial posture: courts are increasingly willing to find that the president has exceeded statutory authority, even in domains where broad deference was previously assumed."
+        },
+        {
+          "from": "tariffs-one-year-reckoning",
+          "to": "iran-pakistan-talks-hormuz",
+          "relationship": "The tariff sanctions on Chinese teapot refineries for buying Iranian oil are imposed under the same executive sanction authority that courts have not yet challenged, and that is being used as a pressure tool in the Iran ceasefire negotiations: the sanctions announcement and the Pakistan talks happened the same day, as a signal not a policy."
+        }
+      ]
+    },
+    {
+      "id": "hormuz-as-inflation-amplifier",
+      "title": "The Strait Is Doing the Tariffs' Work",
+      "description": "Tariffs pushed US consumer prices 1.9-2.3% above pre-tariff baseline. The Hormuz closure has pushed Brent crude from $70 to $105, a 50% increase. Both hit the same low-income households through fuel, food transport, and manufactured goods. The Yale Budget Lab found tariffs cost the bottom quintile 5-8% of income. The Hormuz oil shock adds a separate and compounding cost that no one in the tariff debate is accounting for. The households absorbing both shocks simultaneously are not being discussed in either story.",
+      "type": "dependency-web",
+      "stories": [
+        "iran-pakistan-talks-hormuz",
+        "tariffs-one-year-reckoning"
+      ],
+      "connections": [
+        {
+          "from": "iran-pakistan-talks-hormuz",
+          "to": "tariffs-one-year-reckoning",
+          "relationship": "The Hormuz oil shock is an independent inflationary force hitting the same populations already harmed by tariff-driven price increases. A deal that reopens the Strait would provide more consumer price relief than any tariff rollback currently being contemplated, but neither story is being told as connected to the other."
+        }
+      ]
+    },
+    {
+      "id": "meta-liability-infrastructure",
+      "title": "Meta Scales What It Was Fined For Building",
+      "description": "Meta was found liable in March for designing platforms that harmed children. Parents lobbied Congress this week for laws that would constrain how Meta deploys recommendation algorithms. In the same week, Meta announced it will spend $125 billion in 2026 building more AI infrastructure, signed a multi-billion dollar deal for CPU cores to power more autonomous AI agents, and cut 8,000 employees it is replacing with the technology at issue in the liability cases. The jury found the harm came from deliberate algorithmic design. The infrastructure spending is funding more algorithmic design at greater scale. The liability verdict and the capex expansion are about the same product.",
+      "type": "cause-effect",
+      "stories": [
+        "meta-social-media-liability",
+        "meta-aws-graviton-ai-chips"
+      ],
+      "connections": [
+        {
+          "from": "meta-social-media-liability",
+          "to": "meta-aws-graviton-ai-chips",
+          "relationship": "The landmark verdicts found Meta's recommendation algorithms caused measurable harm to minors. Meta's response is to spend $125B building more capable algorithms at infrastructure scale. The legal liability is for the 2015-2023 system; the infrastructure investment is building the 2026-2030 system that will face the same questions."
+        }
+      ]
+    }
+  ]
+}

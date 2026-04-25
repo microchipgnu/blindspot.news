@@ -1,0 +1,93 @@
+{
+  "id": "meta-social-media-liability",
+  "date": "2026-04-25",
+  "generatedAt": "2026-04-25T07:40:00Z",
+  "title": "The Big Tobacco Moment That Isn't",
+  "subtitle": "Two landmark verdicts against Meta and Google have parents lobbying Congress. The companies will appeal. The real question is whether the courtroom victory can survive Section 230 and the First Amendment.",
+  "topic": "society",
+  "category": "power",
+  "tags": ["Meta", "Google", "social media", "children", "Section 230", "liability", "Congress"],
+  "coverImage": {
+    "url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2267821844.jpg?c=16x9&q=w_800,c_fill",
+    "local": "/images/reports/2026-04-25/social-media-liability.jpg",
+    "credit": "AFP / Getty Images via CNN"
+  },
+  "sources": [
+    {
+      "url": "https://minnlawyer.com/2026/04/20/jury-verdicts-social-media-addiction-lawsuits/",
+      "publisher": "Minnesota Lawyer",
+      "angle": "Detailed legal analysis of the New Mexico ($375M) and California ($6M) verdicts, the product liability versus speech framing shift, and the 2,465 pending MDL cases"
+    },
+    {
+      "url": "https://rollcall.com/2026/04/20/social-media-verdicts-could-buoy-online-regulatory-bills/",
+      "publisher": "Roll Call",
+      "angle": "Congressional angle: how the verdicts are affecting the Kids Online Safety Act debate and the First Amendment constitutional constraints on regulation"
+    },
+    {
+      "url": "https://edition.cnn.com/2026/04/20/tech/parents-fight-online-youth-safety-laws",
+      "publisher": "CNN",
+      "angle": "Parents lobbying Congress this week, including a parent suing OpenAI over ChatGPT suicide encouragement, and the fight over federal preemption of state laws"
+    },
+    {
+      "url": "https://www.jdsupra.com/legalnews/meta-verdict-poised-to-shift-platform-6414649/",
+      "publisher": "JD Supra / DarrowEverett LLP",
+      "angle": "Legal analysis of how the New Mexico verdict's public nuisance theory could enable state governments to demand platform redesign, not just damages"
+    }
+  ],
+  "brief": {
+    "actors": ["Meta", "Google", "Congress", "SCOTUS"],
+    "whatHappened": "In late March 2026, two juries found Meta and Google liable for harming young users. A New Mexico jury awarded $375 million in civil penalties after finding Meta violated the state's Unfair Practices Act by enabling child sexual exploitation and misleading consumers about platform safety. A California jury found Meta and YouTube liable for over $6 million in compensatory and punitive damages for designing addictive platforms that caused severe mental injury to a young woman who began using the platforms as a child. Both companies announced appeals. This week, around 60 parents traveled to Capitol Hill to lobby for federal legislation, hoping to build on the verdicts. Norway announced plans to ban social media for users under 16, joining Australia and Indonesia.",
+    "bottomLine": "The verdicts broke new legal ground by treating social media design features as products subject to product liability law rather than speech protected by Section 230 or the First Amendment. Whether they change anything depends entirely on appellate courts, not juries.",
+    "hiddenBets": [
+      {
+        "assumption": "The verdicts will force platform redesign",
+        "whyItMightBeWrong": "Platforms have paid settlements for years without changing their core engagement mechanics. Meta's appeal will take 3-4 years. Until the appellate courts affirm a verdict that survives First Amendment review, the cost-benefit calculation for platforms has not changed: fight everything, settle some things late, change nothing fundamental."
+      },
+      {
+        "assumption": "Congress is ready to act",
+        "whyItMightBeWrong": "The Kids Online Safety Act has stalled repeatedly. House Republicans introduced a version that preempts state laws, which would undo the very state-level victories that produced these verdicts. The parents lobbying Congress this week face a legislature where the tech lobby has successfully blocked action for a decade and where the preemption fight pits the federal action they want against the state mechanisms that just won."
+      },
+      {
+        "assumption": "Section 230 is the main obstacle",
+        "whyItMightBeWrong": "The New Mexico and California cases succeeded under existing state law by targeting product design rather than content moderation. Section 230 immunity does not clearly protect design choices that are not about content. The path around Section 230 already exists; the obstacle is First Amendment protection for 'expressive choices' that platforms claim their algorithms represent."
+      }
+    ],
+    "realDisagreement": "The real fork: should liability attach to the product design choices that make platforms addictive, or does that amount to regulating the editorial choices platforms make about what to show users? The California judge allowed the product design claim. The First Amendment argument is that algorithmic recommendations are expressive, and regulating them amounts to compelled speech or content regulation. The Supreme Court's Moody v. NetChoice (2024) said platforms do make 'expressive choices' protected by the First Amendment. You cannot have both: either algorithms are products that can be defective, or they are speech that cannot be regulated. The courts have not resolved this yet. The side effect is that a ruling that algorithmic recommendations are speech would immunize platforms from almost all liability for design choices indefinitely.",
+    "whatNoOneIsSaying": "The 'Big Tobacco moment' comparison is doing work it should not do. Big Tobacco's liability moment came when industry documents showed companies knew their product was lethal and denied it. Those documents allowed juries to award punitive damages specifically because the concealment was deliberate. The Meta and Google cases have similar internal documents showing platform executives knew about harms. But tobacco was physically addictive and the only pathway to harm was through use. Social media harm pathways are contested, confounded, and algorithmically complex. Appellate courts are more skeptical of contested science than juries. The comparison flatters the litigation's prospects.",
+    "whoPays": [
+      {
+        "who": "Teenagers who were harmed before the verdicts",
+        "how": "The MDL has 2,465 pending cases. Even if plaintiffs win, the damages for individual cases are modest compared to litigation costs. A settlement that produces structural platform changes would help everyone; a settlement that just pays money helps almost no one except lawyers.",
+        "when": "First MDL trials expected later in 2026; appellate resolution of California and New Mexico is 3-5 years out"
+      },
+      {
+        "who": "State attorneys general outside New Mexico",
+        "how": "Massachusetts, Rhode Island, and 41 other AGs have similar suits. If the New Mexico verdict survives appeal, they have a blueprint. If it fails on First Amendment grounds, they lose their best theory of liability simultaneously.",
+        "when": "Dependent on New Mexico appellate timeline"
+      },
+      {
+        "who": "Small and mid-size platforms",
+        "how": "Any federal legislation will have the same compliance cost structure for small platforms as large ones, but Meta and Google have the legal and technical resources to comply. Smaller platforms may be regulated out of existence or into acquisition, consolidating the market further.",
+        "when": "Relevant only if federal legislation passes; currently a theoretical risk"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Appeals succeed on First Amendment grounds",
+        "whatHappens": "Meta and Google win on appeal by arguing that algorithmic curation is protected expressive activity. The verdicts are vacated. Congressional action becomes the only pathway. The platform liability movement resets to pre-2026 conditions.",
+        "signal": "The 9th Circuit panel includes judges who have previously protected algorithmic speech; oral argument focuses on Moody v. NetChoice's expressive choices framework"
+      },
+      {
+        "name": "Congress passes preemptive federal law",
+        "whatHappens": "Republicans and Democrats agree on a federal framework that creates a duty of care for minors while preempting state laws. State-level AG suits are mooted. Platforms accept mild design requirements in exchange for immunity from the wave of individual litigation.",
+        "signal": "Senate takes up Kids Online Safety Act with a compromise preemption provision; tech lobbying shifts from opposition to shaping the bill"
+      },
+      {
+        "name": "Appellate affirmance triggers mass settlement",
+        "whatHappens": "California appellate courts affirm the verdict. Meta and Google face thousands of similar cases with now-validated theories. They negotiate a global settlement of $5-10B with structural requirements including algorithm transparency for minors.",
+        "signal": "Meta's legal filings start using settlement language rather than litigation-to-the-end language"
+      }
+    ],
+    "whatWouldChange": "If the California appeals court issues an opinion that clearly reconciles the product liability finding with Moody v. NetChoice's expressive choices doctrine, that creates the legal framework that makes the tobacco comparison accurate. Without that reconciliation, the verdicts remain legally fragile regardless of their moral clarity."
+  }
+}

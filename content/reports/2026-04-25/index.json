@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-25",
+  "generatedAt": "2026-04-25T07:45:00Z",
+  "reports": [
+    {
+      "id": "iran-pakistan-talks-hormuz",
+      "title": "Iran Sends Diplomat to Pakistan, Refuses to Meet US Envoys",
+      "subtitle": "A ceasefire without a deal: both sides need the talks to succeed and both need to be seen not needing them.",
+      "category": "conflict"
+    },
+    {
+      "id": "trump-asylum-ban-overturned",
+      "title": "Appeals Court Kills Trump's Asylum Ban. The Supreme Court Is Next.",
+      "subtitle": "A 2-1 ruling says the president cannot rewrite immigration law by proclamation. Trump's path to SCOTUS is now the point.",
+      "category": "power"
+    },
+    {
+      "id": "tariffs-one-year-reckoning",
+      "title": "One Year of Trump Tariffs: The Numbers Are In",
+      "subtitle": "The Budget Lab at Yale finds 460,000 jobs lost and $1,700 per household per year. The administration says this proves the policy is working.",
+      "category": "power"
+    },
+    {
+      "id": "meta-social-media-liability",
+      "title": "The Big Tobacco Moment That Isn't",
+      "subtitle": "Two landmark verdicts against Meta and Google have parents lobbying Congress. The companies will appeal. The real question is whether the courtroom victory can survive Section 230 and the First Amendment.",
+      "category": "power"
+    },
+    {
+      "id": "meta-aws-graviton-ai-chips",
+      "title": "Meta Bets Billions on AWS Chips While Cutting 8,000 Jobs",
+      "subtitle": "The agentic AI era needs CPUs more than GPUs, and that changes who controls the infrastructure of artificial intelligence.",
+      "category": "power"
+    }
+  ]
+}

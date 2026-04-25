@@ -1,0 +1,92 @@
+{
+  "id": "tariffs-one-year-reckoning",
+  "date": "2026-04-25",
+  "generatedAt": "2026-04-25T07:40:00Z",
+  "title": "One Year of Trump Tariffs: The Numbers Are In",
+  "subtitle": "The Budget Lab at Yale finds 460,000 jobs lost and $1,700 per household per year. The administration says this proves the policy is working.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["tariffs", "Trump", "trade", "economy", "inflation", "jobs"],
+  "coverImage": {
+    "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-179938,msid-130506386/file-photo-oil-tankers-pass-through-the-strait-of-hormuz.jpg",
+    "local": "/images/reports/2026-04-25/tariffs-economy.jpg",
+    "credit": "Reuters / Economic Times"
+  },
+  "sources": [
+    {
+      "url": "https://www.thedailystar.net/slow-reads/geopolitical-insights/news/how-trumps-tariffs-have-failed-the-us-economy-4156216",
+      "publisher": "The Daily Star (Bangladesh)",
+      "angle": "Comprehensive economic analysis citing Yale Budget Lab data showing 0.5-1% price increase above baseline, 460k fewer jobs, $90B annual GDP reduction. Distributional analysis shows regressive burden on low-income households."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "China", "EU", "US"],
+    "whatHappened": "One year after Trump's April 2, 2025 'Liberation Day' tariff announcement, the Yale Budget Lab published a retrospective showing the 2025 tariff regime pushed the US effective tariff rate to its highest level since 1935. Consumer goods prices ran 1.9-2.3% above pre-tariff trend. Average household loss is estimated at $1,700 per year after partial moderation from exemptions. Yale estimates 460,000 fewer US payroll jobs by end of 2026 and a permanent GDP reduction of roughly 0.3% ($90 billion annually). Foreign direct investment fell to its second-weakest quarterly reading since 2022. The administration's promised investment boom did not materialize: the White House's own tracker listed announced commitments far below publicly claimed totals, and those commitments were multi-year aspirations rather than realized capital investment.",
+    "bottomLine": "The tariffs are a regressive tax on American households that redistributes income from consumers to a narrow set of protected industries, with the heaviest burden falling on the people who can least afford it.",
+    "hiddenBets": [
+      {
+        "assumption": "The tariff pain is temporary and the manufacturing gains will compensate",
+        "whyItMightBeWrong": "Yale's sectoral analysis shows manufacturing output may rise 2.9% long-run while construction contracts 4.1% and agriculture shrinks 1.4%. The net is negative, and the manufacturing gains are not in high-wage advanced industries but in sectors that depend on government protection to survive in the first place."
+      },
+      {
+        "assumption": "The job creation narrative is still viable",
+        "whyItMightBeWrong": "The US added only 584,000 jobs in all of 2025, the worst year since 2009 outside the pandemic. The promised FDI surge did not occur. The jobs that protectionism was supposed to return are not arriving in the data."
+      },
+      {
+        "assumption": "Trading partners will eventually capitulate and make deals",
+        "whyItMightBeWrong": "The Polymarket probability for a US-EU trade deal before 2027 is 11%. For Japan it is 18.5%. For China there is no market because no one thinks a deal is plausible in this timeframe. The 'leverage' theory requires counterparties to value access to the US market more than they value solidarity with each other, and the evidence is that partners are instead diversifying away from the US market."
+      }
+    ],
+    "realDisagreement": "The genuine argument for the tariffs is not economic: it is strategic. The case is that trade deficits represent a transfer of industrial capacity to adversaries that creates long-run security vulnerabilities, and that the economic cost of rebalancing now is worth paying to avoid strategic dependency later. That argument can be right even if every short-term economic indicator is negative. The opposing view is that the strategy is incoherent because you cannot rebuild industrial capacity by making inputs more expensive without simultaneously investing in the infrastructure, workforce, and technology needed for manufacturing. Both cannot be right. The administration has imposed the costs without doing the complementary investment, which means neither the economic nor the strategic goal is being achieved.",
+    "whatNoOneIsSaying": "The distributional data is the story no one in Washington is willing to say clearly: the tariffs are a massive wealth transfer from low-income households to upper-middle-income manufacturing workers and capital owners in protected sectors. The administration has built a political coalition around the working class while implementing policies that disproportionately harm the working class. The Yale Budget Lab made this precise. No elected Republican has cited it.",
+    "whoPays": [
+      {
+        "who": "Low-income US households",
+        "how": "A $1,700 annual cost represents 5-8% of income for households in the bottom quintile versus less than 1% for high-income households. They cannot substitute away from tariffed goods because they buy the cheapest available, which is now the tariffed import.",
+        "when": "Already fully priced in; permanent under current policy"
+      },
+      {
+        "who": "US construction sector workers",
+        "how": "Construction contracts 4.1% in Yale's long-run model because tariffs increase the cost of steel, aluminum, and other inputs used in building. Construction employs 8 million workers, mostly lower-skill. These are exactly the 'working class' voters the tariffs are supposed to help.",
+        "when": "Already visible in permit data; worsening over 12-24 months"
+      },
+      {
+        "who": "US exporters",
+        "how": "Retaliation and trade diversion have cost market share in agriculture and manufactured goods. The loss is not just about retaliation tariffs: foreign buyers are shifting to non-US suppliers to reduce exposure to future US policy instability. That preference shift is durable even if tariffs are later reduced.",
+        "when": "Ongoing; some sectors like soybeans already report permanent loss of market share to Brazilian competitors"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Deal season: tariffs come down in exchange for announcements",
+        "whatHappens": "The administration negotiates bilateral deals with key partners (India, UK, South Korea) that reduce tariffs in exchange for investment announcements and market access concessions. The overall tariff level drops but not to pre-2025 levels. The macroeconomic impact persists but moderates.",
+        "signal": "Trump announces a 'framework deal' with India or UK before the midterms; Polymarket shows 24.5% on India trade deal before 2027"
+      },
+      {
+        "name": "Tariffs entrench as permanent policy",
+        "whatHappens": "No deals materialize before the midterms. Tariffs become the baseline assumption for business planning. US manufacturing investment modestly increases in protected sectors. The distributional and macroeconomic costs are permanently absorbed by households and non-protected industries.",
+        "signal": "White House stops describing tariffs as temporary leverage and starts defending them as permanent industrial policy"
+      },
+      {
+        "name": "Political reversal under economic pressure",
+        "whatHappens": "A recession or significant consumer confidence collapse forces a retreat. The administration uses executive action to lower tariffs while claiming it got concessions, or Congress passes a bill giving itself more oversight of tariff authority.",
+        "signal": "Consumer confidence index drops below 2020 levels; Republican senators from agricultural states publicly break with tariff policy"
+      }
+    ],
+    "whatWouldChange": "If real manufacturing investment data (not announcements, not commitments, but actual capital formation in manufacturing) shows a statistically significant increase by Q3 2026, the strategic case for the tariffs would deserve serious reconsideration. That is the specific empirical threshold that would challenge the bottom line.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Court Force Trump to Refund Tariffs?",
+        "url": "https://polymarket.com/event/will-the-court-force-trump-to-refund-tariffs-2026-06-30",
+        "probability": 0.645
+      },
+      {
+        "platform": "Polymarket",
+        "question": "U.S. agrees to a new trade deal with India before 2027?",
+        "url": "https://polymarket.com/event/which-countries-will-trump-make-new-trade-deals-with-before-2027-921",
+        "probability": 0.245
+      }
+    ]
+  }
+}
