@@ -1,0 +1,113 @@
+{
+  "id": "zelenskyy-azerbaijan-russia-talks",
+  "date": "2026-04-25",
+  "generatedAt": "2026-04-25T22:26:00Z",
+  "title": "Zelenskyy Flew to Baku and Offered to Meet Putin There. The Market Gives It Less Than 1% Odds by April 30.",
+  "subtitle": "Ukraine's president is proposing tripartite talks in a country that sold weapons to Russia and shares a mediator with both sides. The gesture is real. The ceasefire is not.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["Zelenskyy", "Ukraine", "Russia", "Azerbaijan", "Putin", "ceasefire", "negotiations"],
+  "coverImage": {
+    "url": "https://cdnn21.img.ria.ru/images/sharing/article/2088926025.jpg?20889265121777127439",
+    "local": "/images/reports/2026-04-25/zelenskyy-azerbaijan-russia-talks.jpg",
+    "credit": "Reuters / RIA Novosti"
+  },
+  "sources": [
+    {
+      "url": "https://www.euronews.com/2026/04/25/zelenskyy-says-he-is-ready-to-meet-putin-in-azerbaijan",
+      "publisher": "Euronews",
+      "angle": "Neutral account of the visit; notes the Kremlin had previously rejected meeting anywhere except Moscow and that Zelenskyy conditioned talks on Putin demonstrating readiness for diplomacy."
+    },
+    {
+      "url": "https://en.hvylya.net/news/2366-zelensky-in-baku-names-condition-for-talks-with-russia-signs-six-pacts-with-aliyev",
+      "publisher": "Hvylya",
+      "angle": "Details the six bilateral agreements signed with Aliyev including possible joint military production; frames this as Ukraine building strategic depth through Azerbaijan's neutrality."
+    },
+    {
+      "url": "https://cryptobriefing.com/zelenskyy-proposes-russia-talks-in-azerbaijan-amid-low-ceasefire-odds/",
+      "publisher": "CryptoBriefing",
+      "angle": "Notes the Polymarket Russia-Ukraine ceasefire by May 31 market sits at 5% probability; frames the diplomatic gesture against the prediction market assessment."
+    },
+    {
+      "url": "https://iz.ru/en/node/2085810",
+      "publisher": "Izvestia",
+      "angle": "Russian state media account; neutral in tone but notes Zelenskyy proposed Azerbaijan for Russia-Ukraine-US trilateral talks, not just bilateral meetings, which shifts the frame toward American involvement."
+    }
+  ],
+  "brief": {
+    "actors": ["Zelenskyy", "Ukraine", "Russia", "Putin", "Azerbaijan", "Aliyev", "US", "Trump"],
+    "whatHappened": "Ukrainian President Volodymyr Zelenskyy made his first visit to Azerbaijan since Russia's 2022 invasion, meeting with President Ilham Aliyev in Baku on April 25. He signed six bilateral agreements covering security cooperation, the defense-industrial complex, energy, and humanitarian aid, including the possibility of joint military production. Zelenskyy stated that he is ready to hold trilateral talks with Russia and the United States in Azerbaijan, with Baku as mediator. He conditioned the meeting on Russia demonstrating genuine readiness for diplomacy. The Kremlin had previously rejected any meeting outside Moscow. Prediction markets currently price a Russia-Ukraine ceasefire by April 30 at less than 1 percent, and by May 31 at 5 percent.",
+    "bottomLine": "Zelenskyy is in Baku signing weapons cooperation agreements and calling for talks with the country that is supplying weapons to kill Ukrainians. This is not a contradiction. It is a strategy: Azerbaijan is useful precisely because it is talking to everyone.",
+    "hiddenBets": [
+      {
+        "assumption": "Azerbaijan is a neutral mediator",
+        "whyItMightBeWrong": "Azerbaijan sold weapons to Russia throughout the invasion and shares a close relationship with Moscow through the Commonwealth of Independent States and energy infrastructure. Aliyev is not neutral. He is balancing, which is not the same thing. Ukraine's willingness to sign military cooperation agreements with Azerbaijan while proposing it as a mediator reveals that Kyiv is accepting this imbalance as the cost of using Baku's unique relationships."
+      },
+      {
+        "assumption": "Putin's refusal to meet outside Moscow signals he does not want talks",
+        "whyItMightBeWrong": "The Moscow condition may be about framing, not substance. A meeting in Moscow signals Russia's power position. A meeting in Baku or any third country signals parity. If Putin eventually agrees to talks, the venue will tell you what the outcome is designed to look like before any agenda item is discussed."
+      },
+      {
+        "assumption": "A ceasefire requires Zelenskyy and Putin in the same room",
+        "whyItMightBeWrong": "The most durable ceasefires in modern conflict have been negotiated by proxies or through intermediary frameworks before leaders meet. Zelenskyy's Baku proposal may be intended to establish the framework rather than produce the meeting. If Aliyev begins shuttling between Kyiv and Moscow, the summit offer will have served its purpose regardless of whether it happens."
+      }
+    ],
+    "realDisagreement": "The real fork is whether Ukraine has more to lose from talking or from not talking. Ukraine's Western supporters want a negotiated end that preserves enough of Ukraine's territorial and political independence to be defensible domestically. Russia wants a settlement that locks in its 2026 gains and prevents Ukraine from joining NATO. Those two positions are not currently compatible at any table. The market pricing of 5 percent by May 31 is not reflecting insufficient diplomatic effort. It is reflecting the absence of a mutually acceptable ZOPA, a zone of possible agreement. Zelenskyy's Baku offer is genuine in the sense that he would accept talks. It is not genuine in the sense that there is no deal available that both sides could say yes to right now. The gesture costs Ukraine little and demonstrates to its Western backers that Kyiv is not the obstacle.",
+    "whatNoOneIsSaying": "Aliyev is getting weapons cooperation agreements from Ukraine, access to the global stage as a peace mediator, and continued energy and trade relationships with Russia, all at the same time. Azerbaijan has more to gain from the war continuing than from a ceasefire, because the war is what makes Baku's multipolarity valuable. A ceasefire would normalize everything and Aliyev's unique bridging position disappears.",
+    "whoPays": [
+      {
+        "who": "Ukrainian soldiers and civilians",
+        "how": "Every week of continued fighting at current casualty rates costs roughly 2,000-3,000 Ukrainian deaths and injuries. Diplomatic gestures that signal flexibility without producing a deal extend the timeline of those losses.",
+        "when": "Ongoing"
+      },
+      {
+        "who": "Trump administration",
+        "how": "Trump committed to ending the war quickly. The 5% ceasefire market says the market does not believe it. Every failed diplomatic initiative is a reminder that the promise was not underwritten by leverage.",
+        "when": "Immediate political cost; structural pressure intensifies toward summer"
+      },
+      {
+        "who": "Non-aligned countries being courted by both sides",
+        "how": "If Azerbaijan successfully positions itself as the indispensable mediator, other middle powers will copy the model: offer partial support to both sides, never choose, and extract maximum diplomatic rent from the ambiguity. This reduces the cost of not choosing a side in a major war.",
+        "when": "Medium-term structural effect on international coalition-building"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Shuttle diplomacy begins",
+        "whatHappens": "Aliyev agrees to carry a formal proposal from Zelenskyy to Moscow. Putin does not publicly reject it. Low-level Russian and Ukrainian technical officials meet in Baku on a narrow agenda item, probably prisoner exchanges. No ceasefire results but the channel is open.",
+        "signal": "Aliyev visits Moscow within 30 days of the Baku summit"
+      },
+      {
+        "name": "Kremlin public rejection",
+        "whatHappens": "Russia formally declines the Baku proposal, citing the need for talks to occur in Moscow or via direct bilateral channel without third-party involvement. Zelenskyy uses the rejection to reassert the Kremlin's intransigence to European partners and secure additional military commitments.",
+        "signal": "Kremlin spokesperson issues a formal statement rejecting the Baku framework within two weeks"
+      },
+      {
+        "name": "US-brokered parallel track",
+        "whatHappens": "The Trump administration uses the Baku offer as an opening to push its own ceasefire framework, bypassing Aliyev and proposing American-mediated talks in a neutral Gulf state. This displaces Azerbaijan's mediator role but achieves Ukraine's goal of US engagement.",
+        "signal": "State Department announces a formal US-mediated Ukraine-Russia contact group"
+      }
+    ],
+    "whatWouldChange": "If Russia indicates willingness to discuss territorial arrangements that leave Ukraine with meaningful sovereignty over any portion of its pre-2022 territory, the 5 percent ceasefire probability would need to be revised upward. Russia's current public position demands recognition of all occupied territory as Russian. Until that position moves, the market is right.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Russia x Ukraine ceasefire by April 30, 2026?",
+        "url": "https://polymarket.com/event/russia-x-ukraine-ceasefire-by-april-30-2026",
+        "probability": 0.0075
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Russia x Ukraine ceasefire by May 31, 2026?",
+        "url": "https://polymarket.com/event/russia-x-ukraine-ceasefire-by-may-31-2026",
+        "probability": 0.0515
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Russia x Ukraine ceasefire by end of 2026?",
+        "url": "https://polymarket.com/event/russia-x-ukraine-ceasefire-before-2027",
+        "probability": 0.255
+      }
+    ]
+  }
+}

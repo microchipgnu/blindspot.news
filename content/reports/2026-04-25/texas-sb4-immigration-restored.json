@@ -1,0 +1,93 @@
+{
+  "id": "texas-sb4-immigration-restored",
+  "date": "2026-04-25",
+  "generatedAt": "2026-04-25T22:25:00Z",
+  "title": "Texas Can Now Arrest People for Crossing the Border. The Fifth Circuit Didn't Say That's Legal.",
+  "subtitle": "A 10-7 vote lifted the injunction against Texas SB4 on standing grounds. The constitutionality question was left entirely open. Texas is now enforcing a law that courts have not ruled constitutional.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["Texas", "immigration", "SB4", "Fifth Circuit", "Supremacy Clause", "enforcement"],
+  "coverImage": {
+    "url": "https://s.yimg.com/os/en/reuters.com/4ee9ea0104c91fa6230afd420239f153",
+    "local": "/images/reports/2026-04-25/texas-sb4-immigration-restored.jpg",
+    "credit": "Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://www.aclutx.org/press-releases/fifth-circuit-rules-challenge-to-extreme-texas-immigration-law-must-be-dismissed",
+      "publisher": "ACLU of Texas",
+      "angle": "Procedural ruling only: court found challengers lacked standing. Did not reach the constitutional question of whether SB4 violates the Supremacy Clause. Every prior court that reached the merits found the law unconstitutional."
+    },
+    {
+      "url": "https://www.courthousenews.com/fifth-circuit-unblocks-texas-immigration-law/",
+      "publisher": "Courthouse News Service",
+      "angle": "10-7 decision; dissent argued the majority improperly applied standing doctrine to avoid reaching a constitutional question it would have lost on."
+    },
+    {
+      "url": "https://www.detroitnews.com/story/news/nation/2026/04/24/u-s-appeals-court-allows-texas-to-enforce-migrant-arrest-law",
+      "publisher": "Detroit News / Reuters",
+      "angle": "Factual account: law allows state and local law enforcement to arrest people suspected of illegal border crossing and state judges to order deportation, powers previously reserved to federal government."
+    },
+    {
+      "url": "https://www.econotimes.com/Federal-Appeals-Court-Allows-Texas-SB4-Immigration-Law-Enforcement-to-Proceed",
+      "publisher": "EconoTimes",
+      "angle": "Notes the standing rationale: advocacy groups could not establish sufficient injury simply by expanding services to assist affected migrants, creating a higher bar for who can challenge state immigration laws."
+    }
+  ],
+  "brief": {
+    "actors": ["Texas", "Fifth Circuit", "ACLU", "ICE", "Trump", "migrants"],
+    "whatHappened": "The Fifth Circuit Court of Appeals, in a 10-7 decision on April 24, lifted the preliminary injunction blocking Texas Senate Bill 4, the law that allows state and local law enforcement to arrest people suspected of illegally crossing the US-Mexico border and authorizes state judges to issue deportation orders. The court did not rule on whether SB4 is constitutional. Instead, the majority found that the nonprofit organizations that brought the lawsuit lacked standing because their injury, expanding services to help affected migrants, was not sufficient to confer legal standing. Every prior court that had reached the constitutional merits found SB4 likely unconstitutional as a violation of the Supremacy Clause, which reserves immigration enforcement to the federal government.",
+    "bottomLine": "Texas is now enforcing a law that creates a parallel state immigration enforcement system, and the constitutional question of whether a state can arrest people for immigration violations has been left unresolved by a court that explicitly chose not to answer it.",
+    "hiddenBets": [
+      {
+        "assumption": "The standing ruling is a procedural dead-end that will prevent constitutional review",
+        "whyItMightBeWrong": "The ACLU and partner organizations can find new plaintiffs with stronger standing claims, specifically individual migrants who have been arrested under SB4 and can demonstrate direct personal injury. The standing problem is fixable. It delays constitutional review but does not eliminate it."
+      },
+      {
+        "assumption": "Texas SB4 enforcement will be practically limited",
+        "whyItMightBeWrong": "SB4 allows any Texas law enforcement officer, including municipal police, to make immigration arrests. Local police in Texas are not trained in immigration law and have no coordination infrastructure with ICE. Enforcement will be uneven, driven by local political pressure, and susceptible to racial profiling claims that could generate the individual plaintiffs needed for the next round of litigation."
+      },
+      {
+        "assumption": "Federal immigration enforcement and state enforcement will coordinate smoothly",
+        "whyItMightBeWrong": "ICE has formal arrest procedures, detention standards, and deportation logistics. Texas state courts and local jails do not. A state judge issuing a deportation order has no mechanism to actually deport anyone; only federal immigration authorities can do that. SB4 creates state enforcement authority without the infrastructure to complete the enforcement cycle."
+      }
+    ],
+    "realDisagreement": "The real fork is whether states can enforce immigration law at all when the federal government has exclusive authority under the Supremacy Clause. The Trump administration has not challenged SB4 because the practical goals align. But the legal precedent cuts in two directions. If Texas can arrest people for immigration violations when the federal government is aggressively enforcing the border, those same state arrest powers survive to a future administration with different enforcement priorities. A Democratic president in 2029 cannot take back the state arrest authority that Texas is now exercising under a legal ruling that was decided on standing, not merits. The precedent that gets created here outlasts the political alignment that enabled it.",
+    "whatNoOneIsSaying": "Texas is building a state immigration enforcement apparatus that will remain in place regardless of who controls the federal government. The Trump administration is not noting this publicly because right now it helps them. The left is not noting it because the goal is to block SB4, not explain its long-term structural consequences. But Texas state troopers arresting people for immigration violations is not a temporary policy. It is a new institutional capability that states can now claim.",
+    "whoPays": [
+      {
+        "who": "Migrants and asylum seekers in Texas",
+        "how": "State arrests create a second enforcement layer with less legal protection than federal immigration proceedings. Local jails are less equipped to handle immigration detainees, and state judges issuing deportation orders lack the due process infrastructure of immigration courts.",
+        "when": "Immediate"
+      },
+      {
+        "who": "Texas municipalities and counties",
+        "how": "Local law enforcement is now potentially liable for immigration arrests without clear ICE coordination protocols. Costs fall on local budgets: detention, processing, and legal exposure from enforcement errors.",
+        "when": "Immediate and scaling with enforcement activity"
+      },
+      {
+        "who": "Immigrant advocacy organizations",
+        "how": "The standing ruling creates a harder barrier to challenge state immigration laws. Organizations that expand services to help affected communities are now told that expansion is not itself sufficient injury for legal standing. The legal architecture for challenging similar laws in other states has become more difficult.",
+        "when": "Immediate legal strategy consequences"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "New plaintiffs, new case",
+        "whatHappens": "An individual migrant arrested under SB4 files a federal lawsuit. This plaintiff has direct personal injury from the arrest. The constitutional question reaches the Fifth Circuit on the merits, and then SCOTUS. The outcome depends on how SCOTUS reads the Supremacy Clause in the context of cooperative federal-state immigration enforcement.",
+        "signal": "First documented arrest under SB4 and subsequent federal civil rights lawsuit filed within 30 days"
+      },
+      {
+        "name": "Enforcement chaos",
+        "whatHappens": "Texas counties enforce SB4 inconsistently. Urban jurisdictions with Democratic mayors decline to enforce it. Rural jurisdictions aggressively enforce it. The result is patchwork immigration law inside Texas itself, generating political conflict between state and local government.",
+        "signal": "Austin or Dallas city council passes a formal non-enforcement resolution"
+      },
+      {
+        "name": "Federal preemption assertion",
+        "whatHappens": "A future administration, not the current one, invokes federal preemption to block Texas SB4 enforcement. The case returns to the courts on preemption grounds, which do not require the standing analysis that let SB4 survive this round.",
+        "signal": "DOJ under a new administration files a formal preemption action against Texas SB4"
+      }
+    ],
+    "whatWouldChange": "A Supreme Court ruling on whether state immigration enforcement powers are consistent with the Supremacy Clause would resolve the constitutional question that the Fifth Circuit deliberately left open. Without that ruling, the enforcement authority Texas now has is functionally unlimited in the absence of a federal legal challenge."
+  }
+}

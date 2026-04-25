@@ -1,0 +1,93 @@
+{
+  "id": "eu-rosatom-sanctions-loophole",
+  "date": "2026-04-25",
+  "generatedAt": "2026-04-25T22:23:00Z",
+  "title": "The EU's 20th Sanctions Package Still Pays Russia to Run a Nuclear Power Plant in Ukraine",
+  "subtitle": "Europe has sanctioned Russian oil, banks, oligarchs, and shadow tankers. It has paid Rosatom 1.6 billion euros since 2022. The 20th package did not change this.",
+  "topic": "geopolitics",
+  "category": "power",
+  "tags": ["EU", "Russia", "Rosatom", "sanctions", "nuclear", "Zaporizhzhia", "Ukraine"],
+  "coverImage": {
+    "url": "https://nako.org.ua/wp-content/uploads/2025/12/1752852499-sanctions_rf-6.jpg-6.jpg",
+    "local": "/images/reports/2026-04-25/eu-rosatom-sanctions-loophole.jpg",
+    "credit": "NAKO / National Agency on Corruption Prevention of Ukraine"
+  },
+  "sources": [
+    {
+      "url": "https://euromaidanpress.com/2026/04/24/rosatom-sanctions-eu-20th-package-nuclear-loophole/",
+      "publisher": "Euromaidan Press",
+      "angle": "Ukraine-sympathetic analysis documenting that Rosatom, which operates the occupied Zaporizhzhia plant, remains exempt from EU sanctions despite running a nuclear facility on Ukrainian territory while Ukrainian forces die."
+    },
+    {
+      "url": "https://nako.org.ua/en/direct/sankciyi/eu-adopts-20th-sanctions-package-against-russia/",
+      "publisher": "NAKO (National Agency on Corruption Prevention of Ukraine)",
+      "angle": "Full breakdown of the 20th package: 120 new individual and entity listings, energy sector targeting, shadow fleet restrictions. Notes what was included and what was not."
+    },
+    {
+      "url": "https://eu.news-pravda.com/eu/2026/04/22/188985.html",
+      "publisher": "Pravda EU",
+      "angle": "Reports that the European Commission stripped the proposed ban on Russian oil maritime transport from the 20th package before adoption, citing diplomatic source in Brussels."
+    },
+    {
+      "url": "https://eutoday.net/eus-20th-sanctions-package-targets-russias-energy-revenues-banks-crypto-and-shadow-fleet",
+      "publisher": "EUToday",
+      "angle": "Official framing: the package targets energy revenues, finance, crypto, and shadow fleet. Describes the package as the largest in two years without mentioning Rosatom."
+    }
+  ],
+  "brief": {
+    "actors": ["EU", "Russia", "Rosatom", "Ukraine", "Germany", "Hungary", "France"],
+    "whatHappened": "The European Union adopted its 20th sanctions package against Russia on April 23, 2026. The package includes 120 new individual and entity listings, restrictions on the shadow oil tanker fleet, cryptocurrency exchange targeting, and additional financial system pressure. It is described as the largest package in two years. Rosatom, Russia's state nuclear corporation and the operator of the occupied Zaporizhzhia Nuclear Power Plant on Ukrainian soil, was not included. Since February 2022, the EU has paid Rosatom more than 1.6 billion euros for uranium imports and nuclear services. A proposed ban on maritime transport of Russian oil was also stripped from the package before adoption.",
+    "bottomLine": "The EU has run 20 sanctions packages, and the institution most visibly present inside occupied Ukrainian territory is still being paid by European governments.",
+    "hiddenBets": [
+      {
+        "assumption": "The Rosatom exemption reflects a genuine nuclear safety concern, not a political compromise",
+        "whyItMightBeWrong": "Several EU member states, particularly Hungary, Slovakia, and Finland, depend on Rosatom for reactor fuel and nuclear services. The safety framing is real but it also conveniently covers energy dependency. These countries have separately blocked or weakened sanctions in other areas. The nuclear safety argument is legitimate and is also strategically useful for countries that do not want to pay the transition cost."
+      },
+      {
+        "assumption": "Sanctioning Rosatom would destabilize European nuclear power plants",
+        "whyItMightBeWrong": "The US has managed to reduce reliance on Russian nuclear fuel without catastrophic destabilization, and Western fuel suppliers including Westinghouse have expanded capacity specifically to serve European reactors. The transition takes years but it is not impossible. The EU is choosing to pay Rosatom on a timeline that is slower than the threat would justify."
+      },
+      {
+        "assumption": "Twenty packages of cumulative pressure are weakening Russia's war capacity",
+        "whyItMightBeWrong": "Russia's oil revenue via the shadow fleet has proven resilient to every previous round of sanctions. The 20th package stripped the maritime transport ban that might have actually constrained it. The pattern is mounting nominal pressure with the most commercially costly measures consistently removed."
+      }
+    ],
+    "realDisagreement": "The real fork is whether the EU is pursuing sanctions as a tool to end the war or as a tool to manage domestic politics while the war continues. If the goal is to constrain Russia's war capacity, Rosatom is an obvious target: it operates critical infrastructure inside occupied Ukraine, earns hard currency from EU member states, and provides Russia with nuclear leverage. If the goal is to signal resolve while protecting energy-dependent member states from domestic political backlash, then Rosatom stays exempt and the shadow fleet ban gets stripped. The 20th package looks like the second. The honest position is that Germany and Hungary are not willing to pay the transition cost, and the EU's collective decision-making cannot override member state energy dependency. That is not a sanctions failure. It is a structural limit on what sanctions can achieve in a coalition where the weakest link has veto power.",
+    "whatNoOneIsSaying": "Rosatom operates Zaporizhzhia, the largest nuclear power plant in Europe, inside Ukrainian territory, and the EU is paying Rosatom while Ukraine defends that territory. Ukraine cannot legally shut off the payments because the contracts are held by EU member states. This is not a loophole. It is a feature of how European energy infrastructure was deliberately built to be interdependent with Russia over forty years.",
+    "whoPays": [
+      {
+        "who": "Ukraine",
+        "how": "Rosatom's continued operation of Zaporizhzhia gives Russia a nuclear hostage in the heart of the war zone. The facility has been shelled, lost external power multiple times, and operates on emergency diesel. Every month of continued Rosatom control is a month where a nuclear incident is possible and Russia maintains a deterrent against Ukrainian operations in that sector.",
+        "when": "Ongoing, immediate risk"
+      },
+      {
+        "who": "EU member states dependent on Russian nuclear fuel",
+        "how": "By delaying transition, these countries remain exposed to supply interruption as a Russian pressure tool. Rosatom can restrict enriched uranium shipments as leverage against sanctions actions elsewhere.",
+        "when": "Slow-burn vulnerability, most acute if a 21st package moves on nuclear"
+      },
+      {
+        "who": "Western nuclear fuel suppliers (Westinghouse, Framatome)",
+        "how": "The longer the EU pays Rosatom, the more the transition timeline stretches. These companies have invested in capacity expansion specifically to replace Russian supply and their utilization depends on EU member states actually making the switch.",
+        "when": "Already affecting capacity planning; visible in next 12-24 months"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Nuclear incident forces the issue",
+        "whatHappens": "A serious safety incident at Zaporizhzhia, short of a full meltdown but serious enough to require IAEA emergency intervention, creates sufficient political pressure to override Hungary's objections. The EU's 21st package includes Rosatom in a fast-tracked adoption.",
+        "signal": "IAEA issues a Level 3 or higher incident classification at Zaporizhzhia"
+      },
+      {
+        "name": "21st package repeats the pattern",
+        "whatHappens": "The EU adopts a 21st package that increases pressure on the shadow fleet, adds more financial institution listings, and leaves Rosatom untouched. Ukraine's government publicly characterizes this as inadequate. The EU's credibility as a sanctions actor with the Global South continues to erode.",
+        "signal": "21st package draft circulates with no Rosatom provisions by June 2026"
+      },
+      {
+        "name": "Bilateral moves replace collective action",
+        "whatHappens": "Individual EU member states, starting with Finland and the Baltics, accelerate their own transition away from Russian nuclear fuel without waiting for EU-level sanctions. This fractures the coalition but actually achieves the energy independence goal faster for the willing members.",
+        "signal": "Finland announces a unilateral Rosatom service contract termination"
+      }
+    ],
+    "whatWouldChange": "If the EU published a specific timeline for member state transition away from Rosatom fuel, with milestones and penalties for missing them, the Rosatom exemption would become time-limited rather than indefinite. Without a transition timeline, the exemption is permanent by default."
+  }
+}

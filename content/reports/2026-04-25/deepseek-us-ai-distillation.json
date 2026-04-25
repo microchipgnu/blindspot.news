@@ -1,0 +1,101 @@
+{
+  "id": "deepseek-us-ai-distillation",
+  "date": "2026-04-25",
+  "generatedAt": "2026-04-25T22:22:00Z",
+  "title": "The US Just Sent Every Embassy in the World a Warning About DeepSeek. The Timing Is the Message.",
+  "subtitle": "A State Department cable accusing Chinese AI labs of industrial-scale IP theft landed the same week DeepSeek launched V4. Coincidence is not the right frame.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["DeepSeek", "China", "AI", "State Department", "IP theft", "distillation", "export controls"],
+  "coverImage": {
+    "url": "https://www.nogentech.org/wp-content/uploads/2026/04/US-Blasts-DeepSeek-for-'IP-Theft-During-Massive",
+    "local": "/images/reports/2026-04-25/deepseek-us-ai-distillation.jpg",
+    "credit": "NogenTech"
+  },
+  "sources": [
+    {
+      "url": "https://www.nogentech.org/us-blasts-deepseek-ip-theft-v4-launch/",
+      "publisher": "NogenTech",
+      "angle": "White House OSTP Director Michael Kratsios accused Chinese entities of using tens of thousands of proxy accounts and jailbreaking to steal frontier AI at industrial scale; timed to coincide with DeepSeek V4-Pro launch."
+    },
+    {
+      "url": "https://www.thenews.com.pk/latest/1400298-us-state-dept-orders-global-push-to-warn-of-deepseek-ai-di",
+      "publisher": "The News International",
+      "angle": "State Department cable instructs diplomatic and consular posts worldwide to raise concerns about distillation with foreign government counterparts."
+    },
+    {
+      "url": "https://finance.biggo.com/news/Ibpsw50BTwP6zY3HsjwS",
+      "publisher": "BigGo Finance",
+      "angle": "Targets specifically named companies: DeepSeek, Moonshot AI, MiniMax. Describes the technique as training smaller models on outputs from larger, proprietary US models."
+    },
+    {
+      "url": "https://www.edwardconard.com/macro-roundup/according-to-the-white-house-china-is-engaged-in-delibera",
+      "publisher": "Edward Conard / Macro Roundup",
+      "angle": "Notes that Anthropic and OpenAI have separately voiced concern about distillation by Chinese groups, providing the underlying commercial grievance that the State Department cable is now diplomizing."
+    }
+  ],
+  "brief": {
+    "actors": ["DeepSeek", "China", "US", "Anthropic", "OpenAI", "State Department"],
+    "whatHappened": "The US State Department issued a diplomatic cable to every embassy and consulate worldwide, instructing staff to warn foreign governments about what it describes as industrial-scale intellectual property theft by Chinese AI companies. The cable specifically names DeepSeek, Moonshot AI, and MiniMax. White House Office of Science and Technology Policy Director Michael Kratsios separately accused Chinese actors of using tens of thousands of proxy accounts and jailbreaking techniques to extract proprietary capabilities from American frontier models. The cable and White House statement arrived the same week DeepSeek launched its V4-Pro model.",
+    "bottomLine": "The US is using its global diplomatic network to build an international coalition against a Chinese AI technique, at the exact moment that technique produced a model that directly competes with OpenAI and Anthropic.",
+    "hiddenBets": [
+      {
+        "assumption": "Distillation is clearly illegal and the US has a strong case",
+        "whyItMightBeWrong": "Distillation, training a smaller model on outputs from a larger one, is technically contested. OpenAI's own terms of service prohibit it, but whether US trade law or international IP frameworks definitively cover it is an open question. The diplomatic campaign is being waged in a legal gray zone where the outcome depends on which countries adopt the US framing."
+      },
+      {
+        "assumption": "The US government is acting in response to a security threat",
+        "whyItMightBeWrong": "OpenAI, Anthropic, and other US AI companies are commercial competitors of DeepSeek. The OSTP director's statement reads as regulatory action, but the direct beneficiaries are US private companies facing competitive pressure from a cheaper Chinese alternative. The line between national security concern and commercial protection is not being drawn clearly."
+      },
+      {
+        "assumption": "Foreign governments will adopt the US position on distillation",
+        "whyItMightBeWrong": "Most countries in the Global South have no AI sovereignty concerns that align with protecting American frontier model IP. DeepSeek's open-weight approach and lower API costs are actively attractive to governments that cannot afford OpenAI pricing. The diplomatic campaign may harden the division between US-aligned AI policy and the rest of the world."
+      }
+    ],
+    "realDisagreement": "The real fork is whether distillation is a crime or a feature of how AI works. US labs treat it as theft. Chinese labs treat it as fine-tuning, a technique that is standard in machine learning. If you believe AI capability is genuinely fungible and can be extracted from model outputs, then every open-weight model and every API call is a potential vector for distillation. The US position implies that frontier AI should be effectively closed to anyone without direct licensing. That is a radical departure from how the research community has operated, and it would freeze out the majority of the world's AI developers. I would lean toward the US position being strategically correct as a competitive posture, but legally and technically overextended, which means the diplomatic campaign will land unevenly across different jurisdictions.",
+    "whatNoOneIsSaying": "DeepSeek V4 launched at the same time as this campaign. If the US government believed it had hard evidence of IP theft, the appropriate channel is trade litigation, not a press-coordinated diplomatic cable. Timing it to a product launch suggests the goal is to poison DeepSeek's reputation in global markets before the model gains adoption, not to seek legal remedy.",
+    "whoPays": [
+      {
+        "who": "Non-US AI developers globally",
+        "how": "If the US successfully reframes distillation as IP theft, every developer who trained on API outputs from a US model faces retroactive legal or regulatory risk. This includes thousands of startups across Europe, Asia, and Latin America who built on top of OpenAI or Anthropic outputs.",
+        "when": "Medium-term if US trade law follows the diplomatic framing"
+      },
+      {
+        "who": "DeepSeek and Chinese AI labs",
+        "how": "The campaign is designed to make DeepSeek radioactive for foreign government AI procurement. If allies decline to adopt or integrate DeepSeek products, the company's global growth trajectory is truncated regardless of technical merit.",
+        "when": "Immediate: procurement decisions are being made now in Europe, Southeast Asia, Middle East"
+      },
+      {
+        "who": "US AI companies",
+        "how": "If the diplomatic campaign succeeds in framing distillation as a norm violation, US companies will face reciprocal scrutiny. Chinese regulators could apply equivalent logic to US companies' use of Chinese-origin training data.",
+        "when": "Slow-burn, years"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Coalition hardens",
+        "whatHappens": "Key US allies, particularly EU and Japan, adopt the US framing and restrict government procurement of DeepSeek products. The campaign creates a de facto AI Iron Curtain with US-aligned and China-aligned stacks.",
+        "signal": "EU issues a formal guidance citing DeepSeek distillation concerns in public sector AI deployment rules within 90 days"
+      },
+      {
+        "name": "Diplomatic failure",
+        "whatHappens": "Most of the Global South ignores the cable or issues polite acknowledgments with no policy change. DeepSeek V4 adoption accelerates in markets outside US alliances. The campaign is remembered as an embarrassing attempt to use diplomacy to suppress commercial competition.",
+        "signal": "India, Brazil, or Indonesia publicly announces a government partnership with DeepSeek within six months"
+      },
+      {
+        "name": "Legal escalation",
+        "whatHappens": "The US files a formal trade complaint against China at the WTO or initiates Section 301 action over AI IP theft. The case becomes the first major AI IP dispute in international trade law and sets precedent for whether training data and model outputs are protectable trade secrets.",
+        "signal": "USTR publishes a formal finding on Chinese AI distillation practices under Section 301 authority"
+      }
+    ],
+    "whatWouldChange": "Public release of the actual evidence underlying the Kratsios statement: specific model weights, specific API call logs, specific proof that DeepSeek V4 is a distillate of a named US model rather than an independently developed system. Without that evidence, the diplomatic campaign looks like competitive protection dressed as security policy.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will a Chinese company have the best AI model by December 31?",
+        "url": "https://polymarket.com/event/will-a-chinese-company-have-the-best-ai-model-by-december-31",
+        "probability": 0.145
+      }
+    ]
+  }
+}

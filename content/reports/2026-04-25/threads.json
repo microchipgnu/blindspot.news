@@ -134,5 +134,69 @@
         }
       ]
     }
+  ,
+    {
+      "id": "ai-dominance-two-fronts",
+      "title": "The US Is Fighting the AI War With Money and Diplomacy at the Same Time",
+      "description": "On the same day, Google committed $40 billion to keep Anthropic inside the Western AI stack, and the State Department sent every embassy in the world a cable warning about Chinese AI theft. These are two instruments of the same campaign: prevent the dominant US AI models from being replicated or displaced. The capital move is defensive, keeping Anthropic solvent and compute-tied to Google. The diplomatic move is offensive, reframing distillation as a crime before the technique spreads further. Both moves reveal that the US government and US capital now share the same competitive objective.",
+      "type": "dependency-web",
+      "stories": [
+        "google-anthropic-40b-power-grab",
+        "deepseek-us-ai-distillation",
+        "match-act-chip-export-controls"
+      ],
+      "connections": [
+        {
+          "from": "google-anthropic-40b-power-grab",
+          "to": "deepseek-us-ai-distillation",
+          "relationship": "Google's $40B validates Anthropic as the Western alternative to Chinese frontier AI. The State Department's distillation campaign is designed to make that Chinese AI radioactive globally. The investment and the diplomatic campaign are complementary: one builds up the US stack, the other tears down the Chinese one."
+        },
+        {
+          "from": "deepseek-us-ai-distillation",
+          "to": "match-act-chip-export-controls",
+          "relationship": "The MATCH Act restricts the equipment that makes chips; the distillation campaign restricts the technique that transfers model capability without chips. Both are attempts to prevent China from acquiring frontier AI capability through alternative routes when the primary route (buying Nvidia) is blocked."
+        }
+      ]
+    },
+    {
+      "id": "war-for-ukraine-with-russia-inside",
+      "title": "The Countries Supporting Ukraine Are Still Paying Russia",
+      "description": "Two stories today are about the same structural problem: the actors claiming to support Ukraine have ongoing financial and diplomatic relationships with Russia that they will not sacrifice. The EU paid Rosatom 1.6 billion euros for nuclear services since 2022 and exempted it from its 20th sanctions package. Azerbaijan signed weapons cooperation agreements with Ukraine while hosting the ceasefire offer, despite selling weapons to Russia throughout the war. Both EU member states and Azerbaijan are extracting value from their Russia relationships even as they position themselves as Ukraine supporters. The pattern is not hypocrisy. It is rational self-interest that Ukraine cannot afford to condemn because it needs these actors too much.",
+      "type": "tension-cluster",
+      "stories": [
+        "eu-rosatom-sanctions-loophole",
+        "zelenskyy-azerbaijan-russia-talks"
+      ],
+      "connections": [
+        {
+          "from": "eu-rosatom-sanctions-loophole",
+          "to": "zelenskyy-azerbaijan-russia-talks",
+          "relationship": "The EU keeps Rosatom off the sanctions list because member state energy dependency makes the cost too high. Zelenskyy accepts Aliyev as a mediator despite Azerbaijan's weapons sales to Russia because the alternative is no mediation channel at all. In both cases, Ukraine is receiving support from countries that are simultaneously sustaining Russia's capacity. Ukraine has accepted this as the price of not being alone."
+        }
+      ]
+    },
+    {
+      "id": "rule-of-law-procedural-bypass",
+      "title": "The Limits of the Law Are Being Tested From the Bottom Up",
+      "description": "Three stories today show the same technique applied from different directions: using procedural gaps and standing doctrine to produce outcomes that a direct legal challenge would not allow. Texas SB4 survived because the Fifth Circuit dismissed challengers for lack of standing, never reaching the constitutional question every prior court found SB4 would lose on. Trump's mail-in voting order routes presidential direction through an independent agency specifically protected from presidential control. The DACA BIA ruling strips the program of function without formally repealing it. None of these are legal victories. They are procedural survivals that delay the constitutional reckoning while the enforcement already happens.",
+      "type": "tension-cluster",
+      "stories": [
+        "texas-sb4-immigration-restored",
+        "trump-mail-vote-eo",
+        "daca-bia-deportation-ruling"
+      ],
+      "connections": [
+        {
+          "from": "texas-sb4-immigration-restored",
+          "to": "trump-mail-vote-eo",
+          "relationship": "Both the SB4 ruling and the mail vote EO use procedural mechanisms to avoid the constitutional question: SB4 survived on standing grounds that explicitly did not reach the Supremacy Clause; the mail vote order is structured as a direction to an independent agency rather than a direct executive order to states, creating procedural ambiguity about what entity has authority to defy it."
+        },
+        {
+          "from": "trump-mail-vote-eo",
+          "to": "daca-bia-deportation-ruling",
+          "relationship": "The mail vote EO and the BIA ruling both use administrative agency action to achieve a policy outcome that Congress has not authorized and courts have not yet blocked. In both cases, the formal legal structure survives intact while its protective function is disabled. The question courts will eventually face is whether procedural creativity can indefinitely substitute for statutory authority."
+        }
+      ]
+    }
   ]
 }

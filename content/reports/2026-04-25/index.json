@@ -91,6 +91,42 @@
       "title": "Trump Killed $35 Billion in Wind Projects. Republican Districts Lost Twice as Much as Democratic Ones.",
       "subtitle": "Nine House Republicans are publicly breaking with Trump on offshore wind. Courts have temporarily stopped the cancellations. Virginia's redistricting just made the political math worse for the party.",
       "category": "power"
+    },
+    {
+      "id": "google-anthropic-40b-power-grab",
+      "title": "Google Just Paid $40 Billion for the AI Model That's Beating Its Own",
+      "subtitle": "Claude outsells Gemini in enterprise. Google's solution is to fund Claude. The market should read this as a confession, not a strategy.",
+      "category": "power"
+    },
+    {
+      "id": "deepseek-us-ai-distillation",
+      "title": "The US Just Sent Every Embassy in the World a Warning About DeepSeek. The Timing Is the Message.",
+      "subtitle": "A State Department cable accusing Chinese AI labs of industrial-scale IP theft landed the same week DeepSeek launched V4. Coincidence is not the right frame.",
+      "category": "power"
+    },
+    {
+      "id": "eu-rosatom-sanctions-loophole",
+      "title": "The EU's 20th Sanctions Package Still Pays Russia to Run a Nuclear Power Plant in Ukraine",
+      "subtitle": "Europe has sanctioned Russian oil, banks, oligarchs, and shadow tankers. It has paid Rosatom 1.6 billion euros since 2022. The 20th package did not change this.",
+      "category": "power"
+    },
+    {
+      "id": "trump-mail-vote-eo",
+      "title": "Trump Signed an Order Telling the Post Office How to Handle Ballots. The Post Office Answers to a Board That Answers to Nobody.",
+      "subtitle": "The March 31 executive order requires the postmaster general to regulate mail voting. Federal law explicitly prohibits presidential control of the mail. Both things are true at once.",
+      "category": "power"
+    },
+    {
+      "id": "texas-sb4-immigration-restored",
+      "title": "Texas Can Now Arrest People for Crossing the Border. The Fifth Circuit Didn't Say That's Legal.",
+      "subtitle": "A 10-7 vote lifted the injunction against Texas SB4 on standing grounds. The constitutionality question was left entirely open. Texas is now enforcing a law that courts have not ruled constitutional.",
+      "category": "power"
+    },
+    {
+      "id": "zelenskyy-azerbaijan-russia-talks",
+      "title": "Zelenskyy Flew to Baku and Offered to Meet Putin There. The Market Gives It Less Than 1% Odds by April 30.",
+      "subtitle": "Ukraine's president is proposing tripartite talks in a country that sold weapons to Russia and shares a mediator with both sides. The gesture is real. The ceasefire is not.",
+      "category": "conflict"
     }
   ]
 }
