@@ -1,7 +1,37 @@
 {
   "date": "2026-04-26",
-  "generatedAt": "2026-04-26T12:31:00Z",
+  "generatedAt": "2026-04-26T22:40:00Z",
   "reports": [
+    {
+      "id": "deepseek-v4-huawei-chips",
+      "title": "DeepSeek Builds the World's Best Open-Source AI on Chinese Chips. The US Just Made It Official.",
+      "subtitle": "Washington cleared Nvidia H200 exports to China four months ago. China blocked its own companies from buying them. DeepSeek then launched V4 on Huawei hardware and undercut every American model on price.",
+      "category": "power"
+    },
+    {
+      "id": "match-act-chip-export-controls",
+      "title": "Congress Wants to Force US Allies to Choose: Sell Chip Equipment to China, or Sell to America",
+      "subtitle": "The MATCH Act passed committee and gives the Netherlands and Japan 150 days to align their export restrictions with US rules or face their own restrictions. The allies have not agreed.",
+      "category": "power"
+    },
+    {
+      "id": "epa-endangerment-finding-repeal",
+      "title": "The EPA Just Deleted the Legal Foundation for Every US Climate Rule. 25 States Are Suing.",
+      "subtitle": "The 2009 Endangerment Finding said greenhouse gases endanger public health. Every US climate regulation for 17 years was built on it. The Trump EPA repealed it last week.",
+      "category": "power"
+    },
+    {
+      "id": "operation-sindoor-anniversary",
+      "title": "One Year After India Struck Pakistan, Both Countries Are More Dangerous Than Before",
+      "subtitle": "Operation Sindoor destroyed nine terror camps and suspended a 60-year water treaty. India's military meets this week to plan what comes next. Pakistan is at the UN Security Council, running out of water.",
+      "category": "conflict"
+    },
+    {
+      "id": "harvard-grad-strike-trump-funding",
+      "title": "Harvard's Graduate Workers Are on Strike While Trump Freezes $2.2 Billion in Grants",
+      "subtitle": "4,000 workers walked out demanding higher wages and visa protections for international students. Harvard's administration is simultaneously fighting a federal funding freeze. Everyone is using everyone else as leverage.",
+      "category": "conflict"
+    },
     {
       "id": "google-anthropic-40b",
       "title": "Google Buys a Rival It Cannot Control",

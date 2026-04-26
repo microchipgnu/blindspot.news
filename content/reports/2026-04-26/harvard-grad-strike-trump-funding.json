@@ -1,0 +1,93 @@
+{
+  "id": "harvard-grad-strike-trump-funding",
+  "date": "2026-04-26",
+  "generatedAt": "2026-04-26T22:38:00Z",
+  "title": "Harvard's Graduate Workers Are on Strike While Trump Freezes $2.2 Billion in Grants. The University Is Being Squeezed From Both Sides.",
+  "subtitle": "4,000 workers walked out demanding higher wages and visa protections for international students. Harvard's administration is simultaneously fighting a federal funding freeze, a tax on its endowment, and threats to its nonprofit status. Everyone is using everyone else as leverage.",
+  "topic": "economy",
+  "category": "conflict",
+  "tags": ["Harvard", "HGSU", "UAW", "graduate workers", "strike", "Trump", "academic freedom", "labor"],
+  "coverImage": {
+    "url": "https://blog.ucs.org/wp-content/uploads/2026/03/GettyImages-2224167066-scaled-e1773746009649.jpg",
+    "local": "/images/reports/2026-04-26/harvard-grad-strike.jpg",
+    "credit": "Getty Images via Union of Concerned Scientists"
+  },
+  "sources": [
+    {
+      "url": "https://www.harvardmagazine.com/university-news/harvard-graduate-student-workers-strike",
+      "publisher": "Harvard Magazine",
+      "angle": "Inside account: HGSU-UAW's 4,000 members walked out after 14 months of failed negotiations. Key demands include higher stipends, healthcare improvements, protections for international student workers facing visa risk, and changes to how discrimination and harassment complaints are handled."
+    },
+    {
+      "url": "https://www.csmonitor.com/USA/Education/2026/0425/harvard-student-strike-trump?icid=rss",
+      "publisher": "Christian Science Monitor",
+      "angle": "Context framing: the strike occurs while Harvard fights Trump's $2.2 billion research grant freeze and $60 million contract freeze. The double pressure creates perverse incentives for both the university and the union."
+    },
+    {
+      "url": "https://www.wsws.org/en/articles/2026/04/24/rkso-a24.html",
+      "publisher": "World Socialist Web Site",
+      "angle": "Labor left framing: Harvard is attempting to restructure the university partly as a response to Trump's financial squeeze, using the funding crisis as cover to resist union demands and weaken labor rights on campus."
+    },
+    {
+      "url": "https://www.thecrimson.com/thread/2026/4/21/hgsu-strike-2026/",
+      "publisher": "Harvard Crimson",
+      "angle": "Campus reporting: more than 100 faculty affiliates signed a letter opposing hiring replacement workers for striking graduate students. The administration suggested course heads could hire non-union instructional staff to cover striking workers' duties."
+    }
+  ],
+  "brief": {
+    "actors": ["Harvard", "HGSU", "UAW", "Trump", "international students"],
+    "whatHappened": "More than 4,000 Harvard graduate workers affiliated with the Harvard Graduate Students Union-UAW walked off the job on April 21 after 14 months of contract negotiations broke down. The union is demanding higher stipends, better healthcare, and protections specifically for international student workers facing immigration enforcement risk under current administration policy. Harvard's previous contract with the union expired in June 2025. The strike comes as Harvard simultaneously contests a Trump administration freeze of $2.2 billion in multi-year research grants and $60 million in federal contracts, triggered by the administration's demands around campus speech and diversity programs. Harvard's administration suggested department heads could hire replacement instructional staff; more than 100 faculty members signed a letter opposing that approach.",
+    "bottomLine": "Harvard is caught between a union that wants more during a funding squeeze and a government that will restore funding only if Harvard surrenders institutional independence. The university's financial pressure makes it less willing to meet union demands. The union knows this and is striking anyway, betting that public support for academic workers is stronger than public support for elite institutional management.",
+    "hiddenBets": [
+      {
+        "assumption": "Harvard can use its endowment to weather the federal funding freeze and meet union demands simultaneously.",
+        "whyItMightBeWrong": "Harvard's endowment is large but restricted: most of it is designated for specific purposes by donor intent and cannot be freely redirected to cover operating costs or labor settlements. The university's actual cash flow is more constrained than the headline endowment number suggests."
+      },
+      {
+        "assumption": "International student workers' visa risk is a negotiating tactic, not an existential threat.",
+        "whyItMightBeWrong": "The current administration has revoked visas for graduate students at multiple universities for political speech. A union contract that does not protect international students' employment if they lose visa status is effectively a contract that excludes 30-40% of the graduate workforce from meaningful protection."
+      },
+      {
+        "assumption": "The Trump administration's funding freeze will be resolved through courts or negotiation, independent of the labor dispute.",
+        "whyItMightBeWrong": "The administration may view a protracted labor dispute at Harvard as evidence that the university lacks governance control, providing additional justification for withholding funds. The union strike and the federal funding fight are not independent variables — each affects the other."
+      }
+    ],
+    "realDisagreement": "The real tension is not between workers and management. It is between two legitimate claims on institutional resources that cannot both be satisfied. Graduate workers produce most of the research and teaching at universities like Harvard. They have been compensated at stipend levels that haven't kept pace with Cambridge housing costs. The university does have money and has historically used it to protect institutional prestige. At the same time, the administration faces a genuine threat to its operating model from the federal funding freeze that is not fully within its control to resolve. The question is whether Harvard will treat labor demands as equal in urgency to the government threat, or use the government threat as cover for resisting workers. The faculty opposition to replacement hiring suggests the answer from within the institution.",
+    "whatNoOneIsSaying": "The Trump administration's demand that Harvard restructure its programs to restore federal funding and the union's demand that Harvard increase wages and worker protections point in opposite directions on the same resource constraint. The administration wants Harvard to become a more controlled, less autonomous institution. The union wants Harvard to be a better employer. Both are using financial leverage. The outcome of the funding fight will determine whether the university that emerges from this can afford to be either.",
+    "whoPays": [
+      {
+        "who": "Harvard international graduate students",
+        "how": "Without a contract provision protecting them, they face the combination of a strike (loss of stipend), potential visa enforcement, and no grievance mechanism if fired or had their status challenged. They have the most to gain from a settlement and the least leverage in the negotiation.",
+        "when": "Immediate: visa risk is active during the strike period."
+      },
+      {
+        "who": "Harvard undergraduates in affected courses",
+        "how": "Courses taught by striking graduate workers face disruption or cancellation. The administration's suggestion to hire replacement instructors will produce lower-quality instruction at higher cost. Final exam preparation is directly affected.",
+        "when": "Acute through end of spring semester 2026."
+      },
+      {
+        "who": "Federal research beneficiaries",
+        "how": "Harvard runs critical federally funded research in medicine, public health, and basic science. A prolonged strike combined with a funding freeze delays or terminates ongoing studies, including clinical trials and long-term datasets that cannot be easily paused.",
+        "when": "Ongoing: each week of combined labor dispute and funding freeze compounds delays in research that has real-world health and policy consequences."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Quick settlement, Harvard uses endowment to bridge gap",
+        "whatHappens": "Harvard meets core union demands on stipends and international student protections by drawing on discretionary endowment funds. Strike ends within two weeks. Federal funding fight continues separately. This is the path of least campus disruption.",
+        "signal": "Harvard administration requests federal mediator or UAW signals willingness to accept contract with protections contingent on funding restoration."
+      },
+      {
+        "name": "Prolonged strike, Trump uses it as leverage",
+        "whatHappens": "Strike extends past three weeks. The administration adds the labor instability to its justification for continued funding freeze. Harvard faces compounding pressure. The union has to decide whether a longer strike harms the workers they represent more than a bad contract.",
+        "signal": "Trump or a senior administration official makes a public statement linking Harvard's labor dispute to the funding review."
+      },
+      {
+        "name": "Harvard capitulates to federal demands, union gains leverage",
+        "whatHappens": "Harvard agrees to Trump's academic restructuring conditions to restore federal funding, facing less financial pressure. The union's leverage increases because the funding rationale for resisting their demands is gone. Settlement follows within weeks.",
+        "signal": "Harvard and the Education Department announce a deal on federal funding by May 15; union immediately escalates wage demands."
+      }
+    ],
+    "whatWouldChange": "If the federal court system quickly enjoins the Trump administration's funding freeze and Harvard's financial position stabilizes, the union's demands become straightforwardly affordable. The bargaining dynamic would shift from 'how do we survive' to 'how much can workers claim.' A favorable court ruling on the funding freeze is the single event most likely to resolve the strike quickly."
+  }
+}

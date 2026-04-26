@@ -1,0 +1,98 @@
+{
+  "id": "epa-endangerment-finding-repeal",
+  "date": "2026-04-26",
+  "generatedAt": "2026-04-26T22:32:00Z",
+  "title": "The EPA Just Deleted the Legal Foundation for Every US Climate Rule. 25 States Are Suing.",
+  "subtitle": "The 2009 Endangerment Finding said greenhouse gases endanger public health. Every US climate regulation for 17 years was built on it. The Trump EPA repealed it last week, voiding vehicle standards, power plant rules, methane limits, and aircraft emissions rules in a single action.",
+  "topic": "society",
+  "category": "power",
+  "tags": ["EPA", "climate", "Clean Air Act", "greenhouse gas", "regulation", "Trump", "courts"],
+  "coverImage": {
+    "url": "https://truthout.org/app/uploads/2026/04/GettyImages-1576696201.jpg",
+    "local": "/images/reports/2026-04-26/epa-endangerment-repeal.jpg",
+    "credit": "Getty Images via Truthout"
+  },
+  "sources": [
+    {
+      "url": "https://www.jdsupra.com/legalnews/epa-endangerment-finding-repeal-upends-8305605/",
+      "publisher": "JD Supra (Jenner & Block analysis)",
+      "angle": "Legal analysis: the repeal voids the foundation for all greenhouse gas standards from model year 2012 forward, plus power plant standards, aircraft rules, and methane regulations. The EPA's position is that it never had authority to make the original finding."
+    },
+    {
+      "url": "https://www.wnd.com/2026/04/end-epas-endangerment-finding-is-bigger-deal-than/",
+      "publisher": "Real Clear Wire (via WND)",
+      "angle": "Conservative framing: the repeal is described as bigger than the Iran war because it permanently restructures the federal climate regulatory apparatus, not just delays implementation."
+    },
+    {
+      "url": "https://truthout.org/articles/trump-admin-weakens-air-standards-while-almost-half-of-us-kids-breathe-toxic-air/",
+      "publisher": "Truthout",
+      "angle": "Public health framing: 46% of US children live in areas with unsafe air quality; repeal removes legal basis for enforcement of standards that were designed to reduce that percentage."
+    },
+    {
+      "url": "https://ktvz.com/news/problem-solvers/2026/04/23/problem-solvers-polluters-over-people-epas-repeal-of-emission-standards-puts-oregons-climate-goals-in-jeopardy/",
+      "publisher": "KTVZ (Oregon)",
+      "angle": "State-level impact: 25 states, including Oregon, have joined a lawsuit challenging the repeal. States that built climate policy on federal baseline standards now face a legal vacuum."
+    },
+    {
+      "url": "https://blog.ucs.org/gretchen-goldman/cutting-science-out-trump-administration-fires-national-science-board-members/",
+      "publisher": "Union of Concerned Scientists",
+      "angle": "Parallel move: Trump administration fired National Science Board members the same weekend, removing independent scientific oversight from the National Science Foundation — part of a pattern of eliminating the advisory structures that climate regulation depends on."
+    }
+  ],
+  "brief": {
+    "actors": ["EPA", "Trump", "SCOTUS", "Connecticut", "Oregon"],
+    "whatHappened": "The Trump administration's EPA formally repealed the 2009 Endangerment Finding, the regulatory determination that greenhouse gas emissions endanger public health and welfare under the Clean Air Act. The original finding, upheld by the Supreme Court in Massachusetts v. EPA (2007), was the legal basis for all federal greenhouse gas standards enacted since 2012, including vehicle fuel economy standards, power plant emission rules, methane regulations, and aircraft emission standards. The EPA's formal position in the repeal is that the agency was never authorized to make the original finding. Twenty-five states, led by Connecticut, immediately filed suit. Connecticut's AG separately sued the EPA the same week for failing to implement Clean Air Act soot standards. Trump also fired members of the National Science Board that same week.",
+    "bottomLine": "The Endangerment Finding repeal is not a policy change. It is the deletion of the legal architecture that made climate policy possible under existing law. Future administrations cannot simply reinstate it without going through the same rulemaking process the Trump EPA just dismantled, which will take years and face immediate legal challenge from whoever is in power at the time.",
+    "hiddenBets": [
+      {
+        "assumption": "The courts will quickly restore the Endangerment Finding, as they have blocked previous Trump environmental rollbacks.",
+        "whyItMightBeWrong": "The Supreme Court's 2022 West Virginia v. EPA decision already limited EPA's authority to regulate greenhouse gases through major questions doctrine. A court that restricted the EPA's ability to use the Clean Air Act for broad climate policy is not obviously going to restore the finding that enabled exactly that policy."
+      },
+      {
+        "assumption": "States can fill the gap with their own climate regulations.",
+        "whyItMightBeWrong": "California and other progressive states can set stricter standards. But 26 states have already passed laws prohibiting adoption of California standards. The legal vacuum the repeal creates affects the 60% of Americans in states that relied on federal baseline protection rather than building their own."
+      },
+      {
+        "assumption": "A future Democratic administration can simply reinstate the Endangerment Finding.",
+        "whyItMightBeWrong": "The Trump EPA's formal position — that the agency lacked authority to make the original finding — creates a legal dispute that a future EPA must litigate, not just assert. And each year without the finding, regulated industries restructure around its absence, creating economic interests that oppose restoration."
+      }
+    ],
+    "realDisagreement": "The genuine tension is between two readings of the same statute. One reading: the Clean Air Act gives EPA authority to regulate any air pollutant that endangers public health, and greenhouse gases demonstrably do. The other: major regulatory decisions of this scope require explicit congressional authorization, which Congress never gave for greenhouse gases specifically. The first reading enabled 17 years of climate regulation. The second reading has growing support on the current Supreme Court. The court's West Virginia ruling tilted toward the second without fully resolving it. If the court takes up the Endangerment Finding repeal, this is the battle. The national security and economic stakes are large enough that Congress should have settled it legislatively years ago. It didn't, which is why an administrative repeal is possible at all.",
+    "whatNoOneIsSaying": "The EPA's position in the repeal — that it never had authority to make the original finding — means the agency is formally arguing that every vehicle fuel economy standard, power plant rule, and methane limit enacted in the last 17 years was legally void from the start. If that argument prevails in court, the question is not just whether future climate rules are allowed, but whether regulated industries can sue for damages based on compliance costs they incurred under rules the EPA now says were illegal.",
+    "whoPays": [
+      {
+        "who": "Children in areas with degraded air quality",
+        "how": "Removal of the legal basis for enforcement of emission standards that were directly reducing particulate matter and ozone. 46% of US children already breathe unsafe air; without the finding, the trajectory worsens.",
+        "when": "Immediate: enforcement actions freeze as legal basis is contested; air quality effects over 2-5 years."
+      },
+      {
+        "who": "Automakers who invested in EV production to meet emission standards",
+        "how": "Billions in capital already deployed toward federal fuel economy and emission standards that no longer have legal standing. The repeal does not give them that investment back.",
+        "when": "Immediate write-down risk on EV transition spending that was tied to regulatory compliance."
+      },
+      {
+        "who": "Rural and red-state communities downwind of power plants and industrial facilities",
+        "how": "These communities are disproportionately exposed to industrial emissions and gained the most from federal baseline standards that state governments lacked the political will to enforce themselves.",
+        "when": "Slow-burn: effects visible in health data over 5-10 years as enforcement gaps compound."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Courts restore the finding, standoff continues",
+        "whatHappens": "Federal courts issue an injunction blocking the repeal while the lawsuit proceeds. The finding is technically in place but enforcement is paralyzed by legal uncertainty for 2-4 years until the Supreme Court takes the case.",
+        "signal": "DC Circuit grants emergency injunction within 60 days of the Connecticut lawsuit filing."
+      },
+      {
+        "name": "Supreme Court affirms repeal, climate law requires congressional action",
+        "whatHappens": "SCOTUS upholds the EPA's authority to repeal the finding. Federal climate regulation requires new congressional authorization. Congress cannot pass it in current configuration. The US has no effective federal climate law until the political composition of Congress changes.",
+        "signal": "Supreme Court accepts cert on the Endangerment Finding challenge in its next term."
+      },
+      {
+        "name": "Congress legislates, trading climate for energy",
+        "whatHappens": "The legal vacuum becomes a bargaining chip. A bipartisan deal trades some climate standards for expanded natural gas export infrastructure. Clean air rules survive in diminished form. This is the most likely long-run outcome if the courts uphold the repeal.",
+        "signal": "Senate bipartisan energy working group announces negotiations within 6 months of SCOTUS ruling."
+      }
+    ],
+    "whatWouldChange": "If the DC Circuit or Supreme Court rules that the major questions doctrine does not apply to the Endangerment Finding specifically — that greenhouse gases are distinct from the power sector regulation at issue in West Virginia — the repeal fails and the legal architecture is restored. A clear ruling in that direction would change the trajectory entirely."
+  }
+}
