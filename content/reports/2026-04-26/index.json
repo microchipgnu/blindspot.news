@@ -61,6 +61,36 @@
       "title": "RFK Jr. Told the Senate He Is Not Cutting Medicaid. His Budget Cuts $15.8 Billion From HHS.",
       "subtitle": "While RFK Jr. testified that he was not reducing Medicaid coverage, his own 2027 budget proposal would impose new eligibility restrictions, eliminate payments to family caregivers, and defund programs used disproportionately by disabled children and rural hospitals.",
       "category": "power"
+    },
+    {
+      "id": "musk-altman-openai-trial",
+      "title": "The Trial That Could Unwind a Trillion-Dollar Company",
+      "subtitle": "Jury selection begins in Musk v. Altman, a case where the most damaging evidence is OpenAI's own co-founder calling his nonprofit commitment 'a lie.'",
+      "category": "power"
+    },
+    {
+      "id": "warsh-fed-chair-confirmation",
+      "title": "The Fed Gets a New Chair Who Promised 'Regime Change'",
+      "subtitle": "Kevin Warsh's path to the Federal Reserve clears after the DOJ drops its Powell probe, but his plan to cut rates collides directly with an oil shock he never accounted for.",
+      "category": "power"
+    },
+    {
+      "id": "eu-china-russia-sanctions",
+      "title": "The EU Sanctioned China to Hurt Russia. Now China Is Sanctioning the EU's Defense Industry.",
+      "subtitle": "Brussels put 27 Chinese firms on its Russia blacklist; Beijing responded by targeting European defense companies and warning the EU will 'bear all consequences' of not reversing course.",
+      "category": "conflict"
+    },
+    {
+      "id": "birthright-citizenship-scotus-ruling",
+      "title": "The Supreme Court Looks Poised to Rule Against Trump. His Own Party Is Already Moving Past It.",
+      "subtitle": "With 64% of Americans opposing birthright citizenship repeal and the conservative-majority court appearing skeptical, Senate Republicans are advancing legislation that would accomplish the same result differently.",
+      "category": "power"
+    },
+    {
+      "id": "trump-mail-voting-order",
+      "title": "Trump Signed a Mail Voting Order. 23 States Sued Within Hours. The Midterms Are in 6 Months.",
+      "subtitle": "An executive order requiring USPS to verify voter citizenship before delivering ballots is legally dubious, operationally impossible, and may energize the very voters it aims to suppress.",
+      "category": "power"
     }
   ]
 }

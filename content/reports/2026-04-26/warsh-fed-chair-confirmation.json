@@ -1,0 +1,113 @@
+{
+  "id": "warsh-fed-chair-confirmation",
+  "date": "2026-04-26",
+  "generatedAt": "2026-04-26T17:30:00Z",
+  "title": "The Fed Gets a New Chair Who Promised 'Regime Change'",
+  "subtitle": "Kevin Warsh's path to the Federal Reserve clears after the DOJ drops its Powell probe, but his plan to cut rates collides directly with an oil shock he never accounted for.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Federal Reserve", "Warsh", "Powell", "inflation", "interest rates", "monetary policy"],
+  "coverImage": {
+    "url": "https://twt-thumbs.washtimes.com/media/image/2026/04/26/Senate_Federal_Reserve_52_93_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61",
+    "local": "/images/reports/2026-04-26/warsh-fed-chair-confirmation.jpg",
+    "credit": "Washington Times / AP Photo"
+  },
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/04/26/thom-tillis-kevin-warsh-federal-reserve.html",
+      "publisher": "CNBC",
+      "angle": "Tillis confirms he will vote for Warsh after DOJ assurances; notes Warsh will push quickly for rate cuts despite likely skepticism from FOMC members amid Iran war inflation"
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/us-senator-tillis-says-hes-ready-advance-confirmation-warsh-fed-chair-2026-04-26/",
+      "publisher": "Reuters",
+      "angle": "Confirmation timeline is tight: Senate Banking Committee votes Wednesday, Powell's term ends May 15, Senate has only once before confirmed a Fed nominee this fast"
+    },
+    {
+      "url": "https://theweek.com/business/economy/kevin-warshs-nomination-hearing-the-battle-for-control-of-the-fed",
+      "publisher": "The Week",
+      "angle": "Warsh faces a high-wire act: his AI productivity argument for rate cuts was built before the Iran war oil shock; his balance sheet reduction plans could raise yields even while he cuts rates"
+    },
+    {
+      "url": "https://www.washingtonpost.com/business/2026/04/26/tillis-fed-kevin-warsh/",
+      "publisher": "Washington Post",
+      "angle": "Tillis drops blockade after DOJ ends Powell probe; Powell may stay on as governor through January 2028 even after Warsh takes chair"
+    },
+    {
+      "url": "https://www.insidenova.com/news/national/us-fed-set-to-hold-rates-steady-again-on-cost-hikes-from-mideast-war/article_8a38cc3d-e4de-5708-8d00-e8e551169eab.html",
+      "publisher": "Inside Nova / AFP",
+      "angle": "Fed widely expected to hold rates at 3.50-3.75% at the upcoming meeting; inflation reached 3.3% in March, highest in nearly two years, driven by Iran war energy prices"
+    }
+  ],
+  "brief": {
+    "actors": ["Warsh", "Powell", "Trump", "Tillis", "Fed"],
+    "whatHappened": "Senator Thom Tillis announced Sunday he would end his blockade of Kevin Warsh's Federal Reserve nomination after the Department of Justice dropped its criminal investigation into Chair Jerome Powell over renovation cost overruns at the Fed's building. The Senate Banking Committee is set to vote Wednesday; with Tillis on board, Warsh has the 13-11 Republican majority needed to advance. Powell's term as chair ends May 15. Warsh, a former Fed governor, promised 'regime change' at his confirmation hearing, saying he would overhaul how the Fed measures inflation and how it communicates, and suggested current inflation metrics overestimate price pressures.",
+    "bottomLine": "Trump got a Fed chair who auditioned for the job by promising the rate cuts Trump wants, but the Iran war oil shock has made cutting rates inflationary, putting Warsh in the position of either delivering on his promise and igniting inflation or governing exactly like the predecessor he replaced.",
+    "hiddenBets": [
+      {
+        "assumption": "Warsh's 'regime change' means lower rates",
+        "whyItMightBeWrong": "Warsh's most distinctive view is that the Fed's balance sheet should be smaller, meaning the Fed should sell down its enormous bond portfolio. That raises long-term yields even as short-term rates fall. 'Regime change' might mean higher mortgage rates and tighter financial conditions, not looser ones."
+      },
+      {
+        "assumption": "Warsh will be independent of Trump",
+        "whyItMightBeWrong": "Trump said he would be 'disappointed' if Warsh did not cut rates immediately. Warsh told senators he never promised Trump he would cut. These two statements are not compatible. One of them is accurate about Warsh's future behavior."
+      },
+      {
+        "assumption": "The DOJ probe is genuinely over",
+        "whyItMightBeWrong": "U.S. Attorney Jeanine Pirro wrote Friday that she 'will not hesitate to restart a criminal investigation if the facts justify doing so,' and Acting AG Todd Blanche confirmed the DOJ will investigate if the inspector general finds criminal evidence. The probe is paused, not closed."
+      }
+    ],
+    "realDisagreement": "The genuine fork is whether central bank independence is a structural protection or a personal one. The institutional view says independence survives any chair because the FOMC's other voting members constrain anyone who overreaches. The skeptical view says the combination of Trump's public expectations, the DOJ's implicit threat to revive the Powell probe if needed, and Warsh's own confirmation testimony amounts to a soft capture of the Fed before he takes office. The FOMC's skepticism about rate cuts during an energy shock is the only concrete check on this. If Warsh overrides that skepticism, we learn independence was always personal."
+    ,
+    "whatNoOneIsSaying": "Jerome Powell can stay on the Fed's board as a governor until January 2028, voting on every rate decision, even after stepping down as chair. If Warsh pushes cuts that Powell and other governors believe are inflationary, the Fed's own internal dynamics could publicly fracture in a way that has no historical precedent. The world would be watching a sitting former chair vote against the current chair's policy in real time.",
+    "whoPays": [
+      {
+        "who": "Mortgage holders and homebuyers",
+        "how": "If Warsh cuts short-term rates but simultaneously shrinks the balance sheet, long-term yields rise. Mortgage rates, which track 10-year Treasuries, could stay elevated or increase even as the Fed funds rate falls. First-time buyers get the headline cut but not the actual relief.",
+        "when": "Beginning as soon as balance sheet reduction accelerates, likely within three to six months of confirmation"
+      },
+      {
+        "who": "Americans with fixed incomes during inflation",
+        "how": "If Warsh cuts prematurely while inflation is at 3.3% and rising due to energy costs, purchasing power erodes further. Social Security COLA adjustments lag inflation by six months; retirees on fixed incomes absorb the gap.",
+        "when": "Slow-burn effect over 6-12 months if inflation re-accelerates"
+      },
+      {
+        "who": "Powell",
+        "how": "The DOJ investigation was dropped but not closed. Powell stays on the board as a governor. His continued presence as a visible dissenter on rate decisions makes him a target for reinstatement of the probe if the administration decides his dissent is politically inconvenient.",
+        "when": "Immediate reputational risk; legal risk contingent on inspector general findings"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Warsh cuts over FOMC resistance",
+        "whatHappens": "Warsh uses the chair's agenda-setting power to force rate cut votes. Some FOMC members dissent publicly. Inflation ticks up. Markets begin pricing in a policy error. Bond yields rise regardless of short-term rate cuts.",
+        "signal": "Warsh schedules an emergency meeting or calls for a rate cut at the May 6-7 FOMC meeting before he is formally confirmed"
+      },
+      {
+        "name": "Warsh holds rates, manages expectations",
+        "whatHappens": "The Iran oil shock constrains him. He holds rates at 3.50-3.75% through summer. Trump's disappointment hardens. Warsh tries to satisfy Trump through rhetoric about future cuts without actually cutting, buying time for energy prices to stabilize.",
+        "signal": "His first post-meeting statement emphasizes 'data dependency' language borrowed from Powell's playbook"
+      },
+      {
+        "name": "Warsh's balance sheet reduction triggers a bond market shock",
+        "whatHappens": "Aggressive reduction of the Fed's Treasury holdings raises 10-year yields above 5.5%. Mortgage rates spike. The housing market freezes. Growth slows faster than inflation, creating the stagflation scenario JPMorgan's Dimon warned about.",
+        "signal": "Treasury yields rise more than 50 basis points in the month after Warsh's first policy statement"
+      }
+    ],
+    "whatWouldChange": "If the Iran war ends quickly and energy prices fall sharply before Warsh's first FOMC meeting, the inflation constraint disappears and cutting rates becomes defensible. That would make Warsh look like a competent independent actor who was simply right about the inflation overshoot. It would also remove the most visible test of whether he is Trump's instrument or his own.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Kevin Warsh Fed Chair nomination withdrawn by May 15?",
+        "url": "https://polymarket.com/event/kevin-warsh-fed-chair-nomination-withdrawn-by-may-15",
+        "probability": 0.006
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Thom Tillis vote to confirm Kevin Warsh as Chair of the Federal Reserve?",
+        "url": "https://polymarket.com/event/who-will-vote-to-confirm-kevin-warsh-as-fed-chair",
+        "probability": 0.9815
+      }
+    ]
+  }
+}

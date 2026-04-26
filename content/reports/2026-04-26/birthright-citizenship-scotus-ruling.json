@@ -1,0 +1,101 @@
+{
+  "id": "birthright-citizenship-scotus-ruling",
+  "date": "2026-04-26",
+  "generatedAt": "2026-04-26T17:30:00Z",
+  "title": "The Supreme Court Looks Poised to Rule Against Trump. His Own Party Is Already Moving Past It.",
+  "subtitle": "With 64% of Americans opposing birthright citizenship repeal and the conservative-majority court appearing skeptical, Senate Republicans are advancing legislation that would accomplish the same result differently.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["SCOTUS", "birthright citizenship", "14th Amendment", "immigration", "Trump"],
+  "coverImage": {
+    "url": "https://www.reuters.com/resizer/v2/XMY6TNV6K5ICVPUXQEQXKP4UPI.jpg?auth=b346d6155733624ed3a8f7a4b7dbb2bb6887f047db6d1c992199a9030af6b005&height=1005&width=1920&quality=80&smart=true",
+    "local": "/images/reports/2026-04-26/birthright-citizenship-scotus.jpg",
+    "credit": "Reuters / Kylie Cooper"
+  },
+  "sources": [
+    {
+      "url": "https://www.reuters.com/legal/government/us-high-court-prepares-ruling-americans-oppose-ending-birthright-citizenship-2026-04-26/",
+      "publisher": "Reuters",
+      "angle": "Reuters/Ipsos poll: 64% of Americans oppose ending birthright citizenship; Republicans divided 62-36 in favor of repeal; court expected to rule by end of June"
+    },
+    {
+      "url": "https://www.washingtontimes.com/news/2026/apr/26/chief-justice-roberts-gets-daca-supreme-court-ponders-migrant/",
+      "publisher": "Washington Times",
+      "angle": "Roberts already ruled against Trump on DACA in 2020; this case on Temporary Protected Status adds another immigration layer; court is working through multiple Trump immigration challenges simultaneously"
+    },
+    {
+      "url": "https://legis1.com/news/stripping-citizenship-americans-committee",
+      "publisher": "Legis1",
+      "angle": "Senate Judiciary subcommittee hearing April 29 on the SCAM Act, which would expand civil denaturalization for naturalized citizens; 50 House Republican cosponsors on companion bill"
+    },
+    {
+      "url": "https://usaherald.com/the-14th-amendment-under-fire-as-trump-push-forces-america-to-reexamine-its-true-architects-and-intent/",
+      "publisher": "USA Herald",
+      "angle": "Pew data: 320,000 babies born to undocumented mothers in 2023 alone; detailed breakdown of what Trump's EO would have affected retroactively if in force since 2006"
+    }
+  ],
+  "brief": {
+    "actors": ["SCOTUS", "Trump", "Roberts"],
+    "whatHappened": "The Supreme Court heard oral arguments on April 1 in Trump's challenge to birthright citizenship, which stems from his January 2025 executive order. Chief Justice John Roberts, along with conservative justices Amy Coney Barrett and Neil Gorsuch, signaled skepticism during arguments. The court is expected to rule by end of June. A Reuters/Ipsos poll conducted April 15-20 found 64% of Americans oppose ending birthright citizenship, with Republicans split 62-36. Separately, the Senate Judiciary subcommittee scheduled a hearing for April 29 on the SCAM Act, legislation that would expand the government's power to strip naturalized citizens of their status, with 50 House Republican cosponsors.",
+    "bottomLine": "The Supreme Court will almost certainly rule against Trump on birthright citizenship, but the ruling changes less than it seems: Republicans have already built a parallel legislative track targeting naturalized citizens that does not require the court's approval.",
+    "hiddenBets": [
+      {
+        "assumption": "A SCOTUS ruling against Trump ends the birthright citizenship fight",
+        "whyItMightBeWrong": "The SCAM Act takes a different approach: rather than attacking birth on US soil, it strips citizenship from naturalized Americans retroactively if they later commit certain offenses. A court ruling on birthright citizenship says nothing about whether naturalized citizenship can be revoked, and that battle is only beginning."
+      },
+      {
+        "assumption": "The 6-3 conservative majority will uphold birthright citizenship",
+        "whyItMightBeWrong": "Roberts, Barrett, and Gorsuch expressed skepticism during oral argument. But skepticism about the legal argument is not the same as ruling on the merits. The court could issue a narrow ruling that decides the lower court procedural question without reaching the constitutional question, leaving birthright citizenship in legal limbo and allowing the executive order to remain in some form."
+      },
+      {
+        "assumption": "Republican voters are unified on birthright citizenship",
+        "whyItMightBeWrong": "The Reuters poll shows Republicans split 62-36. A third of Republicans support keeping birthright citizenship. That internal division helps explain why Roberts, a George W. Bush appointee, may be looking for a way to rule against Trump without writing a landmark constitutional opinion that commits the conservative movement to a position that splits its own base."
+      }
+    ],
+    "realDisagreement": "The actual fork is not about the 14th Amendment. It is about whether American citizenship is a status that can be degraded over time or whether it is a permanent grant. Birthright citizenship is the acquisition side: who gets it at birth. The SCAM Act is the revocation side: who can lose it afterward. The administration is losing the constitutional argument on acquisition while winning the legislative argument on revocation. By the time the Supreme Court rules, Congress may have already created a parallel citizenship-stripping mechanism that changes the practical meaning of citizenship even if the 14th Amendment textually survives.",
+    "whatNoOneIsSaying": "The SCAM Act's retroactive revocation mechanism means that a naturalized citizen who committed an offense covered by the bill could be stripped of citizenship 10 years after naturalization, with citizenship voided from the original grant date. That person would become immediately subject to removal without criminal conviction. The bill's 50 House cosponsors include members who have publicly said they support 'the rule of law.' What they mean is that the rule of law applies differently to naturalized citizens than to the native-born.",
+    "whoPays": [
+      {
+        "who": "5.1 million people born in the US to undocumented parents since 2006",
+        "how": "If the court upholds Trump's EO in any form or allows enforcement to proceed while appeals continue, these individuals face uncertainty about their citizenship status for the first time in their lives",
+        "when": "Immediate legal uncertainty; final resolution by end of June with SCOTUS ruling"
+      },
+      {
+        "who": "Naturalized citizens who committed minor offenses",
+        "how": "The SCAM Act's $10,000 fraud threshold is low enough to capture immigration-related offenses, document irregularities, and minor government benefit fraud; any of these within 10 years of naturalization could trigger civil denaturalization proceedings",
+        "when": "If enacted; the bill has 50 House cosponsors but has not yet passed"
+      },
+      {
+        "who": "State governments administering birth records",
+        "how": "If birthright citizenship is restricted in any form, states must develop systems to verify citizenship at birth rather than simply recording it; this creates a new layer of administrative burden and legal liability for state vital statistics offices",
+        "when": "Implementation over 12-24 months following any ruling that changes the standard"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Court strikes down EO on constitutional grounds",
+        "whatHappens": "Roberts writes a majority opinion affirming the 14th Amendment's universal application to all persons born on US soil. Trump administration appeals for a stay. Legislative efforts intensify. The SCAM Act moves faster through Congress as the administration's fallback.",
+        "signal": "Roberts's majority opinion directly addresses the allegiance argument from administration lawyers rather than disposing on procedural grounds"
+      },
+      {
+        "name": "Court issues a narrow procedural ruling",
+        "whatHappens": "Justices decide only whether lower courts had authority to issue nationwide injunctions, leaving the constitutional question unanswered. Birthright citizenship remains formally protected but the EO's legality stays unsettled. Congress and the administration claim the constitutional debate continues.",
+        "signal": "The court's majority opinion focuses entirely on the scope of district court injunctive power without reaching the merits of the citizenship question"
+      },
+      {
+        "name": "SCAM Act passes while SCOTUS ruling is pending",
+        "whatHappens": "Congress enacts denaturalization legislation before the court rules. The administration argues that even a ruling upholding birthright citizenship does not affect revocation of naturalized citizenship. Two classes of American citizen emerge: those whose citizenship cannot be revoked and those whose can.",
+        "signal": "Senate Judiciary Committee advances the SCAM Act to a floor vote before the end of June"
+      }
+    ],
+    "whatWouldChange": "If the court rules in a way that creates a new legal test for birthright citizenship based on parental allegiance, the outcome is completely different: millions of people born in the US would face citizenship reviews, and the SCAM Act would become redundant by comparison. The existing oral argument suggests this is unlikely, but the administration's Solicitor General is pushing the allegiance argument precisely because a small shift in the majority's framing could open that door.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "SCOTUS strikes down Trump's Birthright Citizenship EO?",
+        "url": "https://polymarket.com/event/scotus-strikes-down-trumps-birthright-citizenship-eo",
+        "probability": 0.925
+      }
+    ]
+  }
+}
