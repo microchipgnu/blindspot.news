@@ -1,0 +1,43 @@
+{
+  "date": "2026-04-26",
+  "threads": [
+    {
+      "id": "executive-power-without-authorization",
+      "title": "Acting Without Permission",
+      "description": "Three stories today are each about a different branch of the Trump administration using a mechanism that bypasses the normal requirement for legislative or judicial authorization: the BIA issuing immigration precedents through a captive administrative court, the administration continuing a war past its War Powers deadline without congressional approval, and tariffs imposed under emergency authority that a court later ruled illegal. The thread is not that Trump is powerful; it is that the institutions designed to check that power are each failing for a different structural reason.",
+      "type": "tension-cluster",
+      "stories": ["daca-deportation-shield-removed", "iran-talks-collapse", "tariff-refund-corporations"],
+      "connections": [
+        {
+          "from": "tariff-refund-corporations",
+          "to": "daca-deportation-shield-removed",
+          "relationship": "The tariff case shows that courts can eventually correct IEEPA overreach, but only after the harm is done and only for the party with legal standing to sue; the DACA case shows how administrative courts inside the executive branch route around judicial correction by producing precedent faster than lawsuits can follow"
+        },
+        {
+          "from": "iran-talks-collapse",
+          "to": "tariff-refund-corporations",
+          "relationship": "Both the Iran war and the tariffs were authorized under emergency powers that the administration treats as unlimited; the Supreme Court ruled the tariffs exceeded IEEPA authority, and the War Powers Act creates the same ceiling on military force; the administration's response to both legal limits is to continue the policy while the legal challenge runs its course, because the courts operate on a slower timeline than the facts on the ground"
+        },
+        {
+          "from": "daca-deportation-shield-removed",
+          "to": "iran-talks-collapse",
+          "relationship": "The administration's simultaneous argument at SCOTUS that judges cannot review immigration deportation decisions mirrors its implicit position on the War Powers Act: that executive discretion in both domains is immune from judicial check, and that the proper remedy for disagreement is a legislative fix Congress cannot pass"
+        }
+      ]
+    },
+    {
+      "id": "capture-before-regulation-arrives",
+      "title": "Capture Before the Rules Are Written",
+      "description": "The Google-Anthropic investment and the Australia social media ban both expose the same dynamic: powerful actors are making structural moves before regulators have decided what the rules are, and the regulation that eventually arrives is shaped by the facts they created. Google is investing in the AI company the EU is simultaneously demanding it treat as a competitor. Australia is criminalizing teen access to platforms that have not yet been required to redesign the algorithmic features that produce the harm. In both cases, the policy arrives after the structure is already fixed.",
+      "type": "dependency-web",
+      "stories": ["google-anthropic-40b", "social-media-ban-failing"],
+      "connections": [
+        {
+          "from": "google-anthropic-40b",
+          "to": "social-media-ban-failing",
+          "relationship": "Both stories show regulators targeting the symptom, access and distribution, while the underlying structure, compute control and algorithmic design, is captured by the actors being regulated; Google's investment makes Anthropic's AI available through Google infrastructure just as EU regulators try to mandate open access, and platforms deploy age gates instead of algorithmic redesign just as governments mandate age gates instead of algorithmic redesign"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-26",
+  "generatedAt": "2026-04-26T07:00:00Z",
+  "reports": [
+    {
+      "id": "google-anthropic-40b",
+      "title": "Google Buys a Rival It Cannot Control",
+      "subtitle": "A $40 billion bet on Anthropic is less an investment than a structural admission that Google lost the AI race internally.",
+      "category": "power"
+    },
+    {
+      "id": "daca-deportation-shield-removed",
+      "title": "The Justice Department Dismantles DACA From the Inside",
+      "subtitle": "By ruling that DACA status alone cannot block deportation, the administration's own immigration courts have accomplished what congressional repeal never could.",
+      "category": "power"
+    },
+    {
+      "id": "iran-talks-collapse",
+      "title": "Iran Ceasefire Talks Break Down as War Powers Clock Ticks",
+      "subtitle": "With Trump's envoys a no-show in Islamabad and Tehran's diplomat already on a plane to Oman, the US faces a constitutional deadline in five days that neither side has acknowledged publicly.",
+      "category": "conflict"
+    },
+    {
+      "id": "tariff-refund-corporations",
+      "title": "$166 Billion Goes Back to Walmart. American Families Get Nothing.",
+      "subtitle": "The Supreme Court ruled Trump's tariffs illegal, the government is now refunding the money, and the legal structure guarantees that corporations receive every dollar while the consumers who bore the costs are locked out entirely.",
+      "category": "power"
+    },
+    {
+      "id": "social-media-ban-failing",
+      "title": "The World Is Copying Australia's Teen Social Media Ban. Australia's Is Already Failing.",
+      "subtitle": "Four months after Australia became the first country to ban social media for under-16s, 61% of affected teens are still on the platforms, and Turkey, Norway, Manitoba, and a dozen US states are lining up to enact the same policy.",
+      "category": "decision"
+    }
+  ]
+}

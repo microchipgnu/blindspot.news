@@ -1,0 +1,98 @@
+{
+  "id": "daca-deportation-shield-removed",
+  "date": "2026-04-26",
+  "generatedAt": "2026-04-26T07:00:00Z",
+  "title": "The Justice Department Dismantles DACA From the Inside",
+  "subtitle": "By ruling that DACA status alone cannot block deportation, the administration's own immigration courts have accomplished what congressional repeal never could.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["DACA", "immigration", "BIA", "deportation", "Trump", "DOJ"],
+  "coverImage": {
+    "url": "https://npr.brightspotcdn.com/dims4/default/5ca175d/2147483647/strip/true/crop/4500x2363+0+84/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F4500x2531%200%20234%2Fresize%2F4500x2531%21%2F%3Furl%3Dhttp%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fed%2Fd5%2F5ef2db7749eba5efd5ac75d25777%2Fgettyimages-1137865525.jpg",
+    "local": "/images/reports/2026-04-26/daca-deportation.jpg",
+    "credit": "NPR / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://www.npr.org/2026/04/25/nx-s1-5798943/justice-department-makes-it-easier-to-deport-those-with-daca-status",
+      "publisher": "NPR",
+      "angle": "Primary reporting on the BIA ruling: three-judge panel overturned an immigration judge who had terminated removal proceedings solely on DACA status; explains the BIA's unique role as a precedent-setting body for all immigration courts nationwide"
+    },
+    {
+      "url": "https://www.washingtontimes.com/news/2026/apr/25/immigration-court-rules-daca-no-longer-automatic-block-deporting/",
+      "publisher": "Washington Times",
+      "angle": "Conservative framing: presents the ruling as a legitimate legal correction, not an administrative overreach; notes that DACA was always an executive memorandum, not a statute, so removing its protective weight in removal hearings is consistent with its original scope"
+    },
+    {
+      "url": "https://us.headtopics.com/news/bia-ruling-weakens-daca-protections-signals-increased-82663743",
+      "publisher": "Head Topics / NPR",
+      "angle": "Statistical context: BIA ruled in favor of the government in 97% of public cases in the past year, up more than 30 percentage points from the historical average; issued a record 70 precedent decisions this year alone, the bulk aimed at restricting relief and expanding removal"
+    },
+    {
+      "url": "https://www.opb.org/article/2026/04/25/justice-department-makes-it-easier-to-deport-those-with-daca-status/",
+      "publisher": "OPB / NPR",
+      "angle": "Individual case detail: Catalina Santiago, a New Mexico lab office assistant with active DACA status, was detained boarding a domestic flight in El Paso; the case became the vehicle for the new precedent"
+    },
+    {
+      "url": "https://www.reuters.com/legal/government/supreme-court-fight-against-deportation-shield-trump-says-judges-have-no-role-2026-04-25/",
+      "publisher": "Reuters",
+      "angle": "Parallel Supreme Court fight: Trump administration simultaneously arguing at SCOTUS that federal judges have no authority to review deportation decisions for Haitian and Syrian TPS holders; the BIA ruling and the SCOTUS argument are part of the same strategy to insulate immigration enforcement from judicial review"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "DOJ", "BIA", "DHS", "SCOTUS", "DACA recipients"],
+    "whatHappened": "The Board of Immigration Appeals, an administrative court housed within the Justice Department, issued a precedent-setting ruling on April 25 holding that DACA status is not by itself sufficient grounds to terminate deportation proceedings. The ruling came in the case of Catalina Santiago, a DACA recipient detained by CBP officers while boarding a domestic flight in El Paso. A three-judge BIA panel overturned the decision of immigration judge Michael Pleters, who had ended removal proceedings on the basis of her active DACA status. Because the BIA sets binding precedent for all immigration judges in the United States, the ruling exposes approximately 500,000 DACA holders to removal hearings where their status may be considered but no longer controls the outcome.",
+    "bottomLine": "DACA has not been repealed. It has been made irrelevant: a credential that immigration judges are now required to weigh but permitted to override, which is the functional equivalent of no credential at all.",
+    "hiddenBets": [
+      {
+        "assumption": "DACA still provides meaningful legal protection because courts have upheld the program itself",
+        "whyItMightBeWrong": "The BIA ruling does not touch whether DACA is valid. It rules that DACA, even if valid, does not automatically stop deportation. The administration found a gap between 'program exists' and 'program produces binding protection in each case,' and it drove a ruling through that gap."
+      },
+      {
+        "assumption": "Federal courts will block mass deportations of DACA holders the same way they blocked deportations of TPS holders",
+        "whyItMightBeWrong": "TPS holders had a statute behind them. DACA holders have an executive memorandum. Courts that were willing to enforce a statutory protection may apply a different standard to a program that was always a prosecutorial discretion policy, not a legal right. The administration's simultaneous argument at SCOTUS that judges have no review authority over its immigration decisions will, if accepted, remove the judicial backstop entirely."
+      },
+      {
+        "assumption": "The BIA is a neutral adjudicator",
+        "whyItMightBeWrong": "The BIA is not independent. It operates inside the Justice Department and its members serve at the Attorney General's pleasure. The shift from 60-70% government-favorable decisions historically to 97% this year, with a record 70 precedent decisions issued, is a statistical signal that the court is functioning as a policy instrument, not an adjudicatory body."
+      }
+    ],
+    "realDisagreement": "The core fork is between rule-of-law as stability and rule-of-law as compliance. One position: DACA was always a presidential policy choice, not a law; immigration judges are supposed to apply law, not policy; the BIA ruling correctly aligns the courts with the statute. The other position: 500,000 people organized their lives, careers, and tax payments around reliance on a government program, and dismantling that protection through administrative court precedent rather than legislation is a deliberate use of process to produce an outcome that Congress has repeatedly refused to authorize. Both positions are legally serious. I lean toward the second, not because DACA was a permanent right but because the mechanism, routing a structural policy change through a captive administrative court at 97% government-favorable rates, is designed to escape the accountability that legislation would require.",
+    "whatNoOneIsSaying": "The administration is winning the DACA fight without ever having to pass a bill, which means it also avoids ever having to defend the policy to a general electorate in a floor vote. The accountability that a legislative repeal would force never happens, and the political cost is distributed across individual deportation cases rather than one visible decision.",
+    "whoPays": [
+      {
+        "who": "DACA holders currently employed in healthcare, tech, and education",
+        "how": "Employers have begun quietly initiating contingency planning for workforce gaps. Unlike documented workers who face predictable visa cycles, DACA holders now face individual case-by-case exposure: each renewal creates a fresh window of vulnerability. The uncertainty itself causes attrition before any deportation order is issued.",
+        "when": "Immediate for those with pending renewals or prior encounters with law enforcement; broader exposure builds over 12-18 months as the precedent is applied in case backlogs"
+      },
+      {
+        "who": "Immigration judges who ruled against the government",
+        "how": "The BIA's 97% government-favorable rate coincides with the administration's removal of immigration judges for issuing too many decisions in favor of respondents. Judges who continue to use DACA status as a shield against removal face administrative consequences.",
+        "when": "Already happening; the precautionary effect has likely already changed judicial behavior in unreported cases"
+      },
+      {
+        "who": "State governments with significant DACA workforces",
+        "how": "States like California, Texas, and New York have DACA holders embedded in public-sector healthcare and education positions. Federal removal authority over a state workforce is a jurisdictional confrontation states cannot resolve without federal legislation.",
+        "when": "Medium-term; first visible when removal orders reach employees in state-funded institutions"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Quiet erosion",
+        "whatHappens": "No mass deportation operation targets DACA holders explicitly. Instead, individual encounters with law enforcement, traffic stops, workplace audits, or domestic flight boarding situations trigger removal proceedings in which DACA status is raised but overridden. The program hollows out case by case over 18 months.",
+        "signal": "A second BIA precedent decision clarifying what evidence can rebut the removal presumption, or an uptick in ICE detainers served on DACA holders with no criminal history"
+      },
+      {
+        "name": "Federal court injunction",
+        "whatHappens": "A federal district court enjoins the BIA precedent on due process grounds, arguing that DACA holders relied on the program's protective function as a matter of settled expectation. The administration appeals to the Ninth Circuit and simultaneously pushes SCOTUS to hear the judicial review question.",
+        "signal": "ACLU or NILC filing within 30 days; the specific legal theory they choose will determine whether the injunction has a viable path"
+      },
+      {
+        "name": "Congressional deal",
+        "whatHappens": "The BIA ruling creates enough visible disruption that a small group of Republican senators negotiates a narrow DACA statute as part of a broader immigration package. The legislative fix trades a pathway to status for border enforcement measures the administration can claim as wins.",
+        "signal": "Any Republican senator publicly criticizing the BIA ruling by name, not just expressing general concern about immigration outcomes"
+      }
+    ],
+    "whatWouldChange": "If the Supreme Court rules in the TPS case that federal judges retain review authority over individual deportation decisions, the BIA precedent becomes contestable in every case. That would not restore DACA protection, but it would slow the mechanism by forcing individualized judicial review the administration is currently trying to foreclose."
+  }
+}
