@@ -1,6 +1,6 @@
 {
   "date": "2026-04-26",
-  "generatedAt": "2026-04-26T07:00:00Z",
+  "generatedAt": "2026-04-26T12:31:00Z",
   "reports": [
     {
       "id": "google-anthropic-40b",
@@ -31,6 +31,36 @@
       "title": "The World Is Copying Australia's Teen Social Media Ban. Australia's Is Already Failing.",
       "subtitle": "Four months after Australia became the first country to ban social media for under-16s, 61% of affected teens are still on the platforms, and Turkey, Norway, Manitoba, and a dozen US states are lining up to enact the same policy.",
       "category": "decision"
+    },
+    {
+      "id": "whcd-shooting-trump",
+      "title": "Trump Escapes the White House Correspondents' Dinner. Now He Wants to Escape the Venue Entirely.",
+      "subtitle": "A gunman breached security at the annual press dinner, and before the night was over, Trump was using the chaos to accelerate a plan his lawyers had been blocking for months.",
+      "category": "power"
+    },
+    {
+      "id": "doj-firing-squads-federal-executions",
+      "title": "The DOJ Restores the Firing Squad. The Pope Disagrees.",
+      "subtitle": "Acting Attorney General Todd Blanche reinstated federal executions by firing squad the same week the newly elected Pope Leo called for abolishing the death penalty worldwide.",
+      "category": "ethics"
+    },
+    {
+      "id": "zelensky-azerbaijan-peace-gambit",
+      "title": "Zelensky Picks Baku. Russia Does Not Need to Accept.",
+      "subtitle": "Ukraine's president made his first wartime visit to Azerbaijan, signed six defense and energy agreements, and proposed it as the venue for peace talks with Russia, knowing Putin will almost certainly say no.",
+      "category": "conflict"
+    },
+    {
+      "id": "trump-irs-lawsuit-collusion",
+      "title": "Trump Is Suing an Agency He Controls. A Judge Wants to Know How That Works.",
+      "subtitle": "A federal judge has paused Trump's $10 billion lawsuit against the IRS, noting that a president cannot be 'sufficiently adverse' to his own executive branch to satisfy the Constitution's requirements for a real legal dispute.",
+      "category": "power"
+    },
+    {
+      "id": "medicaid-cuts-rfk-denial",
+      "title": "RFK Jr. Told the Senate He Is Not Cutting Medicaid. His Budget Cuts $15.8 Billion From HHS.",
+      "subtitle": "While RFK Jr. testified that he was not reducing Medicaid coverage, his own 2027 budget proposal would impose new eligibility restrictions, eliminate payments to family caregivers, and defund programs used disproportionately by disabled children and rural hospitals.",
+      "category": "power"
     }
   ]
 }

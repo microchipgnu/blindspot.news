@@ -38,6 +38,53 @@
           "relationship": "Both stories show regulators targeting the symptom, access and distribution, while the underlying structure, compute control and algorithmic design, is captured by the actors being regulated; Google's investment makes Anthropic's AI available through Google infrastructure just as EU regulators try to mandate open access, and platforms deploy age gates instead of algorithmic redesign just as governments mandate age gates instead of algorithmic redesign"
         }
       ]
+    },
+    {
+      "id": "denial-as-policy",
+      "title": "The Official Story That Isn't",
+      "description": "RFK Jr. denies cutting Medicaid while his budget imposes $15.8 billion in HHS reductions. The Trump administration denies that DACA status changes, while its immigration courts render deportation shields meaningless. In both cases, the official position is designed to survive the news cycle while the operational policy achieves the opposite. This is not spin: it is a structured use of definitional ambiguity as the primary policy instrument, where the gap between what officials say and what the documents show is the actual mechanism of governance.",
+      "type": "tension-cluster",
+      "stories": ["medicaid-cuts-rfk-denial", "daca-deportation-shield-removed"],
+      "connections": [
+        {
+          "from": "daca-deportation-shield-removed",
+          "to": "medicaid-cuts-rfk-denial",
+          "relationship": "The immigration courts ruled that DACA status cannot block deportation without abolishing DACA; RFK Jr. imposed new Medicaid eligibility restrictions without formally cutting Medicaid benefits; both moves achieve policy goals through definitional redesign rather than explicit repeal, making the change legally defensible and politically deniable simultaneously"
+        }
+      ]
+    },
+    {
+      "id": "drone-proliferation-iran",
+      "title": "Ukraine Is Teaching Everyone to Fight Like Iran",
+      "description": "Ukraine is exporting drone-warfare doctrine to Azerbaijan, which claims Iran attacked it with drones in March. The US is simultaneously bombing Iranian military sites under an operation that has already exceeded its War Powers deadline. Iran developed drone-warfare as a counter to US air superiority; Ukraine learned it under pressure; now Ukraine is teaching it to Gulf states and Caucasus countries threatened by Iran. The US is fighting the doctrine it helped create by failing to contain it.",
+      "type": "cause-effect",
+      "stories": ["zelensky-azerbaijan-peace-gambit", "iran-talks-collapse"],
+      "connections": [
+        {
+          "from": "zelensky-azerbaijan-peace-gambit",
+          "to": "iran-talks-collapse",
+          "relationship": "Ukraine's transfer of air defense and drone-interception expertise to Azerbaijan directly counters the Iranian drone capability that the US military is simultaneously trying to degrade through airstrikes; both operations are aimed at reducing Iranian drone reach in the same region, but they operate on different timelines and with different effects: the US approach is kinetic and temporary, the Ukrainian approach is doctrinal and permanent"
+        }
+      ]
+    },
+    {
+      "id": "president-above-the-structure",
+      "title": "The President Sues Himself, Shoots His Way to a Ballroom, Executes His Vision",
+      "description": "Three stories today show Trump treating institutions designed to check executive power as personal instruments: suing the IRS he controls to extract public money, using a security incident to accelerate his privately-desired White House ballroom project, and directing DOJ to restore an execution method his executive order specified. Each move uses a legitimate institutional mechanism, a lawsuit, a security review, an attorney general directive, to produce a result that serves the president's personal preference rather than a generalizable public interest. The pattern is not authoritarianism in the classic sense; it is the conversion of public instruments into private leverage.",
+      "type": "tension-cluster",
+      "stories": ["trump-irs-lawsuit-collusion", "whcd-shooting-trump", "doj-firing-squads-federal-executions"],
+      "connections": [
+        {
+          "from": "trump-irs-lawsuit-collusion",
+          "to": "doj-firing-squads-federal-executions",
+          "relationship": "In both cases, DOJ is required to take positions that serve the president's personal agenda rather than the government's institutional interest: defend the IRS against the president's own lawsuit while also being directed by the president, and implement an execution protocol that the president's executive order specified; the attorney general is simultaneously the president's agent and the government's lawyer, a structural impossibility that both cases expose"
+        },
+        {
+          "from": "whcd-shooting-trump",
+          "to": "trump-irs-lawsuit-collusion",
+          "relationship": "Both stories show Trump using an external event or mechanism to advance a project, the White House ballroom and the IRS damages claim, that serves his personal interest but is framed as a public safety or civil rights matter; in both cases, the legitimacy of the underlying concern, security at public events and tax privacy, is real, but the chosen remedy is designed to produce a personal benefit rather than address the general problem"
+        }
+      ]
     }
   ]
 }

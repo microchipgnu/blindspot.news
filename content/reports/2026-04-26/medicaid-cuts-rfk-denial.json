@@ -1,0 +1,98 @@
+{
+  "id": "medicaid-cuts-rfk-denial",
+  "date": "2026-04-26",
+  "generatedAt": "2026-04-26T12:31:00Z",
+  "title": "RFK Jr. Told the Senate He Is Not Cutting Medicaid. His Budget Cuts $15.8 Billion From HHS.",
+  "subtitle": "While RFK Jr. testified that he was not reducing Medicaid coverage, his own 2027 budget proposal would impose new eligibility restrictions, eliminate payments to family caregivers, and defund programs used disproportionately by disabled children and rural hospitals.",
+  "topic": "society",
+  "category": "power",
+  "tags": ["RFK Jr.", "Medicaid", "healthcare", "Congress", "Trump", "big beautiful bill", "HHS"],
+  "coverImage": {
+    "url": "https://www.onlineathens.com/gcdn/authoring/authoring-images/2026/04/14/USAT/89610146007-n-f-peopleimagescom-for-article.jpeg?crop=3839,2159,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+    "local": "/images/reports/2026-04-26/medicaid-cuts-rfk.jpg",
+    "credit": "Online Athens"
+  },
+  "sources": [
+    {
+      "url": "https://www.ms.now/news/americans-fear-medicaid-cuts-rfk-jr-hearings",
+      "publisher": "MS Now",
+      "angle": "First-person accounts from Medicaid recipients describing fear of coverage loss following the Senate hearings. RFK Jr.'s testimony that he is not cutting Medicaid is directly contradicted by the HHS budget proposal's $15.8 billion reduction and new work requirement restrictions."
+    },
+    {
+      "url": "https://www.onlineathens.com/story/news/healthcare/2026/04/26/georgia-medicaid-cuts-threaten-therapy-for-children/89779373007/",
+      "publisher": "Online Athens",
+      "angle": "Concrete case: Georgia Medicaid rate cuts are already eliminating physical, occupational, and speech therapy services for disabled children. Therapists say they cannot remain solvent serving low-income families at reduced rates."
+    },
+    {
+      "url": "https://midhudsonnews.com/2026/04/26/report-mid-hudson-hospitals-at-risk-amid-medicaid-cuts/",
+      "publisher": "Mid Hudson News",
+      "angle": "A Public Citizen study identifies three specific hospitals in New York's Mid-Hudson region at risk of closure or service reduction. These are the only hospitals in their immediate service areas."
+    },
+    {
+      "url": "https://crooksandliars.com/2026/04/rfk-jr-wants-eliminate-medicaid-payments",
+      "publisher": "Crooks and Liars",
+      "angle": "Covers RFK Jr.'s specific testimony that family caregivers should not be paid for 'activities they used to do for free,' including driving family members to medical appointments, and the response from disability rights advocates."
+    }
+  ],
+  "brief": {
+    "actors": ["RFK Jr.", "Congress", "Trump", "HHS", "Medicaid recipients"],
+    "whatHappened": "Health and Human Services Secretary Robert F. Kennedy Jr. testified before Senate committees this week defending his 2027 budget proposal, which would cut $15.8 billion from HHS and impose new eligibility restrictions on Medicaid, including work requirements. Kennedy repeatedly told senators he was not reducing Medicaid coverage, a claim senators challenged with his own budget documents. Simultaneously, states implementing preliminary cuts linked to the anticipated 'big, beautiful bill' are already seeing effects: Georgia therapists are losing Medicaid reimbursements for services to disabled children, three New York hospitals face potential closure, and a KFF analysis shows nearly 100,000 undocumented immigrants dropped Medi-Cal in the second half of 2025. Kennedy also told senators that family caregivers should not receive Medicaid payment for care activities they 'used to do for free.'",
+    "bottomLine": "RFK Jr. is running a definitional operation: he defines 'cuts' as only direct benefit reduction while the budget imposes eligibility restrictions and rate cuts that achieve the same result indirectly, and the semantic cover is designed to survive the news cycle while the underlying harm proceeds.",
+    "hiddenBets": [
+      {
+        "assumption": "The 'big beautiful bill' Medicaid provisions will be moderated by Senate Republicans from Medicaid-dependent states",
+        "whyItMightBeWrong": "Senators from rural states with high Medicaid enrollment have voiced concern before and voted for the cuts anyway. The political dynamic is that rural hospital closures happen in districts that vote Republican but are not covered by national media, which reduces the accountability cost. The moderates may not hold."
+      },
+      {
+        "assumption": "Work requirements are a reasonable eligibility reform",
+        "whyItMightBeWrong": "Studies of existing state-level Medicaid work requirements, including Arkansas and Georgia, show that the people most likely to lose coverage are those who are already working but unable to document it, those caring for disabled family members, and those in sporadic employment. The paperwork burden removes people who qualify from the rolls without actually changing behavior."
+      },
+      {
+        "assumption": "The family caregiver payment elimination is a minor budget item",
+        "whyItMightBeWrong": "Medicaid payments to family caregivers, authorized under many states' home and community-based waiver programs, are the difference between institutionalization and living at home for hundreds of thousands of disabled and elderly adults. Eliminating them does not save money: it shifts people to far more expensive institutional care."
+      }
+    ],
+    "realDisagreement": "The fork is between two genuine positions: that Medicaid spending has grown unsustainably and requires structural changes to remain solvent, versus that the proposed changes will remove coverage from people who are already working, already caregiving, and already at the margin of survivability without federal support. The sustainability argument is not dishonest: Medicaid now covers one in four Americans and its costs are a legitimate fiscal pressure. But the specific mechanisms chosen, work requirements, rate cuts to providers, family caregiver elimination, are not the parts of the program that are structurally inefficient. They target the most vulnerable recipients because those are the easiest cuts to make politically. That is not reform; it is harm selection.",
+    "whatNoOneIsSaying": "The hospitals at risk of closure in rural Republican-voting counties are the same hospitals Republican members of Congress pointed to when arguing they supported healthcare access in their districts. The cuts that close those hospitals will be voted for by the representatives of those districts. This contradiction is visible to every health policy analyst and invisible in the political coverage.",
+    "whoPays": [
+      {
+        "who": "Disabled children in Georgia and similar states",
+        "how": "Therapists cannot continue providing physical, occupational, and speech therapy at reduced Medicaid rates. Services end. Development delays worsen.",
+        "when": "Already beginning in Georgia. National implementation follows the bill's passage, expected by Q3 2026."
+      },
+      {
+        "who": "Family caregivers for disabled and elderly adults",
+        "how": "Elimination of Medicaid caregiver payments removes the only income stream available to adults who left jobs to provide full-time care. The choice becomes: return to work and lose care access, or continue providing care without income.",
+        "when": "If the bill passes in current form, within 12 months of implementation."
+      },
+      {
+        "who": "Rural hospitals in Medicaid-dependent counties",
+        "how": "Reduced Medicaid reimbursements below operating costs force hospitals to close specific service lines, reduce staff, or close entirely. The three Mid-Hudson hospitals identified are examples of a national pattern.",
+        "when": "12-24 months after cuts take effect."
+      },
+      {
+        "who": "Undocumented immigrants who had Medi-Cal",
+        "how": "Fear-driven disenrollment means people with serious conditions are forgoing care now, before the law requires them to stop. The harm is happening in advance of the legal change.",
+        "when": "Already underway."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Bill passes with work requirements intact",
+        "whatHappens": "The 'big beautiful bill' clears the Senate with Medicaid work requirements and rate cuts. States implement. Enrollment drops by 10-20 million over two years as eligibility documentation requirements remove people from rolls.",
+        "signal": "Senate cloture vote on the reconciliation bill, expected by August 2026."
+      },
+      {
+        "name": "Work requirements stripped, rate cuts survive",
+        "whatHappens": "A handful of Senate Republicans from rural states force removal of work requirements in exchange for votes. The rate cuts to providers remain. Coverage technically intact but providers exit the Medicaid market. Access collapses without the enrollment drop.",
+        "signal": "Lisa Murkowski or Susan Collins announce opposition to work requirements specifically."
+      },
+      {
+        "name": "Hospital closures trigger political backlash before vote",
+        "whatHappens": "A wave of rural hospital closure announcements in Republican-held districts creates constituent pressure that delays or derails the bill's Medicaid provisions. Cuts are either delayed or reduced.",
+        "signal": "Three or more rural hospital closure announcements in GOP-held districts before the Senate vote, with explicit citation of Medicaid funding."
+      }
+    ],
+    "whatWouldChange": "If CBO scores the bill's Medicaid provisions showing fewer than 5 million coverage losses, the political viability of the cuts increases dramatically and the bottom line shifts: Kennedy's framing survives scrutiny. Current CBO estimates suggest the number is much higher."
+  }
+}

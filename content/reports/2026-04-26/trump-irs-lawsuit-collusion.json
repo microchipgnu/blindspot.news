@@ -1,0 +1,88 @@
+{
+  "id": "trump-irs-lawsuit-collusion",
+  "date": "2026-04-26",
+  "generatedAt": "2026-04-26T12:31:00Z",
+  "title": "Trump Is Suing an Agency He Controls. A Judge Wants to Know How That Works.",
+  "subtitle": "A federal judge has paused Trump's $10 billion lawsuit against the IRS, noting that a president cannot be 'sufficiently adverse' to his own executive branch to satisfy the Constitution's requirements for a real legal dispute.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["Trump", "IRS", "DOJ", "SCOTUS", "federal courts", "constitutional law", "Article III"],
+  "coverImage": {
+    "url": "https://www.thedailybeast.com/resizer/v2/YGPTI2QBW5F5XHM35DO7EGPRBU.JPG?smart=true&auth=9277f5038ca7a28a362b64ae224410dd0d3a2c61a0a814b6a8fc4e49678bf353&width=1200&height=630",
+    "local": "/images/reports/2026-04-26/trump-irs-lawsuit.jpg",
+    "credit": "The Daily Beast"
+  },
+  "sources": [
+    {
+      "url": "https://www.thedailybeast.com/federal-judge-kathleen-williams-warns-trump-could-fleece-public-with-10b-irs-lawsuit/",
+      "publisher": "The Daily Beast",
+      "angle": "Focuses on Judge Williams' warning that the lawsuit could be 'collusive,' i.e., that the administration could structure a settlement to extract money from the government for the president's personal benefit without real adversarial litigation."
+    },
+    {
+      "url": "https://abcnews.com/Politics/judge-orders-trump-doj-justify-presidents-10b-irs/story?id=132365447",
+      "publisher": "ABC News",
+      "angle": "Straight legal coverage: Article III requires the parties in a lawsuit to be 'sufficiently adverse.' The president commanding both the plaintiff (himself personally) and the defendant (IRS/Treasury) may not meet this standard."
+    },
+    {
+      "url": "https://www.newsweek.com/trumps-10-billion-irs-lawsuit-hits-stumbling-block-11877252",
+      "publisher": "Newsweek",
+      "angle": "Reviews the underlying case: Trump's suit claims the government failed to protect his confidential tax records leaked by former IRS contractor Charles Littlejohn. The case has a legitimate factual basis; the constitutional problem is structural."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "IRS", "DOJ", "Judge Kathleen Williams"],
+    "whatHappened": "President Trump filed a $10 billion lawsuit against the IRS and Treasury Department in January, alleging that the federal government failed to protect his confidential tax records after former IRS contractor Charles Littlejohn leaked them to the press. U.S. District Judge Kathleen Williams, reviewing the case Friday, raised a constitutional concern: Article III of the Constitution requires adverse parties for federal courts to have jurisdiction, and it is not clear that a president suing the executive branch agencies he commands satisfies that requirement. She denied a request to delay proceedings pending a possible settlement, specifically because a non-adversarial settlement would itself raise a collusion problem. The DOJ has been ordered to justify why the case can legally proceed.",
+    "bottomLine": "Trump has constructed a lawsuit in which his DOJ must argue that the president is sufficiently separate from the agencies he controls to sue them, which is either constitutionally novel or constitutionally impossible, and either outcome is a problem.",
+    "hiddenBets": [
+      {
+        "assumption": "This is a straightforward privacy rights case that happens to involve the president",
+        "whyItMightBeWrong": "The underlying Littlejohn leak is real and the violation is documented. But the $10 billion figure is not tethered to any calculable harm. No sitting president has sued his own executive branch for money. The case is using a legitimate grievance as the vehicle for something unprecedented: establishing that the president can extract damages from the federal treasury through litigation he controls on both sides."
+      },
+      {
+        "assumption": "If the case proceeds to settlement, it's a normal legal resolution",
+        "whyItMightBeWrong": "A settlement between Trump personally and the IRS/Treasury is a negotiation between the president and agencies that report to him. There is no adversarial check. The DOJ, which defends the government, also serves at Trump's pleasure. A settlement could transfer public funds to Trump personally without any independent review, which is why the judge flagged 'collusion.'"
+      },
+      {
+        "assumption": "The constitutional question is narrow and technical",
+        "whyItMightBeWrong": "If a court rules that a president can sue his own agencies and receive damages, the precedent is open-ended. Future presidents could use the same structure to extract money from the federal government for any alleged grievance, creating a new category of presidential self-dealing with judicial blessing."
+      }
+    ],
+    "realDisagreement": "The tension is between two real principles: that the president, like any citizen, has privacy rights that government agencies must protect, versus that constitutional separation of powers makes it incoherent for one branch to sue itself with the same branch controlling both sides of the lawsuit. The first principle is genuinely important. Littlejohn did violate Trump's privacy, and some remedy is appropriate. But the remedy chosen, a presidential lawsuit against the president's own agencies for ten billion dollars with the president's DOJ on both sides, bypasses every check that makes legal damages legitimate. The second principle wins: the structure is the problem, not the underlying claim. A different remedy, an independent special counsel or a congressional appropriation, would be defensible. This one is not.",
+    "whatNoOneIsSaying": "The DOJ is supposed to defend the federal government in lawsuits. It is now required to defend the IRS against a lawsuit brought by the president who controls the DOJ. The lawyers writing the government's defense brief are employees of the man suing their client. No one has publicly said what everyone in the department knows: this is a professional and institutional impossibility they are being forced to navigate.",
+    "whoPays": [
+      {
+        "who": "American taxpayers",
+        "how": "A successful settlement or judgment transfers money from the federal treasury to Trump personally. The federal government is self-insured; damages come from appropriated funds.",
+        "when": "If a settlement is reached, the disbursement would be immediate."
+      },
+      {
+        "who": "DOJ career attorneys",
+        "how": "They are required to make legal arguments that either undermine Article III precedent or expose the agency to liability on behalf of a client who is also their boss. Either path damages the institution.",
+        "when": "The case is active now."
+      },
+      {
+        "who": "Future administrations",
+        "how": "If the case succeeds on the constitutional question, every future president has a roadmap for extracting federal money through litigation they structurally control.",
+        "when": "Permanent precedent if the case proceeds."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Judge dismisses for lack of standing",
+        "whatHappens": "Judge Williams rules that Trump lacks Article III standing to sue his own agencies, dismisses the case, and writes an opinion that explicitly forecloses this mechanism for future presidents.",
+        "signal": "A ruling within 60 days after DOJ files its justification brief."
+      },
+      {
+        "name": "Case proceeds, settlement is reached",
+        "whatHappens": "The court accepts DOJ's argument that the president-as-individual is sufficiently separate from the president-as-executive. The case moves forward and is quietly settled for a figure undisclosed to the public. No adversarial review.",
+        "signal": "DOJ files a brief arguing the case is a 'personal capacity' suit distinct from official presidential authority."
+      },
+      {
+        "name": "Case is transferred or restructured",
+        "whatHappens": "DOJ argues the suit should be handled by an independent entity to avoid the collusion problem. A special counsel or independent inspector general is appointed to evaluate the claim. The $10 billion figure gets scrutinized and collapsed.",
+        "signal": "DOJ brief proposes independent review mechanism rather than defending the IRS against the claim directly."
+      }
+    ],
+    "whatWouldChange": "If Judge Williams accepts the DOJ's argument that personal capacity suits by the president against executive branch agencies are constitutionally valid, the bottom line is wrong and the precedent is genuinely significant. That would mean the court has created a new and unreviewed mechanism for presidential self-dealing."
+  }
+}
