@@ -26,6 +26,12 @@ function formatDate(dateStr: string): string {
   return d.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" });
 }
 
+function probabilityColor(p: number): string {
+  if (p >= 0.65) return "#15803d";
+  if (p <= 0.35) return "#b91c1c";
+  return "var(--color-text)";
+}
+
 let ogDescription = report.subtitle;
 if (ogDescription.length < 110) {
   const extra = " " + brief.bottomLine;
@@ -43,8 +49,10 @@ const sections = [
   brief.whoPays?.length && { id: "whopays", label: "Who Pays" },
   brief.scenarios?.length && { id: "scenarios", label: "Scenarios" },
   brief.whatWouldChange && { id: "change", label: "What Would Change" },
-  brief.markets?.length && { id: "markets", label: "Markets" },
 ].filter(Boolean) as { id: string; label: string }[];
+
+const sectionHeading = "font-serif text-[24px] leading-tight md:text-[30px] text-[var(--color-text)]";
+const sectionHeadingOnDark = "font-serif text-[24px] leading-tight md:text-[30px] text-[var(--color-surface)]";
 ---
 
 <Base title={report.title} description={ogDescription} ogImage={`/og/${date}/${slug}.png`}>
@@ -97,8 +105,35 @@ const sections = [
       </p>
     </blockquote>
 
+    <!-- Prediction markets — moved up: market consensus right after editorial take -->
+    {brief.markets && brief.markets.length > 0 && (
+      <section id="markets" class="mt-10">
+        <h2 class={sectionHeading}>Prediction Markets</h2>
+        <p class="mt-2 text-[12px] text-[var(--color-text-tertiary)]">Prices as of {report.date} — the analysis was written against these odds</p>
+        <div class="mt-5 space-y-3">
+          {brief.markets.map((m) => (
+            <a
+              href={m.url}
+              target="_blank"
+              rel="noopener"
+              class="group flex items-center justify-between rounded-lg border border-[var(--color-border)] p-4 transition-colors hover:border-[var(--color-accent)]"
+            >
+              <div class="min-w-0 flex-1">
+                <p class="text-[15px] font-medium group-hover:text-[var(--color-accent)]">{m.question}</p>
+                <p class="mt-1 text-[12px] text-[var(--color-text-tertiary)]">{m.platform} · as of {report.date}</p>
+              </div>
+              <div class="ml-4 flex-shrink-0 text-right">
+                <p class="text-[26px] font-semibold tabular-nums" style={`color: ${probabilityColor(m.probability)}`}>{Math.round(m.probability * 100)}%</p>
+                <p class="text-[11px] text-[var(--color-text-tertiary)]">yes</p>
+              </div>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+
     <!-- Section nav dots -->
-    <nav class="mt-10 flex flex-wrap gap-3 border-b border-[var(--color-border)] pb-4">
+    <nav class="mt-12 flex flex-wrap gap-3 border-b border-[var(--color-border)] pb-4">
       {sections.map((s) => (
         <a href={`#${s.id}`} class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-text-tertiary)] hover:text-[var(--color-accent)]">
           {s.label}
@@ -108,9 +143,9 @@ const sections = [
 
     <!-- Hidden bets -->
     {brief.hiddenBets?.length > 0 && (
-      <section id="bets" class="mt-10">
-        <h2 class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-accent)]">The Hidden Bet</h2>
-        <div class="mt-5 space-y-6">
+      <section id="bets" class="mt-14">
+        <h2 class={sectionHeading}>The Hidden Bet</h2>
+        <div class="mt-6 space-y-6">
           {brief.hiddenBets.map((bet, i) => (
             <div class="flex gap-4">
               <span class="mt-0.5 flex h-6 w-6 flex-shrink-0 items-center justify-center rounded-full bg-[var(--color-surface-inset)] text-[11px] font-semibold text-[var(--color-text-tertiary)]">{i + 1}</span>
@@ -126,25 +161,25 @@ const sections = [
 
     <!-- Real disagreement -->
     {brief.realDisagreement && (
-      <section id="disagreement" class="mt-12">
-        <h2 class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-accent)]">The Real Disagreement</h2>
+      <section id="disagreement" class="mt-14">
+        <h2 class={sectionHeading}>The Real Disagreement</h2>
         <p class="mt-5 text-[16px] leading-[1.75]">{brief.realDisagreement}</p>
       </section>
     )}
 
     <!-- What no one is saying — visually distinct, mobile-safe -->
     {brief.whatNoOneIsSaying && (
-      <section id="unsaid" class="my-12 rounded-lg bg-[var(--color-surface-dark)] px-6 py-7 text-[var(--color-surface)] md:px-8 md:py-8">
-        <h2 class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-accent)]">What No One Is Saying</h2>
-        <p class="mt-4 font-serif text-[18px] italic leading-relaxed opacity-90">{brief.whatNoOneIsSaying}</p>
+      <section id="unsaid" class="my-14 rounded-lg bg-[var(--color-surface-dark)] px-6 py-8 text-[var(--color-surface)] md:px-8 md:py-10">
+        <h2 class={sectionHeadingOnDark}>What No One Is Saying</h2>
+        <p class="mt-5 font-serif text-[18px] italic leading-relaxed opacity-90">{brief.whatNoOneIsSaying}</p>
       </section>
     )}
 
     <!-- Who pays -->
     {brief.whoPays?.length > 0 && (
-      <section id="whopays" class="mt-10">
-        <h2 class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-accent)]">Who Pays</h2>
-        <div class="mt-5 space-y-4">
+      <section id="whopays" class="mt-14">
+        <h2 class={sectionHeading}>Who Pays</h2>
+        <div class="mt-6 space-y-4">
           {brief.whoPays.map((p) => (
             <div class="rounded-lg border border-[var(--color-border)] p-4">
               <div class="flex flex-col gap-1 sm:flex-row sm:items-baseline sm:justify-between">
@@ -160,9 +195,9 @@ const sections = [
 
     <!-- Scenarios -->
     {brief.scenarios?.length > 0 && (
-      <section id="scenarios" class="mt-12">
-        <h2 class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-accent)]">Scenarios</h2>
-        <div class="mt-5 space-y-4 md:space-y-0 md:grid md:grid-cols-3 md:gap-px md:overflow-hidden md:rounded-lg md:border md:border-[var(--color-border)] md:bg-[var(--color-border)]">
+      <section id="scenarios" class="mt-14">
+        <h2 class={sectionHeading}>Scenarios</h2>
+        <div class="mt-6 space-y-4 md:space-y-0 md:grid md:grid-cols-3 md:gap-px md:overflow-hidden md:rounded-lg md:border md:border-[var(--color-border)] md:bg-[var(--color-border)]">
           {brief.scenarios.map((sc) => (
             <div class="rounded-lg border border-[var(--color-border)] p-5 md:rounded-none md:border-0 md:bg-[var(--color-surface)]">
               <p class="font-serif text-[17px] italic">{sc.name}</p>
@@ -178,38 +213,11 @@ const sections = [
 
     <!-- What would change this -->
     {brief.whatWouldChange && (
-      <section id="change" class="mt-12">
-        <h2 class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-accent)]">What Would Change This</h2>
-        <p class="mt-4 rounded-lg border border-dashed border-[var(--color-border-strong)] bg-[var(--color-surface-warm)] p-5 text-[15px] leading-relaxed text-[var(--color-text-secondary)]">
+      <section id="change" class="mt-14">
+        <h2 class={sectionHeading}>What Would Change This</h2>
+        <p class="mt-5 rounded-lg border border-dashed border-[var(--color-border-strong)] bg-[var(--color-surface-warm)] p-5 text-[15px] leading-relaxed text-[var(--color-text-secondary)]">
           {brief.whatWouldChange}
         </p>
-      </section>
-    )}
-
-    <!-- Prediction markets -->
-    {brief.markets && brief.markets.length > 0 && (
-      <section id="markets" class="mt-12">
-        <h2 class="text-[11px] font-semibold uppercase tracking-widest text-[var(--color-accent)]">Prediction Markets</h2>
-        <p class="mt-1 text-[12px] text-[var(--color-text-tertiary)]">Prices as of {report.date} — the analysis was written against these odds</p>
-        <div class="mt-4 space-y-3">
-          {brief.markets.map((m) => (
-            <a
-              href={m.url}
-              target="_blank"
-              rel="noopener"
-              class="group flex items-center justify-between rounded-lg border border-[var(--color-border)] p-4 transition-colors hover:border-[var(--color-accent)]"
-            >
-              <div class="min-w-0 flex-1">
-                <p class="text-[14px] font-medium group-hover:text-[var(--color-accent)]">{m.question}</p>
-                <p class="mt-1 text-[12px] text-[var(--color-text-tertiary)]">{m.platform} · as of {report.date}</p>
-              </div>
-              <div class="ml-4 flex-shrink-0 text-right">
-                <p class="text-[24px] font-semibold tabular-nums">{Math.round(m.probability * 100)}%</p>
-                <p class="text-[11px] text-[var(--color-text-tertiary)]">yes</p>
-              </div>
-            </a>
-          ))}
-        </div>
       </section>
     )}
 
