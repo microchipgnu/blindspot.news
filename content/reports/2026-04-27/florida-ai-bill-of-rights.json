@@ -1,0 +1,89 @@
+{
+  "id": "florida-ai-bill-of-rights",
+  "date": "2026-04-27",
+  "generatedAt": "2026-04-27T12:00:00Z",
+  "title": "Florida's AI Bill of Rights: The State-Level AI Regulation Wave Is About to Crack the Foundation",
+  "subtitle": "Florida's legislature takes up an AI Bill of Rights in a special session starting April 28. Industry groups say the bill will fragment the regulatory landscape. But the real problem is that there is no federal alternative coming, which means fragmentation is not a risk. It is already the outcome.",
+  "topic": "tech",
+  "category": "decision",
+  "tags": ["AI", "regulation", "Florida", "patchwork", "CCIA", "state law", "tech policy"],
+  "coverImage": {
+    "url": "https://ccianet.org/wp-content/uploads/2026/04/Mann.FloridaAIbill.04242026.png",
+    "local": "/images/reports/2026-04-27/florida-ai-bill-of-rights.jpg",
+    "credit": "CCIA"
+  },
+  "sources": [
+    {
+      "url": "https://ccianet.org/news/2026/04/ccia-raises-concerns-as-florida-senate-takes-up-ai-bill-of-rights-during-special-session/",
+      "publisher": "CCIA",
+      "angle": "Industry lobbying position: the bill creates fragmented compliance burdens, especially for small developers and startups. Warns that vague definitions of AI and sweeping requirements risk limiting innovation. Represents the tech industry consensus against state-level action."
+    },
+    {
+      "url": "https://www.naplesnews.com/story/news/state/2026/04/27/florida-lawmakers-will-address-ai-safeguards-and-vaccine-limits-in-special-session/89737429007/",
+      "publisher": "Naples News",
+      "angle": "Florida legislative context: the special session was called primarily for redistricting but expanded to include vaccine mandates and AI rights, suggesting AI is being used as a political wedge alongside cultural issues."
+    },
+    {
+      "url": "https://jaxtoday.org/2026/04/25/special-session-redistricting-vaccines-ai/",
+      "publisher": "Jax Today",
+      "angle": "Florida political context: notes the special session bundled AI rights with redistricting and vaccine legislation, signaling that AI regulation is being treated as a populist right-of-center issue in Florida rather than a technocratic one."
+    }
+  ],
+  "brief": {
+    "actors": ["Florida", "CCIA", "OpenAI", "Google", "EU"],
+    "whatHappened": "Florida's legislature begins a special session on April 28 that includes a proposed Artificial Intelligence Bill of Rights. The bill covers chatbots and AI systems with provisions on privacy and free expression. The Computer and Communications Industry Association issued a public warning on April 27 that the bill creates fragmented regulatory obligations and could limit AI deployment in Florida. Colorado has a June 30, 2026 AI compliance deadline, California and New York are advancing their own frameworks, and the EU AI Act's deployer obligations take full effect August 2, 2026. The federal government has no comprehensive AI legislation. Florida's bill is being considered alongside vaccine mandate limits and redistricting maps, placing it explicitly in the culture-war policy stack.",
+    "bottomLine": "The fragmentation industry groups fear is not a future risk: it is the present reality, and Florida's bill is a symptom of federal abdication, not its cause. Every state that passes its own AI rules makes the case for preemptive federal action stronger, while simultaneously making federal action harder by creating constituencies that own their own frameworks.",
+    "hiddenBets": [
+      {
+        "assumption": "Federal preemption is the realistic alternative to state patchworks",
+        "whyItMightBeWrong": "Congress has failed to pass comprehensive AI legislation for three consecutive sessions. The Trump administration's deregulatory posture means no federal AI rights framework is coming. Industry groups arguing for federal preemption are arguing for something that does not exist and shows no signs of existing, using it as a reason to block state action that is actually occurring."
+      },
+      {
+        "assumption": "Vague definitions of AI create compliance uncertainty",
+        "whyItMightBeWrong": "The EU AI Act also has contested boundary definitions, and large companies have successfully lobbied to narrow them during implementation. The compliance uncertainty is real but manageable for large companies; it is genuinely burdensome for startups. CCIA represents the large companies, not the startups it claims to speak for."
+      },
+      {
+        "assumption": "Florida is an outlier in treating AI rights as a political issue",
+        "whyItMightBeWrong": "Florida bundled AI rights with vaccine limits and redistricting. This is a signal that conservative politicians see AI consumer rights as a populist issue, not a technocratic one. If that framing takes hold, the regulatory coalition becomes bipartisan and unpredictable in ways industry groups are not prepared for."
+      }
+    ],
+    "realDisagreement": "The genuine fork is between accepting fragmented state-level AI regulation as the operational reality and lobbying for a federal preemption that does not exist, or engaging seriously with state-level frameworks while pushing to harmonize them. Industry has consistently chosen the preemption argument, which delays rather than resolves the compliance problem. The EU chose a different path: a risk-based national framework that is prescriptive enough to be workable and flexible enough to accommodate sectors. The US has chosen to have neither. I lean toward state-level engagement as more productive: waiting for federal preemption means operating under 50 different frameworks for the next decade while pretending one will emerge.",
+    "whatNoOneIsSaying": "Florida's decision to put AI rights in the same legislative package as vaccine mandates and redistricting reveals what AI regulation actually is in the US political system: a signaling mechanism, not a technical governance effort. The people passing these bills often do not understand the technology, which means the bills will be shaped by who shows up to lobby, and in Florida in 2026, the people showing up are not the ones most affected by AI bias or algorithmic harm.",
+    "whoPays": [
+      {
+        "who": "Startups and small AI developers",
+        "how": "50-state compliance requirements create per-state legal costs that large platforms can absorb but small developers cannot. CCIA claims to represent these firms while actually representing the large companies most able to survive fragmentation.",
+        "when": "Immediate, as soon as bills pass. Colorado's June 30 deadline is already live."
+      },
+      {
+        "who": "Consumers seeking AI accountability",
+        "how": "In the absence of a coherent framework, enforcement is inconsistent. A patchwork of state laws with different definitions, exemptions, and enforcement agencies means sophisticated actors can choose the least regulated jurisdiction while consumers in less-protected states have no recourse.",
+        "when": "Ongoing; worsens as more states pass incompatible frameworks."
+      },
+      {
+        "who": "EU-based companies operating in the US",
+        "how": "Must comply with both EU AI Act deployer obligations (August 2026) and US state patchworks simultaneously. The EU framework is demanding; the US patchwork adds inconsistent obligations on top, creating dual compliance burdens that favor large multinationals over smaller EU firms.",
+        "when": "Acute from August 2026 onward."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Florida passes, others follow",
+        "whatHappens": "Florida's AI Bill of Rights becomes law. Texas, Georgia, and other Republican-led states introduce their own versions, framing AI consumer rights as a conservative cause. The patchwork deepens, and courts become the de facto harmonization mechanism.",
+        "signal": "Florida bill passes both chambers with broad bipartisan margin."
+      },
+      {
+        "name": "Industry lobbying kills the bill in committee",
+        "whatHappens": "CCIA and allied lobbying groups succeed in killing the Florida bill or gutting it to a transparency-only framework. Industry claims a win. Other states watch and draw the wrong lesson: that lobbying is the answer, not legislation. Bills continue to emerge.",
+        "signal": "Florida Senate committee tables the bill or amends it to remove most substantive provisions."
+      },
+      {
+        "name": "Florida passes, creates federal momentum",
+        "whatHappens": "A Florida AI law triggers the first serious bipartisan Congressional discussions about federal preemption. A narrow federal framework passes in 2027, preempting state laws. Large platforms win: a weak federal standard replaces stronger state ones.",
+        "signal": "Senate Commerce Committee announces federal AI framework hearings within 90 days of Florida's bill passing."
+      }
+    ],
+    "whatWouldChange": "If Congress announced a serious bipartisan AI framework bill with committee hearings scheduled, the case for waiting on federal preemption becomes stronger. Absent that signal, state-level proliferation is the operative reality and industry's preferred argument is empty.",
+    "markets": []
+  }
+}

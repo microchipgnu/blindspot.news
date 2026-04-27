@@ -1,6 +1,6 @@
 {
   "date": "2026-04-27",
-  "generatedAt": "2026-04-27T08:35:00Z",
+  "generatedAt": "2026-04-27T12:00:00Z",
   "reports": [
     {
       "id": "iran-hormuz-nuclear-gambit",
@@ -30,6 +30,36 @@
       "id": "china-eu-industrial-accelerator-standoff",
       "title": "China Tells Europe: Pass the 'Made in Europe' Law and Pay the Price",
       "subtitle": "Beijing threatened countermeasures against the EU's Industrial Accelerator Act the same week it added laws to punish companies for shifting supply chains away from China. Europe is being squeezed from both sides of the Atlantic simultaneously.",
+      "category": "power"
+    },
+    {
+      "id": "iran-peace-talks-collapse",
+      "title": "The Islamabad Walkout: Iran Goes to Moscow as US-Iran Talks Die in Pakistan",
+      "subtitle": "Trump canceled his envoys' Islamabad trip while Iran's foreign minister was already on the ground. Now Araghchi is in St. Petersburg with Putin, proposing to decouple the Strait from the nuclear file. Washington rejected that last month too.",
+      "category": "conflict"
+    },
+    {
+      "id": "iran-oil-blockade-countdown",
+      "title": "The Oil Clock: Iran Has Until Mid-May Before the Blockade Becomes Irreversible",
+      "subtitle": "Iran's onshore storage fills in roughly 20 days. After that, the regime must shut wells it cannot restart. The decisive variable is not the US Navy. It is whether China keeps buying.",
+      "category": "decision"
+    },
+    {
+      "id": "birthright-citizenship-scotus",
+      "title": "Birthright Citizenship: SCOTUS Will Almost Certainly Rule Against Trump, But the Ruling Will Do More Than That",
+      "subtitle": "64% of Americans oppose ending birthright citizenship and the Court signaled strong skepticism in April oral argument. But a ruling that voids Trump's executive order will also settle what powers lower courts have to issue nationwide injunctions. That second question reshapes everything else Trump is trying to do.",
+      "category": "power"
+    },
+    {
+      "id": "florida-ai-bill-of-rights",
+      "title": "Florida's AI Bill of Rights: The State-Level AI Regulation Wave Is About to Crack the Foundation",
+      "subtitle": "Florida's legislature takes up an AI Bill of Rights in a special session starting April 28. Industry groups say the bill will fragment the regulatory landscape. But the real problem is that there is no federal alternative coming, which means fragmentation is not a risk. It is already the outcome.",
+      "category": "decision"
+    },
+    {
+      "id": "trump-civil-rights-rollback",
+      "title": "Dhillon's DOJ Is Completing the Rollback Reagan Couldn't: What Changed and Why It Matters",
+      "subtitle": "In the 1980s, GOP moderates in the Senate and Cabinet stopped Reagan's civil rights retrenchment. Today, Harmeet Dhillon is executing the same agenda without a single Republican senator objecting. The silence is the story.",
       "category": "power"
     }
   ]

@@ -2,71 +2,64 @@
   "date": "2026-04-27",
   "threads": [
     {
-      "id": "iran-oil-everything",
-      "title": "Iran's War Is Setting the Price for Everything Else",
-      "description": "The closed Strait of Hormuz is not just an oil story. It is the hidden variable in every other story today. The Fed cannot cut rates partly because oil is at $105. The EU cannot absorb Chinese trade retaliation as easily because European industry is already under energy cost pressure from the Iran shock. The Fed chair transition is more fraught because Warsh inherits an inflation problem driven largely by a geopolitical disruption neither he nor anyone else can directly control. Four of today's five stories have Iran running through the background.",
-      "type": "dependency-web",
-      "stories": [
-        "iran-hormuz-nuclear-gambit",
-        "powell-final-fomc-warsh-inheritance",
-        "china-eu-industrial-accelerator-standoff"
-      ],
-      "connections": [
-        {
-          "from": "iran-hormuz-nuclear-gambit",
-          "to": "powell-final-fomc-warsh-inheritance",
-          "relationship": "The Strait of Hormuz closure pushed Brent to $105 and CPI to 3.3%, which is the direct cause of Powell's inability to cut rates and the reason Warsh inherits a stagflation risk rather than a soft-landing environment"
-        },
-        {
-          "from": "iran-hormuz-nuclear-gambit",
-          "to": "china-eu-industrial-accelerator-standoff",
-          "relationship": "Europe's reduced economic resilience under the Iran energy shock makes it more vulnerable to Chinese trade retaliation, weakening the EU's negotiating position on the Industrial Accelerator Act at exactly the moment when it needs to be strongest"
-        }
-      ]
-    },
-    {
-      "id": "executive-power-limits",
-      "title": "The Same Week the Courts Said No to Trump Three Times",
-      "description": "The DC Circuit blocked Trump's asylum proclamation on statutory grounds. SCOTUS is hearing TPS cases where lower courts also ruled against the administration. The DOJ dropping its Powell probe enabled the Fed chair transition in a way that looks less like legal resolution and more like executive branch management of an independent institution. And Trump's Iran envoys were stood down on his personal whim with no Congressional consultation. All four involve the executive branch trying to act without clear legal authority and encountering either courts or institutional resistance. The question underlying every single one: does the executive have the authority it is claiming, and if not, who enforces the limit?",
+      "id": "court-as-last-brake",
+      "title": "Courts as the Last Brake on Executive Power",
+      "description": "Five stories today converge on a single question: can courts meaningfully constrain a determined executive branch? The birthright citizenship case is deciding whether nationwide injunctions can even exist. The DC Circuit asylum ruling and TPS cases are testing whether proclamation-based executive action survives judicial review. The civil rights rollback is proceeding without congressional resistance, leaving courts as the only check. Trump's tariff strategy was already forced to restart through formal statutory process after SCOTUS killed the original approach. The pattern is not executive overreach stopped by courts; it is executive overreach shaping which questions courts get to decide at all.",
       "type": "tension-cluster",
-      "stories": [
-        "dc-circuit-asylum-tps-scotus",
-        "powell-final-fomc-warsh-inheritance",
-        "iran-hormuz-nuclear-gambit"
-      ],
+      "stories": ["dc-circuit-asylum-tps-scotus", "birthright-citizenship-scotus", "trump-civil-rights-rollback", "powell-final-fomc-warsh-inheritance"],
       "connections": [
+        {
+          "from": "birthright-citizenship-scotus",
+          "to": "dc-circuit-asylum-tps-scotus",
+          "relationship": "A SCOTUS ruling limiting nationwide injunctions would make the DC Circuit asylum ruling and TPS challenges significantly harder to sustain: they would require re-litigating in every circuit rather than achieving a single nationwide freeze."
+        },
         {
           "from": "dc-circuit-asylum-tps-scotus",
-          "to": "powell-final-fomc-warsh-inheritance",
-          "relationship": "Both cases turn on whether the executive can override statutory frameworks through unilateral action: in immigration, Trump claims the proclamation power overrides the INA; on the Fed, using DOJ probes to manage central bank leadership tests whether executive pressure can informally override independence guarantees"
+          "to": "trump-civil-rights-rollback",
+          "relationship": "Both cases test whether a single court ruling can block executive action affecting millions of people. The Dhillon civil rights agenda is advancing precisely because no individual plaintiff or organization has successfully obtained a nationwide injunction against executive order revocations."
         },
         {
-          "from": "powell-final-fomc-warsh-inheritance",
-          "to": "iran-hormuz-nuclear-gambit",
-          "relationship": "Trump cancelled the Islamabad negotiations by personal decision with no Congressional notification, the same pattern as his IEEPA tariff authority and his Fed chair pressure: executive action that claims authority not clearly granted and produces no accountability when it fails"
+          "from": "trump-civil-rights-rollback",
+          "to": "powell-final-fomc-warsh-inheritance",
+          "relationship": "Both reflect the same structural shift: institutions that previously had informal independence are now being treated as subordinate to direct presidential authority. The Fed chair appointment and the civil rights enforcement direction are both executive decisions that formal law cannot easily constrain."
         }
       ]
     },
     {
-      "id": "policy-theater",
-      "title": "When Governments Do Things That Do Not Work Because They Need to Do Something",
-      "description": "Australia's social media ban has 60% noncompliance and the government keeps defending it. The EU's Industrial Accelerator Act was held up for months in internal wrangling and is arguably designed more to look like industrial policy than to actually deliver it. The US naval blockade is producing $105 oil and a stalemate without a clear endgame. In all three cases, the action was politically necessary even if not practically effective, because the alternative of doing nothing in the face of a visible problem is politically untenable. The tell is in each story's 'what no one is saying' section: the people running the policy know it is not working.",
-      "type": "tension-cluster",
-      "stories": [
-        "social-media-bans-failing-test",
-        "china-eu-industrial-accelerator-standoff",
-        "iran-hormuz-nuclear-gambit"
-      ],
+      "id": "iran-physics-vs-politics",
+      "title": "Iran: The Oil Physics and the Diplomatic Theater Are Running on Different Clocks",
+      "description": "The Iran peace talks collapse story and the Iran oil blockade countdown are typically covered as separate news items. They are mechanically linked: Iran's Islamabad walkout and Russia pivot make sense only because Tehran believes it has more time than the storage arithmetic allows. Araghchi's Moscow trip is not primarily about getting diplomatic cover; it is about finding a buyer for crude that China might reduce purchasing. Every diplomatic move Iran makes after the Islamabad walkout is an attempt to find an economic escape from the oil storage clock that diplomacy cannot stop.",
+      "type": "dependency-web",
+      "stories": ["iran-peace-talks-collapse", "iran-oil-blockade-countdown", "iran-hormuz-nuclear-gambit"],
       "connections": [
         {
-          "from": "social-media-bans-failing-test",
-          "to": "china-eu-industrial-accelerator-standoff",
-          "relationship": "Both represent governments implementing policies they know will face significant enforcement problems because the political cost of inaction is higher than the cost of visibly failing at action; in both cases, the underlying problem (platform addiction, Chinese industrial subsidies) is structural and not addressable by blunt legislative tools"
+          "from": "iran-oil-blockade-countdown",
+          "to": "iran-peace-talks-collapse",
+          "relationship": "Iran's mid-May storage deadline created the pressure for the Islamabad meeting. Trump's cancellation signals Washington believes the physics, not diplomacy, will force capitulation. Araghchi's Russia trip is partly an attempt to diversify oil buyers before the storage ceiling hits."
         },
         {
-          "from": "china-eu-industrial-accelerator-standoff",
+          "from": "iran-hormuz-nuclear-gambit",
+          "to": "iran-oil-blockade-countdown",
+          "relationship": "Iran's proposal to decouple Hormuz from nuclear talks and the new proposal to reopen the Strait in exchange for ending the war are both attempts to stop the storage clock before it forces permanent production damage. The sequencing is driven by reservoir physics, not negotiating preference."
+        },
+        {
+          "from": "iran-peace-talks-collapse",
           "to": "iran-hormuz-nuclear-gambit",
-          "relationship": "China's willingness to threaten the EU while simultaneously pursuing a Hormuz deal with the US reflects the same pattern: aggressive posturing on multiple fronts simultaneously, betting no Western actor can escalate on all of them at once"
+          "relationship": "The Islamabad walkout effectively killed the Hormuz-for-nuclear-deferral proposal Iran had floated in March. Iran is now recycling a similar proposal through Araghchi's Russia visit, but has less time and less leverage than before."
+        }
+      ]
+    },
+    {
+      "id": "patchwork-by-design",
+      "title": "The Patchwork Is the Policy: How the Absence of Federal Frameworks Creates State-Level Power",
+      "description": "Florida's AI bill and the social media ban experiment are both being characterized as problems of fragmentation and incomplete state-level action. What they actually share is federal abdication. The US federal government has passed no comprehensive AI regulation and no federal social media protection framework for minors. States are not making a mess of a coherent federal system; they are filling a vacuum. The 'fragmentation is bad' argument from industry groups assumes federal preemption as the alternative. But the alternative is not preemption: it is no regulation at all. Every state that passes an AI rights bill or a social media ban is making a governance decision that the federal government has chosen not to make.",
+      "type": "tension-cluster",
+      "stories": ["florida-ai-bill-of-rights", "social-media-bans-failing-test"],
+      "connections": [
+        {
+          "from": "florida-ai-bill-of-rights",
+          "to": "social-media-bans-failing-test",
+          "relationship": "Both stories feature state-level regulatory experiments being criticized for failing to achieve perfect outcomes, in contexts where the federal government has explicitly declined to set standards. The criticism of the patchwork implicitly endorses federal inaction as preferable to imperfect state action."
         }
       ]
     }

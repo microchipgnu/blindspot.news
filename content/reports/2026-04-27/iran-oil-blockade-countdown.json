@@ -1,0 +1,113 @@
+{
+  "id": "iran-oil-blockade-countdown",
+  "date": "2026-04-27",
+  "generatedAt": "2026-04-27T12:00:00Z",
+  "title": "The Oil Clock: Iran Has Until Mid-May Before the Blockade Becomes Irreversible",
+  "subtitle": "Iran's onshore storage fills in roughly 20 days. After that, the regime must shut wells it cannot restart. The decisive variable is not the US Navy. It is whether China keeps buying.",
+  "topic": "economy",
+  "category": "decision",
+  "tags": ["Iran", "oil", "blockade", "China", "Hormuz", "energy", "sanctions"],
+  "coverImage": {
+    "url": "https://dims.apnews.com/dims4/default/7720ad6/2147483647/strip/true/crop/4500x2998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9c%2Fb6%2Fdc13972ae21c0d1d63d6215f1558%2Fbe41ccc54e334f2882bdd6d6e1252268",
+    "local": "/images/reports/2026-04-27/iran-oil-blockade-countdown.jpg",
+    "credit": "AP News"
+  },
+  "sources": [
+    {
+      "url": "https://www.newsweek.com/trump-iran-war-cards-blockade-oil-storage-china-11881350",
+      "publisher": "Newsweek",
+      "angle": "Pro-blockade analysis using Kpler data: Iran runs out of storage in 20-24 days from April 26, creating a forced-decision moment around May 16-20. Argues China is the decisive variable, not the US Navy."
+    },
+    {
+      "url": "https://www.fxstreet.com/news/oil-iranian-output-faces-storage-time-limit-societe-generale-202604270755",
+      "publisher": "FX Street / Societe Generale",
+      "angle": "Bank research perspective: Societe Generale issued a formal warning that Iranian output faces a storage time limit, signaling mainstream financial institutions are pricing in a forced production cut."
+    },
+    {
+      "url": "https://apnews.com/article/us-iran-war-hormuz-april-27-2026-374d81d1aac6d8f19c21e1d1e10ab103",
+      "publisher": "AP News",
+      "angle": "Iran's formal proposal: Tehran offered to reopen the Strait in exchange for an end to the war, with nuclear negotiations postponed. This signals Iran is aware its leverage window is closing."
+    },
+    {
+      "url": "https://www.agbi.com/opinion/trade/2026/04/trumps-gulf-trade-gamble-the-numbers-dont-add-up/",
+      "publisher": "AGBI",
+      "angle": "Gulf economic perspective: US tariff strategy has failed to reduce the trade deficit; the Gulf sovereign wealth fund investments were the only plausible short-term fix. The Iran war destroyed that mechanism."
+    }
+  ],
+  "brief": {
+    "actors": ["Iran", "China", "Trump", "IRGC", "Kpler"],
+    "whatHappened": "Commodity analytics firm Kpler estimates Iran has approximately 39 million barrels of usable onshore storage and is accumulating 1.8 million displaced barrels per day as US naval forces prevent exports. That arithmetic points to a storage ceiling around May 16-20. Societe Generale issued a formal warning on April 27 that Iranian output faces a storage time limit. At that point, Iran must either find buyers for meaningful volumes, primarily China, or begin shutting production wells. The problem is that shut-ins in mature Iranian carbonate fields are not simply reversible: once broad shut-ins begin, pressure management becomes unstable and some production loss may be permanent. Iran has been using aging tankers as floating storage to delay the moment, and satellite imagery shows continued loading at Kharg Island.",
+    "bottomLine": "This is not a standoff between equal parties: Iran is racing a physical clock that it cannot reset, and the outcome depends on a third party, China, whose interests are cheaper oil, not Iranian victory.",
+    "hiddenBets": [
+      {
+        "assumption": "China will keep buying Iranian oil regardless of US pressure",
+        "whyItMightBeWrong": "China's past behavior on Iranian oil sanctions shows it responds to US financial pressure when the cost of defiance exceeds the discount it gets on cheap barrels. Treasury Secretary Bessent is already publicly signaling the US believes China will pause buying. If Chinese state refiners get secondary sanctions signals, they pause quietly rather than publicly, creating the very storage crisis the analysis predicts."
+      },
+      {
+        "assumption": "A deal that reopens Hormuz also saves Iran's oil fields from permanent damage",
+        "whyItMightBeWrong": "If shut-ins begin before a deal is reached, some production impairment is irreversible regardless of what gets signed. Iran's negotiating leverage deteriorates the longer this runs: the oil it wants sanctions relief to sell is the same oil it is damaging by keeping Hormuz closed. Time is not neutral."
+      },
+      {
+        "assumption": "The US blockade can hold past the midterms",
+        "whyItMightBeWrong": "US consumers are already experiencing fuel price rises. University of Michigan consumer sentiment hit an all-time low of 49.8 in April 2026, worse than any recession since 1952. If the blockade continues through summer, pump prices become the dominant midterm issue, creating pressure on Trump to resolve the conflict on terms Iran could exploit."
+      }
+    ],
+    "realDisagreement": "The core tension is between Iran's physical clock and America's political calendar. The oil arithmetic says Iran must act by mid-May. The midterm clock says Trump has more domestic incentive to keep pressure on through November. These two timelines collide in May. Either Iran capitulates before the midterms, which Trump can claim as a victory, or the economic pain from the blockade starts hurting US consumers badly enough that Trump takes a sequencing deal he previously rejected, letting Iran off the hook on nuclear questions. I lean toward capitulation before mid-May: the storage physics are not negotiable, and China's record suggests it prioritizes its own financial exposure over Iran's leverage.",
+    "whatNoOneIsSaying": "The permanent production damage Iran risks from prolonged shut-ins is a form of sanctions enforcement that outlasts any deal. Even if Iran signs an agreement tomorrow, it will spend years rebuilding production capacity it is destroying today. The real question is not whether Iran reopens Hormuz but whether Iran's oil sector can be a regional power factor again at all.",
+    "whoPays": [
+      {
+        "who": "Iranian oil field workers and future revenue base",
+        "how": "Permanent production impairment from shut-in damage to pressure-managed carbonate reservoirs. Fields that relied on water injection to maintain pressure may not recover to pre-blockade output levels.",
+        "when": "Some damage is already occurring; the threshold for irreversible damage is the May 16-20 window."
+      },
+      {
+        "who": "Developing nations with no domestic energy production",
+        "how": "Strait closure cuts 20% of global oil trade. Fertilizer, fuel, and food prices rising in South and Southeast Asia, sub-Saharan Africa, and parts of Latin America. Countries that import both food and energy face simultaneous shocks.",
+        "when": "Ongoing; effects compound weekly the Strait remains closed."
+      },
+      {
+        "who": "US small businesses and working-class consumers",
+        "how": "Fuel price inflation from the energy shock. Large companies absorb the cost through hedging and balance sheets; small businesses and fixed-income households cannot.",
+        "when": "Already underway; accelerates through the summer driving season if unresolved."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "China blinks",
+        "whatHappens": "Chinese state refiners quietly reduce Iranian crude purchases under US financial pressure. Iran's storage fills by May 20. Tehran begins well shut-ins, suffering irreversible production damage. Within weeks, the regime accepts nuclear freeze terms to stop the bleeding.",
+        "signal": "TankerTrackers data shows Chinese-flagged or Chinese-destination tankers departing Kharg at significantly reduced rates."
+      },
+      {
+        "name": "China holds",
+        "whatHappens": "Chinese buyers continue absorbing Iranian crude, slowing the storage crisis. Iran's leverage window extends into June or July. Trump faces growing domestic pressure from fuel prices. A sequencing deal becomes politically viable.",
+        "signal": "US Treasury takes no new secondary sanctions actions; Chinese refinery throughput data shows stable or rising Iranian origin intake."
+      },
+      {
+        "name": "Technical escalation",
+        "whatHappens": "Iran begins well shut-ins to protect reservoir integrity before the storage ceiling hits. The regime frames this as a strategic choice rather than a forced capitulation, buying time to negotiate. But production damage begins accruing regardless.",
+        "signal": "Iran's oil ministry announces 'temporary maintenance' reductions at specific fields."
+      }
+    ],
+    "whatWouldChange": "Credible reporting that US Treasury has sent secondary sanctions warnings to specific Chinese financial institutions would indicate the China variable is moving against Iran. That changes the timeline from months to weeks.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Strait of Hormuz traffic returns to normal by May 15?",
+        "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-may-15",
+        "probability": 0.155
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Strait of Hormuz traffic returns to normal by end of May?",
+        "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-may",
+        "probability": 0.375
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Strait of Hormuz traffic returns to normal by end of June?",
+        "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+        "probability": 0.58
+      }
+    ]
+  }
+}
