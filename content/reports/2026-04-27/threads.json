@@ -62,6 +62,63 @@
           "relationship": "Both stories feature state-level regulatory experiments being criticized for failing to achieve perfect outcomes, in contexts where the federal government has explicitly declined to set standards. The criticism of the patchwork implicitly endorses federal inaction as preferable to imperfect state action."
         }
       ]
+    },
+    {
+      "id": "dhillon-doctrines",
+      "title": "Dhillon's DOJ Has Two Cases in Court Today and Both Are About the Same Thing",
+      "description": "Harmeet Dhillon is named in two separate stories this cycle: the civil rights rollback completing what Reagan could not, and the DOJ joining xAI's lawsuit against Colorado's AI antidiscrimination law using 'woke DEI ideology' as the stated rationale. These are not two separate priorities. The civil rights rollback is about removing federal requirements that companies address historical discrimination. The Colorado AI lawsuit is about removing state requirements that companies address algorithmic discrimination. The doctrine is identical: obligations to redress discrimination for historically disadvantaged groups are themselves unconstitutional discrimination. The AI case is the civil rights rollback applied to a new technology.",
+      "type": "cause-effect",
+      "stories": ["trump-civil-rights-rollback", "doj-xai-colorado-ai-law", "florida-ai-bill-of-rights"],
+      "connections": [
+        {
+          "from": "trump-civil-rights-rollback",
+          "to": "doj-xai-colorado-ai-law",
+          "relationship": "The same 14th Amendment equal-protection argument used to dismantle civil rights enforcement programs is now being deployed against Colorado's AI law: both treat mandatory diversity-protective measures as reverse discrimination, establishing a single constitutional framework that reaches traditional civil rights enforcement and algorithmic discrimination requirements simultaneously."
+        },
+        {
+          "from": "doj-xai-colorado-ai-law",
+          "to": "florida-ai-bill-of-rights",
+          "relationship": "Colorado folded the day the DOJ intervened. Florida's AI Bill of Rights session starts April 28. Any Florida bill that includes algorithmic fairness or diversity provisions now faces the same litigation threat, with the precedent of Colorado's AG freezing enforcement voluntarily already on the books."
+        }
+      ]
+    },
+    {
+      "id": "iran-bandwidth-cost",
+      "title": "Iran Is Consuming the Diplomatic Bandwidth That Ukraine Needs",
+      "description": "Russia's Kremlin explicitly said the Ukraine peace dialogue is paused because 'the US is occupied with Iran events.' Iran's foreign minister flew to Moscow the same day. Putin used the meeting to endorse Iranian sovereignty while simultaneously positioning Russia as a willing mediator for a war that is consuming Trump's diplomatic calendar. The Ukraine peace process, the Iran ceasefire, and Russia's strategic positioning are not three separate stories: Russia is benefiting from Iran's occupation of US attention in both the Middle East and in Ukraine, at no cost to Moscow and with meaningful diplomatic gain.",
+      "type": "dependency-web",
+      "stories": ["iran-moscow-pivot-us-talks-collapse", "iran-peace-talks-collapse", "iran-oil-blockade-countdown"],
+      "connections": [
+        {
+          "from": "iran-moscow-pivot-us-talks-collapse",
+          "to": "iran-oil-blockade-countdown",
+          "relationship": "Araghchi's Moscow visit extends Iran's diplomatic clock: finding Russian backing and potentially Russian crude offtake delays the moment when Iran's oil storage forces a capitulation, giving Moscow more time as indispensable intermediary while the physics close in."
+        },
+        {
+          "from": "iran-peace-talks-collapse",
+          "to": "iran-moscow-pivot-us-talks-collapse",
+          "relationship": "The Islamabad walkout created the opening for Moscow: Trump's cancellation of the Islamabad meeting signaled Washington had no replacement diplomatic track, which Iran immediately filled by turning to Russia, embedding Putin as a structural participant in any eventual settlement."
+        }
+      ]
+    },
+    {
+      "id": "congress-loses-the-purse",
+      "title": "Congress Is Losing the Power of the Purse Simultaneously on Three Fronts",
+      "description": "Three stories today describe Congress losing control of spending it has already authorized. The SCOTUS IEEPA tariff ruling forces a $166 billion refund but Congress has not legislated who gets paid when or how fast. The DHS shutdown exposes that the administration redirected at least six national security programs to deportation operations without congressional approval. The OpenAI-Microsoft deal resolves a private commercial dispute that grew partly because the executive branch's AI infrastructure investments have made private AI labs structurally dependent on government-adjacent cloud contracts. In each case, the formal power to appropriate or regulate exists on paper; the actual leverage to enforce it does not.",
+      "type": "tension-cluster",
+      "stories": ["scotus-ieepa-tariff-refund-166b", "dhs-shutdown-house-standoff", "openai-microsoft-open-relationship"],
+      "connections": [
+        {
+          "from": "scotus-ieepa-tariff-refund-166b",
+          "to": "dhs-shutdown-house-standoff",
+          "relationship": "Both stories expose the same gap: Congress can pass laws and court rulings can issue mandates, but the executive controls the pace of implementation. CBP controls the refund timeline; the administration controls which DHS functions get funding redirected. The formal power is Congress's; the operational power is the executive's."
+        },
+        {
+          "from": "dhs-shutdown-house-standoff",
+          "to": "openai-microsoft-open-relationship",
+          "relationship": "The DHS shutdown documents how the administration redirects appropriated funds across agencies without congressional input. The OpenAI-Microsoft deal's resolution through private commercial restructuring rather than regulatory oversight reflects the same pattern: the executive shapes outcomes through contracts and enforcement discretion, not through legislation Congress controls."
+        }
+      ]
     }
   ]
 }

@@ -61,6 +61,36 @@
       "title": "Dhillon's DOJ Is Completing the Rollback Reagan Couldn't: What Changed and Why It Matters",
       "subtitle": "In the 1980s, GOP moderates in the Senate and Cabinet stopped Reagan's civil rights retrenchment. Today, Harmeet Dhillon is executing the same agenda without a single Republican senator objecting. The silence is the story.",
       "category": "power"
+    },
+    {
+      "id": "openai-microsoft-open-relationship",
+      "title": "OpenAI and Microsoft End Exclusivity: The Most Consequential Divorce in Tech Has No Villain",
+      "subtitle": "Microsoft loses its exclusive lock on OpenAI's models. OpenAI caps what it owes Microsoft in revenue share. Both companies call it a win. One of them is lying to itself.",
+      "category": "power"
+    },
+    {
+      "id": "scotus-ieepa-tariff-refund-166b",
+      "title": "The $166 Billion Refund Nobody Can Actually Collect: The IEEPA Ruling's Unfinished Business",
+      "subtitle": "The Supreme Court killed Trump's Liberation Day tariffs in February. The refund process launched April 20. But 56,000 importers are chasing $127 billion through a new government portal, while Congress haggles over whether small businesses will ever see a dime.",
+      "category": "power"
+    },
+    {
+      "id": "dhs-shutdown-house-standoff",
+      "title": "Day 72: The DHS Shutdown Has Already Won by Continuing",
+      "subtitle": "The Senate passed $70 billion for ICE and Border Patrol on a 50-48 vote. The House refuses to take it up until after a 'skinny' bill. Markets give 88% odds the shutdown lasts past April. Trump endorsed renaming ICE to NICE.",
+      "category": "power"
+    },
+    {
+      "id": "iran-moscow-pivot-us-talks-collapse",
+      "title": "After Islamabad: Iran Goes to Moscow Because Washington Stopped Showing Up",
+      "subtitle": "Trump canceled the Islamabad talks. Iran's foreign minister flew to St. Petersburg. Putin pledged strategic partnership. The ceasefire holds in name only. And Russia just inserted itself as a necessary intermediary in a war it didn't start.",
+      "category": "conflict"
+    },
+    {
+      "id": "doj-xai-colorado-ai-law",
+      "title": "The Federal Government Just Declared War on State AI Regulation, and Colorado Folded Before the Battle Started",
+      "subtitle": "The DOJ joined xAI's lawsuit against Colorado's AI antidiscrimination law the same afternoon Colorado's AG agreed to stop enforcing it. No court ordered the freeze. The legislature has 16 days to pass a replacement. The AI Litigation Task Force is just getting started.",
+      "category": "power"
     }
   ]
 }
