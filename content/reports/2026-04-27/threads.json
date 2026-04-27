@@ -1,0 +1,74 @@
+{
+  "date": "2026-04-27",
+  "threads": [
+    {
+      "id": "iran-oil-everything",
+      "title": "Iran's War Is Setting the Price for Everything Else",
+      "description": "The closed Strait of Hormuz is not just an oil story. It is the hidden variable in every other story today. The Fed cannot cut rates partly because oil is at $105. The EU cannot absorb Chinese trade retaliation as easily because European industry is already under energy cost pressure from the Iran shock. The Fed chair transition is more fraught because Warsh inherits an inflation problem driven largely by a geopolitical disruption neither he nor anyone else can directly control. Four of today's five stories have Iran running through the background.",
+      "type": "dependency-web",
+      "stories": [
+        "iran-hormuz-nuclear-gambit",
+        "powell-final-fomc-warsh-inheritance",
+        "china-eu-industrial-accelerator-standoff"
+      ],
+      "connections": [
+        {
+          "from": "iran-hormuz-nuclear-gambit",
+          "to": "powell-final-fomc-warsh-inheritance",
+          "relationship": "The Strait of Hormuz closure pushed Brent to $105 and CPI to 3.3%, which is the direct cause of Powell's inability to cut rates and the reason Warsh inherits a stagflation risk rather than a soft-landing environment"
+        },
+        {
+          "from": "iran-hormuz-nuclear-gambit",
+          "to": "china-eu-industrial-accelerator-standoff",
+          "relationship": "Europe's reduced economic resilience under the Iran energy shock makes it more vulnerable to Chinese trade retaliation, weakening the EU's negotiating position on the Industrial Accelerator Act at exactly the moment when it needs to be strongest"
+        }
+      ]
+    },
+    {
+      "id": "executive-power-limits",
+      "title": "The Same Week the Courts Said No to Trump Three Times",
+      "description": "The DC Circuit blocked Trump's asylum proclamation on statutory grounds. SCOTUS is hearing TPS cases where lower courts also ruled against the administration. The DOJ dropping its Powell probe enabled the Fed chair transition in a way that looks less like legal resolution and more like executive branch management of an independent institution. And Trump's Iran envoys were stood down on his personal whim with no Congressional consultation. All four involve the executive branch trying to act without clear legal authority and encountering either courts or institutional resistance. The question underlying every single one: does the executive have the authority it is claiming, and if not, who enforces the limit?",
+      "type": "tension-cluster",
+      "stories": [
+        "dc-circuit-asylum-tps-scotus",
+        "powell-final-fomc-warsh-inheritance",
+        "iran-hormuz-nuclear-gambit"
+      ],
+      "connections": [
+        {
+          "from": "dc-circuit-asylum-tps-scotus",
+          "to": "powell-final-fomc-warsh-inheritance",
+          "relationship": "Both cases turn on whether the executive can override statutory frameworks through unilateral action: in immigration, Trump claims the proclamation power overrides the INA; on the Fed, using DOJ probes to manage central bank leadership tests whether executive pressure can informally override independence guarantees"
+        },
+        {
+          "from": "powell-final-fomc-warsh-inheritance",
+          "to": "iran-hormuz-nuclear-gambit",
+          "relationship": "Trump cancelled the Islamabad negotiations by personal decision with no Congressional notification, the same pattern as his IEEPA tariff authority and his Fed chair pressure: executive action that claims authority not clearly granted and produces no accountability when it fails"
+        }
+      ]
+    },
+    {
+      "id": "policy-theater",
+      "title": "When Governments Do Things That Do Not Work Because They Need to Do Something",
+      "description": "Australia's social media ban has 60% noncompliance and the government keeps defending it. The EU's Industrial Accelerator Act was held up for months in internal wrangling and is arguably designed more to look like industrial policy than to actually deliver it. The US naval blockade is producing $105 oil and a stalemate without a clear endgame. In all three cases, the action was politically necessary even if not practically effective, because the alternative of doing nothing in the face of a visible problem is politically untenable. The tell is in each story's 'what no one is saying' section: the people running the policy know it is not working.",
+      "type": "tension-cluster",
+      "stories": [
+        "social-media-bans-failing-test",
+        "china-eu-industrial-accelerator-standoff",
+        "iran-hormuz-nuclear-gambit"
+      ],
+      "connections": [
+        {
+          "from": "social-media-bans-failing-test",
+          "to": "china-eu-industrial-accelerator-standoff",
+          "relationship": "Both represent governments implementing policies they know will face significant enforcement problems because the political cost of inaction is higher than the cost of visibly failing at action; in both cases, the underlying problem (platform addiction, Chinese industrial subsidies) is structural and not addressable by blunt legislative tools"
+        },
+        {
+          "from": "china-eu-industrial-accelerator-standoff",
+          "to": "iran-hormuz-nuclear-gambit",
+          "relationship": "China's willingness to threaten the EU while simultaneously pursuing a Hormuz deal with the US reflects the same pattern: aggressive posturing on multiple fronts simultaneously, betting no Western actor can escalate on all of them at once"
+        }
+      ]
+    }
+  ]
+}

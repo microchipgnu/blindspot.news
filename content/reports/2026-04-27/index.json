@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-27",
+  "generatedAt": "2026-04-27T08:35:00Z",
+  "reports": [
+    {
+      "id": "iran-hormuz-nuclear-gambit",
+      "title": "Iran's Hormuz Gambit: Reopen the Strait, Defer the Bomb",
+      "subtitle": "Tehran's new proposal would trade peace for the Strait while keeping its nuclear program intact. Trump must decide whether relief now is worth leverage lost forever.",
+      "category": "conflict"
+    },
+    {
+      "id": "powell-final-fomc-warsh-inheritance",
+      "title": "Powell's Last Stand: The Fed Chair Who Can't Cut Passes the Baton to Someone Who Won't",
+      "subtitle": "Jerome Powell presides over his final FOMC meeting this week as the man set to replace him promises a harder line on inflation. The regime change at the Fed is not about rates. It is about who controls the institution.",
+      "category": "power"
+    },
+    {
+      "id": "dc-circuit-asylum-tps-scotus",
+      "title": "Courts Dismantle Trump's Immigration Architecture, One Proclamation at a Time",
+      "subtitle": "The DC Circuit just killed Trump's 'invasion' hook for blocking asylum. This week SCOTUS hears TPS cases covering 350,000 Haitians. The legal architecture of mass deportation is being stress-tested at every level simultaneously.",
+      "category": "power"
+    },
+    {
+      "id": "social-media-bans-failing-test",
+      "title": "The Social Media Ban Experiment Is Failing in Real Time",
+      "subtitle": "Australia's under-16 ban is four months old and 60% of teens are still online. The UK Lords vote today on whether to delay action three more years. Manitoba is planning a ban anyway. Everyone is watching the data and ignoring it.",
+      "category": "decision"
+    },
+    {
+      "id": "china-eu-industrial-accelerator-standoff",
+      "title": "China Tells Europe: Pass the 'Made in Europe' Law and Pay the Price",
+      "subtitle": "Beijing threatened countermeasures against the EU's Industrial Accelerator Act the same week it added laws to punish companies for shifting supply chains away from China. Europe is being squeezed from both sides of the Atlantic simultaneously.",
+      "category": "power"
+    }
+  ]
+}

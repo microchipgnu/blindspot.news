@@ -1,0 +1,108 @@
+{
+  "id": "powell-final-fomc-warsh-inheritance",
+  "date": "2026-04-27",
+  "generatedAt": "2026-04-27T08:15:00Z",
+  "title": "Powell's Last Stand: The Fed Chair Who Can't Cut Passes the Baton to Someone Who Won't",
+  "subtitle": "Jerome Powell presides over his final FOMC meeting this week as the man set to replace him promises a harder line on inflation. The regime change at the Fed is not about rates. It is about who controls the institution.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Fed", "Powell", "Warsh", "inflation", "interest rates", "FOMC"],
+  "coverImage": {
+    "url": "https://www.thenationalnews.com/resizer/v2/CYSFS4B7KRNQB45LAJP6D5T5JA.jpg?smart=true&auth=12239b8a448345db70b1a089a31931aba1954b3e19a52330357c3cc383648a03&width=1200&height=630",
+    "local": "/images/reports/2026-04-27/powell-final-fomc.jpg",
+    "credit": "The National News / Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://www.thenationalnews.com/business/economy/2026/04/27/fed-meeting-iran-war-and-powell-future-add-to-uncertain-outlook/",
+      "publisher": "The National",
+      "angle": "Gulf-focused take emphasizing how central bank coordination is breaking down globally as each region faces different inflation profiles from the same oil shock"
+    },
+    {
+      "url": "https://www.mitrade.com/au/insights/Economics/news-of-the-day/beincrypto-USDOLLARF-202604271013",
+      "publisher": "BeInCrypto / Mitrade",
+      "angle": "Details Warsh's congressional testimony promises: new inflation framework, scrapping press conferences, faster QT, and what that means for markets"
+    },
+    {
+      "url": "https://ca.investing.com/news/economy-news/a-fragile-hold-five-questions-for-the-ecb-4587801",
+      "publisher": "Reuters",
+      "angle": "Comparison with ECB: both central banks are in 'wait and see' mode on Iran shock, but Europe faces worse stagflation risk because it cannot absorb $105 oil like the US"
+    },
+    {
+      "url": "https://mariemontcapital.com/treasury-yields-april-2026/",
+      "publisher": "Mariemont Capital",
+      "angle": "Treasury market mechanics: 30-year at 94th percentile of five-year range reflects not just inflation fears but structural term premium from the political uncertainty around the Fed's independence"
+    }
+  ],
+  "brief": {
+    "actors": ["Powell", "Warsh", "Trump", "Fed", "ECB", "Lagarde"],
+    "whatHappened": "Jerome Powell chairs his likely final Federal Open Market Committee meeting on April 28-29, with rates expected to stay at 3.50-3.75% for a third consecutive meeting. The Department of Justice dropped its criminal probe of Powell on April 24, clearing the path for the Senate to advance Kevin Warsh's confirmation as the next Fed chair. Warsh testified before the Senate Banking Committee on April 21, promising a new inflation framework, a smaller balance sheet, and an independent but differently structured Fed. CPI rose to 3.3% in March from 2.4% in February, driven by a 21.2% spike in gasoline prices tied to the Iran war. US consumer sentiment hit a record low of 49.8 in April's final University of Michigan reading, while March retail sales surged 1.7%, creating a paradox: Americans are spending while feeling worse than at any point on record. This is potentially Powell's last press conference as Chair; his term expires May 15.",
+    "bottomLine": "The US is about to hand the Federal Reserve to a man who called Powell's inflation response a 'fatal policy error,' at the exact moment when a new inflation shock is arriving and the institution's political independence is the most contested it has been in modern history.",
+    "hiddenBets": [
+      {
+        "assumption": "Warsh will be more hawkish than Powell, meaning tighter money ahead",
+        "whyItMightBeWrong": "Warsh's hawkishness on inflation is real, but Trump nominated him partly because he expects Warsh to eventually cut rates. Warsh pledged independence in his hearing, but a 'different' inflation framework that 'focuses on market signals' could rationalize cuts when Trump wants them. The market prices 19% chance Trump tries to fire Powell as a board member within the year, suggesting markets think executive pressure on the Fed remains a live risk regardless of who chairs it."
+      },
+      {
+        "assumption": "Consumer sentiment and actual spending tell opposite stories, and sentiment is the noise",
+        "whyItMightBeWrong": "The University of Michigan's record-low reading reflects something specific: Americans are spending down savings and running up debt in anticipation of higher prices, not because they feel good. Retail sales surging on gasoline price spikes is not consumer confidence. The spending data is the lagging indicator; the sentiment data is the leading one."
+      },
+      {
+        "assumption": "The Iran war inflation shock is temporary and reversible",
+        "whyItMightBeWrong": "The Dallas Fed projects US crude peaking at $115 in October. Goldman Sachs lifted year-end Brent forecasts to $90 even assuming normalization by late June. The oil supply loss of roughly one billion barrels is structural, not spot, because it takes months to revive flows even after Hormuz reopens. Warsh would inherit not a temporary shock but a supply shock baked into the following 12 months of price data."
+      }
+    ],
+    "realDisagreement": "The real fork is not about how high rates go. It is about whether the Federal Reserve remains an institution that operates on data and a stated framework, or whether it becomes an institution that responds to political pressure while claiming not to. Powell held that line at personal cost, facing a DOJ probe and public attacks from the president. Warsh promised independence in his hearing but pledged a 'different' framework that is not fully specified. The disagreement is whether Warsh's independence is structural or performative. The market says he will likely get confirmed (Warsh nomination withdrawal by May 15 at only 0.55%), but real independence requires being willing to hold when the president wants cuts. We have not yet seen that test.",
+    "whatNoOneIsSaying": "The DOJ dropping its probe of Powell was not a legal judgment. It was a political calculation. The probe was opened to pressure Powell; it was dropped to clear Warsh's path. No one is saying out loud that the government's law enforcement apparatus was used as a tool to manage a supposedly independent central bank's leadership transition.",
+    "whoPays": [
+      {
+        "who": "30-year mortgage borrowers and housing market entrants",
+        "how": "The 30-year Treasury is at its 94th percentile of its five-year range. Mortgage rates follow long Treasuries. An oil-driven term premium increase, layered on top of a hawkish new Fed chair, means the housing market correction that was supposed to happen after the 2022-2023 rate cycle may finally arrive in 2026-2027.",
+        "when": "Medium-term, accelerating Q3-Q4 2026"
+      },
+      {
+        "who": "Workers in rate-sensitive industries (construction, manufacturing, auto)",
+        "how": "Warsh's stated preference for faster quantitative tightening means a smaller balance sheet and higher long-term rates, which crushes capital expenditure in industries that rely on cheap borrowing. Any stagflation scenario, rising prices plus slowing growth, hits these workers with both inflation and layoffs simultaneously.",
+        "when": "Slow-burn through 2026-2027"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Clean handoff, Warsh confirmed before May 15",
+        "whatHappens": "Warsh sails through Senate confirmation, Powell exits with dignity, and the first Warsh FOMC in June begins the regime shift. Markets reprice forward guidance; long Treasuries sell off as Warsh signals faster QT. This is the orderly transition everyone says they want.",
+        "signal": "Senate Banking Committee votes this week, full Senate confirms before May 15"
+      },
+      {
+        "name": "Overlap and uncertainty",
+        "whatHappens": "Warsh is not confirmed before Powell's term expires; Powell continues as acting chair while remaining on the Board of Governors. The dual authority creates confusion about who is actually setting policy tone. Trump tries to use the gap to pressure the institution. Markets lose the anchor of clear leadership.",
+        "signal": "No Senate committee vote this week; Powell says at the press conference he will remain in his role temporarily"
+      },
+      {
+        "name": "Inflation forces the first Warsh hike",
+        "whatHappens": "Dallas Fed's $115 crude projection materializes, headline inflation hits 4%+ by summer, and Warsh's first or second meeting requires a rate hike. Warsh's promise of 'different' framework meets its first real test as Trump pressures for cuts and the data demands hikes.",
+        "signal": "Core PCE above 0.4% month-over-month in the April 30 release and oil staying above $100 through May"
+      }
+    ],
+    "whatWouldChange": "If Hormuz reopened in the next two weeks and oil fell to $80, the entire inflation thesis collapses, Powell would have been right to hold rather than hike, and Warsh would inherit a much calmer macro environment. The bottom line changes completely if Iran and the US reach a deal before May 15.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Jerome Powell depart as Fed Chair by May 16 2026?",
+        "url": "https://polymarket.com/event/jerome-powell-departs-as-fed-chair-by",
+        "probability": 0.74
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Kevin Warsh Fed Chair nomination withdrawn by May 15?",
+        "url": "https://polymarket.com/event/kevin-warsh-fed-chair-nomination-withdrawn-by-may-15",
+        "probability": 0.0055
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Trump try to fire Powell as Fed Board Member by June 30, 2026?",
+        "url": "https://polymarket.com/event/will-trump-try-to-fire-powell-as-fed-board-member-by",
+        "probability": 0.13
+      }
+    ]
+  }
+}
