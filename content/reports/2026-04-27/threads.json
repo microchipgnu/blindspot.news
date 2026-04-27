@@ -119,6 +119,44 @@
           "relationship": "The DHS shutdown documents how the administration redirects appropriated funds across agencies without congressional input. The OpenAI-Microsoft deal's resolution through private commercial restructuring rather than regulatory oversight reflects the same pattern: the executive shapes outcomes through contracts and enforcement discretion, not through legislation Congress controls."
         }
       ]
+    },
+    {
+      "id": "china-tightens-the-grip",
+      "title": "China Is Closing the Exits: Three Moves That Are Actually One Move",
+      "description": "China blocked Meta's acquisition of Manus, expanded its economic pressure toolkit under the trade truce, and is advancing AI chip restrictions on state data centers. These look like three separate stories. They are a single strategy: China is systematically removing the exits available to Chinese-origin talent, technology, and economic leverage. The Manus veto tells Chinese AI founders that relocation does not sever Beijing's jurisdiction. The trade toolkit expansion tells foreign companies that offshoring supply chains invites legal retaliation. The AI chip and cybersecurity bans tell US companies that their market access inside China can be restricted at will. Each move individually is explicable. Together they constitute a comprehensive enforcement of Chinese economic sovereignty that was not operational a year ago.",
+      "type": "cause-effect",
+      "stories": ["china-blocks-meta-manus", "china-trade-toolkit-truce", "ai-distillation-chip-war"],
+      "connections": [
+        {
+          "from": "china-trade-toolkit-truce",
+          "to": "china-blocks-meta-manus",
+          "relationship": "The anti-coercion laws enacted under the trade truce give NDRC the legal authority used to veto the Manus deal. The trade truce built the legal infrastructure; the Manus veto is the first high-profile application of that infrastructure to a US technology acquisition."
+        },
+        {
+          "from": "china-blocks-meta-manus",
+          "to": "ai-distillation-chip-war",
+          "relationship": "The Manus veto and the distillation crackdown are two fronts of the same contest: who controls the people and outputs of Chinese-origin AI development. The US wants to block Chinese companies from using US AI outputs. China wants to block US companies from acquiring Chinese-origin AI talent. Both sides are trying to fence off the same resource."
+        }
+      ]
+    },
+    {
+      "id": "territory-as-transaction",
+      "title": "Four Stories Today Treat Sovereignty as a Bargaining Chip",
+      "description": "Germany's Merz said Ukraine should trade territory for EU membership. China blocked Meta from buying a startup by asserting jurisdiction over founders who relocated to Singapore. China's trade toolkit expansion includes laws penalizing companies for moving production outside China. The US MATCH Act would force the Netherlands and Japan to align export rules with Washington on pain of enforcement. In each case, a state actor is treating sovereign decisions by another party, whether another country or a private company, as subject to revision through external pressure. This is not a coincidence of the news cycle. It reflects a broader collapse of the post-1945 assumption that borders and incorporation decisions are settled and not tradeable.",
+      "type": "tension-cluster",
+      "stories": ["merz-ukraine-eu-territory", "china-blocks-meta-manus", "china-trade-toolkit-truce", "ai-distillation-chip-war"],
+      "connections": [
+        {
+          "from": "merz-ukraine-eu-territory",
+          "to": "china-blocks-meta-manus",
+          "relationship": "Merz's proposal treats Ukrainian territorial integrity as negotiable in exchange for EU membership. China's Manus veto treats a Singaporean company's ownership as negotiable because its founders were born in China. Both moves assert that formal legal status, national borders or corporate incorporation, does not settle questions of sovereignty when a major power has interests at stake."
+        },
+        {
+          "from": "china-trade-toolkit-truce",
+          "to": "merz-ukraine-eu-territory",
+          "relationship": "China's anti-coercion laws penalize companies for moving production out of China; Merz's EU membership offer is premised on Ukraine accepting that moving its own territory out of Ukrainian sovereignty is necessary for peace. Both normalize the idea that political or economic arrangements can override what formal ownership or sovereignty should protect."
+        }
+      ]
     }
   ]
 }

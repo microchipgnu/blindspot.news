@@ -91,6 +91,36 @@
       "title": "The Federal Government Just Declared War on State AI Regulation, and Colorado Folded Before the Battle Started",
       "subtitle": "The DOJ joined xAI's lawsuit against Colorado's AI antidiscrimination law the same afternoon Colorado's AG agreed to stop enforcing it. No court ordered the freeze. The legislature has 16 days to pass a replacement. The AI Litigation Task Force is just getting started.",
       "category": "power"
+    },
+    {
+      "id": "china-blocks-meta-manus",
+      "title": "China Vetoes Manus: What Happens When the Startup You Bought Can't Leave",
+      "subtitle": "Beijing blocked Meta's $2B acquisition of the agentic AI startup Manus. The founders are under exit bans. The employees are in Meta's Singapore offices. No one knows who owns what.",
+      "category": "power"
+    },
+    {
+      "id": "ai-distillation-chip-war",
+      "title": "The Distillation War: China Is Copying US AI Models at Scale and Washington Doesn't Know What to Do About It",
+      "subtitle": "The White House accused China of industrial-scale AI theft through model distillation. The State Department sent a global cable. Congress is advancing the MATCH Act to choke off chip equipment. None of it addresses the core problem, which is that distillation is not crackable by export controls.",
+      "category": "conflict"
+    },
+    {
+      "id": "merz-ukraine-eu-territory",
+      "title": "Merz's Trade: Give Russia the Land, Get Ukraine into the EU",
+      "subtitle": "Germany's chancellor told students on Monday that Ukraine may need to cede territory to secure peace, and that EU membership could be the prize offered in return. He was the first major Western leader to say this out loud.",
+      "category": "conflict"
+    },
+    {
+      "id": "china-trade-toolkit-truce",
+      "title": "China Used the Trade Truce to Build a Better Weapon",
+      "subtitle": "While Trump called the October summit a '12 out of 10,' Beijing enacted laws to punish supply chain offshoring, tightened rare earth licensing, and banned foreign AI chips from state data centers. The truce is real. The preparation for what comes after it is also real.",
+      "category": "power"
+    },
+    {
+      "id": "medicaid-work-requirements-2027",
+      "title": "The Medicaid Clock: Eight Months to Build What Arkansas Couldn't in Three Years",
+      "subtitle": "H.R. 1 mandated Medicaid work requirements effective January 1, 2027. States have less than 18 months to build the verification infrastructure. Nebraska starts first in May. The evidence from every prior work requirement program shows the same outcome: eligible people lose coverage, employment doesn't increase.",
+      "category": "decision"
     }
   ]
 }

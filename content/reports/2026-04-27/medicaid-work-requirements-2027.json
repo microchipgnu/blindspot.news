@@ -1,0 +1,93 @@
+{
+  "id": "medicaid-work-requirements-2027",
+  "date": "2026-04-27",
+  "generatedAt": "2026-04-27T22:30:00Z",
+  "title": "The Medicaid Clock: Eight Months to Build What Arkansas Couldn't in Three Years",
+  "subtitle": "H.R. 1 mandated Medicaid work requirements effective January 1, 2027. States have less than 18 months to build the verification infrastructure. Nebraska starts first in May. The evidence from every prior work requirement program shows the same outcome: eligible people lose coverage, employment doesn't increase.",
+  "topic": "society",
+  "category": "decision",
+  "tags": ["Medicaid", "H.R. 1", "work requirements", "healthcare", "states", "Nebraska", "Congress", "CMS"],
+  "coverImage": {
+    "url": "https://miro.medium.com/v2/resize:fit:810/1*6kleOjYOSHKzBv-l7wPFeg.jpeg",
+    "local": "/images/reports/2026-04-27/medicaid-work-requirements-2027.jpg",
+    "credit": "Medium / The Human Ledger"
+  },
+  "sources": [
+    {
+      "url": "https://www.cbpp.org/research/health/states-need-more-time-to-prepare-for-medicaid-work-requirement",
+      "publisher": "Center on Budget and Policy Priorities",
+      "angle": "The work requirement takes effect January 1, 2027. States have less than 18 months from enactment, no final federal guidance from CMS, inadequate state IT capacity, and a legal requirement that creates four categories of coverage loss: administrative churn, documentation failures, income verification errors, and timing gaps."
+    },
+    {
+      "url": "https://hme-business.com/inside-look-5-takeaways-as-nebraska-becomes-first-state-to-enact-medicaid-work-requirement/",
+      "publisher": "HME Business",
+      "angle": "Nebraska will be the first state to enforce work requirements starting May 1, 2026, eight months before the national deadline. Offers a preview of what the verification infrastructure looks like in practice."
+    },
+    {
+      "url": "https://www.michigan.gov/leo/news/2026/04/21/state-officials-advocate-for-funding-to-help-michiganders-meet-new-federal-work-requirements",
+      "publisher": "Michigan LEO",
+      "angle": "Michigan state officials say hundreds of thousands of residents risk losing coverage, and are advocating for federal funding to support implementation. Highlights the funding gap between the federal mandate and state capacity."
+    },
+    {
+      "url": "https://medium.com/the-human-ledger/the-bill-was-already-paid-you-just-dont-know-it-yet-fcfb83459bc4",
+      "publisher": "The Human Ledger / Medium",
+      "angle": "Traces the downstream costs of coverage loss to emergency rooms, uncompensated care, and state budgets. Argues that the cost of the work requirement is not eliminated but redistributed."
+    }
+  ],
+  "brief": {
+    "actors": ["Congress", "CMS", "Nebraska", "Michigan", "Medicaid", "H.R. 1"],
+    "whatHappened": "The One Big Beautiful Bill Act, signed on July 4, 2025, requires Medicaid expansion adults to document at least $580 per month in income or complete 80 hours per month of 'community engagement' activities to maintain coverage, effective January 1, 2027. States have less than 18 months from enactment to build verification systems. CMS has not yet issued final guidance on key aspects of the policy, meaning states are making major system design decisions without knowing the final rules. Nebraska will be the first state to begin enforcement, starting May 1, 2026. The Center on Budget and Policy Priorities published an analysis on April 27 identifying four structural features of the H.R. 1 requirement that will produce higher coverage loss than past work requirement programs: inadequate implementation time, no federal guidance, technological limitations, and states' limited administrative capacity.",
+    "bottomLine": "The policy is designed to reduce Medicaid rolls. The coverage loss that follows will not primarily come from ineligible people who fail the work test. It will come from eligible people who cannot navigate the paperwork in time.",
+    "hiddenBets": [
+      {
+        "assumption": "Work requirements will increase employment among Medicaid recipients",
+        "whyItMightBeWrong": "Arkansas implemented a work requirement in 2018. It was enjoined after 18,000 people lost coverage. A Harvard evaluation found no increase in employment. The literature on SNAP work requirements shows the same pattern. The people who lose coverage are predominantly already working, in school, or qualifying for an exemption they cannot document on time."
+      },
+      {
+        "assumption": "States will implement the requirement accurately enough to avoid covering ineligible people while retaining eligible ones",
+        "whyItMightBeWrong": "The implementation gap is structural. CMS has not issued final guidance. States are building systems for rules that may change. Nebraska is the earliest test, but it is a small state with relatively low Medicaid expansion population. Larger states like Michigan, Texas, and Florida face far more complex verification problems with less time."
+      },
+      {
+        "assumption": "The coverage loss will be visible enough to create political accountability",
+        "whyItMightBeWrong": "Coverage loss from work requirements is diffuse, gradual, and primarily affects people without political voice. It does not produce a single memorable event. People lose coverage in tranches, appeal processes expire quietly, and the connection between the policy and individual outcomes is easy to obscure."
+      }
+    ],
+    "realDisagreement": "The real fork is whether to evaluate this policy by its stated intent or by its predictable mechanism. The stated intent is to encourage work and ensure coverage goes to deserving recipients. The predictable mechanism, based on the only prior large-scale US test of the policy in Arkansas, is administrative disenrollment of people who are already working or already eligible but cannot document compliance on time. You cannot have both: a policy designed to exclude non-workers that works as intended, and a policy that does not primarily disenroll workers and eligible people. Every state work requirement experiment has produced the second outcome. The argument for the policy is that this time the implementation will be different. The CBPP analysis identifies four structural reasons why this implementation is specifically worse than previous ones, not better.",
+    "whatNoOneIsSaying": "The administrative burden of verification falls on the states, but the political credit for 'fiscal responsibility' goes to Congress. If the verification systems fail and eligible people lose coverage, Congress blames the states for bad implementation. The incentive structure is perfectly calibrated to produce a policy that looks like reform from Washington and looks like a humanitarian crisis from state health departments.",
+    "whoPays": [
+      {
+        "who": "Medicaid expansion adults with irregular or informal employment",
+        "how": "Workers in gig economy, seasonal, or cash-based jobs cannot easily produce documentation of $580/month income. The verification system requires formal employer records or tax documents. Coverage loss falls disproportionately on people whose work is real but unprovable by the system's standards.",
+        "when": "January 1, 2027 nationally; May 1, 2026 in Nebraska"
+      },
+      {
+        "who": "Hospital emergency departments in expansion states",
+        "how": "People who lose Medicaid coverage do not stop needing healthcare. Uncompensated emergency care absorbs the cost. Hospitals in states with high Medicaid expansion populations face balance sheet pressure as the uninsured rate rises.",
+        "when": "Gradual onset from January 2027; visible in hospital financial filings by Q2 2027"
+      },
+      {
+        "who": "State Medicaid agency staff",
+        "how": "States must build verification systems without final federal guidance, which means building twice: once for a best guess and once after CMS issues rules. State IT procurement and eligibility worker training budgets are not designed for this timeline.",
+        "when": "Immediate capacity strain; ongoing through 2027 implementation"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Nebraska Becomes the Preview",
+        "whatHappens": "Nebraska's May enforcement produces visible coverage losses and no measurable employment increase by October. Advocacy groups document the pattern. Several states use Nebraska data to request delays from CMS. CMS denies the delays.",
+        "signal": "Nebraska's Medicaid enrollment drops more than 5% in the first 90 days of enforcement with no corresponding employment increase in the state's uninsured population."
+      },
+      {
+        "name": "Implementation Chaos",
+        "whatHappens": "CMS issues final guidance in October 2026, leaving states 90 days to reprogram systems. Several large states miss the January 1, 2027 deadline. CMS grants informal extensions. Coverage loss begins unevenly across states, making national data hard to aggregate.",
+        "signal": "More than five states formally request implementation deadline extensions from CMS by November 2026."
+      },
+      {
+        "name": "Legal Injunction",
+        "whatHappens": "A federal court enjoins H.R. 1's work requirement, as happened with Arkansas in 2019, citing that removing coverage from eligible people violates Medicaid's statutory purpose. Implementation pauses pending Supreme Court review.",
+        "signal": "A federal district court issues a preliminary injunction against national Medicaid work requirements within 90 days of the first state experiencing documented coverage loss of eligible enrollees."
+      }
+    ],
+    "whatWouldChange": "If Nebraska's first 90 days show that a well-prepared state can implement verification without significant coverage loss among working or otherwise-eligible adults, the CBPP analysis and the Arkansas precedent are both wrong, and the policy may work as intended. That outcome would require Nebraska's results to diverge sharply from every prior work requirement program. It is possible but would represent a genuine empirical surprise."
+  }
+}
