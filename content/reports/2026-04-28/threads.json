@@ -1,0 +1,66 @@
+{
+  "date": "2026-04-28",
+  "threads": [
+    {
+      "id": "executive-overreach-costs",
+      "title": "When Executive Unilateralism Hits Its Limits",
+      "description": "Three stories today are about the same structural problem: the Trump administration built policy tools on maximally stretched executive authority, and those tools are now breaking. The IEEPA tariffs died at the Supreme Court. The birthright citizenship EO is dying at the same court. Automakers are responding to tariff overreach not with compliance but with market exit. In all three cases, the administration's theory that executive will alone could produce policy outcomes is encountering institutional and market friction that will not bend.",
+      "type": "tension-cluster",
+      "stories": ["trump-tariff-replacement", "birthright-citizenship-scotus", "usmca-automakers-exit"],
+      "connections": [
+        {
+          "from": "trump-tariff-replacement",
+          "to": "birthright-citizenship-scotus",
+          "relationship": "Both represent the Supreme Court drawing a line under executive power claims: IEEPA tariffs in February, birthright citizenship EO in the pending June ruling. Together they define a pattern of the court using 2026 to reset the boundaries of unilateral executive action."
+        },
+        {
+          "from": "trump-tariff-replacement",
+          "to": "usmca-automakers-exit",
+          "relationship": "The tariff regime that is now legally contested produced the 25% automotive content tariff that is pushing foreign manufacturers toward market exit. The legal uncertainty about tariff permanence is the specific reason Toyota will not commit capital to new US factories."
+        }
+      ]
+    },
+    {
+      "id": "iran-war-domestic-blowback",
+      "title": "The Iran War Is Eating Trump's Economic Agenda",
+      "description": "The US-Iran war was supposed to be a geopolitical success story. Instead it is the mechanism through which the administration's domestic economic promises are collapsing. The Iran-driven oil price surge is offsetting the benefits of Republican tax cuts, according to the CBO director. This links the Iran ceasefire stalemate directly to the USMCA/automakers crisis: every week the Strait of Hormuz stays partially closed adds upward pressure on energy costs that erode the cost-of-living narrative the administration needs before midterms.",
+      "type": "cause-effect",
+      "stories": ["iran-hormuz-stalemate", "usmca-automakers-exit"],
+      "connections": [
+        {
+          "from": "iran-hormuz-stalemate",
+          "to": "usmca-automakers-exit",
+          "relationship": "The Hormuz shipping disruption is driving energy price increases that the CBO director said are already offsetting Republican tax cut benefits. The same households squeezed by higher energy costs are the primary buyers of the affordable cars that foreign manufacturers are threatening to withdraw from the US market."
+        }
+      ]
+    },
+    {
+      "id": "self-governance-vs-state-regulation",
+      "title": "Tech Self-Regulation Has Failed and Governments Are Drawing Different Conclusions",
+      "description": "OpenAI published a principles document arguing that voluntary self-governance, iterative deployment, and industry cooperation are the correct framework for managing powerful AI. The same week, the UK, Norway and Manitoba announced they will force social media restrictions on children, because voluntary platform compliance with child-safety obligations has produced a 70% circumvention rate in Australia and two consecutive years of youth mental-health evidence. Both responses are reactions to the same failure: tech companies setting their own rules have not protected users adequately. But the two sets of governments are drawing opposite conclusions about who should set the rules next.",
+      "type": "tension-cluster",
+      "stories": ["openai-agi-principles", "youth-social-media-bans"],
+      "connections": [
+        {
+          "from": "openai-agi-principles",
+          "to": "youth-social-media-bans",
+          "relationship": "OpenAI's principles document is a more sophisticated version of the same voluntary-compliance claim that social media platforms made about child safety before governments decided to legislate. The failure of social media self-governance is the clearest available precedent for what happens when AI companies publish principles without binding accountability structures."
+        }
+      ]
+    },
+    {
+      "id": "scotus-as-veto-player",
+      "title": "The Supreme Court Is the Most Consequential Actor in US Domestic Policy Right Now",
+      "description": "In February the Court killed the IEEPA tariffs, forcing a scramble to rebuild trade policy. In June it will almost certainly kill the birthright citizenship executive order. Both rulings involve conservative justices appointed by Trump voting against Trump's policy agenda. The Court is functioning as the primary institutional check on executive authority in 2026, a role it is performing through rulings that are simultaneously protecting constitutional limits and delegitimizing the administration's preferred methods of governance.",
+      "type": "cause-effect",
+      "stories": ["trump-tariff-replacement", "birthright-citizenship-scotus"],
+      "connections": [
+        {
+          "from": "birthright-citizenship-scotus",
+          "to": "trump-tariff-replacement",
+          "relationship": "The same institutional logic that produced the IEEPA ruling in February is present in the birthright citizenship oral arguments: the Court is unwilling to read emergency or exceptional-case statutory language as conferring general executive power. The administration faces a pattern, not isolated defeats, which means Section 301 and 232 tariff expansion attempts are likely to face more judicial scrutiny than they would have before 2026."
+        }
+      ]
+    }
+  ]
+}

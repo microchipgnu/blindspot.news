@@ -1,0 +1,96 @@
+{
+  "id": "openai-agi-principles",
+  "date": "2026-04-28",
+  "generatedAt": "2026-04-28T08:00:00Z",
+  "title": "OpenAI Rewrites Its Contract with the Public",
+  "subtitle": "Sam Altman published five principles for the AGI era. The document replaced a pledge to help competitors if they got close to AGI first. It was not replaced with anything comparable.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["OpenAI", "Altman", "AGI", "AI governance", "Anthropic", "safety"],
+  "coverImage": {
+    "url": "https://img-cdn.publive.online/fit-in/1200x675/ciol/media/media_files/2026/04/27/07-04-26-53-2026-04-27-16-30-37.png",
+    "local": "/images/reports/2026-04-28/openai-agi-principles.jpg",
+    "credit": "CIOL"
+  },
+  "sources": [
+    {
+      "url": "https://openai.com/index/our-principles/",
+      "publisher": "OpenAI",
+      "angle": "The primary document: five principles of democratization, empowerment, universal prosperity, resilience, and adaptability. Notable for what it removed from the 2018 charter."
+    },
+    {
+      "url": "https://www.forbes.com/sites/ronschmelzer/2026/04/27/openai-publishes-five-principles-for-its-agi-push/",
+      "publisher": "Forbes",
+      "angle": "Analysis focused on what changed: the 2018 charter's pledge to assist a safety-conscious rival if they got close to AGI first has been quietly dropped. The language shifted from research-mission to corporate-strategic."
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/sam-altman-has-five-new-principles-for-openai-heres-whats-different-from-the-2018-charter/articleshow/130571357.cms",
+      "publisher": "Times of India",
+      "angle": "Detailed comparison with 2018 charter: the new document is more corporate in tone, acknowledges OpenAI's $800B valuation, and replaces cooperative language with competitive framing."
+    },
+    {
+      "url": "https://www.ciol.com/news/openai-ai-principles-safety-governance-anthropic-mythos-context-11771209",
+      "publisher": "CIOL",
+      "angle": "Industry context: the principles were published alongside Anthropic's updated Responsible Scaling Policy v3.1 and against the backdrop of Anthropic's Mythos cybersecurity model accessing controversy."
+    }
+  ],
+  "brief": {
+    "actors": ["OpenAI", "Altman", "Anthropic", "Google DeepMind"],
+    "whatHappened": "OpenAI CEO Sam Altman published 'Our Principles,' a 1,100-word five-point framework replacing significant portions of the company's 2018 founding charter. The five principles are: democratization (broad distribution of AI benefits), empowerment (user autonomy with safety guardrails), universal prosperity (infrastructure investment and policy advocacy), resilience (society-wide defenses against catastrophic AI misuse), and adaptability (transparency about future changes). Most significantly, the 2018 charter's pledge that if a safety-conscious rival came close to building AGI first, OpenAI would stop competing and help them instead has been removed. The announcement came the same week Anthropic published an update to its Responsible Scaling Policy and Google DeepMind operates its Frontier Safety Framework, with no comparable cross-lab cooperation pledges in any current document.",
+    "bottomLine": "OpenAI quietly removed the one commitment in its founding charter that would have cost it something: the pledge to step aside if a safer competitor got there first. Every principle it replaced it with is either aspirational, self-serving, or both. This is a company that grew from a research mission into an $800 billion competitor and rewrote its public contract to fit what it has become.",
+    "hiddenBets": [
+      {
+        "assumption": "Publishing safety principles creates accountability for following them",
+        "whyItMightBeWrong": "Every major frontier lab now has a safety framework. None are legally binding. None have triggered meaningful penalties for violation. The publication of principles creates a compliance theater that may actually reduce pressure for binding external regulation by demonstrating voluntary self-governance."
+      },
+      {
+        "assumption": "Democratization and avoiding concentrated AI power are compatible with OpenAI's business model",
+        "whyItMightBeWrong": "OpenAI's value depends on having more capable models than competitors. Genuinely democratizing AI capability at frontier levels reduces OpenAI's competitive moat. The company cannot simultaneously maximize its $800 billion valuation and minimize concentration of AI power in the hands of a few organizations."
+      },
+      {
+        "assumption": "Altman's principles represent the company's actual decision-making framework",
+        "whyItMightBeWrong": "The 2018 charter did not prevent the company from restructuring from nonprofit to for-profit, launching a $500+ billion Stargate infrastructure deal, or competing aggressively with every rival. Principles documents describe aspirations, not constraints."
+      }
+    ],
+    "realDisagreement": "The real fork is between two views of what OpenAI's public commitments are for. One view is that they are genuine constraints: the company publishes principles it intends to follow and should be held accountable if it does not. The other view is that they are competitive positioning: safety principles function as a moat against regulation and as marketing to enterprise customers who need compliance cover. The first view is charitable and would require that removing the rival-assistance pledge was a considered ethical choice the company can defend. The second view predicts that the principles will evolve toward whatever OpenAI finds strategically convenient, as this update demonstrates. The lean is toward the second view, not because the people at OpenAI are cynical but because the incentive structure they are operating in makes the first view structurally unstable.",
+    "whatNoOneIsSaying": "The most consequential thing OpenAI removed from its charter was not the rival-assistance pledge itself but the underlying admission it encoded: that getting to AGI first might not be the goal. That admission no longer appears anywhere in OpenAI's public commitments. OpenAI is now in a race it has decided it intends to win.",
+    "whoPays": [
+      {
+        "who": "Users who assumed OpenAI's public mission constrained its competitive behavior",
+        "how": "The mission constraint that would have slowed OpenAI down in a race with a safer competitor is gone. Users who chose OpenAI partly on the basis of its stated nonprofit roots and mission commitments are now trusting a for-profit company with an $800 billion valuation and no binding external accountability.",
+        "when": "Long-term, as the gap between stated principles and business incentives widens with scale"
+      },
+      {
+        "who": "Smaller AI labs and researchers who relied on the cooperative framing",
+        "how": "The removal of the rival-assistance pledge signals that the era of voluntary inter-lab cooperation on safety is over. Labs that were counting on shared norms as a substitute for regulation face a more competitive and less cooperative environment.",
+        "when": "Medium-term, as the next capability threshold approaches and companies race to reach it first"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Principles used to block regulation",
+        "whatHappens": "OpenAI's publication of safety principles, alongside similar documents from Anthropic and DeepMind, becomes evidence in Congressional hearings that the industry self-regulates effectively, delaying binding federal AI legislation past the 2026 midterms.",
+        "signal": "The American Leadership in AI Act introduced by Lieu and Obernolte stalls in committee and its sponsors cite industry voluntary compliance as sufficient."
+      },
+      {
+        "name": "Accountability gap triggers incident",
+        "whatHappens": "A significant AI misuse incident, such as the Anthropic Mythos unauthorized access situation that was already being investigated, escalates. The gap between OpenAI's published principles and its actual deployment decisions becomes a Congressional hearing focus.",
+        "signal": "A Senate subcommittee subpoenas OpenAI's internal safety evaluation records within six months."
+      },
+      {
+        "name": "AGI race narrows, no safety mechanism activates",
+        "whatHappens": "One of the frontier labs reaches a capability level that would previously have triggered the rival-assistance clause. Because that clause no longer exists, the race continues, and no inter-lab coordination mechanism exists to manage the transition.",
+        "signal": "Polymarket's 'OpenAI announces AGI before 2027' market moves above 30%."
+      }
+    ],
+    "whatWouldChange": "If OpenAI submitted to binding external audits by an independent body with enforcement authority, or if the American Leadership in AI Act passed with mandatory safety evaluation requirements, the principles document would become less relevant because actual accountability mechanisms would exist.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "OpenAI announces it has achieved AGI before 2027?",
+        "url": "https://polymarket.com/event/openai-announces-it-has-achieved-agi-before-2027",
+        "probability": 0.165
+      }
+    ]
+  }
+}

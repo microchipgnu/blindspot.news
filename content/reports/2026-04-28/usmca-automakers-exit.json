@@ -1,0 +1,93 @@
+{
+  "id": "usmca-automakers-exit",
+  "date": "2026-04-28",
+  "generatedAt": "2026-04-28T08:00:00Z",
+  "title": "Affordable Cars Are Leaving the American Market",
+  "subtitle": "Nissan, Toyota and Hyundai have told the Trump administration that without a USMCA renewal, entry-level models no longer make economic sense to sell in the US.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Trump", "USMCA", "tariffs", "Nissan", "Toyota", "Hyundai", "auto industry"],
+  "coverImage": {
+    "url": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/large-cargo-ship-transporting-colorful-containers-2025-06-01-18-22-27-utc-scaled-(1).jpg?sfvrsn=a2b84d11_5",
+    "local": "/images/reports/2026-04-28/usmca-automakers-exit.jpg",
+    "credit": "Lawfare"
+  },
+  "sources": [
+    {
+      "url": "https://investinglive.com/news/foreign-carmakers-warn-cheap-models-face-us-exit-without-usmca-deal-20260428/",
+      "publisher": "InvestingLive / WSJ",
+      "angle": "Direct industry warning: Nissan, Toyota, Hyundai have told Trump economic advisers that without USMCA renewal, affordable models are becoming unprofitable and may be withdrawn."
+    },
+    {
+      "url": "https://www.heygotrade.com/en/news/us-auto-tariffs-pressure-foreign-carmakers-nissan-profit/",
+      "publisher": "HeyGoTrade",
+      "angle": "Nissan specifically raised its full-year profit outlook despite US tariff pressure, partly due to cost-cutting, suggesting some manufacturers are absorbing costs rather than exiting."
+    },
+    {
+      "url": "https://www.thefiscaltimes.com/2026/04/27/Tariff-Changes-Could-Raise-Deficits-11-Trillion-Over-10-Years-CBO",
+      "publisher": "The Fiscal Times",
+      "angle": "CBO director notes higher energy prices from the Iran war are already offsetting Republican tax cut benefits, and tariff-driven price increases compound the household cost burden."
+    },
+    {
+      "url": "https://www.ctvnews.ca/montreal/article/quebec-furniture-company-shutting-down-citing-us-trade-war/",
+      "publisher": "CTV News",
+      "angle": "Ground-level casualty: Quebec furniture company South Shore, founded 1940, is shutting down and laying off 126 workers after sales fell 77% due to US tariff impacts and cheap import flooding."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Nissan", "Toyota", "Hyundai", "Canada", "Mexico"],
+    "whatHappened": "Foreign automakers including Nissan, Toyota and Hyundai have privately communicated to Trump's economic advisers that the 25% tariff on non-US vehicle content has made entry-level models financially unviable. Nissan Americas chairman Christian Meunier said tariffs have been 'killing affordable cars.' Toyota's US sales chief said the company was reluctant to commit to billions in new US factory investment until a USMCA renewal provides certainty. Canada has made automotive tariff relief a condition of USMCA renewal, while Mexico has taken a more pragmatic tone focused on minimizing tariffs rather than eliminating them. The average new car price in the US has reached $51,456, and the absence of affordable entry-level models would directly contradict the administration's cost-of-living narrative.",
+    "bottomLine": "The administration's tariff policy is producing the exact opposite of its stated goal. It wants reshoring and domestic manufacturing growth. What it is getting is the disappearance of affordable cars from the US market, which raises prices for ordinary consumers, while the factories the administration wants to build are being delayed by the same tariff uncertainty it created.",
+    "hiddenBets": [
+      {
+        "assumption": "Higher tariffs will push foreign automakers to build more US factories",
+        "whyItMightBeWrong": "Toyota explicitly said it cannot commit billions to new US facilities without a trade settlement. The uncertainty the tariff regime creates is the primary reason investment is frozen. Tariffs without a stable legal framework do not encourage reshoring; they encourage waiting."
+      },
+      {
+        "assumption": "The departure of affordable foreign models creates space for American automakers to fill",
+        "whyItMightBeWrong": "US domestic brands are not currently competing in the sub-$25,000 segment that foreign manufacturers are threatening to exit. GM and Ford have pulled back from small cars and are focused on trucks and SUVs. The gap affordable foreign models leave would not be filled by domestic production; it would simply be an affordability vacuum."
+      },
+      {
+        "assumption": "A USMCA renewal will be negotiated before the damage becomes irreversible",
+        "whyItMightBeWrong": "Canada's condition that automotive tariff relief is required for renewal, combined with the administration's ideological commitment to tariffs as revenue and leverage, creates a genuine impasse. The USMCA review was already under way before the tariff escalation. Each month of delay pushes foreign manufacturers further toward permanent product line decisions."
+      }
+    ],
+    "realDisagreement": "The fork is between two theories of what protectionism is supposed to do. One theory says tariffs are negotiating leverage, temporary pressure to extract better trade terms, and the collateral damage is acceptable because the deal will be worth it. The other theory says tariffs are a structural industrial policy tool that will permanently shift supply chains toward domestic production. These cannot both be true simultaneously. If tariffs are leverage, then threatening to withdraw affordable cars is a signal that the leverage is not working and the cost is materializing. If tariffs are permanent industrial policy, then the administration should be explaining which American company will build affordable cars at $20,000-25,000 price points. No such explanation exists. The lean is that tariffs are being used as leverage in a negotiation where the other side's counteroffer is to leave the market rather than capitulate.",
+    "whatNoOneIsSaying": "The political constituency that would be most harmed by the disappearance of affordable new cars, working-class Americans who need a reliable vehicle under $25,000, is the same constituency the administration claims to represent. No one in the White House is publicly reconciling this. The administration is simultaneously promising to lower costs of living and implementing policies that remove the cheapest cars from the market.",
+    "whoPays": [
+      {
+        "who": "First-time car buyers and lower-income households",
+        "how": "Disappearance of sub-$25,000 new car options forces buyers into used car markets, which are already at their highest prices since summer 2023, or into financing arrangements on more expensive vehicles that carry higher default risk.",
+        "when": "Beginning when foreign manufacturers formalize product exit decisions, likely before the 2026 model year ends"
+      },
+      {
+        "who": "Auto parts suppliers and dealerships",
+        "how": "Reduced sales volume of entry-level models affects the entire supply chain, from parts manufacturers to dealerships that depend on service revenue from affordable vehicles. South Shore Furniture's shutdown in Quebec is an early indicator of what tariff-driven contraction looks like at the factory level.",
+        "when": "Medium-term, accelerating if USMCA talks fail through summer"
+      },
+      {
+        "who": "Canada and Mexico",
+        "how": "Canada faces a dilemma between accepting lopsided USMCA terms or watching the agreement lapse and facing permanent tariffs. Mexico's more pragmatic tone suggests it is calculating that some US market access under tariffs is better than no access under a collapsed agreement.",
+        "when": "Immediate diplomatic cost; economic cost depends on negotiating outcome"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "USMCA renewed with partial tariff relief",
+        "whatHappens": "The US agrees to reduce the 25% tariff on North American-built vehicles to a lower threshold in exchange for higher domestic content requirements. Foreign manufacturers recommit to affordable model production and new factory investments.",
+        "signal": "Toyota announces a specific US facility commitment tied to a USMCA framework timeline."
+      },
+      {
+        "name": "Entry-level market disappears",
+        "whatHappens": "No USMCA deal is reached before foreign manufacturers finalize their 2027 model year product line decisions. Affordable models are discontinued for the US market. Used car prices spike further. The administration faces political backlash it cannot absorb before midterms.",
+        "signal": "Nissan or Hyundai formally announces discontinuation of a specific affordable model for the US market."
+      },
+      {
+        "name": "Tariff relief via executive order",
+        "whatHappens": "Facing political pressure before midterms, Trump issues executive relief for automakers through a Section 232 national security carve-out or USMCA emergency mechanism, temporarily suspending some auto tariffs to prevent market exit.",
+        "signal": "White House quietly grants a 90-day tariff exclusion to automakers citing supply chain national security interests."
+      }
+    ],
+    "whatWouldChange": "If American automakers announced plans to produce genuinely affordable sub-$25,000 new models in sufficient volume to replace what foreign brands are threatening to withdraw, the bottom line would change. That announcement has not been made and the economics of US-based small car production do not currently support it."
+  }
+}

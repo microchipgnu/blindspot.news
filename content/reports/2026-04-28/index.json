@@ -1,0 +1,42 @@
+{
+  "date": "2026-04-28",
+  "generatedAt": "2026-04-28T08:00:00Z",
+  "reports": [
+    {
+      "id": "iran-hormuz-stalemate",
+      "title": "Iran's Nuclear Sequencing Gambit",
+      "subtitle": "Tehran offers to reopen the Strait of Hormuz now and discuss nuclear issues later. Washington says that is not a deal, it is a surrender.",
+      "category": "conflict"
+    },
+    {
+      "id": "trump-tariff-replacement",
+      "title": "The Tariff Laundering Operation",
+      "subtitle": "The Supreme Court killed Trump's tariffs in February. He is now rebuilding the same wall using legal authority the courts have traditionally not touched.",
+      "category": "power"
+    },
+    {
+      "id": "birthright-citizenship-scotus",
+      "title": "The Allegiance Test",
+      "subtitle": "Trump attended Supreme Court oral arguments on birthright citizenship, becoming the first sitting president to do so. The justices, including his own appointees, told him he was wrong.",
+      "category": "identity"
+    },
+    {
+      "id": "openai-agi-principles",
+      "title": "OpenAI Rewrites Its Contract with the Public",
+      "subtitle": "Sam Altman published five principles for the AGI era. The document replaced a pledge to help competitors if they got close to AGI first. It was not replaced with anything comparable.",
+      "category": "power"
+    },
+    {
+      "id": "usmca-automakers-exit",
+      "title": "Affordable Cars Are Leaving the American Market",
+      "subtitle": "Nissan, Toyota and Hyundai have told the Trump administration that without a USMCA renewal, entry-level models no longer make economic sense to sell in the US.",
+      "category": "power"
+    },
+    {
+      "id": "youth-social-media-bans",
+      "title": "The Enforcement Problem No One Wants to Name",
+      "subtitle": "The UK, Norway, and Manitoba all committed to restricting social media for under-16s this week. Australia, which did it first in December, has found that 70% of affected children still have access.",
+      "category": "decision"
+    }
+  ]
+}
