@@ -1,0 +1,97 @@
+{
+  "id": "iran-guards-seize-power",
+  "date": "2026-04-28",
+  "generatedAt": "2026-04-28T17:55:00Z",
+  "title": "The Supreme Leader Is No Longer Supreme",
+  "subtitle": "Iran's Revolutionary Guards have assumed wartime command authority that formally belongs to Khamenei. The US is negotiating with a government whose actual decision-maker is now different from the one at the table.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["Iran", "IRGC", "Khamenei", "Trump", "ceasefire", "war", "Revolutionary Guards"],
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/middle-east/",
+      "publisher": "Reuters",
+      "angle": "Reported IRGC seizure of wartime command authority and Trump's statement that Iran is 'figuring out its leadership,' signaling Washington has noticed the power shift"
+    },
+    {
+      "url": "https://www.semafor.com",
+      "publisher": "Semafor",
+      "angle": "Covered the stalled peace talks and the detail that the Russian superyacht linked to a Putin ally sailed through the Strait of Hormuz, suggesting coordination between Moscow and Tehran that undercuts the negotiation"
+    }
+  ],
+  "brief": {
+    "actors": ["Iran", "IRGC", "Khamenei", "Trump", "Russia"],
+    "whatHappened": "Iran's Islamic Revolutionary Guard Corps have seized wartime command authority, formally displacing Supreme Leader Ali Khamenei's direct role in military decision-making during the ongoing conflict. Reuters confirmed the shift, describing it as the Guards 'blunting the Supreme Leader's role.' In a parallel development, Trump publicly stated Iran was 'figuring out its leadership,' indicating Washington has independently assessed that the negotiating counterpart has changed. A Russian superyacht linked to a close Putin ally sailed through the Strait of Hormuz in the same 48-hour window, an unusual transit during an active blockade that suggests a Russia-Iran communication channel is operational. Formal US-Iran peace talks have stalled after Trump rejected the latest Iranian proposal.",
+    "bottomLine": "The US is negotiating with Iran's foreign ministry while the IRGC, which has its own objectives and does not answer to diplomats, holds military command. Any deal that the foreign ministry agrees to can be operationally nullified by the Guards the day after it is signed.",
+    "hiddenBets": [
+      {
+        "assumption": "The IRGC power grab is a temporary wartime arrangement that will revert after a ceasefire",
+        "whyItMightBeWrong": "The IRGC has been systematically accumulating economic and political power in Iran for two decades. Each crisis has historically produced a permanent expansion of their institutional authority. A wartime precedent for command override does not get handed back when the war ends."
+      },
+      {
+        "assumption": "Trump's comment that Iran is 'figuring out its leadership' means Washington understands the full implications of the shift",
+        "whyItMightBeWrong": "Trump's comment may reflect awareness of the surface-level news, not operational analysis of whether the IRGC will honor commitments made by the foreign ministry. The US negotiating team is still engaging diplomatic channels as if those channels have authority."
+      },
+      {
+        "assumption": "Russia is a neutral party or minor factor in the Iran negotiations",
+        "whyItMightBeWrong": "The superyacht transit is a message. Russia has a strong interest in the Strait of Hormuz remaining disrupted long enough to keep oil prices elevated and Western attention fragmented. Moscow's financial incentives actively reward an extended stalemate, which means Russia will use any influence with the IRGC to prevent a rapid resolution."
+      }
+    ],
+    "realDisagreement": "The core tension is between treating this as a negotiation problem with a diplomatic solution and treating it as a military control problem without one. The diplomatic position assumes the IRGC will ultimately follow orders from the political leadership once a deal is done; the IRGC's own history suggests they have learned that the opposite is safer. The IRGC's political survival depends on being indispensable, and a successful US-Iran peace deal that normalizes relations would reduce the Guards' institutional power dramatically. They have concrete reasons to prefer a long, low-intensity conflict to a resolution.",
+    "whatNoOneIsSaying": "Khamenei may have consented to the IRGC power shift not because he was forced to but because it gives him plausible deniability if the war ends badly. He can negotiate a deal as 'Supreme Leader' while the IRGC ignores it, then blame the military without taking responsibility for either the war's conduct or its outcome.",
+    "whoPays": [
+      {
+        "who": "Iranian civilian population",
+        "how": "An IRGC in command has historically been less constrained in accepting civilian costs during military operations. Negotiations that might have produced a faster ceasefire are now contingent on the Guards' institutional interests, which do not align with civilian welfare.",
+        "when": "Ongoing, with each week of continued conflict"
+      },
+      {
+        "who": "US diplomats and the Omani/Qatari mediators",
+        "how": "They are investing significant effort into agreements with counterparts who may lack the authority to enforce them. A deal signed by Iran's foreign ministry that the IRGC ignores destroys the credibility of the entire mediation architecture.",
+        "when": "Within days to weeks of any formal agreement announcement"
+      },
+      {
+        "who": "Global shipping and energy markets",
+        "how": "A prolonged stalemate in the Strait of Hormuz with unclear Iranian command authority means insurance markets cannot price the risk accurately, keeping freight costs elevated even in periods of reduced active conflict",
+        "when": "Ongoing for as long as IRGC command authority remains ambiguous"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Parallel Deal",
+        "whatHappens": "The US cuts a back-channel deal directly with IRGC command, bypassing the foreign ministry. The agreement is never published formally. Both sides claim a de facto ceasefire while maintaining public positions that nothing has changed.",
+        "signal": "A prolonged period of reduced naval incidents in the Strait without a formal ceasefire announcement"
+      },
+      {
+        "name": "The Paper Deal",
+        "whatHappens": "Iran's foreign ministry signs a formal ceasefire. The IRGC honors it selectively, continuing low-level operations while maintaining that they are not in violation. The US treats isolated violations as acceptable. The formal deal exists but the actual power structure does not change.",
+        "signal": "Polymarket Iran permanent peace deal market, currently at 1% for April 30, moves to around 30-40% by mid-May while incidents continue"
+      },
+      {
+        "name": "IRGC Escalation",
+        "whatHappens": "The Guards use their command authority to expand operations while diplomatic talks continue, calculating that a broader crisis increases their post-war leverage. Trump issues a 'shoot and kill' order for Iranian ships approaching US assets, which he has already done once.",
+        "signal": "Direct US-Iranian military engagement at sea within the next two weeks"
+      }
+    ],
+    "whatWouldChange": "Direct evidence of IRGC leadership engaging in formal ceasefire negotiations, rather than the foreign ministry operating as the nominal counterpart, would suggest the command structure shift is being acknowledged in the diplomatic channel and that any agreement would have operational backing.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "US x Iran permanent peace deal by April 30, 2026?",
+        "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by",
+        "probability": 0.0105
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will the U.S. invade Iran before 2027?",
+        "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
+        "probability": 0.335
+      }
+    ],
+    "coverImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg",
+      "local": "/images/reports/2026-04-28/iran-guards-seize-power.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

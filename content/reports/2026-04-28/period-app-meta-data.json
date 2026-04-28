@@ -1,0 +1,84 @@
+{
+  "id": "period-app-meta-data",
+  "date": "2026-04-28",
+  "generatedAt": "2026-04-28T17:55:00Z",
+  "title": "The Surveillance App That Knows When You Are Pregnant",
+  "subtitle": "A popular period tracking app has been selling users' health data to Meta. In states where abortion is now a criminal matter, this is not a privacy violation. It is evidence collection.",
+  "topic": "society",
+  "category": "ethics",
+  "tags": ["Meta", "privacy", "period tracking", "abortion", "health data", "surveillance", "FTC"],
+  "sources": [
+    {
+      "url": "https://news.ycombinator.com",
+      "publisher": "Hacker News",
+      "angle": "Surfaced the story from a femtech newsletter investigation; community discussion noted the specific mechanism: Meta Pixel integration allowing behavioral inference even from anonymized data"
+    },
+    {
+      "url": "https://techcrunch.com",
+      "publisher": "TechCrunch",
+      "angle": "Covered the FTC report that consumers lost $2.1B to social media scams in 2025, providing the broader context of health and personal data flowing to advertising platforms without meaningful consent"
+    }
+  ],
+  "brief": {
+    "actors": ["Meta", "FTC", "app developers", "state prosecutors"],
+    "whatHappened": "A period and fertility tracking app has been identified as selling users' health and behavioral data to Meta, according to an investigation by a femtech design newsletter. The data includes menstrual cycle tracking, pregnancy status indicators, and fertility window predictions. The sale appears to operate through Meta's Pixel tracking infrastructure, which embeds in third-party apps and transmits behavioral signals back to Meta's ad targeting systems. Multiple states that have enacted abortion restrictions since Dobbs have statutes that could apply to individuals who aid or abet abortion procedures, and law enforcement in at least three states has previously sought user data from digital health apps in related investigations. The app did not disclose the data sale in terms users would have understood as covering sensitive health information.",
+    "bottomLine": "Users who thought they were tracking their bodies for health were building a database that a prosecutor in a restrictive state can now subpoena. The app is not the threat. The legal framework that makes the data dangerous is.",
+    "hiddenBets": [
+      {
+        "assumption": "Health data sold to advertisers cannot be used in criminal proceedings because it was collected for commercial purposes",
+        "whyItMightBeWrong": "Third-party doctrine: once data is voluntarily shared with a third party, even an ad platform, it loses Fourth Amendment protection. Law enforcement can subpoena Meta for any data that Meta legally holds about a user, including health inferences derived from behavioral tracking. The commercial origin of the data does not create a legal barrier to prosecutorial use."
+      },
+      {
+        "assumption": "HIPAA protects health data shared with apps",
+        "whyItMightBeWrong": "HIPAA applies to covered entities: healthcare providers, health insurers, and their business associates. Period tracking apps that are not integrated with insurance or medical providers are not covered entities. The health data they collect has no federal privacy protection at all. HIPAA is largely irrelevant to this story."
+      },
+      {
+        "assumption": "Meta does not retain or use individual-level health data, only aggregate advertising signals",
+        "whyItMightBeWrong": "Meta's internal data architecture maintains individual-level profiles. The advertising targeting system operates on aggregate categories but the underlying data, including the behavioral signals from period apps, is retained at the individual level. 'Aggregate targeting' and 'individual-level data retention' are not mutually exclusive."
+      }
+    ],
+    "realDisagreement": "The tension is between treating this as a data privacy problem with a privacy law solution and treating it as a criminal justice problem with a different solution. Privacy law advocates argue the answer is comprehensive federal health data protection legislation that closes the HIPAA gap for consumer health apps. The criminal justice framing argues the actual danger is that abortion access is being criminalized in ways that create demand for this surveillance infrastructure: the data sale is only dangerous because of the legal environment. A privacy law solution addresses the data without addressing the prosecution. A reproductive rights solution addresses the prosecution without addressing the underlying surveillance economy. Both arguments are right about different things, which is why the policy has been stuck.",
+    "whatNoOneIsSaying": "The femtech industry has known about this problem for years. Several period tracking apps made headlines after Dobbs for their data practices, and some published privacy commitments. The fact that data sales to Meta are still happening 3.5 years after the Dobbs decision means the industry chose to continue the practice under new public scrutiny, not that they were unaware of it.",
+    "whoPays": [
+      {
+        "who": "App users in states with abortion restrictions",
+        "how": "Their health data, retained by Meta, is legally accessible to state prosecutors through subpoena without requiring the user's consent or knowledge. The data can establish pregnancy and termination in ways that text messages or credit card records cannot.",
+        "when": "In any ongoing or future criminal investigation where the state has jurisdiction"
+      },
+      {
+        "who": "App developers who did not implement the data sale but whose competitors did",
+        "how": "All period tracking apps will face regulatory scrutiny, user distrust, and potential legal liability regardless of their own practices, because the product category is now associated with surveillance",
+        "when": "Over the next 6-12 months as coverage spreads"
+      },
+      {
+        "who": "Women in restrictive states who did not use the specific app named",
+        "how": "The behavioral signals Meta collects from other sources, including purchase data and search patterns, can infer pregnancy status independently of any period app. The specific app story is the visible part of a much broader inference capability.",
+        "when": "Ongoing"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "FTC Action",
+        "whatHappens": "The FTC opens an investigation into the specific app under Section 5 unfair and deceptive practices authority. The company settles for a fine and a consent decree requiring disclosure. The data already sold to Meta is not retrieved. Meta is not named in the action.",
+        "signal": "FTC issues a civil investigative demand to the app company within 60 days"
+      },
+      {
+        "name": "First Prosecution",
+        "whatHappens": "A state prosecutor uses Meta data, obtained via subpoena, as evidence in an abortion-related criminal case. The use is challenged in court, producing the first judicial ruling on whether advertising platform health inferences are admissible evidence.",
+        "signal": "A criminal complaint in a restrictive state that cites app or platform data in its factual basis"
+      },
+      {
+        "name": "Platform Pressure",
+        "whatHappens": "The coverage generates enough user pressure that Meta voluntarily restricts health data from period apps from being used in ad targeting. The data is still retained and legally accessible. Nothing structurally changes.",
+        "signal": "Meta announces 'health sensitivity' restrictions on period tracking data within 30 days, similar to its 2022 post-Dobbs commitments that proved insufficient"
+      }
+    ],
+    "whatWouldChange": "Federal comprehensive health data privacy legislation that extends HIPAA-style protections to non-covered entities and prohibits law enforcement access to health inferences without a warrant based on probable cause, would substantially change the risk calculus. The current congressional landscape makes that outcome unlikely in the near term.",
+    "markets": [],
+    "coverImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg",
+      "local": "/images/reports/2026-04-28/period-app-meta-data.jpg",
+      "credit": "Wikimedia Commons"
+    }
+  }
+}

@@ -73,6 +73,36 @@
       "title": "The Memorial That Normalizes a New Alliance",
       "subtitle": "Kim Jong Un opened a memorial for North Korean soldiers killed in Ukraine. Russia's defense minister was there. Both sides are advertising a military relationship they previously denied existed.",
       "category": "conflict"
+    },
+    {
+      "id": "google-pentagon-ai-deal",
+      "title": "Google Signs Away Its Ethics Policies",
+      "subtitle": "Google and the Pentagon have agreed on a contract allowing 'any lawful' use of Google AI by the military. The word 'lawful' is doing enormous work in that sentence.",
+      "category": "power"
+    },
+    {
+      "id": "fcc-abc-broadcast-licenses",
+      "title": "The Regulator as Weapon",
+      "subtitle": "The FCC is threatening to challenge ABC's broadcast licenses because a comedian made a joke the president disliked. The licensing process has never been used this way. That is the point.",
+      "category": "power"
+    },
+    {
+      "id": "australia-news-bargaining-incentive",
+      "title": "The Tax That Has No Escape Hatch",
+      "subtitle": "Australia's new news levy charges Google, Meta, and TikTok for journalism whether they carry it or not. Meta already tried removing news to avoid paying. This time, that does not work.",
+      "category": "power"
+    },
+    {
+      "id": "iran-guards-seize-power",
+      "title": "The Supreme Leader Is No Longer Supreme",
+      "subtitle": "Iran's Revolutionary Guards have assumed wartime command authority that formally belongs to Khamenei. The US is negotiating with a government whose actual decision-maker is now different from the one at the table.",
+      "category": "conflict"
+    },
+    {
+      "id": "period-app-meta-data",
+      "title": "The Surveillance App That Knows When You Are Pregnant",
+      "subtitle": "A popular period tracking app has been selling users' health data to Meta. In states where abortion is now a criminal matter, this is not a privacy violation. It is evidence collection.",
+      "category": "ethics"
     }
   ]
 }

@@ -118,6 +118,44 @@
           "relationship": "Iran's foreign minister visiting Moscow for Middle East war consultations, while Russia hosts North Korea's defense minister, means Putin is simultaneously the patron of three different military campaigns on three continents. The question Russia cannot answer publicly is whether it has the capacity and the will to honor all three relationships when they conflict."
         }
       ]
+    },
+    {
+      "id": "ethics-overridden-by-power",
+      "title": "Institutional Ethics Constraints Are Being Removed at the Same Moment They Are Most Needed",
+      "description": "Three stories today are about organizations removing or bypassing their own ethical oversight precisely as the stakes for having it increase. Google eliminated its AI ethics constraints for the military contract just as AI capability deployed in warfare is becoming decisive. Iran's IRGC displaced the civilian command structure that would have provided political accountability for ceasefire decisions. The FCC is removing the implied constraint that broadcast license reviews require actual policy violations, not just political displeasure. The pattern is not coincidence: in each case, the entity with operational power has calculated that the ethics layer costs more than it protects.",
+      "type": "tension-cluster",
+      "stories": ["google-pentagon-ai-deal", "iran-guards-seize-power", "fcc-abc-broadcast-licenses"],
+      "connections": [
+        {
+          "from": "google-pentagon-ai-deal",
+          "to": "iran-guards-seize-power",
+          "relationship": "Google removed the civilian ethics review that constrained how its AI could be used by the military. Iran's IRGC removed the civilian political leadership that constrained how military force could be used in the war. Both substitutions replace accountable oversight with operational command that answers to its own objectives."
+        },
+        {
+          "from": "fcc-abc-broadcast-licenses",
+          "to": "google-pentagon-ai-deal",
+          "relationship": "The FCC's weaponization of the license review process and Google's Pentagon deal are both examples of regulatory and ethical constraints being converted from binding rules into negotiating leverage. In both cases, the formal constraint still exists on paper but has been emptied of its practical function."
+        }
+      ]
+    },
+    {
+      "id": "surveillance-infrastructure-convergence",
+      "title": "Three Different Actors Are Building the Same Surveillance Infrastructure for Different Reasons",
+      "description": "The period tracking app story, the China-blocks-Manus story, and the FCC-ABC story are not obviously connected, but they describe the same underlying construction: detailed behavioral surveillance infrastructure that can be redirected to control or prosecute individuals once the political will to use it exists. Meta has health inference data that state prosecutors can subpoena. Beijing has demonstrated it can freeze the founders of Chinese-origin AI companies and their overseas assets. The FCC's broadcast license threat works through the documented fact that regulators can make compliance so expensive that self-censorship is the rational response. All three represent surveillance and control capacity being built or activated in 2026 that did not exist or had not been exercised in 2022.",
+      "type": "dependency-web",
+      "stories": ["period-app-meta-data", "china-blocks-meta-manus", "fcc-abc-broadcast-licenses"],
+      "connections": [
+        {
+          "from": "period-app-meta-data",
+          "to": "fcc-abc-broadcast-licenses",
+          "relationship": "Both stories depend on the same mechanism: private companies accumulating detailed behavioral data that a government entity can then access or activate against individuals and organizations. Meta holds health data that prosecutors can subpoena. The FCC holds broadcast license authority that the executive branch can deploy against political targets. The private infrastructure becomes a government instrument."
+        },
+        {
+          "from": "china-blocks-meta-manus",
+          "to": "period-app-meta-data",
+          "relationship": "Beijing's ability to retroactively assert sovereignty over Chinese-origin technology and its founders is structurally parallel to state prosecutors' ability to use health data from American apps to retroactively criminalize personal decisions. Both represent governments discovering that data and corporate authority accumulated during a permissive period can be turned into enforcement instruments without new legislation."
+        }
+      ]
     }
   ]
 }
