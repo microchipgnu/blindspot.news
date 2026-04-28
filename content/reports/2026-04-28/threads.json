@@ -156,6 +156,39 @@
           "relationship": "Beijing's ability to retroactively assert sovereignty over Chinese-origin technology and its founders is structurally parallel to state prosecutors' ability to use health data from American apps to retroactively criminalize personal decisions. Both represent governments discovering that data and corporate authority accumulated during a permissive period can be turned into enforcement instruments without new legislation."
         }
       ]
+    },
+    {
+      "id": "prosecution-as-political-instrument",
+      "title": "Indictment Without Intent to Convict Is the New Policy Tool",
+      "description": "The Comey seashell indictment and the FCC broadcast license threat are both examples of the same political technology: use the formal apparatus of legal or regulatory action to impose costs and signal danger to opponents without ever needing to win on the merits. Comey's first indictment was dismissed. The second will likely be dismissed too. The FCC's review of ABC's licenses has no precedent and may never produce revocation. In both cases, the goal is not the outcome but the process: every defendant must pay for their defense, every broadcaster must calculate the cost of displeasing the administration, and the legal system is converted from a constraint on power into a tool of it.",
+      "type": "tension-cluster",
+      "stories": ["comey-second-indictment", "fcc-abc-broadcast-licenses"],
+      "connections": [
+        {
+          "from": "comey-second-indictment",
+          "to": "fcc-abc-broadcast-licenses",
+          "relationship": "Both actions target political expression: Comey's Instagram post and Kimmel's joke. Neither case will likely succeed on its merits. Both succeed in their actual purpose by demonstrating that criticism of the president carries institutional costs regardless of constitutional protection, and that the administration is willing to absorb the embarrassment of a legal loss in exchange for the deterrence value of the threat."
+        }
+      ]
+    },
+    {
+      "id": "pakistan-iran-contradiction",
+      "title": "The US Is Buying Its Iran Diplomacy with Pakistani Impunity in Afghanistan",
+      "description": "Pakistan is mediating US-Iran nuclear talks while simultaneously striking Afghan civilians during a ceasefire it nominally accepted. The US cannot press Pakistan on the Kunar university bombing without risking the diplomatic channel it needs for Iran. The Russia superyacht story and the Iran hormuz stalemate both show Iran managing selective relationships to extract maximum value. Pakistan is doing the same thing at a smaller scale: its indispensability to US Iran diplomacy buys it latitude in Afghanistan that China's ceasefire brokerage alone cannot constrain. The US's Iran strategy is being subsidized by Afghan civilian casualties that the administration will not publicly acknowledge.",
+      "type": "dependency-web",
+      "stories": ["pakistan-strikes-kunar", "hormuz-russia-passage", "iran-hormuz-stalemate"],
+      "connections": [
+        {
+          "from": "pakistan-strikes-kunar",
+          "to": "iran-hormuz-stalemate",
+          "relationship": "Pakistan is the diplomatic conduit the US is using for Iran nuclear talks. Its indispensability to that process protects it from US pressure over Afghan civilian casualties, just as Iran's control of Hormuz protects it from consequences for selective enforcement that benefits Russia. Both actors are leveraging their position as necessary intermediaries to extract impunity for actions the US would otherwise object to."
+        },
+        {
+          "from": "hormuz-russia-passage",
+          "to": "pakistan-strikes-kunar",
+          "relationship": "Iran's selective Hormuz passage for Russian-aligned vessels and Pakistan's continued strikes despite a Chinese-brokered ceasefire both demonstrate the same dynamic: when a party controls something the US needs (Hormuz access for negotiations, Pakistan-hosted diplomatic channels), they can take aggressive actions in adjacent theaters without facing the costs those actions would normally impose."
+        }
+      ]
     }
   ]
 }

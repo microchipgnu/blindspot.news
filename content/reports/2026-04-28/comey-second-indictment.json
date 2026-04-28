@@ -1,0 +1,97 @@
+{
+  "id": "comey-second-indictment",
+  "date": "2026-04-28",
+  "generatedAt": "2026-04-28T22:45:00Z",
+  "title": "The Seashell Prosecution",
+  "subtitle": "The DOJ just charged James Comey with threatening the president's life based on a photo of beach shells. Legal experts call it an embarrassment. The administration is calling it justice.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["DOJ", "Comey", "Trump", "free speech", "political prosecution"],
+  "coverImage": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ac/live/c284d420-4347-11f1-bd52-e755d604ece4.png",
+    "local": "/images/reports/2026-04-28/comey-second-indictment.jpg",
+    "credit": "BBC News"
+  },
+  "sources": [
+    {
+      "url": "https://www.bbc.com/news/articles/cvgz4rvlem5o",
+      "publisher": "BBC News",
+      "angle": "Straightforward reporting of the charge; includes Comey's denial and legal expert assessments calling the case constitutionally weak"
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/cz027nyz529o",
+      "publisher": "BBC News (trial coverage)",
+      "angle": "Coverage of the concurrent Musk-Altman trial underscores the DOJ action fits a pattern of administration targeting perceived adversaries"
+    }
+  ],
+  "brief": {
+    "actors": ["Comey", "Trump", "DOJ", "Kash Patel", "Todd Blanche"],
+    "whatHappened": "Former FBI Director James Comey was indicted Tuesday on charges of threatening the president's life, based on a May 2025 Instagram photo he shared showing seashells arranged in the shape of '86 47.' The administration argues '86' is slang for eliminating someone and '47' refers to Trump as the 47th president. This is the second indictment of Comey; the first, on charges he lied to Congress, was dismissed in November 2025 when a judge ruled the special prosecutor lacked legal authority to bring the charges. Comey says he did not know what the numbers meant when he shared someone else's photo, deleted it upon being told, and called the new charges an attempt at intimidation.",
+    "bottomLine": "The administration is not trying to convict Comey; it is trying to demonstrate that opposing Trump carries a prosecutorial price, and the cost of a failed case is zero.",
+    "hiddenBets": [
+      {
+        "assumption": "That a jury will eventually convict Comey, making this a legitimate prosecution",
+        "whyItMightBeWrong": "The first indictment collapsed for procedural reasons before trial. Legal scholars across the spectrum call this one weaker. A 58% market chance of the charges being dropped by May 31 suggests the legal community already smells retreat. The DOJ gains nothing from a trial it loses publicly."
+      },
+      {
+        "assumption": "That Comey is uniquely targeted and this is an isolated case",
+        "whyItMightBeWrong": "The same week, the FCC is threatening ABC's broadcast licenses over a comedian's joke, and ICE is using no-fly zones to obscure its operations. The Comey indictment is not isolated; it is part of a coordinated institutional pressure campaign that works even when individual cases fail."
+      },
+      {
+        "assumption": "That the case tests free speech law",
+        "whyItMightBeWrong": "Courts may never rule on the merits. The DOJ can drag the case out, create legal costs for Comey, dominate news cycles with each filing, and then quietly drop the charges after achieving its political objectives. A verdict is not the goal."
+      }
+    ],
+    "realDisagreement": "Either the rule of law still operates as a check on executive branch targeting of political opponents, or it has already been successfully degraded to the point where the distinction between prosecution and persecution no longer constrains behavior. The disagreement is not over whether this case is legally thin; almost everyone concedes it is. The disagreement is over whether that matters. Polymarket gives a 10% chance Comey is actually sentenced to prison in 2026. The market has correctly identified that this is theater, not justice. But theater that costs Comey money, time, and stress achieves the administration's actual goal regardless of outcome.",
+    "whatNoOneIsSaying": "The DOJ knows the case will likely be dismissed again. The point is to normalize the use of indictment as a tool of political communication, so that the next target calculates the cost of public dissent before speaking.",
+    "whoPays": [
+      {
+        "who": "Comey specifically, and former officials broadly",
+        "how": "Legal defense costs, public harassment, and the chilling effect of knowing that any ambiguous public statement can generate a federal charge",
+        "when": "Immediate and ongoing through trial"
+      },
+      {
+        "who": "Federal career officials considering public criticism",
+        "how": "The signal is clear: post-administration criticism of a sitting president carries prosecutorial risk. Self-censorship by people with knowledge of government wrongdoing is the mechanism",
+        "when": "Already operating; accelerates as this case proceeds"
+      },
+      {
+        "who": "DOJ institutional credibility",
+        "how": "Former prosecutors and Republican-appointed judges are publicly calling the case embarrassing. The Department loses respect from the legal community it depends on for cooperation",
+        "when": "Slow burn over months"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Quiet Dismissal",
+        "whatHappens": "The case collapses on procedural or constitutional grounds within 60 days, as the first one did. The administration claims partial victory by pointing to the indictment itself.",
+        "signal": "The assigned prosecutor lacks Senate confirmation; watch for another defense motion challenging appointment authority"
+      },
+      {
+        "name": "Drawn-Out Intimidation",
+        "whatHappens": "The case proceeds slowly through pre-trial motions for 6-12 months, generating legal costs and news cycles, before being dropped or failing at trial.",
+        "signal": "DOJ requests continuances and delays rather than pushing for a fast trial date"
+      },
+      {
+        "name": "Constitutional Ruling",
+        "whatHappens": "A federal judge rules on the merits of whether sharing an ambiguous social media image constitutes a criminal threat, establishing precedent that either limits or expands prosecutorial discretion in social media cases.",
+        "signal": "Judge declines to dismiss on procedural grounds and schedules substantive hearings on First Amendment defenses"
+      }
+    ],
+    "whatWouldChange": "Evidence that Comey privately communicated knowledge of the '86' meaning before posting, or communicated intent. Absent that, this case cannot survive serious constitutional scrutiny and the bottom line holds.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "James Comey charges dropped by May 31?",
+        "url": "https://polymarket.com/event/james-comey-charges-dropped-by-may-31",
+        "probability": 0.585
+      },
+      {
+        "platform": "Polymarket",
+        "question": "James Comey sentenced to Prison in 2026?",
+        "url": "https://polymarket.com/event/james-comey-sentenced-to-prison-in-2026",
+        "probability": 0.1
+      }
+    ]
+  }
+}

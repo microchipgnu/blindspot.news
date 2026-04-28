@@ -1,0 +1,102 @@
+{
+  "id": "hormuz-russia-passage",
+  "date": "2026-04-28",
+  "generatedAt": "2026-04-28T22:50:00Z",
+  "title": "The Strait Has a Special Lane",
+  "subtitle": "A $500 million Russian oligarch superyacht sailed through the Hormuz blockade this weekend. Iran stops everyone else. Russia's ally went through without incident.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["Iran", "Russia", "Hormuz", "sanctions", "oil", "shipping"],
+  "coverImage": {
+    "url": "https://static01.nyt.com/images/2026/04/28/multimedia/28int-hormuz-yacht-pgjl/28int-hormuz-yacht-pgjl-mediumSquareAt3X.jpg",
+    "local": "/images/reports/2026-04-28/hormuz-russia-superyacht.jpg",
+    "credit": "Reuters / New York Times"
+  },
+  "sources": [
+    {
+      "url": "https://www.bbc.com/news/articles/cm2pn8zdxdjo",
+      "publisher": "BBC News",
+      "angle": "Reports the passage as a fait accompli, notes Iran's diplomatic engagement with Russia this week and the simultaneous stalling of US negotiations"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/04/28/world/middleeast/yacht-strait-hormuz-russia-oligarch.html",
+      "publisher": "New York Times",
+      "angle": "Focuses on sanctions evasion history of the Nord; notes the yacht is linked to Mordashov, a key Putin ally under Western sanctions since 2022"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/04/28/business/iran-war-strait-of-hormuz-ship-crossing.html",
+      "publisher": "New York Times",
+      "angle": "Notes a UAE state oil company's LNG tanker also crossed, suggesting Iran is selectively enforcing the blockade based on political relationships, not blanket closure"
+    }
+  ],
+  "brief": {
+    "actors": ["Iran", "Russia", "Mordashov", "US", "UAE", "Centcom"],
+    "whatHappened": "The Nord, a 142-meter superyacht linked to sanctioned Russian billionaire Alexei Mordashov, sailed from Dubai to Muscat via the Strait of Hormuz last weekend. This makes it one of the very few private vessels to transit the strait since Iran began its blockade in February in response to US and Israeli strikes. Iran's Foreign Minister simultaneously met with Putin in St. Petersburg, and Iranian officials praised their 'strategic partnership' with Russia. The same week, US-Iran nuclear negotiations stalled and the US Treasury issued new sanctions on Iran's oil trade. A separately tracked LNG tanker operated by Abu Dhabi's state oil company also crossed the strait, suggesting Iran is maintaining selective passage for allied and neutral vessels.",
+    "bottomLine": "The Hormuz blockade is not a closure. It is a tariff system where the price of passage is political alignment, and Iran is openly charging it.",
+    "hiddenBets": [
+      {
+        "assumption": "That the Hormuz blockade is a uniform strategic barrier designed to pressure the West",
+        "whyItMightBeWrong": "The selective passage of Russian-linked and UAE-linked vessels reveals that Iran is managing the strait as a political instrument, not closing it. A true closure would block all traffic. Selective enforcement is more lucrative and more revealing of actual alignments."
+      },
+      {
+        "assumption": "That Western sanctions on Russia and the US pressure campaign on Iran are operating in separate lanes",
+        "whyItMightBeWrong": "Mordashov is under US, UK, and EU sanctions. His yacht using an Iran-controlled passage route to evade Western tracking is exactly how sanction regimes collapse: each exception is individually defensible and collectively lethal to the system."
+      },
+      {
+        "assumption": "That the US-Iran nuclear talks and the Iran-Russia partnership are parallel but unconnected",
+        "whyItMightBeWrong": "Iran's meetings with Putin in St. Petersburg this week are almost certainly coordinating positions before any US deal. Russia has a direct interest in preventing a US-Iran normalization that would flood oil markets, cut Iranian dependence on Russian trade routes, and reduce Russian leverage. The timing is not coincidental."
+      }
+    ],
+    "realDisagreement": "Either the US and its allies can maintain sanction pressure on both Iran and Russia simultaneously while negotiating with both, or the two tracks are already undermining each other. Trying to pressure Iran while Russia faces no real enforcement of its own sanctions gives Iran every reason to deepen the Russia relationship rather than concede to US demands. The US cannot have a credible Iran pressure campaign while Mordashov's yacht sails through waters Iran controls. The market gives only a 4% chance Iran agrees to unrestricted Hormuz shipping in April: the blockade, with its selective exceptions, is Iran's most valuable bargaining chip and they are not giving it up until they receive something real.",
+    "whatNoOneIsSaying": "Iran's selective passage policy is more dangerous than a total blockade would be, because it forces every country in the region to individually negotiate its alignment with Tehran, fracturing any unified Western response.",
+    "whoPays": [
+      {
+        "who": "Global shipping insurers and the countries dependent on Middle East LNG",
+        "how": "Brent crude at $109/barrel reflects the insurance premium on every cargo that might be blocked. Asian LNG importers, particularly Japan and South Korea, face spot market shortages as fully-loaded tankers avoid the strait",
+        "when": "Ongoing; worsens if the ceasefire collapses entirely"
+      },
+      {
+        "who": "Western sanctions architecture",
+        "how": "Each vessel that transits with Iranian permission despite being linked to sanctioned parties demonstrates that sanctions enforcement stops where Iranian interests begin. The credibility loss compounds",
+        "when": "Each passage sets a precedent; cumulative damage over months"
+      },
+      {
+        "who": "Countries trying to remain neutral",
+        "how": "States like India, Turkey, and Gulf states that trade with both sides face increasing pressure from Iran to formally declare their alignment in exchange for assured passage",
+        "when": "Immediate; each transit negotiation is a political statement"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Selective Corridor Hardens",
+        "whatHappens": "Iran formalizes its multi-tier passage system, charging different transit 'fees' (political or economic) to different flags, effectively running the strait as a geopolitical toll booth.",
+        "signal": "Iran issues explicit passage agreements with specific countries rather than enforcing blanket restrictions"
+      },
+      {
+        "name": "Nuclear Deal Unlocks Strait",
+        "whatHappens": "A US-Iran framework deal includes Hormuz reopening as a near-term deliverable, with the yacht episode and selective passages used by Iran to demonstrate it holds real leverage worth buying.",
+        "signal": "Market odds for a June 30 nuclear deal are at 35%; watch for a formal US-Iran meeting announcement in Oman or a third-party country"
+      },
+      {
+        "name": "US Military Enforcement",
+        "whatHappens": "Centcom intercepts a vessel that has been cleared by Iran, triggering a direct confrontation over transit rights and forcing Iran to choose between backing down and military escalation.",
+        "signal": "Centcom publicly announces it has turned back or intercepted a vessel previously announced as Iran-cleared"
+      }
+    ],
+    "whatWouldChange": "If it emerged that the Nord paid Iran directly for passage rights, the US would face immediate domestic pressure to either sanction Iran explicitly for facilitating sanctions evasion or admit the pressure campaign has already lost effectiveness.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Iran agrees to unrestricted shipping through Hormuz in April?",
+        "url": "https://polymarket.com/event/iran-agrees-to-unrestricted-shipping-through-hormuz-in-april",
+        "probability": 0.0385
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US-Iran nuclear deal by June 30?",
+        "url": "https://polymarket.com/event/us-iran-nuclear-deal-by-june-30",
+        "probability": 0.345
+      }
+    ]
+  }
+}

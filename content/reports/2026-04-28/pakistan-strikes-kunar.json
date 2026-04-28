@@ -1,0 +1,91 @@
+{
+  "id": "pakistan-strikes-kunar",
+  "date": "2026-04-28",
+  "generatedAt": "2026-04-28T23:05:00Z",
+  "title": "The Ceasefire Mediator Bombs a University",
+  "subtitle": "Pakistan is mediating the US-Iran nuclear talks. It is also striking Afghan universities while a ceasefire with Kabul is supposed to be holding. These two facts are not separate.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["Pakistan", "Afghanistan", "Taliban", "ceasefire", "Iran", "US"],
+  "coverImage": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f21e/live/4a6900b0-4248-11f1-85a4-6fbea57c2af5.jpg",
+    "local": "/images/reports/2026-04-28/pakistan-strikes-afghanistan.jpg",
+    "credit": "BBC News"
+  },
+  "sources": [
+    {
+      "url": "https://www.bbc.com/news/articles/cvg0gxrgklro",
+      "publisher": "BBC News",
+      "angle": "Detailed account of the Kunar strikes, the Taliban's public denunciation as 'war crimes,' Pakistan's denial, and the fragility of the Chinese-brokered ceasefire"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/04/28/world/asia/afghanistan-pakistan-university-strike.html",
+      "publisher": "New York Times",
+      "angle": "Reports Pakistan has been 'waging open war' on Afghanistan; notes four killed and 70 injured including students and professors, and describes the strikes as breaking the ceasefire silence"
+    }
+  ],
+  "brief": {
+    "actors": ["Pakistan", "Taliban", "Afghanistan", "China", "US", "Iran"],
+    "whatHappened": "Pakistani strikes on Afghanistan's Kunar province killed at least seven people and injured 75 on Monday, including students and a professor at Kunar University. The Taliban's deputy spokesman publicly condemned the strikes as 'grave war crimes,' breaking a deliberate silence the Taliban had maintained throughout a fragile ceasefire brokered by China in April after talks in Urumqi. Pakistan denied striking civilian areas. The Kunar attacks follow a Pakistani air strike in March that the UN confirmed killed 269 people at a Kabul drug rehabilitation center. Pakistan frames all its strikes as targeting Pakistani Taliban militants operating from Afghan soil. The Taliban are simultaneously hosting mediation channels for the US-Iran nuclear negotiations, with Trump envoys Witkoff and Kushner reportedly planning to travel to Pakistan for Iran talks.",
+    "bottomLine": "Pakistan is simultaneously acting as the diplomatic channel the US needs for Iran talks and as the military aggressor that is destroying its own diplomatic usefulness by bombing Afghan civilians.",
+    "hiddenBets": [
+      {
+        "assumption": "That Pakistan's counterterrorism strikes and its diplomatic role in Iran talks are separable",
+        "whyItMightBeWrong": "The Taliban are the Afghan government. The US needs Pakistan's cooperation for Iran negotiations. Pakistan's continued strikes on Afghan territory, killing Afghan civilians, are forcing the Taliban to choose between their ceasefire posture and their domestic legitimacy. If the Taliban are seen as allowing Pakistan to bomb their universities while they host American envoys, their domestic standing collapses. The chain of dependency is direct."
+      },
+      {
+        "assumption": "That China's ceasefire brokerage creates a durable constraint on Pakistan's military behavior",
+        "whyItMightBeWrong": "China brokered the Urumqi talks and has leverage over Pakistan through the China-Pakistan Economic Corridor. But the Kunar strikes suggest Pakistan either calculated that China would not enforce the ceasefire terms, or that domestic military pressure from the Pakistani Taliban threat overrides diplomatic exposure. Neither interpretation suggests Chinese mediation is more than paper."
+      },
+      {
+        "assumption": "That the US administration is aware of and can manage the contradiction between relying on Pakistan for Iran talks and Pakistan's Afghan war",
+        "whyItMightBeWrong": "The Trump administration's foreign policy is conducted through personal envoys (Witkoff, Kushner) who operate outside normal State Department channels. There is no obvious mechanism for them to be constraining Pakistan's military actions while simultaneously using Pakistan as a conduit for Iran negotiations. The left hand may not know what the right hand is paying for."
+      }
+    ],
+    "realDisagreement": "Either Pakistan has a genuine security imperative against Pakistani Taliban militants sheltering in Afghanistan that justifies military action even at the cost of ceasefire agreements, or Pakistan is using the terrorist threat as cover to maintain military pressure on a Taliban government it does not want to formally recognize as a peer state. Both things can be partially true and still produce civilian deaths. The Kunar University strike is harder to justify as a counterterrorism operation than a strike on a militant camp. The university attack suggests either terrible targeting discipline or deliberate intimidation of Afghan civilian society.",
+    "whatNoOneIsSaying": "Pakistan's dual role as ceasefire violator and US diplomatic conduit gives Islamabad extraordinary leverage over the US: it can threaten to walk away from Iran mediation if the US presses it on Afghan civilian casualties. The US almost certainly knows this and has already decided Iran is worth more than accountability for Kunar.",
+    "whoPays": [
+      {
+        "who": "Afghan civilians in Kunar",
+        "how": "Direct: killed and injured in strikes. Indirect: the university's infrastructure destroyed limits educational access in a province that had almost none before",
+        "when": "Immediate"
+      },
+      {
+        "who": "The China-brokered ceasefire framework",
+        "how": "The Taliban's public condemnation of the strikes as war crimes, after weeks of deliberate silence, signals the ceasefire is functionally over. Future Chinese-brokered peace processes in the region will carry a lower credibility premium",
+        "when": "Immediate"
+      },
+      {
+        "who": "US diplomatic credibility in the region",
+        "how": "Using Pakistan as an Iran talks conduit while Pakistan bombs Afghan civilians associates US policy with both the strikes and the silence about them. Countries watching this calculate that US security relationships exempt partners from civilian protection norms",
+        "when": "Medium-term: visible in how regional states engage with US proposals"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Iran Talks Absorb the Contradiction",
+        "whatHappens": "The US continues Iran negotiations through Pakistan, applies no meaningful pressure over Kunar, and the Taliban absorb the strikes while publicly condemning them, preserving the channel Pakistan provides.",
+        "signal": "US envoys travel to Islamabad as planned and no State Department statement on the university strike is issued"
+      },
+      {
+        "name": "Taliban Exit from Mediation",
+        "whatHappens": "The Taliban, facing domestic pressure after the university strike, withdraw or limit cooperation with Pakistan-hosted diplomatic channels, including those used for Iran talks. The US loses a conduit.",
+        "signal": "Taliban announce suspension of diplomatic engagements hosted in Pakistan within two weeks"
+      },
+      {
+        "name": "Chinese Enforcement",
+        "whatHappens": "China uses CPEC leverage to force Pakistan to halt strikes as a condition of continued economic support, demonstrating that it can actually enforce its mediation.",
+        "signal": "Chinese foreign ministry issues a specific condemnation of the Kunar strikes and requests a Pakistan explanation through diplomatic channels"
+      }
+    ],
+    "whatWouldChange": "If the US publicly conditioned its Pakistan cooperation on a halt to strikes against Afghan civilian infrastructure, Pakistan would face a real choice. Currently it faces none.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Pakistan x Afghanistan ceasefire by April 30?",
+        "url": "https://polymarket.com/event/pakistan-x-afghanistan-ceasefire-by-march-31",
+        "probability": 0.065
+      }
+    ]
+  }
+}

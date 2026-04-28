@@ -103,6 +103,36 @@
       "title": "The Surveillance App That Knows When You Are Pregnant",
       "subtitle": "A popular period tracking app has been selling users' health data to Meta. In states where abortion is now a criminal matter, this is not a privacy violation. It is evidence collection.",
       "category": "ethics"
+    },
+    {
+      "id": "comey-second-indictment",
+      "title": "The Seashell Prosecution",
+      "subtitle": "The DOJ just charged James Comey with threatening the president's life based on a photo of beach shells. Legal experts call it an embarrassment. The administration is calling it justice.",
+      "category": "power"
+    },
+    {
+      "id": "hormuz-russia-passage",
+      "title": "The Strait Has a Special Lane",
+      "subtitle": "A $500 million Russian oligarch superyacht sailed through the Hormuz blockade this weekend. Iran stops everyone else. Russia's ally went through without incident.",
+      "category": "conflict"
+    },
+    {
+      "id": "ukraine-israel-stolen-grain",
+      "title": "Israel Is Buying Russia's War Dividend",
+      "subtitle": "Ukraine says Israeli ports are unloading grain Russia stole from occupied Ukrainian territory. Israel says submit evidence through proper channels. Four ships have already been cleared to leave.",
+      "category": "conflict"
+    },
+    {
+      "id": "canada-borrowed-wealth-fund",
+      "title": "Canada's Sovereign Debt Fund",
+      "subtitle": "Mark Carney announced a sovereign wealth fund this week. Norway built its fund from oil surpluses. Canada plans to build its fund from borrowed money. Those are not the same thing.",
+      "category": "decision"
+    },
+    {
+      "id": "pakistan-strikes-kunar",
+      "title": "The Ceasefire Mediator Bombs a University",
+      "subtitle": "Pakistan is mediating the US-Iran nuclear talks. It is also striking Afghan universities while a ceasefire with Kabul is supposed to be holding. These two facts are not separate.",
+      "category": "conflict"
     }
   ]
 }
