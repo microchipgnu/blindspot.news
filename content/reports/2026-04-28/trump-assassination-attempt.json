@@ -1,0 +1,96 @@
+{
+  "id": "trump-assassination-attempt",
+  "date": "2026-04-28",
+  "generatedAt": "2026-04-28T13:45:00Z",
+  "title": "The Security Theater Problem",
+  "subtitle": "A gunman walked through a Secret Service checkpoint at the White House Correspondents Dinner carrying a shotgun, a handgun, and three knives. A vest saved the agent. A review will save no one from the next one.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["Trump", "Secret Service", "political violence", "security", "assassination"],
+  "coverImage": {
+    "url": "https://static01.nyt.com/images/2026/04/27/multimedia/27int-iraq-1-mqfv/27int-iraq-1-mqfv-mediumSquareAt3X.jpg",
+    "local": "/images/reports/2026-04-28/trump-assassination-attempt.jpg",
+    "credit": "New York Times"
+  },
+  "sources": [
+    {
+      "url": "https://www.bbc.com/news/articles/cew7wez72vxo",
+      "publisher": "BBC News",
+      "angle": "Court proceedings: Allen charged with attempted assassination, crossed state lines, sent email listing administration officials as targets ranked by seniority, remained uncooperative with investigators"
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/cje4eeyq27lo",
+      "publisher": "BBC News",
+      "angle": "Third alleged assassination attempt on Trump in two years; analysis of how US political violence has accelerated; security review announced"
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/c392knk3w2jo",
+      "publisher": "BBC News",
+      "angle": "Local reactions in suspect's California neighborhood; notes his CalTech education and church attendance; donated $25 to Kamala Harris PAC in 2024"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Secret Service", "Cole Allen"],
+    "whatHappened": "On Saturday April 26, Cole Tomas Allen, 31, a California man with a master's degree from Caltech, charged through a security checkpoint at the Washington Hilton during the White House Correspondents' Association dinner. He was carrying a pump-action shotgun, a semi-automatic handgun, and three knives. A Secret Service agent shot in the chest survived because of a ballistic vest. Allen was arrested after Secret Service returned fire. He sent an email to family before the attack listing administration officials as targets ranked by seniority and stating he would 'go through most everyone' to reach them. He was charged Monday with attempted assassination of the president, which carries a potential life sentence. It is the third alleged assassination attempt against Trump since 2024.",
+    "bottomLine": "The security failure is not that the attack happened. It is that the checkpoint system at a major presidential event had no ID requirement, no ballistic screening on an upper floor, and a design that placed a threat vector one level above the event. The review will produce a report; the structural incentives that produce these checkpoints will not change.",
+    "hiddenBets": [
+      {
+        "assumption": "This is primarily a story about one radicalized individual",
+        "whyItMightBeWrong": "Three alleged assassination attempts in two years is not a distribution that fits the base rate of lone-actor political violence. The more relevant question is whether the political temperature in the United States has produced a cohort of people who have independently decided lethal action is justified, and whether there are more of them than the security apparatus can monitor."
+      },
+      {
+        "assumption": "The security review will produce meaningful changes",
+        "whyItMightBeWrong": "The Secret Service has conducted reviews after each of the prior two alleged attempts. Each review produces new protocols; each protocol adds procedural overhead that the actual event preparation must then route around. The Washington Hilton's defense, that it followed Secret Service instructions, is itself evidence that the instructions were inadequate. Reviews that focus on protocol rather than design will iterate without improving."
+      },
+      {
+        "assumption": "Allen's political donation to Harris proves his motive was partisan",
+        "whyItMightBeWrong": "His email listed 'administration officials' as targets ranked by seniority, not specifically Trump. The phrase suggests he may have been targeting the concentration of power rather than a single partisan figure. Framing the attack as left-wing political violence is politically convenient for both parties for different reasons and may not be analytically accurate."
+      }
+    ],
+    "realDisagreement": "The genuine tension is between two security philosophies that cannot both be right. The first: the president should be protected by restricting his public presence and creating hardened, controlled environments. The second: the president's legitimacy depends on public accessibility and the optics of a fortified head of state undermines democratic norms. The Correspondents' Dinner represents the second approach: a large civilian gathering with mixed security where the president's attendance is itself a statement. After three alleged attempts, the second philosophy looks increasingly untenable. But the first one has costs: it changes what kind of president Trump can be and what kind of democracy the US visibly has.",
+    "whatNoOneIsSaying": "A presidential security regime that concentrates the president, vice president, and most of the cabinet in a single hotel ballroom is an extraordinary single point of failure. Whatever the individual attacker's capabilities, the event design itself required that the entire US executive succession be neutralized simultaneously with one successfully placed device. The question no review will ask is whether that event format should exist at all.",
+    "whoPays": [
+      {
+        "who": "Secret Service agents",
+        "how": "The agent shot was wearing a vest that worked. Future events may involve threats that vests do not stop. The weight of protecting a high-profile target under the current event formats falls on individual agents whose protective value is advertised but whose actual vulnerability is not",
+        "when": "Ongoing"
+      },
+      {
+        "who": "Media organizations at the dinner",
+        "how": "The Correspondents' Dinner exists as a tradition of press-White House proximity that legitimizes both institutions. If it ends or becomes a hardened bunker event, the informal access and norm it represents disappears",
+        "when": "Near-term, pending security review recommendations"
+      },
+      {
+        "who": "Politically motivated individuals being monitored by federal intelligence",
+        "how": "Each high-profile attack increases surveillance of individuals with similar profiles: educated, politically engaged, recent behavioral changes. The FBI's domestic terrorism monitoring apparatus will expand, affecting people who will never act",
+        "when": "Immediate, accelerating"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Review and Continue",
+        "whatHappens": "Security review produces new protocols for ID checks, floor separation, and checkpoint positioning. The Correspondents' Dinner continues in a more hardened format. The underlying political temperature that produces these attempts does not change.",
+        "signal": "Security review report released within 30 days; Correspondents' Association announces modifications rather than cancellation for next year"
+      },
+      {
+        "name": "Format Ends",
+        "whatHappens": "The Correspondents' Association cancels the dinner indefinitely, citing unacceptable risk. The president stops attending large civilian events. A visible norm of democratic accessibility erodes.",
+        "signal": "Correspondents' Association internal discussion about cancellation leaks; White House announces the president will not attend future large mixed-audience events"
+      },
+      {
+        "name": "Successful Attack",
+        "whatHappens": "A subsequent attempt, drawing on lessons from this one, succeeds in causing serious harm. The political response would be without recent precedent.",
+        "signal": "Not directly observable in advance; the signal is the absence of successful interdiction in future events"
+      }
+    ],
+    "whatWouldChange": "If investigation reveals the suspect was in contact with or inspired by an organized network rather than acting fully independently, the story shifts from lone-actor violence to domestic terrorism infrastructure. That finding would change both the legal response and the political framing substantially.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Trump out as President by April 30?",
+        "url": "https://polymarket.com/event/trump-out-as-president-by-april-30",
+        "probability": 0.0015
+      }
+    ]
+  }
+}

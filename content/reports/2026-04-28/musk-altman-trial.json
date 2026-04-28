@@ -1,0 +1,103 @@
+{
+  "id": "musk-altman-trial",
+  "date": "2026-04-28",
+  "generatedAt": "2026-04-28T13:35:00Z",
+  "title": "The AGI Ownership Fight",
+  "subtitle": "The Musk v. Altman trial starts today. The legal question is whether OpenAI betrayed its non-profit mission. The real question is who gets to own the most consequential technology ever built.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["OpenAI", "Musk", "Altman", "AI", "AGI", "xAI", "Microsoft", "trial"],
+  "coverImage": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2441/live/9eec0d50-4246-11f1-b55d-0f258dce1735.png",
+    "local": "/images/reports/2026-04-28/musk-altman-trial.jpg",
+    "credit": "BBC News"
+  },
+  "sources": [
+    {
+      "url": "https://www.bbc.com/news/articles/cn8dedv8w8xo",
+      "publisher": "BBC News",
+      "angle": "Detailed trial background: Musk claims $40m donation was fraudulently induced, wants Altman ousted and billions returned to non-profit arm; judge has signaled skepticism of Musk's motives given his competing AI company"
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/cpqxgxx9nrqo",
+      "publisher": "BBC Technology",
+      "angle": "White House memo accusing Chinese firms of mass AI model distillation; contextualizes the trial within a broader US-China AI competition where OpenAI's ownership structure has strategic implications"
+    }
+  ],
+  "brief": {
+    "actors": ["Musk", "Altman", "OpenAI", "Microsoft", "xAI"],
+    "whatHappened": "The federal trial of Musk v. Altman and OpenAI began April 28 in Oakland, California, before Judge Yvonne Gonzalez Rogers. Musk, who co-founded OpenAI as a non-profit in 2015 and donated roughly $40 million, alleges that Altman and others converted it into a for-profit entity illegally, defrauding him of his contribution. Musk is seeking billions in what his lawyers call wrongful gains and wants Altman removed as CEO. OpenAI counters that Musk agreed to the for-profit pivot but left when denied CEO control, and now seeks to harm a competitor through litigation. A nine-person jury will decide; both Musk and Altman are expected to testify. The company is currently valued near $850 billion and is approaching an IPO.",
+    "bottomLine": "This is not a contract dispute. It is a fight over who controls the institution best-positioned to build the technology that will reshape the global economy. Musk's legal argument is a pretext: the real goal is either to win ownership, destroy a competitor, or use the trial's discovery process to expose OpenAI's internal workings to xAI's strategic benefit.",
+    "hiddenBets": [
+      {
+        "assumption": "Musk is primarily motivated by the non-profit mission he claims to be defending",
+        "whyItMightBeWrong": "Musk runs xAI, OpenAI's direct competitor in the race to AGI. The judge in this case has already noted his conflicted motives. A genuine non-profit advocate would not be demanding that the assets go to fund his own organization or be reorganized in ways that benefit his competitor."
+      },
+      {
+        "assumption": "OpenAI's for-profit structure is what matters here legally",
+        "whyItMightBeWrong": "The legal theory hinges on whether Musk was defrauded when he donated. But if he agreed to the for-profit pivot in 2017 as OpenAI claims, the fraud claim collapses and this becomes a fight over whether not appointing Musk as CEO constituted breach. That is a much weaker claim."
+      },
+      {
+        "assumption": "The trial outcome will determine OpenAI's fate",
+        "whyItMightBeWrong": "Regardless of verdict, the trial's publicity may accelerate OpenAI's IPO plans. Going public provides structural protection against claims that non-profit donors have residual rights over the company. The legal risk may paradoxically speed up the transition Musk says he opposes."
+      }
+    ],
+    "realDisagreement": "The actual fork is between two theories of how transformative technology should be governed. Musk's theory: powerful AI should not be controlled by a for-profit corporation whose incentives are misaligned with humanity; the non-profit structure was the safeguard. Altman's theory: non-profits cannot raise the capital needed to build powerful AI safely, so the for-profit pivot was the only path to keeping OpenAI relevant rather than letting less safety-conscious actors dominate. Both theories have merit. The problem is that Musk is now running a for-profit AI company, which makes his position incoherent unless you read it as: the non-profit safeguard matters, but OpenAI specifically should not hold it.",
+    "whatNoOneIsSaying": "The trial's real winner may be the US government. Discovery will produce the most comprehensive public record ever of how two of the most powerful AI companies in the world were actually built, what their founders believed about AI risk, and what agreements they made with each other and with Microsoft. That information is worth more to policymakers and foreign intelligence services than to either plaintiff or defendant.",
+    "whoPays": [
+      {
+        "who": "OpenAI employees and early investors",
+        "how": "Trial uncertainty delays or complicates the IPO, locking up equity value. Talent retention becomes harder if the company's ownership structure is in legal limbo",
+        "when": "Immediate through the duration of the trial"
+      },
+      {
+        "who": "Microsoft",
+        "how": "Microsoft is a named defendant. Its $13 billion investment in OpenAI faces scrutiny. If courts rule the for-profit conversion was illegal, Microsoft's equity stake and partnership agreements may be impaired",
+        "when": "Verdict-dependent, but legal exposure is immediate"
+      },
+      {
+        "who": "The broader AI safety community",
+        "how": "If Musk wins and the non-profit structure is restored, it will signal that AI governance through non-profit missions is legally binding. If OpenAI wins, it confirms that mission-driven AI organizations can pivot to for-profit without consequences, removing a check on future organizations",
+        "when": "Post-verdict, structural effects over years"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Musk Wins",
+        "whatHappens": "Court orders disgorgement of wrongful gains to OpenAI's non-profit arm and requires governance restructuring. Altman remains CEO but under new constraints. OpenAI's IPO is delayed by 1-2 years. Musk claims a moral victory even if financial damages are small.",
+        "signal": "Judge rules Musk's fraud claim survives summary judgment; jury instructions focus on fiduciary duty rather than just contract terms"
+      },
+      {
+        "name": "OpenAI Wins",
+        "whatHappens": "Jury finds Musk's fraud claim unproven. OpenAI proceeds to IPO at $850 billion valuation. Musk appeals but the company is insulated by public shareholder structure. xAI accelerates its own fundraising narrative as 'the responsible alternative.'",
+        "signal": "Early trial rulings limiting Musk's damages theory; Altman testifies calmly and credibly about the 2017 agreement"
+      },
+      {
+        "name": "Settlement",
+        "whatHappens": "Parties settle for a token restructuring concession from OpenAI and a cash payment to Musk that he donates publicly to AI safety organizations, allowing both sides to claim victory.",
+        "signal": "Judge pushes parties to mediation; settlement talks reported before Musk takes the stand"
+      }
+    ],
+    "whatWouldChange": "If evidence emerges during trial that OpenAI executives privately agreed the non-profit mission was abandoned for profit rather than necessity, that would validate Musk's core claim and shift the legal and public verdict substantially. Absent that, the presumption favors OpenAI.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Elon Musk win his case against Sam Altman?",
+        "url": "https://polymarket.com/event/will-elon-musk-win-his-case-against-sam-altman",
+        "probability": 0.36
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Elon Musk and Sam Altman settle?",
+        "url": "https://polymarket.com/event/will-elon-musk-and-sam-altman-settle",
+        "probability": 0.31
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Elon Musk wins $10b+ settlement against Altman/OpenAI?",
+        "url": "https://polymarket.com/event/elon-musk-wins-10b-settlement-against-altmanopenai",
+        "probability": 0.155
+      }
+    ]
+  }
+}

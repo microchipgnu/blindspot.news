@@ -37,6 +37,42 @@
       "title": "The Enforcement Problem No One Wants to Name",
       "subtitle": "The UK, Norway, and Manitoba all committed to restricting social media for under-16s this week. Australia, which did it first in December, has found that 70% of affected children still have access.",
       "category": "decision"
+    },
+    {
+      "id": "uae-opec-exit",
+      "title": "OPEC's Loudest Quitter",
+      "subtitle": "The UAE just left OPEC after 59 years. Saudi Arabia now runs a cartel where the most capable member is gone and three others are watching to see if they should follow.",
+      "category": "power"
+    },
+    {
+      "id": "musk-altman-trial",
+      "title": "The AGI Ownership Fight",
+      "subtitle": "The Musk v. Altman trial starts today. The legal question is whether OpenAI betrayed its non-profit mission. The real question is who gets to own the most consequential technology ever built.",
+      "category": "power"
+    },
+    {
+      "id": "mali-russia-collapse",
+      "title": "Russia's Africa Corps Just Lost Its First Battle",
+      "subtitle": "In a weekend of coordinated attacks across Mali, separatists and jihadists killed the defense minister, seized Kidal, and forced Russia's Africa Corps to retreat.",
+      "category": "conflict"
+    },
+    {
+      "id": "trump-assassination-attempt",
+      "title": "The Security Theater Problem",
+      "subtitle": "A gunman walked through a Secret Service checkpoint at the White House Correspondents Dinner carrying a shotgun, a handgun, and three knives. A vest saved the agent. A review will save no one from the next one.",
+      "category": "power"
+    },
+    {
+      "id": "china-blocks-meta-manus",
+      "title": "Beijing's New Veto Power Over American AI",
+      "subtitle": "China just blocked Meta's $2 billion acquisition of Manus. The founders cannot leave the country. Beijing is showing it can retroactively unwind US tech acquisitions of Chinese-origin startups.",
+      "category": "power"
+    },
+    {
+      "id": "north-korea-russia-pact",
+      "title": "The Memorial That Normalizes a New Alliance",
+      "subtitle": "Kim Jong Un opened a memorial for North Korean soldiers killed in Ukraine. Russia's defense minister was there. Both sides are advertising a military relationship they previously denied existed.",
+      "category": "conflict"
     }
   ]
 }

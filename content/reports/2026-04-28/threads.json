@@ -61,6 +61,63 @@
           "relationship": "The same institutional logic that produced the IEEPA ruling in February is present in the birthright citizenship oral arguments: the Court is unwilling to read emergency or exceptional-case statutory language as conferring general executive power. The administration faces a pattern, not isolated defeats, which means Section 301 and 232 tariff expansion attempts are likely to face more judicial scrutiny than they would have before 2026."
         }
       ]
+    },
+    {
+      "id": "iran-war-as-load-bearing-variable",
+      "title": "The Iran War Is the Variable Every Other Story Is Downstream Of",
+      "description": "Today's OPEC story is not really about OPEC governance. It is about the UAE calculating that high oil prices created by the Iran war give it a once-in-a-generation window to maximize production before a peace deal deflates prices. The Russia superyacht passing through Hormuz is a signal that Iran's blockade has selective enforcement, which is its own kind of negotiating message. The Iran war elevated BP's profits, reshuffled the diplomatic circuit from Oman to Moscow, and is the pressure that makes the Hormuz ceasefire stalemate so consequential. Remove the Iran war from today's brief and half the stories change shape.",
+      "type": "dependency-web",
+      "stories": ["iran-hormuz-stalemate", "uae-opec-exit", "north-korea-russia-pact"],
+      "connections": [
+        {
+          "from": "iran-hormuz-stalemate",
+          "to": "uae-opec-exit",
+          "relationship": "The Iran-driven oil price spike created the economic incentive for the UAE to leave OPEC now: high prices mean lost revenue from Saudi-imposed quotas is maximally costly, and peace could deflate the premium at any point. The window is now."
+        },
+        {
+          "from": "iran-hormuz-stalemate",
+          "to": "north-korea-russia-pact",
+          "relationship": "Iran's foreign minister visited Moscow for talks on the Middle East war the same weekend Kim opened the Ukraine memorial. Russia is simultaneously being asked by Iran to help manage its ceasefire diplomacy and by North Korea to deepen military ties. Moscow's leverage with Tehran depends on not being seen as too committed to the axis, which constrains how deeply Russia can publicly embrace the North Korea alliance."
+        }
+      ]
+    },
+    {
+      "id": "ai-as-national-security-contest",
+      "title": "The Question of Who Owns AI Infrastructure Has Become a State-Level Conflict",
+      "description": "Three stories today are variations of the same underlying question: can a private actor own the most strategically consequential technology in history, and who gets to decide? China blocked Meta's acquisition of Manus not because of antitrust or consumer harm, but because Beijing has decided that Chinese-origin AI remains Chinese strategic property regardless of incorporation. The Musk v. Altman trial is, at its core, a fight over who controls the institution closest to building AGI. The White House's memo accusing China of mass AI model theft positions both stories as battles in the same national security contest. The governance of AI is no longer a tech sector question. It is a geopolitical one.",
+      "type": "tension-cluster",
+      "stories": ["musk-altman-trial", "china-blocks-meta-manus", "openai-agi-principles"],
+      "connections": [
+        {
+          "from": "china-blocks-meta-manus",
+          "to": "musk-altman-trial",
+          "relationship": "China's assertion that Chinese-origin AI is strategic national property, not commercial property, is exactly the kind of precedent that makes the Musk v. Altman dispute more than a contract case. If courts accept that AI organizations have special obligations to humanity rather than shareholders, the logic is available to any government wanting to assert jurisdiction over AI development."
+        },
+        {
+          "from": "openai-agi-principles",
+          "to": "china-blocks-meta-manus",
+          "relationship": "OpenAI's five principles argue for company-led governance of AGI with voluntary coordination with governments. China's NDRC ruling on Manus demonstrates that governments do not intend to remain voluntary participants in AI governance decisions. The two positions are incompatible and the Manus case shows which one has enforcement power."
+        }
+      ]
+    },
+    {
+      "id": "russia-overextension",
+      "title": "Russia Is Losing Ground in Three Theaters Simultaneously",
+      "description": "Russia's Africa Corps retreated from Kidal under separatist pressure, the first documented battlefield loss of the project. Russia is simultaneously commemorating North Korean soldiers killed in Ukraine while pledging deeper military cooperation with Kim, which is a commitment not a victory lap. And Iran's foreign minister is in Moscow seeking Russian support for its Hormuz diplomacy, which means Russia is being pulled as a mediator into a conflict it cannot control. Moscow is collecting dependencies: North Korea, the Sahel juntas, and now Iran's diplomatic lifeline. Each dependency is a claim on Russian resources and credibility. The Mali defeat is the first invoice coming due.",
+      "type": "dependency-web",
+      "stories": ["mali-russia-collapse", "north-korea-russia-pact", "iran-hormuz-stalemate"],
+      "connections": [
+        {
+          "from": "mali-russia-collapse",
+          "to": "north-korea-russia-pact",
+          "relationship": "The Africa Corps defeat in Kidal happens the same weekend Russia and North Korea publicly deepen their military alliance. Moscow needs North Korea's credibility signal partly because its African credibility is now in question. The memorial in Pyongyang serves double duty: celebrating a real alliance and compensating for a visible failure elsewhere."
+        },
+        {
+          "from": "north-korea-russia-pact",
+          "to": "iran-hormuz-stalemate",
+          "relationship": "Iran's foreign minister visiting Moscow for Middle East war consultations, while Russia hosts North Korea's defense minister, means Putin is simultaneously the patron of three different military campaigns on three continents. The question Russia cannot answer publicly is whether it has the capacity and the will to honor all three relationships when they conflict."
+        }
+      ]
     }
   ]
 }
