@@ -7,7 +7,7 @@ interface Props {
   ogImage?: string;
 }
 
-const { title, description = "Structured judgment for things that are hard to think about.", ogImage } = Astro.props;
+const { title, description = "Structured judgment for things that are hard to think about.", ogImage = "/og/default.png" } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site || "https://blindspot.news");
 ---
 
