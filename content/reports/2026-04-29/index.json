@@ -1,7 +1,37 @@
 {
   "date": "2026-04-29",
-  "generatedAt": "2026-04-29T18:00:00Z",
+  "generatedAt": "2026-04-29T23:10:00Z",
   "reports": [
+    {
+      "id": "trump-putin-ukraine-ceasefire",
+      "title": "Trump and Putin Propose a Ukraine Ceasefire. Ukraine Has Not Agreed.",
+      "subtitle": "A 90-minute call between the two presidents produced a Victory Day truce offer that Kyiv has heard before, used before, and rejected before.",
+      "category": "conflict"
+    },
+    {
+      "id": "openai-tumbler-ridge-lawsuits",
+      "title": "OpenAI's Safety Team Flagged the Tumbler Ridge Shooter. Leadership Vetoed the Warning.",
+      "subtitle": "Seven lawsuits filed in California allege that OpenAI knew a mass shooter was planning an attack, and chose not to tell police to protect its $850 billion valuation.",
+      "category": "ethics"
+    },
+    {
+      "id": "russia-victory-day-no-tanks",
+      "title": "Russia's Victory Day Parade Will Have No Tanks. That Hasn't Happened Since the Ukraine Invasion Started.",
+      "subtitle": "The Kremlin says the scaled-back May 9 parade is a security precaution. The military hardware isn't there because it's in Ukraine.",
+      "category": "power"
+    },
+    {
+      "id": "meta-eu-children-charges",
+      "title": "The EU Charged Meta With Letting Children Onto Instagram. Meta Said It Uses Self-Declared Birthdays.",
+      "subtitle": "European regulators say Meta violated the Digital Services Act by relying on birthdate fields that anyone can fill in with any date.",
+      "category": "power"
+    },
+    {
+      "id": "mexico-sinaloa-governor-indicted",
+      "title": "The US Just Indicted a Sitting Mexican Governor for Running Cover for the Sinaloa Cartel",
+      "subtitle": "Ruben Rocha Moya of Sinaloa state is the highest-ranking member of Mexico's ruling Morena party ever charged by US prosecutors.",
+      "category": "power"
+    },
     {
       "id": "scotus-vra-louisiana",
       "title": "The Supreme Court Killed Section 2 Without Saying So",

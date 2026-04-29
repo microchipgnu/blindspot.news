@@ -2,6 +2,34 @@
   "date": "2026-04-29",
   "threads": [
     {
+      "id": "russia-victory-day-face-saving",
+      "title": "The Empty Parade and the Ceasefire Offer Are the Same Move",
+      "description": "Russia's decision to hold a Victory Day parade without tanks and Putin's simultaneous offer of a May 9 ceasefire in Ukraine are not independent events. The parade's emptiness is visible evidence of military depletion. The ceasefire offer reframes that emptiness as diplomacy rather than incapacity. Together, they are a single operation in domestic narrative management: replace the image of military triumph with the image of peacemaking, on the same day, for the same audience.",
+      "type": "cause-effect",
+      "stories": ["russia-victory-day-no-tanks", "trump-putin-ukraine-ceasefire"],
+      "connections": [
+        {
+          "from": "russia-victory-day-no-tanks",
+          "to": "trump-putin-ukraine-ceasefire",
+          "relationship": "The absence of military hardware at Victory Day creates a symbolic vacuum that the ceasefire proposal fills: Putin needs May 9 to mean something besides 'the army is in Ukraine,' and a peace announcement provides that meaning without conceding anything on the ground."
+        }
+      ]
+    },
+    {
+      "id": "platforms-knew-children-paid",
+      "title": "Two Platforms Knew Children Were Being Harmed. Both Chose Not to Act.",
+      "description": "OpenAI's safety team flagged a future mass shooter and was overruled by executives protecting company valuation. Meta built an age verification system that everyone knew didn't work, because a working one would reduce teen users. The mechanism is identical in both cases: a company identifies a harm to children, calculates that addressing it costs more than ignoring it, and chooses the calculation over the child. The EU charged Meta. Families are suing OpenAI. Both stories are about the same institutional failure dressed in different legal clothes.",
+      "type": "tension-cluster",
+      "stories": ["openai-tumbler-ridge-lawsuits", "meta-eu-children-charges"],
+      "connections": [
+        {
+          "from": "openai-tumbler-ridge-lawsuits",
+          "to": "meta-eu-children-charges",
+          "relationship": "Both cases turn on the same internal calculus: the company had systems capable of identifying harm to children, chose not to act on those systems, and justified the choice with legal or reputational risk calculations. The legal theories differ; the institutional pattern is identical."
+        }
+      ]
+    },
+    {
       "id": "executive-tools-without-authorization",
       "title": "The Administration Is Running Four Wars Without Legal Authority",
       "description": "On the same day the Supreme Court gutted the Voting Rights Act, four separate stories involve the executive branch acting at the edge or beyond its legal authorization: the Iran blockade (War Powers expires May 1), the Iran crypto sanctions enforcement, the TPS deportation case at SCOTUS, and the FCC targeting Kimmel under an administration that has used its regulatory apparatus as a political instrument. The connecting tissue is not Iran or any single policy. It is the pattern of the executive treating legal limits as suggestions while courts either ratify the expansion or chip away at the mechanisms meant to constrain it.",

@@ -1,0 +1,108 @@
+{
+  "id": "trump-putin-ukraine-ceasefire",
+  "date": "2026-04-29",
+  "generatedAt": "2026-04-29T22:45:00Z",
+  "title": "Trump and Putin Propose a Ukraine Ceasefire. Ukraine Has Not Agreed.",
+  "subtitle": "A 90-minute call between the two presidents produced a Victory Day truce offer that Kyiv has heard before, used before, and rejected before.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["Ukraine", "Russia", "Trump", "Putin", "ceasefire", "war"],
+  "coverImage": {
+    "url": "https://static01.nyt.com/images/2026/04/29/multimedia/29int-trump-putin-1-cpgk/29int-trump-putin-1-cpgk-mediumSquareAt3X.jpg",
+    "local": "/images/reports/2026-04-29/trump-putin-ukraine-ceasefire.jpg",
+    "credit": "New York Times"
+  },
+  "sources": [
+    {
+      "url": "https://www.theguardian.com/world/2026/apr/29/trump-and-putin-discuss-iran-war-and-float-temporary-ukraine-ceasefire-in-call",
+      "publisher": "The Guardian",
+      "angle": "Trump confused Ukraine with Iran in front of reporters, said Ukraine 'lost all their ships and planes' -- a factual error that reveals how little he's tracking the actual war"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/04/29/world/europe/ukraine-russia-ceasefire-trump-putin.html",
+      "publisher": "New York Times",
+      "angle": "Previous truces broke down amid mutual accusations of violations; Ukraine not party to this call and has not agreed to terms"
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/c794wp4yy93o",
+      "publisher": "BBC News",
+      "angle": "Kremlin says parade scaled back due to Ukrainian drone threat; Putin framed Victory Day truce as coming from his own readiness, not as a concession"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Putin", "Ukraine", "Zelensky"],
+    "whatHappened": "Donald Trump and Vladimir Putin spoke for more than 90 minutes on April 29, discussing the Iran war and floating a brief ceasefire in Ukraine tied to Russia's May 9 Victory Day parade. Putin's foreign policy adviser said Moscow would announce a temporary truce if Trump proposed it. Trump told reporters the conversation was 'very good' and that Putin had offered to take Iran's buried uranium to Russia. Ukraine was not party to the call. Zelensky has not agreed to any terms, and his government has previously accused Russia of using short truces to regroup.",
+    "bottomLine": "This ceasefire proposal is not a peace offer. It is Russia asking for a pause it can use to reconstitute, wrapped in the optics of diplomatic progress that Trump needs before midterms.",
+    "hiddenBets": [
+      {
+        "assumption": "A ceasefire, even temporary, represents progress toward a deal",
+        "whyItMightBeWrong": "Every previous truce in this war has been violated. Russia announced a 30-hour Easter ceasefire and broke it within hours. A Victory Day pause would give Moscow time to rotate troops and repair damaged logistics without meaningful monitoring."
+      },
+      {
+        "assumption": "Ukraine has veto power over any ceasefire that gets implemented",
+        "whyItMightBeWrong": "Trump has signaled he blames Ukraine for the war's continuation. If he announces a ceasefire with Putin and Zelensky refuses, Trump has the leverage to cut US military aid. Ukraine's actual negotiating position depends entirely on continued US support."
+      },
+      {
+        "assumption": "Putin's demand for Ukraine to cede Donbas is a negotiating position, not a floor",
+        "whyItMightBeWrong": "Russian military analysts and the Kremlin's own statements suggest territorial control of currently occupied areas is the minimum Putin can accept domestically. Offering less would mean admitting the cost of the war was not worth its gains."
+      }
+    ],
+    "realDisagreement": "The real fork is whether the priority is ending the killing now or ending the war on terms that don't reward aggression. Both matter. You can't have both at once. A temporary ceasefire saves lives in May but likely locks in Russian territorial gains and tells future aggressors that battlefield seizure plus negotiated pause equals permanent acquisition. The counterargument is that Ukraine is running out of men and the West is running out of patience, so a frozen conflict now is better than a collapse later. The honest answer is that the second argument is probably correct on the military facts, but acknowledging it requires admitting that American credibility in NATO is already the collateral damage of this deal.",
+    "whatNoOneIsSaying": "Trump told reporters that Ukraine had 'lost all their ships and planes' -- he was confusing Ukraine with Iran. No one in the room corrected him. The person nominally brokering the most consequential land war in Europe since 1945 cannot identify which country is which.",
+    "whoPays": [
+      {
+        "who": "Ukrainian civilians in Russian-occupied Donbas",
+        "how": "A ceasefire that freezes current lines leaves approximately 3 million Ukrainians under Russian military administration, with documented human rights abuses and forced conscription continuing",
+        "when": "Immediately upon any freezing of lines"
+      },
+      {
+        "who": "Eastern European NATO members",
+        "how": "A deal that validates Russian territorial seizure by negotiation sets the precedent that NATO's eastern flank is negotiable. Estonia, Latvia, Lithuania, and Poland have all said this publicly",
+        "when": "Medium-term, as Russian military capacity rebuilds over 3-5 years"
+      },
+      {
+        "who": "Ukrainian soldiers currently at the front",
+        "how": "A ceasefire that Ukraine's military does not control or monitor would leave frontline units exposed to Russian violations with no clear rules of engagement",
+        "when": "Immediately during any announced pause"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Paper Truce",
+        "whatHappens": "Both sides announce a Victory Day ceasefire. Russia violates it within 48 hours. Ukraine points this out. Trump says both sides are misbehaving and announces he is 'done' with the conflict diplomatically. US aid continues but at reduced levels.",
+        "signal": "Watch for Russian artillery activity in Zaporizhzhia and Kherson oblasts within 72 hours of any announced truce"
+      },
+      {
+        "name": "Ukraine Refuses",
+        "whatHappens": "Zelensky declines the terms, citing lack of monitoring and Russian preconditions. Trump publicly blames Ukraine. Congressional Republicans split. Military aid decision in June becomes the real leverage point.",
+        "signal": "Zelensky's language about the proposal: if he calls it 'cosmetic' or 'political theater,' refusal follows"
+      },
+      {
+        "name": "Frozen Conflict",
+        "whatHappens": "A temporary ceasefire holds longer than expected because both sides are genuinely exhausted. It extends by mutual agreement. Within 18 months it becomes a de facto frozen conflict, with no formal treaty. Russia retains Donbas. Ukraine retains statehood and NATO candidacy.",
+        "signal": "Signs of this path: Ukrainian casualties rising sharply, conscription age lowered further, EU quietly lifting objections to informal partition discussions"
+      }
+    ],
+    "whatWouldChange": "If Ukraine's military command independently assessed that it could not hold current lines without a pause and publicly said so, the analysis above would shift. The ceasefire proposal is bad politics but may be military reality. That assessment has not been made public.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Russia x Ukraine ceasefire by May 31, 2026?",
+        "url": "https://polymarket.com/event/russia-x-ukraine-ceasefire-by-may-31-2026",
+        "probability": 0.07
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Russia x Ukraine ceasefire by June 30, 2026?",
+        "url": "https://polymarket.com/event/russia-x-ukraine-ceasefire-by-june-30-2026",
+        "probability": 0.105
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Russia x Ukraine ceasefire by end of 2026?",
+        "url": "https://polymarket.com/event/russia-x-ukraine-ceasefire-before-2027",
+        "probability": 0.255
+      }
+    ]
+  }
+}
