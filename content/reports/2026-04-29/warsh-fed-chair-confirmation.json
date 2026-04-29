@@ -1,0 +1,98 @@
+{
+  "id": "warsh-fed-chair-confirmation",
+  "date": "2026-04-29",
+  "generatedAt": "2026-04-29T18:00:00Z",
+  "title": "Kevin Warsh Clears the Senate. The Real Question Is What He Does First.",
+  "subtitle": "With confirmation odds at 98.9%, the debate about who chairs the Fed is over. The debate about whether the Fed can still function independently has just started.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["fed", "warsh", "powell", "interest-rates", "central-bank", "independence", "trump"],
+  "sources": [
+    {
+      "url": "https://www.theguardian.com/us-news",
+      "publisher": "The Guardian",
+      "angle": "Reported Warsh cleared a key Senate hurdle today; Powell's departure is expected by mid-May."
+    },
+    {
+      "url": "https://www.bbc.com/news",
+      "publisher": "BBC",
+      "angle": "Noted Trump and Powell's clash history; headline 'Numbskull, moron and too stupid' refers to Trump's public characterizations of Powell during their standoffs over rate policy."
+    }
+  ],
+  "brief": {
+    "actors": ["Warsh", "Powell", "Trump", "Fed", "Warren", "Murkowski"],
+    "whatHappened": "Kevin Warsh, Trump's nominee to replace Jerome Powell as Federal Reserve Chair, cleared a key Senate committee hurdle today. Polymarket shows a 98.9% probability of confirmation and an 86.5% probability that Powell departs by May 16. Warsh, a former Fed governor from 2006-2011, is a Wall Street deal-maker who has publicly criticized the Fed's independence doctrine and previously endorsed faster rate cuts. Trump has called Powell 'numbskull,' 'moron,' and 'too stupid' in repeated public attacks on the Fed's decision to hold rates steady. The Fed is expected to hold rates at Powell's final scheduled meeting today. Oil at $119 and Iranian war inflation are complicating the rate environment significantly.",
+    "bottomLine": "Warsh will chair the Fed at a moment when oil is at $119, inflation is being driven by a blockade the administration controls, and the market is watching to see whether the new chair serves the economy or the president.",
+    "hiddenBets": [
+      {
+        "assumption": "Warsh will cut rates to please Trump.",
+        "whyItMightBeWrong": "Cutting rates with oil at $119 and energy-driven inflation accelerating would be textbook stagflation policy. Warsh is not an idiot. He may cut eventually but not immediately, and he may use that resistance to build credibility with markets rather than lose it."
+      },
+      {
+        "assumption": "Federal Reserve independence survives a politically installed chair.",
+        "whyItMightBeWrong": "Independence is a norm, not a constitutional guarantee. The chair controls the agenda, appoints staff, and sets the internal culture. A chair who came in on Trump's recommendation, who publicly criticized the institution before joining it, who arrives during an administration-caused energy crisis: the pressure to accommodate is structural, not just personal."
+      },
+      {
+        "assumption": "Senate Democrats' opposition to Warsh matters.",
+        "whyItMightBeWrong": "Polymarket shows only 9.8% chance Warren votes to confirm and 11.75% for Sanders. But at 98.9% overall confirmation probability, this confirms that enough Republicans, including potentially Lisa Murkowski (61% yes), are aboard to make Democratic opposition irrelevant."
+      }
+    ],
+    "realDisagreement": "The actual fork is between two models of what central bank independence means under crisis conditions. One view: the Fed should be permanently insulated from political pressure regardless of whether the government's own policies are causing inflation. The other view: when the executive creates the inflationary shock (a blockade, a tariff regime), asking the Fed to fight it with rate policy is asking monetary policy to clean up a fiscal and foreign policy mess. Warsh's critics say independence must be absolute. His supporters say the old consensus was built for peacetime and this isn't peacetime. I lean toward the critics: the moment the Fed starts modeling its decisions around what the president wants, the market loses its anchor. But Warsh's practical room to maneuver is more constrained than the independence debate suggests.",
+    "whatNoOneIsSaying": "Powell's last meeting as chair is happening today, while oil is at $119 and the economy is absorbing an administration-caused energy shock. If the Fed holds rates today, Trump will claim vindication for replacing Powell. If the Fed raises rates, Trump will use it as evidence of sabotage. Powell has no good move. His legacy is being shaped by forces outside his control.",
+    "whoPays": [
+      {
+        "who": "Mortgage holders and potential homebuyers",
+        "how": "If Warsh cuts rates below what inflation warrants, the dollar weakens and real mortgage rates become negative; if he holds or raises, housing remains unaffordable. The energy inflation from the blockade makes both paths painful.",
+        "when": "Immediate; first rate decision under Warsh sets the tone"
+      },
+      {
+        "who": "Dollar-denominated debt holders internationally",
+        "how": "If markets price in reduced Fed independence, dollar credibility weakens. Dollar-denominated developing world debt becomes harder to refinance; capital flight from dollar assets accelerates.",
+        "when": "Medium-term, 6-18 months"
+      },
+      {
+        "who": "Treasury bond investors",
+        "how": "Long-term bond prices depend entirely on whether markets believe the Fed will fight inflation independent of political pressure. Any signal from Warsh of accommodation triggers a selloff in Treasuries.",
+        "when": "At Warsh's first press conference"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Warsh holds firm, builds credibility",
+        "whatHappens": "Warsh holds or raises rates at his first meeting despite White House pressure, citing energy inflation. Trump fumes publicly but does not fire him. Markets rally on the signal of continued independence. Oil-driven inflation moderates as blockade eases.",
+        "signal": "Warsh does not cut rates at his first FOMC meeting"
+      },
+      {
+        "name": "Warsh accommodates, credibility crisis",
+        "whatHappens": "Warsh cuts rates within 60 days of taking office. Bond market sells off. Dollar weakens. The narrative that the Fed is now a political instrument takes hold in fixed-income markets globally.",
+        "signal": "Warsh speaks at his first public event about the need to 'support the economy' without explicitly referencing the inflation data"
+      },
+      {
+        "name": "Market test forces Warsh's hand",
+        "whatHappens": "Bond vigilantes sell Treasuries before Warsh's first meeting, pushing 10-year yields above 5.5%, forcing the Fed to respond to market pressure rather than political pressure. Warsh holds. This scenario is the most likely to preserve institutional credibility.",
+        "signal": "10-year Treasury yield rises sharply in the week before Warsh's first FOMC meeting"
+      }
+    ],
+    "whatWouldChange": "If a major creditor nation, particularly Japan or China, publicly announces it is reducing its Treasury holdings as a response to concerns about Fed independence, the dollar credibility question becomes a crisis instead of a debate, and Warsh would have no choice but to demonstrate independence aggressively.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Kevin Warsh be confirmed as Fed Chair?",
+        "url": "https://polymarket.com/event/who-will-be-confirmed-as-fed-chair",
+        "probability": 0.989
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Kevin Warsh confirmed as Fed Chair by May 15?",
+        "url": "https://polymarket.com/event/kevin-warsh-confirmed-as-fed-chair-by",
+        "probability": 0.9545
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Jerome Powell depart as Fed Chair by May 31?",
+        "url": "https://polymarket.com/event/jerome-powell-departs-as-fed-chair-by",
+        "probability": 0.945
+      }
+    ]
+  }
+}

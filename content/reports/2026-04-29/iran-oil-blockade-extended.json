@@ -1,0 +1,113 @@
+{
+  "id": "iran-oil-blockade-extended",
+  "date": "2026-04-29",
+  "generatedAt": "2026-04-29T18:00:00Z",
+  "title": "Oil Hits $119 After Trump Says the Blockade Is 'More Effective Than the Bombing'",
+  "subtitle": "The White House is preparing to extend its naval blockade of Iran indefinitely. Iran says it can hold out. Someone is wrong, and the world's energy markets are pricing both possibilities simultaneously.",
+  "topic": "economy",
+  "category": "conflict",
+  "tags": ["iran", "oil", "strait-of-hormuz", "blockade", "trump", "energy-crisis"],
+  "sources": [
+    {
+      "url": "https://www.bbc.co.uk/news/articles/cj4pxr0gr02o",
+      "publisher": "BBC",
+      "angle": "Confirmed Chevron CEO Mike Wirth met Trump at the White House Tuesday to discuss supply contingencies; oil traders took the meeting as a signal of months-long disruption ahead."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/04/29/oil-prices-brent-wti-trump-iran.html",
+      "publisher": "CNBC",
+      "angle": "Trump told Axios: 'They are choking like a stuffed pig.' Brent crude hit $118.33 by 12:10 PM ET, WTI reached $106.37. Both up over 6% in one day."
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/oil-rises-reports-us-will-extend-iran-blockade-prolonging-mideast-supply-2026-04-29/",
+      "publisher": "Reuters",
+      "angle": "UAE OPEC exit is a secondary factor; ING analysts note the near-term oil price is dominated entirely by Hormuz timing, not production cartel dynamics."
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/a-22-day-oil-clock-ticks-down-in-iran-as-strait-of-hormuz-blockade-tightens-chokehold/articleshow/130599616.cms",
+      "publisher": "Economic Times",
+      "angle": "Iran has approximately 22 days of viable oil storage capacity remaining before production cuts become unavoidable; neighboring countries are also cutting output."
+    },
+    {
+      "url": "https://fortune.com/2026/04/27/iran-offers-to-reopen-strait-of-hormuz-oil-prices-trump-putin-nuclear/",
+      "publisher": "Fortune",
+      "angle": "Iran offered to reopen Hormuz if the US lifts its blockade and ends the war. Trump is reviewing. The two sides are in a stalemate on terms."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Iran", "IRGC", "Chevron", "OPEC", "UAE", "World Bank"],
+    "whatHappened": "Oil prices surged more than 6% on Wednesday after President Trump told Axios the US naval blockade of Iran is 'more effective than the bombing' and that Iran is 'choking like a stuffed pig.' The Wall Street Journal reported that Trump instructed aides to prepare for an extended blockade as his preferred tool over resumed bombing or a negotiated exit. Chevron CEO Mike Wirth met Trump at the White House Tuesday to discuss how to limit consumer fallout. Brent crude hit $119 per barrel, the highest this month. Iran's inflation has reached 53.7% and two million Iranians have lost jobs. Economic Times reports Iran has roughly 22 days of usable storage before production cuts become mandatory. The World Bank projected a 24% energy price surge in 2026 if disruptions persist.",
+    "bottomLine": "The blockade has become Trump's preferred weapon not because it is working fastest, but because it is working without Congressional authorization, without body bags, and with deniability if Iran's economy collapses.",
+    "hiddenBets": [
+      {
+        "assumption": "Iran's 22-day storage clock is the binding constraint that will force a deal.",
+        "whyItMightBeWrong": "Iran has already activated alternative trade routes and can reduce production rather than implode. The 'choking' language assumes Iran acts like a normal economy under supply pressure. Iran has survived decades of sanctions by restructuring around them."
+      },
+      {
+        "assumption": "Extended blockade means extended high oil prices, which is economically costly enough to force US policy change.",
+        "whyItMightBeWrong": "High oil prices benefit domestic US producers. The political coalition supporting the blockade includes the Texas and Oklahoma oil industry, which is recording record profits. There is no guarantee high prices create domestic pressure to end the blockade."
+      },
+      {
+        "assumption": "The US can maintain the blockade legally without a formal authorization of military force.",
+        "whyItMightBeWrong": "The War Powers clock expires May 1 (covered separately today). The blockade is an ongoing military operation. International maritime law does not recognize a peacetime naval blockade as legally distinct from an act of war."
+      }
+    ],
+    "realDisagreement": "The real fork: is the blockade a negotiating tool designed to extract a nuclear deal, or is it an end in itself, designed to collapse the Iranian state? If it is a negotiating tool, Trump should be taking Iran's offers seriously and both sides should be working toward terms. If it is designed to produce regime change, no deal will be accepted, oil prices will stay elevated for months, and the disruption will outlast any ceasefire on paper. Trump's 'they can't have a nuclear weapon' framing suggests the latter: he is not offering Iran a path to existence with a nuclear program capped, he is demanding its elimination. Iran cannot accept that. I lean toward reading this as an end-in-itself strategy, which means the market has not yet priced in the full duration.",
+    "whatNoOneIsSaying": "Chevron meeting at the White House to discuss 'limiting consumer fallout' is not about protecting consumers. It is about ensuring US energy companies are positioned to fill supply gaps created by removing Iranian production from the market. The major oil companies are net beneficiaries of every day the blockade continues.",
+    "whoPays": [
+      {
+        "who": "Global fuel consumers outside the US",
+        "how": "Brent crude at $119 translates to diesel and heating oil price spikes; Europe is exposed because it cannot quickly replace Hormuz-region supplies; the BBC notes UK petrol and diesel prices are already rising significantly.",
+        "when": "Already visible; acute if Hormuz stays closed through summer"
+      },
+      {
+        "who": "Iranian workers",
+        "how": "Two million already unemployed; if storage fills and Iran cuts production, the domestic oil sector layoffs cascade into petrochemicals, transport, and industrial manufacturing.",
+        "when": "22-day production cut risk is immediate"
+      },
+      {
+        "who": "Asian importers: China, India, South Korea, Japan",
+        "how": "Roughly 60% of Hormuz oil flows east. These countries cannot shift supply sources quickly; their manufacturers absorb the cost as input price inflation.",
+        "when": "Ongoing; compounding with each week of disruption"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Prolonged stalemate, $130 ceiling",
+        "whatHappens": "Neither side accepts the other's terms. Blockade continues through May, oil stays above $110. Iran reduces production but does not collapse. A fragile back-channel deal eventually emerges with ambiguous nuclear terms both sides interpret differently.",
+        "signal": "Hormuz traffic does not return to normal by May 15 (Polymarket: 9.5% chance it does)"
+      },
+      {
+        "name": "Deal by end of May",
+        "whatHappens": "Iran concedes on enrichment caps in exchange for lifting the blockade. Oil drops sharply, possibly to $85-90. Trump claims victory.",
+        "signal": "Trump agrees to Iranian oil sanction relief by May 31 (Polymarket: 29.5% chance)"
+      },
+      {
+        "name": "Escalation",
+        "whatHappens": "Iran, running out of storage, attempts to force vessels through the strait and an incident occurs. Military exchange leads to resumed US strikes. Oil spikes above $140.",
+        "signal": "Iranian vessel crosses blockade line with military escort"
+      }
+    ],
+    "whatWouldChange": "If China publicly announces it will continue buying Iranian oil via back channels regardless of the US blockade, the economic pressure on Tehran collapses and the blockade becomes a political statement rather than a functional weapon. That would force Trump to either escalate militarily or accept a weaker deal than he is currently demanding.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Strait of Hormuz traffic returns to normal by end of April?",
+        "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-april-30",
+        "probability": 0.0035
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Strait of Hormuz traffic returns to normal by May 15?",
+        "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-may-15",
+        "probability": 0.095
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Trump agree to Iranian oil sanction relief by May 31?",
+        "url": "https://polymarket.com/event/what-iranian-demands-will-trump-agree-to-by-may-31",
+        "probability": 0.295
+      }
+    ]
+  }
+}

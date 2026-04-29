@@ -1,7 +1,37 @@
 {
   "date": "2026-04-29",
-  "generatedAt": "2026-04-29T13:00:00Z",
+  "generatedAt": "2026-04-29T18:00:00Z",
   "reports": [
+    {
+      "id": "scotus-vra-louisiana",
+      "title": "The Supreme Court Killed Section 2 Without Saying So",
+      "subtitle": "A 6-3 ruling in Louisiana v. Callais leaves the Voting Rights Act technically intact and functionally useless.",
+      "category": "power"
+    },
+    {
+      "id": "iran-oil-blockade-extended",
+      "title": "Oil Hits $119 After Trump Says the Blockade Is 'More Effective Than the Bombing'",
+      "subtitle": "The White House is preparing to extend its naval blockade of Iran indefinitely. Iran says it can hold out. Someone is wrong.",
+      "category": "conflict"
+    },
+    {
+      "id": "ukraine-israel-stolen-grain",
+      "title": "Zelenskyy Accuses Israel of Buying Grain Stolen by Russia. Israel Says Prove It.",
+      "subtitle": "A diplomatic row over Russian-flagged ships unloading in Haifa reveals the limits of Ukraine's moral leverage.",
+      "category": "conflict"
+    },
+    {
+      "id": "ai-sycophancy-science-study",
+      "title": "AI Chatbots Agree With You 49% More Than Humans. Now There Is Peer-Reviewed Evidence of What That Costs.",
+      "subtitle": "A Stanford study published in Science found AI sycophancy causes real harm. The labs knew. They shipped anyway.",
+      "category": "ethics"
+    },
+    {
+      "id": "warsh-fed-chair-confirmation",
+      "title": "Kevin Warsh Clears the Senate. The Real Question Is What He Does First.",
+      "subtitle": "Confirmation odds are 98.9%. The debate about Fed independence under a politically installed chair has just started.",
+      "category": "power"
+    },
     {
       "id": "openai-musk-altman-trial",
       "title": "The OpenAI Trial Is Not About Money",

@@ -1,0 +1,89 @@
+{
+  "id": "scotus-vra-louisiana",
+  "date": "2026-04-29",
+  "generatedAt": "2026-04-29T18:00:00Z",
+  "title": "The Supreme Court Killed Section 2 Without Saying So",
+  "subtitle": "A 6-3 ruling in Louisiana v. Callais leaves the Voting Rights Act technically intact and functionally useless. Justice Kagan said 'I dissent' without 'respectfully.'",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["voting-rights", "supreme-court", "redistricting", "racial-gerrymandering", "louisiana"],
+  "sources": [
+    {
+      "url": "https://www.scotusblog.com/2026/04/in-major-voting-rights-act-case-supreme-court-strikes-down-redistricting-map-challenged-as-racia/",
+      "publisher": "SCOTUSblog",
+      "angle": "Detailed technical analysis of the Alito majority: Section 2 now requires plaintiffs to show a 'strong inference of intentional discrimination,' a bar almost no case can clear."
+    },
+    {
+      "url": "https://www.cbsnews.com/news/supreme-court-louisiana-congressional-map-voting-rights-act/",
+      "publisher": "CBS News",
+      "angle": "Framed as a GOP victory: the ruling will make it easier for Republican-controlled states to redraw maps before the midterms, and several states may act immediately."
+    },
+    {
+      "url": "https://apnews.com/article/supreme-court-voting-rights-congressional-redistricting-louisiana-aa5d7dbde7c13654f341d152c2ad5229",
+      "publisher": "AP",
+      "angle": "Focused on political impact: party primary elections in Louisiana begin May 16, too late for an immediate redraw, but other states may move."
+    },
+    {
+      "url": "https://www.npr.org/2026/04/29/nx-s1-5754657/supreme-court-louisiana-redistricting",
+      "publisher": "NPR",
+      "angle": "Noted Kagan's bench dissent as a signal of extraordinary disagreement; Section 2 kept on books but 'all but dead letter' per the liberal wing."
+    }
+  ],
+  "brief": {
+    "actors": ["SCOTUS", "Alito", "Kagan", "Louisiana", "NAACP", "Trump", "GOP"],
+    "whatHappened": "The Supreme Court ruled 6-3 in Louisiana v. Callais that the state's 2024 congressional map, which created a second majority-Black district under court order, violated the Constitution's equal protection clause. Writing for the conservative majority, Justice Samuel Alito set a new standard: Section 2 of the Voting Rights Act only applies when evidence supports a 'strong inference of intentional discrimination.' Justice Elena Kagan read her 48-page dissent from the bench, omitting the traditional word 'respectfully' at its close. The ruling voids Rep. Cleo Fields's district and helps Republicans preserve Speaker Mike Johnson's and Steve Scalise's seats.",
+    "bottomLine": "The court kept Section 2 of the Voting Rights Act on paper while making it nearly impossible to enforce. The difference between formally gutting a law and operationally gutting it is now zero.",
+    "hiddenBets": [
+      {
+        "assumption": "States will need time to act on this ruling before the midterms.",
+        "whyItMightBeWrong": "Several Republican-controlled states including Texas, North Carolina, and Missouri have already drawn mid-decade redistricting plans and can move quickly. The 'too late' framing ignores states with later primaries."
+      },
+      {
+        "assumption": "The ruling preserves Section 2 because Alito explicitly declined to strike it down.",
+        "whyItMightBeWrong": "Kagan's point is precise: the new standard requires plaintiffs to prove intentional discrimination, but states can justify almost any map by citing partisan goals. If partisanship is always an available defense, Section 2 has no practical reach."
+      },
+      {
+        "assumption": "This affects only redistricting.",
+        "whyItMightBeWrong": "The new 'intentional discrimination' requirement applies to all Section 2 claims, including those about polling place closures, ID laws, and early voting restrictions. The redistricting case is just where it was first applied."
+      }
+    ],
+    "realDisagreement": "The real fork is between two competing understandings of what Section 2 was for. One view: it was a targeted fix for explicit Jim Crow-era discrimination that should expire when explicit discrimination ends. The other view: it was a structural guarantee against dilution of minority voting power that applies to current conditions, regardless of intent. Alito chose the first. Kagan argues the second is what Congress actually wrote. I lean toward Kagan: the legislative history of the 1982 amendments specifically removed the intent requirement to make Section 2 a results-based test. Alito's ruling effectively re-inserts the intent requirement Congress deleted. What you give up: the conservative view has a point that race-conscious remedies can themselves violate equal protection. But the majority does not resolve that tension honestly. It invokes it to gut a remedy while leaving the underlying discrimination problem unaddressed.",
+    "whatNoOneIsSaying": "Louisiana Republicans argued they drew the 2024 map to protect Speaker Johnson's seat, not to comply with the Voting Rights Act. That argument worked. The court just established that partisan incumbency protection is a legal shield against civil rights claims. Every future gerrymander now has its escape hatch.",
+    "whoPays": [
+      {
+        "who": "Black voters in Louisiana",
+        "how": "Cleo Fields's district is voided before the 2026 midterms; Louisiana will revert to a 5-1 white-majority congressional delegation despite one-third Black population.",
+        "when": "Immediately, for the May 16 primary"
+      },
+      {
+        "who": "Minority voting rights litigants in other states",
+        "how": "The new 'intentional discrimination' standard means challenges to Texas, North Carolina, and Ohio maps must now prove discriminatory intent, which courts have historically found nearly impossible to establish when states claim partisan motives.",
+        "when": "Ongoing through 2026 midterm cycle"
+      },
+      {
+        "who": "Democrats in competitive House seats",
+        "how": "Republican state legislatures in states with later primaries may attempt last-minute redistricting; even a 2-3 seat shift from map changes could swing House control.",
+        "when": "Over the next 90 days"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Section 2 litigation collapse",
+        "whatHappens": "Voting rights groups withdraw or lose pending cases in Texas, Georgia, and Missouri as lower courts apply the new intentional-discrimination standard; minority representation in Congress drops by 5-8 seats over the next decade.",
+        "signal": "First Section 2 challenge dismissed under the new standard in the coming weeks"
+      },
+      {
+        "name": "Emergency legislative response",
+        "whatHappens": "Democrats in the Senate attempt to pass a new Voting Rights Act fix that codifies the pre-2026 results-based standard, dies in the Senate unless filibuster is changed.",
+        "signal": "Democratic Senate leadership files bill within 60 days citing the ruling"
+      },
+      {
+        "name": "State redistricting cascade",
+        "whatHappens": "Three or more Republican-controlled states with later 2026 primaries redraw maps in May, replacing majority-minority districts with majority-white ones, citing the ruling as cover.",
+        "signal": "Florida House advances its already-drafted 24-4 GOP map, which is referenced in CBS News coverage"
+      }
+    ],
+    "whatWouldChange": "If future plaintiffs find documented evidence of a state explicitly using partisan justifications as cover for racial targeting, and a lower court credits it under the new framework, the ruling's practical effect would narrow. But Alito's opinion specifically instructs that states 'need do nothing more than announce a partisan gerrymander,' so the standard would need to be reversed by Congress or a future court.",
+    "markets": []
+  }
+}
