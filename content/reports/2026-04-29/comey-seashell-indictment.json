@@ -1,0 +1,78 @@
+{
+  "id": "comey-seashell-indictment",
+  "date": "2026-04-29",
+  "generatedAt": "2026-04-29T08:00:00Z",
+  "title": "The DOJ Charges Comey Over a Seashell Photo",
+  "subtitle": "The second indictment of a former FBI director for a beach photo is either the most embarrassing prosecution in modern history, or a warning shot designed to be dismissed.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["Comey", "DOJ", "Trump", "First Amendment", "political prosecution", "FBI"],
+  "coverImage": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ec6b/live/49b65430-4395-11f1-ac78-2112837ce2aa.jpg",
+    "local": "/images/reports/2026-04-29/comey-seashell-indictment.jpg",
+    "credit": "BBC News"
+  },
+  "sources": [
+    {
+      "url": "https://www.bbc.com/news/articles/cvgz4rvlem5o",
+      "publisher": "BBC News",
+      "angle": "Straight report on the indictment, with legal expert quotes calling it constitutionally weak and a transparent attempt to intimidate political opponents."
+    }
+  ],
+  "brief": {
+    "actors": ["Comey", "Trump", "DOJ", "Patel", "Blanche"],
+    "whatHappened": "Former FBI Director James Comey was indicted on April 28 for posting an Instagram photo of seashells arranged to display the numbers '86 47' on a North Carolina beach. The Justice Department argues the phrase 'eighty-six the 47th president' constitutes a threat on Trump's life. Each charge carries a maximum of 10 years in prison. This is the second indictment of Comey: the first, on charges he lied to Congress, was dismissed in November 2025 after a judge ruled the prosecutor had been invalidly appointed. Legal experts called the new case 'very thin' and constitutionally untenable. Comey says he did not know the slang meaning of '86' when he reposted the image.",
+    "bottomLine": "This prosecution is not designed to convict Comey. It is designed to consume him: to keep him in legal jeopardy, to signal that criticism carries costs, and to establish a precedent that the administration can plausibly threaten without the embarrassment of winning.",
+    "hiddenBets": [
+      {
+        "assumption": "The case will fail because it is constitutionally weak.",
+        "whyItMightBeWrong": "The case does not need to succeed in court to succeed politically. Each indictment forces Comey to hire lawyers, make court appearances, and spend energy defending himself rather than criticizing the administration. The legal system is the punishment, not the verdict."
+      },
+      {
+        "assumption": "The DOJ is acting recklessly by bringing an obviously thin case.",
+        "whyItMightBeWrong": "Filing in the Eastern District of North Carolina, far from DC media, with a local grand jury, suggests deliberate venue shopping to find a sympathetic jury pool. The administration may expect acquittal but wants the spectacle."
+      },
+      {
+        "assumption": "Republicans will eventually push back on DOJ overreach.",
+        "whyItMightBeWrong": "Not a single Republican member of Congress contacted by BBC commented on the Iran school strike cover-up. Fifteen attempted, zero responded. The same silence is likely here. Congressional Republicans have no incentive to break with the White House over a former FBI director who opened the Russia investigation."
+      }
+    ],
+    "realDisagreement": "The genuine tension is between two defensible readings of what the DOJ is for. One reading: prosecutors exist to enforce the law neutrally, and if they believe a threat was made, they have an obligation to charge it regardless of political sensitivity. The other: the DOJ's credibility depends on proportionality, and spending federal resources on a beach photo while more serious cases go unprosecuted destroys the institution's legitimacy from within. The first reading defends the rule of law in form. The second defends it in function. A DOJ that can charge anyone with anything, technically correctly, is a DOJ that has become a weapon. The second reading is correct, but saying so publicly requires a Republican to break ranks, and none have.",
+    "whatNoOneIsSaying": "The first Comey indictment was thrown out because the prosecutor was invalidly appointed. The same flaw may exist here: Acting AG Todd Blanche's authority to direct this prosecution outside the normal chain of appointment has not been tested. The administration may be deliberately creating procedural vulnerabilities so the case can be dropped without a First Amendment ruling that would be citable precedent.",
+    "whoPays": [
+      {
+        "who": "Comey and his family",
+        "how": "Legal costs, public exposure, and the daily reality of criminal jeopardy even without a conviction. His daughter, a former federal prosecutor, is separately fighting her own firing by the Trump administration.",
+        "when": "Immediate and ongoing through trial"
+      },
+      {
+        "who": "Current FBI and DOJ career staff",
+        "how": "Every politically motivated prosecution signals to career employees that crossing the administration's political interests carries professional and personal risk, incentivizing self-censorship in investigations.",
+        "when": "Ongoing, as each prosecution reinforces the deterrent effect"
+      },
+      {
+        "who": "Future critics of executive power",
+        "how": "If this indictment is not dismissed quickly, the precedent that ambiguous online posts can be prosecuted as threats will chill political speech across the spectrum, not just among Trump's perceived enemies.",
+        "when": "Medium-term, as the case progresses through pre-trial motions"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Case dismissed on First Amendment grounds",
+        "whatHappens": "A judge rules the seashell post is protected political speech. The administration appeals. The ruling creates citable precedent limiting the government's ability to prosecute political commentary as threats, which is why the administration may not actually want this outcome.",
+        "signal": "Watch for the administration to drop the charges voluntarily before a judge rules, citing 'prosecutorial discretion,' if they want to avoid the precedent."
+      },
+      {
+        "name": "Case proceeds to trial",
+        "whatHappens": "Comey stands trial, likely acquitted by any jury that hears the full context of the Instagram post. The administration gets months of headlines tying the former FBI director to legal jeopardy. The acquittal is presented as evidence of a 'rigged' judicial system.",
+        "signal": "No dismissal motion granted by summer 2026."
+      },
+      {
+        "name": "Dropped on procedural grounds again",
+        "whatHappens": "Like the first indictment, this one is dismissed on a technicality related to prosecutorial appointment or jurisdiction. The door is left open for a third attempt. The pattern of charge-and-drop becomes the governing dynamic.",
+        "signal": "A challenge to Blanche's authority to authorize the prosecution filed within 60 days."
+      }
+    ],
+    "whatWouldChange": "If evidence emerged that Comey privately communicated knowledge of the '86' slang meaning before posting, or coordinated with others aware of the phrase's connotation, the intent element of the threat charge would become viable. The government's case entirely rests on mens rea: what Comey knew."
+  }
+}

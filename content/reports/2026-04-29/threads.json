@@ -1,0 +1,52 @@
+{
+  "date": "2026-04-29",
+  "threads": [
+    {
+      "id": "iran-war-structural-effects",
+      "title": "The Iran War Is Reshaping Every Other Story",
+      "description": "The US-Iran war, now two months old, is not just a military conflict. It is a structural event that is reconfiguring oil markets, exposing accountability gaps in the US military, and creating the conditions for OPEC's fragmentation. The UAE's exit from OPEC, the blockade of the Strait of Hormuz, and the Pentagon's silence over the Minab school strike are not three separate stories. They are three symptoms of a war whose full costs are still being suppressed.",
+      "type": "cause-effect",
+      "stories": ["uae-opec-exit", "iran-school-strike-silence"],
+      "connections": [
+        {
+          "from": "iran-school-strike-silence",
+          "to": "uae-opec-exit",
+          "relationship": "The same war that killed 110 children in Minab and which the Pentagon will not discuss is also the event that created the political cover for the UAE to exit OPEC: the Hormuz blockade gave the UAE a strategic rationale for the Fujairah pipeline that would have been diplomatically impossible to pursue while the Gulf was stable."
+        }
+      ]
+    },
+    {
+      "id": "executive-accountability-void",
+      "title": "The Executive Branch Has Stopped Explaining Itself",
+      "description": "Four of today's six stories are about the same underlying question: whether the US executive branch is still bound by the obligation to account for its actions. The Pentagon will not say what killed 110 children. The DOJ charges a political opponent on evidence legal experts call constitutionally worthless. The FCC uses regulatory process to punish a television joke. In each case, the action is taken, the legal justification is asserted, and no further explanation is offered. The pattern is not coincidental. It is operational.",
+      "type": "tension-cluster",
+      "stories": ["iran-school-strike-silence", "comey-seashell-indictment", "fcc-disney-kimmel"],
+      "connections": [
+        {
+          "from": "comey-seashell-indictment",
+          "to": "fcc-disney-kimmel",
+          "relationship": "The Comey indictment and the FCC action both use the formal legal apparatus to generate costs and uncertainty for critics of the administration, without requiring a conviction or license revocation. Both are designed to function as deterrents, not outcomes."
+        },
+        {
+          "from": "fcc-disney-kimmel",
+          "to": "iran-school-strike-silence",
+          "relationship": "The FCC's suppression of broadcast criticism and the Pentagon's suppression of civilian harm disclosure are both executive branch actions using regulatory and classification authority to prevent information the administration finds politically costly from reaching the public."
+        }
+      ]
+    },
+    {
+      "id": "russia-at-center-of-both-wars",
+      "title": "Russia Is Running Both Anti-US Fronts at Once",
+      "description": "North Korea's soldiers are dying for Russia in Ukraine while Russia's superyachts clear the Strait of Hormuz with Iranian permission and Russian officials attend Kim Jong Un's memorial ceremonies. Russia is not a passive beneficiary of the Iran war and the Ukraine conflict running simultaneously. It is actively positioned as the diplomatic and military anchor of both anti-US alignments. The two theatres look separate in Western reporting but share a single enabling power.",
+      "type": "dependency-web",
+      "stories": ["north-korea-self-blast-doctrine", "uae-opec-exit"],
+      "connections": [
+        {
+          "from": "north-korea-self-blast-doctrine",
+          "to": "uae-opec-exit",
+          "relationship": "Russia's deepening alliance with North Korea, cemented through the mutual defense treaty and Kim's troop deployment, gives Moscow leverage that makes it more willing to support Iran's position on the Hormuz blockade, which in turn delays the resolution that would allow UAE oil to flow and OPEC fragmentation to become visible."
+        }
+      ]
+    }
+  ]
+}

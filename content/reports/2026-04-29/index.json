@@ -1,0 +1,42 @@
+{
+  "date": "2026-04-29",
+  "generatedAt": "2026-04-29T08:00:00Z",
+  "reports": [
+    {
+      "id": "openai-musk-altman-trial",
+      "title": "The OpenAI Trial Is Not About Money",
+      "subtitle": "Musk wants to prove a charity was stolen. OpenAI says he just wants to destroy a competitor. Both are right.",
+      "category": "power"
+    },
+    {
+      "id": "comey-seashell-indictment",
+      "title": "The DOJ Charges Comey Over a Seashell Photo",
+      "subtitle": "The second indictment of a former FBI director for a beach photo is either the most embarrassing prosecution in modern history, or a warning shot designed to be dismissed.",
+      "category": "power"
+    },
+    {
+      "id": "uae-opec-exit",
+      "title": "The UAE Walks Out of OPEC",
+      "subtitle": "The second-most important oil producer in OPEC just quit. The Iran war made it possible. The math made it inevitable.",
+      "category": "conflict"
+    },
+    {
+      "id": "iran-school-strike-silence",
+      "title": "The Pentagon Will Not Say What Killed 110 Children",
+      "subtitle": "Two months after a US missile apparently struck an Iranian primary school, the Defense Department has said almost nothing. Former officials say this kind of silence has never happened before.",
+      "category": "ethics"
+    },
+    {
+      "id": "fcc-disney-kimmel",
+      "title": "The FCC Opens a License Review Over a Late-Night Joke",
+      "subtitle": "The White House wants Jimmy Kimmel fired. The FCC is helping. Neither will succeed, and that may be the point.",
+      "category": "power"
+    },
+    {
+      "id": "north-korea-self-blast-doctrine",
+      "title": "Kim Praises Soldiers Who Blew Themselves Up Rather Than Surrender",
+      "subtitle": "North Korea officially honors suicide over capture. What that tells you about what Pyongyang owes Moscow, and what it fears at home.",
+      "category": "ethics"
+    }
+  ]
+}

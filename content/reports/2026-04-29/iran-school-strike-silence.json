@@ -1,0 +1,78 @@
+{
+  "id": "iran-school-strike-silence",
+  "date": "2026-04-29",
+  "generatedAt": "2026-04-29T08:00:00Z",
+  "title": "The Pentagon Will Not Say What Killed 110 Children",
+  "subtitle": "Two months after a US missile apparently struck an Iranian primary school, the Defense Department has said almost nothing. Former officials say this kind of silence has never happened before.",
+  "topic": "geopolitics",
+  "category": "ethics",
+  "tags": ["Iran", "Pentagon", "US military", "civilian harm", "accountability", "Hegseth", "Minab"],
+  "coverImage": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3dd5/live/94401ea0-4354-11f1-b55d-0f258dce1735.jpg",
+    "local": "/images/reports/2026-04-29/iran-school-strike-silence.jpg",
+    "credit": "BBC News"
+  },
+  "sources": [
+    {
+      "url": "https://www.bbc.com/news/articles/cwy2482pn0lo",
+      "publisher": "BBC News",
+      "angle": "Detailed accountability investigation comparing the Pentagon's silence on Minab with three historical cases under both Democratic and Republican administrations where the US admitted civilian casualties within weeks. Five former US military and State Department officials criticize the current posture."
+    }
+  ],
+  "brief": {
+    "actors": ["Pentagon", "Hegseth", "Trump", "Iran", "CENTCOM"],
+    "whatHappened": "On February 28, 2026, during the opening salvos of the US-Israeli war on Iran, a missile struck a primary school in Minab, Iran, killing 168 people, including approximately 110 children according to Iranian officials. US media reported in early March that a preliminary military inquiry found American forces were likely responsible due to outdated target coordinates supplied by a US intelligence agency. The BBC independently confirmed video showing a US Tomahawk missile striking an Iranian Revolutionary Guard Corps base directly adjacent to the school. Two months later, the Pentagon has said only that 'this incident is currently under investigation.' Defense Secretary Pete Hegseth has declined to answer basic questions. Congressional Democrats have received letters with no substantive answers. Not one of 15 Republican members of Congress contacted by BBC would comment.",
+    "bottomLine": "The administration is not hiding from accountability. It is establishing a new doctrine: the executive branch does not owe the public an explanation for civilian deaths in wars it starts without a declaration, and it will wait out any inquiry until it ceases.",
+    "hiddenBets": [
+      {
+        "assumption": "The investigation is genuinely ongoing and the Pentagon will eventually release findings.",
+        "whyItMightBeWrong": "Former Pentagon officials told the BBC that the preliminary inquiry's existence confirms the US military already knows it was responsible. The formal investigation is not gathering new facts; it is controlling the timeline for disclosure. A report that takes years to produce becomes moot."
+      },
+      {
+        "assumption": "Trump's claim that Iran was responsible for the school strike was a mistake or misinformation.",
+        "whyItMightBeWrong": "Trump's claim was made on March 7, days after internal military investigators believed the US was likely responsible. A former State Department official told the BBC that Trump's false attribution makes it politically impossible for any Pentagon official to correct the record while the president is on record to the contrary. The silence is not about the investigation. It is about not contradicting the president."
+      },
+      {
+        "assumption": "This silence is exceptional behavior from the Trump administration.",
+        "whyItMightBeWrong": "The civilian harm reduction unit at the Pentagon was significantly reduced under Hegseth when he took office. The institutional infrastructure for accountability was deliberately removed before the war started. The silence is not a deviation from policy; it is the policy."
+      }
+    ],
+    "realDisagreement": "The genuine fork is between two conceptions of wartime accountability. One holds that civilian harm investigations must be conducted regardless of political costs, because accountability deters future mistakes and preserves US credibility with allies and adversaries alike. The other holds that wartime solidarity requires not undermining the president's public narrative while a conflict is active, and that post-war accountability is sufficient. The first position has historical support: every prior administration, Republican and Democratic, released at least partial information within weeks. The second is the current operational reality. The cost of the second position is concrete: 110 children are dead, the UN Fact Finding Mission has been denied access to the site, and there is no mechanism forcing disclosure. The law of war still applies, but only if someone is willing to enforce it.",
+    "whatNoOneIsSaying": "The Minab strike may not be an isolated error. If outdated targeting coordinates killed 110 children at one school, the same intelligence infrastructure produced coordinates for all other targets in the opening weeks of the Iran campaign. The scale of potential civilian harm across all of those strikes is an unreported story that the investigation's narrow focus on Minab is helping to obscure.",
+    "whoPays": [
+      {
+        "who": "Iranian civilians killed in airstrikes",
+        "how": "No accountability, no acknowledgment, no apology. Iranian families have no recourse and no way to determine if the deaths were mistakes or decisions.",
+        "when": "Immediate and permanent unless a future government revisits the record"
+      },
+      {
+        "who": "US credibility in future civilian harm disputes",
+        "how": "Every ally and adversary now knows the US will not follow its own civilian harm protocols when they are politically inconvenient. This degrades the leverage of future US diplomatic protests over others' civilian casualties.",
+        "when": "Medium-term, as the precedent becomes established"
+      },
+      {
+        "who": "Career military lawyers and civilian harm experts",
+        "how": "The Pentagon's Civilian Protection Center of Excellence was already gutted under Hegseth. Officials who publicly criticize the administration's handling face professional consequences. The expertise itself is being eliminated.",
+        "when": "Ongoing"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Investigation released after war ends",
+        "whatHappens": "When hostilities formally cease, the administration releases a heavily redacted investigation finding limited accountability and attributing the error to an intelligence agency rather than military command. No one is held responsible. The findings are accepted because the war is over.",
+        "signal": "Watch for any ceasefire or formal end of hostilities to be followed by a quiet report release within 30 days."
+      },
+      {
+        "name": "Congressional forcing",
+        "whatHappens": "A Republican senator breaks with the administration on this issue, forcing a classified briefing or public testimony from CENTCOM. The administration releases partial information to prevent a more damaging forced disclosure.",
+        "signal": "Any Republican senator publicly requesting a CENTCOM briefing on Minab."
+      },
+      {
+        "name": "Permanent silence",
+        "whatHappens": "No report is ever publicly released. The Minab strike joins a class of events the US government officially acknowledges investigating but never concludes. The UN Fact Finding Mission publishes its own findings, which the US dismisses.",
+        "signal": "Investigation still listed as 'ongoing' in 12 months with no updates."
+      }
+    ],
+    "whatWouldChange": "If a Republican member of Congress or a serving military officer publicly confirmed the preliminary findings, the administration would face pressure to either confirm or directly contradict an on-record source, forcing a choice between embarrassment and insubordination charges."
+  }
+}
