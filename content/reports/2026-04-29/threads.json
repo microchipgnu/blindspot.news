@@ -6,45 +6,84 @@
       "title": "The Iran War Is Reshaping Every Other Story",
       "description": "The US-Iran war, now two months old, is not just a military conflict. It is a structural event that is reconfiguring oil markets, exposing accountability gaps in the US military, and creating the conditions for OPEC's fragmentation. The UAE's exit from OPEC, the blockade of the Strait of Hormuz, and the Pentagon's silence over the Minab school strike are not three separate stories. They are three symptoms of a war whose full costs are still being suppressed.",
       "type": "cause-effect",
-      "stories": ["uae-opec-exit", "iran-school-strike-silence"],
+      "stories": ["uae-opec-exit", "iran-school-strike-silence", "iran-crypto-sanctions-evasion", "trump-war-powers-iran-deadline"],
       "connections": [
         {
           "from": "iran-school-strike-silence",
           "to": "uae-opec-exit",
           "relationship": "The same war that killed 110 children in Minab and which the Pentagon will not discuss is also the event that created the political cover for the UAE to exit OPEC: the Hormuz blockade gave the UAE a strategic rationale for the Fujairah pipeline that would have been diplomatically impossible to pursue while the Gulf was stable."
+        },
+        {
+          "from": "trump-war-powers-iran-deadline",
+          "to": "iran-crypto-sanctions-evasion",
+          "relationship": "The legal uncertainty about whether Trump can continue the war past May 1 directly affects the duration of the Hormuz blockade, which determines how urgently Iran needs the crypto and Russia-INSTC financial rails to sustain its economy."
         }
       ]
     },
     {
       "id": "executive-accountability-void",
       "title": "The Executive Branch Has Stopped Explaining Itself",
-      "description": "Four of today's six stories are about the same underlying question: whether the US executive branch is still bound by the obligation to account for its actions. The Pentagon will not say what killed 110 children. The DOJ charges a political opponent on evidence legal experts call constitutionally worthless. The FCC uses regulatory process to punish a television joke. In each case, the action is taken, the legal justification is asserted, and no further explanation is offered. The pattern is not coincidental. It is operational.",
+      "description": "Five of today's stories are about the same underlying question: whether the US executive branch is still bound by the obligation to account for its actions. The Pentagon will not say what killed 110 children. The DOJ charges a political opponent on evidence legal experts call constitutionally worthless. The FCC uses regulatory process to punish a television joke. The administration ignores a War Powers deadline without comment. In each case, the action is taken, the legal justification is asserted, and no further explanation is offered. The pattern is not coincidental.",
       "type": "tension-cluster",
-      "stories": ["iran-school-strike-silence", "comey-seashell-indictment", "fcc-disney-kimmel"],
+      "stories": ["iran-school-strike-silence", "comey-seashell-indictment", "fcc-disney-kimmel", "trump-war-powers-iran-deadline", "scotus-tps-deportation"],
       "connections": [
         {
           "from": "comey-seashell-indictment",
           "to": "fcc-disney-kimmel",
-          "relationship": "The Comey indictment and the FCC action both use the formal legal apparatus to generate costs and uncertainty for critics of the administration, without requiring a conviction or license revocation. Both are designed to function as deterrents, not outcomes."
+          "relationship": "The Comey indictment and the FCC action both use the formal legal apparatus to generate costs and uncertainty for critics of the administration, without requiring a conviction or license revocation. Both function as deterrents, not outcomes."
         },
         {
           "from": "fcc-disney-kimmel",
           "to": "iran-school-strike-silence",
           "relationship": "The FCC's suppression of broadcast criticism and the Pentagon's suppression of civilian harm disclosure are both executive branch actions using regulatory and classification authority to prevent information the administration finds politically costly from reaching the public."
+        },
+        {
+          "from": "trump-war-powers-iran-deadline",
+          "to": "scotus-tps-deportation",
+          "relationship": "Both the War Powers and TPS cases involve the same structural claim: that executive discretion on national security and immigration is unreviewable by Congress and courts respectively. The administration is making the identical argument in both venues simultaneously."
         }
       ]
     },
     {
       "id": "russia-at-center-of-both-wars",
       "title": "Russia Is Running Both Anti-US Fronts at Once",
-      "description": "North Korea's soldiers are dying for Russia in Ukraine while Russia's superyachts clear the Strait of Hormuz with Iranian permission and Russian officials attend Kim Jong Un's memorial ceremonies. Russia is not a passive beneficiary of the Iran war and the Ukraine conflict running simultaneously. It is actively positioned as the diplomatic and military anchor of both anti-US alignments. The two theatres look separate in Western reporting but share a single enabling power.",
+      "description": "North Korea's soldiers are dying for Russia in Ukraine while Russia's trade corridors are Iran's best alternative to the Hormuz blockade. Russia is not a passive beneficiary of the Iran war and the Ukraine conflict running simultaneously. It is actively positioned as the diplomatic and economic anchor of both anti-US alignments, gaining oil price support from the Iran war while extracting military labor from North Korea for Ukraine.",
       "type": "dependency-web",
-      "stories": ["north-korea-self-blast-doctrine", "uae-opec-exit"],
+      "stories": ["north-korea-self-blast-doctrine", "uae-opec-exit", "iran-crypto-sanctions-evasion"],
       "connections": [
         {
           "from": "north-korea-self-blast-doctrine",
+          "to": "iran-crypto-sanctions-evasion",
+          "relationship": "Russia's willingness to act as Iran's economic lifeline via the INSTC corridor is sustained partly by the mutual benefit structure: Iran provides drone technology to Russia for Ukraine while Russia provides trade routes and diplomatic cover. Kim's suicide doctrine confirms North Korea is also embedded in this same network of mutual military-economic support."
+        },
+        {
+          "from": "iran-crypto-sanctions-evasion",
           "to": "uae-opec-exit",
-          "relationship": "Russia's deepening alliance with North Korea, cemented through the mutual defense treaty and Kim's troop deployment, gives Moscow leverage that makes it more willing to support Iran's position on the Hormuz blockade, which in turn delays the resolution that would allow UAE oil to flow and OPEC fragmentation to become visible."
+          "relationship": "The UAE's exit from OPEC reflects its calculation that Gulf oil infrastructure is now permanently exposed to military risk under Iranian control of the Strait. Iran's successful construction of a parallel crypto financial rail is part of the same strategic reality: the Gulf order the UAE built its wealth on is dissolving."
+        }
+      ]
+    },
+    {
+      "id": "institutional-erosion-cluster",
+      "title": "Four American Institutions Are Being Hollowed Out in the Same Week",
+      "description": "The Federal Reserve is losing its most independent chair. The Supreme Court is being asked to ratify unlimited executive immigration authority. The War Powers Resolution's 60-day limit is being ignored without political consequence. AI safety labs are deploying systems their own teams flagged as capable of bioweapon uplift. These are not related by a single actor or policy. They share an underlying pattern: institutions designed to constrain power are being stress-tested simultaneously, and the tests are revealing that the constraints are weaker than the designs assumed.",
+      "type": "tension-cluster",
+      "stories": ["powell-final-fed-meeting", "scotus-tps-deportation", "trump-war-powers-iran-deadline", "ai-chatbots-bioweapons"],
+      "connections": [
+        {
+          "from": "powell-final-fed-meeting",
+          "to": "trump-war-powers-iran-deadline",
+          "relationship": "Both the Fed independence norm and the War Powers Resolution are constraints on executive power that operate through convention and political will rather than enforceable law. Crossing one makes crossing the other marginally easier."
+        },
+        {
+          "from": "scotus-tps-deportation",
+          "to": "trump-war-powers-iran-deadline",
+          "relationship": "The administration's argument in both cases is identical: Congress created a rule, but the executive branch's discretion to administer that rule is unreviewable. The Supreme Court is being asked to validate the same logic the administration is applying to the War Powers question."
+        },
+        {
+          "from": "ai-chatbots-bioweapons",
+          "to": "powell-final-fed-meeting",
+          "relationship": "The AI safety failure and the Fed independence erosion share the same structural dynamic: institutions that function through voluntary norms and reputational constraints are discovered to be more fragile than assumed when actors under competitive or political pressure choose not to honor those norms."
         }
       ]
     }

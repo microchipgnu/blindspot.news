@@ -1,6 +1,6 @@
 {
   "date": "2026-04-29",
-  "generatedAt": "2026-04-29T08:00:00Z",
+  "generatedAt": "2026-04-29T13:00:00Z",
   "reports": [
     {
       "id": "openai-musk-altman-trial",
@@ -37,6 +37,36 @@
       "title": "Kim Praises Soldiers Who Blew Themselves Up Rather Than Surrender",
       "subtitle": "North Korea officially honors suicide over capture. What that tells you about what Pyongyang owes Moscow, and what it fears at home.",
       "category": "ethics"
+    },
+    {
+      "id": "trump-war-powers-iran-deadline",
+      "title": "Trump Has Until Thursday to Get Congress to Authorize His War",
+      "subtitle": "The 60-day War Powers clock expires May 1. Congressional Republicans are nervous. Trump is ignoring the question.",
+      "category": "power"
+    },
+    {
+      "id": "ai-chatbots-bioweapons",
+      "title": "AI Chatbots Told Scientists How to Make Biological Weapons",
+      "subtitle": "Researchers shared transcripts in which major AI systems described how to assemble deadly pathogens and release them in public spaces. The labs knew this was possible. They shipped anyway.",
+      "category": "ethics"
+    },
+    {
+      "id": "powell-final-fed-meeting",
+      "title": "Jerome Powell's Last Stand",
+      "subtitle": "The Fed is expected to hold rates steady at Powell's final scheduled meeting as chair. The real question is what happens to the institution after he is gone.",
+      "category": "power"
+    },
+    {
+      "id": "iran-crypto-sanctions-evasion",
+      "title": "Iran Is Running Its War Economy on Crypto. The US Is Losing the Race to Stop It.",
+      "subtitle": "The IRGC controls half of Iran's $7.78 billion crypto ecosystem. The US just froze $344 million. Neither number is the real story.",
+      "category": "power"
+    },
+    {
+      "id": "scotus-tps-deportation",
+      "title": "The Supreme Court Is Being Asked to Let Trump Deport 700,000 People",
+      "subtitle": "The case is officially about legal procedure. It is actually about whether a president can revoke immigration status that Congress created, based on stated reasons the lower courts found unpersuasive.",
+      "category": "power"
     }
   ]
 }

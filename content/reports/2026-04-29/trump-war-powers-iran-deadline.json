@@ -1,0 +1,99 @@
+{
+  "id": "trump-war-powers-iran-deadline",
+  "date": "2026-04-29",
+  "generatedAt": "2026-04-29T13:00:00Z",
+  "title": "Trump Has Until Thursday to Get Congress to Authorize His War",
+  "subtitle": "The 60-day War Powers clock expires May 1. Congressional Republicans are nervous. Trump is ignoring the question.",
+  "topic": "geopolitics",
+  "category": "power",
+  "tags": ["Iran", "War Powers Act", "Congress", "Trump", "military"],
+  "sources": [
+    {
+      "url": "https://www.aljazeera.com/news/2026/4/24/trumps-may-1-deadline-can-he-continue-war-on-iran-after-that",
+      "publisher": "Al Jazeera",
+      "angle": "Detailed legal explainer on War Powers Resolution constraints, congressional dynamics, and historical precedents for how presidents have bypassed the 60-day limit"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/04/28/us/politics/king-charles-trump-rebuke.html",
+      "publisher": "The New York Times",
+      "angle": "Contextual coverage of the political environment around the Iran war: allies pushing back on Trump, Democrats demanding oversight, Republicans showing unease"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Congress", "Iran", "Senate Republicans", "Democrats"],
+    "whatHappened": "The War Powers Resolution's 60-day clock on Trump's Iran military campaign expires May 1. Trump announced a unilateral extension of a fragile ceasefire with Iran last week but has not sought formal congressional authorization to continue the war. Four separate bipartisan Senate votes to invoke the War Powers Resolution and restrict military action have failed along party lines. Republican senators including John Curtis and Don Bacon have publicly stated they will require a vote after the 60-day window closes. Iran's foreign minister traveled to Moscow this week for talks with Putin as Tehran seeks economic options and diplomatic cover while the blockade continues.",
+    "bottomLine": "Trump is almost certainly going to blow past the May 1 deadline without congressional authorization, and the Republicans who said they would hold the line almost certainly will not. The War Powers Resolution has never once forced a president to stop a war.",
+    "hiddenBets": [
+      {
+        "assumption": "Republican senators who threatened to withhold authorization will actually vote to end the war",
+        "whyItMightBeWrong": "Every senator who has said they require authorization has also said they support the president's actions so far. The vote to end a war, during a war, against a sitting president of your own party, two years before midterms, has never happened. Curtis and Bacon are making a constitutional argument that gives them cover to eventually vote yes when the authorization bill arrives."
+      },
+      {
+        "assumption": "The ceasefire with Iran is a real cessation of hostilities that changes the legal calculus",
+        "whyItMightBeWrong": "US forces captured an Iranian container ship on April 27. US intercepted at least three Iranian tankers in Asian waters that same week. The blockade of Iranian ports is active and ongoing. Calling this a ceasefire while enforcing a naval siege is a legal and factual stretch, but the administration will use it to argue the 60-day clock should reset or that 'hostilities' have paused."
+      },
+      {
+        "assumption": "Congress is the relevant constraint here",
+        "whyItMightBeWrong": "Trump has the 2001 and 2002 AUMFs as fallback legal authority. The Obama administration used the 2001 AUMF for operations it could not connect directly to 9/11. The Clinton administration fought a 79-day air war in Yugoslavia without congressional authorization and the courts did not stop it. The legal tools to continue the war indefinitely without new authorization already exist."
+      }
+    ],
+    "realDisagreement": "The real fork is between two things that both seem right: the War Powers Resolution is the law, and it has never once actually stopped a president. If you believe constitutional norms matter independent of enforcement, the deadline is real and Republican capitulation would be a genuine institutional failure. If you believe law is what courts enforce, the War Powers Resolution is already a dead letter and the debate is theater. The second view is more accurate as a prediction. The first view matters more as a standard. Both cannot be fully true at once. The cost of accepting the second view is that no future president will feel bound by any war authorization timeline."
+    ,
+    "whatNoOneIsSaying": "Iran's ceasefire extension was strategically useful for Trump not because it advances peace but because it resets the political narrative right before the deadline. Announcing a ceasefire extension lets Republicans say the war is pausing, reducing the urgency of the vote. It is the deadline that is being managed, not the war.",
+    "whoPays": [
+      {
+        "who": "Haitian and Syrian TPS holders",
+        "how": "Unrelated, but the same week the administration claims it lacks time for congressional process on the war, it is in SCOTUS arguing the executive has total discretion over immigration status. The juxtaposition is not accidental: the administration treats executive power as boundless when asserting it and treats procedural constraints as technicalities when inconvenient.",
+        "when": "Ongoing"
+      },
+      {
+        "who": "Senate Republicans in swing states",
+        "how": "A prolonged unpopular war heading into 2026 midterms. Trump's approval rating has dropped to its lowest recorded level according to polls cited in Al Jazeera coverage. Republicans who backed the war are now attached to it.",
+        "when": "November 2026"
+      },
+      {
+        "who": "The institution of the War Powers Resolution",
+        "how": "Each time a president crosses the 60-day threshold without penalty, the law becomes more obviously unenforceable. After this instance, a future president facing a more constrained Congress will cite Iran 2026 as precedent.",
+        "when": "Long-term, permanent"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Rubber Stamp",
+        "whatHappens": "Republicans in both chambers pass a joint resolution authorizing continued operations before or shortly after May 1, framed as support for the troops rather than for the war. The deadline passes without incident and the administration claims democratic legitimacy.",
+        "signal": "Senate Majority Leader schedules a vote in the next 72 hours. Watch for a sudden softening of language from Curtis and Bacon."
+      },
+      {
+        "name": "Deadline Theater",
+        "whatHappens": "May 1 passes with no vote. Trump does not pull back militarily. Republican senators issue statements expressing 'concern' but take no action. Courts decline to hear emergency injunctions filed by Democrats. The ceasefire is cited as rendering the question moot.",
+        "signal": "No Senate floor vote scheduled by April 30. This is already the most likely path. Polymarket puts a War Powers resolution passing Congress by May 31 at only 11%."
+      },
+      {
+        "name": "Defection",
+        "whatHappens": "Three to five Republican senators break from the party and vote with Democrats on a War Powers resolution that would require Trump to wind down operations. It passes the Senate. The House blocks it. A constitutional crisis over enforcement begins.",
+        "signal": "Watch for Republican senators facing tough 2026 races, particularly those in states where Iran war polling is worst, to schedule press conferences in the next 48 hours."
+      }
+    ],
+    "whatWouldChange": "If a Republican senator publicly states they will vote to cut off war funding by name, that changes the scenario calculus. Short of that, the pattern of the past 50 years of War Powers theater is the base case.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Congress passes Iran war powers resolution by May 31?",
+        "url": "https://polymarket.com/event/congress-passes-iran-war-powers-resolution-by-may-31",
+        "probability": 0.11
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Congress passes Iran war powers resolution by April 30?",
+        "url": "https://polymarket.com/event/congress-passes-iran-war-powers-resolution-by-april-30",
+        "probability": 0.006
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US x Iran permanent peace deal by May 31, 2026?",
+        "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by",
+        "probability": 0.295
+      }
+    ]
+  }
+}

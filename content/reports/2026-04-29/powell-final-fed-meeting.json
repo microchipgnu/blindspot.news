@@ -1,0 +1,103 @@
+{
+  "id": "powell-final-fed-meeting",
+  "date": "2026-04-29",
+  "generatedAt": "2026-04-29T13:00:00Z",
+  "title": "Jerome Powell's Last Stand",
+  "subtitle": "The Fed is expected to hold rates steady at Powell's final scheduled meeting as chair. The real question is what happens to the institution after he is gone.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Federal Reserve", "Powell", "interest rates", "Trump", "Warsh", "inflation"],
+  "coverImage": {
+    "url": "https://static01.nyt.com/images/2026/04/29/multimedia/29dc-fed-gtjh/29dc-fed-gtjh-mediumSquareAt3X.jpg",
+    "local": "/images/reports/2026-04-29/powell-final-fed-meeting.jpg",
+    "credit": "The New York Times / Caroline Gutman"
+  },
+  "sources": [
+    {
+      "url": "https://www.nytimes.com/2026/04/29/business/economy/what-to-watch-at-the-federal-reserves-april-meeting.html",
+      "publisher": "The New York Times",
+      "angle": "Pre-meeting preview: Fed widely expected to hold rates steady, framed as Powell's final meeting as chair. Covers the political backdrop including Trump's pressure campaign and Kevin Warsh as the likely successor."
+    },
+    {
+      "url": "https://www.bbc.com/news/business/2026/04/29/financial-crisis-warning",
+      "publisher": "BBC",
+      "angle": "Broader warning about financial instability: several warning indicators flashing that have some economists wondering if a fresh financial crisis is developing, in part because of elevated rates combined with tariff shock."
+    }
+  ],
+  "brief": {
+    "actors": ["Powell", "Trump", "Fed", "Warsh", "Congress"],
+    "whatHappened": "The Federal Reserve is holding its April meeting on April 29-30, widely expected to be Jerome Powell's final session as chair before his term expires in May. The Fed is broadly expected to hold the federal funds rate steady amid conflicting signals: the Iran war has pushed oil prices above $115 a barrel, adding inflationary pressure, while tariff uncertainty and a contracting first-quarter GDP figure point toward slowing growth. Trump has publicly named Kevin Warsh as his preferred successor to Powell and has nominated him; Warsh's Senate confirmation is pending. Markets price a 57% probability that Powell departs as Fed chair by May 16, and a 96.6% probability he departs by June 30.",
+    "bottomLine": "This is not a consequential meeting on rates. It is a consequential meeting on whether the Fed's independence survives the transition to a chair who was explicitly chosen by a president who wants lower rates before midterm elections.",
+    "hiddenBets": [
+      {
+        "assumption": "Kevin Warsh will operate the Fed with meaningful independence from Trump",
+        "whyItMightBeWrong": "Warsh was selected specifically because he has publicly criticized the Fed's post-2008 approach to accommodation and signaled sympathy for rate cuts under current conditions. Trump does not make personnel decisions to obtain independence. Warsh's incentive structure, having been nominated by Trump in a political environment where Fed loyalty is the price of confirmation, is different from Powell's. Powell was reconfirmed by Biden, which paradoxically gave him more political room to hold rates."
+      },
+      {
+        "assumption": "A hold at this meeting is the neutral, non-political choice",
+        "whyItMightBeWrong": "Holding rates while oil is above $115, a Hormuz blockade continues, and tariffs are still in force is itself a political act. It prevents cuts that Trump wants and that some economists argue the slowing growth figures justify. The hold is Powell making a statement that will outlast his tenure: that the institution will not bend to political pressure even in its final days of independence."
+      },
+      {
+        "assumption": "Senate confirmation of Warsh is straightforward",
+        "whyItMightBeWrong": "Lisa Murkowski is at 61% on Polymarket to vote to confirm Warsh. Several other moderate Republicans may extract concessions on Fed independence commitments before voting yes. Democrats will use the hearing to extract on-the-record statements about central bank independence that will be used against Warsh if he subsequently cuts rates in politically convenient ways."
+      }
+    ],
+    "realDisagreement": "The genuine tension is between two readings of what the Fed chair job actually is. One reading: the Fed chair is an independent technocrat who operates a rules-based monetary policy immune from politics. The other: the Fed chair is a presidential appointee who serves at the pleasure of the political system that placed them there, and the independence norm is a tradition, not a law, maintained only as long as it is politically tolerable. Powell operated under the first reading even when Trump publicly berated him. Warsh was nominated under the second. Both readings cannot describe the same institution. The transition from one reading to the other does not require any explicit policy change; it just requires Warsh to make a series of individually defensible decisions that systematically lean in the politically convenient direction.",
+    "whatNoOneIsSaying": "The timing of Powell's departure in May means the next Fed chair will make the first rate decision during the June meeting, four months before the 2026 midterms. Trump nominated Warsh knowing exactly when the first interest rate decision would occur.",
+    "whoPays": [
+      {
+        "who": "Holders of long-term US government bonds",
+        "how": "Perceived Fed politicization raises the inflation risk premium on US treasuries. If markets price Warsh as a political actor rather than an independent technocrat, the yield on the 10-year climbs regardless of the policy rate decision, raising the cost of government borrowing and consumer debt.",
+        "when": "Immediately at confirmation, and at each subsequent rate decision"
+      },
+      {
+        "who": "Workers in rate-sensitive sectors: construction, manufacturing, auto",
+        "how": "If politically driven rate cuts come early, inflation re-accelerates. These are the workers who most directly feel the price of groceries, rent, and fuel, and who most directly lose jobs when subsequent rate hikes are required to bring inflation back down.",
+        "when": "12 to 24 months after premature rate cuts, if they occur"
+      },
+      {
+        "who": "International dollar holders and US trading partners",
+        "how": "A politicized Fed undermines the dollar's reserve currency status over time. Countries already exploring alternatives to dollar-denominated trade, particularly those under US sanctions pressure, would accelerate those alternatives if the dollar's monetary anchor is seen as politically manipulated.",
+        "when": "Long-term structural, 5 to 10 years"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Clean Hold, Clean Exit",
+        "whatHappens": "Powell holds rates, makes no dramatic public statements, departs quietly in May. Warsh is confirmed, signals rate flexibility, and the transition is treated as normal. Markets adjust to slightly higher rate-cut expectations under the new chair, long yields tick up modestly.",
+        "signal": "FOMC statement is nearly identical to the prior meeting's. No dissent in the vote."
+      },
+      {
+        "name": "Powell Digs In",
+        "whatHappens": "Powell uses his final meeting statement or press conference to make an explicit, on-the-record case for institutional independence, citing the oil price and tariff inflation risks as reasons to hold a higher-for-longer posture. This becomes a public confrontation with Trump's publicly stated preferences and creates confirmation pressure on Warsh to explicitly disagree.",
+        "signal": "Press conference language on 'independence' and 'price stability mandate' becomes unusually emphatic. Watch for phrases that read as rebuttals to specific Trump criticism."
+      },
+      {
+        "name": "Confirmation Fight",
+        "whatHappens": "Warsh's Senate confirmation stalls as Democrats use the bioweapons/AI news cycle and Iran war debate to argue about executive overreach more broadly. The Fed operates under an acting chair or deputy for several months, creating genuine institutional uncertainty.",
+        "signal": "Polymarket's market on Powell departing by May 16 is already at 57%, implying meaningful probability of a delay. Watch for Senate scheduling."
+      }
+    ],
+    "whatWouldChange": "If inflation data released before the June meeting shows a genuine deceleration despite the oil price spike, there would be an honest economic case for a rate cut that does not require political capture. That would make the Warsh situation genuinely ambiguous rather than transparently political.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Jerome Powell depart as Fed Chair by May 16 2026?",
+        "url": "https://polymarket.com/event/jerome-powell-departs-as-fed-chair-by",
+        "probability": 0.57
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Jerome Powell depart as Fed Chair by June 30 2026?",
+        "url": "https://polymarket.com/event/jerome-powell-departs-as-fed-chair-by",
+        "probability": 0.966
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Trump try to fire Powell as Fed Board Member by June 30, 2026?",
+        "url": "https://polymarket.com/event/will-trump-try-to-fire-powell-as-fed-board-member-by",
+        "probability": 0.125
+      }
+    ]
+  }
+}
