@@ -2,93 +2,64 @@
   "date": "2026-04-30",
   "threads": [
     {
-      "id": "iran-war-inflating-everything",
-      "title": "The Iran War Is the Hidden Variable in Every Other Story",
-      "description": "The Iran war is not just a geopolitics story today. It is the reason the Fed held rates and may not cut until 2027. It is a significant driver of Meta's AI capex pressure: high rates make the payback period on $145 billion longer and the investor case harder. It is the backdrop against which Kevin Warsh will inherit a Fed already under political attack, with oil-driven inflation as his first test. Three apparently separate stories, two in economics and one in tech, only make full sense when you see the war running through all of them.",
-      "type": "dependency-web",
-      "stories": ["iran-war-escalation", "powell-final-fed-meeting", "big-tech-ai-earnings", "warsh-fed-confirmation"],
-      "connections": [
-        {
-          "from": "iran-war-escalation",
-          "to": "powell-final-fed-meeting",
-          "relationship": "Oil at $126 Brent drove March inflation to 3.3%, forcing the Fed to hold rates and pushing analyst projections for cuts to 2027, constraining Warsh's options before he even takes the chair."
-        },
-        {
-          "from": "powell-final-fed-meeting",
-          "to": "warsh-fed-confirmation",
-          "relationship": "Powell's exit under political siege gives Warsh his mandate: he inherits a war-driven inflation problem and a president who just demonstrated that DOJ probes are available as leverage against Fed chairs who resist."
-        },
-        {
-          "from": "iran-war-escalation",
-          "to": "big-tech-ai-earnings",
-          "relationship": "Sustained energy cost inflation filters through data center operating costs and supply chain inputs, adding a structural headwind to the AI infrastructure build that none of the four tech CEOs quantified publicly."
-        },
-        {
-          "from": "powell-final-fed-meeting",
-          "to": "big-tech-ai-earnings",
-          "relationship": "Delayed rate cuts raise the cost of capital for companies carrying $650 billion in AI capex, extending payback periods and increasing the margin between what companies are spending and what they can show investors in near-term returns."
-        }
-      ]
-    },
-    {
-      "id": "institutions-under-pressure",
-      "title": "Three Institutions Are Being Tested Simultaneously",
-      "description": "Today features three separate American institutions facing challenges to their independence and authority, each through a different mechanism. The Fed is being attacked legally and politically by the executive branch. The Supreme Court is actively rewriting the rules of democratic representation in ways that advantage the party that appointed the current majority. OpenAI, a nominally public-benefit organization, is defending the right to abandon its founding structure for commercial reasons. What connects them is a common question about whether institutional norms survive once a powerful actor decides to push through them.",
-      "type": "tension-cluster",
-      "stories": ["powell-final-fed-meeting", "scotus-voting-rights-louisiana", "musk-openai-trial", "warsh-fed-confirmation"],
-      "connections": [
-        {
-          "from": "powell-final-fed-meeting",
-          "to": "warsh-fed-confirmation",
-          "relationship": "The DOJ probe into Powell was opened under political pressure and closed precisely when the Tillis hold lifted: the sequence demonstrates that institutional independence is now negotiable, which is the context Warsh inherits."
-        },
-        {
-          "from": "scotus-voting-rights-louisiana",
-          "to": "warsh-fed-confirmation",
-          "relationship": "Both the SCOTUS voting rights ruling and the Warsh confirmation were achieved through processes that followed every formal rule while hollowing out the norm each institution was supposed to protect: minority representation and central bank independence, respectively."
-        },
-        {
-          "from": "musk-openai-trial",
-          "to": "powell-final-fed-meeting",
-          "relationship": "Both cases turn on the same question: when a powerful actor decides an institutional structure is inconvenient, what actually enforces the original commitment? For the Fed, the answer is norms and political cost. For OpenAI's non-profit mission, the answer is apparently nothing."
-        }
-      ]
-    },
-    {
-      "id": "saudi-arabia-losing-its-levers",
-      "title": "Saudi Arabia Is Losing Every Lever at Once",
-      "description": "On the same day, Saudi Arabia is losing its oil cartel leadership position through the UAE's OPEC exit, losing its flagship soft-power project through LIV Golf's funding collapse, and watching the Iran war drive prices it cannot easily influence. These stories look unrelated but they are all about the same strategic fact: Riyadh built its post-oil influence strategy around controlling a cartel, buying reputational assets, and managing the Iran threat as a negotiating chip. All three are unwinding simultaneously.",
+      "id": "hormuz-stranglehold",
+      "title": "One Closed Strait Is Breaking Three Systems at Once",
+      "description": "The Strait of Hormuz closure is not just an oil story. It is simultaneously the proximate cause of the Fed's inflation trap, the mechanism that is shifting battlefield dynamics in Ukraine by boosting Russian oil revenue and diverting Western ammunition, and the event that has pushed US GDP growth below trend while preventing the rate cuts that could sustain it. Three stories today -- the PCE inflation print, the Ukraine ceasefire, and the Iran war -- are downstream of a single choke point that no actor in any of those stories controls.",
       "type": "cause-effect",
-      "stories": ["uae-quits-opec", "liv-golf-saudi-collapse", "iran-war-escalation"],
+      "stories": ["pce-inflation-iran-war-fed-trap", "putin-may9-ceasefire-ukraine", "iran-war-escalation"],
       "connections": [
         {
           "from": "iran-war-escalation",
-          "to": "uae-quits-opec",
-          "relationship": "The Iran war has pushed oil prices high enough that the UAE can afford to leave OPEC and pump without coordination; at $60 oil, Abu Dhabi would need the cartel's discipline to protect revenues, but at $126, independence is more profitable than solidarity."
+          "to": "pce-inflation-iran-war-fed-trap",
+          "relationship": "The Hormuz closure is the direct cause of the energy price spike driving PCE to 3.5%; without it, the Fed would likely have cut rates and GDP growth would be higher."
         },
         {
-          "from": "uae-quits-opec",
-          "to": "liv-golf-saudi-collapse",
-          "relationship": "Both represent Saudi Arabia discovering simultaneously that money cannot buy loyalty in economics or in sport: the UAE took Saudi oil security guarantees for decades then left when the math changed, just as LIV players took Saudi contracts and cannot deliver the legitimacy Riyadh bought."
+          "from": "iran-war-escalation",
+          "to": "putin-may9-ceasefire-ukraine",
+          "relationship": "The Iran war diverted Western ammunition and temporarily suspended Russian oil sanctions, giving Russia a financial windfall that prolonged its ability to fight -- but WPR reporting shows Ukraine has nonetheless gained the battlefield upper hand, complicating the ceasefire calculus."
         }
       ]
     },
     {
-      "id": "who-pays-for-green-energy-retreat",
-      "title": "The Bill for Dismantling the Energy Transition Is Becoming Visible",
-      "description": "Trump's $2 billion offshore wind buyout and Saudi Arabia's retreat from LIV Golf both share a structure: public or sovereign money was spent to purchase outcomes that the market would not deliver on its own. In both cases the bet failed and someone else absorbs the loss. For offshore wind, US taxpayers pay. For LIV, the Saudi sovereign wealth fund writes it off. The asymmetry is instructive: when governments use public money to suppress market-desired assets, the cost becomes a public liability rather than a market signal.",
+      "id": "executive-unchecked",
+      "title": "Four Stories About Whether the Executive Branch Needs Permission",
+      "description": "Today's news produced four separate tests of whether the executive branch can act unilaterally without legal authorization: Trump fighting Congress over ICE funding, the SCOTUS case over whether TPS terminations are even reviewable by courts, Putin announcing a ceasefire Ukraine did not agree to, and the Iran war hitting its 60th day without congressional authorization under the War Powers Act. In each case, the actor claiming authority insists the law either permits or is irrelevant to what they are doing. In each case, a legal or institutional check exists on paper and is being tested in practice.",
       "type": "tension-cluster",
-      "stories": ["trump-offshore-wind-buyout", "liv-golf-saudi-collapse", "uae-quits-opec"],
+      "stories": ["dhs-shutdown-ends-ice-defunded", "scotus-tps-haiti-syria", "putin-may9-ceasefire-ukraine", "iran-war-escalation"],
       "connections": [
         {
-          "from": "trump-offshore-wind-buyout",
-          "to": "uae-quits-opec",
-          "relationship": "Trump paying to cancel US offshore wind capacity while UAE exits OPEC to pump more oil creates a structural reinforcement of fossil fuel dependence: the US removes domestic supply alternatives precisely as Gulf supply becomes more unpredictable."
+          "from": "dhs-shutdown-ends-ice-defunded",
+          "to": "scotus-tps-haiti-syria",
+          "relationship": "The DHS funding fight and the TPS case are two tracks of the same immigration enforcement strategy: the legislative track failed for now, but the judicial track may deliver unreviewable executive authority over deportation decisions."
         },
         {
-          "from": "liv-golf-saudi-collapse",
-          "to": "trump-offshore-wind-buyout",
-          "relationship": "Both are examples of sovereign or executive power overriding market signals to achieve a desired cultural or political outcome. Both failed on their own terms, and in both cases, the cost is borne by the public rather than the decision-makers."
+          "from": "scotus-tps-haiti-syria",
+          "to": "iran-war-escalation",
+          "relationship": "If the court rules TPS terminations are unreviewable, it validates the administration's theory that domestic statutory programs can be terminated without judicial check -- a theory the administration is simultaneously deploying in the Iran war by arguing the War Powers Act does not require action after 60 days."
+        },
+        {
+          "from": "iran-war-escalation",
+          "to": "putin-may9-ceasefire-ukraine",
+          "relationship": "Trump's willingness to conduct an unauthorized war for 60+ days signals to Putin that the US president believes unilateral executive action is the norm -- which Putin mirrors by announcing a ceasefire he says does not require Ukraine's consent."
+        }
+      ]
+    },
+    {
+      "id": "fed-independence-squeeze",
+      "title": "The Fed Is Being Squeezed From Both Sides Simultaneously",
+      "description": "The inflation data today and the Warsh confirmation story earlier in the day together form a single story about institutional constraint. The Fed is trapped by Iran-driven inflation it cannot address with its tools -- and is simultaneously watching its incoming chair arrive on the back of a presidential pressure campaign designed to produce lower rates. Warsh will inherit an institution that cannot cut without appearing to validate inflation, and cannot hike without tipping a slowing economy. The squeeze is not just economic; it is political. Every decision he makes will be read as either capitulating to Trump or defying inflation reality.",
+      "type": "dependency-web",
+      "stories": ["pce-inflation-iran-war-fed-trap", "warsh-fed-confirmation", "powell-final-fed-meeting"],
+      "connections": [
+        {
+          "from": "powell-final-fed-meeting",
+          "to": "warsh-fed-confirmation",
+          "relationship": "Powell's final hold decision sets the baseline Warsh inherits: rates on hold with 3.5% PCE, which means Warsh's first major decision will be whether to cut into inflation or hold against Trump's expectations."
+        },
+        {
+          "from": "pce-inflation-iran-war-fed-trap",
+          "to": "warsh-fed-confirmation",
+          "relationship": "The March PCE data arriving the same day Warsh cleared committee means his confirmation is now explicitly tied to a stagflation debate -- markets will price his every statement against this inflation backdrop."
         }
       ]
     }

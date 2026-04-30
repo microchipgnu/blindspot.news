@@ -1,6 +1,6 @@
 {
   "date": "2026-04-30",
-  "generatedAt": "2026-04-30T13:00:00Z",
+  "generatedAt": "2026-04-30T18:00:00Z",
   "reports": [
     {
       "id": "iran-war-escalation",
@@ -60,6 +60,36 @@
       "id": "liv-golf-saudi-collapse",
       "title": "Saudi Arabia Is Cutting LIV Golf Loose. The Sportswashing Bet Failed.",
       "subtitle": "After three years and billions spent buying defections and legitimacy, Riyadh is walking away from a tour that never became a sport.",
+      "category": "power"
+    },
+    {
+      "id": "putin-may9-ceasefire-ukraine",
+      "title": "Putin Proposes a Victory Day Ceasefire. Ukraine Calls It a Parade.",
+      "subtitle": "Russia says Ukraine's consent isn't required. Kyiv says Moscow just wants a safe backdrop for its military parade.",
+      "category": "conflict"
+    },
+    {
+      "id": "dhs-shutdown-ends-ice-defunded",
+      "title": "House GOP Ends the DHS Shutdown by Cutting ICE Funding. Both Sides Claim Victory.",
+      "subtitle": "After 75 days, House Republicans reopened TSA and the Coast Guard -- but passed zero dollars for immigration enforcement to get it done.",
+      "category": "power"
+    },
+    {
+      "id": "eu-ai-act-trilogue-collapse",
+      "title": "EU AI Talks Collapse at Midnight. August Deadline Is Back.",
+      "subtitle": "Twelve hours of Brussels negotiations failed over industrial exemptions, leaving 50,000 European companies without clarity on whether they need to comply in 98 days.",
+      "category": "decision"
+    },
+    {
+      "id": "pce-inflation-iran-war-fed-trap",
+      "title": "Inflation Hits a 3-Year High. The Fed Cannot Cut. The Strait Is Still Closed.",
+      "subtitle": "The PCE gauge jumped to 3.5% in March as the Iran war pushed gas prices to record highs. The Fed is trapped: it cannot cut into rising inflation and cannot raise into a 2% GDP economy.",
+      "category": "decision"
+    },
+    {
+      "id": "scotus-tps-haiti-syria",
+      "title": "Supreme Court Signals It Will End Deportation Protections for 1.3 Million Migrants",
+      "subtitle": "A conservative majority appeared ready Wednesday to let Trump strip TPS from Haitians and Syrians -- and potentially from all 17 countries whose nationals hold the status.",
       "category": "power"
     }
   ]

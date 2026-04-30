@@ -1,0 +1,88 @@
+{
+  "id": "dhs-shutdown-ends-ice-defunded",
+  "date": "2026-04-30",
+  "generatedAt": "2026-04-30T18:00:00Z",
+  "title": "House GOP Ends the DHS Shutdown by Cutting ICE Funding. Both Sides Claim Victory.",
+  "subtitle": "After 75 days, House Republicans reopened TSA and the Coast Guard -- but passed zero dollars for immigration enforcement to get it done.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["DHS", "ICE", "TSA", "House", "Johnson", "immigration", "shutdown"],
+  "coverImage": {
+    "url": "https://www.news10.com/wp-content/uploads/sites/64/2026/04/johnsonmike_010726gn07_w_82f097.jpg?w=1280",
+    "local": "/images/reports/2026-04-30/dhs-shutdown-ice-tsa-house.jpg",
+    "credit": "News10"
+  },
+  "sources": [
+    {
+      "url": "https://us.cnn.com/2026/04/30/politics/dhs-shutdown-funding-bill-house-vote",
+      "publisher": "CNN",
+      "angle": "House GOP conceded to end the shutdown with no ICE money -- a major retreat by Speaker Johnson -- after centrist members revolted. The bill passed by voice vote, relying heavily on Democratic support."
+    },
+    {
+      "url": "https://www.news10.com/hill-politics/johnson-quashes-farm-bill-rebellion-to-pass-budget-blueprint-for-reconciliation-2-0/",
+      "publisher": "News10 / The Hill",
+      "angle": "A day before conceding on DHS, Johnson separately passed a budget reconciliation blueprint to fund ICE and Border Patrol through a different legislative track, giving him a procedural path to claim he didn't completely abandon immigration enforcement."
+    },
+    {
+      "url": "https://www.semafor.com/article/04/30/2026/schiff-tests-gop-ahead-of-iran-wars-60th-day",
+      "publisher": "Semafor",
+      "angle": "Sen. Schiff forced a War Powers Act vote on the Iran war the same day the DHS bill passed, testing whether GOP members who complained privately about unauthorized war would actually vote against Trump. The timing reveals how Iran is scrambling House Republicans' priorities."
+    },
+    {
+      "url": "https://www.kktv.com/2026/04/30/house-takes-step-toward-funding-homeland-security-white-house-warns-money-will-soon-run-out/",
+      "publisher": "KKTV / AP",
+      "angle": "The White House warned money for TSA personnel was about to run out entirely, providing the proximate pressure that forced Johnson's hand. This was a real operational deadline, not procedural maneuvering."
+    }
+  ],
+  "brief": {
+    "actors": ["Johnson", "Trump", "ICE", "TSA", "DHS", "Democrats", "Schiff"],
+    "whatHappened": "The House voted Thursday to reopen the Department of Homeland Security after a record 75-day shutdown. The bill, which passed by voice vote, funds TSA, the Coast Guard, and other DHS components but includes no money for ICE or Border Patrol. Speaker Mike Johnson accepted the Democratic-backed bill after weeks of attempting to attach ICE funding, as the White House warned that TSA personnel paychecks were about to stop. The same day, the House had separately adopted a budget reconciliation blueprint that would allow Republicans to fund ICE through a partisan-only process later in the year, which Johnson cited as evidence he had not abandoned immigration enforcement.",
+    "bottomLine": "Johnson ended the DHS shutdown on Democratic terms because the alternative was TSA workers showing up unpaid at airports -- a political disaster that would have been entirely owned by House Republicans.",
+    "hiddenBets": [
+      {
+        "assumption": "The reconciliation blueprint that passed Wednesday gives Republicans a real path to fund ICE.",
+        "whyItMightBeWrong": "The blueprint passed 215-211 on a near-party-line vote, with Johnson holding his majority together only after hours of delays and last-minute concessions on the farm bill and E15 ethanol. Passing a full reconciliation bill through the same fractious caucus is a longer and harder road. The blueprint is a claim about future leverage, not a guarantee of it."
+      },
+      {
+        "assumption": "Democrats are the winners here because they blocked ICE funding.",
+        "whyItMightBeWrong": "Democrats voted to reopen the federal agency primarily responsible for immigration enforcement -- they just blocked one funding stream for its enforcement arm. ICE will be funded through reconciliation within months. The actual delay cost Democrats goodwill with centrist voters who want to see border enforcement funded, and it gives Republicans a campaign message about Democrats blocking immigration money."
+      },
+      {
+        "assumption": "This is primarily a story about immigration politics.",
+        "whyItMightBeWrong": "The deeper story is that House Republicans cannot govern with their current majority. Johnson had to hold votes open for hours twice in two days, lost on the substantive DHS funding fight, and only got the reconciliation blueprint through via a side deal on farm subsidies and ethanol. The Iran war and War Powers Act pressure are running simultaneously, fragmenting the caucus further."
+      }
+    ],
+    "realDisagreement": "The actual fork is whether the reconciliation track is a genuine second bite at ICE funding or a face-saving procedural fig leaf that lets Johnson claim victory while Democrats get the policy outcome they wanted. The reconciliation bill will require 50 Senate votes; every Republican senator will need to vote yes on a bill that has no Democratic support, in a chamber where several Republicans have expressed discomfort with the Iran war and Fed independence fights simultaneously. The evidence slightly favors the fig leaf reading: the urgency that passed the clean DHS bill -- airport security running out of money -- does not exist for ICE funding, which means the political pressure to close the deal is lower. Johnson has a path; he doesn't have a guarantee.",
+    "whatNoOneIsSaying": "ICE has been operating without new appropriations for 75 days, drawing on emergency reserves and prior-year funds. It has not, in fact, stopped functioning. The shutdown was always more politically costly for Republicans than operationally costly for immigration enforcement -- which means the hardliners who insisted on attaching ICE money were fighting for a principle, not a necessity.",
+    "whoPays": [
+      {
+        "who": "TSA workers and airport contractors",
+        "how": "75 days of operating under funding uncertainty. Some contract workers went without pay during the period; TSA federal employees were technically protected by prior appropriations but worked through months of management disruption.",
+        "when": "Already happened; some back-pay and benefits resolution required"
+      },
+      {
+        "who": "House Republican moderates",
+        "how": "They voted to reopen DHS on Democratic terms, which gives primary challengers a clean attack line: you defunded ICE. That framing is factually incomplete -- the reconciliation blueprint exists -- but in a primary it doesn't matter.",
+        "when": "2026 and 2028 primaries"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Reconciliation passes, ICE funded by summer",
+        "whatHappens": "Johnson assembles the same 215-vote coalition to pass a reconciliation bill including ICE appropriations. Senate Republicans hold together. Trump signs it. Democrats regroup for the next fight.",
+        "signal": "Senate Majority Leader sets a reconciliation vote date within 60 days"
+      },
+      {
+        "name": "Reconciliation stalls in Senate",
+        "whatHappens": "The Senate reconciliation process bogs down over Iran war spending, border policy, and competing farm state demands. ICE remains funded through emergency reserves through year-end.",
+        "signal": "Two or more Republican senators publicly condition their vote on unrelated Iran war authorization language"
+      },
+      {
+        "name": "Johnson loses speakership before either track resolves",
+        "whatHappens": "The combined pressure of the DHS retreat, the Iran war, the Fed fight, and ongoing primary threats depletes Johnson's internal capital. A motion to vacate gains traction in summer.",
+        "signal": "A Freedom Caucus member publicly calls for a leadership vote"
+      }
+    ],
+    "whatWouldChange": "If the reconciliation bill passes the Senate within 60 days with ICE and Border Patrol fully funded, Johnson's framing of a two-step strategy will be vindicated. If it doesn't, the DHS shutdown ends as a straightforward Republican loss on immigration funding."
+  }
+}
