@@ -1,0 +1,88 @@
+{
+  "id": "scotus-voting-rights-louisiana",
+  "date": "2026-04-30",
+  "generatedAt": "2026-04-30T08:15:00Z",
+  "title": "SCOTUS Strikes Down Louisiana Map, Gutting Voting Rights Act",
+  "subtitle": "The court rules majority-minority districts unconstitutional, handing Republicans a redistricting weapon heading into the midterms.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["SCOTUS", "Voting Rights Act", "redistricting", "gerrymandering", "midterms", "Louisiana"],
+  "coverImage": {
+    "url": "https://ichef.bbci.co.uk/news/1024/branded_news/60b6/live/83bd68f0-4410-11f1-8343-8378511e4aa9.jpg",
+    "local": "/images/reports/2026-04-30/scotus-voting-rights.jpg",
+    "credit": "BBC News"
+  },
+  "sources": [
+    {
+      "url": "https://www.nytimes.com/2026/04/29/us/politics/supreme-court-voting-rights-act.html",
+      "publisher": "New York Times",
+      "angle": "Court struck down the Louisiana map as an unconstitutional racial gerrymander, potentially the beginning of the end for majority-minority district requirements under the Voting Rights Act."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/04/29/us/politics/supreme-court-voting-rights-midterms.html",
+      "publisher": "New York Times",
+      "angle": "Electoral consequences: Democrats stand to lose at least one blue-leaning district in Louisiana; Florida, Texas, and other states are already drawing new maps in response."
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/c5y9wvl0gkno",
+      "publisher": "BBC News",
+      "angle": "Florida already approved Republican-favored maps; the ruling accelerates a national redistricting war that could determine House control."
+    }
+  ],
+  "brief": {
+    "actors": ["SCOTUS", "Republicans", "Democrats", "Louisiana", "Florida", "VRA"],
+    "whatHappened": "The Supreme Court struck down Louisiana's congressional map as an unconstitutional racial gerrymander, a ruling that dramatically narrows the scope of Section 2 of the Voting Rights Act. The decision reverses a 2023 ruling that had required Louisiana to draw a second majority-Black district. Civil rights leaders called it a betrayal that unravels decades of work toward fair Black representation. Florida's legislature simultaneously approved new Republican-favoring maps, and Republican-controlled legislatures in several other states are expected to follow. The timing creates pressure on whether new maps can take effect before the 2026 midterms.",
+    "bottomLine": "The court just handed Republicans a redistricting weapon with six months until the midterms, and the only question is how many seats it is worth.",
+    "hiddenBets": [
+      {
+        "assumption": "The ruling only affects Louisiana, the case at issue.",
+        "whyItMightBeWrong": "Redistricting lawyers are already citing it in Florida, Texas, Georgia, and Alabama. The ruling establishes a principle that race-conscious districts are presumptively unconstitutional under the 14th Amendment, which flips the logic of the Voting Rights Act's Section 2 on its head. Every majority-minority district drawn in the last 30 years is now potentially vulnerable."
+      },
+      {
+        "assumption": "New maps cannot be enacted fast enough to affect 2026 elections.",
+        "whyItMightBeWrong": "Florida has already moved. The 2010 redistricting cycle showed that courts can approve maps on tight timelines when political will exists. If legislatures move by June and courts decline emergency stays, new maps could be in place for November filing deadlines."
+      },
+      {
+        "assumption": "The ruling is about race-consciousness, not about minority representation outcomes.",
+        "whyItMightBeWrong": "In practice, requiring legislatures to justify every race-conscious decision in court creates a litigation burden that makes drawing majority-minority districts prohibitively risky. The doctrinal distinction between intent and effect collapses under enforcement pressure."
+      }
+    ],
+    "realDisagreement": "The real fork is whether the Voting Rights Act's Section 2 has a coherent future. One reading holds that the court is correcting an over-expansion of the VRA that turned racial preferences into mandates, and that race-neutral maps can produce fair outcomes if drawn correctly. The other reading holds that American racial geography makes truly race-neutral maps impossible: because Black voters are concentrated in specific areas partly due to historical redlining, any race-neutral map in states like Louisiana will systematically dilute Black voting power. You cannot have both a 'colorblind' map and a map that produces proportional minority representation in the American South. The court has chosen the first, and the civil rights movement will spend the next decade litigating whether the second was actually required.",
+    "whatNoOneIsSaying": "The ruling creates a paradox the majority will not acknowledge: the same court that routinely upholds racially motivated gerrymandering by Republicans (when it cannot be proven in court) has now made race-conscious remedies presumptively unconstitutional. The asymmetry does not run toward colorblindness. It runs toward entrenching white Republican majorities.",
+    "whoPays": [
+      {
+        "who": "Black voters in Louisiana and the Deep South",
+        "how": "The immediate loss is at least one majority-Black congressional district in Louisiana, likely reducing Black representation in the House. Over time, states gain legal cover to draw maps that crack and pack Black communities across districts, eliminating effective representation without any single provable discriminatory act.",
+        "when": "2026 midterms onward"
+      },
+      {
+        "who": "House Democrats",
+        "how": "Republicans control redistricting in states worth approximately 20-25 House seats that are currently competitive. New maps drawn under this ruling's guidance could lock in a structural Republican advantage in the House for the rest of the decade.",
+        "when": "Filing deadlines for 2026, full effect in 2027 redistricting if a census were held"
+      },
+      {
+        "who": "Civil rights legal infrastructure",
+        "how": "Organizations like the NAACP Legal Defense Fund built decades of VRA litigation strategy around Section 2 requirements for majority-minority districts. That strategy is now functionally invalidated, requiring a rebuild of tactics and the loss of cases already in the pipeline.",
+        "when": "Immediate"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Cascade redistricting",
+        "whatHappens": "Florida, Texas, Georgia, and Alabama all draw new Republican-favoring maps citing the ruling. Courts approve some, stay others. Republicans net 5-8 House seats in 2026, locking in a governing majority regardless of the national vote.",
+        "signal": "Multiple states announce new maps by June. Courts issue no emergency stays."
+      },
+      {
+        "name": "Legal gridlock",
+        "whatHappens": "Lower courts issue emergency stays pending appeal, freezing most new maps. The redistricting effect is delayed to the next cycle. 2026 elections run on existing maps.",
+        "signal": "Federal district courts grant stays in Florida and Texas within 30 days of new maps being passed."
+      },
+      {
+        "name": "Congressional response",
+        "whatHappens": "The ruling galvanizes a Senate vote on the John Lewis Voting Rights Advancement Act. It fails on a party-line vote. The fight becomes the organizing frame for the 2026 midterm campaigns.",
+        "signal": "Senate Majority Leader brings VRA bill to the floor within 60 days, fails 51-49 or narrower."
+      }
+    ],
+    "whatWouldChange": "If the majority opinion contains a limiting principle that courts consistently apply to protect some race-conscious remedy in provable historical-discrimination states, the ruling's impact shrinks substantially. If Chief Justice Roberts or another Republican justice writes a separate concurrence signaling narrow application, that matters more than the opinion's text."
+  }
+}

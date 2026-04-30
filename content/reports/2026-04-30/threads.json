@@ -1,0 +1,48 @@
+{
+  "date": "2026-04-30",
+  "threads": [
+    {
+      "id": "iran-war-inflating-everything",
+      "title": "The Iran War Is the Hidden Variable in Every Other Story",
+      "description": "The Iran war is not just a geopolitics story today. It is the reason the Fed held rates and may not cut until 2027. It is a significant driver of Meta's AI capex pressure: high rates make the payback period on $145 billion longer and the investor case harder. It is the backdrop against which Kevin Warsh will inherit a Fed already under political attack, with oil-driven inflation as his first test. Three apparently separate stories, two in economics and one in tech, only make full sense when you see the war running through all of them.",
+      "type": "dependency-web",
+      "stories": ["iran-war-escalation", "powell-final-fed-meeting", "big-tech-ai-earnings"],
+      "connections": [
+        {
+          "from": "iran-war-escalation",
+          "to": "powell-final-fed-meeting",
+          "relationship": "Oil at $126 Brent drove March inflation to 3.3%, forcing the Fed to hold rates and pushing analyst projections for cuts to 2027, constraining Warsh's options before he even takes the chair."
+        },
+        {
+          "from": "powell-final-fed-meeting",
+          "to": "big-tech-ai-earnings",
+          "relationship": "Delayed rate cuts raise the cost of capital for companies carrying $650 billion in AI capex, extending payback periods and increasing the margin between what companies are spending and what they can show investors in near-term returns."
+        },
+        {
+          "from": "iran-war-escalation",
+          "to": "big-tech-ai-earnings",
+          "relationship": "Sustained energy cost inflation filters through data center operating costs and supply chain inputs, adding a structural headwind to the AI infrastructure build that none of the four tech CEOs quantified publicly."
+        }
+      ]
+    },
+    {
+      "id": "institutions-under-pressure",
+      "title": "Three Institutions Are Being Tested Simultaneously",
+      "description": "Today features three separate American institutions facing challenges to their independence and authority, each through a different mechanism. The Fed is being attacked legally and politically by the executive branch. The Supreme Court is actively rewriting the rules of democratic representation in ways that advantage the party that appointed the current majority. OpenAI, a nominally public-benefit organization, is defending the right to abandon its founding structure for commercial reasons. What connects them is a common question about whether institutional norms survive once a powerful actor decides to push through them.",
+      "type": "tension-cluster",
+      "stories": ["powell-final-fed-meeting", "scotus-voting-rights-louisiana", "musk-openai-trial"],
+      "connections": [
+        {
+          "from": "powell-final-fed-meeting",
+          "to": "scotus-voting-rights-louisiana",
+          "relationship": "Both the Fed and the SCOTUS ruling involve institutions whose authority derives from norms rather than enforceable legal guarantees: the Fed's independence is not legally protected from presidential firing, and the Voting Rights Act's Section 2 has now been reinterpreted out of its core application by a court whose majority has lifetime tenure and no democratic accountability."
+        },
+        {
+          "from": "musk-openai-trial",
+          "to": "powell-final-fed-meeting",
+          "relationship": "Both cases turn on the same question: when a powerful actor decides an institutional structure is inconvenient, what actually enforces the original commitment? For the Fed, the answer is norms and political cost. For OpenAI's non-profit mission, the answer is apparently nothing."
+        }
+      ]
+    }
+  ]
+}

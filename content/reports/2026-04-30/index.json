@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-30",
+  "generatedAt": "2026-04-30T08:35:00Z",
+  "reports": [
+    {
+      "id": "iran-war-escalation",
+      "title": "Trump Eyes New Iran Strikes as Oil Hits $126",
+      "subtitle": "US Central Command prepares a fresh wave of strikes while a fragile ceasefire is still technically in place.",
+      "category": "conflict"
+    },
+    {
+      "id": "scotus-voting-rights-louisiana",
+      "title": "SCOTUS Strikes Down Louisiana Map, Gutting Voting Rights Act",
+      "subtitle": "The court rules majority-minority districts unconstitutional, handing Republicans a redistricting weapon heading into the midterms.",
+      "category": "power"
+    },
+    {
+      "id": "musk-openai-trial",
+      "title": "Musk Takes the Stand Against OpenAI, Claims Altman Stole a Charity",
+      "subtitle": "Day three of the trial reveals a fight not about AI safety but about who controls the most valuable organization in Silicon Valley.",
+      "category": "power"
+    },
+    {
+      "id": "powell-final-fed-meeting",
+      "title": "Powell's Last Stand: The Fed Holds Rates and Its Ground",
+      "subtitle": "Jerome Powell holds rates steady in what is expected to be his final meeting as Fed chair, warning that legal attacks are battering the institution.",
+      "category": "power"
+    },
+    {
+      "id": "big-tech-ai-earnings",
+      "title": "Big Tech Earns More, Spends More on AI. Meta Investors Revolt.",
+      "subtitle": "Alphabet's 63% cloud growth contrasts with Meta's share drop after raising AI capex to $145 billion with no clear payoff plan.",
+      "category": "decision"
+    }
+  ]
+}

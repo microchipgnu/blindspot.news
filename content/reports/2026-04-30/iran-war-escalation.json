@@ -1,0 +1,108 @@
+{
+  "id": "iran-war-escalation",
+  "date": "2026-04-30",
+  "generatedAt": "2026-04-30T08:10:00Z",
+  "title": "Trump Eyes New Iran Strikes as Oil Hits $126",
+  "subtitle": "US Central Command prepares a fresh wave of strikes while a fragile ceasefire is still technically in place.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["Iran", "oil", "war", "Trump", "Hegseth", "ceasefire"],
+  "coverImage": {
+    "url": "https://ichef.bbci.co.uk/news/1024/branded_news/ab6d/live/3a55b650-440f-11f1-8343-8378511e4aa9.jpg",
+    "local": "/images/reports/2026-04-30/iran-war-escalation.jpg",
+    "credit": "BBC News"
+  },
+  "sources": [
+    {
+      "url": "https://www.bbc.com/news/articles/cx21m88rd14o",
+      "publisher": "BBC News",
+      "angle": "Oil surge framing: markets reacting to escalation risk, energy executives meeting Trump, economic knock-on effects of $126 Brent crude."
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/c78qd6ll8xlo",
+      "publisher": "BBC News",
+      "angle": "Congressional hearing: Hegseth's combative first appearance on the Hill since the war began, $25bn cost disclosed, school strike accountability demanded."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/04/29/us/politics/hegseth-iran-war-cost.html",
+      "publisher": "New York Times",
+      "angle": "Pentagon putting war cost at $25bn, Hegseth berating skeptics, White House requesting $1.5tn defense budget."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Iran", "Hegseth", "US", "CENTCOM", "OPEC"],
+    "whatHappened": "Axios reported that US Central Command has prepared a plan for a wave of short, powerful strikes on Iran to break the deadlock in stalled peace talks, with Trump set to be briefed on the options. Brent crude surged to $126 per barrel, the highest since Russia's 2022 invasion of Ukraine, as energy traders priced in escalation risk from the still-closed Strait of Hormuz. Defense Secretary Pete Hegseth appeared before the House Armed Services Committee for nearly six hours, his first sworn testimony since the war began, disclosing that the conflict has cost the US $25 billion so far. The White House has simultaneously requested a $1.5 trillion defense budget, the largest proposed military expansion since World War Two.",
+    "bottomLine": "The US is not stuck in a quagmire so much as it is stuck in a leverage trap: the only way to end the war on favorable terms is to escalate, but escalation is the one thing the economy cannot afford.",
+    "hiddenBets": [
+      {
+        "assumption": "The ceasefire is a diplomatic pause that will eventually produce a deal.",
+        "whyItMightBeWrong": "Polymarket puts a permanent peace deal at only 21.5% by May 31 and 37.5% by June 30. With CENTCOM preparing new strike packages, the ceasefire functions less as a negotiating phase than as a breathing space before the next escalation."
+      },
+      {
+        "assumption": "Oil at $126 will eventually pressure both sides to negotiate.",
+        "whyItMightBeWrong": "Iran has already priced in economic isolation. The price shock hits the US consumer and the Fed's inflation fight far harder than it hurts Iran's already-sanctioned economy. High oil prices may be Iran's best leverage, not its weakness."
+      },
+      {
+        "assumption": "A $1.5 trillion defense budget request is a negotiating opener, not a real number.",
+        "whyItMightBeWrong": "Congress historically rubber-stamps war spending during active conflicts. The political cost of opposing the budget is now attached to appearing to 'undermine the mission' while troops are in the field."
+      }
+    ],
+    "realDisagreement": "The genuine fork is between two war theories that both have support in the evidence. The first holds that targeted escalation, a short and powerful strike to reopen the Strait of Hormuz, can force Iran to the table without expanding the conflict. The second holds that any new strike makes Iranian hardliners politically stronger, collapses the ceasefire, and commits the US to an open-ended campaign. The market odds lean heavily against a deal in the near term (0.35% by today, 21.5% by May 31), which suggests traders believe the second theory is closer to correct. But betting against escalation logic in a Trump administration has usually been a losing trade.",
+    "whatNoOneIsSaying": "The $25 billion cost figure Hegseth disclosed is almost certainly understated: it covers munitions and equipment replacement but not long-term veteran healthcare, intelligence operations, or the economic cost of $126 oil filtering through every supply chain in the US economy. The real cost of the Iran war to American households is orders of magnitude higher than the Pentagon's accounting.",
+    "whoPays": [
+      {
+        "who": "US consumers and small businesses",
+        "how": "Oil at $126 Brent flows through directly to pump prices, heating costs, and food prices. The Fed held rates at 3.5-3.75% partly because inflation hit 3.3% in March. A sustained oil price at this level likely pushes rate cuts to 2027 or beyond.",
+        "when": "Immediate and ongoing"
+      },
+      {
+        "who": "Global shipping and trade",
+        "how": "The Strait of Hormuz carries roughly 20% of the world's energy. Its effective closure has disrupted supply chains well beyond oil, affecting petrochemicals, fertilizers, and any goods whose inputs depend on Gulf logistics.",
+        "when": "Already underway, worsening with each week of blockade"
+      },
+      {
+        "who": "Iran's civilian population",
+        "how": "US and Israeli airstrikes in the opening phase of the war killed at least 168 people in a school strike in Minab, including approximately 110 children. The Pentagon has not publicly acknowledged responsibility. Accountability is functionally zero.",
+        "when": "Already paid"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Targeted strike to reopen Hormuz",
+        "whatHappens": "Trump approves CENTCOM's strike package. A short, sharp campaign hits Iranian port and military infrastructure. Iran retaliates against Gulf shipping but does not escalate to nuclear threats. Talks resume under different terms.",
+        "signal": "Trump publicly announces a new operation with a defined objective (reopening Hormuz). Oil initially spikes above $140 before dropping sharply on deal optimism."
+      },
+      {
+        "name": "Escalation spiral",
+        "whatHappens": "New US strikes collapse the ceasefire and trigger Iranian counterstrikes on US bases in Iraq and the Gulf. Israel re-enters the conflict. Oil passes $150 and stays there. The Fed faces stagflation.",
+        "signal": "Hegseth or the White House announces the ceasefire is 'no longer operative.' Iranian strikes on US bases in the region confirmed."
+      },
+      {
+        "name": "Economic pressure forces deal",
+        "whatHappens": "Oil at $130+ and Fed rate uncertainty push Trump to accept a partial deal: Hormuz reopens in exchange for sanctions relief and a freeze on Iran's nuclear program. No formal peace, but de-escalation.",
+        "signal": "Energy executives publicly announce a deal framework with Trump. Brent drops $20+ in a single session."
+      }
+    ],
+    "whatWouldChange": "If Polymarket's 21.5% probability for a May peace deal starts climbing above 40%, that would signal back-channel negotiations are advancing faster than public posture suggests. Alternatively, if Iran moves forces toward the Strait rather than away from it, the escalation spiral scenario becomes the path of least resistance.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "US x Iran permanent peace deal by May 31, 2026?",
+        "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by",
+        "probability": 0.215
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will WTI Crude Oil hit $130 in May 2026?",
+        "url": "https://polymarket.com/event/what-price-will-wti-hit-in-may-2026",
+        "probability": 0.325
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Congress passes Iran war powers resolution by May 31?",
+        "url": "https://polymarket.com/event/congress-passes-iran-war-powers-resolution-by-may-31",
+        "probability": 0.08
+      }
+    ]
+  }
+}

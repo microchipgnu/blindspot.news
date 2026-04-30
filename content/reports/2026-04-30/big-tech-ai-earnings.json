@@ -1,0 +1,73 @@
+{
+  "id": "big-tech-ai-earnings",
+  "date": "2026-04-30",
+  "generatedAt": "2026-04-30T08:30:00Z",
+  "title": "Big Tech Earns More, Spends More on AI. Meta Investors Revolt.",
+  "subtitle": "Alphabet's 63% cloud growth and 30% profit surge contrast sharply with Meta's share drop after raising AI capex to $145 billion with no clear payoff plan.",
+  "topic": "tech",
+  "category": "decision",
+  "tags": ["Meta", "Alphabet", "Microsoft", "Amazon", "AI", "earnings", "capex", "jobs"],
+  "coverImage": {
+    "url": "https://ichef.bbci.co.uk/news/1024/branded_news/7ec7/live/6a0f52c0-4469-11f1-97e2-ede52d59c1ad.jpg",
+    "local": "/images/reports/2026-04-30/big-tech-ai-earnings.jpg",
+    "credit": "BBC News"
+  },
+  "sources": [
+    {
+      "url": "https://www.bbc.com/news/articles/crkpd4r2y7eo",
+      "publisher": "BBC News",
+      "angle": "Meta shares fall 7% after raising AI capex to $145bn. Zuckerberg admits he doesn't have a precise plan for how AI spending turns into revenue. Alphabet beats with cloud up 63%. Amazon and Microsoft also positive."
+    }
+  ],
+  "brief": {
+    "actors": ["Meta", "Alphabet", "Microsoft", "Amazon", "Zuckerberg", "Pichai"],
+    "whatHappened": "All four major US tech companies reported quarterly earnings on Wednesday in what amounted to a simultaneous referendum on the AI investment cycle. Alphabet posted 30% profit growth and a 63% surge in Google Cloud revenue, sending its stock up 7% after hours. Amazon's cloud grew 28%, the largest jump in four years. Microsoft beat revenue expectations with 16% growth and a $37 billion annualized AI run rate. Meta was the outlier: its stock dropped 7% after announcing it was raising its 2026 AI capital expenditure to up to $145 billion, up from a previous ceiling of $135 billion, and CEO Mark Zuckerberg acknowledged he did not have 'a very precise plan' for how AI products would scale into revenue. Combined, the four companies are spending more than $650 billion on AI in 2026 alone.",
+    "bottomLine": "The divergence is not between companies that are winning and losing on AI. It is between companies that have concrete revenue already flowing from AI infrastructure (Google Cloud, AWS) and those that are spending to build speculative consumer products (Meta). The market punished Zuckerberg not for spending too much but for saying out loud what everyone knows: they don't know how it pays off.",
+    "hiddenBets": [
+      {
+        "assumption": "The companies reporting strong AI revenue growth are actually capturing AI value, not just billing legacy infrastructure as 'AI.'",
+        "whyItMightBeWrong": "Amazon and Microsoft's 'AI run rate' figures are analyst projections derived from current trends, not audited revenue categories. Much of what they are billing as AI cloud usage is enterprises migrating existing workloads to LLM-adjacent infrastructure, which would have migrated anyway. The AI premium may be 10-15% of reported growth, not 63%."
+      },
+      {
+        "assumption": "Meta's problem is the lack of a product roadmap for AI monetization.",
+        "whyItMightBeWrong": "Meta actually has a product: AI assistants embedded in WhatsApp, Instagram, and Messenger, which collectively reach 3 billion users daily. The market is not punishing Meta for lacking a product. It is punishing Zuckerberg for saying the quiet part loud and confirming that even with that distribution, he cannot quantify the return."
+      },
+      {
+        "assumption": "$650 billion in annual AI capex is sustainable if the companies keep growing.",
+        "whyItMightBeWrong": "Free cash flow is already being squeezed. Microsoft's FCF fell nearly $6 billion year-over-year. If interest rates stay elevated due to Iran war inflation (Pantheon Macroeconomics now projects no rate cuts until 2027), the cost of capital rises and the payback period for these investments lengthens. The math changes materially at 4%+ borrowing costs."
+      }
+    ],
+    "realDisagreement": "The fundamental tension is between two claims about when AI value arrives. Infrastructure players (Google, Amazon) argue the value is already here, embedded in cloud contract growth. Application players (Meta, and to some extent Microsoft's Copilot) argue the value is coming in 12-24 months as models improve and user behavior shifts. You cannot know which claim is true from outside, which is exactly why Zuckerberg's candor that he doesn't have a precise plan spooked investors: it suggested he is running an application bet, not an infrastructure play, which means his $145 billion is not secured by existing contracts.",
+    "whatNoOneIsSaying": "Zuckerberg mentioned that 'one or two people are building something in a week that would have previously taken dozens of people months' and alluded to significant future layoffs. Amazon has already laid off more than 30,000 workers. Microsoft's AI business is growing while its headcount is not. The most honest thing any of these CEOs could say is: we are spending $650 billion a year partly to build systems that will eliminate a significant fraction of our own workforce, and we are framing this as a growth story because we have no other option.",
+    "whoPays": [
+      {
+        "who": "Tech workers at Meta, Amazon, and Microsoft",
+        "how": "All three companies have signaled headcount will not grow with revenue. Meta's Zuckerberg explicitly said the company is 'building around' people who can do more with AI, implying the workforce for future growth will be smaller. Amazon has already executed 30,000+ cuts. These are not pandemic-era corrections; they are structural reductions tied directly to AI substitution.",
+        "when": "Ongoing through 2026-2027"
+      },
+      {
+        "who": "Pension funds and retail investors in Meta",
+        "how": "Meta's 7% after-hours drop on a day when the company actually posted solid underlying results reflects the AI spending premium evaporating. If Zuckerberg does not show a clearer monetization path by Q3, the stock will be structurally repriced at a lower multiple.",
+        "when": "Next 2 earnings cycles"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "AI flywheel confirms",
+        "whatHappens": "By Q3, Meta's AI-powered ad targeting and assistant products show measurable revenue lift. Meta's capex starts paying back. The market reprices all four companies higher and the $650bn spending cycle is vindicated.",
+        "signal": "Meta reports AI-specific revenue attribution above $5B in next quarter's earnings. Stock recovers above current levels."
+      },
+      {
+        "name": "Capex overhang crushes multiples",
+        "whatHappens": "Iran war keeps rates high into 2027. AI products do not monetize as fast as hoped. FCF continues declining. Microsoft, Meta, and Amazon all announce capex reductions in H2 2026. Nvidia and TSMC take the largest hits.",
+        "signal": "Microsoft or Amazon announces a capex reduction of 10%+ from 2026 guidance. Powell's successor does not cut rates at the June 2026 FOMC."
+      },
+      {
+        "name": "Winner-take-most",
+        "whatHappens": "Alphabet's model-plus-silicon-plus-cloud integration produces sustainable advantages. Google Cloud takes share from AWS and Azure as the AI-native infrastructure leader. Meta and Microsoft's consumer AI bets underperform; their stocks lag Alphabet by 30%+ over 18 months.",
+        "signal": "Google Cloud revenue growth accelerates above 70% in Q2 while AWS and Azure growth stalls below 25%."
+      }
+    ],
+    "whatWouldChange": "If any of the four companies reports a meaningful decline in AI-related infrastructure bookings in the next quarter, the entire AI capex narrative collapses. Alternatively, if Meta can show engagement metrics showing users spending significantly more time with its AI products, the revenue question becomes easier to answer."
+  }
+}

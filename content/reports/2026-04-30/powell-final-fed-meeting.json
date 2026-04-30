@@ -1,0 +1,98 @@
+{
+  "id": "powell-final-fed-meeting",
+  "date": "2026-04-30",
+  "generatedAt": "2026-04-30T08:25:00Z",
+  "title": "Powell's Last Stand: The Fed Holds Rates and Its Ground",
+  "subtitle": "Jerome Powell holds rates steady in what is expected to be his final meeting as Fed chair, warning that legal attacks are 'battering' the institution.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Fed", "Powell", "Warsh", "interest rates", "inflation", "Iran war", "central bank independence"],
+  "coverImage": {
+    "url": "https://ichef.bbci.co.uk/news/1024/branded_news/dfd7/live/ddeb2720-43ea-11f1-9113-1988573e8ff7.jpg",
+    "local": "/images/reports/2026-04-30/powell-final-fed-meeting.jpg",
+    "credit": "BBC News"
+  },
+  "sources": [
+    {
+      "url": "https://www.bbc.com/news/articles/c62rm4zk3kgo",
+      "publisher": "BBC News",
+      "angle": "Four takeaways: rates held, Powell staying on as governor, legal attacks 'battering' the Fed, Warsh confirmation now a formality."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/04/29/business/economy/what-to-watch-at-the-federal-reserves-april-meeting.html",
+      "publisher": "New York Times",
+      "angle": "Macro context: Powell's final meeting underscores the tough task ahead for Warsh amid oil-driven inflation and political pressure to cut."
+    }
+  ],
+  "brief": {
+    "actors": ["Powell", "Warsh", "Trump", "Fed", "Senate"],
+    "whatHappened": "The Federal Reserve held interest rates steady at 3.5-3.75% at what is expected to be Jerome Powell's final meeting as chair, citing uncertainty from the Iran war's effects on inflation and energy prices. Hours before the decision, Kevin Warsh cleared a key Senate committee vote. March inflation printed at 3.3%, the highest since May 2024, driven largely by oil prices that have now risen further to $126 Brent. Powell warned that the Trump administration's legal attacks on the Fed are 'unprecedented in 113 years' and are 'battering the institution.' He announced he would stay on as a board governor until a DOJ investigation into him is 'well and truly over.' Polymarket puts Powell's departure as Fed Chair by May 31 at 97% probability.",
+    "bottomLine": "Powell is leaving, but he is leaving behind a time bomb: an institution that has been publicly attacked, legally harassed, and is about to be handed to a successor whose loyalty to independence is untested under real pressure.",
+    "hiddenBets": [
+      {
+        "assumption": "Kevin Warsh will maintain Fed independence once confirmed.",
+        "whyItMightBeWrong": "Warsh got to this confirmation partly because he promised 'policy regime change' at the Fed. He denied making a deal with Trump on rates but the incentive structure is asymmetric: cutting rates when Trump wants them cut costs him nothing politically, while resisting costs him his relationship with the president who nominated him. Powell resisted for four years; Warsh has not yet been tested."
+      },
+      {
+        "assumption": "Powell staying on as a governor after leaving as chair preserves some institutional continuity.",
+        "whyItMightBeWrong": "A board governor who promised to 'keep a low profile' and explicitly disavowed being a shadow chair is not a check on Warsh. He is political cover for the transition. If Warsh cuts rates under pressure, Powell will not publicly dissent. His staying is about protecting his own reputation, not the Fed's."
+      },
+      {
+        "assumption": "The DOJ probe closing means the legal attacks on the Fed are over.",
+        "whyItMightBeWrong": "Powell himself said he expected the probe to be reopened and that he would not leave the board until it was 'well and truly over.' The Trump administration has a documented pattern of using legal process as ongoing leverage rather than as a one-time sanction."
+      }
+    ],
+    "realDisagreement": "The tension that neither Powell nor Warsh can fully resolve is whether the Fed's independence is an institutional norm or a legal guarantee. For 113 years it operated as a strong norm: presidents complained about the Fed but did not actually fire chairs or launch criminal probes. Trump treated it as a norm he could override. Warsh will discover which it actually is within the first six months of a recession or a rate decision Trump dislikes. The market is pricing Warsh as likely to cut rates faster than Powell would have. The real question is whether that's because markets think Warsh is a good economist or because they think Trump will get what he wants.",
+    "whatNoOneIsSaying": "The most consequential sentence in Powell's press conference was not about inflation or rates. It was his statement that the DOJ probe 'are unprecedented in our 113-year history, and there are ongoing threats of additional such actions.' He is describing a new normal in which the independence of monetary policy is now subject to criminal investigation as a political tool. That is a structural change to American institutions with no clear remedy, and nobody in Congress is treating it as one.",
+    "whoPays": [
+      {
+        "who": "Holders of US Treasuries and dollar-denominated debt",
+        "how": "The credibility premium that allows the US to borrow cheaply rests partly on the perception that the Fed controls inflation independently of political cycles. If Warsh is seen as responsive to Trump, that premium erodes. Even a 20-basis-point increase in borrowing costs on $35 trillion in US debt adds $70 billion per year in interest.",
+        "when": "Gradual, over 2-3 years as Warsh's decision record accumulates"
+      },
+      {
+        "who": "Workers and households with variable-rate debt",
+        "how": "If Iran war inflation persists and Warsh cuts rates anyway under political pressure, real interest rates go negative, inflation stays elevated, and real wages fall. The people who feel this most are those without assets whose wages cannot keep up.",
+        "when": "6-12 months after any politically motivated rate cut"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Warsh cuts under pressure",
+        "whatHappens": "Iran war inflation persists above 3%. Trump publicly demands cuts. Warsh cuts 25 basis points citing 'uncertainty.' Markets initially rally, but inflation stays elevated and the Fed's credibility takes a lasting hit.",
+        "signal": "Warsh's first post-confirmation statement includes language about the costs of 'excessive caution' or references to 'political economy considerations.'"
+      },
+      {
+        "name": "Warsh holds the line",
+        "whatHappens": "Inflation remains above target through summer. Warsh holds rates steady and absorbs political attacks. Trump publicly criticizes but does not attempt to fire him as a governor. The norm holds, just barely.",
+        "signal": "Warsh's first two FOMC decisions match what Powell would have done. No public signals of rate cuts despite Trump pressure."
+      },
+      {
+        "name": "Constitutional confrontation",
+        "whatHappens": "Trump attempts to fire Powell as a governor for refusing to leave. SCOTUS, which already gave Trump broad firing authority over executive officials, hears the case. The Fed's legal independence is litigated directly.",
+        "signal": "White House announces it is 'reviewing' the legal basis for Powell's board tenure after he makes a statement Warsh or Trump dislikes."
+      }
+    ],
+    "whatWouldChange": "If Warsh's first three FOMC decisions are hawkish, holding or raising rates despite Trump's calls to cut, the independent Fed hypothesis survives. If he cuts within 90 days of taking over while inflation is still above 3%, the institution has effectively been captured.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Jerome Powell depart as Fed Chair between May 15 and May 22?",
+        "url": "https://polymarket.com/event/when-will-jerome-powell-depart-as-fed-chair",
+        "probability": 0.935
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Jerome Powell out as Fed Chair by May 31?",
+        "url": "https://polymarket.com/event/jerome-powell-out-as-fed-chair-by",
+        "probability": 0.9725
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Trump try to fire Powell as Fed Board Member by June 30?",
+        "url": "https://polymarket.com/event/will-trump-try-to-fire-powell-as-fed-board-member-by",
+        "probability": 0.225
+      }
+    ]
+  }
+}
