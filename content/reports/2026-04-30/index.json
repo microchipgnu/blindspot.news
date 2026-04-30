@@ -1,6 +1,6 @@
 {
   "date": "2026-04-30",
-  "generatedAt": "2026-04-30T08:35:00Z",
+  "generatedAt": "2026-04-30T13:00:00Z",
   "reports": [
     {
       "id": "iran-war-escalation",
@@ -31,6 +31,36 @@
       "title": "Big Tech Earns More, Spends More on AI. Meta Investors Revolt.",
       "subtitle": "Alphabet's 63% cloud growth contrasts with Meta's share drop after raising AI capex to $145 billion with no clear payoff plan.",
       "category": "decision"
+    },
+    {
+      "id": "uae-quits-opec",
+      "title": "UAE Quits OPEC After 60 Years, and Saudi Arabia Has No Answer",
+      "subtitle": "Abu Dhabi's defection doesn't change oil prices today, but it signals that the cartel's era of shared discipline is over.",
+      "category": "power"
+    },
+    {
+      "id": "israel-flotilla-intercept",
+      "title": "Israel Seizes Gaza Aid Flotilla 1,000 Miles From Gaza",
+      "subtitle": "The interception near Crete ends the mission before it starts and turns 175 detained activists into a diplomatic problem for every government that said nothing.",
+      "category": "conflict"
+    },
+    {
+      "id": "warsh-fed-confirmation",
+      "title": "Kevin Warsh Clears Senate Banking Committee. The Fed's Independence Window Is Closing.",
+      "subtitle": "The party-line 13-11 vote advances a nominee who pledged Fed independence but whose confirmation is a direct reward for Trump's months-long pressure campaign against Powell.",
+      "category": "power"
+    },
+    {
+      "id": "trump-offshore-wind-buyout",
+      "title": "Trump Pays $2 Billion in Taxpayer Money to Kill Wind Farms",
+      "subtitle": "The administration is using federal funds to buy out offshore wind contracts it could not cancel legally, turning a policy reversal into a taxpayer liability.",
+      "category": "decision"
+    },
+    {
+      "id": "liv-golf-saudi-collapse",
+      "title": "Saudi Arabia Is Cutting LIV Golf Loose. The Sportswashing Bet Failed.",
+      "subtitle": "After three years and billions spent buying defections and legitimacy, Riyadh is walking away from a tour that never became a sport.",
+      "category": "power"
     }
   ]
 }

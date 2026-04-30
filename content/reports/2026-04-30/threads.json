@@ -6,7 +6,7 @@
       "title": "The Iran War Is the Hidden Variable in Every Other Story",
       "description": "The Iran war is not just a geopolitics story today. It is the reason the Fed held rates and may not cut until 2027. It is a significant driver of Meta's AI capex pressure: high rates make the payback period on $145 billion longer and the investor case harder. It is the backdrop against which Kevin Warsh will inherit a Fed already under political attack, with oil-driven inflation as his first test. Three apparently separate stories, two in economics and one in tech, only make full sense when you see the war running through all of them.",
       "type": "dependency-web",
-      "stories": ["iran-war-escalation", "powell-final-fed-meeting", "big-tech-ai-earnings"],
+      "stories": ["iran-war-escalation", "powell-final-fed-meeting", "big-tech-ai-earnings", "warsh-fed-confirmation"],
       "connections": [
         {
           "from": "iran-war-escalation",
@@ -15,13 +15,18 @@
         },
         {
           "from": "powell-final-fed-meeting",
-          "to": "big-tech-ai-earnings",
-          "relationship": "Delayed rate cuts raise the cost of capital for companies carrying $650 billion in AI capex, extending payback periods and increasing the margin between what companies are spending and what they can show investors in near-term returns."
+          "to": "warsh-fed-confirmation",
+          "relationship": "Powell's exit under political siege gives Warsh his mandate: he inherits a war-driven inflation problem and a president who just demonstrated that DOJ probes are available as leverage against Fed chairs who resist."
         },
         {
           "from": "iran-war-escalation",
           "to": "big-tech-ai-earnings",
           "relationship": "Sustained energy cost inflation filters through data center operating costs and supply chain inputs, adding a structural headwind to the AI infrastructure build that none of the four tech CEOs quantified publicly."
+        },
+        {
+          "from": "powell-final-fed-meeting",
+          "to": "big-tech-ai-earnings",
+          "relationship": "Delayed rate cuts raise the cost of capital for companies carrying $650 billion in AI capex, extending payback periods and increasing the margin between what companies are spending and what they can show investors in near-term returns."
         }
       ]
     },
@@ -30,17 +35,60 @@
       "title": "Three Institutions Are Being Tested Simultaneously",
       "description": "Today features three separate American institutions facing challenges to their independence and authority, each through a different mechanism. The Fed is being attacked legally and politically by the executive branch. The Supreme Court is actively rewriting the rules of democratic representation in ways that advantage the party that appointed the current majority. OpenAI, a nominally public-benefit organization, is defending the right to abandon its founding structure for commercial reasons. What connects them is a common question about whether institutional norms survive once a powerful actor decides to push through them.",
       "type": "tension-cluster",
-      "stories": ["powell-final-fed-meeting", "scotus-voting-rights-louisiana", "musk-openai-trial"],
+      "stories": ["powell-final-fed-meeting", "scotus-voting-rights-louisiana", "musk-openai-trial", "warsh-fed-confirmation"],
       "connections": [
         {
           "from": "powell-final-fed-meeting",
-          "to": "scotus-voting-rights-louisiana",
-          "relationship": "Both the Fed and the SCOTUS ruling involve institutions whose authority derives from norms rather than enforceable legal guarantees: the Fed's independence is not legally protected from presidential firing, and the Voting Rights Act's Section 2 has now been reinterpreted out of its core application by a court whose majority has lifetime tenure and no democratic accountability."
+          "to": "warsh-fed-confirmation",
+          "relationship": "The DOJ probe into Powell was opened under political pressure and closed precisely when the Tillis hold lifted: the sequence demonstrates that institutional independence is now negotiable, which is the context Warsh inherits."
+        },
+        {
+          "from": "scotus-voting-rights-louisiana",
+          "to": "warsh-fed-confirmation",
+          "relationship": "Both the SCOTUS voting rights ruling and the Warsh confirmation were achieved through processes that followed every formal rule while hollowing out the norm each institution was supposed to protect: minority representation and central bank independence, respectively."
         },
         {
           "from": "musk-openai-trial",
           "to": "powell-final-fed-meeting",
           "relationship": "Both cases turn on the same question: when a powerful actor decides an institutional structure is inconvenient, what actually enforces the original commitment? For the Fed, the answer is norms and political cost. For OpenAI's non-profit mission, the answer is apparently nothing."
+        }
+      ]
+    },
+    {
+      "id": "saudi-arabia-losing-its-levers",
+      "title": "Saudi Arabia Is Losing Every Lever at Once",
+      "description": "On the same day, Saudi Arabia is losing its oil cartel leadership position through the UAE's OPEC exit, losing its flagship soft-power project through LIV Golf's funding collapse, and watching the Iran war drive prices it cannot easily influence. These stories look unrelated but they are all about the same strategic fact: Riyadh built its post-oil influence strategy around controlling a cartel, buying reputational assets, and managing the Iran threat as a negotiating chip. All three are unwinding simultaneously.",
+      "type": "cause-effect",
+      "stories": ["uae-quits-opec", "liv-golf-saudi-collapse", "iran-war-escalation"],
+      "connections": [
+        {
+          "from": "iran-war-escalation",
+          "to": "uae-quits-opec",
+          "relationship": "The Iran war has pushed oil prices high enough that the UAE can afford to leave OPEC and pump without coordination; at $60 oil, Abu Dhabi would need the cartel's discipline to protect revenues, but at $126, independence is more profitable than solidarity."
+        },
+        {
+          "from": "uae-quits-opec",
+          "to": "liv-golf-saudi-collapse",
+          "relationship": "Both represent Saudi Arabia discovering simultaneously that money cannot buy loyalty in economics or in sport: the UAE took Saudi oil security guarantees for decades then left when the math changed, just as LIV players took Saudi contracts and cannot deliver the legitimacy Riyadh bought."
+        }
+      ]
+    },
+    {
+      "id": "who-pays-for-green-energy-retreat",
+      "title": "The Bill for Dismantling the Energy Transition Is Becoming Visible",
+      "description": "Trump's $2 billion offshore wind buyout and Saudi Arabia's retreat from LIV Golf both share a structure: public or sovereign money was spent to purchase outcomes that the market would not deliver on its own. In both cases the bet failed and someone else absorbs the loss. For offshore wind, US taxpayers pay. For LIV, the Saudi sovereign wealth fund writes it off. The asymmetry is instructive: when governments use public money to suppress market-desired assets, the cost becomes a public liability rather than a market signal.",
+      "type": "tension-cluster",
+      "stories": ["trump-offshore-wind-buyout", "liv-golf-saudi-collapse", "uae-quits-opec"],
+      "connections": [
+        {
+          "from": "trump-offshore-wind-buyout",
+          "to": "uae-quits-opec",
+          "relationship": "Trump paying to cancel US offshore wind capacity while UAE exits OPEC to pump more oil creates a structural reinforcement of fossil fuel dependence: the US removes domestic supply alternatives precisely as Gulf supply becomes more unpredictable."
+        },
+        {
+          "from": "liv-golf-saudi-collapse",
+          "to": "trump-offshore-wind-buyout",
+          "relationship": "Both are examples of sovereign or executive power overriding market signals to achieve a desired cultural or political outcome. Both failed on their own terms, and in both cases, the cost is borne by the public rather than the decision-makers."
         }
       ]
     }

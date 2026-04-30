@@ -1,0 +1,92 @@
+{
+  "id": "warsh-fed-confirmation",
+  "date": "2026-04-30",
+  "generatedAt": "2026-04-30T13:00:00Z",
+  "title": "Kevin Warsh Clears Senate Banking Committee. The Fed's Independence Window Is Closing.",
+  "subtitle": "The party-line 13-11 vote advances a nominee who pledged Fed independence but whose confirmation is a direct reward for Trump's months-long pressure campaign against Powell.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Federal Reserve", "Kevin Warsh", "Jerome Powell", "Trump", "Senate", "interest rates"],
+  "coverImage": {
+    "url": "https://polymarket-upload.s3.us-east-2.amazonaws.com/kevin-warsh-fed-chair-nomination-withdrawn-by-may-15-aUh7G2U34o6a.jpg",
+    "local": "/images/reports/2026-04-30/warsh-fed-confirmation.jpg",
+    "credit": "Polymarket"
+  },
+  "sources": [
+    {
+      "url": "https://apnews.com/business",
+      "publisher": "AP News",
+      "angle": "Kevin Warsh is one step closer to the top Fed job after Senate committee vote; framed as routine confirmation progress"
+    },
+    {
+      "url": "https://www.bbc.com/news/business",
+      "publisher": "BBC Business",
+      "angle": "Powell's final press conference covered independence attacks, inflation, and the Iran war; Warsh confirmation vote treated as background context"
+    },
+    {
+      "url": "https://www.theguardian.com/us-news",
+      "publisher": "The Guardian",
+      "angle": "Coverage of Trump-Powell clashes framed as institutional erosion; Warsh nomination seen as reward mechanism for executive compliance"
+    }
+  ],
+  "brief": {
+    "actors": ["Warsh", "Trump", "Powell", "Senate", "Federal Reserve"],
+    "whatHappened": "The Senate Banking Committee voted 13-11 on April 29, along strict party lines, to advance Kevin Warsh's nomination as Federal Reserve Chair to the full Senate. Republican Sen. Thom Tillis, who had placed a hold on the nomination, lifted it after the DOJ closed its probe into outgoing Chair Jerome Powell. Powell's term expires May 15. Sen. John Fetterman has signaled potential Democratic support for crossover, giving Warsh a potential edge in the full Senate. Polymarket prices Warsh's nomination withdrawal before May 15 at just 0.5%.",
+    "bottomLine": "Warsh's confirmation is nearly certain, and what it confirms is not his views on monetary policy but the principle that holding the Fed Chair job now requires staying in the president's good graces.",
+    "hiddenBets": [
+      {
+        "assumption": "Warsh pledged Fed independence at his hearings, so the institution's independence is preserved in practice.",
+        "whyItMightBeWrong": "The mechanism of the threat is already working. The DOJ probe into Powell was closed specifically as the Tillis hold was lifted. The sequence of events is: Trump attacks Powell, DOJ investigates Powell, Tillis blocks Warsh's vote, DOJ closes Powell probe, Tillis lifts hold, Warsh advances. Warsh did not need to do anything except exist as a more compliant alternative. Any future Fed Chair will have learned the lesson without Warsh saying a word."
+      },
+      {
+        "assumption": "Markets have already priced in a Warsh Fed and adjusted accordingly.",
+        "whyItMightBeWrong": "Markets have priced in a Warsh confirmation. They have not priced in what Warsh actually does with rates once he is sitting in the chair during an oil-driven inflation spike, a war, and a midterm election year where Trump needs low rates as a political signal. Warsh has academic credibility for inflation-hawkishness but political incentives that point the other way."
+      }
+    ],
+    "realDisagreement": "The fork is between the argument that the Fed's independence is institutional, not personal, and will survive a single compliant chair, versus the argument that the mechanism of compliance has been demonstrated and cannot be undemonstrated. The first view says Warsh will follow the data because the institution's credibility is his credibility. The second says the data will always be interpretable in multiple ways, and we now know which interpretation gets rewarded. I lean toward the second reading. Once a precedent is set that a Fed Chair who disagrees with the president faces a DOJ probe and institutional siege, the effective range of Fed independence narrows permanently even without a formal rule change.",
+    "whatNoOneIsSaying": "The Tillis hold was lifted specifically after the DOJ probe into Powell was closed. That is not a coincidence. It is the most explicit acknowledgment yet that the DOJ can be used as a lever on independent institutions. No senator who voted to advance Warsh has explained why that sequence of events is acceptable. None have been asked.",
+    "whoPays": [
+      {
+        "who": "Bond markets",
+        "how": "Inflation expectations may rise if Warsh is perceived as slower to raise rates under political pressure; real yields compress, dollar weakens",
+        "when": "Medium-term, once Warsh is seated and first rate decision arrives"
+      },
+      {
+        "who": "Future Fed Chairs",
+        "how": "The job now comes with an implicit condition: maintain enough political alignment to avoid DOJ scrutiny; the independence guarantee is now probabilistic rather than structural",
+        "when": "Slow-burn over successive administrations"
+      },
+      {
+        "who": "Powell",
+        "how": "Exits with an investigation on his record that was opened and closed for political reasons, not investigative ones; reputational cost without legal resolution",
+        "when": "Immediate"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Warsh Hawks",
+        "whatHappens": "Warsh raises rates aggressively to combat oil-driven inflation, absorbs Trump pressure publicly, demonstrates independence was genuine, markets stabilize, institution's credibility partially restored",
+        "signal": "Warsh's first rate decision is a hike in the face of explicit Trump opposition; Trump tweets criticism and Warsh does not flinch"
+      },
+      {
+        "name": "Warsh Accommodates",
+        "whatHappens": "Inflation from Iran war oil spike is reclassified as 'transitory' or 'external supply shock,' rates held, dollar weakens, inflation expectations rise, credibility gap widens",
+        "signal": "First FOMC statement under Warsh omits language about rate path trajectory and emphasizes 'uncertainty' as a holding pattern"
+      },
+      {
+        "name": "Senate Surprise",
+        "whatHappens": "Fetterman or another moderate Democrat votes no; narrow Republican Senate margin produces confirmation failure; Trump nominates a loyalist with less academic credibility, accelerating institutional damage",
+        "signal": "Fetterman reverses his signal and issues a statement citing 'concerns about monetary independence' in the week before the floor vote"
+      }
+    ],
+    "whatWouldChange": "If Warsh publicly rejects a rate cut request from the White House in his first six months, and suffers no institutional consequence, the independence case is stronger than current evidence suggests. Nothing in the confirmation process has provided that evidence.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Kevin Warsh Fed Chair nomination withdrawn by May 15?",
+        "url": "https://polymarket.com/event/kevin-warsh-fed-chair-nomination-withdrawn-by-may-15",
+        "probability": 0.005
+      }
+    ]
+  }
+}
