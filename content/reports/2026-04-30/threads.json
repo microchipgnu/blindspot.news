@@ -62,6 +62,63 @@
           "relationship": "The March PCE data arriving the same day Warsh cleared committee means his confirmation is now explicitly tied to a stagflation debate -- markets will price his every statement against this inflation backdrop."
         }
       ]
+    },
+    {
+      "id": "ai-chips-sovereignty",
+      "title": "Three Stories About Who Controls AI Infrastructure",
+      "description": "The DeepSeek-Huawei pivot, the EU AI Act collapse, and the Musk-OpenAI trial are all surface expressions of the same underlying contest: which actors control the physical and legal infrastructure of AI, and what that control is worth. China is answering the question with chips. The EU is trying to answer it with regulation and failing. And in San Francisco, two American actors are litigating who owns the institutional infrastructure of the most valuable AI organization on earth. The fight is about the same thing in each case; only the arena is different.",
+      "type": "tension-cluster",
+      "stories": ["deepseek-huawei-chip-pivot", "eu-ai-act-trilogue-collapse", "musk-openai-trial"],
+      "connections": [
+        {
+          "from": "deepseek-huawei-chip-pivot",
+          "to": "eu-ai-act-trilogue-collapse",
+          "relationship": "China's success in building a domestically validated AI stack reduces the EU's leverage in AI governance negotiations: if the dominant frontier models are Chinese or American and neither is subject to EU rules, the Act regulates the margin not the center."
+        },
+        {
+          "from": "musk-openai-trial",
+          "to": "deepseek-huawei-chip-pivot",
+          "relationship": "The Musk-OpenAI fight over who controls the most valuable US AI institution is happening simultaneously with China locking in a domestic AI supply chain, meaning the US is litigating AI governance internally while China is building AI infrastructure externally."
+        }
+      ]
+    },
+    {
+      "id": "china-pressure-everywhere",
+      "title": "The Trump-Xi Summit Is Being Negotiated Across Five Fronts Simultaneously",
+      "description": "The Trump-Xi summit on May 14-15 is not a single negotiation; it is five simultaneous ones. The AI chip story (DeepSeek-Huawei), the Iran oil sanctions (Chinese refiners), the jobless claims and stagflation risk (tariff cost pass-through), the supply chain rules (Chinese legal countermove), and the candid Bessent-He Lifeng call are all inputs to the same summit table. Each story is being reported separately, but they are all levers in the same negotiation. The reader who tracks only one of these misses how each one affects the others' bargaining weight.",
+      "type": "dependency-web",
+      "stories": ["trump-xi-summit-countdown", "deepseek-huawei-chip-pivot", "jobless-claims-1969-low", "pce-inflation-iran-war-fed-trap"],
+      "connections": [
+        {
+          "from": "deepseek-huawei-chip-pivot",
+          "to": "trump-xi-summit-countdown",
+          "relationship": "DeepSeek V4's Huawei optimization reduces China's dependence on US chip concessions as a summit bargaining chip: Beijing no longer needs Nvidia access as urgently as it did six months ago, shifting leverage away from Washington on the technology front."
+        },
+        {
+          "from": "jobless-claims-1969-low",
+          "to": "trump-xi-summit-countdown",
+          "relationship": "The tight US labor market gives Trump domestic political cover to hold tariffs through the summit rather than using them as an exit ramp: he doesn't need a deal to avoid a recession headline before May 15, which reduces his urgency to concede."
+        },
+        {
+          "from": "pce-inflation-iran-war-fed-trap",
+          "to": "trump-xi-summit-countdown",
+          "relationship": "Elevated inflation driven by oil costs gives China leverage: Beijing can credibly argue that American consumers are already paying the price of US foreign policy, and a trade deal that reduces tariffs would help the Fed's problem without requiring any additional concession from China."
+        }
+      ]
+    },
+    {
+      "id": "platform-power-paradox",
+      "title": "Meta Enforces the Rules That Make It Money and Ignores the Ones That Don't",
+      "description": "The Instagram aggregator crackdown and the ADL moderation findings are two halves of the same story about how platforms actually exercise power. The aggregator policy protects the creator economy Meta monetizes. The moderation rollback protects the outrage content that drives time-on-app. This pattern connects directly to the big-tech AI earnings story: Meta is investing $145 billion in AI capex while simultaneously reducing human content moderation, which means AI is being deployed to serve recommendation and ad-targeting while safety infrastructure is cut. The platform power question and the AI investment question are the same question.",
+      "type": "cause-effect",
+      "stories": ["instagram-moderation-collapse", "big-tech-ai-earnings"],
+      "connections": [
+        {
+          "from": "big-tech-ai-earnings",
+          "to": "instagram-moderation-collapse",
+          "relationship": "Meta's $145 billion AI capex is deployed toward recommendation, ad-targeting and creator tools; the simultaneous reduction of human safety moderation means the AI investment and the moderation collapse are not in tension -- they are the same resource allocation decision."
+        }
+      ]
     }
   ]
 }
