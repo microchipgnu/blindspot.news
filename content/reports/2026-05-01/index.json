@@ -91,6 +91,36 @@
       "title": "Volkswagen Says Its Future Is at Risk. It Is Now Considering Letting Chinese Rivals Build Cars in Its Own European Factories.",
       "subtitle": "VW reported a 14% profit collapse in Q1 2026 while warning cuts so far are not enough. The proposed solution is to share underutilized European plants with BYD and other Chinese brands that are competing with it everywhere.",
       "category": "power"
+    },
+    {
+      "id": "war-powers-iran-terminated",
+      "title": "Trump Declared the Iran War 'Terminated.' US Forces Are Still There.",
+      "subtitle": "The administration invoked a legal fiction to bypass a 53-year-old law, and Congress let it happen. The precedent is more dangerous than the war itself.",
+      "category": "power"
+    },
+    {
+      "id": "eu-ai-act-omnibus-collapse",
+      "title": "EU Lawmakers Tried to Delay Their AI Law. They Couldn't Agree How. The Deadline Is Still August 2.",
+      "subtitle": "The trilogue that was supposed to give AI companies until 2027 to comply collapsed over machinery regulations. Every high-risk AI system in Europe now has 94 days to meet rules most deployers haven't read.",
+      "category": "power"
+    },
+    {
+      "id": "tariff-refund-portal-chaos",
+      "title": "The Government Has to Return $166 Billion in Illegal Tariffs. Its Portal Is Rejecting 15% of Claims.",
+      "subtitle": "After the Supreme Court struck down Trump's IEEPA tariffs, the administration built a refund system and then quietly set it to deny one in seven valid claims. The first checks go out May 11.",
+      "category": "power"
+    },
+    {
+      "id": "fisa-702-surveillance-punt",
+      "title": "Congress Extended Warrantless Surveillance for 45 More Days. It Has Done This Twice This Month.",
+      "subtitle": "FISA Section 702 lets the government collect Americans' communications without a warrant when they talk to foreigners. A bipartisan coalition came within striking distance of real reform. Congress chose the extension instead.",
+      "category": "power"
+    },
+    {
+      "id": "iran-internet-blackout",
+      "title": "Iran Has Been Offline for 90 Days. The IRGC Wants to Keep It That Way. The Government Doesn't.",
+      "subtitle": "Iran's internet shutdown is now the longest national blackout in modern history. It is also tearing open a power struggle between the Islamic Revolutionary Guard Corps and the civilian government that both sides are trying to hide.",
+      "category": "conflict"
     }
   ]
 }

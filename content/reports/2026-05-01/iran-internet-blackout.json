@@ -1,0 +1,106 @@
+{
+  "id": "iran-internet-blackout",
+  "date": "2026-05-01",
+  "generatedAt": "2026-05-01T20:00:00Z",
+  "title": "Iran Has Been Offline for 90 Days. The IRGC Wants to Keep It That Way. The Government Doesn't.",
+  "subtitle": "Iran's internet shutdown is now the longest national blackout in modern history. It is also tearing open a power struggle between the Islamic Revolutionary Guard Corps and the civilian government that both sides are trying to hide.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["Iran", "internet shutdown", "IRGC", "internet blackout", "digital economy", "censorship", "civil-military relations"],
+  "coverImage": {
+    "url": "https://dims.apnews.com/dims4/default/f56ef0f/2147483647/strip/true/crop/5999x3997+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4e%2F8b%2Fd229d518cc0e6865286bbfdeacb8%2F706ac60f3d5942e395c08cec9d35ecc2",
+    "local": "/images/reports/2026-05-01/iran-internet-blackout.jpg",
+    "credit": "AP News"
+  },
+  "sources": [
+    {
+      "url": "https://apnews.com/article/iran-us-war-internet-business-economy-online-9e1cc7c871cfea25978e3e518065cc26",
+      "publisher": "AP News",
+      "angle": "Economic impact reporting: Iran's online economy, which had grown despite sanctions through domestic platforms and workarounds, has collapsed; fashion, fitness, advertising, and retail businesses describe losing all income; even Iran's thriving VPN market has been disrupted."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-04-30/iran-internet-blackout-tightens-military-s-grip-on-civilian-life",
+      "publisher": "Bloomberg",
+      "angle": "Political analysis: the shutdown was imposed by IRGC-led authorities; civilian government officials have become increasingly public in their opposition; this is the most visible civil-military split inside Iran since the war began."
+    },
+    {
+      "url": "https://www.iranintl.com/en/202604287032",
+      "publisher": "Iran International",
+      "angle": "Inside Iran reporting: the blackout crossed 60 days on April 28; over 1,400 hours without global connectivity; authorities moving toward a two-tier 'Internet Pro' scheme offering selective access to registered businesses and academics while keeping ordinary citizens cut off."
+    },
+    {
+      "url": "https://www.independent.co.uk/news/world/middle-east/iran-internet-blackout-war-us-trump-b2966488.html",
+      "publisher": "The Independent",
+      "angle": "Describes the Supreme National Security Council's 'Internet Pro' scheme: tiered access is technically approved but details are unresolved; the asymmetry between business access and public access is likely to generate its own political problems."
+    },
+    {
+      "url": "https://www.thenationalnews.com/future/technology/2026/04/28/iran-internet-pro-update-blackout/",
+      "publisher": "The National",
+      "angle": "Technical and timeline reporting: NetBlocks data shows connectivity at a fraction of normal since February 28; 'Internet Pro' details still being worked out; the gap between announcement and implementation signals continued internal disagreement."
+    }
+  ],
+  "brief": {
+    "actors": ["IRGC", "Iran", "Khamenei", "Rouhani-era reformists", "US", "Iranian civilians"],
+    "whatHappened": "Iran has maintained a near-total shutdown of global internet access since February 28, when connectivity dropped to a fraction of normal levels as the war with the US and Israel began, according to internet monitoring organization NetBlocks. The blackout has now exceeded 90 days, making it one of the longest and most complete national internet shutdowns in modern history. Iran's civilian government has begun pushing back openly, with top officials publicly opposing the shutdown and the Supreme National Security Council approving a two-tier 'Internet Pro' scheme that would give businesses and academics selective access. The scheme has been approved in principle but its technical details remain unresolved, and the IRGC, which controls the shutdown decision, has not publicly endorsed lifting it.",
+    "bottomLine": "The internet shutdown is not a wartime security measure anymore. It is a test of whether the IRGC or the civilian government controls Iran's domestic economy, and the IRGC is winning.",
+    "hiddenBets": [
+      {
+        "assumption": "The internet shutdown is a temporary security measure that will be lifted when the military situation stabilizes.",
+        "whyItMightBeWrong": "The ceasefire is now three weeks old and the shutdown continues. The IRGC has not offered a timeline or set of conditions for restoration. The military justification (preventing coordination of dissent, blocking intelligence collection) remains useful to the security apparatus regardless of whether active hostilities are ongoing. Shutdowns of this kind tend to end only under sustained economic pressure from elites the regime cannot ignore."
+      },
+      {
+        "assumption": "The 'Internet Pro' tiered access scheme will resolve the conflict between security and economic needs.",
+        "whyItMightBeWrong": "Tiered access creates a black market. Businesses with 'Internet Pro' credentials will resell access. The boundary between who is approved and who isn't becomes a corruption and enforcement problem. The scheme may satisfy the civilian government politically without actually reopening the economy, and the IRGC may prefer that outcome."
+      },
+      {
+        "assumption": "The civil-military split over the internet is a sign that Iran's government is moderating its wartime posture.",
+        "whyItMightBeWrong": "The civilian government's opposition to the shutdown may be tactical rather than principled: a way to distance itself from economic pain it cannot control, rather than a genuine constraint on IRGC authority. If the shutdown continues for another month and the civilian government does not escalate its opposition beyond public statements, it will have demonstrated that it cannot actually force the IRGC to do anything."
+      }
+    ],
+    "realDisagreement": "The genuine fork is whether the IRGC is using the war as pretext to permanently restructure Iran's information environment, or whether it genuinely intends to restore access once it has rebuilt security protocols and created a more monitored domestic internet. The two scenarios look identical from the outside for the first several months. The difference matters enormously: if the former, Iran is building an information infrastructure more like North Korea's, and businesses and diaspora connections are being permanently severed. If the latter, the shutdown ends within weeks of any stable ceasefire. Ninety days in, the evidence for the former is accumulating.",
+    "whatNoOneIsSaying": "Iran's digital economy grew specifically because it operated in the gray zone between official restrictions and full access. Platforms, businesses, and social networks thrived by being tolerated rather than sanctioned. The IRGC has spent two decades unable to shut that down. The war gave them the justification to do it. The civilian government officials opposing the shutdown are not primarily advocates for open internet; they are defending the economic interests of the business class that grew up in that gray zone and funds their political base. The fight is not about freedom of information; it is about who controls the economic rents from Iranian digital commerce.",
+    "whoPays": [
+      {
+        "who": "Iranian small business owners and the middle class",
+        "how": "Iran's online economy had developed workarounds for sanctions that allowed domestic digital commerce to function. That entire ecosystem is now offline. Revenue has collapsed across fashion, advertising, fitness, retail, and services. The damage compounds daily and will not automatically recover when access is restored, because customer relationships and platform infrastructure will have moved or dissolved.",
+        "when": "Immediate and ongoing; compound damage growing each week"
+      },
+      {
+        "who": "Iranian diaspora and their families inside Iran",
+        "how": "Communication between diaspora communities abroad and family members inside Iran depends on global internet access. That connection has been severed for 90 days. Financial transfers, family coordination, and support networks have been disrupted for tens of millions of people.",
+        "when": "Ongoing since February 28"
+      },
+      {
+        "who": "US negotiators and Iran's civilian government",
+        "how": "The shutdown limits the civilian government's ability to demonstrate economic concessions are working, because the population cannot see or experience any change in their material conditions during ceasefire negotiations. It makes the civilian government weaker as a negotiating counterpart and the IRGC stronger.",
+        "when": "Affecting ceasefire negotiation dynamics right now"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "IRGC Controls the Restoration Timeline",
+        "whatHappens": "The 'Internet Pro' scheme launches but is narrow and slow. Full restoration is tied to IRGC-set security benchmarks that are not made public. The shutdown persists into the summer. Iran's civilian government absorbs political blame for economic damage it cannot actually fix.",
+        "signal": "Watch for 'Internet Pro' being announced as available but with a registration backlog measured in months; that is the IRGC pacing restoration to its own satisfaction."
+      },
+      {
+        "name": "Economic Pressure Forces Full Restoration",
+        "whatHappens": "The compound economic damage reaches a threshold where it affects industries and business interests connected to IRGC leadership itself. The military backs down from the position that full connectivity is a security risk. Full access is restored within 30 days, framed as a post-ceasefire normalization.",
+        "signal": "A formal IRGC commander statement endorsing full restoration, or a Supreme National Security Council announcement specifying a restoration date, rather than the current vague 'Internet Pro' language."
+      },
+      {
+        "name": "Permanent Tiered Infrastructure",
+        "whatHappens": "The shutdown becomes the baseline for a new information architecture: a monitored, filtered domestic internet for the public, and 'Internet Pro' access for approved institutions. Iran permanently joins the small group of countries with a sovereign intranet. International business engagement becomes structurally impossible at scale.",
+        "signal": "A government announcement of new domestic platform requirements or infrastructure investments in domestic internet routing that do not rely on global connectivity."
+      }
+    ],
+    "whatWouldChange": "An explicit IRGC endorsement of a restoration timeline, with a specific date rather than a conditional framework, would indicate the shutdown is ending. Alternatively, if the ceasefire collapses and hostilities resume, the shutdown's continuation becomes more clearly justified and the civilian-military split more clearly secondary. What would not change this: more civilian government statements opposing the shutdown, which have been happening for weeks with no effect.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Internet Access restored in Iran by May 31, 2026?",
+        "url": "https://polymarket.com/event/internet-access-restored-in-iran-by",
+        "probability": 0.135
+      }
+    ]
+  }
+}

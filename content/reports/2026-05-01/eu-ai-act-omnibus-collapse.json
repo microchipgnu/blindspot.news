@@ -1,0 +1,98 @@
+{
+  "id": "eu-ai-act-omnibus-collapse",
+  "date": "2026-05-01",
+  "generatedAt": "2026-05-01T20:00:00Z",
+  "title": "EU Lawmakers Tried to Delay Their AI Law. They Couldn't Agree How. The Deadline Is Still August 2.",
+  "subtitle": "The trilogue that was supposed to give AI companies until 2027 to comply collapsed over machinery regulations. Every high-risk AI system in Europe now has 94 days to meet rules most deployers haven't read.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["EU AI Act", "European Parliament", "AI regulation", "compliance", "Digital Omnibus", "high-risk AI"],
+  "coverImage": {
+    "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/04/29/GettyImages-2271696475-scaled.jpg",
+    "local": "/images/reports/2026-05-01/eu-ai-act-omnibus-collapse.jpg",
+    "credit": "Politico EU / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://www.politico.eu/article/eu-legislators-fail-to-clinch-deal-to-delay-ai-law/",
+      "publisher": "Politico EU",
+      "angle": "Inside account of the breakdown: machinery and medical device rules were the sticking point; the Parliament accused the Council of refusing to compromise; next trilogue tentatively set for May 13."
+    },
+    {
+      "url": "https://fontvera.eu/intelligence/ai-act-omnibus-delay-failed",
+      "publisher": "Fontvera",
+      "angle": "Compliance-focused analysis: August 2, 2026 is still law; Article 6 high-risk requirements and Article 99 penalties are active; affected sectors are hiring, credit scoring, biometrics, law enforcement, education, critical infrastructure."
+    },
+    {
+      "url": "https://www.computerworld.com/article/4164963/eu-lawmakers-fail-to-agree-on-watered-down-ai-act-talks-pushed-to-may.html",
+      "publisher": "Computerworld",
+      "angle": "Explains the practical stakes: without a deal by May 13, there is not enough time to publish changes in the Official Journal before the August 2 enforcement date; the delay window is effectively closed."
+    },
+    {
+      "url": "https://www.legalithm.com/en/blog/eu-ai-act-omnibus-trilogue-stalled-may-2026",
+      "publisher": "Legalithm",
+      "angle": "SME-focused: argues that the trilogue failure is actually clarifying, because companies that paused compliance work betting on a delay are now behind, and the advice is to proceed on the original timeline regardless of May 13 outcome."
+    },
+    {
+      "url": "https://iapp.org/news/a/ai-act-omnibus-what-just-happened-and-what-comes-next",
+      "publisher": "IAPP",
+      "angle": "Privacy professional perspective: the Annex I dispute (AI embedded in regulated products like medical devices) is structural, not political; it reflects a genuine incompatibility between the AI Act and existing product safety law that one more trilogue round cannot fix."
+    }
+  ],
+  "brief": {
+    "actors": ["European Parliament", "EU Council", "European Commission", "OpenAI", "Google", "Microsoft"],
+    "whatHappened": "After 12 hours of overnight negotiations on April 28, EU institutions failed to agree on the Digital Omnibus on AI, a package that would have delayed the EU AI Act's high-risk compliance deadline from August 2, 2026 to December 2027. The sticking point was Annex I of the AI Act, which governs AI embedded in regulated products like medical devices and industrial machinery, and how those obligations interact with existing product safety directives. A follow-up trilogue is scheduled for approximately May 13, but compliance lawyers note there is not enough time to publish any changes in the EU's Official Journal before August 2. For practical purposes, the August 2 deadline is locked.",
+    "bottomLine": "The EU just accidentally enforced its own AI law by failing to water it down in time, and almost no high-risk AI deployer in Europe is ready.",
+    "hiddenBets": [
+      {
+        "assumption": "The May 13 trilogue could still produce a deal that matters.",
+        "whyItMightBeWrong": "EU legislative publishing timelines require weeks between political agreement and Official Journal publication before a law takes effect. Even if May 13 produces a deal, August 2 is 80 days away. The technical window for a legal delay is effectively closed, a fact that compliance lawyers are stating plainly but that political actors on both sides have incentives to obscure."
+      },
+      {
+        "assumption": "AI companies operating in Europe have been preparing for August 2 and will be ready.",
+        "whyItMightBeWrong": "The Digital Omnibus discussions began in November 2025 precisely because industry lobbied that companies were not ready and needed the delay. Many deployers paused compliance work while betting the deadline would move. The delay bet just lost, and 94 days is not enough to close a 12-month gap in readiness."
+      },
+      {
+        "assumption": "Enforcement will be light in the first months as regulators ramp up.",
+        "whyItMightBeWrong": "National AI regulators in the EU vary enormously. Some, like Germany's and Italy's, have invested heavily in enforcement capacity and have made public statements about not waiting before acting. A company operating across multiple EU member states cannot assume uniform forbearance."
+      }
+    ],
+    "realDisagreement": "The Annex I dispute is not really about medical devices. It is about whether the EU AI Act is the law of AI, or whether AI embedded in physical products is still primarily governed by the product safety regimes that predate it. The Parliament wants AI to bring uniform AI rules everywhere it appears. The Council wants existing sectoral rules to remain primary and the AI Act to apply only at the margins. Both positions have genuine legal and practical merit. Picking the Parliament's position creates double-regulation and compliance nightmares for manufacturers. Picking the Council's position creates gaps where high-risk AI in physical products is governed by rules that predate large language models by decades. There is no clean answer, which is why 12 hours of talks produced nothing.",
+    "whatNoOneIsSaying": "The companies lobbying hardest for the AI Act delay are the large US AI providers who have the most to lose from European enforcement and the most resources to influence EU legislative timelines. The manufacturers who are actually caught in the Annex I dispute, German machinery firms and Dutch medical device makers, are secondary players in this negotiation. The delay that failed was shaped primarily by interests that are not being named in coverage of why it failed.",
+    "whoPays": [
+      {
+        "who": "European SMEs deploying AI in high-risk categories",
+        "how": "They lack the legal teams to navigate August 2 compliance on short notice, and they cannot absorb fines the way large tech companies can. Large players will comply and use compliance costs as a moat; small players will face fines or exit the market.",
+        "when": "August 2 through year-end 2026"
+      },
+      {
+        "who": "Manufacturers using AI in regulated products",
+        "how": "The Annex I conflict is unresolved. They face genuinely contradictory legal requirements across the AI Act and existing product safety directives, with no guidance on which controls when, and enforcement starting in 94 days.",
+        "when": "Immediate; compliance programs need decisions now"
+      },
+      {
+        "who": "US AI providers operating in Europe",
+        "how": "Their EU revenue faces legal risk until either the Annex I conflict is resolved or enforcement patterns clarify which national regulators will move first and hardest. Google, Microsoft, and OpenAI have EU operations directly in scope.",
+        "when": "Ongoing; will sharpen after August 2"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "August 2 Enforced as Written",
+        "whatHappens": "May 13 talks fail or produce a deal too late to publish. National regulators begin enforcement. The first fines go to large, visible deployers to establish precedent. Industry lawyers negotiate case by case.",
+        "signal": "Watch for any national AI regulator announcing an enforcement priority list before June; that signals they intend to move on August 2 rather than wait."
+      },
+      {
+        "name": "Political Agreement, No Legal Relief",
+        "whatHappens": "May 13 produces a political deal but it cannot be published before August 2. Regulators announce informal forbearance for deployers who can document good-faith compliance efforts, creating a de facto grace period with no legal basis.",
+        "signal": "European Commission issues a non-binding guidance note in July signaling it will not pursue enforcement actions against companies with documented compliance programs."
+      },
+      {
+        "name": "Structural Deadlock Continues",
+        "whatHappens": "The Annex I disagreement proves irresolvable in the current political configuration. The Digital Omnibus stalls indefinitely. The AI Act is enforced in the categories where there is no sectoral conflict, while medical device and machinery AI sits in legal limbo for years.",
+        "signal": "If May 13 talks break down on the same Annex I question, assume no resolution before the next European Parliament term."
+      }
+    ],
+    "whatWouldChange": "If the European Commission issues a formal interpretation clarifying that existing sectoral product safety law takes precedence over AI Act obligations for Annex I products, the Annex I deadlock resolves and a deal becomes possible. Alternatively, if a large EU member state's regulator publicly announces it will not enforce Annex I obligations until the legal conflict is resolved, the political pressure on the trilogue reverses."
+  }
+}

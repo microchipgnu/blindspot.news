@@ -1,0 +1,106 @@
+{
+  "id": "fisa-702-surveillance-punt",
+  "date": "2026-05-01",
+  "generatedAt": "2026-05-01T20:00:00Z",
+  "title": "Congress Extended Warrantless Surveillance for 45 More Days. It Has Done This Twice This Month.",
+  "subtitle": "FISA Section 702 lets the government collect Americans' communications without a warrant when they talk to foreigners. A bipartisan coalition came within striking distance of real reform. Congress chose the extension instead.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["FISA", "Section 702", "surveillance", "NSA", "FBI", "privacy", "civil liberties", "Congress"],
+  "coverImage": {
+    "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK471_Government_Surveillance_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "local": "/images/reports/2026-05-01/fisa-702-surveillance-punt.jpg",
+    "credit": "The Verge"
+  },
+  "sources": [
+    {
+      "url": "https://www.theverge.com/policy/921652/congress-fisa-section-702-45-day-extension",
+      "publisher": "The Verge",
+      "angle": "Explains that this is the second temporary extension this month; the reform coalition failed to win enough votes; the 45-day window sets up another deadline in mid-June, after which Congress leaves for summer recess."
+    },
+    {
+      "url": "https://www.npr.org/2026/04/29/g-s1-119094/congress-fisa-702",
+      "publisher": "NPR",
+      "angle": "Reform advocate perspective: the coalition seeking warrant requirements for backdoor queries of American communications was bipartisan and came close; describes how late-stage additions to the House bill (banning a Fed digital currency) complicated Senate passage."
+    },
+    {
+      "url": "https://time.com/article/2026/04/27/fisa-fbi-spying-surveillance-fisa-court-congress-wyden/",
+      "publisher": "TIME",
+      "angle": "Senator Wyden's documented case for reform: FBI has used 702 data for domestic criminal investigations without warrants, intentionally querying American communications under a foreign intelligence authority; notes the lack of transparency in how often this happens."
+    },
+    {
+      "url": "https://abcnews.com/Politics/house-passes-3-year-fisa-reauthorization-face-challenges/story?id=132516696",
+      "publisher": "ABC News",
+      "angle": "Details of the House's 3-year reauthorization bill that the Senate could not pass: it expanded criminal penalties for abuses and added some FBI oversight requirements, but fell short of a warrant requirement for Americans' data."
+    },
+    {
+      "url": "https://www.washingtontimes.com/news/2026/apr/30/congress-passes-45-day-extension-federal-surveillance-law-extending/",
+      "publisher": "Washington Times",
+      "angle": "Conservative framing: 702 is a vital national security tool; privacy concerns are addressed by existing FISA Court oversight; extension is the responsible choice during an active Iran conflict."
+    }
+  ],
+  "brief": {
+    "actors": ["Congress", "FBI", "NSA", "Trump", "Senate", "Wyden"],
+    "whatHappened": "Section 702 of the Foreign Intelligence Surveillance Act, which allows the US government to collect communications of foreign targets even when those communications involve American citizens, was set to expire on April 30. Hours before the deadline, Congress passed its second temporary extension this month, this time for 45 days. The House had passed a 3-year reauthorization with modest reforms, but Senate disagreement over whether to require warrants before querying Americans' data, combined with a provision banning a Federal Reserve digital currency that was added to win conservative votes, prevented passage. The 45-day extension pushes the next deadline to mid-June, after which Congress leaves for recess.",
+    "bottomLine": "The most significant bipartisan surveillance reform effort in a decade came within arm's reach, and Congress chose to extend the status quo rather than resolve a fight it has been having for ten years.",
+    "hiddenBets": [
+      {
+        "assumption": "Section 702 is a foreign intelligence tool with incidental collection of American communications.",
+        "whyItMightBeWrong": "Senator Wyden and others have documented that the FBI has conducted intentional 'backdoor queries' of 702 databases specifically to access American communications in domestic criminal investigations, without warrants and without the FISA Court's knowledge. The word 'incidental' has been doing enormous legal work to cover practices that are, by any ordinary reading, deliberate domestic surveillance."
+      },
+      {
+        "assumption": "The mid-June deadline will produce a real reform deal.",
+        "whyItMightBeWrong": "This is the same negotiation, with the same actors, the same disagreements, and the same political dynamics, except now with a shorter deadline before recess. The June extension will produce another extension or, more likely, a 1-2 year reauthorization without a warrant requirement, preserving the status quo with new language describing oversight procedures that already exist on paper."
+      },
+      {
+        "assumption": "The warrant requirement is an unreasonable demand given national security needs.",
+        "whyItMightBeWrong": "A warrant requirement applies only to queries of American data, not to the 702 collection itself. The FBI could still collect foreign communications under 702 without a warrant; it would only need judicial approval before searching those databases for American communications. The intelligence community's objection is not to warrants per se but to the paperwork and delay involved in getting them, which is a much weaker argument than the national security framing suggests."
+      }
+    ],
+    "realDisagreement": "The genuine fork is whether the Fourth Amendment applies to government searches of databases containing American communications that were originally collected for foreign intelligence purposes. The warrant camp says yes: an American's communications are their communications regardless of how they were collected, and searching them without judicial approval violates a constitutional right. The security camp says no: 702 collection happens upstream of any American's data and targeting foreign subjects is legal; the search is just analysis of lawfully acquired data. Both positions are legally coherent. Courts have not resolved it definitively. The reform coalition was trying to settle it by statute; the extension camp is betting courts will never force the issue. The extension camp is probably right.",
+    "whatNoOneIsSaying": "The Fed digital currency provision that derailed the House bill in the Senate was added by House Republicans to attract votes from members who believe a digital dollar is a government surveillance tool. In a bill about government surveillance, Congress blocked reform of government surveillance partly because members were afraid of hypothetical future government surveillance. The irony is complete and nobody is naming it.",
+    "whoPays": [
+      {
+        "who": "American citizens who communicate with people abroad",
+        "how": "Their communications are collected under 702 and remain in government databases where they can be queried without a warrant for investigations that have nothing to do with foreign intelligence. This applies to journalists, lawyers, activists, business people, and anyone else with international contacts.",
+        "when": "Ongoing indefinitely; the extension preserves this status quo"
+      },
+      {
+        "who": "Criminal defendants whose cases involved 702 data",
+        "how": "The FBI has been using 702 data in domestic criminal prosecutions without notifying defendants of its origin, as required by law. Defendants who were convicted using 702-derived evidence and not told about it have potentially valid appeals that are being suppressed by prosecutorial non-disclosure.",
+        "when": "Retroactively and ongoing"
+      },
+      {
+        "who": "Privacy reform advocates",
+        "how": "The closest legislative window for warrant reform in a decade closes with another extension. The political coalition that formed around this issue will be harder to reassemble after mid-June, especially if a deal passes that includes modest FBI oversight language that members can cite as reform.",
+        "when": "The next serious reform window is likely years away"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "June Extension or Quiet Long-Term Reauthorization",
+        "whatHappens": "The mid-June deadline produces either another short extension or a 2-3 year reauthorization with minor oversight provisions and no warrant requirement. The reform coalition fragments as members take the incremental win. 702 continues as is.",
+        "signal": "If Senate leadership announces a vote on a 'compromise' bill in the first week of June rather than continuing negotiations, expect the warrant requirement to have been dropped."
+      },
+      {
+        "name": "Warrant Requirement Passes",
+        "whatHappens": "The 45 days produces a genuine compromise: a warrant requirement for domestic criminal investigations using 702 data, with a national security carve-out for intelligence uses. This would be the most significant restriction on warrantless surveillance since FISA was enacted.",
+        "signal": "Watch for a bipartisan co-sponsorship announcement that includes at least one senior Republican intelligence committee member; without that, the votes aren't there."
+      },
+      {
+        "name": "702 Lapses Briefly",
+        "whatHappens": "June negotiations collapse, Congress leaves for recess, 702 expires for the first time. The intelligence community invokes emergency authorities to continue collection while Congress is pressured to reconvene. A clean reauthorization passes quickly with no reforms.",
+        "signal": "Senior intelligence officials making public statements about operational harm in the week before the June deadline."
+      }
+    ],
+    "whatWouldChange": "A court ruling with standing that finds warrantless backdoor queries of American 702 data unconstitutional would force legislative action regardless of political will. Short of that, the only thing that changes this dynamic is a documented, publicized abuse of 702 data in a domestic prosecution that generates sustained public outrage: something more concrete than the abstract civil liberties argument that has failed to move Congress for ten years.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "FISA Section 702 reauthorized before it expires?",
+        "url": "https://polymarket.com/event/fisa-section-702-reauthorized-before-it-expires-419",
+        "probability": 0.993
+      }
+    ]
+  }
+}
