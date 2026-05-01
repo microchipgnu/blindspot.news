@@ -1,0 +1,94 @@
+{
+  "id": "cisa-gutted-election-security",
+  "date": "2026-05-01",
+  "generatedAt": "2026-05-01T17:45:00Z",
+  "title": "CISA Lost a Third of Its Staff. Cyber Partnerships Are at a Standstill. The Midterms Are Six Months Away.",
+  "subtitle": "The agency responsible for protecting US critical infrastructure and election systems has been hollowed out just as the 2026 midterms approach, and the House just passed a funding bill that cuts it further.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["CISA", "cybersecurity", "elections", "DHS", "midterms", "infrastructure"],
+  "coverImage": {
+    "url": "https://cdn.nextgov.com/media/img/cd/2026/04/28/042826electionNG/open-graph.jpg",
+    "local": "/images/reports/2026-05-01/cisa-gutted-election-security.jpg",
+    "credit": "Nextgov/FCW"
+  },
+  "sources": [
+    {
+      "url": "https://federalnewsnetwork.com/cybersecurity/2026/04/cisa-cyber-partnerships-face-standstill-amid-cuts/",
+      "publisher": "Federal News Network",
+      "angle": "CISA's Stakeholder Engagement Division lost 96 of 189 staff since January 2025; cyber partnerships with private sector described as at a 'standstill'"
+    },
+    {
+      "url": "https://www.nextgov.com/cybersecurity/2026/04/federal-drawdown-election-support-destroyed-ongoing-relationships-experts-say/413181/",
+      "publisher": "Nextgov/FCW",
+      "angle": "State officials from Michigan and Georgia warn at House hearing that CISA drawdown has 'destroyed' trust and coordination before November midterms"
+    },
+    {
+      "url": "https://www.govtech.com/policy/homeland-security-funding-bill-passed-includes-money-for-cisa",
+      "publisher": "Government Technology",
+      "angle": "House passed DHS funding bill with $2.6 billion for CISA, $300 million below FY2025, continuing the agency's staffing decline"
+    },
+    {
+      "url": "https://www.pymnts.com/cybersecurity/2026/cyber-experts-say-dhs-funding-cuts-have-stalled-security/",
+      "publisher": "PYMNTS",
+      "angle": "Experts say cuts have opened door to threats and slowed private sector coordination; White House announced CISA cyberdefense unit cuts earlier in April"
+    }
+  ],
+  "brief": {
+    "actors": ["CISA", "Trump", "DHS", "Gabbard"],
+    "whatHappened": "CISA, the federal agency responsible for protecting US critical infrastructure and election systems, has lost roughly one-third of its workforce since January 2025, including nearly half the staff in its Stakeholder Engagement Division. The House passed a DHS funding bill this week that allocates $2.6 billion to CISA, $300 million below its FY2025 budget. At back-to-back congressional hearings, state election officials from Michigan and Georgia testified that CISA's drawdown has 'destroyed' operational relationships built over years of joint security coordination. The Trump administration has also redirected CISA's election security function toward Director of National Intelligence Tulsi Gabbard, an expansion of executive control over the process.",
+    "bottomLine": "The US just dismantled its primary election security and critical infrastructure protection agency six months before a consequential midterm election, and the new funding bill locks in the cuts.",
+    "hiddenBets": [
+      {
+        "assumption": "Cutting CISA is about reducing government bloat",
+        "whyItMightBeWrong": "CISA's Stakeholder Engagement Division does not regulate anything. It coordinates threat intelligence sharing between federal agencies and private sector operators of critical infrastructure: power grids, water systems, hospitals. Cutting that division does not reduce regulation; it reduces the government's ability to warn the private sector before attacks happen. Calling this efficiency is like cutting the dispatcher at a fire station and calling it leaner government."
+      },
+      {
+        "assumption": "State and local governments can substitute for CISA coordination on their own",
+        "whyItMightBeWrong": "The state officials who testified at congressional hearings were not complaining about ideological differences. They were describing broken operational pipelines: threat feeds that stopped coming, joint exercises that were cancelled, liaison staff that disappeared. These are coordination functions that cannot be duplicated by state IT departments with no classified access and no federal threat intelligence."
+      },
+      {
+        "assumption": "Moving election security oversight to the DNI office is a neutral administrative change",
+        "whyItMightBeWrong": "CISA's election security work was built on the principle that election infrastructure protection should be non-partisan and at arms length from political leadership. Moving it to Gabbard's office puts a politically appointed official accountable to the President in charge of defining what counts as interference in the elections where that President's party competes."
+      }
+    ],
+    "realDisagreement": "The genuine fork is between two readings of what CISA actually is. One view: CISA was a well-intentioned but overreaching federal agency that inserted itself into state and local election administration, creating federal dependency and ideological mission creep. The other: CISA was one of the few functioning public-private coordination mechanisms protecting infrastructure that private companies own but the public depends on, and dismantling it creates gaps that nation-state adversaries will exploit. Both readings are coherent. The difference turns on whether you think the federal government's coordination role in cyber defense produces positive net outcomes or whether the cost in autonomy and political risk outweighs the security benefit. I lean toward the latter view: the historical record of CISA's threat intelligence having prevented real attacks on power and water systems is stronger than the evidence that it distorted elections. Dismantling it six months before an election is the wrong timing regardless of the policy debate.",
+    "whatNoOneIsSaying": "Russia, China, and Iran all ran influence and infrastructure intrusion operations targeting the 2022 midterms, which CISA helped detect and partially disrupt. The question of whether adversaries will probe the 2026 midterms more aggressively because the coordination structure has been dismantled is not being asked in any public forum.",
+    "whoPays": [
+      {
+        "who": "State and local election administrators",
+        "how": "Lost access to CISA's threat intelligence sharing and joint exercise programs. Now responsible for cyber defense with no federal coordination and no classified threat feeds",
+        "when": "Immediate, ongoing through November 2026 elections"
+      },
+      {
+        "who": "Operators of critical infrastructure",
+        "how": "Water utilities, power grids, and hospital networks that relied on CISA's Sector Risk Management function for early warning of coordinated attacks now receive fragmented or no coordination",
+        "when": "Ongoing"
+      },
+      {
+        "who": "Voters in competitive districts with underfunded local election IT",
+        "how": "If election systems in under-resourced jurisdictions are successfully attacked or disrupted before November, there is no federal coordination mechanism to respond in real time",
+        "when": "October-November 2026"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Quiet Midterms",
+        "whatHappens": "No major election infrastructure attack occurs. CISA's reduced footprint is not tested. The administration argues the cuts proved the agency was oversized. The capability loss is invisible because nothing went wrong.",
+        "signal": "Watch for the absence of any significant reported breach or disruption to election systems in the October-November period."
+      },
+      {
+        "name": "Infrastructure Probe",
+        "whatHappens": "A nation-state actor conducts a probing attack on election infrastructure or critical systems in October. CISA's diminished coordination capacity means detection is slower and private-sector notification is delayed. The incident surfaces publicly only after the election.",
+        "signal": "Watch for DHS or FBI reports of foreign cyber activity targeting election infrastructure in the September-October timeframe."
+      },
+      {
+        "name": "Congressional Reversal",
+        "whatHappens": "Bipartisan pressure from state election officials forces a supplemental appropriation or executive order restoring some CISA capacity before November. The administration frames it as a targeted election security measure rather than admitting the cuts were wrong.",
+        "signal": "Watch for Republican governors or secretaries of state in competitive states to publicly request CISA assistance, which would force the administration's hand."
+      }
+    ],
+    "whatWouldChange": "A confirmed foreign adversary attack on election infrastructure in a competitive state before November would immediately reverse the political calculus. At that point, the cost of the CISA cuts would be visible and attributable.",
+    "markets": []
+  }
+}

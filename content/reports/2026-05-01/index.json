@@ -1,6 +1,6 @@
 {
   "date": "2026-05-01",
-  "generatedAt": "2026-05-01T08:00:00Z",
+  "generatedAt": "2026-05-01T17:45:00Z",
   "reports": [
     {
       "id": "iran-ceasefire-nuclear",
@@ -61,6 +61,36 @@
       "title": "Instagram Removed 7% of Reported Extremist Content. Meta Says That Is a Trade-Off.",
       "subtitle": "A new ADL study found white supremacist networks, terror-group supporters, and Nazi merchandise vendors thriving on Instagram after Meta gutted its moderation team. Zuckerberg called it a trade-off.",
       "category": "ethics"
+    },
+    {
+      "id": "anthropic-pentagon-google-ai",
+      "title": "Anthropic Said No to the Pentagon. Google Said Yes. Now the White House Wants Anthropic Back.",
+      "subtitle": "The DoD branded Anthropic a supply-chain risk for refusing unrestricted military AI access. Two weeks later, the White House is drafting a plan to quietly reverse that decision.",
+      "category": "power"
+    },
+    {
+      "id": "medicaid-work-requirements-states",
+      "title": "Nebraska Just Started Kicking People Off Medicaid for Not Working. The Federal Government Won't Track What Happens Next.",
+      "subtitle": "The biggest change to Medicaid since the ACA is rolling out state by state, with no federal reporting requirement, definitions that aren't finalized, and a January 2027 deadline that 43 states have to hit without knowing the rules.",
+      "category": "power"
+    },
+    {
+      "id": "cisa-gutted-election-security",
+      "title": "CISA Lost a Third of Its Staff. Cyber Partnerships Are at a Standstill. The Midterms Are Six Months Away.",
+      "subtitle": "The agency responsible for protecting US critical infrastructure and election systems has been hollowed out just as the 2026 midterms approach, and the House just passed a funding bill that cuts it further.",
+      "category": "power"
+    },
+    {
+      "id": "europe-defense-spending-arms-race",
+      "title": "Europe Just Had Its Biggest Military Spending Surge Since 1953. It Is Not Enough and Everyone Knows It.",
+      "subtitle": "European NATO members grew defense spending 14% in 2025, the steepest climb since the Korean War era. The NATO target just moved to 5% of GDP. The gap between current spending and what the war calculus demands is still enormous.",
+      "category": "conflict"
+    },
+    {
+      "id": "volkswagen-tariffs-existential",
+      "title": "Volkswagen Says Its Future Is at Risk. It Is Now Considering Letting Chinese Rivals Build Cars in Its Own European Factories.",
+      "subtitle": "VW reported a 14% profit collapse in Q1 2026 while warning cuts so far are not enough. The proposed solution is to share underutilized European plants with BYD and other Chinese brands that are competing with it everywhere.",
+      "category": "power"
     }
   ]
 }

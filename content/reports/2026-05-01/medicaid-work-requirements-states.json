@@ -1,0 +1,94 @@
+{
+  "id": "medicaid-work-requirements-states",
+  "date": "2026-05-01",
+  "generatedAt": "2026-05-01T17:45:00Z",
+  "title": "Nebraska Just Started Kicking People Off Medicaid for Not Working. The Federal Government Won't Track What Happens Next.",
+  "subtitle": "The biggest change to Medicaid since the ACA is rolling out state by state, with no federal reporting requirement, definitions that aren't finalized, and a January 2027 deadline that 43 states have to hit without knowing the rules.",
+  "topic": "society",
+  "category": "power",
+  "tags": ["Medicaid", "healthcare", "work requirements", "One Big Beautiful Bill", "poverty"],
+  "coverImage": {
+    "url": "https://kffhealthnews.org/wp-content/uploads/sites/8/2026/04/GettyImages-1490413693.jpg",
+    "local": "/images/reports/2026-05-01/medicaid-work-requirements-states.jpg",
+    "credit": "KFF Health News"
+  },
+  "sources": [
+    {
+      "url": "https://apnews.com/article/medicaid-work-requirements-nebraska-94555d7d5e739789c46b52f52f737f1b",
+      "publisher": "AP News",
+      "angle": "Nebraska is the first state to enforce the new requirements, eight months ahead of the federal deadline; advocates say key details remain unresolved"
+    },
+    {
+      "url": "https://kffhealthnews.org/medicaid/medicaid-work-requirements-kff-survey-state-implementation-strategies/",
+      "publisher": "KFF Health News",
+      "angle": "Survey of 42 state Medicaid officials finds widespread uncertainty, some states using AI for compliance verification, federal guidance not expected until June"
+    },
+    {
+      "url": "https://www.statnews.com/2026/04/28/medicaid-work-requirements-enrollment-losses-will-not-be-tracked/",
+      "publisher": "STAT News",
+      "angle": "The law contains no federal reporting requirement for how many people lose coverage; Democrats and Republicans both acknowledge this may make the policy permanently unevaluable"
+    },
+    {
+      "url": "https://www.newstribune.com/news/2026/apr/28/new-federal-medicaid-rules-require-one-month-of/",
+      "publisher": "Jefferson City News Tribune",
+      "angle": "Some Republican states think the federal requirement doesn't go far enough; Indiana passed state law requiring more than the federal minimum"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Nebraska", "HHS", "Indiana", "KFF"],
+    "whatHappened": "Nebraska became the first state to implement Medicaid work requirements this week, eight months ahead of the January 1, 2027, federal deadline set by the One Big Beautiful Bill. The law requires adults in Medicaid expansion states to prove at least one month of work, school, or volunteering as a condition for coverage. A KFF survey of 42 state Medicaid offices found that most states are still uncertain how to implement the requirements, what medical conditions qualify for exemptions, and how to automate compliance verification. The federal government has not issued final guidance and does not plan to until June. The law does not require states to report enrollment losses to the federal government, meaning the policy's impact may be unmeasurable by design.",
+    "bottomLine": "A policy that will affect coverage for tens of millions of people is being rolled out state by state with no uniform rules, no way to measure the outcome, and no mechanism for the federal government to be held accountable for what happens.",
+    "hiddenBets": [
+      {
+        "assumption": "Work requirements will reduce Medicaid rolls primarily by moving people from welfare to work",
+        "whyItMightBeWrong": "Prior state-level experiments with work requirements, including Arkansas in 2018, found that the vast majority of people who lost coverage were already working or exempt, but failed bureaucratic documentation requirements. The KFF survey found most states are still figuring out exemption definitions. The coverage losses are more likely to come from paperwork failures than from people actually lacking qualifying activity."
+      },
+      {
+        "assumption": "The absence of reporting requirements is an oversight",
+        "whyItMightBeWrong": "STAT News reporting makes clear both parties are aware the law contains no tracking requirement. Republicans benefit from not having enrollment loss numbers attached to the policy. This is not an accident; it is the mechanism that allows the policy to operate without accountability."
+      },
+      {
+        "assumption": "The January 2027 deadline gives states enough time to build working systems",
+        "whyItMightBeWrong": "Federal guidance is not expected until June 2026, leaving six months for 43 states to build compliance and verification systems. States like Indiana are already moving beyond the federal baseline with their own rules, creating a patchwork that could be challenged in court and creating coverage gaps that differ dramatically by zip code."
+      }
+    ],
+    "realDisagreement": "The real disagreement is not whether people should work, it is whether the administrative burden of proving that you work is itself the policy. Republicans say the requirement creates accountability and encourages workforce participation. Democrats say the requirement creates a paperwork maze that produces coverage losses among people who already qualify and work but can't navigate the documentation. Both claims are empirically testable. The law's lack of a reporting requirement means they will never be tested. That is the tell: when a side writes a law that prevents measuring whether it achieves its stated goal, the stated goal is not the real goal.",
+    "whatNoOneIsSaying": "Seven and a half million people are projected to lose Medicaid coverage by 2034 under this law. That number comes from the Congressional Budget Office. The law's authors have never disputed it. The argument has shifted entirely to whether those people deserve coverage, not whether they will lose it.",
+    "whoPays": [
+      {
+        "who": "Working-poor adults in Medicaid expansion states",
+        "how": "People who work irregular hours, gig jobs, or informal employment will lose coverage not because they don't work, but because they can't document it consistently enough to meet semi-annual reverification",
+        "when": "Starting May 2026 in Nebraska, January 2027 nationally"
+      },
+      {
+        "who": "People with chronic illness",
+        "how": "Exemption definitions for medical conditions are not finalized. States are making different determinations. People with conditions that qualify in one state may lose coverage in a neighboring state",
+        "when": "January 2027 and ongoing"
+      },
+      {
+        "who": "Rural hospitals",
+        "how": "Medicaid covers the majority of uncompensated care in rural hospitals. Coverage losses will shift uncompensated care costs back onto hospitals that are already operating near margin",
+        "when": "2027 through 2030"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Nebraska Model Spreads",
+        "whatHappens": "Nebraska's early launch becomes the template. States that move fast and add their own requirements beyond the federal baseline become the de facto norm. The January 2027 deadline is met by most states with systems that are functional but not tested, and enrollment losses begin immediately.",
+        "signal": "Watch for Indiana, Texas, and other Republican-led states to announce early implementation ahead of the federal deadline in the next 60 days."
+      },
+      {
+        "name": "Litigation Pile-On",
+        "whatHappens": "Advocacy groups sue multiple states simultaneously over inconsistent exemption definitions and documentation requirements. Federal courts issue conflicting injunctions. Implementation becomes a patchwork of halted and active requirements across states, extending the uncertainty indefinitely.",
+        "signal": "Watch for ACLU, National Health Law Program, or similar groups to file injunctions in federal district courts in states that implement requirements before federal guidance is issued."
+      },
+      {
+        "name": "Quiet Rollout, Unmeasured Loss",
+        "whatHappens": "Implementation proceeds on schedule with no major litigation. Enrollment losses occur gradually as renewal cycles hit. Because there is no national reporting requirement, the losses are recorded only in state-level data that is not aggregated. The policy is declared a success without any national accounting.",
+        "signal": "Watch for the absence of coverage loss data: if no agency is publishing enrollment change numbers by mid-2027, the unmeasured outcome scenario is in motion."
+      }
+    ],
+    "whatWouldChange": "If a federal court rules that the absence of reporting requirements itself constitutes an Affordable Care Act violation because CMS cannot fulfill its statutory oversight duty, states would be forced to track and publish enrollment losses. That data would change the political debate.",
+    "markets": []
+  }
+}
