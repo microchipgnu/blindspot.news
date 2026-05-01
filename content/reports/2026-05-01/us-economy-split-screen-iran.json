@@ -1,0 +1,113 @@
+{
+  "id": "us-economy-split-screen-iran",
+  "date": "2026-05-01",
+  "generatedAt": "2026-05-01T08:00:00Z",
+  "title": "The US Economy Grew 2% While Consumers Ran Out of Cushion",
+  "subtitle": "GDP beat the shutdown slump. Business investment in AI is surging. Inflation hit a three-year high. Real wages are flat. The Fed is frozen. These are not contradictions. They describe the same economy from different floors.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["GDP", "inflation", "Fed", "Iran", "AI", "economy", "PCE", "interest rates"],
+  "coverImage": {
+    "url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2273575841.jpg?c=16x9&q=w_800,c_fill",
+    "local": "/images/reports/2026-05-01/us-economy-iran-war-inflation.jpg",
+    "credit": "CNN Business / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://apnews.com/article/gdp-economic-growth-inflation-iran-2e09bd656cd8ad1f9999c3cb7aac75e1",
+      "publisher": "AP News",
+      "angle": "Standard GDP report framing: 2% growth is a rebound from shutdown slump, consumer spending is slowing, AI investment is driving business capex; outlook clouded by Iran war"
+    },
+    {
+      "url": "https://www.cnn.com/2026/04/30/economy/us-pce-fed-inflation-spending-march",
+      "publisher": "CNN Business",
+      "angle": "Focuses on the consumer squeeze: gas prices +24% in March alone, real wages barely growing, people spending more in dollars but getting less; 'The economy is holding on but it's getting increasingly uncomfortable'"
+    },
+    {
+      "url": "https://www.claimsjournal.com/news/national/2026/05/01/337293.htm",
+      "publisher": "Claims Journal / Reuters",
+      "angle": "Labor market data: jobless claims at lowest since 1969, but hiring is frozen, wage growth near zero in real terms; employers cautious because of tariff uncertainty layered on Iran shock"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-04-30/us-gdp-rose-2-in-early-2026-in-sign-of-economy-s-resilience",
+      "publisher": "Bloomberg",
+      "angle": "Emphasizes the AI investment boom as the primary structural story; $700 billion in projected AI capex for 2026; frames the economy as resilient at the top, stressed at the bottom"
+    }
+  ],
+  "brief": {
+    "actors": ["Fed", "Powell", "Trump", "Iran"],
+    "whatHappened": "The Commerce Department reported Thursday that US GDP grew at a 2% annualized rate in Q1 2026, recovering from the 0.5% crawl caused by last fall's 43-day government shutdown. Business investment surged 8.7%, driven by AI infrastructure spending projected to exceed $700 billion this year. Consumer spending grew only 1.6%, down from 1.9%, and real consumer spending adjusted for inflation grew just 0.2% in March. The Federal Reserve's preferred inflation gauge, the PCE index, rose 3.5% year-over-year in March, its highest reading since May 2023, driven by gas prices that jumped 24% in a single month as the US-Israel war with Iran squeezed oil supply through the Strait of Hormuz. The Fed held rates steady at 3.5%-3.75%, citing uncertainty from the conflict. Real wages grew just 0.1% over the prior year.",
+    "bottomLine": "Two economies are running simultaneously in the same country. The AI-and-capital economy is growing at nearly 10% business investment. The wage-and-consumption economy is treading water while energy prices eat its purchasing power. The Fed cannot fix the inflation caused by a war it did not start, and it cannot cut rates to help consumers without worsening that inflation. It is frozen, and the longer the Hormuz blockade holds, the more consumers pay the price.",
+    "hiddenBets": [
+      {
+        "assumption": "The 2% GDP headline means the economy is fundamentally okay",
+        "whyItMightBeWrong": "Nearly all the growth came from two sources: AI business investment and a government spending rebound from the shutdown. Both are one-time or trend-driven effects, not durable consumer-led expansion. Consumer spending, which is 70% of the economy, is slowing. Real wages are nearly flat. The second-quarter outlook depends on whether Iran opens the Strait, which no economic model can predict."
+      },
+      {
+        "assumption": "The Fed will cut rates when it gets a chance",
+        "whyItMightBeWrong": "Polymarket prices the probability of no change at the July 2026 Fed meeting at 88.5%. Core PCE is running at 3.2%, more than a full point above the 2% target, and the energy shock has not fully passed through to services prices yet. The Fed Chair said the bank is 'very cautious' about looking through energy-driven inflation because underlying inflation was already elevated before the Iran war started. The path to rate cuts requires both conflict resolution and months of declining core PCE. Neither is guaranteed in 2026."
+      },
+      {
+        "assumption": "AI investment is a buffer against broader economic deterioration",
+        "whyItMightBeWrong": "AI capex is concentrated in a handful of companies: Microsoft, Google, Amazon, Meta, and a few others. It employs relatively few people per dollar invested compared to traditional infrastructure. It imports high-end computing equipment, which is the primary driver of the 21.4% import surge that subtracted 2.6 percentage points from GDP growth. AI investment is real, but it is not broadly distributed economic activity, and it increases the trade deficit while it scales."
+      }
+    ],
+    "realDisagreement": "The core tension is between the structural story and the cyclical story. The structural story: AI is creating a genuine new growth engine, and the US is capturing most of it; this is a multi-decade investment cycle that will eventually translate into productivity and broadly shared growth. The cyclical story: Americans with median incomes are being squeezed right now, today, and an economic model that works on average while hurting most people is not politically stable. You cannot have both: either the structural story is right and you accept that the transition is painful for people who are not in the AI-adjacent economy, or the cyclical pain becomes political pressure that interrupts the structural investment. I lean toward the structural story eventually winning, but the timeframe is 5-10 years, not this congressional election cycle. The political blowback will come first.",
+    "whatNoOneIsSaying": "The Hormuz blockade is transferring purchasing power from American consumers to oil exporters who are not the United States. Every dollar above $4/gallon that Americans spend on gasoline is a dollar that does not circulate in the domestic economy. The administration started the war that caused the blockade, and the cost is being paid in slow motion by people who did not choose it and have no mechanism to exit it. The White House economic messaging focuses on AI investment and GDP headlines precisely because the consumer story is politically toxic.",
+    "whoPays": [
+      {
+        "who": "Hourly workers and commuters",
+        "how": "Real wages grew 0.1% over the past year while gas prices rose 24% in a single month. Workers who drive to hourly jobs in industries not connected to AI are experiencing a direct pay cut.",
+        "when": "March 2026 onward, worsening through Q2"
+      },
+      {
+        "who": "Homebuyers and housing market participants",
+        "how": "Residential investment fell 8% annualized for the fifth straight quarter. High mortgage rates combine with inflation to make housing both unaffordable to buy and expensive to rent. The housing sector is the clearest casualty of the Fed's rate-hold position.",
+        "when": "Ongoing since 2022, with no resolution in sight"
+      },
+      {
+        "who": "Small businesses in non-AI sectors",
+        "how": "Companies not connected to AI investment are facing rising input costs from energy prices, slowing consumer demand, and a labor market where workers expect wage increases that the business cannot afford to pay without raising prices. The 'split-screen economy' runs through these businesses.",
+        "when": "Q2-Q3 2026 likely to show stress in small-business surveys"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Hormuz opens, inflation cools",
+        "whatHappens": "A diplomatic resolution or military development reopens oil shipping by July. Gas prices retreat from $4+ to below $3.50. PCE inflation cools toward 2.8% by September. The Fed cuts once in Q4. Consumer spending stabilizes. The structural AI story continues.",
+        "signal": "ISW or CENTCOM reports a resumption of commercial tanker traffic through the Strait of Hormuz at meaningful volumes."
+      },
+      {
+        "name": "Stagflation takes hold",
+        "whatHappens": "The Hormuz blockade persists through summer. PCE reaches 4% by June. Consumer spending contracts in real terms. GDP growth turns negative in Q2. The Fed faces inflation above target and a contracting economy simultaneously. Polymarket currently prices stagflation at year-end at 36.5%.",
+        "signal": "The June PCE print exceeds 3.8% year-over-year alongside a GDP advance estimate below 1%."
+      },
+      {
+        "name": "AI investment sustains a two-track recovery",
+        "whatHappens": "Business investment continues at 8-10% pace, holding GDP above stall speed. Consumer spending flatlines but does not collapse. The political story is miserable but the economic data stays technically positive. The Fed holds through 2026.",
+        "signal": "Big Tech Q2 earnings show AI capex commitments accelerating, and initial unemployment claims remain below 200,000."
+      }
+    ],
+    "whatWouldChange": "The bottom line flips if real wages start growing materially above inflation, which requires either the Hormuz blockade ending or a significant productivity surge from AI that reaches workers below the knowledge-economy tier. Neither is in sight for 2026.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the US economy be in stagflation at the end of 2026?",
+        "url": "https://polymarket.com/event/us-economic-state-at-the-end-of-2026",
+        "probability": 0.365
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will the US economy be overheating at the end of 2026?",
+        "url": "https://polymarket.com/event/us-economic-state-at-the-end-of-2026",
+        "probability": 0.28
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+        "url": "https://polymarket.com/event/fed-decision-in-july-181",
+        "probability": 0.885
+      }
+    ]
+  }
+}

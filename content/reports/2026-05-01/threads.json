@@ -2,40 +2,49 @@
   "date": "2026-05-01",
   "threads": [
     {
-      "id": "executive-action-without-courts",
-      "title": "The Court Removal Project",
-      "description": "Three of today's five stories are about the same structural move: the executive branch eliminating or degrading judicial review of its decisions. TPS cancellations with no court review, university funding frozen pending a case moved to a friendlier court, and a VRA interpretation that forecloses the legal remedy states were court-ordered to use. The common thread is not immigration or education policy. It is the systematic removal of the judiciary as a check on executive action in specific domains.",
+      "id": "rules-without-enforcement",
+      "title": "Rules for Thee",
+      "description": "Three stories today involve the same structural move: an actor invokes a rule or principle to attack an opponent while openly violating that same rule themselves. Musk sues OpenAI for abandoning its nonprofit mission while using OpenAI's own models to build his competitor. The Kremlin declares a ceasefire that does not require Ukraine's agreement, redefining ceasefire as a unilateral act. The Supreme Court majority strikes down race-conscious redistricting in the name of equal protection while enabling the most aggressive partisan gerrymandering in modern history. In each case, the principle is invoked selectively, and the invoker has no interest in applying it universally.",
       "type": "tension-cluster",
-      "stories": ["scotus-tps-migrants", "harvard-funding-freeze", "scotus-vra-louisiana"],
+      "stories": ["musk-openai-distillation-trial", "putin-victory-day-ceasefire", "redistricting-cascade-callais"],
       "connections": [
         {
-          "from": "scotus-tps-migrants",
-          "to": "harvard-funding-freeze",
-          "relationship": "Both cases involve executive actions that depend on stripping or avoiding judicial review: TPS by statutory jurisdiction arguments, Harvard by moving to a contracts court where the constitutional claims are weaker."
+          "from": "musk-openai-distillation-trial",
+          "to": "redistricting-cascade-callais",
+          "relationship": "Both Musk and the Supreme Court majority use principled legal language (charitable trust, equal protection) as cover for competitive or political positioning that violates the spirit of the principle being claimed."
         },
         {
-          "from": "scotus-vra-louisiana",
-          "to": "scotus-tps-migrants",
-          "relationship": "The VRA ruling eliminates the judicial remedy for racial vote dilution at exactly the moment the TPS ruling may eliminate judicial oversight of mass deportation. Together they remove courts from two of the most consequential decisions about who belongs in American political and civic life."
-        },
-        {
-          "from": "harvard-funding-freeze",
-          "to": "scotus-vra-louisiana",
-          "relationship": "Both use civil rights law as the nominal justification for an outcome that weakens civil rights protections in practice: the Harvard case uses antisemitism enforcement to punish institutional independence, the VRA ruling uses Equal Protection to make racial remediation unconstitutional."
+          "from": "putin-victory-day-ceasefire",
+          "to": "redistricting-cascade-callais",
+          "relationship": "Russia's unilateral 'ceasefire' and the Republican redistricting cascade both involve rewriting the rules of an ongoing contest mid-game while framing the rewrite as procedurally legitimate."
         }
       ]
     },
     {
-      "id": "china-iran-summit-triangle",
-      "title": "The Beijing Pivot Point",
-      "description": "The Iran ceasefire and China's new trade law are not separate stories. China is Iran's primary oil customer, the Iran war is driving oil above $112, China's new trade law directly targets companies complying with US sanctions on Iranian oil buyers, and Trump visits Beijing in two weeks. The Iran endgame almost certainly runs through Xi Jinping. The trade law is both a bargaining chip for the summit and a warning about what happens if no deal is reached.",
+      "id": "iran-war-domestic-spillover",
+      "title": "One War, Multiple Fronts at Home",
+      "description": "The US-Israel war with Iran, now in its ninth week, is generating economic, political, and social consequences inside the United States that are mostly reported separately from the conflict itself. The GDP/inflation story is primarily an Iran story: the Hormuz blockade caused gas prices to surge 24% in March, which drove inflation to a three-year high and froze the Fed. The Iran ceasefire story reported this morning connects to the same war. The Harvard funding freeze case involves claims of ideological targeting that accelerated in the same political environment the war made more polarized. The war's domestic cost is being disaggregated across beats and agencies, making it harder to see as a single phenomenon.",
       "type": "dependency-web",
-      "stories": ["iran-ceasefire-nuclear", "china-trade-law-summit"],
+      "stories": ["us-economy-split-screen-iran", "iran-ceasefire-nuclear"],
       "connections": [
         {
-          "from": "china-trade-law-summit",
-          "to": "iran-ceasefire-nuclear",
-          "relationship": "China's law explicitly protects Hengli Petrochemical, sanctioned for buying Iranian oil, and authorizes retaliation against US firms complying with those sanctions. China's willingness to absorb sanctioned Iranian oil is what makes the US maximum-pressure strategy against Iran structurally weaker than in prior conflicts, which explains why the Iran war has not produced a faster Iranian capitulation."
+          "from": "iran-ceasefire-nuclear",
+          "to": "us-economy-split-screen-iran",
+          "relationship": "The Hormuz blockade, a direct consequence of the Iran war, is the primary driver of the energy price shock that pushed PCE inflation to 3.5% and froze the Fed's ability to cut rates."
+        }
+      ]
+    },
+    {
+      "id": "platform-power-accountability-gap",
+      "title": "Who Enforces the Rules on the Powerful",
+      "description": "Two stories today are about powerful actors who violated stated rules and faced no enforcement: Musk admitted xAI distilled OpenAI's models in violation of its terms of service, and OpenAI has not announced any action against him. Meta failed to remove 93% of reported extremist content in violation of its own community standards, and regulators have not acted. In both cases, enforcement exists in principle, but is applied selectively: OpenAI pursues Chinese firms for distillation while staying silent about Musk. Meta's community standards ban violent-group content while the company acknowledges it lacks 'bandwidth' to enforce it. The pattern is the same: rules that govern smaller or foreign actors, but not the largest domestic ones.",
+      "type": "tension-cluster",
+      "stories": ["musk-openai-distillation-trial", "meta-instagram-moderation-collapse"],
+      "connections": [
+        {
+          "from": "musk-openai-distillation-trial",
+          "to": "meta-instagram-moderation-collapse",
+          "relationship": "Both OpenAI and Meta maintain terms-of-service rules that they enforce selectively against foreign or smaller actors but not against powerful domestic ones, revealing that the rules function as competitive tools rather than genuine standards."
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "date": "2026-05-01",
-  "generatedAt": "2026-05-01T00:00:00Z",
+  "generatedAt": "2026-05-01T08:00:00Z",
   "reports": [
     {
       "id": "iran-ceasefire-nuclear",
@@ -31,6 +31,36 @@
       "title": "Judge Calls Harvard Antisemitism Claims a Smokescreen. The Administration Just Revealed Its Real Strategy.",
       "subtitle": "A federal judge ruled Trump illegally froze $2.6 billion in Harvard grants, calling it ideological punishment disguised as civil rights enforcement. The administration's response was to move the case to a different court.",
       "category": "power"
+    },
+    {
+      "id": "musk-openai-distillation-trial",
+      "title": "Musk Sues OpenAI for Stealing a Charity While Stealing Its Models",
+      "subtitle": "Under oath, Elon Musk admitted xAI distilled OpenAI technology to train Grok. He is also suing OpenAI for abandoning its mission. Both things are true, which is the problem.",
+      "category": "power"
+    },
+    {
+      "id": "putin-victory-day-ceasefire",
+      "title": "Putin's Victory Day Ceasefire Does Not Require Ukraine's Agreement. That Is the Point.",
+      "subtitle": "The Kremlin announced Russia will halt fighting on May 9 whether or not Kyiv agrees. Zelensky called it theater. Both men are right, and neither can afford to say what the gesture actually is.",
+      "category": "conflict"
+    },
+    {
+      "id": "us-economy-split-screen-iran",
+      "title": "The US Economy Grew 2% While Consumers Ran Out of Cushion",
+      "subtitle": "GDP beat the shutdown slump. Business investment in AI is surging. Inflation hit a three-year high. Real wages are flat. The Fed is frozen. These are not contradictions. They describe the same economy from different floors.",
+      "category": "power"
+    },
+    {
+      "id": "redistricting-cascade-callais",
+      "title": "The SCOTUS Ruling Unlocked Maximum Gerrymandering. Republicans Are Running the Clock.",
+      "subtitle": "Within 48 hours of the Callais decision, Louisiana suspended its primaries, Florida passed a new map adding four Republican seats, and Trump called on Tennessee and other states to redraw their districts.",
+      "category": "power"
+    },
+    {
+      "id": "meta-instagram-moderation-collapse",
+      "title": "Instagram Removed 7% of Reported Extremist Content. Meta Says That Is a Trade-Off.",
+      "subtitle": "A new ADL study found white supremacist networks, terror-group supporters, and Nazi merchandise vendors thriving on Instagram after Meta gutted its moderation team. Zuckerberg called it a trade-off.",
+      "category": "ethics"
     }
   ]
 }
