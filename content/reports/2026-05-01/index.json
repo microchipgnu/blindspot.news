@@ -1,0 +1,36 @@
+{
+  "date": "2026-05-01",
+  "generatedAt": "2026-05-01T00:00:00Z",
+  "reports": [
+    {
+      "id": "iran-ceasefire-nuclear",
+      "title": "Iran's Hormuz Gambit: Trade the Blockade, Keep the Bomb",
+      "subtitle": "Tehran is offering to reopen the world's most important oil chokepoint in exchange for Washington dropping its nuclear demands. Trump is saying no. Both sides are right to distrust the other.",
+      "category": "conflict"
+    },
+    {
+      "id": "scotus-vra-louisiana",
+      "title": "SCOTUS Guts the Voting Rights Act, and the Ruling's Logic Goes Further Than Louisiana",
+      "subtitle": "The court's 6-3 decision in Louisiana v. Callais makes it nearly impossible to draw a majority-minority district without simultaneously making it unconstitutional. That paradox was the point.",
+      "category": "power"
+    },
+    {
+      "id": "scotus-tps-migrants",
+      "title": "SCOTUS Signals It Will Let Trump Deport a Million People Without Court Review",
+      "subtitle": "The conservative majority appears ready to strip federal courts of jurisdiction over TPS cancellations, turning humanitarian protection into a purely executive decision with no check.",
+      "category": "power"
+    },
+    {
+      "id": "china-trade-law-summit",
+      "title": "China's New Trade Law Lets It Seize Foreign Assets. Trump Visits in Two Weeks.",
+      "subtitle": "Beijing quietly amended its Foreign Trade Law to authorize punishment of companies that reduce their business with China, just as US firms are quietly doing exactly that. The timing is not coincidental.",
+      "category": "power"
+    },
+    {
+      "id": "harvard-funding-freeze",
+      "title": "Judge Calls Harvard Antisemitism Claims a Smokescreen. The Administration Just Revealed Its Real Strategy.",
+      "subtitle": "A federal judge ruled Trump illegally froze $2.6 billion in Harvard grants, calling it ideological punishment disguised as civil rights enforcement. The administration's response was to move the case to a different court.",
+      "category": "power"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "scotus-vra-louisiana",
+  "date": "2026-05-01",
+  "generatedAt": "2026-05-01T00:00:00Z",
+  "title": "SCOTUS Guts the Voting Rights Act, and the Ruling's Logic Goes Further Than Louisiana",
+  "subtitle": "The court's 6-3 decision in Louisiana v. Callais makes it nearly impossible to draw a majority-minority district without simultaneously making it unconstitutional. That paradox was the point.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["SCOTUS", "Voting Rights Act", "redistricting", "Louisiana", "race", "Congress"],
+  "coverImage": {
+    "url": "https://dims.apnews.com/dims4/default/05b481b/2147483647/strip/true/crop/4132x2753+76+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa4%2F2c%2Ff89182373082a09102c6440ad8af%2F3232e1ced9fe4ba08883f8f3a209a8e5",
+    "local": "/images/reports/2026-05-01/scotus-vra-louisiana.jpg",
+    "credit": "AP News"
+  },
+  "sources": [
+    {
+      "url": "https://apnews.com/article/supreme-court-voting-rights-congressional-redistricting-louisiana-aa5d7dbde7c13654f341d152c2ad5229",
+      "publisher": "AP News",
+      "angle": "Straightforward account of the ruling's scope; notes it directly helps Republicans in the House and could trigger similar challenges in other states"
+    },
+    {
+      "url": "https://www.npr.org/2026/04/29/nx-s1-5754657/supreme-court-louisiana-redistricting",
+      "publisher": "NPR",
+      "angle": "Frames the ruling as the second major blow to the VRA in recent years; emphasizes that the court's majority is now treating race-conscious remedies as themselves unconstitutional"
+    },
+    {
+      "url": "https://www.scotusblog.com/2026/04/in-major-voting-rights-act-case-supreme-court-strikes-down-redistricting-map-challenged-as-racia/",
+      "publisher": "SCOTUSblog",
+      "angle": "Technical legal analysis; explains how the Alito majority opinion reframes Section 2 compliance as itself a trigger for Equal Protection scrutiny"
+    },
+    {
+      "url": "https://www.cbsnews.com/news/supreme-court-louisiana-congressional-map-voting-rights-act/",
+      "publisher": "CBS News",
+      "angle": "Contextualizes within the Milligan case sequence; notes Cleo Fields' district was specifically drawn after SCOTUS ordered a second majority-Black district in 2023"
+    },
+    {
+      "url": "https://www.csmonitor.com/USA/Justice/2026/0429/voting-rights-supreme-court-louisiana-callais",
+      "publisher": "Christian Science Monitor",
+      "angle": "Examines the practical paradox the ruling creates: states ordered to remedy VRA violations can now be sued for the remedy itself"
+    }
+  ],
+  "brief": {
+    "actors": ["SCOTUS", "Alito", "Roberts", "Louisiana", "Republicans", "Democrats"],
+    "whatHappened": "The Supreme Court on April 29 struck down Louisiana's congressional map 6-3, ruling that the majority-Black Second District drawn to comply with an earlier SCOTUS order was itself an unconstitutional racial gerrymander. Justice Alito wrote the majority opinion. The district, represented by Democrat Cleo Fields, had been created after the court in 2023 found Louisiana's prior map diluted Black voting power. The ruling eliminates the second majority-minority seat and directly benefits Republican efforts to control the House. Parties are now disputing whether the court should immediately finalize its decision to allow map changes before the next election cycle.",
+    "bottomLine": "The court has constructed a legal trap: comply with the Voting Rights Act by drawing majority-minority districts and face an Equal Protection challenge; don't comply and face a VRA challenge. The trap is not accidental.",
+    "hiddenBets": [
+      {
+        "assumption": "This ruling is primarily about Louisiana",
+        "whyItMightBeWrong": "The Alito opinion's logic applies to every state that drew majority-minority districts in response to Section 2 litigation. Georgia, Alabama, and North Carolina have similar maps. This ruling is a template for challenging all of them, not a Louisiana-specific outcome."
+      },
+      {
+        "assumption": "Democrats can challenge these maps through litigation",
+        "whyItMightBeWrong": "The ruling effectively forecloses the most common litigation strategy: draw a majority-minority district to remedy a VRA violation, then defend it in court. The court has now said that defense triggers a new constitutional violation. The path forward through courts does not exist in the form it used to."
+      },
+      {
+        "assumption": "The decision's impact is limited to congressional maps",
+        "whyItMightBeWrong": "State legislative maps drawn to comply with the VRA are vulnerable to the same Equal Protection challenge. The ruling's scope extends potentially to thousands of districts at state and local level."
+      }
+    ],
+    "realDisagreement": "The real fork is whether the Equal Protection Clause and the Voting Rights Act can coexist. The majority says race-consciousness in remedying discrimination is itself discrimination. The dissent says the majority is using anti-discrimination doctrine to entrench the effects of historical discrimination. Both propositions are coherent. The majority's logic is internally consistent if you accept the premise that race-neutral redistricting is achievable; the dissent's logic is internally consistent if you accept that race-neutral redistricting in states with segregated residential patterns merely preserves the racial status quo. You can't have both simultaneously. I'd lean toward the dissent, because the majority's premise, that race-neutral outcomes are achievable absent race-conscious remediation, is not supported by the redistricting evidence in Louisiana or anywhere else. But I'd be giving up the principle that the state can never use race as a primary factor in drawing districts, which is a real cost."
+    ,
+    "whatNoOneIsSaying": "The 2023 SCOTUS order telling Louisiana to draw a second majority-minority district was written by Roberts, who is now in the majority striking it down. The court ordered Louisiana to do something it is now saying was unconstitutional to do. No one in mainstream coverage is treating this as a contradiction that requires an explanation.",
+    "whoPays": [
+      {
+        "who": "Black voters in Louisiana's Second District",
+        "how": "Their representative, Cleo Fields, loses his seat in the next election cycle when the map reverts. The district that existed specifically to provide representation for a majority-Black population is eliminated.",
+        "when": "Next redistricting cycle; map changes could apply as early as the 2026 midterms"
+      },
+      {
+        "who": "Democrats in the House",
+        "how": "Louisiana's Second District, if eliminated, converts to a likely Republican seat. Other states facing similar challenges could see additional seat losses. Republican control of the House becomes easier to sustain.",
+        "when": "2026 midterm elections and beyond"
+      },
+      {
+        "who": "States with VRA compliance obligations",
+        "how": "State legislatures face legal uncertainty: draw majority-minority districts and risk Equal Protection suits, or don't and risk VRA suits. The cost is both legal fees and political exposure regardless of which path they choose.",
+        "when": "Immediately, ahead of any redistricting process"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Cascade of Challenges",
+        "whatHappens": "Republican plaintiffs in Georgia, Alabama, North Carolina, and other states file Equal Protection challenges against existing majority-minority districts using the Alito template. Multiple seats flip before 2028.",
+        "signal": "Watch for new lawsuits filed in the 60 days after the ruling's finalization. The first new filing in a different state confirms this path."
+      },
+      {
+        "name": "Congress Acts",
+        "whatHappens": "Democrats use the ruling as a legislative rallying point to amend the VRA, explicitly shielding majority-minority districts from Equal Protection challenges. The effort fails in the current Congress but becomes a central 2028 campaign issue.",
+        "signal": "Senate Democrats introduce a VRA amendment bill within 90 days. Bill going nowhere signals the legislative path is theater, not strategy."
+      },
+      {
+        "name": "States Find a Workaround",
+        "whatHappens": "Some states experiment with alternative remedies: language minority protections, alternative mapping criteria that achieve similar demographic results without explicit race-consciousness. Courts have not yet ruled on whether these work.",
+        "signal": "A blue-state legislature redraws its maps using non-racial criteria while achieving the same minority-majority outcomes. A challenge is filed within the election cycle."
+      }
+    ],
+    "whatWouldChange": "If Roberts writes a concurrence or clarification narrowing the ruling to Louisiana's specific facts, rather than the broad principle Alito's opinion establishes, the cascade scenario becomes less likely. The specific evidence would be a per curiam order that limits the holding's precedential scope."
+  }
+}

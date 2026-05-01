@@ -1,0 +1,98 @@
+{
+  "id": "china-trade-law-summit",
+  "date": "2026-05-01",
+  "generatedAt": "2026-05-01T00:00:00Z",
+  "title": "China's New Trade Law Lets It Seize Foreign Assets. Trump Visits in Two Weeks.",
+  "subtitle": "Beijing quietly amended its Foreign Trade Law to authorize punishment of companies that reduce their business with China, just as US firms are quietly doing exactly that. The timing is not coincidental.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["China", "trade", "sanctions", "supply chain", "Trump", "Xi", "tariffs"],
+  "coverImage": {
+    "url": "https://www.tradevae.com/public/uploads/articles/a8bad524788aec0dfceeb664e89f6caa.jpg",
+    "local": "/images/reports/2026-05-01/china-trade-law-summit.jpg",
+    "credit": "TradeVAE"
+  },
+  "sources": [
+    {
+      "url": "https://www.cov.com/en/news-and-insights/insights/2026/05/china-amends-foreign-trade-law-to-expand-countermeasure-toolkit",
+      "publisher": "Covington & Burling",
+      "angle": "Legal analysis of the specific provisions: the amendments expand China's authority to impose countermeasures against foreign firms that follow third-country sanctions affecting Chinese entities"
+    },
+    {
+      "url": "https://www.tradevae.com/news/politics/chinas-new-trade-rules-raise-stakes-ahead-of-trump-xi-summit-as-us-response-stays-quiet/",
+      "publisher": "TradeVAE",
+      "angle": "Connects the timing directly to the May 14-15 summit; notes US firms are quietly reducing China exposure and are now legally at risk for doing so"
+    },
+    {
+      "url": "https://www.faegredrinker.com/en/insights/publications/2026/4/china-doubles-down-on-anti-foreign-sanctions-efforts-to-protect-its-supply-chains-security",
+      "publisher": "Faegre Drinker",
+      "angle": "Explains the Supply Chain Security Regulations companion to the trade law amendment; notes the early warning system and emergency management provisions"
+    },
+    {
+      "url": "https://asiatimes.com/2026/04/china-defends-firms-as-us-sanctions-hengli-over-iran-oil/",
+      "publisher": "Asia Times",
+      "angle": "Shows the law in action: after US sanctioned Hengli Petrochemical for buying Iranian oil, China formally declared it would protect Hengli. The trade law gives that declaration teeth."
+    },
+    {
+      "url": "https://www.politico.eu/article/china-eu-retaliate-self-reliance-push-trade/",
+      "publisher": "Politico EU",
+      "angle": "China is deploying the same threat against Europe: a new cybersecurity law excluding Huawei and ZTE from critical infrastructure would trigger retaliation under the amended trade law"
+    }
+  ],
+  "brief": {
+    "actors": ["China", "Xi", "Trump", "EU", "Huawei", "Iran"],
+    "whatHappened": "China amended its Foreign Trade Law this month to significantly expand Beijing's legal authority to retaliate against foreign governments and companies that impose sanctions or restrict business with Chinese firms. The amendments create formal authority to investigate and punish foreign entities that reduce transactions with Chinese companies under pressure from third-country sanctions. Companion Supply Chain Security Regulations authorize asset seizures. This comes two weeks before Trump's scheduled May 14-15 visit to Beijing, while the US has simultaneously sanctioned Chinese firm Hengli Petrochemical for buying Iranian oil and the EU is advancing cybersecurity rules that would exclude Huawei and ZTE from European critical infrastructure.",
+    "bottomLine": "China has just built the legal scaffolding to punish every Western company that is quietly decoupling from its supply chains, and it did it in the window between announcing the Trump summit and holding it.",
+    "hiddenBets": [
+      {
+        "assumption": "The law is a defensive tool, a deterrent rather than an instrument Beijing plans to use",
+        "whyItMightBeWrong": "China has already applied the Hengli defense publicly, signaling it considers the law active, not theoretical. The EU cybersecurity threat was explicit and specific. Laws this precisely timed and this publicly announced are not dormant deterrents. They are messages."
+      },
+      {
+        "assumption": "The Trump-Xi summit will produce a trade framework that makes this law moot",
+        "whyItMightBeWrong": "The law's provisions are triggered by ongoing behavior: US firms have been diversifying away from Chinese suppliers for years, often under US government encouragement. Any summit deal would need to reverse a multiyear corporate trend, which no bilateral agreement can do. The law creates liability for behavior that is already occurring."
+      },
+      {
+        "assumption": "Western companies have enough leverage to push back on the law",
+        "whyItMightBeWrong": "Companies operating in China face a choice: comply with US export controls and sanctions policy and risk Chinese retaliation under this law, or comply with Chinese law and risk US penalties. The law deliberately creates this trap. Companies with significant Chinese revenue have no good option."
+      }
+    ],
+    "realDisagreement": "The actual fork is whether the global economy can sustain two incompatible legal regimes simultaneously. US export controls and sanctions require companies to restrict business with certain Chinese entities. China's new law requires companies not to restrict business with those same entities. The legal regimes are now directly contradictory. Companies will have to choose a jurisdiction. Many will choose China because it is where the revenue is. This is the decoupling dynamic running in reverse: instead of US policy pushing companies out of China, Chinese law will pull them to stay. The summit will almost certainly not resolve this contradiction because resolving it requires one side to abandon its sanctions architecture entirely.",
+    "whatNoOneIsSaying": "The law's most important provision is not the asset seizure authority. It is the early warning system that requires companies to report supply chain risks before they occur. That is a surveillance mechanism. Any multinational operating in China that is quietly planning to reduce its Chinese sourcing will have to either report that plan to Chinese authorities, or risk prosecution for failure to report. The law turns supply chain planning into intelligence collection.",
+    "whoPays": [
+      {
+        "who": "Multinational manufacturers with US and Chinese operations",
+        "how": "Every supply chain decision that reduces Chinese sourcing, even for legitimate risk diversification reasons, now creates potential legal exposure in China. Legal compliance teams will have to choose between US and Chinese regulatory requirements that are directly contradictory.",
+        "when": "Immediate; companies operating in China are already reviewing their compliance posture"
+      },
+      {
+        "who": "European critical infrastructure operators",
+        "how": "If the EU's cybersecurity law excludes Huawei and ZTE and China retaliates under the trade law, European telecom and infrastructure companies with Chinese partnerships face asset and contract risks in China",
+        "when": "Contingent on EU law passage; the EU cybersecurity act is in consultation as of May 2026"
+      },
+      {
+        "who": "US small and mid-size manufacturers that shifted sourcing from China post-2020",
+        "how": "Companies that moved manufacturing to Vietnam, Mexico, or India under US policy encouragement now have Chinese legal exposure for having done so, if they also maintain any Chinese operations or sales presence",
+        "when": "Retroactive risk is theoretically possible but more likely applies to ongoing decisions"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Summit Deal Defers the Conflict",
+        "whatHappens": "Trump and Xi agree on a framework that pauses enforcement of the new law against US companies in exchange for US tariff relief or suspension of new sanctions. Companies get a temporary reprieve but the underlying legal conflict is unresolved.",
+        "signal": "Watch for a joint statement from the summit that includes language about 'business environment stability' or 'non-discrimination for operating firms.' That language would be covering this law."
+      },
+      {
+        "name": "First Enforcement Action",
+        "whatHappens": "China invokes the law against a US or European company that has publicly reduced Chinese sourcing. The enforcement action becomes a test case for how broadly Beijing intends to apply the provisions.",
+        "signal": "Chinese commerce ministry announces an investigation of a specific named foreign firm under the new provisions within 90 days of the law's effective date."
+      },
+      {
+        "name": "Jurisdictional War",
+        "whatHappens": "US and EU regulators issue guidance explicitly telling companies to disregard the Chinese law's requirements. Companies are caught between conflicting legal orders from multiple major jurisdictions. Multinationals begin exiting China or restructuring through non-Western holding entities.",
+        "signal": "US Treasury or Commerce issues a notice advising US persons not to comply with Chinese trade law reporting requirements."
+      }
+    ],
+    "whatWouldChange": "If the Trump-Xi summit produces a specific bilateral agreement that suspends the law's application to US firms in exchange for concrete US tariff reductions, the immediate threat to US companies diminishes. The specific evidence would be a joint statement naming the supply chain provisions and committing to a 90-day or longer moratorium on enforcement against US entities."
+  }
+}
