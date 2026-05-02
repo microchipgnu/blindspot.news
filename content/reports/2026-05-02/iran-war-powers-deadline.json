@@ -1,0 +1,124 @@
+{
+  "id": "iran-war-powers-deadline",
+  "date": "2026-05-02",
+  "generatedAt": "2026-05-02T08:00:00Z",
+  "title": "The Clock Trump Can't Stop",
+  "subtitle": "Iran sent a new peace proposal to Pakistan. Trump called it insufficient. Congress's 60-day War Powers deadline is still ticking.",
+  "topic": "geopolitics",
+  "category": "power",
+  "tags": ["Iran", "Trump", "War Powers Act", "nuclear", "Pakistan", "ceasefire"],
+  "coverImage": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_69f4489c77f9-1777617052.jpg?resize=1920%2C1440",
+    "local": "/images/reports/2026-05-02/iran-war-powers-deadline.jpg",
+    "credit": "Al Jazeera / AFP"
+  },
+  "sources": [
+    {
+      "url": "https://www.aljazeera.com/news/2026/5/1/has-the-us-iran-ceasefire-reset-the-clock-on-war-powers-act-deadline",
+      "publisher": "Al Jazeera",
+      "angle": "Questions whether the ceasefire itself pauses the War Powers Act clock, and whether the Trump White House believes it does."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/05/01/oil-prices-today-brent-wti-us-iran-war-trump-war-powers-deadline.html",
+      "publisher": "CNBC",
+      "angle": "Oil markets fell on Iran's updated peace proposal, showing markets are pricing in eventual resolution even as Trump dismisses the offer."
+    },
+    {
+      "url": "https://gulfnews.com/world/mena/fragile-ceasefire-deepening-stalemate-why-us-iran-tensions-remain-unresolved-1.500525824",
+      "publisher": "Gulf News",
+      "angle": "Argues the ceasefire is structurally fragile: nuclear red lines and Strait of Hormuz tensions keep military escalation risks alive."
+    },
+    {
+      "url": "https://gulfnews.com/world/mena/how-long-can-the-us-blockade-of-iran-ports-and-the-strait-of-hormuz-last-1.500524491",
+      "publisher": "Gulf News",
+      "angle": "Focuses on the US naval blockade's sustainability: economic squeeze and frozen-conflict risks for global oil supply."
+    },
+    {
+      "url": "https://news.cgtn.com/news/2026-05-01/Negotiation-deadlock-continues-Trump-faces-legal-deadline-to-end-war-1MMzJKdQqru/p.html",
+      "publisher": "CGTN",
+      "angle": "Frames the story as a negotiation deadlock with Trump caught between congressional law and his own maximalist demands."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Iran", "Congress", "Pakistan", "IRGC"],
+    "whatHappened": "Iran delivered an updated peace proposal to Pakistani mediators on May 1, offering a ceasefire framework that falls short of US demands on nuclear enrichment and Strait of Hormuz access. Trump publicly rejected the proposal as insufficient. The War Powers Act gives Congress authority to force an end to hostilities 60 days after the conflict began without a formal declaration of war; that deadline is approaching and the White House argues the existing ceasefire resets the clock. Oil prices fell on the Iranian proposal before recovering after Trump's rejection.",
+    "bottomLine": "The ceasefire is not a peace process; it is a legal maneuver by the White House to buy time it does not legally have, while Iran uses Pakistan as a pressure valve to avoid full escalation.",
+    "hiddenBets": [
+      {
+        "assumption": "The War Powers Act clock has been reset by the partial ceasefire.",
+        "whyItMightBeWrong": "The statute requires Congress to authorize hostilities, not merely pause them. Legal scholars read the Act as requiring active military conflict to stop entirely, not just be suspended. If courts agree, the White House's clock argument collapses."
+      },
+      {
+        "assumption": "Pakistan is a neutral mediator.",
+        "whyItMightBeWrong": "Pakistan is deeply dependent on both Saudi financing and Chinese trade, and both countries want Iran's oil back on global markets. Polymarket puts a 65% chance the next US-Iran diplomatic meeting happens in Pakistan, suggesting Pakistan is being used not just as a postman but as a venue for legitimizing a deal that neither side can openly pursue."
+      },
+      {
+        "assumption": "Iran's nuclear red lines are fixed.",
+        "whyItMightBeWrong": "Iran has repeatedly used enrichment caps as negotiating chips, agreeing to inspection regimes when sanctions relief was concrete enough. The IRGC and the civilian government have different thresholds for what they will accept, and the current proposal may already test that internal divide."
+      }
+    ],
+    "realDisagreement": "The genuine fork is between treating this as a war that must end versus treating it as a blockade that must hold. The administration wants to maintain military and economic pressure on Iran indefinitely while avoiding the legal obligation to seek a congressional vote it might lose. Critics, including several Republican senators, say the War Powers Act means exactly what it says: you cannot wage war without authorization, ceasefire or not. Both positions are coherent. The administration's reading hollows out congressional war authority for all future conflicts. The critics' reading would force a vote that could produce a humiliating outcome for Trump on live television. The right call is to force the vote, because the alternative is a precedent that the executive branch can fight any war it wants as long as it calls it something other than war.",
+    "whatNoOneIsSaying": "Iran does not actually want a nuclear deal right now. A deal removes the one card it is still holding that guarantees US attention. A frozen conflict with no deal is preferable to Iran's leadership than a deal that strips enrichment capacity but lifts sanctions they expect will return anyway under the next US administration.",
+    "whoPays": [
+      {
+        "who": "Tanker shipping companies and their insurers",
+        "how": "The Strait of Hormuz blockade has pushed war-risk insurance premiums for oil tankers to multi-year highs, effectively adding a hidden tax on every barrel of oil that moves through the Persian Gulf. Smaller operators are being priced out of the route entirely.",
+        "when": "Already underway; will worsen if the ceasefire collapses before July."
+      },
+      {
+        "who": "Iranian working-class households",
+        "how": "The blockade has strangled Iran's non-oil export revenues and driven the rial to historic lows. Food import costs have spiked. The sanctions and blockade harm the population most exposed to import prices, not the IRGC leadership that controls the parallel economy.",
+        "when": "Ongoing, compounding monthly."
+      },
+      {
+        "who": "US congressional Democrats and anti-war Republicans",
+        "how": "If the White House successfully argues the ceasefire resets the War Powers clock, every future administration will cite this precedent to avoid congressional authorization for military action.",
+        "when": "Medium-term institutional cost; immediate political cost if they push a vote and lose."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Frozen conflict",
+        "whatHappens": "Negotiations stall through summer. Congress debates but cannot muster the votes to force withdrawal. The blockade continues at reduced intensity while back-channel talks continue through Pakistan.",
+        "signal": "Congress fails to pass any resolution by the War Powers deadline, and the White House announces it considers the matter closed."
+      },
+      {
+        "name": "Forced vote",
+        "whatHappens": "Congressional leadership triggers a vote under the War Powers Act. Trump faces a public choice between defying the law or withdrawing forces. If the vote passes, the conflict effectively ends on congressional terms. If it fails, it ratifies executive war authority.",
+        "signal": "A bipartisan group of senators files a formal resolution invoking the Act's clock provisions in the next two weeks."
+      },
+      {
+        "name": "Breakthrough deal",
+        "whatHappens": "Pakistan facilitates a direct US-Iran meeting that produces a framework agreement on enrichment limits and sanctions relief. Markets price in oil normalization. Polymarket puts a nuclear deal by May 31 at only 13.5%, making this the least likely path.",
+        "signal": "Iran's Foreign Minister announces travel to Islamabad for trilateral talks within 10 days."
+      }
+    ],
+    "whatWouldChange": "If a federal court issues a ruling that the War Powers Act clock has not been reset by the ceasefire, the administration would face a legal obligation to either get congressional authorization or withdraw. That specific judicial ruling is the event that would collapse the White House's current strategy.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Congress passes Iran war powers resolution by May 31?",
+        "url": "https://polymarket.com/event/congress-passes-iran-war-powers-resolution-by-may-31",
+        "probability": 0.075
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US-Iran nuclear deal by May 31?",
+        "url": "https://polymarket.com/event/us-iran-nuclear-deal-by-may-31-974",
+        "probability": 0.135
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US-Iran nuclear deal by June 30?",
+        "url": "https://polymarket.com/event/us-iran-nuclear-deal-by-june-30",
+        "probability": 0.315
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will the next US-Iran diplomatic meeting be in Pakistan?",
+        "url": "https://polymarket.com/event/where-will-the-next-us-iran-diplomatic-meeting-happen-455",
+        "probability": 0.65
+      }
+    ]
+  }
+}

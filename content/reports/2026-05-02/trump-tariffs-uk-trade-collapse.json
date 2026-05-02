@@ -1,0 +1,107 @@
+{
+  "id": "trump-tariffs-uk-trade-collapse",
+  "date": "2026-05-02",
+  "generatedAt": "2026-05-02T08:00:00Z",
+  "title": "The Special Relationship, Invoiced",
+  "subtitle": "UK exports to the US fell 25% after Liberation Day tariffs. Britain now runs a trade deficit with its largest trading partner. Polymarket says there is only a 22% chance of a deal before 2027.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["tariffs", "UK", "Trump", "trade", "economy", "liberation day", "manufacturing"],
+  "coverImage": {
+    "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2sxiAiQzQCI/v1/1200x800.jpg",
+    "local": "/images/reports/2026-05-02/trump-tariffs-uk-trade.jpg",
+    "credit": "Bloomberg"
+  },
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/05/01/uk-exports-us-fall-25-trump-tariffs-liberation-day.html",
+      "publisher": "CNBC",
+      "angle": "Reports the 25% fall in UK goods exports to the US and the resulting shift from trade surplus to deficit with America, citing UK official trade data."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-05-01/trump-s-us-tariffs-turn-british-trade-surpluses-into-deficits",
+      "publisher": "Bloomberg",
+      "angle": "Contextualizes the structural trade reversal, noting this is the first sustained US-UK trade deficit since the 1990s and signals a longer-term decoupling of the relationship."
+    },
+    {
+      "url": "https://foreignpolicy.com/2026/05/01/trump-tariffs-ustr-iran-plan-b/",
+      "publisher": "Foreign Policy",
+      "angle": "Argues that the administration's Section 301 tariff rationale is legally and economically incoherent, leaving trading partners unable to negotiate because no clear offer is on the table."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-05-01/us-manufacturing-holds-firm-as-costs-gauge-hits-four-year-high",
+      "publisher": "Bloomberg",
+      "angle": "Covers the April ISM manufacturing data showing US production holding up but input costs at a four-year high, suggesting the tariff benefits to US industry are being eroded by cost inflation."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "UK", "EU", "USTR", "Bank of Canada"],
+    "whatHappened": "UK official trade data released May 1 shows goods exports to the United States fell approximately 25% in the period following the April 2025 Liberation Day tariffs. Britain, which had previously run a modest trade surplus with the US, now runs a deficit with its largest trading partner. Separately, ISM manufacturing data for April 2026 shows US manufacturing still expanding at 52.7% but with input prices at a four-year high, indicating the tariff costs are being absorbed domestically. Canada's central bank governor signaled encouragement at Ottawa's economic diversification efforts, signaling allied governments are preparing for a permanent tariff regime rather than a negotiated resolution.",
+    "bottomLine": "Liberation Day did not reshape global trade in America's favor; it reshaped it against America's allies while leaving the structural trade deficit with China largely intact.",
+    "hiddenBets": [
+      {
+        "assumption": "A US-UK trade deal is imminent and will reverse the damage.",
+        "whyItMightBeWrong": "Polymarket prices a US-UK deal before 2027 at only 22%. The UK's leverage in these negotiations is limited by its need to also maintain alignment with EU standards under the post-Brexit trade agreement, which creates red lines around agricultural imports that the US side has consistently demanded removed. The Special Relationship does not produce trade deals on timelines that matter to affected exporters."
+      },
+      {
+        "assumption": "The tariffs are working because US manufacturing is expanding.",
+        "whyItMightBeWrong": "The ISM data shows production growing but prices paid at a four-year high. The growth is partly driven by manufacturers front-running tariffs to rebuild inventories, not by structural reshoring of production. Once inventory build-up is complete, the demand signal disappears. The input cost surge will compress margins before any reshoring benefit materializes."
+      },
+      {
+        "assumption": "Allies will wait out the tariff policy rather than adapt.",
+        "whyItMightBeWrong": "Canada's diversification rhetoric, the UK's accelerated EU regulatory alignment discussions, and Germany's outreach to Chinese manufacturers on battery technology all suggest US allies are not waiting. They are building alternative supply chains that will persist even if tariffs are reduced, permanently reducing US leverage."
+      }
+    ],
+    "realDisagreement": "The genuine tension is between the tariff regime as leverage for negotiated deals versus the tariff regime as a permanent structural feature. If it is leverage, the inflicted harm is a temporary price to get to a better trade framework, and the 22% deal probability in markets suggests the market thinks leverage is being badly deployed. If the tariffs are permanent policy rather than negotiating tactics, then allied governments are right to stop waiting and start adapting, which means the US loses the leverage it thought it was accumulating. Trump's public statements cut both ways: he describes deals as imminent while simultaneously describing tariffs as generating revenue the US needs indefinitely. You cannot hold both positions honestly.",
+    "whatNoOneIsSaying": "The UK's 25% export decline almost certainly exceeds any tariff revenue the US collected from British goods. The tariffs did not reduce the US trade deficit with the UK. They reduced British exports, which are partly American consumption demand met by UK production, meaning American consumers are paying more for the same goods or going without. The arithmetic of Liberation Day has not been confronted publicly by the administration.",
+    "whoPays": [
+      {
+        "who": "UK automotive and aerospace manufacturers",
+        "how": "These sectors had disproportionate US export exposure. A 25% tariff on UK cars and aerospace components directly compresses margins for JLR, Rolls-Royce, and their supply chains, which employ hundreds of thousands of workers in economically stressed UK regions.",
+        "when": "Already happening. Order books are being revised downward for 2026-2027."
+      },
+      {
+        "who": "US manufacturers with UK component inputs",
+        "how": "Tariffs on UK intermediate goods raise production costs for US manufacturers who use British-made precision parts, particularly in aerospace and defense. The ISM input price spike reflects this.",
+        "when": "Now, and worsening through 2026 as contracts renew."
+      },
+      {
+        "who": "US consumers of imported British goods",
+        "how": "The tariff is a consumption tax on anything UK-made: Scotch whisky, specialty pharmaceuticals, precision machinery, luxury goods. It is collected at the port and passed through to retail prices.",
+        "when": "Ongoing since April 2025."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Deals materialize in Q3",
+        "whatHappens": "The US reaches framework trade agreements with the UK, EU, or both before the end of summer. Tariffs are reduced or removed for participating countries. Markets rally. The 22% Polymarket probability rises sharply.",
+        "signal": "USTR announces a formal negotiating framework with the UK involving specific tariff schedules, not just a statement of intent, by June 30."
+      },
+      {
+        "name": "Permanent tariff equilibrium",
+        "whatHappens": "No deals materialize. Allies complete economic diversification. The US trade deficit with China persists while deficits with allies collapse due to reduced trade volume. US manufacturing costs remain elevated, suppressing the reshoring story.",
+        "signal": "Canada announces preferential trade terms with Germany or China for goods previously supplied by the US, explicitly framing it as a permanent diversification."
+      },
+      {
+        "name": "Courts invalidate the tariff authority",
+        "whatHappens": "The court-forced tariff refund case (Polymarket: 81.5% the court forces refunds) results in a ruling that invalidates the Section 301 tariff mechanism. The administration scrambles for an alternative legal basis. Trade policy goes into limbo.",
+        "signal": "A federal court issues a preliminary injunction against tariff collection pending the merits ruling."
+      }
+    ],
+    "whatWouldChange": "If the administration produces a signed framework deal with the UK that includes specific tariff schedules and timelines for reduction, the Liberation Day damage narrative changes: it becomes the pressure that produced a result. That specific signed agreement, not a statement of progress, is what would change the bottom line.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Court Force Trump to Refund Tariffs?",
+        "url": "https://polymarket.com/event/will-the-court-force-trump-to-refund-tariffs-2026-06-30",
+        "probability": 0.815
+      },
+      {
+        "platform": "Polymarket",
+        "question": "U.S. agrees to a new trade deal with United Kingdom before 2027?",
+        "url": "https://polymarket.com/event/which-countries-will-trump-make-new-trade-deals-with-before-2027-921",
+        "probability": 0.22
+      }
+    ]
+  }
+}

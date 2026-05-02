@@ -1,0 +1,57 @@
+{
+  "date": "2026-05-02",
+  "threads": [
+    {
+      "id": "executive-authority-without-limits",
+      "title": "Acting Without Authority",
+      "description": "Three stories today test the same underlying question: can the executive branch take consequential, irreversible actions without the legal authorization the law requires, and get away with it long enough that the action becomes fact? The Iran War Powers maneuver, the TPS revocation, and the tariff regime each depend on a theory that legal constraints can be outrun by speed and volume. The courts are now catching up.",
+      "type": "tension-cluster",
+      "stories": ["iran-war-powers-deadline", "scotus-tps-haitians-syrians", "trump-tariffs-uk-trade-collapse"],
+      "connections": [
+        {
+          "from": "iran-war-powers-deadline",
+          "to": "scotus-tps-haitians-syrians",
+          "relationship": "Both cases turn on whether the executive can assert unreviewable discretion over decisions with catastrophic individual consequences: the TPS case on DHS authority over deportation, the Iran case on whether a president can wage war indefinitely without congressional authorization."
+        },
+        {
+          "from": "trump-tariffs-uk-trade-collapse",
+          "to": "iran-war-powers-deadline",
+          "relationship": "Polymarket prices an 81.5% chance courts force tariff refunds, mirroring the legal fragility of the War Powers position. Both cases involve the administration asserting emergency statutory authority well beyond its textual scope, and both are hitting legal pushback simultaneously."
+        }
+      ]
+    },
+    {
+      "id": "ai-supply-chain-geopolitical-chokepoints",
+      "title": "Chips, War, and the Supply Chain No One Is Watching",
+      "description": "The Samsung strike and the Iran war are not separate stories. US manufacturing input costs are surging from tariffs; compressed margins in Korean chip fabs are contributing to the labor conditions behind Samsung's dispute; and the AI chips that Samsung and SK Hynix produce are the same ones that US hyperscalers need to run the AI infrastructure that everyone is betting on. A frozen conflict in the Strait of Hormuz that spikes oil prices hits Korean fab energy costs directly. The AI boom is built on a supply chain with multiple geopolitical pressure points that are all active simultaneously.",
+      "type": "dependency-web",
+      "stories": ["samsung-strike-ai-chip-supply", "iran-war-powers-deadline", "trump-tariffs-uk-trade-collapse"],
+      "connections": [
+        {
+          "from": "iran-war-powers-deadline",
+          "to": "samsung-strike-ai-chip-supply",
+          "relationship": "A sustained US naval blockade of Iranian ports keeps oil prices elevated. South Korean chip fabs are energy-intensive; higher energy costs compress margins in a business where Samsung's workers are already pressing for profit-sharing on a year of underperformance."
+        },
+        {
+          "from": "trump-tariffs-uk-trade-collapse",
+          "to": "samsung-strike-ai-chip-supply",
+          "relationship": "Tariff-driven input cost inflation raises costs for US hyperscalers building AI data centers, making them more sensitive to GPU delivery delays caused by memory shortfalls, and reducing the margin for supply chain disruption precisely as the Samsung dispute makes disruption more likely."
+        }
+      ]
+    },
+    {
+      "id": "geography-as-policy",
+      "title": "Where You Live Now Determines Your Rights",
+      "description": "The abortion pill ruling and the TPS case are both, at bottom, about making legal protections that exist on paper meaningless through geographic inaccessibility. The 5th Circuit's nationwide in-person requirement hits hardest in rural areas regardless of state law. TPS revocation removes status from people regardless of how long they have lived in a specific US city. In both cases, a federal body is deploying a formally neutral legal mechanism to produce outcomes that are geographically and demographically targeted.",
+      "type": "tension-cluster",
+      "stories": ["abortion-pill-mail-order-ban", "scotus-tps-haitians-syrians"],
+      "connections": [
+        {
+          "from": "scotus-tps-haitians-syrians",
+          "to": "abortion-pill-mail-order-ban",
+          "relationship": "Both rulings use facially neutral legal mechanisms (DHS discretion on country conditions; FDA distribution requirements) to produce outcomes that disproportionately fall on populations defined by geography, origin, or economic status, not on the stated legal category being regulated."
+        }
+      ]
+    }
+  ]
+}

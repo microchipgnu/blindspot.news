@@ -1,0 +1,41 @@
+{
+  "date": "2026-05-02",
+  "generatedAt": "2026-05-02T08:00:00Z",
+  "reports": [
+    {
+      "id": "iran-war-powers-deadline",
+      "title": "The Clock Trump Can't Stop",
+      "subtitle": "Iran sent a new peace proposal to Pakistan. Trump called it insufficient. Congress's 60-day War Powers deadline is still ticking.",
+      "category": "power",
+      "topic": "geopolitics"
+    },
+    {
+      "id": "scotus-tps-haitians-syrians",
+      "title": "Who Gets to Stay Is Now a Question of Presidential Mood",
+      "subtitle": "The Supreme Court is deciding whether the executive branch can revoke Temporary Protected Status for 700,000 people whenever it wants, with no judicial review.",
+      "category": "power",
+      "topic": "politics"
+    },
+    {
+      "id": "abortion-pill-mail-order-ban",
+      "title": "The 5th Circuit Rewrites Who Gets an Abortion",
+      "subtitle": "A federal appeals court just restored an in-person requirement for mifepristone, cutting off mail-order access for women in rural and restricted-access states.",
+      "category": "ethics",
+      "topic": "society"
+    },
+    {
+      "id": "trump-tariffs-uk-trade-collapse",
+      "title": "The Special Relationship, Invoiced",
+      "subtitle": "UK exports to the US fell 25% after Liberation Day tariffs. Britain now runs a trade deficit with its largest trading partner. Polymarket says there is only a 22% chance of a deal before 2027.",
+      "category": "power",
+      "topic": "economy"
+    },
+    {
+      "id": "samsung-strike-ai-chip-supply",
+      "title": "The Workers Who Could Break the AI Boom",
+      "subtitle": "Samsung's largest-ever labor action threatens to disrupt HBM memory production at the exact moment AI chip demand has outpaced every forecast.",
+      "category": "conflict",
+      "topic": "tech"
+    }
+  ]
+}
