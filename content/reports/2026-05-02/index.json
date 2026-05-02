@@ -1,6 +1,6 @@
 {
   "date": "2026-05-02",
-  "generatedAt": "2026-05-02T08:00:00Z",
+  "generatedAt": "2026-05-02T12:45:00Z",
   "reports": [
     {
       "id": "iran-war-powers-deadline",
@@ -36,6 +36,41 @@
       "subtitle": "Samsung's largest-ever labor action threatens to disrupt HBM memory production at the exact moment AI chip demand has outpaced every forecast.",
       "category": "conflict",
       "topic": "tech"
+    },
+    {
+      "id": "us-troops-germany-nato",
+      "title": "Trump Pulls 5,000 Troops from Germany. NATO's Nervous System Just Got Cut.",
+      "subtitle": "The withdrawal is not about Germany's defense spending. It is punishment for Merz saying the obvious about Iran.",
+      "category": "power",
+      "topic": "geopolitics"
+    },
+    {
+      "id": "uk-elections-reform-labour-collapse",
+      "title": "Reform Is Set to Win the Most Council Seats. Britain's Two-Party System Just Broke.",
+      "subtitle": "Thursday's UK local elections are the first test of whether Reform's poll lead translates into power. Polymarket says 87.9% chance they win the most seats. Labour could lose three-quarters of theirs.",
+      "category": "power",
+      "topic": "politics"
+    },
+    {
+      "id": "israel-lebanon-ceasefire-collapse",
+      "title": "The Lebanon Ceasefire Is Holding on Paper and Collapsing on the Ground",
+      "subtitle": "Thirteen people were killed in Israeli strikes on southern Lebanon on Friday. Hezbollah fired back. Both sides are calling this a ceasefire.",
+      "category": "conflict",
+      "topic": "geopolitics"
+    },
+    {
+      "id": "starmer-protest-ban-antisemitism",
+      "title": "Starmer Considers Banning Protests Three Days Before an Election He Is About to Lose",
+      "subtitle": "Two Jewish men were stabbed in Golders Green this week. The Prime Minister says some pro-Palestinian marches may need to stop. His party is braced to lose up to 2,000 council seats on Thursday.",
+      "category": "ethics",
+      "topic": "society"
+    },
+    {
+      "id": "trump-eu-auto-tariff-escalation",
+      "title": "Trump Rips Up the EU Car Deal and Announces 25% Auto Tariffs. Europe Has No Good Response.",
+      "subtitle": "The US-EU trade agreement was supposed to hold at a 10% baseline tariff. Trump has now raised the rate on cars and lorries to 25%, accusing the EU of non-compliance. The EU has no leverage it is willing to use.",
+      "category": "power",
+      "topic": "economy"
     }
   ]
 }
