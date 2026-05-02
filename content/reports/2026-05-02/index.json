@@ -1,6 +1,6 @@
 {
   "date": "2026-05-02",
-  "generatedAt": "2026-05-02T12:45:00Z",
+  "generatedAt": "2026-05-02T18:20:00Z",
   "reports": [
     {
       "id": "iran-war-powers-deadline",
@@ -71,6 +71,41 @@
       "subtitle": "The US-EU trade agreement was supposed to hold at a 10% baseline tariff. Trump has now raised the rate on cars and lorries to 25%, accusing the EU of non-compliance. The EU has no leverage it is willing to use.",
       "category": "power",
       "topic": "economy"
+    },
+    {
+      "id": "pentagon-ai-first",
+      "title": "The Pentagon Hired Seven AI Companies. The One That Said No Is Being Sued.",
+      "subtitle": "Google, OpenAI, SpaceX, and four others agreed to let the US military use their AI for 'any lawful operational use.' Anthropic refused and claims it is now being retaliated against.",
+      "category": "power",
+      "topic": "tech"
+    },
+    {
+      "id": "spirit-airlines-shutdown",
+      "title": "Spirit Airlines Is Dead. The Trump Administration Killed It By Not Saving It.",
+      "subtitle": "The low-cost carrier that survived bankruptcy twice has ceased all operations after the White House refused a $500 million lifeline. This is the first major US airline to shut down without a bailout.",
+      "category": "power",
+      "topic": "economy"
+    },
+    {
+      "id": "iran-hormuz-shipping-sanctions",
+      "title": "Pay Iran or Face US Sanctions. Shipping Companies Must Choose.",
+      "subtitle": "The US has threatened to sanction any shipping firm that pays Iran's Strait of Hormuz transit tolls, while simultaneously describing its own seizure of Iranian cargo as 'very profitable.' The global maritime economy now has no legal path through the Strait.",
+      "category": "conflict",
+      "topic": "geopolitics"
+    },
+    {
+      "id": "oscars-ai-ban",
+      "title": "Hollywood Bans AI from the Oscars. The Pentagon Just Hired It for Everything Else.",
+      "subtitle": "The Academy issued new rules barring AI actors and AI-written scripts from Oscar eligibility on the same day the US military formalized contracts for AI in 'any lawful operational use.' The contradiction defines who actually controls the question.",
+      "category": "conflict",
+      "topic": "society"
+    },
+    {
+      "id": "scotland-holyrood-election",
+      "title": "The SNP Is Almost Certainly Going to Win Scotland. The Question Is What Scotland Wins.",
+      "subtitle": "Polymarket puts SNP at 99.45% to win the most Holyrood seats. But the SNP enters the election defending a decade of governance failures, a £5 billion budget gap, and an independence movement that has stalled.",
+      "category": "power",
+      "topic": "politics"
     }
   ]
 }

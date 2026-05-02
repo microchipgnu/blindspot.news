@@ -1,0 +1,91 @@
+{
+  "id": "spirit-airlines-shutdown",
+  "date": "2026-05-02",
+  "generatedAt": "2026-05-02T18:05:00Z",
+  "title": "Spirit Airlines Is Dead. The Trump Administration Killed It By Not Saving It.",
+  "subtitle": "The low-cost carrier that survived bankruptcy twice has ceased all operations after the White House refused a $500 million lifeline. This is the first major US airline to shut down without a bailout.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Spirit Airlines", "airlines", "bankruptcy", "bailout", "Trump", "aviation"],
+  "coverImage": {
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3510x2528+0+0/resize/3510x2528!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa2%2F41%2F850e63e44442a36ff2d6dba050db%2Fgettyimages-1495221469.jpg",
+    "local": "/images/reports/2026-05-02/spirit-airlines-shutdown.jpg",
+    "credit": "NPR / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://www.bbc.com/news/articles/cqxlnrqjvzyo",
+      "publisher": "BBC News",
+      "angle": "Reports the closure as a failure of last-resort bailout talks with the Trump administration, notes Spirit had been seeking $500 million and that talks collapsed without a deal"
+    },
+    {
+      "url": "https://www.npr.org/2026/05/02/nx-s1-5807933/spirit-airlines-ceases-operations-folds",
+      "publisher": "NPR",
+      "angle": "Leads with consumer impact, frames this as the culmination of years of financial struggle aggravated by post-pandemic demand shifts and the end of ultra-cheap fares as a viable model"
+    }
+  ],
+  "brief": {
+    "actors": ["Spirit Airlines", "Trump", "DOT", "JetBlue", "Frontier"],
+    "whatHappened": "Spirit Airlines announced it will cease all operations on May 2, 2026, grounding its fleet and stranding tens of thousands of passengers. The carrier, which had previously survived a Chapter 11 bankruptcy reorganization in 2024, had been in negotiations with the Trump administration for a $500 million federal stake or loan guarantee that would have provided liquidity. Talks ended without a deal after the White House determined it would not intervene in what it characterized as a normal market outcome. No other buyer emerged: JetBlue's 2022 acquisition attempt was blocked by antitrust regulators and never revived; Frontier walked away from merger talks in 2023.",
+    "bottomLine": "A US administration that happily subsidizes steel mills, semiconductor fabs, and domestic car manufacturers decided a low-cost airline serving budget travelers was not worth saving. The choice of who gets a bailout is always a political choice, and this time the politics pointed at a company whose customers are not the kind of people who show up in campaign donors.",
+    "hiddenBets": [
+      {
+        "assumption": "Spirit failed because ultra-low-cost aviation is not viable in the US",
+        "whyItMightBeWrong": "Ryanair and Wizz Air make the ultra-low-cost model work profitably in Europe with similar cost structures. The difference is not the model; it is that US aviation regulators consistently blocked the mergers that would have given Spirit the network density it needed to survive downturns. Spirit was regulated into fragility."
+      },
+      {
+        "assumption": "The Trump administration refused the bailout on free-market principle",
+        "whyItMightBeWrong": "The same administration negotiated direct equity stakes in steel producers and provided favorable procurement terms for specific semiconductor manufacturers. The principled distinction between those interventions and Spirit requires believing that airlines serving low-income travelers on thin margins matter less to the national interest than factories. That is a political preference, not an economic principle."
+      },
+      {
+        "assumption": "Other airlines will absorb Spirit's routes and its passengers will be fine",
+        "whyItMightBeWrong": "Spirit served routes where it was the only or primary low-cost option. On many of those routes, fares will now rise because competition disappears. The passengers who relied on Spirit are not a wealthy demographic that can absorb a 40-80% fare increase. They will simply not fly."
+      }
+    ],
+    "realDisagreement": "The genuine fork is whether low-cost access to air travel is a public good worth preserving through regulation and, if necessary, subsidy, or whether it is a commodity service that the market should provide or not provide based on profitability. The US has historically answered this question inconsistently: it bailed out airlines after 9/11 and during COVID, then let Spirit die after a routine post-bankruptcy restructuring failure. The inconsistency is not random. It tracks which airlines carry which passengers and which passengers have political leverage. If Spirit served business travelers on major hubs instead of leisure travelers on secondary routes, it would have gotten the money.",
+    "whatNoOneIsSaying": "Spirit's closure eliminates the main competitive pressure that kept fares low on dozens of routes. Delta, United, and Southwest will quietly raise prices on those routes within six months. This is not a side effect of the shutdown; for Spirit's competitors, it is the benefit.",
+    "whoPays": [
+      {
+        "who": "Spirit's 7,000 employees",
+        "how": "Immediate job loss with no severance beyond minimum legal requirements given the bankruptcy context; many are frontline workers without portable skills or savings",
+        "when": "Immediate"
+      },
+      {
+        "who": "Low-income travelers on Spirit's non-hub routes",
+        "how": "Loss of the only carrier offering sub-$80 fares on secondary routes; surviving carriers will price to demand rather than to Spirit's cost structure",
+        "when": "Fare increases within 3-6 months as route dynamics normalize"
+      },
+      {
+        "who": "Passengers holding Spirit tickets",
+        "how": "Immediate grounding strands travelers who paid in advance; refund recovery from a bankrupt carrier is slow and may be incomplete",
+        "when": "Immediate"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Quiet Consolation",
+        "whatHappens": "Another carrier, possibly Frontier or a private equity-backed startup, acquires Spirit's gate leases and route authority from the bankruptcy estate and relaunches a smaller ultra-low-cost operation on the most profitable subset of Spirit's routes. Fares on secondary routes remain elevated for 18-24 months before recovering partially.",
+        "signal": "Bankruptcy auction filings showing bidders for Spirit's assets, particularly gate slots at Fort Lauderdale and other Spirit hubs"
+      },
+      {
+        "name": "Consolidation Completes",
+        "whatHappens": "No buyer emerges for Spirit's assets. The major carriers absorb the routes on their own terms and the US domestic aviation market consolidates further. Fares on Spirit's former routes rise permanently by 20-35%.",
+        "signal": "Spirit's gate leases returned to airports without a buyer within 90 days; no DOT rule-making on successor service"
+      },
+      {
+        "name": "Political Reversal",
+        "whatHappens": "Congressional pressure from representatives in Spirit-heavy states forces a reconsideration. The administration authorizes a DOT emergency stabilization loan, Spirit is technically not fully shut, and a restructured smaller airline emerges. Polymarket gives this only 4.35% odds.",
+        "signal": "Any White House statement reversing the 'no bailout' position before May 31"
+      }
+    ],
+    "whatWouldChange": "If evidence emerged that Spirit's route structure was genuinely financially unviable even with a bailout, the critique of the administration's decision would weaken. But the fact that the White House was in active negotiations about a $500m intervention, then stopped, suggests the decision was political, not economic. What would change the analysis is proof that the administration walked away because the business case was hopeless, not because someone decided Spirit's passengers were not worth saving.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "US takes a stake in Spirit Airlines by May 31?",
+        "url": "https://polymarket.com/event/us-takes-a-stake-in-spirit-airlines-by-may-31",
+        "probability": 0.0435
+      }
+    ]
+  }
+}

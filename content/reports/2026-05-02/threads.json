@@ -2,6 +2,58 @@
   "date": "2026-05-02",
   "threads": [
     {
+      "id": "ai-who-decides",
+      "title": "AI Has One Ruler. It Is Not Hollywood.",
+      "description": "Three stories today answer the question of who actually controls how AI gets deployed. The Pentagon signed contracts for unrestricted military use. The Oscars banned AI from awards eligibility. Samsung's workers are striking because AI demand is creating the labor conditions that made the dispute inevitable. The Academy's ban covers a fraction of a percent of AI applications. The Pentagon's contracts cover everything with a uniform. The workers producing the chips that make AI possible are not at the table. The power to set the rules is not distributed evenly across these three stories: one actor just took it all.",
+      "type": "cause-effect",
+      "stories": ["pentagon-ai-first", "oscars-ai-ban", "samsung-strike-ai-chip-supply"],
+      "connections": [
+        {
+          "from": "pentagon-ai-first",
+          "to": "oscars-ai-ban",
+          "relationship": "The Pentagon signed 'any lawful operational use' AI contracts on May 1. The Academy banned AI from award eligibility on May 1. The juxtaposition is not coincidental: both institutions faced the same question about AI boundaries on the same day and answered it in opposite directions, revealing who has actual power to set norms."
+        },
+        {
+          "from": "pentagon-ai-first",
+          "to": "samsung-strike-ai-chip-supply",
+          "relationship": "The Pentagon contracts expand AI demand precisely as Samsung's memory workers strike over the labor conditions that AI chip production has created. The military's AI-first ambition depends on the same Korean fab workers whose profit-sharing grievances the Pentagon's customer, US hyperscalers, is indirectly creating through HBM demand."
+        }
+      ]
+    },
+    {
+      "id": "hormuz-food-money",
+      "title": "The Strait Is Not Just an Oil Chokepoint. It Is a Food Chokepoint.",
+      "description": "The Iran Hormuz shipping sanctions story, the existing Iran War Powers story, and the fertilizer crisis warning from Yara's CEO are three facets of the same agricultural supply crisis forming in slow motion. The US is treating the Strait as a revenue mechanism while threatening secondary sanctions on shippers who pay Iran. The fertilizer supply that passes through the Gulf and depends on stable shipping routes is already short. The people who will pay the food price increase are not shipping executives or geopolitical strategists. They are people who spend 50% or more of their income on food, primarily in the global south.",
+      "type": "dependency-web",
+      "stories": ["iran-hormuz-shipping-sanctions", "iran-war-powers-deadline"],
+      "connections": [
+        {
+          "from": "iran-war-powers-deadline",
+          "to": "iran-hormuz-shipping-sanctions",
+          "relationship": "Trump's claim that hostilities have terminated under the ceasefire applies to the air war while the maritime blockade intensifies. The War Powers maneuver creates a legal fiction of peace that gives the Hormuz standoff no political urgency, allowing the shipping crisis to deepen without the congressional pressure that active hostilities would generate."
+        }
+      ]
+    },
+    {
+      "id": "who-the-economy-serves",
+      "title": "The Government Chose Who to Save This Week. Budget Travelers Did Not Make the List.",
+      "description": "Spirit Airlines died because the Trump administration decided not to save it. The Pentagon simultaneously signed eight AI contracts that will generate billions in revenue for technology companies. The US is imposing tariffs that make European goods more expensive for American consumers. These are not separate policy choices: they form a coherent picture of who the current US economic order is organized to serve. The answer is not budget travelers, not low-income consumers paying import price increases, and not the 7,000 Spirit workers who lost their jobs. The answer is tech contractors, domestic manufacturers, and the defense industry.",
+      "type": "tension-cluster",
+      "stories": ["spirit-airlines-shutdown", "pentagon-ai-first", "trump-eu-auto-tariff-escalation"],
+      "connections": [
+        {
+          "from": "spirit-airlines-shutdown",
+          "to": "pentagon-ai-first",
+          "relationship": "The White House refused a $500 million lifeline to keep 7,000 airline workers employed and low-cost travel accessible; on the same day, the Pentagon finalized billions in AI contracts with eight technology companies. Both decisions reflect a consistent theory of which economic actors deserve government support."
+        },
+        {
+          "from": "trump-eu-auto-tariff-escalation",
+          "to": "spirit-airlines-shutdown",
+          "relationship": "The 25% EU auto tariff increases input costs for US consumers and businesses while protecting specific domestic manufacturers. Spirit's failure to get a bailout while domestic manufacturers receive tariff protection reflects the same logic: the government intervenes for politically connected industries and lets market forces operate for everyone else."
+        }
+      ]
+    },
+    {
       "id": "executive-authority-without-limits",
       "title": "Acting Without Authority",
       "description": "Four stories today test the same underlying question: can the executive branch take consequential, irreversible actions without the legal authorization the law requires, and get away with it long enough that the action becomes fact? The Iran War Powers maneuver, the TPS revocation, the tariff regime, and the Germany troop withdrawal each depend on a theory that legal constraints can be outrun by speed and volume. The courts are catching up on some; NATO allies are absorbing the rest.",
