@@ -1,7 +1,42 @@
 {
   "date": "2026-05-02",
-  "generatedAt": "2026-05-02T18:20:00Z",
+  "generatedAt": "2026-05-02T22:55:00Z",
   "reports": [
+    {
+      "id": "trump-ceasefire-war-powers-claim",
+      "title": "Trump Declares the Ceasefire He Controls Has Ended the War He Started",
+      "subtitle": "On Day 60 of the War Powers clock, Trump told Congress the Iran ceasefire means hostilities have terminated. Legal experts say that is not how the law works.",
+      "category": "power",
+      "topic": "politics"
+    },
+    {
+      "id": "iran-war-fertiliser-food-crisis",
+      "title": "The Iran War Has a Second Front: The World's Food Supply",
+      "subtitle": "The CEO of one of the world's largest fertiliser companies says the Strait of Hormuz closure is costing 10 billion meals per week. The impact will arrive in the global south first, and the worst is still months away.",
+      "category": "conflict",
+      "topic": "economy"
+    },
+    {
+      "id": "brazil-bolsonaro-amnesty",
+      "title": "Brazil's Congress Just Voted to Free the Man Who Tried to Overthrow Its Democracy",
+      "subtitle": "Two-thirds of Brazil's Congress overrode Lula's veto of a bill that would reduce Bolsonaro's 27-year coup sentence to just over two years. The Supreme Court is the last line of defense, and Bolsonaro's son is already tied with Lula in presidential polls.",
+      "category": "power",
+      "topic": "politics"
+    },
+    {
+      "id": "china-africa-taiwan-eswatini",
+      "title": "China Gave All of Africa Zero-Tariff Access, Except the One Country That Recognizes Taiwan",
+      "subtitle": "The same day Taiwan's president arrived in Eswatini through a secret route after China blocked his aircraft, Beijing announced zero tariffs for all 53 African nations except Eswatini. The timing is not coincidental.",
+      "category": "power",
+      "topic": "geopolitics"
+    },
+    {
+      "id": "somali-piracy-surge",
+      "title": "Four Ships Hijacked in Two Weeks. Somali Piracy Is Back and No One Is Watching.",
+      "subtitle": "The navies that suppressed Somali piracy are now chasing Houthi drones in the Red Sea. Armed groups on Somalia's 3,333-kilometer coastline noticed.",
+      "category": "conflict",
+      "topic": "geopolitics"
+    },
     {
       "id": "iran-war-powers-deadline",
       "title": "The Clock Trump Can't Stop",

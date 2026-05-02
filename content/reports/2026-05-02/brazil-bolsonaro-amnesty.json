@@ -1,0 +1,92 @@
+{
+  "id": "brazil-bolsonaro-amnesty",
+  "date": "2026-05-02",
+  "generatedAt": "2026-05-02T22:40:00Z",
+  "title": "Brazil's Congress Just Voted to Free the Man Who Tried to Overthrow Its Democracy",
+  "subtitle": "Two-thirds of Brazil's Congress overrode Lula's veto of a bill that would reduce Bolsonaro's 27-year coup sentence to just over two years. The Supreme Court is the last line of defense, and Bolsonaro's son is already tied with Lula in presidential polls.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["Brazil", "Bolsonaro", "Lula", "democracy", "amnesty", "Congress"],
+  "coverImage": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/0a74/live/cdf68130-4515-11f1-abc0-ad30bc9b065e.jpg",
+    "local": "/images/reports/2026-05-02/brazil-bolsonaro-amnesty.jpg",
+    "credit": "BBC News"
+  },
+  "sources": [
+    {
+      "url": "https://www.bbc.com/news/articles/cqlpvl3wx4qo",
+      "publisher": "BBC News",
+      "angle": "Congressional vote detail: veto override by more than two-thirds, timing on Flavio Bolsonaro's birthday, Senate rejection of Lula's Supreme Court nominee the day before"
+    }
+  ],
+  "brief": {
+    "actors": ["Bolsonaro", "Lula", "Flavio Bolsonaro", "Brazil"],
+    "whatHappened": "On Thursday May 1, Brazil's Congress overrode President Lula's veto of a law that would drastically reduce how prison sentences for coup-related crimes are calculated. The law would reduce Bolsonaro's 27-year sentence to just over two years, and he is already under house arrest due to ill health. The override passed by more than two-thirds. The same week, the Senate rejected Lula's nominee for the Supreme Court, the first time in decades a president's court pick has been blocked. Flavio Bolsonaro, the former president's eldest son who has presidential ambitions, is now tied with Lula in polls. Lula is campaigning for a fourth term.",
+    "bottomLine": "The Brazilian Congress has used legal procedure to achieve what the coup failed to accomplish directly: it is clearing the path for the Bolsonaro political dynasty to return to power through elections they previously tried to steal.",
+    "hiddenBets": [
+      {
+        "assumption": "The Supreme Court will block the law",
+        "whyItMightBeWrong": "Brazil's Supreme Court blocked or overturned several Bolsonaro-era measures in previous years, and the law can still be challenged there. But the Senate just rejected Lula's court nominee, signalling that the right is systematically working to constrain judicial oversight. A court that cannot seat new justices from the governing coalition is a court whose composition shifts over time."
+      },
+      {
+        "assumption": "Bolsonaro himself is finished as a political force",
+        "whyItMightBeWrong": "Polymarket puts Bolsonaro at under 1% to win the presidency, which is consistent with his legal status. But the Bolsonaro brand is Flavio Bolsonaro, who is not facing conviction. Flavio at 23.5% in first-round polling (per Polymarket markets on first-round second place) is the real dynastic play. The amnesty law matters most as clearing the way for the Bolsonarist movement, not Jair Bolsonaro personally."
+      },
+      {
+        "assumption": "This is a Brazil-specific anomaly",
+        "whyItMightBeWrong": "The mechanism here: a conservative legislature passes a retroactive sentencing law that specifically benefits the leader of a failed coup attempt, timed to his birthday, right before a presidential election cycle. This is the Orbán playbook, the Erdogan playbook, and now apparently an exportable model."
+      }
+    ],
+    "realDisagreement": "The genuine tension is between rule of law as process and rule of law as outcome. Congress followed democratic procedure: it voted, it won the required supermajority. The law is constitutionally valid unless the Supreme Court says otherwise. But the law was designed specifically to retroactively benefit one person who was convicted of plotting to overthrow democracy. The process is functioning to protect the person who tried to end the process. The side worth leaning toward: this is a problem of democratic institutions, not just a problem for Brazil's left. When a legislature uses its legitimate powers to immunise coup plotters from accountability, the constraint on future coup attempts becomes the expectation of getting away with it.",
+    "whatNoOneIsSaying": "The amnesty law's most important effect is not Bolsonaro's sentence. It is the signal it sends to every future candidate in every country who calculates whether attempting a coup is worth the risk. The answer just changed.",
+    "whoPays": [
+      {
+        "who": "Brazilian voters who backed Lula expecting democratic accountability",
+        "how": "The prosecution's deterrent effect on future political violence collapses; the institutional legitimacy of the 2022 election result is retroactively contested",
+        "when": "Immediate and through the 2026 election cycle"
+      },
+      {
+        "who": "Brazilian Supreme Court justices",
+        "how": "They are the last institutional check. If they strike down the law, they face a full-scale political assault from a conservative Congress and the Bolsonaro media apparatus ahead of the election",
+        "when": "Within weeks, once a challenge is filed"
+      },
+      {
+        "who": "Lula himself",
+        "how": "Already tied in polls with Flavio Bolsonaro, now politically weakened by two back-to-back legislative defeats in the same week, heading into a campaign where his opponent's father is being freed by Congress",
+        "when": "Through the 2026 presidential election"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Court Blocks the Law",
+        "whatHappens": "Brazil's Supreme Court rules the amnesty law unconstitutional on separation of powers or equal protection grounds. Bolsonaro's sentence stands. Flavio Bolsonaro campaigns as the martyr candidate.",
+        "signal": "A Supreme Court justice accepts an emergency petition and schedules oral argument within 30 days"
+      },
+      {
+        "name": "Law Stands, Bolsonaro Freed",
+        "whatHappens": "The law survives legal challenge or is not challenged in time. Bolsonaro's sentence is reduced to time already served. He attends Flavio's campaign rallies. Lula's coalition fractures as centrists distance themselves.",
+        "signal": "No Supreme Court injunction within 60 days; Bolsonaro formally transferred back to house arrest pending sentence recalculation"
+      },
+      {
+        "name": "Election Turns on the Question",
+        "whatHappens": "The amnesty law becomes the defining issue of the 2026 presidential campaign. Lula runs on restoring accountability; Flavio runs on political persecution. Brazil splits 50-50 and enters its deepest polarization since the coup.",
+        "signal": "A Datafolha poll showing the amnesty law as the top voter concern by July 2026"
+      }
+    ],
+    "whatWouldChange": "If the Supreme Court issues an injunction blocking the law's application, the political calculus shifts significantly. The bottom line also changes if Flavio Bolsonaro declines to run for president, removing the dynastic succession scenario.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+        "url": "https://polymarket.com/event/brazil-presidential-election",
+        "probability": 0.385
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Flavio Bolsonaro win the first round of the 2026 Brazilian presidential election?",
+        "url": "https://polymarket.com/event/brazil-presidential-election-first-round-margin-of-victory",
+        "probability": 0.235
+      }
+    ]
+  }
+}

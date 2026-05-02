@@ -133,6 +133,53 @@
           "relationship": "Both cases involve a government using a public safety or health justification to restrict access to something (abortion medication, political assembly) in ways that the restricted communities experience as targeted regardless of the formal neutrality of the legal mechanism."
         }
       ]
+    },
+    {
+      "id": "maritime-security-vacuum",
+      "title": "Two Oceans, One Navy, Not Enough Ships",
+      "description": "The Somali piracy resurgence is not a new problem. It is the old problem returning because the naval resources that suppressed it have been redirected to the Red Sea and Persian Gulf. The Hormuz shipping sanctions create a third enforcement burden in the same maritime corridor. There are not enough NATO-aligned naval vessels to simultaneously patrol the Strait of Hormuz, suppress Houthi attacks in the Red Sea, and cover the Gulf of Aden against Somali pirates. The Iran war has not just blocked the Strait. It has opened the entire Indian Ocean approach to commercial shipping exploitation.",
+      "type": "cause-effect",
+      "stories": ["somali-piracy-surge", "iran-hormuz-shipping-sanctions", "iran-war-powers-deadline"],
+      "connections": [
+        {
+          "from": "iran-war-powers-deadline",
+          "to": "somali-piracy-surge",
+          "relationship": "Trump's legal claim that hostilities have terminated creates political pressure to reduce the naval presence in the Gulf, which was already the mechanism that freed resources for Somali piracy to restart. A declared 'end of hostilities' makes sustained Hormuz naval patrol politically harder to justify."
+        },
+        {
+          "from": "iran-hormuz-shipping-sanctions",
+          "to": "somali-piracy-surge",
+          "relationship": "The US secondary sanctions on Hormuz transit payments have rerouted some commercial traffic around the Gulf, increasing traffic through the Gulf of Aden. More ships taking the alternative route means more targets for the Somali pirates who now operate with reduced opposition."
+        }
+      ]
+    },
+    {
+      "id": "legal-forgetting",
+      "title": "When the Law Is Used to Undo What the Law Found",
+      "description": "Two stories today show legislatures using valid legal procedure to erase the findings of courts and to bypass the constraints of other laws. Brazil's Congress used a supermajority to retroactively reduce the sentence for a convicted coup plotter, undermining the Supreme Court's authority through legislation rather than reversal. Trump used a letter to Congress to argue that a ceasefire he controls legally terminates the very statute designed to constrain his war powers. Both moves are formally legal. Both achieve the same result: using the institutions of law to produce immunity from law.",
+      "type": "tension-cluster",
+      "stories": ["brazil-bolsonaro-amnesty", "trump-ceasefire-war-powers-claim"],
+      "connections": [
+        {
+          "from": "trump-ceasefire-war-powers-claim",
+          "to": "brazil-bolsonaro-amnesty",
+          "relationship": "In both cases, the actor using the legal mechanism controls the precondition that triggers the legal exemption: Trump controls the ceasefire he says ends War Powers obligations; Brazil's Congress controls the sentencing law it wrote to benefit the person Congress supporters tried to put back in power. Self-referential legal claims used to achieve political outcomes courts would otherwise block."
+        }
+      ]
+    },
+    {
+      "id": "china-supply-chain-strategy",
+      "title": "China Is Winning the Crisis by Controlling the Inputs",
+      "description": "While the Iran war dominates the headlines, China is quietly repositioning across two separate supply chains in ways that compound. It imposed fertiliser export restrictions that deepen the food crisis caused by the Hormuz closure. It offered zero-tariff access to African agricultural goods, making African economies more dependent on Chinese market access. It blocked Taiwan's president's aircraft to demonstrate its control of African airspace. Three separate actions across food, trade, and diplomacy that together shift the terms of a world restructuring around the Iran conflict toward China's advantage. None of the individual actions is an act of war. Together they constitute a strategic play.",
+      "type": "dependency-web",
+      "stories": ["china-africa-taiwan-eswatini", "iran-war-fertiliser-food-crisis"],
+      "connections": [
+        {
+          "from": "china-africa-taiwan-eswatini",
+          "to": "iran-war-fertiliser-food-crisis",
+          "relationship": "China's fertiliser export restrictions worsen the global food shortage created by the Hormuz closure while China's zero-tariff offer to African nations positions it as the preferred buyer of whatever reduced African agricultural output exists. China is simultaneously restricting supply globally and offering itself as the preferred market, squeezing the countries in between."
+        }
+      ]
     }
   ]
 }

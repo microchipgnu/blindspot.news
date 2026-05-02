@@ -1,0 +1,83 @@
+{
+  "id": "iran-war-fertiliser-food-crisis",
+  "date": "2026-05-02",
+  "generatedAt": "2026-05-02T22:35:00Z",
+  "title": "The Iran War Has a Second Front: The World's Food Supply",
+  "subtitle": "The CEO of one of the world's largest fertiliser companies says the Strait of Hormuz closure is costing 10 billion meals per week. The impact will arrive in the global south first, and the worst is still months away.",
+  "topic": "economy",
+  "category": "conflict",
+  "tags": ["Iran", "food security", "fertiliser", "Hormuz", "Yara", "global south"],
+  "coverImage": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/482b/live/452587b0-4525-11f1-bd52-e755d604ece4.jpg",
+    "local": "/images/reports/2026-05-02/iran-war-fertiliser-food-crisis.jpg",
+    "credit": "BBC News"
+  },
+  "sources": [
+    {
+      "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o",
+      "publisher": "BBC News",
+      "angle": "Interview with Yara CEO Svein Tore Holsether: half a million tons of nitrogen fertiliser not being produced per week; bidding war for food could hit poorest countries hardest"
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/c208yl1jkl7o",
+      "publisher": "BBC News",
+      "angle": "Asia-Pacific food security analysis: planting season beginning but fertiliser supply blocked; rice crops at risk if crisis persists"
+    }
+  ],
+  "brief": {
+    "actors": ["Iran", "Yara", "UN", "China", "US"],
+    "whatHappened": "Svein Tore Holsether, CEO of Yara International, one of the world's largest fertiliser producers, told the BBC that the closure of the Strait of Hormuz has removed half a million tons of nitrogen fertiliser from global supply weekly. He calculates this translates to 10 billion meals not being produced every week. Fertiliser prices have risen 80% since the US-Israeli strikes on Iran began. The UN World Food Programme estimates the combined fallout could push 45 million additional people into acute hunger in 2026. Asia and the Pacific face a 24% increase in food insecurity, the largest relative increase of any region. The immediate impact is still months away in most of Asia because current planting season crops will not come in until autumn.",
+    "bottomLine": "The Iran war's food shock is not arriving yet, which is exactly why it will be worse than expected when it does: by the time shortfalls show up in harvest data, the window to intervene has already closed.",
+    "hiddenBets": [
+      {
+        "assumption": "The ceasefire buys enough time to avoid the worst agricultural impact",
+        "whyItMightBeWrong": "The Strait of Hormuz remains effectively closed even under the ceasefire. The US is still sanctioning Iran's toll collection, and no deal has been agreed. The window for Asian farmers to substitute fertilisers is already closing. A ceasefire that does not reopen the Strait is irrelevant to food supply chains."
+      },
+      {
+        "assumption": "Richer countries will absorb higher food costs without major disruption",
+        "whyItMightBeWrong": "UK food inflation is forecast at 10% by December. The Bank of England projects food price inflation at 4.6% in September as a floor. The UK government is already preparing for shortages in worst-case scenarios. The bidding war Holsether describes is not hypothetical: it is built into every scenario where the Strait stays closed through summer."
+      },
+      {
+        "assumption": "China's restrictions on fertiliser exports are temporary and will ease",
+        "whyItMightBeWrong": "China has simultaneously imposed export controls on fertiliser components while offering zero-tariff access to African agricultural goods. The two moves together shift the terms of trade in China's favour: African nations become more dependent on Chinese goodwill for both food markets and input supply, which is a structural play, not a temporary measure."
+      }
+    ],
+    "realDisagreement": "The core tension is between the war being primarily a military and diplomatic problem versus it already being an economic crisis that will kill people months after any ceasefire is signed. The diplomatic and military coverage dominates. The food story gets one news cycle. But a 50% crop yield reduction in sub-Saharan Africa from missed fertiliser application is not reversible once the planting window closes. The two problems require different timelines and different actors. Military negotiations can happen in weeks. Agricultural recovery takes years. The bottom line leans toward treating the food crisis as the more urgent problem precisely because it is less visible and less politically incentivized to solve.",
+    "whatNoOneIsSaying": "Richer countries are calculating how to manage their own food price inflation. No one in the US or Europe is publicly prioritising the question of which developing countries cannot afford to outbid them for the reduced food supply. The bidding war Holsether describes has a winner and a loser. The loser is already determined by purchasing power.",
+    "whoPays": [
+      {
+        "who": "Asian rice farmers, particularly in Bangladesh, Vietnam, Philippines",
+        "how": "Fertiliser shortfalls during planting season reduce yields by up to 50% in the first affected crop cycle. Farmers bear the cost of reduced income before consumers see higher prices.",
+        "when": "Autumn 2026 harvests, with impacts appearing in food prices by Q4 2026"
+      },
+      {
+        "who": "Sub-Saharan African households already below adequate fertiliser use",
+        "how": "Regions already under-fertilised face compounding yield reductions. With a 65% rise in China's trade surplus with Africa in 2025, local production cannot substitute for imports.",
+        "when": "Immediate for current planting season; severe by mid-2026"
+      },
+      {
+        "who": "UK and European lower-income households",
+        "how": "Food inflation at 10% by December, hitting households that spend a higher share of income on food. The UK Food and Drink Federation forecast is the floor estimate.",
+        "when": "October to December 2026"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Hormuz Reopens Before Summer",
+        "whatHappens": "A nuclear deal or substantive ceasefire agreement reopens the Strait by June. Fertiliser flows resume. Crop impacts are partial rather than full. Global food price increases are contained to 5-8%.",
+        "signal": "A signed US-Iran framework agreement with explicit provisions for Hormuz commercial traffic; Yara restarts shipment planning"
+      },
+      {
+        "name": "Hormuz Stays Closed Through Planting Season",
+        "whatHappens": "Negotiations collapse or drag past the Asian planting window. Autumn 2026 harvests in South and Southeast Asia come in 20-30% below forecast. WFP emergency appeals for 45+ million people are triggered.",
+        "signal": "No framework agreement by mid-May; shipping insurance rates for Gulf routes remain at crisis premiums"
+      },
+      {
+        "name": "China Uses Food Supply as Leverage",
+        "whatHappens": "China tightens its fertiliser export controls further or makes them conditional on trade concessions, using the crisis to deepen African and Asian economic dependencies. Western response is too slow and fragmented to substitute.",
+        "signal": "Chinese Ministry of Commerce announces additional 'temporary' fertiliser export restrictions; African Union issues a formal request for alternative supply"
+      }
+    ],
+    "whatWouldChange": "If a credible deal framework that explicitly reopens commercial Hormuz traffic were signed before May 15, the planting window impact would be limited. The bottom line also changes if China drops its fertiliser export restrictions regardless of the broader conflict, which would partially offset the Hormuz closure."
+  }
+}

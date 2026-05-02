@@ -1,0 +1,78 @@
+{
+  "id": "somali-piracy-surge",
+  "date": "2026-05-02",
+  "generatedAt": "2026-05-02T22:50:00Z",
+  "title": "Four Ships Hijacked in Two Weeks. Somali Piracy Is Back and No One Is Watching.",
+  "subtitle": "The navies that suppressed Somali piracy are now chasing Houthi drones in the Red Sea. Armed groups on Somalia's 3,333-kilometer coastline noticed.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["Somalia", "piracy", "Gulf of Aden", "Houthi", "shipping", "Iran war"],
+  "coverImage": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/6c15/live/15c6a460-464a-11f1-891c-cf9f2bee9693.jpg",
+    "local": "/images/reports/2026-05-02/somali-piracy-surge.jpg",
+    "credit": "BBC News"
+  },
+  "sources": [
+    {
+      "url": "https://www.bbc.com/news/articles/cpwprl0v2npo",
+      "publisher": "BBC News",
+      "angle": "MT Eureka hijacking detail: fourth successful piracy in two weeks, Puntland security officials quoted on piracy expansion across Somalia's coastline, connection to Houthi-era naval redeployment"
+    }
+  ],
+  "brief": {
+    "actors": ["Somalia", "EUNAVFOR", "Iran", "Houthi", "Yemen"],
+    "whatHappened": "On May 2, 2026, Somali pirates hijacked the oil tanker MT Eureka in the Gulf of Aden, the fourth successful piracy in two weeks. The MT Eureka, sailing under a Togo flag, was seized near the port of Qana, Yemen at 5:00 AM local time by armed men departing from Puntland, Somalia's semi-autonomous northeastern region. Earlier in the same period, the Honor 25 was seized on April 22 carrying 18,500 barrels of oil bound for Mogadishu. A bulk carrier near Al-Mukala, Yemen also reported an approach by armed persons on skiffs. Puntland security officials told the BBC: 'The on-going crisis with the pirates is much worse than many realize. There are increasing movements all over the coast.' EUNAVFOR and Somali authorities have not responded publicly to the latest incident.",
+    "bottomLine": "Somali piracy did not end. It was suppressed by naval patrols that are now elsewhere. The Iran war cleared the Gulf, and the pirates filled the vacuum exactly as they did when the Houthi attacks began redirecting maritime security resources in late 2023.",
+    "hiddenBets": [
+      {
+        "assumption": "This is a temporary opportunistic surge that will reverse when naval attention returns",
+        "whyItMightBeWrong": "The original suppression of Somali piracy took years of sustained multi-national naval patrol operations and significant investment in Somali coast guard capacity. The conditions for that sustained response no longer exist: navies are stretched, the Iran conflict shows no resolution timeline, and the Houthi threat in the Red Sea continues alongside the Gulf of Aden crisis. The infrastructure of piracy is easier to rebuild than to suppress."
+      },
+      {
+        "assumption": "The hijackings affect only global oil markets, not food supply",
+        "whyItMightBeWrong": "Honor 25 was carrying oil bound for Mogadishu, not export. Somalia is already in a food insecurity situation. The Gulf of Aden is also the route for humanitarian food shipments to East Africa. Piracy that targets food-carrying vessels or disrupts port access compounds the fertiliser shortage already driven by the Hormuz closure."
+      },
+      {
+        "assumption": "EUNAVFOR will redeploy to address the Somali surge",
+        "whyItMightBeWrong": "EUNAVFOR's anti-piracy mandate competes with the EU's broader maritime commitments, which now include the Red Sea, the eastern Mediterranean, and the Gulf. There is no announced deployment increase and no public statement from EUNAVFOR on the recent spike. The silence from the institution that is supposed to handle this is its own answer."
+      }
+    ],
+    "realDisagreement": "The real fork is whether this is a symptom of the Iran war that will resolve when the Iran war resolves, or whether it represents a structural resurgence of Somali piracy that requires its own sustained response regardless of the Middle East situation. The case for symptom: piracy declined sharply with naval patrols, and the mechanism is clear. The case for structural: Somalia's internal conditions, the Houthi precedent of sustained maritime disruption, and the demonstrated ease of resuming piracy operations suggest this is not a waiting problem. The latter is more credible. The Iran war created the opportunity, but the capacity was always there.",
+    "whatNoOneIsSaying": "The countries that benefit most from continued naval suppression of Somali piracy, including the EU and major shipping nations, are not publicly discussing how they will cover both threats simultaneously. The silence suggests they cannot.",
+    "whoPays": [
+      {
+        "who": "East African port economies dependent on Gulf of Aden shipping",
+        "how": "Higher shipping insurance, route avoidance, and delayed cargo affect trade costs throughout the region. Mogadishu port access is directly at risk.",
+        "when": "Immediate and worsening with each new hijacking"
+      },
+      {
+        "who": "Crews of commercial vessels transiting the Gulf of Aden",
+        "how": "Four hijackings in two weeks means the risk to life and freedom for mariners is no longer a theoretical probability",
+        "when": "Ongoing"
+      },
+      {
+        "who": "Shipping insurers and global commodities markets",
+        "how": "War risk premiums and insurance costs for Gulf of Aden transit rise with each incident, eventually passed on to commodity prices globally",
+        "when": "Already occurring; compounding with Red Sea and Hormuz disruptions"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Iran Deal Frees Naval Resources",
+        "whatHappens": "A US-Iran agreement reopens the Strait of Hormuz and reduces the Houthi threat, freeing naval capacity for redeployment to the Gulf of Aden. Piracy is suppressed again within six months.",
+        "signal": "EUNAVFOR announces a Gulf of Aden force increase; insurance premiums for the route fall"
+      },
+      {
+        "name": "Dual Maritime Crisis Becomes the New Normal",
+        "whatHappens": "No deal on Iran, Houthi threat continues, Somali piracy stabilizes at its new elevated level. Shipping companies build the higher risk premium into permanent route pricing.",
+        "signal": "Major shipping companies announce permanent Gulf of Aden surcharges as a line item, not a temporary adjustment"
+      },
+      {
+        "name": "Piracy Escalates to Larger Vessels",
+        "whatHappens": "Emboldened by four successful hijackings and no military response, pirate groups attempt higher-value targets including LNG tankers or container vessels. One successful attack on a large vessel triggers international response.",
+        "signal": "A piracy attempt on a vessel over 100,000 DWT; hostage situation involving crew members from a NATO-allied country"
+      }
+    ],
+    "whatWouldChange": "A US-Iran deal that reduces the Houthi threat enough to redeploy naval assets would directly address the cause of the vacuum. The bottom line changes if EUNAVFOR publicly announces increased deployments to the Gulf of Aden within the next two weeks."
+  }
+}
