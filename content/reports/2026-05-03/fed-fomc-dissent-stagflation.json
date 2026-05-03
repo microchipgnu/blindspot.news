@@ -1,0 +1,113 @@
+{
+  "id": "fed-fomc-dissent-stagflation",
+  "date": "2026-05-03",
+  "generatedAt": "2026-05-03T12:34:00Z",
+  "title": "Four Fed Officials Broke With Powell at His Last Meeting. That's the Story.",
+  "subtitle": "The biggest FOMC dissent since 1992 wasn't about rates. It was about whether the Fed can still pretend the next move is obviously a cut.",
+  "topic": "economy",
+  "category": "decision",
+  "tags": ["Federal Reserve", "Powell", "FOMC", "inflation", "stagflation", "Warsh", "interest rates"],
+  "coverImage": {
+    "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyiMV14BDUxk/v1/1200x800.jpg",
+    "local": "/images/reports/2026-05-03/fed-fomc-dissent-stagflation.jpg",
+    "credit": "Bloomberg"
+  },
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/04/29/fed-interest-rate-decision-april-2026.html",
+      "publisher": "CNBC",
+      "angle": "Full play-by-play of the April 29 decision: 8-4 vote, last time four members dissented was October 1992, Powell announces he'll stay as governor while DOJ investigation of Fed renovation spending concludes."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/05/01/fed-dissenters-explain-no-votes-saying-they-disagreed-with-hinting-next-move-would-be-a-cut.html",
+      "publisher": "CNBC",
+      "angle": "Dissenters' own statements: Kashkari, Hammack, and Logan all objected to the 'easing bias' in the statement, not the hold itself. Iran war oil prices and broad-based inflation were central to their reasoning."
+    },
+    {
+      "url": "https://www.rbc.com/en/economics/us-analysis/us-data-flashes/fomc-recap-powells-last-stand-amid-growing-dissent/",
+      "publisher": "RBC Economics",
+      "angle": "Institutional framing: Powell staying as governor is an act of resistance to political pressure. DOJ investigation drops, Warsh nomination advances. The Fed is more divided than the headline rate hold suggests."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-04-29/fed-dissents-why-4-officials-voted-against-fomc-decision",
+      "publisher": "Bloomberg",
+      "angle": "One dissenter, Stephen Miran, wanted a cut. The other three wanted to remove the easing bias entirely. The committee is pulling in opposite directions simultaneously, not just divided on pace."
+    }
+  ],
+  "brief": {
+    "actors": ["Powell", "Warsh", "Kashkari", "Hammack", "Logan", "Miran", "Trump", "Federal Reserve"],
+    "whatHappened": "The Federal Open Market Committee held rates steady at 3.50-3.75% on April 29 in what is almost certainly Jerome Powell's last meeting as chair. Four officials dissented, the most since October 1992. Three of the four, Kashkari, Hammack, and Logan, objected not to the hold but to language in the statement implying the next rate move would be a cut. One dissenter, Stephen Miran, wanted a cut immediately. Powell announced he would stay on as a Fed governor after his chairmanship ends May 15, citing the need to see a DOJ investigation into Fed renovation spending through to conclusion. Kevin Warsh's nomination as the next Fed chair has cleared the Senate Banking Committee.",
+    "bottomLine": "The Fed isn't just divided on timing. It's divided on what kind of economy it's in, and the incoming chair inherits an institution where four members publicly disagree on the fundamental direction of policy in the middle of an oil shock.",
+    "hiddenBets": [
+      {
+        "assumption": "The Iran war oil shock is temporary and the base case remains disinflation with a soft landing.",
+        "whyItMightBeWrong": "The dissenters' statements cite 'broad-based' inflation, not just oil. The Fed's own Chicago Fed president Goolsbee called recent inflation data 'bad news.' If the oil shock embeds into services inflation, the soft landing thesis collapses and the three dissenters were right all along."
+      },
+      {
+        "assumption": "Powell staying as governor protects Fed independence against Trump pressure.",
+        "whyItMightBeWrong": "Warsh is confirmed at 99.7% probability on Polymarket and arrives with Trump's explicit backing. Powell as governor has one vote out of nineteen. He can speak publicly and shape the narrative, but he cannot override a chair aligned with administration preferences. The institutional protection he offers is largely symbolic."
+      },
+      {
+        "assumption": "Warsh will govern the Fed as an orthodox technocrat once confirmed.",
+        "whyItMightBeWrong": "Warsh has publicly criticized the Fed's 'groupthink' and was floated by the Trump orbit precisely because he was seen as more aligned with administration preferences on rates. The market's 99.7% probability he gets confirmed says nothing about how he'll vote once in."
+      }
+    ],
+    "realDisagreement": "The genuine fork is whether the US economy faces an inflation problem that requires rates to stay high or a growth slowdown that requires rate cuts, and these are not compatible. Three dissenters think the inflation risk is more serious than the statement acknowledged. Miran thinks growth needs support now. If the dissenters are right, the easing bias in the statement was a mistake that markets will re-price around the wrong direction. If Miran is right, the three hawkish dissenters just locked in a recession by signaling tightness. The lean here is toward the three hawks: an oil shock in the middle of a hot war does not resolve quickly, and the historical precedent of the 1973-74 period suggests central banks that blink on inflation mid-shock pay a longer and higher price than those that hold.",
+    "whatNoOneIsSaying": "Stephen Miran, the one dovish dissenter who wanted a cut, is an economic advisor who was installed in part because of his alignment with the administration's preference for lower rates. His dissent is not independent technical judgment; it's a vote that carries the implicit weight of a president who has tried to fire the Fed chair. The market is treating four dissents as one event. It's actually two different events happening at the same time.",
+    "whoPays": [
+      {
+        "who": "Households carrying variable-rate debt: mortgages, auto loans, credit cards",
+        "how": "Rates stay elevated while real wages are compressed by oil-driven inflation. The squeeze is simultaneous: borrowing costs stay high and purchasing power falls. Lower-income households with less fixed-rate debt exposure feel this fastest.",
+        "when": "Immediate and ongoing as long as rates remain at 3.5-3.75%."
+      },
+      {
+        "who": "Small businesses that can't access bond markets",
+        "how": "They borrow from banks at floating rates tied to the Fed funds rate. Every quarter without a cut extends the period of elevated funding costs. Margins compressed by tariff-driven input cost increases are further squeezed by financing costs.",
+        "when": "Ongoing; worsens if the easing bias is removed by Warsh."
+      },
+      {
+        "who": "Kevin Warsh",
+        "how": "He inherits an institution in open internal conflict, with a predecessor who is staying on specifically to be a public counterweight, in the middle of a supply shock where the right policy is genuinely uncertain. Getting this wrong makes him the face of a stagflation episode or a recession.",
+        "when": "Begins mid-May."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Oil Embeds",
+        "whatHappens": "Iran war extends past July, oil stays above $95, services inflation re-accelerates. Warsh removes the easing bias in his first meeting. Markets re-price for no cuts in 2026. Recession odds climb past 50%.",
+        "signal": "June CPI print above 4.5% year-over-year; Warsh's first statement drops the easing language."
+      },
+      {
+        "name": "Warsh Cuts Early",
+        "whatHappens": "Under administration pressure and with a weakening labor market, Warsh cuts in July over hawkish dissent. Dollar weakens, bond market re-prices, and the credibility of Fed independence as a concept takes a lasting hit.",
+        "signal": "Trump posts explicitly about needing lower rates; Warsh's first press conference signals openness to 'data-dependent' path that includes cuts."
+      },
+      {
+        "name": "Soft Landing Holds",
+        "whatHappens": "Iran war ends or oil retreats below $80. Inflation cools, labor market stabilizes, Warsh cuts twice in Q4. The four-dissent meeting becomes a footnote.",
+        "signal": "Strait of Hormuz reopens; WTI crude falls below $80 and stays there for four weeks."
+      }
+    ],
+    "whatWouldChange": "If June or July inflation data comes in at or below 3.5% and oil retreats, the three hawkish dissenters look wrong and the Powell easing bias looks prescient. That is the clearest evidence the bottom line here is wrong.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Jerome Powell depart as Fed Chair by May 16 2026?",
+        "url": "https://polymarket.com/event/jerome-powell-departs-as-fed-chair-by",
+        "probability": 0.835
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Kevin Warsh be confirmed as Fed Chair?",
+        "url": "https://polymarket.com/event/who-will-be-confirmed-as-fed-chair",
+        "probability": 0.9965
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Trump try to fire Powell as Fed Board Member by June 30, 2026?",
+        "url": "https://polymarket.com/event/will-trump-try-to-fire-powell-as-fed-board-member-by",
+        "probability": 0.11
+      }
+    ]
+  }
+}

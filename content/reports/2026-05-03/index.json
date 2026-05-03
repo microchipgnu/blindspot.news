@@ -1,6 +1,6 @@
 {
   "date": "2026-05-03",
-  "generatedAt": "2026-05-03T08:00:00Z",
+  "generatedAt": "2026-05-03T12:40:00Z",
   "reports": [
     {
       "id": "pentagon-ai-classified-deals",
@@ -36,6 +36,30 @@
       "id": "trump-xi-summit-taiwan",
       "title": "Trump Flies to Beijing. China Says Taiwan Is the Price of Admission.",
       "subtitle": "Two weeks before the Trump-Xi summit, China's foreign minister told Rubio that Taiwan is the 'biggest risk' in the relationship — and the US side has not publicly disagreed.",
+      "category": "conflict"
+    },
+    {
+      "id": "trump-nato-troop-withdrawal",
+      "title": "Trump Pulls Troops From Germany. Spain and Italy Are Next.",
+      "subtitle": "The withdrawal isn't about defense posture. It's punishment for not joining the Iran war, and every NATO ally knows it.",
+      "category": "power"
+    },
+    {
+      "id": "fed-fomc-dissent-stagflation",
+      "title": "Four Fed Officials Broke With Powell at His Last Meeting. That's the Story.",
+      "subtitle": "The biggest FOMC dissent since 1992 wasn't about rates. It was about whether the Fed can still pretend the next move is obviously a cut.",
+      "category": "decision"
+    },
+    {
+      "id": "meta-new-mexico-child-safety",
+      "title": "Meta Threatens to Shut Down in New Mexico Rather Than Protect Kids",
+      "subtitle": "The trial starting Monday isn't about a fine. It's about whether a state court can order structural changes to a platform used by 2 billion people.",
+      "category": "power"
+    },
+    {
+      "id": "ukraine-russia-territory-shift",
+      "title": "Russia Lost Ground in April. Ukraine Is Striking Oil Refineries 1,600 Kilometers Deep.",
+      "subtitle": "For the first time since Ukraine's Kursk incursion, Russia suffered a net territorial loss in a single month. Whether it matters depends on why it happened.",
       "category": "conflict"
     }
   ]

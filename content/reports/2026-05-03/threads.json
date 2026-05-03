@@ -47,6 +47,44 @@
           "relationship": "Breaching the Turnberry Agreement's 15% ceiling on EU goods — which includes semiconductors and AI chips — destabilizes the transatlantic technology supply chain that underpins the classified AI capabilities the Pentagon just contracted with Google, Microsoft, and Nvidia to deploy."
         }
       ]
+    },
+    {
+      "id": "iran-war-cascades-europe",
+      "title": "The Iran War Is Dismantling NATO From the Inside",
+      "description": "Three stories today that appear to be about different geographies are actually the same rupture viewed from different angles. Trump's troop withdrawal from Germany is retaliation for European refusal to back the Iran war. Ukraine's unexpected territorial gains are partly attributable to Russia's resources being consumed by watching the Iran conflict. And the Fed's four-way dissent is driven largely by the Iran war's oil shock creating the stagflation dilemma the dissenters warned about. The Iran war didn't just start a conflict in the Gulf; it reorganized every other major relationship in the global order simultaneously.",
+      "type": "cause-effect",
+      "stories": ["trump-nato-troop-withdrawal", "ukraine-russia-territory-shift", "fed-fomc-dissent-stagflation"],
+      "connections": [
+        {
+          "from": "trump-nato-troop-withdrawal",
+          "to": "ukraine-russia-territory-shift",
+          "relationship": "Trump pulling troops from Germany in response to European criticism of the Iran war strategy is being watched by Russia as a signal that Western commitment to Ukraine is fracturing; the WSJ reporting that Trump is redirecting troops toward Iran-supportive allies confirms the Iran war is now the organizing principle of US force posture globally."
+        },
+        {
+          "from": "ukraine-russia-territory-shift",
+          "to": "fed-fomc-dissent-stagflation",
+          "relationship": "Ukraine's deep strikes on Russian oil refineries are degrading Russian export capacity, but the broader Iran-driven oil shock is the direct cause of the Fed dissenters' inflation concerns — the two energy disruptions are compounding and neither the Ukrainian campaign nor the Iranian ceasefire is resolving quickly."
+        }
+      ]
+    },
+    {
+      "id": "who-can-make-you-comply",
+      "title": "Four Stories About Whether Any Institution Can Still Compel Compliance",
+      "description": "A Fed chair who can't keep his committee unified, a NATO alliance whose security guarantees are conditional on supporting an unpopular war, a tech company that threatens to leave a state rather than follow a court order, and an administration that openly defies 31 court rulings. These are all the same question: what happens when a powerful actor decides the cost of compliance is higher than the cost of resistance? The answer used to be enforced by institutions with legitimate coercive authority. That authority is now being tested simultaneously in four different domains.",
+      "type": "tension-cluster",
+      "stories": ["fed-fomc-dissent-stagflation", "trump-nato-troop-withdrawal", "meta-new-mexico-child-safety", "trump-defies-courts"],
+      "connections": [
+        {
+          "from": "trump-defies-courts",
+          "to": "meta-new-mexico-child-safety",
+          "relationship": "The administration's 31 court defiance cases establish a precedent that court orders are negotiable when the defendant has sufficient power; Meta's threat to leave New Mexico rather than comply follows the same logic, and neither has been successfully sanctioned."
+        },
+        {
+          "from": "trump-nato-troop-withdrawal",
+          "to": "fed-fomc-dissent-stagflation",
+          "relationship": "Trump's use of troop presence as a compliance incentive for NATO allies is structurally parallel to his pressure on the Fed to cut rates: in both cases, an institution's independence is being tested by whether it can resist a powerful actor willing to impose real costs for non-compliance."
+        }
+      ]
     }
   ]
 }

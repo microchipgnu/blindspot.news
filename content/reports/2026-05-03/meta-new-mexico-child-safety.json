@@ -1,0 +1,94 @@
+{
+  "id": "meta-new-mexico-child-safety",
+  "date": "2026-05-03",
+  "generatedAt": "2026-05-03T12:36:00Z",
+  "title": "Meta Threatens to Shut Down in New Mexico Rather Than Protect Kids",
+  "subtitle": "The trial starting Monday isn't about a fine. It's about whether a state court can order structural changes to a platform used by 2 billion people.",
+  "topic": "society",
+  "category": "power",
+  "tags": ["Meta", "Facebook", "Instagram", "child safety", "social media regulation", "New Mexico", "Big Tech"],
+  "coverImage": {
+    "url": "https://petapixel.com/assets/uploads/2026/05/meta-apps-new-mexico.jpg",
+    "local": "/images/reports/2026-05-03/meta-new-mexico-child-safety.jpg",
+    "credit": "PetaPixel"
+  },
+  "sources": [
+    {
+      "url": "https://apnews.com/article/meta-new-mexico-trial-facebook-instagram-9b3d0594dcf48495469d7441c17e2e10",
+      "publisher": "AP News",
+      "angle": "Core facts of the bench trial: already $375 million in civil penalties from Phase 1, Phase 2 asks judge to order structural changes to child accounts including 99% age verification accuracy, default privacy settings, and restrictions on addictive features."
+    },
+    {
+      "url": "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety",
+      "publisher": "The Verge",
+      "angle": "Stakes framing: the $375 million was just the opening act. If the judge finds public nuisance and orders operational changes, it sets a template other states can copy and potentially forces platform-level changes globally."
+    },
+    {
+      "url": "https://sourcenm.com/2026/04/30/meta-says-it-could-withdraw-facebook-and-instagram-from-new-mexico-pending-bench-trials-outcome/",
+      "publisher": "Source New Mexico",
+      "angle": "Local angle: AG Raul Torrez dismisses the shutdown threat as a 'PR stunt'; Meta also argues New Mexico has no authority to regulate platforms whose terms of service govern millions of users and that state-level changes would require building entirely separate apps."
+    },
+    {
+      "url": "https://bnctimes.com/meta-threatens-shutdown-in-new-mexico-if-judge-orders-impractical-kids-protections/",
+      "publisher": "BNC Times",
+      "angle": "Meta's exact legal argument: 99% age verification accuracy is technically impossible; the company claims being singled out while hundreds of other apps have similar features."
+    }
+  ],
+  "brief": {
+    "actors": ["Meta", "Zuckerberg", "Torrez", "New Mexico"],
+    "whatHappened": "A bench trial begins Monday in Santa Fe in the second phase of New Mexico's child safety case against Meta. In Phase 1, a jury found Meta had knowingly harmed children's mental health and concealed its knowledge of child sexual exploitation on its platforms, resulting in $375 million in civil penalties. Phase 2 asks a judge, not a jury, to order structural changes to how Meta operates: 99% accuracy in verifying child user ages, default privacy restrictions on children's accounts, and limits on algorithmically addictive features. In filings unsealed Thursday, Meta warned it may shut down Facebook, Instagram, and WhatsApp in New Mexico entirely rather than comply, calling the requirements 'impossible.' New Mexico Attorney General Raul Torrez called the threat a 'PR stunt' and noted that Meta has bent its rules for authoritarian governments when market access was at stake.",
+    "bottomLine": "Meta is doing the tobacco playbook: deny, delay, threaten to leave, and bet that the threat of losing the platform is scarier to users than the harm the platform causes to children.",
+    "hiddenBets": [
+      {
+        "assumption": "Meta would actually shut down in New Mexico. The threat is credible.",
+        "whyItMightBeWrong": "Two million users represent a fraction of Meta's global base, but the reputational cost of pulling out of a US state over a child safety ruling would be catastrophic globally. The AG's framing, that Meta bends its rules for dictators but not for kids, is devastating precisely because it's documented. Meta threatening to leave is a negotiating position, not a real option."
+      },
+      {
+        "assumption": "This is a New Mexico problem and the ruling won't travel.",
+        "whyItMightBeWrong": "The Verge's reporting makes this clear: if Judge Bryan Biedscheid finds Meta constitutes a public nuisance and orders operational changes, he creates a template. Every other state AG is watching. The $375 million penalty already showed that public nuisance law applies to platforms; structural remedies would be the bigger prize."
+      },
+      {
+        "assumption": "Meta's free speech defense will limit what the judge can order.",
+        "whyItMightBeWrong": "The case is grounded in public nuisance under New Mexico law, not content regulation. Age verification and default privacy settings are not speech restrictions. The First Amendment arguments Meta will raise were designed for a different era of platform regulation and have not held up consistently in recent federal courts."
+      }
+    ],
+    "realDisagreement": "The actual fork is between two different theories of what platforms are. In Meta's theory, Instagram is a communications medium that users choose to use and misuse; the harm is downstream of individual choices. In New Mexico's theory, Instagram is an engineered environment designed to maximize adolescent engagement by exploiting developmental vulnerabilities; the harm is upstream, built into the product architecture. Both theories have supporting evidence. The question is which one courts adopt as the default frame, because it determines whether the remedy is education and user controls or structural platform redesign. The lean here is toward New Mexico: the internal Meta documents produced in earlier litigation showed the company knew about harm, measured it, and chose growth anyway. That's not a platform responding to user behavior; that's an engineering decision with documented consequences."
+    ,
+    "whatNoOneIsSaying": "Meta has already quietly implemented many of the changes being sought in other markets. Instagram has a Teen Accounts feature in Europe with tighter defaults, age verification pilots, and screen time limits that are far more restrictive than what US children get. The company is not fighting because the changes are technically impossible. It is fighting to not be required to give American children the same protections it already provides to Europeans.",
+    "whoPays": [
+      {
+        "who": "Adolescent users on Instagram and Facebook in the US",
+        "how": "Every year this case stays in litigation is a year that the US version of Instagram runs more permissive defaults than the European version. The product difference is documented and intentional.",
+        "when": "Ongoing while litigation proceeds; Phase 2 verdict expected weeks to months after trial."
+      },
+      {
+        "who": "New Mexico residents broadly",
+        "how": "If Meta actually followed through on the shutdown threat, 2.1 million people would lose access to primary communications, small business marketing, and community organizing tools they depend on. The threat is real even if the execution is not.",
+        "when": "Only if judge orders compliance Meta deems 'impossible,' which would trigger an injunction appeal cycle lasting months."
+      },
+      {
+        "who": "Other state AGs who have filed similar cases",
+        "how": "If New Mexico loses Phase 2 or the judge's remedy is narrow, 40-plus similar state cases have a weaker template. If New Mexico wins structural relief, those cases accelerate.",
+        "when": "Verdict in weeks to months; downstream effect on other states 6-18 months."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Narrow Win",
+        "whatHappens": "Judge orders limited changes: stricter default privacy settings and enhanced CSAM monitoring, but not the 99% age verification. Meta complies, frames it as a minor adjustment, and the template for other states is weaker than advocates hoped.",
+        "signal": "Judge's ruling focuses on process failures rather than product architecture; Meta issues a statement calling it 'consistent with our existing safety investments.'"
+      },
+      {
+        "name": "Structural Remedy",
+        "whatHappens": "Judge orders operational changes to child accounts that Meta can only implement platform-wide. Meta appeals, but other states use the ruling to accelerate their cases. Federal child safety legislation, stalled for years, gains new momentum as the regulatory floor rises.",
+        "signal": "AG Torrez press conference celebrating 'historic' ruling; Meta files immediate stay pending appeal."
+      },
+      {
+        "name": "Meta Walks",
+        "whatHappens": "Judge orders something close to the 99% age verification requirement. Meta appeals and shuts down services in New Mexico pending appeal, creating enormous political pressure on the judge to narrow the order. Congress intervenes with federal preemption legislation, cutting off state litigation.",
+        "signal": "Meta files notice of intent to suspend New Mexico services; Republican members of Congress introduce federal preemption bill."
+      }
+    ],
+    "whatWouldChange": "If the judge's ruling focuses solely on content moderation failures and avoids the architectural design claims, the bottom line is wrong: this is about process, not product. The case becomes a compliance audit, not a structural intervention."
+  }
+}
