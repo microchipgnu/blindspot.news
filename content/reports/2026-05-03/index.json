@@ -1,0 +1,42 @@
+{
+  "date": "2026-05-03",
+  "generatedAt": "2026-05-03T08:00:00Z",
+  "reports": [
+    {
+      "id": "pentagon-ai-classified-deals",
+      "title": "The Pentagon Chose Its AI Partners. Anthropic Said No.",
+      "subtitle": "Eight tech companies signed classified AI deals with the Defense Department. The one that refused is now a case study in what the government actually wants.",
+      "category": "power"
+    },
+    {
+      "id": "trump-defies-courts",
+      "title": "The Administration That Doesn't Follow Court Orders",
+      "subtitle": "An AP review documents an unprecedented pattern: Trump officials defying lower court rulings not as exceptions but as policy.",
+      "category": "power"
+    },
+    {
+      "id": "scotus-voting-rights-redistricting",
+      "title": "SCOTUS Guts the Voting Rights Act. Again.",
+      "subtitle": "A 6-3 ruling in the Louisiana redistricting case didn't kill Section 2 — it made compliance with Section 2 an unconstitutional act.",
+      "category": "power"
+    },
+    {
+      "id": "iran-war-deal-rejected",
+      "title": "Iran Offered a Deal. Trump Said No. The Blockade Continues.",
+      "subtitle": "Day 64 of the US-Iran war: a ceasefire holds in name while both sides blockade the world's most critical shipping strait and reject each other's terms.",
+      "category": "conflict"
+    },
+    {
+      "id": "trump-eu-auto-tariff",
+      "title": "Trump Tears Up the Turnberry Agreement",
+      "subtitle": "Raising EU auto tariffs to 25% doesn't just hit cars. It breaches a deal that also covers semiconductors, AI chips, and digital trade — the things the US most needs from Europe right now.",
+      "category": "power"
+    },
+    {
+      "id": "trump-xi-summit-taiwan",
+      "title": "Trump Flies to Beijing. China Says Taiwan Is the Price of Admission.",
+      "subtitle": "Two weeks before the Trump-Xi summit, China's foreign minister told Rubio that Taiwan is the 'biggest risk' in the relationship — and the US side has not publicly disagreed.",
+      "category": "conflict"
+    }
+  ]
+}

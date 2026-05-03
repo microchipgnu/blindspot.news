@@ -1,0 +1,95 @@
+{
+  "id": "scotus-voting-rights-redistricting",
+  "date": "2026-05-03",
+  "generatedAt": "2026-05-03T08:00:00Z",
+  "title": "SCOTUS Guts the Voting Rights Act. Again.",
+  "subtitle": "A 6-3 ruling in the Louisiana redistricting case didn't kill Section 2 — it made compliance with Section 2 an unconstitutional act.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["SCOTUS", "Voting Rights Act", "redistricting", "gerrymandering", "race", "elections", "Louisiana"],
+  "coverImage": {
+    "url": "https://www.ap.org/wp-content/uploads/2026/04/Supreme_Court_26097645724219.jpg",
+    "local": "/images/reports/2026-05-03/scotus-voting-rights-redistricting.jpg",
+    "credit": "AP Photo"
+  },
+  "sources": [
+    {
+      "url": "https://www.supremecourt.gov/opinions/25pdf/24-109_21o3.pdf",
+      "publisher": "Supreme Court of the United States",
+      "angle": "The actual ruling: Louisiana's 2024 majority-Black district, drawn to comply with Section 2 of the VRA, was struck down as an unconstitutional racial gerrymander under the Equal Protection Clause"
+    },
+    {
+      "url": "https://www.npr.org/2026/04/29/nx-s1-5754657/supreme-court-louisiana-redistricting",
+      "publisher": "NPR",
+      "angle": "Explains the doctrinal trap the court created: states must comply with Section 2 but cannot use race to do so, leaving no compliant path"
+    },
+    {
+      "url": "https://www.ap.org/news-highlights/elections/2026/supreme-court-weakens-the-voting-rights-act-and-aids-gop-efforts-to-control-the-house/",
+      "publisher": "AP",
+      "angle": "Electoral consequence framing: the ruling opens states controlled by Republicans to redraw minority districts, potentially shifting House control"
+    },
+    {
+      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-limits-use-race-redistricting-win-republicans-rcna245856",
+      "publisher": "NBC News",
+      "angle": "Justice Alito's majority opinion: states can 'almost never' consider race when drawing maps to comply with Section 2 — language that operationally eliminates the mechanism Section 2 requires"
+    }
+  ],
+  "brief": {
+    "actors": ["SCOTUS", "DOJ", "Louisiana", "Republicans", "Democrats"],
+    "whatHappened": "On April 29, 2026, the Supreme Court ruled 6-3 along ideological lines that Louisiana's 2024 congressional map, which created a second majority-Black district in compliance with a prior court order under Section 2 of the Voting Rights Act, was itself an unconstitutional racial gerrymander. Justice Alito's majority opinion held that states can 'almost never' use race as a factor when drawing maps to comply with Section 2. The DOJ announced it would enforce the ruling nationwide, meaning all states with districts drawn to comply with Section 2 must now redraw them. Legal experts say the ruling creates an impossibility: states are required to comply with Section 2 but prohibited from using the only mechanism by which compliance was achievable.",
+    "bottomLine": "The court didn't repeal the Voting Rights Act. It made compliance with the Voting Rights Act illegal.",
+    "hiddenBets": [
+      {
+        "assumption": "Section 2 of the Voting Rights Act still provides meaningful protection for minority voters.",
+        "whyItMightBeWrong": "The ruling tells states they cannot consider race when drawing remedial districts, but without considering race, there is no way to create districts that give minority communities political representation. The right technically exists; the mechanism for exercising it does not."
+      },
+      {
+        "assumption": "The ruling's primary beneficiary is the Republican Party.",
+        "whyItMightBeWrong": "This is probably true in the near term, but the ruling's logic applies symmetrically. Any future Democratic-drawn map that happens to concentrate minority voters could also be challenged as a racial gerrymander, even if race was not the predominant factor. The legal uncertainty cuts both ways over time."
+      },
+      {
+        "assumption": "Congressional action could restore the Voting Rights Act.",
+        "whyItMightBeWrong": "The Voting Rights Act was last meaningfully strengthened when both the Senate and House had bipartisan coalitions willing to act on it. That coalition does not exist now and shows no sign of forming. Restoration requires a supermajority in the Senate. That is not going to happen in the current political configuration."
+      }
+    ],
+    "realDisagreement": "The actual fork is between two views on what the Equal Protection Clause requires. The majority holds that the Constitution is colorblind: government cannot classify people by race to give them political power, even to remedy past discrimination. The dissent holds that the Constitution is color-conscious in the specific context of remedying documented racial discrimination in voting: ignoring race when redressing race-based harm is not neutrality, it is perpetuation. Both positions have decades of case law supporting them. The majority is now in control and the dissent's position has no institutional mechanism to reassert itself short of a court composition change. I'd note that Alito's 'almost never' language is curious — it implies some cases where race is permissible, but the ruling gives no clear guidance on what those cases are, which means years of additional litigation."
+    ,
+    "whatNoOneIsSaying": "Louisiana spent years and enormous legal resources drawing a second majority-Black district specifically because federal courts told it to. The Supreme Court then struck down that district as unconstitutional. The state complied in good faith with a court order and was punished for it. The implication for any state facing a future Section 2 order is: don't comply, because compliance itself is now legally risky.",
+    "whoPays": [
+      {
+        "who": "Black voters in Louisiana's 6th Congressional District",
+        "how": "Cleo Fields, the district's current representative, may lose his seat when the map is redrawn. The district linking Shreveport, Alexandria, and Lafayette was drawn specifically to give the region's Black communities a congressional voice — that map is now gone.",
+        "when": "By the 2028 election cycle, when redrawn maps take effect"
+      },
+      {
+        "who": "Minority voters in every other state with Section 2 compliant districts",
+        "how": "The DOJ's announcement to enforce the ruling nationwide means states can immediately challenge existing minority districts. The litigation wave will be expensive and the outcomes uncertain, but the direction of pressure is toward reducing minority representation.",
+        "when": "Medium-term, over the next 2-4 years of redistricting cycles"
+      },
+      {
+        "who": "House Democrats",
+        "how": "Several currently competitive House seats held by Democrats depend on majority-minority districts that are now legally vulnerable. Republicans can challenge these maps directly under the new precedent.",
+        "when": "Potentially before 2028 midterms if redistricting litigation moves quickly"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Mass Redistricting Wave",
+        "whatHappens": "Republican-controlled states immediately initiate challenges to existing majority-minority districts. Courts, bound by the new precedent, strike down several. House Democrats lose 3-5 seats in the 2028 cycle, cementing Republican control.",
+        "signal": "Watch for redistricting lawsuits filed in Georgia, Alabama, North Carolina, and Texas within the next 60 days."
+      },
+      {
+        "name": "Litigation Paralysis",
+        "whatHappens": "The 'almost never' language generates extensive litigation over what constitutes a permissible racial consideration. Courts disagree. The Supreme Court is forced to take up additional cases to clarify. Maps are frozen under preliminary injunctions for years.",
+        "signal": "Watch for conflicting lower court rulings in different circuits applying the ruling's standard differently."
+      },
+      {
+        "name": "Legislative Response",
+        "whatHappens": "Several Democratic-controlled states pass state-level voting rights laws that provide parallel protection through state constitutions, insulating some minority districts from federal Equal Protection challenges.",
+        "signal": "Watch for California, New York, or Illinois introducing state legislation explicitly protecting minority representation under state constitutional grounds."
+      }
+    ],
+    "whatWouldChange": "A court composition change — particularly replacing one of the six conservative justices with a liberal — would not immediately overturn this ruling but would shift the likelihood of future cases that might narrow or distinguish it. Short of that: a new Congress with a Democratic supermajority passing legislation that explicitly defines race-conscious remedial redistricting as permissible under Section 2 would create a new legal framework to test. Neither seems plausible in the near term.",
+    "markets": []
+  }
+}

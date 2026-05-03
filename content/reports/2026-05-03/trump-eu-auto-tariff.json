@@ -1,0 +1,94 @@
+{
+  "id": "trump-eu-auto-tariff",
+  "date": "2026-05-03",
+  "generatedAt": "2026-05-03T08:00:00Z",
+  "title": "Trump Tears Up the Turnberry Agreement",
+  "subtitle": "Raising EU auto tariffs to 25% doesn't just hit cars. It breaches a deal that also covers semiconductors, AI chips, and digital trade — the things the US most needs from Europe right now.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Trump", "EU", "tariffs", "Turnberry Agreement", "trade", "semiconductors", "autos"],
+  "coverImage": {
+    "url": "https://image.cnbcfm.com/api/v1/image/108300261-1777577305300-gettyimages-2273916502-ah800696_fyny3upl.jpeg?v=1777577349&w=1920&h=1080",
+    "local": "/images/reports/2026-05-03/trump-eu-auto-tariff.jpg",
+    "credit": "CNBC / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/05/01/trump-eu-auto-tariffs.html",
+      "publisher": "CNBC",
+      "angle": "Trump announced the 25% EU auto tariff increase via Truth Social, invoking Section 232 authority; the Supreme Court struck down his 'reciprocal' tariffs earlier this year, forcing a new legal mechanism"
+    },
+    {
+      "url": "https://thenextweb.com/news/trump-eu-auto-tariff-turnberry-deal",
+      "publisher": "The Next Web",
+      "angle": "The structural problem: the Turnberry Agreement of July 2025, signed at Trump's Scottish golf resort, set a 15% tariff ceiling across all EU goods INCLUDING semiconductors, AI chips, and digital trade — raising auto tariffs above 15% violates that agreement's terms and undermines the entire transatlantic tech trade framework"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-05-01/trump-says-us-to-raise-tariff-rate-on-eu-cars-trucks-to-25",
+      "publisher": "Bloomberg",
+      "angle": "Accuses EU of non-compliance with the deal; Europe warns the entire Turnberry Agreement could collapse if the US unilaterally raises rates beyond the agreed ceiling"
+    },
+    {
+      "url": "https://foreignpolicy.com/2026/05/01/trump-tariffs-ustr-iran-plan-b/",
+      "publisher": "Foreign Policy",
+      "angle": "The USTR's Section 301 case as Trump's plan B after SCOTUS struck down Liberation Day tariffs; the legal foundation is described as 'neither coherent nor defensible'"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "EU", "USTR", "SCOTUS", "Germany"],
+    "whatHappened": "President Trump announced via Truth Social on May 1 that he would raise tariffs on EU cars and trucks to 25%, citing EU non-compliance with 'our fully agreed to Trade Deal.' The announcement invokes Section 232 authority after the Supreme Court struck down Trump's broader 'reciprocal' tariffs earlier in 2026. The Turnberry Agreement, signed at Trump's Scottish golf resort in July 2025, set a 15% ceiling on EU goods entering the US, including cars, semiconductors, pharmaceuticals, and digital services. In exchange, the EU agreed to eliminate tariffs on US industrial goods and commit to $750 billion in American energy purchases. Legal analysts say raising auto tariffs to 25% unilaterally violates that agreement's ceiling and establishes a precedent that could unravel the semiconductor and AI chip provisions that matter most to US tech companies operating in Europe. Germany, whose auto industry faces nearly $18 billion in output losses according to one institute, is the most exposed.",
+    "bottomLine": "Trump is using EU auto tariffs as a hammer, but the handle of the hammer is the semiconductor and digital trade framework that US tech companies depend on — and it's starting to crack.",
+    "hiddenBets": [
+      {
+        "assumption": "The Turnberry Agreement covers auto tariffs separately from semiconductors, so breaching the auto ceiling doesn't threaten the tech trade provisions.",
+        "whyItMightBeWrong": "The Next Web's analysis is explicit: the Turnberry Agreement set a single 15% ceiling across all EU goods, not separate ceilings by category. Trump's willingness to exceed it on autos establishes that he views the agreement as non-binding when politically convenient. EU negotiators now have no basis to assume the semiconductor provisions are safe."
+      },
+      {
+        "assumption": "Europe will retaliate with counter-tariffs that force a negotiated settlement.",
+        "whyItMightBeWrong": "Europe warned that retaliation could collapse the entire Turnberry Agreement, which means it would also lose the $750 billion in energy commitments and the eliminated EU tariffs on US industrial goods. Retaliation is structurally damaging to Europe too. The EU may be more constrained than the US in escalating."
+      },
+      {
+        "assumption": "Trump's claim that the EU violated the deal provides legal cover under Section 232.",
+        "whyItMightBeWrong": "Foreign Policy's analysis says the Section 301 case the USTR is building is 'neither coherent nor defensible.' After SCOTUS struck down the Liberation Day tariffs, the administration is searching for legal hooks, but each one is thinner than the last. A court challenge to the 25% auto tariff could succeed — though the timeline of trade litigation means economic damage occurs regardless."
+      }
+    ],
+    "realDisagreement": "The real fork is whether this is a negotiating tactic with defined endpoints or a structural break in the transatlantic trade relationship. If it's a tactic, Trump is creating pressure to extract new concessions — maybe EU purchases of US LNG, maybe concessions on digital services taxes — and a deal will emerge before the tariffs fully take effect. If it's structural, the US and EU are in a managed economic decoupling that will accelerate as Europe diversifies supply chains away from US-dependent tech. The administration's behavior since the Liberation Day tariffs suggests the latter: the SCOTUS striking down of those tariffs didn't change the underlying preference for tariffs, it just changed the legal mechanism. I lean toward this being partly structural, which means the semiconductor trade framework is genuinely at risk even if neither side intends to destroy it.",
+    "whatNoOneIsSaying": "The US needs European chip manufacturing capacity — ASML in the Netherlands holds a monopoly on extreme ultraviolet lithography machines that nothing in the US supply chain can replace. Pushing the EU to the point where it considers restricting ASML exports to the US would do more damage to American semiconductor strategy than any Chinese action. The EU has not used this leverage publicly, but it exists.",
+    "whoPays": [
+      {
+        "who": "German auto industry and workers",
+        "how": "Germany exports approximately $25 billion in vehicles to the US annually. A 25% tariff makes German cars significantly less price-competitive against domestically produced vehicles. One German institute estimates $17.8 billion in output losses.",
+        "when": "Near-term, as soon as tariffs take effect next week"
+      },
+      {
+        "who": "US consumers buying imported European vehicles",
+        "how": "The tariff passes through to sticker prices. European luxury vehicles and mid-range brands like Volkswagen become meaningfully more expensive. Consumers either pay more or shift to domestic vehicles, reducing product choice.",
+        "when": "Immediate, upon tariff implementation"
+      },
+      {
+        "who": "US tech companies reliant on transatlantic semiconductor and digital trade",
+        "how": "If the Turnberry Agreement's semiconductor provisions collapse, the US tech sector loses the framework that governs EU market access for cloud services, AI tools, and chip imports. Regulatory and tariff uncertainty in that sector has outsized effects on capital allocation for datacenter build-outs.",
+        "when": "Medium-term, over 6-18 months of renegotiation uncertainty"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Tactical Pressure Succeeds",
+        "whatHappens": "The EU makes concessions — additional LNG purchases, withdrawal of digital services taxes on US tech firms, or new investment commitments — and Trump withdraws or suspends the 25% auto tariff before it causes lasting damage. The Turnberry Agreement is renegotiated at a slightly higher ceiling.",
+        "signal": "Watch for EU Commission President to request emergency talks with the USTR before the tariff takes effect. A meeting within 10 days suggests the EU is treating this as negotiable."
+      },
+      {
+        "name": "Retaliatory Spiral",
+        "whatHappens": "The EU responds with targeted counter-tariffs on US goods, particularly agriculture and industrial products. Both sides escalate. The Turnberry Agreement collapses. Transatlantic trade enters a new adversarial phase that persists beyond this administration.",
+        "signal": "Watch for the EU to convene an emergency trade meeting and publish a list of US goods subject to retaliatory tariffs. That signals they have decided the cost of capitulation exceeds the cost of retaliation."
+      },
+      {
+        "name": "SCOTUS Intervenes Again",
+        "whatHappens": "The Section 232 legal basis for the 25% auto tariff is challenged in court. Given the Supreme Court's earlier strike-down of the reciprocal tariffs, the legal environment is hostile to expansive executive trade authority. The tariff is enjoined pending appeal, buying time for negotiation.",
+        "signal": "Watch for a major auto industry trade association or individual automaker to file an emergency injunction challenge within days of the tariff taking effect."
+      }
+    ],
+    "whatWouldChange": "If the administration provides a specific, documented account of how the EU violated the Turnberry Agreement — not a vague 'non-compliance' claim — the negotiating posture would be defensible and the EU would have a clear path to compliance. Also: if the EU makes a significant concession on LNG or digital taxes before the tariff takes effect, the bottom line on structural break becomes less certain.",
+    "markets": []
+  }
+}

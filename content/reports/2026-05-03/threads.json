@@ -1,0 +1,52 @@
+{
+  "date": "2026-05-03",
+  "threads": [
+    {
+      "id": "dismantling-every-constraint",
+      "title": "Three Constraints Removed in One News Cycle",
+      "description": "Today's three domestic political stories are not separately about courts, voting rights, and war powers. They are the same story: in the span of this week, the executive branch has neutralized judicial enforcement (through systematic court defiance), legislative authorization (by declaring the Iran war 'terminated' to avoid the War Powers deadline), and minority electoral power (through the SCOTUS VRA ruling that makes compliance with the law illegal). Each story is covered as a discrete legal dispute. Viewed together, they represent a coordinated reduction of every institutional constraint on executive action.",
+      "type": "tension-cluster",
+      "stories": ["trump-defies-courts", "scotus-voting-rights-redistricting", "iran-war-deal-rejected"],
+      "connections": [
+        {
+          "from": "trump-defies-courts",
+          "to": "scotus-voting-rights-redistricting",
+          "relationship": "The administration's pattern of treating court orders as non-binding normalizes the SCOTUS VRA ruling's practical effect: both remove the enforcement mechanism that makes federal law mean something at the state level."
+        },
+        {
+          "from": "iran-war-deal-rejected",
+          "to": "trump-defies-courts",
+          "relationship": "Trump's declaration that the Iran war has 'terminated' to avoid the War Powers 60-day clock is structurally identical to DOJ officials declaring district court rulings non-binding — in both cases, the administration is unilaterally deciding which legal constraints apply to it."
+        }
+      ]
+    },
+    {
+      "id": "hormuz-as-xi-leverage",
+      "title": "The Iran Blockade Is Also a China Negotiation",
+      "description": "The US-Iran war ceasefire stalemate and the Trump-Xi summit are being reported as separate stories, but they are the same strategic play. The Hormuz dual-blockade locks China out of Persian Gulf energy flows — Fortune's reporting explicitly frames this as the US using the war to box China out of shipping lanes from Panama to Malacca. This means Trump's decision on whether to lift the Hormuz blockade in exchange for Iran's nuclear concessions is simultaneously a decision about how much leverage he has at the May 14 Beijing summit. Every day the blockade continues is a day China has more incentive to make trade concessions. Every Iranian deal Trump accepts is a day China gets its energy access back.",
+      "type": "cause-effect",
+      "stories": ["iran-war-deal-rejected", "trump-xi-summit-taiwan"],
+      "connections": [
+        {
+          "from": "iran-war-deal-rejected",
+          "to": "trump-xi-summit-taiwan",
+          "relationship": "The Hormuz blockade denies China access to Gulf energy, giving Trump economic leverage over Xi at the summit that would disappear if the Iran war ended and the strait reopened before May 14."
+        }
+      ]
+    },
+    {
+      "id": "ai-and-the-alliance-fracture",
+      "title": "The Pentagon's AI Deals Depend on a Trade Framework Trump Just Broke",
+      "description": "The Pentagon's classified AI deals with Google, Microsoft, and Nvidia assume continued access to chips and models developed partly through transatlantic semiconductor supply chains governed by the Turnberry Agreement. Trump's decision to raise EU auto tariffs 25% in breach of that agreement puts the semiconductor and digital trade provisions — which the agreement also covers — at risk. The companies now under classified DoD contract are the same ones dependent on EU market access and chip manufacturing relationships that the Turnberry collapse would disrupt. The military's 'AI-first fighting force' doctrine is built on a supply chain that the tariff policy is actively undermining.",
+      "type": "dependency-web",
+      "stories": ["pentagon-ai-classified-deals", "trump-eu-auto-tariff"],
+      "connections": [
+        {
+          "from": "trump-eu-auto-tariff",
+          "to": "pentagon-ai-classified-deals",
+          "relationship": "Breaching the Turnberry Agreement's 15% ceiling on EU goods — which includes semiconductors and AI chips — destabilizes the transatlantic technology supply chain that underpins the classified AI capabilities the Pentagon just contracted with Google, Microsoft, and Nvidia to deploy."
+        }
+      ]
+    }
+  ]
+}
