@@ -1,0 +1,106 @@
+{
+  "id": "ai-coding-80-percent-labor",
+  "date": "2026-05-03",
+  "generatedAt": "2026-05-03T20:00:00Z",
+  "title": "AI Writes 80% of Code. Now What Happens to the People Who Used to?",
+  "subtitle": "OpenAI's president put a number on something everyone in tech already knew but wasn't saying: the software engineering workforce is being automated faster than any other profession in history.",
+  "topic": "tech",
+  "category": "decision",
+  "tags": ["AI", "OpenAI", "Meta", "Microsoft", "layoffs", "software engineering", "automation", "labor"],
+  "coverImage": {
+    "url": "https://media.thenextweb.com/2026/05/Greg-Brockman.avif",
+    "local": "/images/reports/2026-05-03/ai-coding-80-percent-labor.jpg",
+    "credit": "The Next Web"
+  },
+  "sources": [
+    {
+      "url": "https://thenextweb.com/news/openai-brockman-80-percent-code-ai-productivity-claim",
+      "publisher": "The Next Web",
+      "angle": "Reports the claim and immediately flags that the underlying evidence is contested: productivity researchers find much smaller gains than the headline figure implies."
+    },
+    {
+      "url": "https://www.businessinsider.com/openai-president-ai-now-writing-80-percent-of-code-2026-5",
+      "publisher": "Business Insider",
+      "angle": "Straight reporting of Brockman's Sequoia AI Ascent remarks; frames it as a milestone shift from AI as assistant to AI as primary author."
+    },
+    {
+      "url": "https://www.gettheleverage.com/p/the-middle-gets-eaten",
+      "publisher": "The Leverage",
+      "angle": "Cites Snap firing 1,000 engineers after disclosing 65% AI-generated code, and Sundar Pichai's claim that 75% of new Google code is AI-generated. Notes that aggregate hiring data is more ambiguous than the anecdotes suggest."
+    },
+    {
+      "url": "https://apnews.com/article/microsoft-voluntary-buyouts-ai-224eee4489cbc227244558ff02f5919a",
+      "publisher": "AP News",
+      "angle": "Reports Meta's 8,000-person layoff announcement alongside Microsoft voluntary buyout offers; frames these as the first major wave of AI-driven headcount reductions at top-tier tech firms."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/04/24/20k-job-cuts-at-meta-microsoft-raise-concern-of-ai-labor-crisis-.html",
+      "publisher": "CNBC",
+      "angle": "Questions whether 20,000 combined cuts at Meta and Microsoft signal the start of a structural AI labor crisis, or whether AI spending is also creating new jobs that offset the losses."
+    }
+  ],
+  "brief": {
+    "actors": ["OpenAI", "Meta", "Microsoft", "Snap", "Google"],
+    "whatHappened": "OpenAI president Greg Brockman said at Sequoia Capital's AI Ascent conference on April 30 that AI tools now write approximately 80% of code at companies, up from 20% in a matter of months. The same week, Meta announced it would cut 8,000 employees, roughly 10% of its workforce, with layoffs starting May 20, explicitly linking the reductions to AI efficiency gains and a shift in spending toward AI infrastructure and high-cost AI specialist hires. Microsoft offered voluntary buyouts. Snap separately disclosed in an SEC filing that 65% of its new code is AI-generated, shortly after cutting 1,000 engineers. Google's Sundar Pichai has previously stated that 75% of new Google code is now AI-generated.",
+    "bottomLine": "The industry has spent two years promising that AI would make developers more productive without eliminating them; the headcount numbers from the past 30 days suggest that promise was always a negotiating position, not a plan.",
+    "hiddenBets": [
+      {
+        "assumption": "AI-written code is equivalent to human-written code in quality and maintainability",
+        "whyItMightBeWrong": "The 80% figure measures volume, not correctness. Security researchers are already documenting higher rates of subtle vulnerabilities in AI-generated code. If large codebases become harder to audit and maintain, the efficiency gains reverse over time."
+      },
+      {
+        "assumption": "The jobs being eliminated are being replaced by new AI-adjacent roles that pay equally well",
+        "whyItMightBeWrong": "Meta's layoffs explicitly cancel 6,000 open roles it had planned to fill. The net job count in software engineering is falling, not being reshuffled. The Stanford HAI AI Index found no compensating employment surge in adjacent categories."
+      },
+      {
+        "assumption": "This is a technology story, not a labor story",
+        "whyItMightBeWrong": "Q1 2026 saw 78,557 tech sector layoffs, of which nearly half were attributed to AI automation. That is a labor story with a policy dimension: no regulator, no legislator, and no union has a coherent response to it yet."
+      }
+    ],
+    "realDisagreement": "The real fork is between two positions that both have evidence: either AI is a general-purpose productivity tool that eventually expands the demand for technical work, the way spreadsheets did for accountants, or it is a replacement technology that compresses the labor input for software so completely that the profession shrinks. The productivity camp points to real GDP growth and new categories of AI-adjacent work. The replacement camp points to the headcount numbers: Meta, Snap, and Google are all simultaneously posting record AI-driven revenues and cutting or freezing engineering headcount. The productivity story requires believing the pattern will reverse. That belief has a 24-month clock on it before the job destruction becomes impossible to explain away.",
+    "whatNoOneIsSaying": "Brockman's 80% figure is self-reported by the company that sells the tools doing the writing. No independent audit of the claim exists. Every major AI lab has a financial incentive to assert that AI has already crossed the threshold of primary authorship, because that claim drives enterprise sales. The number may be accurate, or it may be the tech equivalent of a diet supplement claiming its product works. No one in the mainstream press is treating it with the skepticism applied to any other self-serving corporate statistic.",
+    "whoPays": [
+      {
+        "who": "Mid-level software engineers at large tech companies",
+        "how": "Direct layoffs and hiring freezes concentrated in the roles where AI is most productive: writing boilerplate, unit tests, and CRUD applications. Senior engineers managing AI systems are being retained; the people whose job AI has already learned to do are being let go.",
+        "when": "Now. Meta's cuts start May 20. The Q1 pattern will continue in Q2 as more companies complete annual performance reviews."
+      },
+      {
+        "who": "Computer science graduates entering the labor market in 2026-2027",
+        "how": "The entry-level software job pipeline is contracting precisely as enrollment in CS programs peaked. The jobs that used to absorb new graduates, those requiring two to five years of experience to write production code, are being eliminated faster than senior roles, creating a missing rung on the career ladder.",
+        "when": "Over the next 12-18 months, as the class of 2026 tries to find its first jobs in a market that is net-negative for junior roles."
+      },
+      {
+        "who": "Software engineers in lower-cost outsourcing markets",
+        "how": "The companies that justified offshore software development on cost grounds are the first to replace that work with AI, since the ROI calculation is most favorable where human labor was already treated as a cost to minimize.",
+        "when": "Already happening. India and Eastern European outsourcing firms are seeing contract renewals decline and scope reductions on existing contracts."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Productivity plateau",
+        "whatHappens": "AI coding tools hit diminishing returns for complex systems. The 80% figure applies to simple code; systems integration, security architecture, and novel problem-solving remain human-intensive. Tech employment stabilizes at a lower level but does not collapse.",
+        "signal": "AI-generated code defect rates plateau or rise, triggering enterprise customers to keep more human oversight in the loop."
+      },
+      {
+        "name": "Full displacement wave",
+        "whatHappens": "The 80% becomes 95% within 18 months as agentic coding systems handle debugging and architecture. Tech employment contracts by 30-40% industry-wide over three years. Policy response lags by years.",
+        "signal": "Two or more major tech companies announce software engineering headcount cuts exceeding 30% in the same quarter while posting revenue growth."
+      },
+      {
+        "name": "Labor backlash reshapes the market",
+        "whatHappens": "A combination of legislation, enterprise liability fears about AI-generated code, and organized developer resistance slows adoption. Companies discover hidden costs in AI code quality and reverse some cuts. The displacement is real but slower than the current headlines imply.",
+        "signal": "A major security breach attributed to AI-generated code creates legal liability that changes procurement decisions at Fortune 500 companies."
+      }
+    ],
+    "whatWouldChange": "If independent research showed that AI-generated code produces materially worse outcomes on security, maintainability, or novel problem-solving, the productivity case collapses and some layoffs get reversed. Alternatively, if total software industry employment grows in absolute terms over the next 12 months despite these cuts, the productivity camp is right and the replacement narrative is wrong.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Tech Layoffs Up or Down in 2026?",
+        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+        "probability": 0.86
+      }
+    ]
+  }
+}

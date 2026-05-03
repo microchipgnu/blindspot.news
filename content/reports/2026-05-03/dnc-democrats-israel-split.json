@@ -1,0 +1,98 @@
+{
+  "id": "dnc-democrats-israel-split",
+  "date": "2026-05-03",
+  "generatedAt": "2026-05-03T20:45:00Z",
+  "title": "The Democratic Party Has Broken on Israel. The Leadership Is Pretending Otherwise.",
+  "subtitle": "All but 7 Senate Democrats just voted to block weapons sales to Israel. The same week, the DNC blocked a floor vote on a resolution condemning AIPAC. Both facts are true at once.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["Democrats", "DNC", "Israel", "AIPAC", "Senate", "arms sales", "Gaza", "party fracture"],
+  "coverImage": {
+    "url": "https://static.timesofisrael.com/jewishchronicle/uploads/2026/03/53815532728_fac934672b_o-1320x880-1.webp",
+    "local": "/images/reports/2026-05-03/dnc-democrats-israel-split.jpg",
+    "credit": "The Pittsburgh Jewish Chronicle / JTA"
+  },
+  "sources": [
+    {
+      "url": "https://jewishchronicle.timesofisrael.com/in-major-shift-all-but-7-senate-democrats-vote-to-block-weapons-sales-to-israel/",
+      "publisher": "The Pittsburgh Jewish Chronicle / JTA",
+      "angle": "Reports that the Senate vote to block arms sales was the third in three years; this year's was the largest Democratic support ever, with only 7 senators breaking ranks. Fetterman was among the holdouts."
+    },
+    {
+      "url": "https://jewishchronicle.timesofisrael.com/dnc-committee-rejects-resolution-condemning-pro-israel-lobby-aipac-specifically/",
+      "publisher": "The Pittsburgh Jewish Chronicle / JTA",
+      "angle": "Reports the DNC Resolutions Committee rejected the specific AIPAC-naming resolution and advanced a generic 'dark money' resolution instead, framing it as a procedural compromise."
+    },
+    {
+      "url": "https://jewishchronicle.timesofisrael.com/dnc-blocks-resolution-calling-for-recognition-of-palestinian-state-and-halting-arms-sales-to-israel/",
+      "publisher": "The Pittsburgh Jewish Chronicle / JTA",
+      "angle": "Covers the separate DNC meeting panel that blocked the resolution on Palestinian statehood and arms sales; notes a Gen Z DNC member introduced the resolution and it was defeated by the party establishment."
+    },
+    {
+      "url": "https://jewishchronicle.timesofisrael.com/progressive-jewish-groups-back-senate-resolutions-against-arms-sales-to-israel/",
+      "publisher": "The Pittsburgh Jewish Chronicle / JTA",
+      "angle": "Documents the split within Jewish organizations: centrist and right-wing pro-Israel groups oppose the bills while large liberal Jewish organizations backed Sanders' push to block arms sales."
+    },
+    {
+      "url": "https://www.thenation.com/article/politics/ken-martin-dnc-autopsy-pod-save-america/",
+      "publisher": "The Nation",
+      "angle": "Investigative piece arguing that DNC chair Ken Martin is suppressing the party's internal 2024 autopsy and that the Israel debate is part of a larger pattern of the leadership avoiding accountability for Democratic electoral failures."
+    }
+  ],
+  "brief": {
+    "actors": ["Democrats", "DNC", "AIPAC", "Israel", "Sanders"],
+    "whatHappened": "In the week of April 28 through May 3, two separate Democratic Party actions created a visible contradiction. In the Senate, all but 7 Democratic senators voted to block weapons sales to Israel: the largest Democratic support for such a measure in three years of such votes. The resolutions, introduced by Sen. Bernie Sanders, failed because they required a majority vote, but the Democratic shift was the story. Simultaneously at the DNC's annual meeting in New Orleans, the party's Resolutions Committee rejected a resolution specifically condemning AIPAC by name, instead advancing a generic resolution against 'dark money' that avoided naming the pro-Israel lobby. A separate DNC panel also blocked a resolution calling for Palestinian statehood recognition and a halt to arms sales. Both blocking actions came days after the Senate vote where the party's elected legislators moved sharply in the opposite direction.",
+    "bottomLine": "The Senate votes and the DNC votes are measuring two different things: the elected legislators are following their constituents, and the party apparatus is following its donors. The gap between them is now too wide to paper over with procedural maneuvers.",
+    "hiddenBets": [
+      {
+        "assumption": "Blocking the AIPAC resolution reduces the party's internal conflict over Israel",
+        "whyItMightBeWrong": "The blocking maneuver delegitimizes the DNC process in the eyes of the wing that proposed the resolution. The issue does not go away; it becomes evidence that the party leadership suppresses debate, which is a more damaging framing for the 2026 midterm cycle than having the debate."
+      },
+      {
+        "assumption": "The Senate arms vote was a symbolic protest that carries no policy consequences",
+        "whyItMightBeWrong": "The arms sale resolutions failed this time. But the margin of Democratic support is now so large that a future vote, with a slightly different Senate composition, could pass. The incremental shift in each year's vote suggests the policy trajectory is heading toward actual restraints on military aid."
+      },
+      {
+        "assumption": "AIPAC's spending in Democratic primaries will discipline the party's elected officials back into line",
+        "whyItMightBeWrong": "AIPAC has spent heavily in recent Democratic primaries to defeat critics of Israel. But the Senate vote shows its spending is not producing compliance at the legislative level. If AIPAC's primary interventions fail to change how incumbents vote, the investment case for those interventions collapses."
+      }
+    ],
+    "realDisagreement": "The real fork is between two theories of what the Democratic Party is. The first theory holds that the party's positions should track its voters and elected officials, who have moved toward conditioning military aid to Israel. The second theory holds that the party's institutional apparatus, including donor relationships and AIPAC's primary intervention capacity, is a legitimate constraint that elected officials should navigate, not override. The DNC leadership is operating under the second theory. Most of the Senate caucus is now voting under the first. Both cannot simultaneously define what the party stands for in 2026. The midterms will force a resolution.",
+    "whatNoOneIsSaying": "The DNC chair suppressing the 2024 party autopsy, documented by The Nation the same week as the Israel votes, is not a coincidence. The autopsy presumably contains analysis of how Democratic positions on Gaza contributed to 2024 electoral losses. Suppressing the autopsy and suppressing the Israel debate resolutions are the same action: the party leadership is choosing not to examine why it lost, because the answer would require changing positions that its institutional funders have paid to protect.",
+    "whoPays": [
+      {
+        "who": "Young Democratic voters who supported pro-Palestinian candidates in 2024",
+        "how": "The DNC's blocking actions signal that the party's institutional apparatus will not respond to the pressure they applied in 2024. The choice is between staying in a party that does not represent their position on Israel and leaving for third-party or abstention options. Both choices benefit Republicans.",
+        "when": "Now, in the lead-up to 2026 midterm primaries."
+      },
+      {
+        "who": "Democratic incumbents in competitive districts with large Arab-American or Muslim constituencies",
+        "how": "The DNC's Israel position creates a liability for members whose constituencies moved sharply against military aid. They have to choose between the party apparatus and their local base. Members who face primary challenges from the left have less room to maneuver.",
+        "when": "Primary season 2026, beginning this summer."
+      },
+      {
+        "who": "AIPAC itself",
+        "how": "If the progressive wing's reading is correct that AIPAC's primary spending is failing to hold the Senate line, AIPAC's leverage over the Democratic Party weakens. Its value proposition to donors is that it can discipline Democratic politicians; the Senate vote suggests the discipline is breaking down.",
+        "when": "Over the next two election cycles."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Party leadership holds",
+        "whatHappens": "The DNC continues blocking floor votes on Israel and AIPAC. AIPAC defeats enough primary challengers to maintain a blocking minority in the Senate. The party splits persist but do not change US policy on arms sales to Israel.",
+        "signal": "AIPAC-backed candidates win in at least three of their targeted Democratic primaries in summer 2026."
+      },
+      {
+        "name": "Elected officials break from apparatus",
+        "whatHappens": "Senate Democratic leaders stop whipping members to oppose arms sale resolutions. The next Sanders vote passes with more than 50 Democratic votes. The DNC responds by backing primary challengers against the most visible defectors.",
+        "signal": "Senate Democratic leadership publicly declines to call the arms sale vote a party priority, allowing it to proceed without opposition whipping."
+      },
+      {
+        "name": "Issue fuses with 2026 midterm messaging",
+        "whatHappens": "Republican campaigns use the DNC's suppression of the Israel debate as evidence of party dysfunction, targeting swing districts where Jewish donors matter. Democrats cannot cleanly message either pro-Israel or pro-Palestinian positions because both are now contested internally.",
+        "signal": "A Democratic candidate in a competitive district runs an ad explicitly distancing themselves from the DNC on Israel."
+      }
+    ],
+    "whatWouldChange": "If AIPAC's primary interventions achieve a clean sweep in their 2026 targets, it would demonstrate that the donor infrastructure still controls the party's elected officials more than the grassroots does. That would be the strongest evidence the bottom-line judgment here is wrong."
+  }
+}

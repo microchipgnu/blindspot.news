@@ -123,6 +123,44 @@
           "relationship": "The Iran war's oil price shock is one of the direct causes of dollar weakness: energy-importing countries are paying more in dollar-denominated contracts and seeking bilateral settlement alternatives, accelerating the BRICS payment infrastructure that Gulf states are now quietly inquiring about."
         }
       ]
+    },
+    {
+      "id": "china-gray-zone-infrastructure",
+      "title": "China Is Waging War Through Paperwork and Skies",
+      "description": "China blocked Taiwan's president by pressuring African countries to revoke overflight permits and issued a formal legal ban on compliance with US Iran sanctions on the same weekend. Neither action fired a shot. Both changed material facts on the ground: Taiwan's president had to borrow a royal jet to travel, and five Chinese refineries now have domestic legal authority to buy Iranian oil that the US cannot easily penalize. These are not separate incidents of Chinese assertiveness. They are a coordinated doctrine: use legal and administrative infrastructure to deny Western coercive tools their leverage, while maintaining deniability about the intent.",
+      "type": "tension-cluster",
+      "stories": ["taiwan-airspace-blockade-eswatini", "china-blocks-iran-sanctions", "trump-xi-summit-taiwan"],
+      "connections": [
+        {
+          "from": "china-blocks-iran-sanctions",
+          "to": "taiwan-airspace-blockade-eswatini",
+          "relationship": "Both actions exploit the same gap: China uses third-party states or domestic legal instruments to neutralize US pressure tools, in one case making US Iran sanctions unenforceable against Chinese companies, and in the other making US-backed Taiwan diplomacy operationally costlier without triggering any US military or sanctions response."
+        },
+        {
+          "from": "china-blocks-iran-sanctions",
+          "to": "trump-xi-summit-taiwan",
+          "relationship": "China issued the Iran sanctions blocking ban in the two weeks before the Trump-Xi summit, signaling that it will not subordinate its Iran economic relationships to US demands as part of any Taiwan negotiation, foreclosing the US assumption that China can be bought off on Iran in exchange for Taiwan concessions."
+        }
+      ]
+    },
+    {
+      "id": "institutions-say-one-thing-actors-do-another",
+      "title": "Every Institution Today Said Something Its Members Don't Believe",
+      "description": "Four stories today share a structure that is easy to miss: an institution makes a public commitment while its own members act against it. The DNC blocks floor votes on Israel policy the same week most of its Senate caucus votes to block arms to Israel. Fifty-seven countries declare the fossil fuel era over while the US blockades the world's most important oil strait. OpenAI's president says AI writes 80% of code while the productivity evidence for that claim is sharply contested inside the research community. The Fed maintained consensus publicly while four of its members dissented privately. The common thread is not hypocrisy but structural fragmentation: the official institutional voice is increasingly a compromise between groups with incompatible positions, and the actual decisions are being made elsewhere.",
+      "type": "tension-cluster",
+      "stories": ["dnc-democrats-israel-split", "fossil-fuel-summit-hormuz", "ai-coding-80-percent-labor", "fed-fomc-dissent-stagflation"],
+      "connections": [
+        {
+          "from": "dnc-democrats-israel-split",
+          "to": "fossil-fuel-summit-hormuz",
+          "relationship": "The DNC leadership's suppression of Israel debate and the Santa Marta coalition's declaration against fossil fuels are both cases where an institution's official statement runs ahead of its members' revealed behavior: senators vote against arms sales while the party blocks the debate, and the US joins a fossil fuel phase-out commitment while running a war predicated on controlling oil transit."
+        },
+        {
+          "from": "fossil-fuel-summit-hormuz",
+          "to": "ai-coding-80-percent-labor",
+          "relationship": "Both the fossil fuel declaration and the 80% coding claim are statements by institutions with material interests in the claim being believed: the Santa Marta coalition needs the transition to be 'irreversible' to build political momentum, and OpenAI needs 80% to be true to justify its enterprise sales pitch. Neither claim has been independently verified."
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,107 @@
+{
+  "id": "china-blocks-iran-sanctions",
+  "date": "2026-05-03",
+  "generatedAt": "2026-05-03T20:30:00Z",
+  "title": "China Just Made US Sanctions on Iran Unenforceable. Legally. In Writing.",
+  "subtitle": "Beijing issued a formal ban ordering Chinese companies not to comply with US sanctions on five Chinese refineries buying Iranian oil. This is not defiance through inaction. It is defiance by decree.",
+  "topic": "geopolitics",
+  "category": "power",
+  "tags": ["China", "Iran", "sanctions", "oil", "US", "geopolitics", "energy", "Hormuz"],
+  "coverImage": {
+    "url": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/05/02/thumbs_b_c_ce60b5713136636d89f53a9fa77767f8.jpg",
+    "local": "/images/reports/2026-05-03/china-blocks-iran-sanctions.jpg",
+    "credit": "Anadolu Agency"
+  },
+  "sources": [
+    {
+      "url": "https://english.news.cn/20260502/da194d40ddb347f5877de25bdec8333f/c.html",
+      "publisher": "Xinhua",
+      "angle": "Official Chinese government version: the blocking ban is a defensive response to US 'improper extraterritorial measures' and took effect immediately."
+    },
+    {
+      "url": "https://www.channelnewsasia.com/east-asia/china-reject-us-sanctions-refineries-iran-oil-links-6096151",
+      "publisher": "Channel NewsAsia",
+      "angle": "Notes that the five sanctioned companies include major independent Chinese refineries, some of which are publicly traded; explains that the blocking ban creates a legal conflict of laws for any Chinese firm caught between US and Chinese authority."
+    },
+    {
+      "url": "https://www.aa.com.tr/en/asia-pacific/china-orders-non-compliance-with-us-sanctions-on-5-firms/3925136",
+      "publisher": "Anadolu Agency",
+      "angle": "Focuses on the formal legal mechanism: China's Ministry of Commerce issued the blocking order under China's Anti-Foreign Sanctions Law, which makes compliance with the US sanctions by Chinese entities itself illegal under Chinese law."
+    },
+    {
+      "url": "https://www.marketscreener.com/news/china-s-commerce-ministry-blocks-us-sanctions-against-five-refineries-ce7f58ded980f721",
+      "publisher": "MarketScreener",
+      "angle": "Reports that Hengli Petrochemical, one of the five targeted companies, had already seen a domestic Chinese partner suspend a benzene supply deal in anticipation of the sanctions; notes market volatility in Chinese refinery stocks."
+    }
+  ],
+  "brief": {
+    "actors": ["China", "US", "Iran"],
+    "whatHappened": "On May 2, China's Ministry of Commerce issued a formal blocking ban prohibiting any Chinese entity from recognizing, enforcing, or complying with US Treasury sanctions imposed on five Chinese refining companies accused of purchasing Iranian crude oil. The order was issued under China's Anti-Foreign Sanctions Law and took immediate effect. The five companies, including Hengli Petrochemical and four other major independent refiners, had been sanctioned by the US for allegedly facilitating Iranian petroleum transactions in violation of the Iran sanctions regime, which the US has used as leverage in the ongoing Iran war and naval blockade of the Strait of Hormuz. The blocking ban creates a direct conflict of laws: complying with the US sanctions is now itself an illegal act under Chinese domestic law.",
+    "bottomLine": "The US Iran sanctions regime now has a formal carve-out in the world's second-largest economy, issued in writing by the Chinese government. The war in the Strait of Hormuz is 64 days old and China just made it harder, not easier, to end.",
+    "hiddenBets": [
+      {
+        "assumption": "US secondary sanctions can compel Chinese compliance even after the blocking ban",
+        "whyItMightBeWrong": "Secondary sanctions threaten to cut foreign companies off from the US financial system. But the five targeted companies are major domestic refiners with limited US financial exposure. The threat works on European banks and trading companies with deep US ties; it is much weaker against Chinese state-adjacent industrial firms."
+      },
+      {
+        "assumption": "China is acting reactively to protect its companies",
+        "whyItMightBeWrong": "The timing is notable: the blocking ban came while the US-Iran blockade is producing oil price spikes that benefit China's leverage in multiple negotiations simultaneously. China may be deliberately escalating its support for Iran's oil revenue as a way to raise the cost of the Iran war for the US, not merely protecting domestic firms."
+      },
+      {
+        "assumption": "The Iran sanctions regime retains meaningful international support",
+        "whyItMightBeWrong": "The international sanctions coalition against Iran depends on major importers of Iranian oil complying. China is the largest purchaser of Iranian crude by volume. A Chinese blocking ban effectively tells the global market that Iran's oil is available to the world's largest energy importer, regardless of US policy. That is the functional end of multilateral Iran sanctions."
+      }
+    ],
+    "realDisagreement": "The core fork is between two positions on what the Iran sanctions regime is actually for. The first position holds that sanctions are a coercive tool to force Iran to a deal: if China defects, the US needs to impose costs on China directly to restore leverage. The second position holds that the sanctions regime is primarily a signal of US resolve, and that China's defection is a manageable leak that does not invalidate the strategy. The first position implies escalation with China, which the US is simultaneously trying to manage in the Taiwan Summit context. The second position implies accepting that the Iran war's economic costs are increasingly being backstopped by China. Both cannot be simultaneously true, and the Trump administration has not clearly chosen between them.",
+    "whatNoOneIsSaying": "The Polymarket odds give only 31.5% probability that the US Hormuz blockade is lifted by May 31. If those odds are right, the blockade continues for at least another month. During that month, the five Chinese refineries covered by the blocking ban continue purchasing Iranian oil, which continues flowing through unofficial channels. The US is simultaneously blockading Iran and being outmaneuvered on the economic front by China. The net result is that the US Navy controls the strait but China controls the price of ending the war.",
+    "whoPays": [
+      {
+        "who": "US Treasury's Office of Foreign Assets Control",
+        "how": "The blocking ban makes OFAC's Iran enforcement mechanism structurally incomplete. Every future Iran sanction now implicitly requires either a parallel confrontation with China or an acceptance that the Chinese market is out of reach, which is increasingly where Iran's oil goes.",
+        "when": "Now. The OFAC designation loses its teeth the moment China says it won't comply."
+      },
+      {
+        "who": "European and Asian companies with US financial exposure",
+        "how": "They face genuine secondary sanctions risk if they buy Iranian oil, unlike their Chinese competitors who are now legally shielded. The playing field is asymmetric: Chinese companies face no effective US penalty, while non-Chinese companies still do.",
+        "when": "Ongoing, as long as the sanctions regime is in force."
+      },
+      {
+        "who": "Countries negotiating between US and China simultaneously",
+        "how": "The blocking ban signals that China is willing to use economic support for Iran as a pressure tool in broader US-China competition. Any country trying to stay neutral, or mediate, now has to calculate that supporting US sanctions carries a Chinese cost.",
+        "when": "Medium-term, as the precedent of the blocking ban shapes negotiations beyond Iran."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "US accepts the leak",
+        "whatHappens": "The Trump administration does not respond directly to the blocking ban, treating it as a manageable defection that does not change the overall Iran pressure campaign. The ban becomes a permanent fixture and Iran continues selling oil to China outside the sanctions regime.",
+        "signal": "No new US actions targeting the five Chinese refineries or additional secondary sanctions within 30 days."
+      },
+      {
+        "name": "Secondary sanctions escalation",
+        "whatHappens": "The US designates Chinese financial institutions that process payments for the five companies, threatening to cut them off from dollar clearing. China retaliates on another front, likely Taiwan arms sales, rare earth exports, or Treasury bond holdings.",
+        "signal": "A US OFAC action targeting a Chinese bank or financial intermediary linked to Iranian oil payments."
+      },
+      {
+        "name": "Iran deal accelerates",
+        "whatHappens": "China's effective backstop of Iranian oil revenue gives Iran enough economic stability to negotiate a deal on more favorable terms than the US expected. The blockade ends but Iran extracts sanctions relief and asset unfreezing as the price.",
+        "signal": "Rapid movement in the Polymarket odds for Iranian oil sanction relief, currently at 18.5%."
+      }
+    ],
+    "whatWouldChange": "If the US imposed meaningful secondary sanctions on the Chinese financial institutions processing payments for the five companies, and China did not retaliate, it would suggest the US has leverage over China in this domain. That would change the analysis substantially. The current evidence suggests the opposite.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Trump agree to Iranian oil sanction relief by May 31?",
+        "url": "https://polymarket.com/event/what-iranian-demands-will-trump-agree-to-by-may-31",
+        "probability": 0.185
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?",
+        "url": "https://polymarket.com/event/trump-announces-us-blockade-of-hormuz-lifted-by",
+        "probability": 0.315
+      }
+    ]
+  }
+}
