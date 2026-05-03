@@ -1,6 +1,6 @@
 {
   "date": "2026-05-03",
-  "generatedAt": "2026-05-03T12:40:00Z",
+  "generatedAt": "2026-05-03T17:50:00Z",
   "reports": [
     {
       "id": "pentagon-ai-classified-deals",
@@ -61,6 +61,36 @@
       "title": "Russia Lost Ground in April. Ukraine Is Striking Oil Refineries 1,600 Kilometers Deep.",
       "subtitle": "For the first time since Ukraine's Kursk incursion, Russia suffered a net territorial loss in a single month. Whether it matters depends on why it happened.",
       "category": "conflict"
+    },
+    {
+      "id": "tariff-refund-bypass-consumers",
+      "title": "The $166 Billion Tariff Refund Nobody Asked For",
+      "subtitle": "The Supreme Court struck down Trump's tariffs. The refund goes to importers. The consumers who paid higher prices get nothing.",
+      "category": "power"
+    },
+    {
+      "id": "dollar-decline-de-dollarization",
+      "title": "The Dollar Is Down 10%. Nobody Agrees on What That Means.",
+      "subtitle": "A weaker dollar helps multinationals, hurts consumers, and is quietly accelerating a structural shift that America's foreign policy depends on stopping.",
+      "category": "decision"
+    },
+    {
+      "id": "pakistan-iran-mediation-fails",
+      "title": "Pakistan Staked Its Credibility on the Iran Deal. It Lost.",
+      "subtitle": "Army Chief Asim Munir flew to Tehran, hosted 21 hours of talks, and watched them collapse. The second round never happened. Iran just sent a new proposal anyway.",
+      "category": "conflict"
+    },
+    {
+      "id": "roblox-indonesia-facial-scan",
+      "title": "Indonesia Just Made Roblox Scan Children's Faces. No Other Country Has Done This.",
+      "subtitle": "Under a new law called PP TUNAS, Roblox must verify the age of its 23 million Indonesian child users through facial recognition. It is the first country to extend age verification rules to gaming platforms.",
+      "category": "power"
+    },
+    {
+      "id": "universities-capitulate-antisemitism-deal",
+      "title": "Northwestern Pays $75 Million. Harvard's Judge Says Antisemitism Was a Smokescreen.",
+      "subtitle": "Two universities, two opposite outcomes, same week. One court finds the funding freeze was political coercion. One university pays $75 million to end the investigation.",
+      "category": "power"
     }
   ]
 }

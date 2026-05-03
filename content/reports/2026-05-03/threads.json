@@ -85,6 +85,44 @@
           "relationship": "Trump's use of troop presence as a compliance incentive for NATO allies is structurally parallel to his pressure on the Fed to cut rates: in both cases, an institution's independence is being tested by whether it can resist a powerful actor willing to impose real costs for non-compliance."
         }
       ]
+    },
+    {
+      "id": "courts-against-executive-or-not",
+      "title": "The Courts Are Winning Cases and Losing the War",
+      "description": "Three stories today show courts ruling against the Trump administration on federal funding (Harvard), tariffs ($166 billion refund ordered), and protection of Yemeni nationals. In each case the court won on the merits. In each case the administration is either appealing to a more favorable court, shifting its legal theory, or defying the order while the case proceeds. Meanwhile Northwestern chose not to wait for courts and paid $75 million instead. The lesson that institutions are drawing from these victories is not that courts protect them. It is that courts protect you temporarily while you are still willing to fight.",
+      "type": "tension-cluster",
+      "stories": ["universities-capitulate-antisemitism-deal", "tariff-refund-bypass-consumers", "trump-defies-courts"],
+      "connections": [
+        {
+          "from": "trump-defies-courts",
+          "to": "universities-capitulate-antisemitism-deal",
+          "relationship": "The documented pattern of administration court defiance explains why Northwestern chose to pay $75 million rather than rely on litigation: Harvard's district court victory is real but the administration's track record of ignoring lower court orders makes it strategically rational to settle rather than wait for enforcement that may not materialize."
+        },
+        {
+          "from": "tariff-refund-bypass-consumers",
+          "to": "universities-capitulate-antisemitism-deal",
+          "relationship": "Both stories show courts ruling against the administration and the administration complying narrowly while routing outcomes to entities other than those the rulings were designed to protect: importers get the tariff money, not consumers; universities that fight get vindicated in court but disrupted in practice while those that pay get their money back."
+        }
+      ]
+    },
+    {
+      "id": "iran-war-economic-cascade",
+      "title": "The Iran War Is Also a Dollar War and a Mediation Trap",
+      "description": "Pakistan's failed Iran mediation and the dollar's 10% decline look like separate stories. They are the same cascade. The Iran war is driving energy prices up globally, accelerating the dollar's decline as countries seek alternatives to dollar-priced oil. Pakistan is trapped mediating a war whose energy costs are bankrupting it. And every month without a deal accelerates the BRICS monetary infrastructure that the dollar's reserve status depends on preventing. The war that was supposed to demonstrate US military primacy is simultaneously weakening every financial tool that underpins US geopolitical power.",
+      "type": "cause-effect",
+      "stories": ["pakistan-iran-mediation-fails", "dollar-decline-de-dollarization", "iran-war-deal-rejected"],
+      "connections": [
+        {
+          "from": "iran-war-deal-rejected",
+          "to": "pakistan-iran-mediation-fails",
+          "relationship": "The Iran war's continued stalemate creates the energy shock that triples Pakistan's import costs, making Islamabad desperate enough to overreach in its mediator role and damage its credibility with Tehran by appearing to relay U.S. maximalist demands as neutral positions."
+        },
+        {
+          "from": "iran-war-deal-rejected",
+          "to": "dollar-decline-de-dollarization",
+          "relationship": "The Iran war's oil price shock is one of the direct causes of dollar weakness: energy-importing countries are paying more in dollar-denominated contracts and seeking bilateral settlement alternatives, accelerating the BRICS payment infrastructure that Gulf states are now quietly inquiring about."
+        }
+      ]
     }
   ]
 }

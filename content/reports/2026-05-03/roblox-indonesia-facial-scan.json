@@ -1,0 +1,93 @@
+{
+  "id": "roblox-indonesia-facial-scan",
+  "date": "2026-05-03",
+  "generatedAt": "2026-05-03T17:45:00Z",
+  "title": "Indonesia Just Made Roblox Scan Children's Faces. No Other Country Has Done This.",
+  "subtitle": "Under a new law called PP TUNAS, Roblox must verify the age of its 23 million Indonesian child users through facial recognition. It is the first country to extend age verification rules to gaming platforms.",
+  "topic": "society",
+  "category": "power",
+  "tags": ["Roblox", "Indonesia", "children", "age verification", "social media", "facial recognition", "PP TUNAS"],
+  "coverImage": {
+    "url": "https://www.indy100.com/media-library/roblox-sued-over-safety-concerns.jpg?id=66665624&width=1200&height=600&coordinates=194%2C38%2C0%2C139",
+    "local": "/images/reports/2026-05-03/roblox-indonesia-facial-scan.jpg",
+    "credit": "Indy100 / VideoElephant"
+  },
+  "sources": [
+    {
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/05/03/roblox-to-require-facial-scans-for-children-under-16-in-indonesia-due-to-new-social-media-rules",
+      "publisher": "The Star / Reuters",
+      "angle": "Roblox implementing facial scans for under-16 users in Indonesia; 23 million child users affected; Communications Minister confirmed age verification is mandatory or chat feature is disabled"
+    },
+    {
+      "url": "https://www.indy100.com/gaming/roblox-indonesia-age-verification-facial-scanning",
+      "publisher": "Indy100",
+      "angle": "Indonesia is first country globally to require facial scanning for child age verification on a gaming platform; PP TUNAS also requires screen time limits"
+    },
+    {
+      "url": "https://www.thejakartapost.com/indonesia/2026/05/01/roblox-announces-control-measures-to-comply-with-indonesia-social-media-curb.html",
+      "publisher": "The Jakarta Post",
+      "angle": "Indonesian government perspective; Roblox compliance framed as a model for other platforms to follow; broader context of Indonesia's child online protection push"
+    },
+    {
+      "url": "https://thecurrency.news/articles/225398/bans-or-reforms-social-medias-future-will-involve-both/",
+      "publisher": "The Currency",
+      "angle": "Global context; Australia banned under-16s from social media in December; the question now is whether bans or structural platform reforms will define child online safety policy"
+    }
+  ],
+  "brief": {
+    "actors": ["Roblox", "Indonesia", "Meta", "China"],
+    "whatHappened": "Indonesia's PP TUNAS regulation, effective May 2026, requires all social media and gaming platforms to verify the age of users under 16 using biometric methods including facial recognition. Roblox, which has approximately 23 million child users in Indonesia out of 45 million total, is the first major gaming platform to comply. Children who do not complete facial verification lose access to chat features. Indonesia is the first country in the world to extend mandatory age verification to gaming platforms, not just social media. Roblox announced the compliance measures this week.",
+    "bottomLine": "Indonesia has solved the child online safety problem the way authoritarian states solve problems: by making children prove their identity to a platform that then holds that biometric data. The safety is real. So is the surveillance infrastructure.",
+    "hiddenBets": [
+      {
+        "assumption": "Facial recognition age verification protects children from online harms",
+        "whyItMightBeWrong": "The verification proves age; it does not prevent harm. Children who pass verification still encounter the same content and contact risks. The mechanism creates a false sense that the problem is solved while building a biometric database of children that the platform now possesses."
+      },
+      {
+        "assumption": "This model will spread to other countries as a best practice",
+        "whyItMightBeWrong": "GDPR in Europe prohibits this approach entirely. Australia's under-16 ban, the alternative model, avoids biometrics by simply excluding the age group. The U.S. market has not adopted either approach. Indonesia may be establishing a regulatory norm for Southeast Asian markets specifically, not a global standard."
+      },
+      {
+        "assumption": "Roblox is complying because it agrees with the policy",
+        "whyItMightBeWrong": "Indonesia's market is too large to exit. Roblox has no choice. The company is also facing the New Mexico trial, which could force structural changes globally. Compliance in Indonesia is a calculated trade-off: accept one country's biometric requirement to avoid losing 45 million users."
+      }
+    ],
+    "realDisagreement": "The real fork is between two models for protecting children from platform harms. One model is identity-based: verify who users are, restrict access by age, enforce rules on identified individuals. The other model is structural: design platforms so that exploitative features are unavailable regardless of user identity. Indonesia chose the first. Critics of the biometric approach argue that the identity model protects platforms from liability while creating child surveillance infrastructure; the structural model protects children while imposing costs on platforms. The choice of model has different political economy: platforms prefer identity-based approaches because they shift compliance costs to users and governments prefer them because they build state-adjacent data infrastructure.",
+    "whatNoOneIsSaying": "The facial scans will be processed by a third-party age verification provider whose data practices no Indonesian parent has read. Roblox collects the scan to verify age; whether it retains the biometric data, for how long, and what happens if that provider is acquired or breached is not part of the public compliance announcement. Indonesia has created mandatory biometric enrollment of tens of millions of children into private databases with no clear data retention limit.",
+    "whoPays": [
+      {
+        "who": "Indonesian children aged 13-15",
+        "how": "They must provide facial biometric data to a private platform or lose social features of a game they already play. The alternative is exclusion from peer interaction on a platform where millions of their peers socialize.",
+        "when": "Immediately; as of May 2026"
+      },
+      {
+        "who": "Families without smartphones capable of facial recognition",
+        "how": "The verification requires a camera-equipped device that can perform the scan. Lower-income families may not have compatible hardware, effectively excluding poorer children while leaving wealthier children enrolled.",
+        "when": "Immediate and ongoing"
+      },
+      {
+        "who": "Other platforms in Indonesia",
+        "how": "PP TUNAS applies to all social media and gaming platforms, not just Roblox. Smaller platforms that lack Roblox's compliance infrastructure must implement the same biometric requirements or exit the market.",
+        "when": "Over the next 6-12 months as enforcement extends beyond early movers"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Southeast Asian rollout",
+        "whatHappens": "Malaysia, Thailand, and Vietnam observe Indonesia's compliance without major backlash and adopt similar PP TUNAS-style regulations. Platforms implement regional biometric verification systems. Roblox's Indonesia compliance becomes a reference document for regional regulators.",
+        "signal": "Another ASEAN government passes a gaming-specific age verification law within 12 months"
+      },
+      {
+        "name": "Data breach or misuse",
+        "whatHappens": "A child biometric dataset from the Indonesian verification system is compromised or a third-party provider is found selling data. Indonesian Parliament moves to tighten data retention rules but the biometric compliance requirement survives.",
+        "signal": "Any disclosed security incident at an Indonesian age-verification provider"
+      },
+      {
+        "name": "Platform exit and regulatory rethink",
+        "whatHappens": "A smaller platform chooses to exit Indonesia rather than implement biometric verification. The exit triggers parliamentary debate about whether the requirement is proportionate. The PP TUNAS requirement is modified to allow alternative verification methods.",
+        "signal": "A platform with significant Indonesian user share publicly announces it cannot comply with facial scan requirements"
+      }
+    ],
+    "whatWouldChange": "If the Indonesian government published clear data retention and breach notification standards for age verification providers, the surveillance infrastructure concern would be significantly reduced. If the EU or U.S. adopted a similar model, it would signal that biometric age verification is becoming a global norm rather than a Southeast Asian exception."
+  }
+}
