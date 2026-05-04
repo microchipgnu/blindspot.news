@@ -1,0 +1,93 @@
+{
+  "id": "state-ice-defiance-sanctuary-federalism",
+  "date": "2026-05-04",
+  "generatedAt": "2026-05-04T22:30:00Z",
+  "title": "Connecticut Signed a Law Against ICE. The House Judiciary Committee Subpoenaed Arlington. States Are Drawing Lines.",
+  "subtitle": "The federal-state immigration standoff is past the rhetoric stage. Connecticut now has a law. Arlington has a subpoena. The legal question underneath all of it has not been answered.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["immigration", "ICE", "sanctuary", "federalism", "Connecticut", "states' rights", "Trump"],
+  "coverImage": {
+    "url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2182390605-20260501135818434.jpg?c=16x9&q=w_800,c_fill",
+    "local": "/images/reports/2026-05-04/connecticut-ice-sanctuary.jpg",
+    "credit": "Getty Images / CNN"
+  },
+  "sources": [
+    {
+      "url": "https://ctmirror.org/2026/05/04/ice-bill-lamont-signing-ceremony/",
+      "publisher": "CT Mirror",
+      "angle": "Details of Connecticut SB 397: limits ICE at schools and churches, requires federal agent ID, asserts state inspector general jurisdiction over ICE lethal force. Democrats frame it as midterm election centerpiece"
+    },
+    {
+      "url": "https://www.arlnow.com/2026/05/04/just-in-house-committee-targets-arlington-police-sheriffs-office-and-prosecutors-over-sanctuary-policies/",
+      "publisher": "ARLnow",
+      "angle": "House Judiciary Committee letters to Arlington agencies requesting sanctuary policy documents; Jordan and McClintock cite specific crimes by undocumented recidivists as evidence of danger"
+    },
+    {
+      "url": "https://bullsource.com/world/trump-recalibrates-immigration-crackdown-with-quieter-strategy/",
+      "publisher": "Bull Source",
+      "angle": "DHS Secretary Mullin shifting from headline raids to 287g expansion, warehouse detention, and legal protection stripping as quieter but broader enforcement strategy"
+    },
+    {
+      "url": "https://americanalmanac.com/federal-prosecutors-challenge-obama-appointed-judges-dismissal-of-case-against-accused-ice-attacker/",
+      "publisher": "American Almanac",
+      "angle": "Pro-enforcement perspective: federal prosecutors appeal an LA judge's dismissal of charges against a man who rammed ICE vehicles; pattern of judicial activism framing"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "ICE", "Connecticut", "Lamont", "Jordan", "Arlington", "DHS", "Mullin"],
+    "whatHappened": "Connecticut Governor Ned Lamont signed SB 397 on May 4, limiting ICE operations at schools, churches, and sensitive locations, requiring federal agents to be identifiable, and asserting state inspector general authority over ICE use of lethal force. The bill passed with unanimous Republican opposition. The same day, House Judiciary Chairman Jim Jordan sent subpoenas to Arlington County's police department, sheriff's office, and commonwealth attorney over their sanctuary policies. DHS, under new Secretary Markwayne Mullin, has simultaneously shifted strategy from high-profile raids to expanding 287g agreements with local law enforcement, buying warehouse detention facilities, and targeting immigrants' ability to work rather than making arrests. ICE has set a goal of deporting one million people annually for two years.",
+    "bottomLine": "The immigration standoff has moved from presidential rhetoric to enforceable state law and congressional subpoenas. The question underneath both, can states legally refuse to cooperate with federal immigration enforcement, and can Congress compel them to, remains entirely unresolved.",
+    "hiddenBets": [
+      {
+        "assumption": "Connecticut's law will be struck down as a violation of federal supremacy",
+        "whyItMightBeWrong": "The Supreme Court's anti-commandeering doctrine, established in Printz v. United States, says the federal government cannot compel state officials to enforce federal law. Connecticut's law does not prevent ICE from operating; it prevents Connecticut officers from assisting. That distinction has held up in multiple circuit courts. The legal landscape is not as clear as the Trump administration claims"
+      },
+      {
+        "assumption": "Sanctuary jurisdictions are meaningfully protecting undocumented people from deportation",
+        "whyItMightBeWrong": "DHS's quieter strategy, 287g agreements with county sheriffs, employer enforcement, and legal status revocations, operates largely outside the scope of what sanctuary laws address. Refusing ICE detainer requests at jails is one piece of the enforcement ecosystem. The shift to workplace raids and administrative revocation of legal status largely bypasses the sanctuary shield"
+      },
+      {
+        "assumption": "Jordan's subpoenas to Arlington are primarily about public safety",
+        "whyItMightBeWrong": "The letters cite two specific crimes by undocumented recidivists. Arlington's sanctuary policies have been in place for years, during which crime data does not show an outlier pattern. The subpoenas were issued simultaneously to Virginia localities where Democratic AGs and governors face competitive races. The public safety framing is real, but the timing and targets suggest electoral strategy"
+      }
+    ],
+    "realDisagreement": "The genuine fork is between two legitimate constitutional positions that have never been cleanly resolved. The federal government has plenary authority over immigration. States have the anti-commandeering right to refuse to assist federal enforcement. These two principles coexist in tension in every sanctuary jurisdiction in America, and the courts have never fully reconciled them. The Trump administration is testing whether Congress can use oversight subpoenas to force compliance that the courts have repeatedly declined to mandate. The answer to that question will determine whether sanctuary policies are a durable legal structure or a temporary political gesture. I would lean toward durability: the anti-commandeering doctrine is well established and has bipartisan roots. But the political cost of defending it is rising in each election cycle.",
+    "whatNoOneIsSaying": "The 287g expansion, where sheriffs and local police are deputized as immigration agents, is more consequential than any sanctuary law or subpoena. It does not require federal-state cooperation. It converts local law enforcement into federal agents, which is the anti-commandeering doctrine in reverse. A sheriff who voluntarily signs a 287g agreement is not being commandeered. He is choosing. And the communities that live under those sheriffs have no federal remedy against that choice.",
+    "whoPays": [
+      {
+        "who": "Immigrant communities in non-sanctuary jurisdictions",
+        "how": "The 287g expansion means routine traffic stops, school pickups, and hospital visits in counties with 287g agreements now carry deportation risk. Unlike visible raids, this enforcement is integrated into daily life and invisible to national media",
+        "when": "Ongoing; 287g agreements have 'exploded in number' according to reporting"
+      },
+      {
+        "who": "Local election officials",
+        "how": "The DOJ voter roll review uses the same immigration database (SAVE) that has produced false positives in past purge programs. An eligible voter matched incorrectly against SAVE within the 90-day pre-election window has limited time to challenge the removal",
+        "when": "90 days before November 2026 midterms; current purge activities are in that window now"
+      },
+      {
+        "who": "Democratic governors in competitive states",
+        "how": "Lamont and others are using these laws as midterm election centerpieces, which forces them to take and hold positions the Republican opposition can use against them in suburban swing districts where the immigration salience is higher than the national Democratic base",
+        "when": "November 2026 midterms"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Courts sustain sanctuary laws, stalemate persists",
+        "whatHappens": "Connecticut's law is challenged in federal court, the anti-commandeering doctrine is reaffirmed, and the status quo of federal-state standoff continues through the midterms. Neither side gets a decisive legal ruling before November.",
+        "signal": "No circuit court strikes down Connecticut's law before September; Jordan's subpoenas are not enforced by contempt proceedings"
+      },
+      {
+        "name": "SCOTUS takes the anti-commandeering case",
+        "whatHappens": "The Arizona or Ohio voter roll case, or a sanctuary jurisdiction case, reaches the Supreme Court's emergency docket before November. A Roberts Court ruling clarifies the boundary between federal supremacy and state resistance. Either outcome reshapes the legal landscape for immigration enforcement going forward.",
+        "signal": "SCOTUS grants certiorari on any case involving state refusal to cooperate with federal immigration enforcement before August"
+      },
+      {
+        "name": "287g expansion produces a high-profile crisis",
+        "whatHappens": "A county sheriff using 287g authority arrests or deports a person with clear legal status (green card, DACA, TPS), producing a case the Connecticut and Arlington laws could not have prevented. National attention shifts from sanctuary laws to the 287g expansion itself.",
+        "signal": "A documented 287g-related wrongful detention goes viral before August"
+      }
+    ],
+    "whatWouldChange": "If the Supreme Court's anti-commandeering doctrine is directly challenged and overturned, the entire legal architecture of sanctuary policies collapses. That would require five justices to vote against a 1997 precedent. Given the current Court's composition and its recent deference to executive power on immigration, that outcome is possible but not probable."
+  }
+}

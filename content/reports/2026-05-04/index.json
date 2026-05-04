@@ -91,6 +91,42 @@
       "title": "Six Hundred Google Employees Signed a Letter Against the Pentagon AI Deal. Google Signed the Deal Anyway.",
       "subtitle": "In 2018, employee revolt killed Project Maven. In 2026, 600 signatories including directors and VPs got the same result as zero. The leverage that once existed is gone, and the question is why.",
       "category": "power"
+    },
+    {
+      "id": "musk-openai-trial-charity-vs-competitor",
+      "title": "Musk Vs. OpenAI: The Evidence That Could Sink Him Is His Own Text Message",
+      "subtitle": "Brockman is on the stand. Musk's pre-trial threat to make Altman 'the most hated man in America' may now be admissible. The lawsuit just shifted from charity law to motive.",
+      "category": "conflict"
+    },
+    {
+      "id": "deepseek-v4-chinese-silicon-independence",
+      "title": "DeepSeek Just Built a Frontier AI on Chinese Chips. That Was the Whole Point of the Export Ban.",
+      "subtitle": "V4 ran on Huawei Ascend hardware. Jensen Huang called this outcome 'horrible for our nation.' He is right, and US policy made it happen.",
+      "category": "power"
+    },
+    {
+      "id": "hamas-disarmament-deadlock-gaza-war",
+      "title": "Hamas Will Not Disarm Until Israel Withdraws. Israel Will Not Withdraw Until Hamas Disarms. The Ceasefire Is Expiring.",
+      "subtitle": "Talks in Cairo hit a deadlock on the sequencing question that the October deal deliberately left unresolved. The Board of Peace has 281 days to solve something the negotiators could not.",
+      "category": "conflict"
+    },
+    {
+      "id": "april-jobs-report-labor-market-paradox",
+      "title": "The Labor Market That Cannot Be Described in One Sentence",
+      "subtitle": "Jobless claims hit a 1969 low the same month Meta laid off 8,000 people and Amazon is cutting 16,000. The April payrolls report on Friday will not resolve this contradiction.",
+      "category": "decision"
+    },
+    {
+      "id": "global-social-media-ban-under-16",
+      "title": "Norway, Indonesia, and Australia Are Banning Social Media for Under-16s. Meta Is Threatening to Leave States That Try It.",
+      "subtitle": "A global wave of age restriction laws is converging on the same question New Mexico is testing in court: can a government force a platform to redesign itself, or does it have to accept the platform leaving instead?",
+      "category": "power"
+    },
+    {
+      "id": "state-ice-defiance-sanctuary-federalism",
+      "title": "Connecticut Signed a Law Against ICE. The House Judiciary Committee Subpoenaed Arlington. States Are Drawing Lines.",
+      "subtitle": "The federal-state immigration standoff is past the rhetoric stage. Connecticut now has a law. Arlington has a subpoena. The legal question underneath all of it has not been answered.",
+      "category": "power"
     }
   ]
 }

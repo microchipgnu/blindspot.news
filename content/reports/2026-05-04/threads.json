@@ -142,6 +142,39 @@
           "relationship": "Michigan is both a redistricting battleground and the site of the UAW-Stellantis fight; a union loss in Sterling Heights depresses labor organizing capacity in a state where turnout from organized labor has historically been the margin in close House races"
         }
       ]
+    },
+    {
+      "id": "decoupling-as-policy-outcome",
+      "title": "The Decoupling That Policy Made Inevitable",
+      "description": "Three of today's new stories are about actors being cut off from the dominant system and building an alternative. DeepSeek built a frontier AI on Chinese domestic chips because US export controls made Nvidia inaccessible. Hamas is holding its weapons because the ceasefire architecture denies it any political horizon without them. State sanctuary laws are being codified because federal immigration enforcement has made itself an adversary to local governance. In each case, the excluded party did not disappear. It built something the excluding party now cannot control.",
+      "type": "cause-effect",
+      "stories": ["deepseek-v4-chinese-silicon-independence", "hamas-disarmament-deadlock-gaza-war", "state-ice-defiance-sanctuary-federalism"],
+      "connections": [
+        {
+          "from": "deepseek-v4-chinese-silicon-independence",
+          "to": "hamas-disarmament-deadlock-gaza-war",
+          "relationship": "Both DeepSeek and Hamas are demonstrating the same dynamic: cutting off access to the dominant system's infrastructure (US chips for DeepSeek, reconstruction and state recognition for Hamas) does not produce compliance; it produces alternative infrastructure that the excluding party cannot sanction away"
+        },
+        {
+          "from": "state-ice-defiance-sanctuary-federalism",
+          "to": "hamas-disarmament-deadlock-gaza-war",
+          "relationship": "Connecticut and Hamas are structurally similar in one way that is uncomfortable to state: both are refusing to comply with a stronger party's demand to dismantle their own protective apparatus (sanctuary infrastructure for CT, weapons for Hamas) because compliance without a political guarantee is indistinguishable from surrender"
+        }
+      ]
+    },
+    {
+      "id": "the-charity-fiction",
+      "title": "When Nonprofits Are Not What They Claim",
+      "description": "The Musk-OpenAI trial and the Gaza peace process share an unexpected structural parallel: both involve a formal charitable framework (OpenAI's nonprofit parent, the Board of Peace's humanitarian mandate) being used as cover for what is actually a power and commercial competition. OpenAI's nonprofit structure insulates massive private wealth accumulation from governance scrutiny. The Board of Peace's humanitarian aid conditions are being used as leverage in a disarmament negotiation, not to deliver aid. In both cases, the charitable label is doing political work that has nothing to do with charity.",
+      "type": "tension-cluster",
+      "stories": ["musk-openai-trial-charity-vs-competitor", "hamas-disarmament-deadlock-gaza-war"],
+      "connections": [
+        {
+          "from": "musk-openai-trial-charity-vs-competitor",
+          "to": "hamas-disarmament-deadlock-gaza-war",
+          "relationship": "OpenAI's nonprofit parent and the Board of Peace both function as frameworks where the humanitarian or charitable label masks a core commercial or political conflict: Brockman's $29 billion equity sits inside a 'nonprofit'; Mladenov's reconstruction promises are conditional on Hamas disarmament that has nothing to do with humanitarian delivery"
+        }
+      ]
     }
   ]
 }

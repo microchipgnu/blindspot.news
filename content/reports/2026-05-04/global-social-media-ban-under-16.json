@@ -1,0 +1,93 @@
+{
+  "id": "global-social-media-ban-under-16",
+  "date": "2026-05-04",
+  "generatedAt": "2026-05-04T22:30:00Z",
+  "title": "Norway, Indonesia, and Australia Are Banning Social Media for Under-16s. Meta Is Threatening to Leave States That Try It.",
+  "subtitle": "A global wave of age restriction laws is converging on the same question New Mexico is testing in court: can a government force a platform to redesign itself, or does it have to accept the platform leaving instead?",
+  "topic": "society",
+  "category": "power",
+  "tags": ["social media", "Meta", "children", "age verification", "New Mexico", "Norway", "Australia", "regulation"],
+  "coverImage": {
+    "url": "https://www.medianama.com/wp-content/uploads/2026/03/artapixel-meta-6946715_1920.jpg",
+    "local": "/images/reports/2026-05-04/social-media-ban-children.jpg",
+    "credit": "MediaNama"
+  },
+  "sources": [
+    {
+      "url": "https://www.medianama.com/2026/05/223-meta-threatens-new-mexico-exit-child-safety-trial/",
+      "publisher": "MediaNama",
+      "angle": "Detailed breakdown of New Mexico's Phase 2 trial demands: age verification, encryption rollback, algorithm redesign, 90-hour monthly caps, child safety monitor. Meta's exit threat as both legal defense and PR strategy"
+    },
+    {
+      "url": "https://www.rappler.com/technology/social-media/new-mexico-meta-platforms-youth-harm-trial-may-4-2026/",
+      "publisher": "Rappler",
+      "angle": "Reuters coverage of the trial opening: 'public nuisance' legal theory as novel application of state law to a global platform"
+    },
+    {
+      "url": "https://indonesiahouse.com/global-consensus-emerges-as-nations-implement-and-propose-social-media-bans-for-under-16s-to-safeguard-child-development/",
+      "publisher": "Indonesia House",
+      "angle": "Global survey of under-16 ban legislation: Australia (December 2025), Indonesia (March 2026), Norway (draft law announced April 2026). EU age verification app planned for mid-2026"
+    },
+    {
+      "url": "https://www.channelnewsasia.com/business/new-mexico-seeks-changes-meta-platforms-in-youth-harm-trial-6098356",
+      "publisher": "Channel News Asia / Reuters",
+      "angle": "Meta's investor warning that 'legal and regulatory blowback in the EU and US could significantly impact our business and financial results'"
+    }
+  ],
+  "brief": {
+    "actors": ["Meta", "New Mexico", "Norway", "Australia", "EU", "Torrez"],
+    "whatHappened": "New Mexico opened the second phase of its landmark child safety trial against Meta on May 4, seeking additional damages beyond the $375 million jury verdict from March plus a court order forcing Meta to redesign Facebook and Instagram for users under 18. The demanded changes include mandatory age verification, rolling back end-to-end encryption for minors, algorithmic redesign, 90-hour monthly usage caps, and a five-year court-appointed child safety monitor. Meta warned it may quit New Mexico rather than comply, calling the demands 'technically impractical.' The trial runs through May 22. In parallel, Norway announced draft legislation to ban social media accounts for under-16s. Australia's age verification mandate took effect in December 2025. Indonesia's ban launched in March 2026. Over 40 US state attorneys general have filed similar lawsuits against Meta.",
+    "bottomLine": "Meta's exit threat is not a bluff, but it is also not a defense: it confirms the company believes complying with child safety rules is incompatible with its business model.",
+    "hiddenBets": [
+      {
+        "assumption": "Meta's platform exit threat would cause New Mexico to back down from structural demands",
+        "whyItMightBeWrong": "New Mexico AG Torrez compared this to Big Tobacco. Courts in the 1990s did not accept tobacco companies threatening to stop selling cigarettes as a reason to drop safety requirements. Leaving a state market is not a constitutional defense against a public nuisance finding"
+      },
+      {
+        "assumption": "Age verification is technically difficult, which justifies the absence of enforcement",
+        "whyItMightBeWrong": "Australia implemented a functional age verification mandate at the national level in December 2025. The EU is launching a standardized verification app in mid-2026. The technical difficulty argument is real but shrinking rapidly as countries build the infrastructure"
+      },
+      {
+        "assumption": "Social media bans for children will push teens to safer alternatives",
+        "whyItMightBeWrong": "Meta itself makes this argument, and it is partially right. Australia's early implementation data shows VPN usage among teens increased. Without coordinated enforcement across platforms, banning Meta in Norway or New Mexico may concentrate young users on less regulated alternatives without eliminating the underlying harm"
+      }
+    ],
+    "realDisagreement": "The genuine fork is whether the harm is in the platform's existence for minors or in how it is designed. Norway, Indonesia, and Australia have chosen the access restriction approach: under-16s simply cannot have accounts. New Mexico is choosing the design regulation approach: Meta can operate but must redesign features that cause harm. These are not compatible strategies. Access restriction is enforceable at scale but easy to circumvent. Design regulation requires ongoing judicial oversight of a global product's technical architecture, which no court has ever successfully maintained. I would lean toward design regulation as the more durable tool, but only if paired with age verification enforcement that has real teeth. Norway's approach without the verification mechanism is mostly symbolic.",
+    "whatNoOneIsSaying": "Meta's internal documents showed employees calculated that Zuckerberg's 2019 encryption decision would affect detection of 7.5 million child sexual abuse material cases. That is not a design flaw. That is a documented, deliberate choice with a quantified cost in child harm, made by a named executive. No one at Meta has faced criminal liability for that decision. The civil trial is about money and remedies. The criminal question, whether knowingly enabling child exploitation at scale constitutes a crime, has not been asked in court.",
+    "whoPays": [
+      {
+        "who": "Teenagers in New Mexico",
+        "how": "If Meta exits the state rather than comply, 2.1 million New Mexico residents lose access to Instagram and Facebook. The harm falls on young people who use these platforms for social connection, not Meta's shareholders",
+        "when": "Immediately upon any exit implementation; trial concludes May 22"
+      },
+      {
+        "who": "Meta shareholders",
+        "how": "40+ state AG lawsuits, EU Digital Services Act enforcement, and potential federal legislation converging simultaneously. Meta's own investor disclosure warns of material financial impact. Each new country's ban reduces the addressable teen demographic globally",
+        "when": "Ongoing erosion; structural damages from the New Mexico trial could range from hundreds of millions to billions"
+      },
+      {
+        "who": "Children in countries with poorly enforced bans",
+        "how": "Symbolic bans without verification infrastructure (likely Norway, Indonesia at launch) create paper compliance. The harm does not decrease; it just becomes legally invisible because the accounts technically violate a rule nobody enforces",
+        "when": "Implementation gap of 12-24 months between law passage and functional enforcement"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Judge orders structural remedies, Meta complies",
+        "whatHappens": "Chief Judge Biedscheid finds public nuisance and orders a subset of New Mexico's demands (age verification, algorithm audit, child safety monitor). Meta complies to avoid a precedent in 40 other states. The New Mexico model becomes the template for a national standard.",
+        "signal": "Meta does not appeal the public nuisance finding; begins implementing age verification within 60 days of the ruling"
+      },
+      {
+        "name": "Meta exits, political crisis forces federal action",
+        "whatHappens": "Meta follows through on the exit threat. Instagram and Facebook go dark for New Mexico users. Congressional pressure for a federal preemption law intensifies, either to override state child safety rules (industry preference) or to codify them nationally (advocacy preference).",
+        "signal": "Meta announces New Mexico service termination date within 30 days of any adverse ruling"
+      },
+      {
+        "name": "Global age verification infrastructure normalizes",
+        "whatHappens": "EU's standardized age verification app launches successfully in mid-2026. Australia's system is extended to other platforms. International pressure on Meta to adopt a single global verification standard becomes commercially easier than defending 40 different legal regimes.",
+        "signal": "Meta announces adoption of the EU age verification standard for all EU users before the New Mexico trial concludes"
+      }
+    ],
+    "whatWouldChange": "If the New Mexico judge finds that applying 'public nuisance' law to a digital platform is constitutionally unsupported under the First Amendment, the entire design-regulation strategy collapses and the only viable tool is age-based access restriction. That ruling would accelerate the Norway/Australia approach globally."
+  }
+}
