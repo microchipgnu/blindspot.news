@@ -61,6 +61,36 @@
       "title": "Trump Broke the EU Car Deal He Made at His Own Golf Course. The Reason He Gave Does Not Hold.",
       "subtitle": "The Turnberry deal lowered EU auto tariffs to 15% last July. Trump raised them back to 25% without citing a specific EU violation. The EU's trade chief meets his US counterpart in Paris tomorrow.",
       "category": "conflict"
+    },
+    {
+      "id": "uaw-stellantis-strike-vote",
+      "title": "UAW Is Voting to Strike Stellantis. The Real Fight Is About Who Gets to Do Skilled Work in America.",
+      "subtitle": "Six thousand workers at Stellantis' Ram plant are voting whether to authorize a strike over outsourced electricians and toolmakers. The vote is a proxy for a larger question the 2023 contract didn't answer.",
+      "category": "conflict"
+    },
+    {
+      "id": "trump-voter-roll-purges",
+      "title": "Trump Is Purging Voter Rolls Inside the 90-Day Window. The Courts Keep Saying No. He Keeps Going.",
+      "subtitle": "The Justice Department is using an immigration database to challenge voter registrations in 30 states, within 90 days of the midterm election. Courts have thrown out case after case. The purges continue.",
+      "category": "power"
+    },
+    {
+      "id": "russia-ukraine-territorial-loss",
+      "title": "Russia Lost Ground in Ukraine for the First Time Since 2024. Ukraine Raised Its Nuclear Preparedness.",
+      "subtitle": "ISW confirms Russian forces ceded 116 square kilometers in April. Ukraine's military simultaneously elevated its nuclear readiness protocols. Both facts arrived in the same week.",
+      "category": "conflict"
+    },
+    {
+      "id": "amsterdam-ad-ban",
+      "title": "Amsterdam Just Started Enforcing the World's First Capital-City Ban on Meat and Fossil Fuel Ads.",
+      "subtitle": "Billboards for burgers, petrol cars, and budget flights went dark in Amsterdam on May 1. Industry groups are calling it censorship. The city is calling it alignment. Both are right about different things.",
+      "category": "decision"
+    },
+    {
+      "id": "google-pentagon-ai-employee-revolt",
+      "title": "Six Hundred Google Employees Signed a Letter Against the Pentagon AI Deal. Google Signed the Deal Anyway.",
+      "subtitle": "In 2018, employee revolt killed Project Maven. In 2026, 600 signatories including directors and VPs got the same result as zero. The leverage that once existed is gone, and the question is why.",
+      "category": "power"
     }
   ]
 }

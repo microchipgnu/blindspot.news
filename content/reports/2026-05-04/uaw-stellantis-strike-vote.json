@@ -1,0 +1,94 @@
+{
+  "id": "uaw-stellantis-strike-vote",
+  "date": "2026-05-04",
+  "generatedAt": "2026-05-04T16:00:00Z",
+  "title": "UAW Is Voting to Strike Stellantis. The Real Fight Is About Who Gets to Do Skilled Work in America.",
+  "subtitle": "Six thousand workers at Stellantis' Ram plant are voting whether to authorize a strike over outsourced electricians and toolmakers. The vote is a proxy for a larger question the 2023 contract didn't answer.",
+  "topic": "economy",
+  "category": "conflict",
+  "tags": ["UAW", "Stellantis", "labor", "auto", "outsourcing", "strike"],
+  "coverImage": {
+    "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iri4.x8bT55o/v1/1200x800.jpg",
+    "local": "/images/reports/2026-05-04/uaw-stellantis-strike-vote.jpg",
+    "credit": "Bloomberg / Jeff Kowalsky"
+  },
+  "sources": [
+    {
+      "url": "https://news.bloomberglaw.com/daily-labor-report/uaw-plans-strike-authorization-vote-at-stellantis-truck-plant",
+      "publisher": "Bloomberg Law",
+      "angle": "Straightforward breaking news: vote dates, worker count, and that this is a multi-step process before any actual walkout."
+    },
+    {
+      "url": "https://hoodline.com/2026/05/sterling-heights-ram-plant-on-edge-as-uaw-pushes-strike-power-vote/",
+      "publisher": "Hoodline",
+      "angle": "Focuses on the specific trades at stake: electricians, toolmakers, pipefitters. Emphasizes this is about enforcing commitments from the 2023 contract settlement."
+    },
+    {
+      "url": "https://www.quiverquant.com/news/UAW+Plans+Strike+Vote+at+Stellantis+Michigan+Plant+Over+Outsourcing+Dispute",
+      "publisher": "Quiver Quantitative",
+      "angle": "Investor-facing framing: positions the strike risk in context of Stellantis relying on Ram sales for its US turnaround, noting the company posted only 377 million euros net profit in Q1."
+    },
+    {
+      "url": "https://www.cbtnews.com/uaw-to-hold-strike-vote-at-stellantis-truck-plant/",
+      "publisher": "CBT News",
+      "angle": "Dealer and supply chain perspective: a strike at Sterling Heights would tighten Ram 1500 inventory and disrupt dealer orders within weeks."
+    }
+  ],
+  "brief": {
+    "actors": ["UAW", "Stellantis", "UAW Local 1700"],
+    "whatHappened": "UAW Local 1700 has scheduled a strike authorization vote for May 7-8 at Stellantis' Sterling Heights Assembly Plant in suburban Detroit, home to the Ram 1500 pickup truck. The vote covers roughly 6,000 hourly workers and centers on a dispute over skilled-trades outsourcing: the union says Stellantis has been using outside contractors for electrical, toolmaking, and pipefitting work instead of allowing union members to bid on those jobs. Authorization would give UAW leadership the power to call a strike but would require further approval from the international union before workers walk off the line. The dispute has been simmering for over a year, and union leaders say Stellantis has failed to honor product and investment commitments embedded in the 2023 contract.",
+    "bottomLine": "This is not a contract fight. It is an enforcement fight, and enforcement fights are harder to settle because neither side can offer a face-saving new deal: Stellantis either stops outsourcing the skilled work, or it doesn't.",
+    "hiddenBets": [
+      {
+        "assumption": "Strike authorization votes are a standard pressure tactic and rarely lead to actual strikes.",
+        "whyItMightBeWrong": "The 2023 contract was supposed to have resolved exactly these outsourcing disputes. The fact that UAW Local 1700 is back at the authorization stage fourteen months later suggests the grievance process has already failed. When the contractual remedies are exhausted, the strike threat is not theater."
+      },
+      {
+        "assumption": "Stellantis can absorb a short work stoppage given its broader restructuring.",
+        "whyItMightBeWrong": "Ram 1500 pickup truck sales are the primary revenue engine for Stellantis' US recovery. A strike at Sterling Heights would dry up dealer inventory within weeks and arrive at precisely the moment Stellantis is trying to demonstrate to investors that the US operation is stabilizing after years of market share loss."
+      },
+      {
+        "assumption": "The skilled-trades dispute is specific to this plant and this contract.",
+        "whyItMightBeWrong": "Outsourcing of skilled trades is a structural pressure across the entire US auto sector as manufacturers reduce headcount in anticipation of EV transitions that require fewer traditional mechanics and toolmakers. Sterling Heights is a test case for whether unions can hold the line on skilled work, not just assembly work."
+      }
+    ],
+    "realDisagreement": "The core fork is whether UAW's 2023 contract victory actually changed the underlying economics of skilled-trades employment, or whether it just deferred the fight. Stellantis argues it is complying with the contract's letter. UAW Local 1700 argues the spirit of the deal was to stop the outsourcing, not to create new procedural workarounds. Both cannot be right. If the contract language is ambiguous enough that Stellantis can plausibly claim compliance while the union claims violation, then the 2023 settlement was, at best, a temporary truce. The union's willingness to go back to authorization suggests they believe the contract either was not written tightly enough or was written tightly enough and Stellantis is simply defying it. The second possibility is more legally dangerous for Stellantis. The first is more politically dangerous for UAW leadership.",
+    "whatNoOneIsSaying": "Stellantis is in a financially precarious position in the US. Its first-quarter profit was 377 million euros globally, barely positive. A prolonged strike at its highest-volume US plant would not be an inconvenience; it could be the event that forces a more fundamental restructuring of its US operations, which is exactly the kind of disruption that makes outsourcing of skilled work look even more attractive in the longer term.",
+    "whoPays": [
+      {
+        "who": "Skilled trades workers at Sterling Heights",
+        "how": "If the authorization vote fails or the strike does not materialize, management reads it as a signal that outsourcing is acceptable under the current contract. Electricians and toolmakers lose work permanently, not temporarily.",
+        "when": "Ongoing, accelerating through 2027 as EV transition reduces demand for traditional skilled trades"
+      },
+      {
+        "who": "Ram truck dealers in the Midwest and South",
+        "how": "Any strike lasting more than two to three weeks depletes lot inventory. Ram is currently the truck brand with the lowest inventory buffer of the Big Three. Dealers without trucks cannot sell trucks.",
+        "when": "Immediate if a strike is called, likely within three weeks of a work stoppage"
+      },
+      {
+        "who": "Stellantis shareholders and bondholders",
+        "how": "Ram 1500 is the margin product for Stellantis US. A strike triggers production losses that cannot be recovered through overtime because skilled-trades workers are the constraint, not assembly line workers.",
+        "when": "Q2 earnings impact if strike extends past mid-May"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Settlement before the vote",
+        "whatHappens": "Stellantis offers a concrete commitment to reduce contractor usage in skilled trades by a measurable number and UAW Local 1700 suspends the vote. The dispute continues through grievance arbitration.",
+        "signal": "No public announcement of a vote cancellation by May 6. If Stellantis has not made a formal offer by the day before the vote, it is not happening before."
+      },
+      {
+        "name": "Authorization passes, strike does not materialize",
+        "whatHappens": "Workers vote yes, UAW international does not authorize a strike, and negotiators resume talks with the authorization as leverage. This is the most common outcome in authorization votes.",
+        "signal": "Watch for UAW President Shawn Fain's public language in the 48 hours after the vote. Cautious language means the authorization is tactical. Aggressive language means the international is considering actually pulling the trigger."
+      },
+      {
+        "name": "Strike authorized and called",
+        "whatHappens": "UAW Local 1700 members walk out. Ram 1500 production halts at Sterling Heights. Stellantis faces a choice between a quick capitulation on outsourcing or a long standoff with its most important US profit center idle.",
+        "signal": "The strike call itself, likely announced by UAW leadership with a specific start date and demand list."
+      }
+    ],
+    "whatWouldChange": "Evidence that Stellantis has a legal right under the current contract language to use outside contractors for the specific tasks in dispute would fundamentally shift the story from a company defying a settlement to a union trying to rewrite a contract through strike pressure. An arbitration ruling in Stellantis' favor would make this.",
+    "markets": []
+  }
+}

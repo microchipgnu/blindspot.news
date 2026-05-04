@@ -1,0 +1,107 @@
+{
+  "id": "trump-voter-roll-purges",
+  "date": "2026-05-04",
+  "generatedAt": "2026-05-04T16:00:00Z",
+  "title": "Trump Is Purging Voter Rolls Inside the 90-Day Window. The Courts Keep Saying No. He Keeps Going.",
+  "subtitle": "The Justice Department is using an immigration database to challenge voter registrations in 30 states, within 90 days of the midterm election. Courts have thrown out case after case. The purges continue.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["Trump", "voter rolls", "NVRA", "midterms", "DOJ", "elections"],
+  "coverImage": {
+    "url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2182390605-20260501135818434.jpg?c=16x9&q=w_800,c_fill",
+    "local": "/images/reports/2026-05-04/trump-voter-roll-purges.jpg",
+    "credit": "CNN / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://www.cnn.com/2026/05/04/politics/voter-roll-purges-election-day",
+      "publisher": "CNN",
+      "angle": "Focuses on the DOJ's use of the SAVE immigration database and the 90-day legal question. Notes that courts are rejecting the administration's arguments but the push continues."
+    },
+    {
+      "url": "https://www.votebeat.org/arizona/2026/04/28/department-justice-trump-adrian-fontes-unredacted-voter-rolls-lawsuit-dismissed-brnovich-ruling/",
+      "publisher": "Votebeat",
+      "angle": "Case study in Arizona: federal judge dismissed DOJ lawsuit to get unredacted voter files. Arizona Secretary of State refused federal demand. Judge sided with state."
+    },
+    {
+      "url": "https://www.usnews.com/news/politics/articles/2026-04-28/analysis-trump-push-for-state-voter-rolls-rebuffed-by-courts-as-midterms-near",
+      "publisher": "U.S. News / Reuters",
+      "angle": "Analytical framing: Trump opponents say this is an attempt to nationalize elections. Legal experts quoted saying the litigation is designed to sow doubts about election legitimacy, not just clean rolls."
+    },
+    {
+      "url": "https://michaeldsellers.substack.com/p/the-new-election-war-trump-moves",
+      "publisher": "Michael D. Sellers / Substack",
+      "angle": "Progressive analysis arguing that the voter roll push and redistricting rush are a coordinated two-pronged strategy to suppress turnout and dilute minority representation before the midterms."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "DOJ", "NVRA"],
+    "whatHappened": "The Trump administration's Justice Department has sued 30 states for not turning over voter registration data, deploying a federal immigration verification tool called SAVE to identify suspected non-citizens on voter rolls. The push is happening inside the 90-day window before the November 2026 midterm elections, a period during which the National Voter Registration Act generally prohibits systematic voter roll removal programs. Federal courts have repeatedly dismissed or rejected the administration's arguments: a judge in Arizona threw out the DOJ lawsuit against that state's secretary of state, and similar rulings have come in Pennsylvania and elsewhere. The DOJ argues its review does not constitute a prohibited systematic removal program because it has not yet resulted in purges. Critics, election law experts, and Democratic state officials argue the intent is to challenge and suppress minority and immigrant-community voters in competitive districts before November.",
+    "bottomLine": "The administration is not trying to win these cases. It is using litigation to generate voter confusion, intimidate naturalized citizens, and build a post-election narrative that fraud justified any outcome. The courts stopping the purges is not the point.",
+    "hiddenBets": [
+      {
+        "assumption": "The 90-day rule in the NVRA effectively prevents mass voter purges before the election.",
+        "whyItMightBeWrong": "The DOJ's legal argument is that the SAVE-based review is not a 'systematic' removal program because individual states retain the decision to actually remove voters. If one court accepts this distinction, the precedent enables targeted removal of hundreds of thousands of registrations before Election Day. The question is not settled law: the Supreme Court has not ruled on whether pre-removal notification and review processes are exempt from the 90-day ban."
+      },
+      {
+        "assumption": "Courts blocking the lawsuits means the voter roll effort is failing.",
+        "whyItMightBeWrong": "Each lawsuit creates a public record of names the DOJ believes are non-citizens. Even without a court order to remove them, some of those voters will receive letters, calls, or see news coverage that makes them uncertain whether they are eligible to vote. Chilling effects do not require successful litigation."
+      },
+      {
+        "assumption": "This is a fight about election integrity.",
+        "whyItMightBeWrong": "The SAVE database has a documented history of false positives, flagging naturalized citizens as non-citizens at meaningful rates. A system with known inaccuracy being deployed to challenge voter eligibility 90 days before an election is not an integrity measure: it is a disruption tool."
+      }
+    ],
+    "realDisagreement": "The genuine fork is between two positions that both have legal grounding: either the NVRA's 90-day restriction is an absolute bar on any government action that could result in removal, or it is a bar only on completed removals and the government can conduct pre-removal reviews up to the day of the election. The administration is betting the second reading holds up. Most courts so far have rejected it. But 'most courts' is not 'all courts,' and one favorable ruling in a circuit with jurisdiction over a swing state could enable the very purges that have been blocked everywhere else. Polymarket gives Democrats an 83.5% chance of winning the House in November. If the voter roll strategy were genuinely effective, that number should be lower: the market's collective bet suggests these purges are not moving the structural needle.",
+    "whatNoOneIsSaying": "State secretaries of state who are refusing to hand over voter rolls to the federal government are doing exactly what the NVRA's federalism design intended. The law was deliberately structured to leave roll maintenance with states precisely to prevent a federal executive from using voter data as a political weapon. The administration's legal argument, if accepted, would fundamentally transfer control of voter eligibility from states to the federal executive, a transformation with implications far beyond any single election.",
+    "whoPays": [
+      {
+        "who": "Naturalized citizens and eligible immigrants in competitive districts",
+        "how": "Receiving federal letters questioning their eligibility suppresses participation even when the challenge is legally baseless. Voters who are uncertain about their status do not show up.",
+        "when": "October 2026, in the weeks before Election Day"
+      },
+      {
+        "who": "State election administrators in states that comply with federal data requests",
+        "how": "Handing over unredacted voter files creates legal liability if the data is used improperly, and political liability with voters who see their information shared with a federal immigration database.",
+        "when": "Immediate and ongoing"
+      },
+      {
+        "who": "Republican incumbents in districts with large naturalized citizen populations",
+        "how": "Voter intimidation in these communities depresses turnout among groups that lean Democratic but the collateral confusion can affect turnout of Republican-leaning immigrant communities as well, particularly South Asian and East Asian voters in suburban districts.",
+        "when": "November 2026"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Courts hold, no mass purges",
+        "whatHappens": "Federal courts continue blocking the DOJ lawsuits. No systematic removal occurs before Election Day. The voter roll effort produces chilling effects in some districts but does not change the structural outcome. Democrats win the House, as markets price.",
+        "signal": "No circuit court ruling that departs from the pattern of dismissals in Arizona, Pennsylvania, and elsewhere. Watch for whether the Supreme Court accepts any emergency application from the administration in October."
+      },
+      {
+        "name": "One circuit breaks ranks",
+        "whatHappens": "A federal appellate court in a state with a large number of competitive House seats accepts the DOJ's argument that pre-removal reviews are not subject to the 90-day restriction. Mass challenges begin in that circuit. Tens of thousands of voters receive eligibility letters in the final weeks before the election.",
+        "signal": "A DOJ victory in the Fifth or Eleventh Circuit in September or October. Either circuit covers states with significant competitive House races."
+      },
+      {
+        "name": "Supreme Court emergency intervention",
+        "whatHappens": "The administration asks the Supreme Court to stay a lower court blocking order. The Court's conservative majority grants the stay, effectively allowing purges to proceed. This would be the most consequential election law ruling since Bush v. Gore.",
+        "signal": "A DOJ emergency application to SCOTUS in the six weeks before Election Day. The existence of the application, not just the ruling, would itself become a major campaign issue."
+      }
+    ],
+    "whatWouldChange": "A peer-reviewed audit of the SAVE database showing its false positive rate for naturalized citizens is under 0.1% would meaningfully strengthen the administration's argument that the review is a good-faith integrity measure rather than a voter suppression tool. No such audit exists.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+        "url": "https://polymarket.com/event/which-party-will-win-the-house-in-2026",
+        "probability": 0.835
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
+        "url": "https://polymarket.com/event/which-party-will-win-the-senate-in-2026",
+        "probability": 0.505
+      }
+    ]
+  }
+}

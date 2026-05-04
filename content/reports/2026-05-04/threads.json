@@ -90,6 +90,58 @@
           "relationship": "Both moves use US military relationships as leverage for commercial compliance: the EU auto tariff hike is coordinated with a German troop drawdown to maximize pressure on Merz; Anthropic's exclusion from classified contracts signals that safety restrictions on military AI use are treated as commercial non-compliance rather than legitimate engineering constraints"
         }
       ]
+    },
+    {
+      "id": "safety-constraints-without-teeth",
+      "title": "Safety Constraints Without Teeth",
+      "description": "The Google Pentagon story and the Anthropic blacklist story are two sides of the same coin, but read together they reveal something neither says alone: the Pentagon has now established a complete market structure for AI that systematically selects against safety restrictions. Anthropic refused 'any lawful purpose' and was excluded. Google accepted it but exited the drone swarm competition. The vendors who stayed are the ones who accepted all conditions. The result is that the most capable AI systems are now deployed in classified military settings under terms that no safety researcher at any of those companies can audit. The safety-versus-capability debate in AI has been resolved in the military context: capability won, and the resolution was commercial rather than ethical.",
+      "type": "cause-effect",
+      "stories": ["pentagon-anthropic-blacklist-ai-deals", "google-pentagon-ai-employee-revolt"],
+      "connections": [
+        {
+          "from": "pentagon-anthropic-blacklist-ai-deals",
+          "to": "google-pentagon-ai-employee-revolt",
+          "relationship": "Anthropic's exclusion over safety restrictions gave Google's leadership the business case to override its own employees: the market signal from the Pentagon is that safety restrictions cost contracts, and Google chose the contract"
+        }
+      ]
+    },
+    {
+      "id": "nuclear-leverage-triangulation",
+      "title": "Nuclear Leverage as the Last Argument",
+      "description": "Three of today's stories involve nuclear capacity being used as a diplomatic instrument in ways that are connected but invisible in any single brief. Russia is raising nuclear threat rhetoric precisely as it loses conventional ground in Ukraine. Ukraine elevated its nuclear preparedness in the same week, which signals it anticipates Russian escalation as a response to conventional failure. Iran's 14-point peace proposal kept the nuclear program off the table entirely because nuclear capability is the only lever Iran has that the US cannot simply ignore. In all three cases, nuclear posture is functioning not as a weapon but as the floor price for any negotiation: the thing you keep to stay at the table.",
+      "type": "tension-cluster",
+      "stories": ["russia-ukraine-territorial-loss", "iran-peace-proposal-trump-rejection", "fed-trapped-iran-stagflation"],
+      "connections": [
+        {
+          "from": "russia-ukraine-territorial-loss",
+          "to": "iran-peace-proposal-trump-rejection",
+          "relationship": "Both Russia and Iran are using nuclear signaling to compensate for conventional military disadvantages: Russia because its ground advance is stalling, Iran because it cannot win a direct military confrontation with the US; the signal in both cases is that nuclear capacity prevents the stronger party from pushing for total capitulation"
+        },
+        {
+          "from": "iran-peace-proposal-trump-rejection",
+          "to": "fed-trapped-iran-stagflation",
+          "relationship": "Iran's decision to exclude its nuclear program from the 14-point peace proposal means the Hormuz closure and oil market disruption that is trapping the Fed will persist; every week the nuclear question is deferred is another week of energy cost inflation the central bank cannot address by cutting rates"
+        }
+      ]
+    },
+    {
+      "id": "midterm-election-engineering",
+      "title": "The Midterm Is Being Engineered Before It Is Held",
+      "description": "Four of today's stories are about actions that will directly determine who is eligible to vote and whose vote counts in the November 2026 midterms. The voter roll purge challenge redefines who can vote. The VRA redistricting rush redefines which votes count by diluting minority districts. The DOJ's 30-state lawsuit campaign generates voter confusion and chilling effects. And UAW's labor fight in Sterling Heights, Michigan, a swing state with three competitive House seats, determines whether 6,000 union workers mobilize as an organized political bloc or absorb a defeat that demobilizes them. None of these four actions is explicitly about the election. Together, they constitute pre-election engineering.",
+      "type": "dependency-web",
+      "stories": ["trump-voter-roll-purges", "scotus-vra-redistricting-rush", "uaw-stellantis-strike-vote"],
+      "connections": [
+        {
+          "from": "trump-voter-roll-purges",
+          "to": "scotus-vra-redistricting-rush",
+          "relationship": "Both strategies target the same population: minority voters in competitive districts. The voter roll challenges suppress individual eligibility; the redistricting rush dilutes collective representation. Used together, they compound into a structural reduction in minority voting power that operates through legal mechanisms rather than explicit exclusion"
+        },
+        {
+          "from": "scotus-vra-redistricting-rush",
+          "to": "uaw-stellantis-strike-vote",
+          "relationship": "Michigan is both a redistricting battleground and the site of the UAW-Stellantis fight; a union loss in Sterling Heights depresses labor organizing capacity in a state where turnout from organized labor has historically been the margin in close House races"
+        }
+      ]
     }
   ]
 }
