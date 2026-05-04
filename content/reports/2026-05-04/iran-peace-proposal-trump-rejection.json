@@ -1,0 +1,118 @@
+{
+  "id": "iran-peace-proposal-trump-rejection",
+  "date": "2026-05-04",
+  "generatedAt": "2026-05-04T08:30:00Z",
+  "title": "Iran's 14-Point Proposal and the War That Neither Side Can End",
+  "subtitle": "Trump says he can't imagine it being acceptable. Iran says the nuclear question can wait. Neither is telling the truth about what they actually need.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["Iran", "US", "Strait of Hormuz", "ceasefire", "nuclear", "Pakistan", "war"],
+  "coverImage": {
+    "url": "https://dims.apnews.com/dims4/default/71e1e9a/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fba%2F20%2Fe7ea1d4be7e4f2fb5dfbd34a4426%2F627b9553c00341b992685051d8d18806",
+    "local": "/images/reports/2026-05-04/iran-peace-proposal-trump-rejection.jpg",
+    "credit": "AP News"
+  },
+  "sources": [
+    {
+      "url": "https://apnews.com/article/iran-us-war-ceasefire-negotiations-strait-b48635e586e2907caae65b58bd03f5b7",
+      "publisher": "AP News",
+      "angle": "Straight news: Trump rejected the proposal almost as soon as it arrived, citing Iran's fractured leadership while keeping military options open"
+    },
+    {
+      "url": "https://www.straitstimes.com/world/middle-east/iranian-proposal-rejected-by-trump-would-open-strait-before-nuclear-talks-iran-official-says",
+      "publisher": "Straits Times",
+      "angle": "Iran's sequencing play: open Hormuz and end the US blockade first, defer nuclear talks to later; the US sees this as getting something for nothing"
+    },
+    {
+      "url": "https://indianexpress.com/article/world/us-news/donald-trump-rejects-iran-14-point-proposal-pakistan-mediation-strait-of-hormuz-10666830/",
+      "publisher": "Indian Express",
+      "angle": "Pakistan as mediator: the WSJ angle on Iran easing conditions while still deferring nuclear issue; regional diplomatic context"
+    },
+    {
+      "url": "https://www.dw.com/en/iran-delivers-fresh-talks-proposal-to-pakistani-mediators/live-77007473",
+      "publisher": "Deutsche Welle",
+      "angle": "The 60-day congressional deadline context: Trump's war authorization window runs out, and US officials argue the ceasefire already ended the war"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2026-05-04/iran-israel-war-news-briefing-tehran-new-peace-plan/106467596",
+      "publisher": "ABC Australia",
+      "angle": "Broader context: Gulf power politics shifting, eyes also on Gaza, Trump announces escort operation for Hormuz-stranded ships starting Monday"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Iran", "Pakistan", "Israel", "China"],
+    "whatHappened": "Iran submitted a 14-point peace proposal to the United States via Pakistani mediators on Thursday, responding to a prior nine-point US framework. The proposal would open the Strait of Hormuz to shipping, end the US naval blockade of Iran, and defer nuclear negotiations to a later phase. Trump rejected it within hours, saying he was 'not satisfied' and the plan asked for things he could not agree to. A three-week ceasefire between the US-Israeli coalition and Iran has held while both sides exchange accusations of violations. Trump separately announced a naval escort operation to begin Monday to assist ships stranded in the Strait.",
+    "bottomLine": "Iran is offering to sell the ceasefire twice: once for the Hormuz opening, and again for the nuclear deal later. Trump is refusing because accepting that sequence would mean giving away the primary leverage before getting the primary demand.",
+    "hiddenBets": [
+      {
+        "assumption": "The ceasefire is stable and both sides want a deal",
+        "whyItMightBeWrong": "Trump has called Iran's leadership 'fractured,' which signals he believes there are factions that actively want the war to continue. If hardliners in Tehran are deliberately sabotaging the proposal to prevent the moderates from conceding on nuclear terms, then what looks like a negotiating gap is actually an internal Iranian civil war being fought through diplomacy."
+      },
+      {
+        "assumption": "Deferring nuclear talks is a reasonable confidence-building step",
+        "whyItMightBeWrong": "The US-Israel alliance launched this war specifically to eliminate Iran's nuclear program, not to reopen shipping lanes. Accepting Hormuz-first would cost the coalition its primary coercive tool before extracting any nuclear concession. Iran knows this. The sequencing demand is not a compromise; it is the whole game."
+      },
+      {
+        "assumption": "Pakistan's mediation reflects neutral interest in de-escalation",
+        "whyItMightBeWrong": "Pakistan is economically dependent on Gulf states and receives quiet pressure from China, which has enormous stakes in Hormuz oil flows. Pakistan's role as mediator makes it structurally inclined to push whatever proposal gets shipping moving again, regardless of whether it serves US security interests."
+      }
+    ],
+    "realDisagreement": "The real fork is whether the nuclear question is the war's purpose or just its pretext. If the war was genuinely about preventing Iranian nuclear weapons, then no deal that defers that question is worth taking. If the war was primarily a demonstration of US-Israeli deterrence capability, then reopening Hormuz and locking in a ceasefire is a win and nuclear talks can follow. The US side seems split on this: the diplomatic track implies the second view, but Trump's public statements imply the first. You cannot pursue both simultaneously without Iran reading the ambiguity as weakness. The lean here is toward the deterrence framing, because the nuclear program already survived the initial strikes, meaning elimination was never truly on the table.",
+    "whatNoOneIsSaying": "Both countries need the war to end more than either will admit publicly. The US faces a 60-day congressional war authorization deadline that the administration is pretending does not apply. Iran's economy is being strangled not just by sanctions but by the Hormuz closure that hurts Iran itself. The proposal may be unacceptable to Trump, but something very close to it is likely where this ends.",
+    "whoPays": [
+      {
+        "who": "Global importers of energy, especially South and East Asia",
+        "how": "20% of global oil and gas flows through Hormuz; every week of continued closure raises energy costs transmitted through every supply chain on the planet",
+        "when": "Already happening; accumulating daily"
+      },
+      {
+        "who": "Iranian civilian population",
+        "how": "Sanctions plus Hormuz closure means Iran cannot export oil at volume; foreign currency reserves burning down; imports of medicine and food precursors constrained",
+        "when": "Deepening over the next 60 to 90 days if no deal"
+      },
+      {
+        "who": "US importers and consumers",
+        "how": "Oil price shock from Hormuz transmits into gasoline, manufacturing, and transportation costs at a moment when the Fed cannot cut rates to cushion the blow",
+        "when": "3 to 6 months lag before full consumer price impact"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Nuclear-First Impasse",
+        "whatHappens": "Trump holds to the position that Hormuz and nuclear disarmament must be resolved simultaneously. Iran refuses. The ceasefire frays within 30 days and strikes resume on a limited basis.",
+        "signal": "Trump announces no more negotiations until Iran submits to IAEA inspection of enrichment sites."
+      },
+      {
+        "name": "Sequenced Deal",
+        "whatHappens": "A face-saving formula lets the US claim nuclear 'talks' are technically concurrent with the Hormuz reopening, while Iran pockets the immediate sanctions relief. Both sides call it a win. Nuclear issue drags on indefinitely.",
+        "signal": "A direct US-Iran diplomatic meeting is announced, not through Pakistani intermediaries."
+      },
+      {
+        "name": "Congressional Intervention",
+        "whatHappens": "Congress uses the expiring war authorization to force a formal end to hostilities, removing Trump's ability to restart strikes unilaterally. Iran's leverage evaporates; they accept less favorable terms.",
+        "signal": "A bipartisan Senate vote on war powers passes committee."
+      }
+    ],
+    "whatWouldChange": "If Iran announced it would accept an IAEA inspection of its Fordow enrichment facility as a precondition to Hormuz talks, that would signal genuine nuclear concession is on the table and make Trump's rejection politically untenable. That has not happened.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "US x Iran permanent peace deal by May 31, 2026?",
+        "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by",
+        "probability": 0.185
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Strait of Hormuz traffic returns to normal by end of May?",
+        "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-may",
+        "probability": 0.215
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will no qualifying diplomatic US-Iran meeting occur by June 30, 2026?",
+        "url": "https://polymarket.com/event/where-will-the-next-us-iran-diplomatic-meeting-happen-455",
+        "probability": 0.332
+      }
+    ]
+  }
+}

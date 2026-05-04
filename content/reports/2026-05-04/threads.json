@@ -1,0 +1,57 @@
+{
+  "date": "2026-05-04",
+  "threads": [
+    {
+      "id": "enforcement-without-teeth",
+      "title": "Enforcement Without Teeth",
+      "description": "Three of today's five stories are about the same underlying problem: institutions that have formal authority but lack the practical mechanism to compel compliance. Courts cannot force Trump to follow orders. SCOTUS could not stop the tariffs before $166 billion was collected. The Fed cannot cut rates to help the labor market without igniting inflation it cannot contain. In each case, the institution has a legitimate mandate and no effective lever.",
+      "type": "tension-cluster",
+      "stories": ["trump-court-defiance-executive-power", "scotus-ieepa-tariff-ruling-refund", "fed-trapped-iran-stagflation"],
+      "connections": [
+        {
+          "from": "trump-court-defiance-executive-power",
+          "to": "scotus-ieepa-tariff-ruling-refund",
+          "relationship": "The same administration that defies lower court orders used IEEPA tariffs for months after they were constitutionally dubious; in both cases the executive branch acted and forced the courts to catch up rather than asking permission first"
+        },
+        {
+          "from": "scotus-ieepa-tariff-ruling-refund",
+          "to": "fed-trapped-iran-stagflation",
+          "relationship": "The SCOTUS tariff ruling creates a gap between old tariff revenue and new Section 301 tariffs arriving in Q4; during that gap the Fed faces a brief disinflationary window it cannot exploit because Iran war energy costs prevent cutting"
+        }
+      ]
+    },
+    {
+      "id": "the-iran-war-as-economic-multiplier",
+      "title": "The Iran War as Economic Multiplier",
+      "description": "The Iran war appears as a direct actor in three of today's five stories: it is the inflation shock the Fed cannot respond to, the missing variable that makes Trump's tariff replacement race more urgent because global growth is slowing, and the backdrop against which every diplomatic proposal is being evaluated. What is invisible in any single story is that the Hormuz closure is doing structural damage to the global economy that will persist even after a deal is reached, because insurance premiums, rerouting costs, and supply chain diversification decisions are being locked in now.",
+      "type": "dependency-web",
+      "stories": ["iran-peace-proposal-trump-rejection", "fed-trapped-iran-stagflation", "scotus-ieepa-tariff-ruling-refund"],
+      "connections": [
+        {
+          "from": "iran-peace-proposal-trump-rejection",
+          "to": "fed-trapped-iran-stagflation",
+          "relationship": "Every week the Hormuz ceasefire fails to become a permanent deal is another week the Fed's inflation outlook remains hostage to oil price uncertainty, which is the primary reason three FOMC members dissented against signaling future rate cuts"
+        },
+        {
+          "from": "iran-peace-proposal-trump-rejection",
+          "to": "scotus-ieepa-tariff-ruling-refund",
+          "relationship": "The Iran war is depressing global demand and pushing trading partners toward regional alternatives to US markets; this weakens the leverage that Section 301 tariff investigations depend on to extract concessions, because countries facing US tariffs can increasingly point to their own economic pain as a reason to retaliate rather than comply"
+        }
+      ]
+    },
+    {
+      "id": "the-safety-limits-question",
+      "title": "Who Gets to Set the Limits",
+      "description": "The Pentagon-Anthropic story and the Trump court defiance story share a common structure: an actor with power is deciding unilaterally that the constraints placed on it by rules or contracts do not apply. The Pentagon decided that Anthropic's safety restrictions were optional and replaced Anthropic with vendors who agreed. Trump decided that lower court orders were advisory and continued operating as if they did not exist. In both cases, the formal constraint was bypassed not through a legal ruling but through a power calculation. The question both stories are really asking is whether limits set by weaker parties on stronger ones have any force at all.",
+      "type": "tension-cluster",
+      "stories": ["pentagon-anthropic-blacklist-ai-deals", "trump-court-defiance-executive-power"],
+      "connections": [
+        {
+          "from": "trump-court-defiance-executive-power",
+          "to": "pentagon-anthropic-blacklist-ai-deals",
+          "relationship": "The administration that defies court orders also rewrote the conditions for AI military contracts after Anthropic refused to drop safety restrictions; in both cases, the powerful party replaced the constraint with a more compliant alternative rather than accepting the limit"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": "scotus-ieepa-tariff-ruling-refund",
+  "date": "2026-05-04",
+  "generatedAt": "2026-05-04T08:30:00Z",
+  "title": "The Tariffs Are Gone. The $166 Billion Refund Has Arrived. The Trade War Has Not Ended.",
+  "subtitle": "SCOTUS killed IEEPA tariffs in February. Trump is replacing them with Section 301 hearings starting this week. The destination is the same. Only the route changed.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["tariffs", "SCOTUS", "IEEPA", "Section 301", "trade", "Trump", "imports", "refund"],
+  "coverImage": {
+    "url": "https://dims.apnews.com/dims4/default/5211ed6/2147483647/strip/true/crop/5400x3598+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9b%2Fc0%2Fc73b7c12eb2aa786806ded25c726%2F7a63038fc2224c2b857fc719fb7cd3d0",
+    "local": "/images/reports/2026-05-04/scotus-ieepa-tariff-ruling-refund.jpg",
+    "credit": "AP News"
+  },
+  "sources": [
+    {
+      "url": "https://apnews.com/article/trump-tariffs-supreme-court-trade-import-taxes-bf712c8ab01f99c3a92e91eb74a9d03f",
+      "publisher": "AP News",
+      "angle": "The administration's response: USTR hearings begin this week under Section 301; stopgap tariffs expire in less than three months; the scramble to maintain revenue and trade protection"
+    },
+    {
+      "url": "https://www.lastmonthatthesupremecourt.com/2026/04/decision-alert-supreme-court-holds-president-not-authorized-to-impose-tariffs-under-the-international-emergency-economic-powers-act/",
+      "publisher": "Last Month at the Supreme Court",
+      "angle": "The legal ruling: 6-3 decision, Roberts majority uses major questions doctrine; Constitution gives taxing power to Congress, IEEPA's 'regulate importation' language does not include tariffs"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-04-30/trump-tariff-rebates-the-web-portal-refunding-166-billion",
+      "publisher": "Bloomberg",
+      "angle": "The $166 billion refund operation: the CAPE portal launched April 20; importers filing for refunds; the scale of the fiscal hit to the Treasury"
+    },
+    {
+      "url": "https://www.law.columbia.edu/news/archive/faculty-experts-supreme-courts-tariff-decision",
+      "publisher": "Columbia Law School",
+      "angle": "Faculty expert analysis: the major questions doctrine as the ruling mechanism; how Roberts narrowed executive power; what other emergency authorities may now be vulnerable"
+    },
+    {
+      "url": "https://www.rnz.co.nz/news/world/594128/nz-exporters-scramble-for-us-tariff-refunds-after-us-supreme-court-ruling",
+      "publisher": "RNZ",
+      "angle": "International perspective: New Zealand exporters eligible for up to $1 billion in refunds; the global supply chain effects of the ruling"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "SCOTUS", "USTR", "Congress", "importers", "China"],
+    "whatHappened": "In February 2026, the Supreme Court ruled 6-3 in Learning Resources v. Trump that the International Emergency Economic Powers Act does not authorize the President to impose tariffs. Chief Justice Roberts, writing for the majority, held that the Constitution grants taxing power to Congress and that IEEPA's language authorizing the President to 'regulate importation' does not include the power to impose duties. The administration immediately rolled out temporary replacement tariffs and launched the CAPE portal on April 20 to begin refunding the approximately $166 billion collected under the invalidated tariffs, with first payments expected by May 11. This week, the Office of the US Trade Representative began hearings under Section 301 of the Trade Act of 1974, the statutory pathway the administration hopes to use for durable replacement tariffs.",
+    "bottomLine": "The Supreme Court forced a $166 billion refund and ended the legal fiction of tariff-as-emergency-power. Trump is rebuilding the same wall through a different legal corridor, and it will take longer, cost more, and be narrower when it arrives.",
+    "hiddenBets": [
+      {
+        "assumption": "Section 301 tariffs are a straightforward replacement for IEEPA tariffs",
+        "whyItMightBeWrong": "Section 301 requires an investigative finding that a specific country engages in 'unjustifiable or discriminatory' trade practices. The process takes months and applies to specific countries and product categories, not global sweeping duties. The Trump administration used Section 301 against China in the first term with some success, but using it to replicate the scale and breadth of the IEEPA tariffs would require simultaneous investigations across dozens of countries and product categories."
+      },
+      {
+        "assumption": "The $166 billion refund is a pure fiscal loss for the government",
+        "whyItMightBeWrong": "Importers who received refunds may face new Section 301 tariffs on the same goods within months. The net fiscal effect depends entirely on how quickly the replacement tariffs arrive and at what rate. If the administration moves fast, refunds and new collections may nearly offset each other."
+      },
+      {
+        "assumption": "The SCOTUS ruling constrains only IEEPA tariffs",
+        "whyItMightBeWrong": "The major questions doctrine used by Roberts is a broader limiting principle on executive power. It says that when an administration seeks to exercise sweeping economic authority through a vague statutory delegation, courts will demand explicit congressional authorization. This applies beyond tariffs to any emergency power the executive tries to stretch into a domestic economic tool."
+      }
+    ],
+    "realDisagreement": "The real fork is whether this ruling is a win for constitutional order or a win for free trade, because these are different things that happen to point the same direction in this case. Constitutional order advocates celebrate that Congress's taxing power was restored. Free trade advocates celebrate that sweeping tariffs were eliminated. But Section 301 tariffs are just as trade-restrictive as IEEPA tariffs; they just require more process. If the objection is to tariffs as policy, the ruling does not help. If the objection is to unilateral executive power, it helps a great deal. The lean here is toward the constitutional framing: the ruling matters more as a constraint on presidential economic emergency powers than as a trade policy outcome, because the actual trade restrictions will largely survive.",
+    "whatNoOneIsSaying": "The real winner of this ruling may be the pro-tariff camp in Congress. Section 301 requires USTR hearings, which means Congress has more visibility and leverage over the tariff-setting process. Legislators who support protectionism but resented being bypassed now have a seat at the table. The tariff policy continues; the power distribution shifts.",
+    "whoPays": [
+      {
+        "who": "US importers who did not file for CAPE refunds",
+        "how": "The refund portal is voluntary and requires administrative action; importers without legal support or awareness of the process may miss the window for hundreds of thousands of dollars in refunds",
+        "when": "Refund deadline pressure over the next 90 days"
+      },
+      {
+        "who": "Countries targeted by Section 301 investigations",
+        "how": "The process is slower but the outcome may be similar or worse; targeted countries face prolonged trade uncertainty while investigations proceed and cannot retaliate against tariffs that are not yet final",
+        "when": "Investigations expected to conclude Q3 or Q4 2026"
+      },
+      {
+        "who": "US consumers and inflation-sensitive households",
+        "how": "The gap between IEEPA tariffs ending and Section 301 tariffs beginning creates a window of lower prices; when new tariffs arrive, the price increases return, possibly at a moment when Fed rate holds are already squeezing disposable income",
+        "when": "The gap is now; the return of tariff-driven inflation is 3 to 6 months away"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Section 301 Succeeds at Scale",
+        "whatHappens": "USTR hearings produce findings against 15 to 20 countries covering most of the original IEEPA tariff base. New tariffs arrive by Q4 2026. The trade wall is rebuilt on statutory grounds that survive legal challenge. The ruling becomes a procedural footnote.",
+        "signal": "USTR announces preliminary findings and proposed tariff rates before June 30."
+      },
+      {
+        "name": "Congressional Deal",
+        "whatHappens": "Congress, under pressure from both the administration and domestic industries that benefit from protection, passes explicit tariff authority legislation giving the president more durable power. The constitutional gap closes through legislation rather than workarounds.",
+        "signal": "A Senate Finance Committee vote on tariff authority legislation."
+      },
+      {
+        "name": "Tariff Fragmentation",
+        "whatHappens": "Section 301 produces a patchwork of country-specific tariffs that are narrower and more inconsistent than the IEEPA regime. Trading partners exploit gaps. The administration's protectionist goals are partially achieved but the system is harder to administer and easier to game.",
+        "signal": "Multiple WTO disputes filed by affected countries within 90 days of new tariff announcements."
+      }
+    ],
+    "whatWouldChange": "If the administration's Section 301 investigations were successfully challenged in court using the same major questions doctrine Roberts used in Learning Resources, and SCOTUS upheld those challenges, then the administration would face a genuinely constrained trade policy toolkit. That scenario would force a legislative solution. Currently the markets appear to expect Section 301 will succeed: the 82% Polymarket probability that courts force tariff refunds reflects the IEEPA ruling that already happened, not an expectation of further losses.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Court Force Trump to Refund Tariffs?",
+        "url": "https://polymarket.com/event/will-the-court-force-trump-to-refund-tariffs-2026-06-30",
+        "probability": 0.82
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "date": "2026-05-04",
+  "generatedAt": "2026-05-04T08:30:00Z",
+  "reports": [
+    {
+      "id": "iran-peace-proposal-trump-rejection",
+      "title": "Iran's 14-Point Proposal and the War That Neither Side Can End",
+      "subtitle": "Trump says he can't imagine it being acceptable. Iran says the nuclear question can wait. Neither is telling the truth about what they actually need.",
+      "category": "conflict"
+    },
+    {
+      "id": "pentagon-anthropic-blacklist-ai-deals",
+      "title": "The Pentagon Replaced Anthropic. The Replacement Clause Is the Story.",
+      "subtitle": "Eight AI companies just agreed to deploy on classified military networks under 'lawful operational use.' Those three words are doing a lot of work.",
+      "category": "power"
+    },
+    {
+      "id": "fed-trapped-iran-stagflation",
+      "title": "The Fed Has No Move. That Is Now the Official Position.",
+      "subtitle": "Four dissents, a lame-duck chair, and a war pushing oil prices up while jobs cool. The central bank that cannot cut is also the one that cannot raise.",
+      "category": "decision"
+    },
+    {
+      "id": "trump-court-defiance-executive-power",
+      "title": "Trump Has Defied 31 Court Orders. The Courts Have Not Stopped Him.",
+      "subtitle": "An AP review found an extraordinary pattern of non-compliance with lower court rulings. The more interesting question is why the enforcement mechanism has not worked.",
+      "category": "power"
+    },
+    {
+      "id": "scotus-ieepa-tariff-ruling-refund",
+      "title": "The Tariffs Are Gone. The $166 Billion Refund Has Arrived. The Trade War Has Not Ended.",
+      "subtitle": "SCOTUS killed IEEPA tariffs in February. Trump is replacing them with Section 301 hearings starting this week. The destination is the same. Only the route changed.",
+      "category": "power"
+    }
+  ]
+}

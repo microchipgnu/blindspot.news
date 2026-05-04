@@ -1,0 +1,119 @@
+{
+  "id": "fed-trapped-iran-stagflation",
+  "date": "2026-05-04",
+  "generatedAt": "2026-05-04T08:30:00Z",
+  "title": "The Fed Has No Move. That Is Now the Official Position.",
+  "subtitle": "Four dissents, a lame-duck chair, and a war pushing oil prices up while jobs cool. The central bank that cannot cut is also the one that cannot raise.",
+  "topic": "economy",
+  "category": "decision",
+  "tags": ["Federal Reserve", "Jerome Powell", "Kevin Warsh", "Iran", "inflation", "stagflation", "interest rates"],
+  "coverImage": {
+    "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNInNbdr8MIo/v0/1200x800.jpg",
+    "local": "/images/reports/2026-05-04/fed-trapped-iran-stagflation.jpg",
+    "credit": "Bloomberg"
+  },
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/04/29/fed-interest-rate-decision-april-2026.html",
+      "publisher": "CNBC",
+      "angle": "Fed holds rates; Powell's likely final meeting as chair; four dissents is the most in decades; Powell says he will remain as governor until the DOJ probe is 'well and truly over'"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-05-01/fed-s-kashkari-and-hammack-say-war-has-changed-rate-outlook",
+      "publisher": "Bloomberg",
+      "angle": "Kashkari and Hammack explain their dissents: the war has changed the calculus; it is no longer appropriate to signal that the next move is a cut"
+    },
+    {
+      "url": "https://finance.yahoo.com/economy/policy/articles/fed-kashkari-warns-iran-war-194307063.html",
+      "publisher": "Yahoo Finance",
+      "angle": "Kashkari on Face the Nation: Hormuz handles 20% of global oil and gas; the closure raises inflation risks and constrains the Fed's ability to give clear guidance"
+    },
+    {
+      "url": "https://www.cbsnews.com/news/federal-reserve-fomc-meeting-today-rate-decision-jerome-powell-kevin-warsh/",
+      "publisher": "CBS News",
+      "angle": "Powell staying as governor after leaving as chair; Kevin Warsh nominated to replace him; the political pressure on the Fed through the transition"
+    },
+    {
+      "url": "https://www.businessinsider.com/april-fed-takeaways-kevin-warsh-jerome-powell-legacy-interest-rates-2026-4",
+      "publisher": "Business Insider",
+      "angle": "Analysis of what Warsh inherits: four dissents, Iran uncertainty, the worst supply shock since the 1970s, and a market pricing in no cuts for 2026"
+    }
+  ],
+  "brief": {
+    "actors": ["Federal Reserve", "Powell", "Warsh", "Kashkari", "Trump", "Iran"],
+    "whatHappened": "The Federal Reserve held its benchmark interest rate steady at its April meeting, marking what was likely Jerome Powell's final meeting as chair. The decision drew four dissents, the most in more than two decades: three officials objected to language suggesting the Fed's next move would still be a rate cut, arguing that the Iran war and Hormuz closure had changed the outlook. Powell announced he would remain on the Federal Reserve Board as a governor after his chairmanship ends in May, citing an ongoing DOJ investigation as reason to delay departure. Kevin Warsh, Trump's nominated successor, awaits Senate confirmation. Minneapolis Fed President Kashkari said on Sunday that the prolonged Iran conflict raises inflation risks and constrains the Fed's ability to signal future rate moves.",
+    "bottomLine": "Stagflation is not a forecast anymore; it is the operating environment, and the Fed has officially run out of direction.",
+    "hiddenBets": [
+      {
+        "assumption": "The Fed's independence is intact despite the political transition",
+        "whyItMightBeWrong": "Powell is staying as a governor specifically to act as a check on political pressure. That is an unusual move that implies the threat is real. Warsh has historically been associated with tighter money and was previously a Trump critic who became a Trump ally. The market assumption that Warsh will behave as an orthodox inflation hawk may be wrong if the political climate demands rate cuts to cushion the trade war's employment costs."
+      },
+      {
+        "assumption": "The Iran war is an external shock the Fed can wait out",
+        "whyItMightBeWrong": "Hormuz handles 20% of global oil and gas. If the closure persists through Q3, energy prices feed into every production input cost. Combined with already-elevated inflation from prior supply shocks, there is a real scenario where the Fed faces 5%+ CPI with rising unemployment, exactly the conditions under which cutting would be inflationary and holding would accelerate the jobs deterioration."
+      },
+      {
+        "assumption": "Polymarket's 55.5% probability of zero Fed cuts in 2026 reflects the true base case",
+        "whyItMightBeWrong": "That probability was set before the April jobs data showed wage growth at its slowest in five years. A labor market that deteriorates faster than expected removes the Fed's ability to cite 'labor market resilience' as a reason to hold. The threshold for a cut may be lower than markets think if employment data continues to soften."
+      }
+    ],
+    "realDisagreement": "The real fork is whether the Fed should respond primarily to supply-side inflation from the war or to demand-side weakness from the softening labor market. Cutting rates would help employment but pour fuel on energy-driven inflation. Holding would protect the inflation fight but allow unemployment to rise in a recession that is partly already here. Three dissenting officials just said the Fed should not even signal it leans toward cutting. That is a choice: it prioritizes inflation credibility over employment protection. The lean here is that this is right in the short run, because cutting while Hormuz is closed would be read by markets as panic and cause an immediate dollar weakening that makes the oil shock worse. But it is a choice with real victims."
+    ,
+    "whatNoOneIsSaying": "The Fed's paralysis is doing work that neither fiscal nor monetary policy can do: it is preventing Trump from claiming credit for rate cuts that would juice the economy before the 2026 midterms. Powell staying as governor is a structural brake on that political cycle. Whether he intended that or not, that is the effect.",
+    "whoPays": [
+      {
+        "who": "American workers at the margin of the labor market",
+        "how": "A Fed that holds rates while jobs soften means businesses face higher financing costs and delay hiring; the workers most likely to lose jobs in a downturn are those with least tenure",
+        "when": "Accumulates over the next 6 to 12 months if Hormuz stays closed"
+      },
+      {
+        "who": "Mortgage holders and homebuyers",
+        "how": "Rate hold keeps mortgage rates elevated; housing affordability, already near record lows, does not improve; first-time buyers remain effectively locked out",
+        "when": "Ongoing through any period of Fed paralysis"
+      },
+      {
+        "who": "Small and mid-size businesses with floating-rate debt",
+        "how": "Higher-for-longer means refinancing costs remain elevated; any business that took on debt during low-rate years faces a wall of repricing",
+        "when": "Each quarterly refinancing cycle through 2026"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Warsh Hawkish Hold",
+        "whatHappens": "Warsh is confirmed, maintains Powell's hold posture, and explicitly abandons the easing bias. Markets price in higher-for-longer definitively. Dollar strengthens, recession odds increase, but the Fed's inflation credibility is preserved.",
+        "signal": "Warsh's confirmation hearing testimony on rate expectations and Fed independence."
+      },
+      {
+        "name": "Political Override",
+        "whatHappens": "Warsh, under pressure from Trump who wants rate cuts to offset trade war damage, signals the door is open to cutting in Q3 even with elevated inflation. The Fed's inflation credibility cracks. Bond vigilantes push long rates higher while the Fed cuts short rates, a yield curve inversion of a different kind.",
+        "signal": "Trump publicly calls for a rate cut and Warsh does not publicly rebuke it within 48 hours."
+      },
+      {
+        "name": "Hormuz Clears, Fed Cuts Late",
+        "whatHappens": "An Iran deal reopens Hormuz by June. Oil prices drop. Inflation falls faster than expected. The Fed cuts twice in H2 2026. Everyone claims vindication. The labor market damage from the previous year's hold is treated as statistical noise.",
+        "signal": "Oil futures fall below $70 on Hormuz reopening news."
+      }
+    ],
+    "whatWouldChange": "A Hormuz reopening that visibly reduces energy prices would give the Fed the cover it needs to resume cutting. Until then, the choice to hold is essentially locked in. The only thing that would change the inflation analysis is a sudden, sharp deterioration in jobs data that makes the employment mandate politically impossible to ignore.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will no Fed rate cuts happen in 2026?",
+        "url": "https://polymarket.com/event/how-many-fed-rate-cuts-in-2026",
+        "probability": 0.5555
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Fed rate cut by June 2026 meeting?",
+        "url": "https://polymarket.com/event/fed-rate-cut-by-629",
+        "probability": 0.045
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US recession by end of 2026?",
+        "url": "https://polymarket.com/event/us-recession-by-end-of-2026",
+        "probability": 0.25
+      }
+    ]
+  }
+}
