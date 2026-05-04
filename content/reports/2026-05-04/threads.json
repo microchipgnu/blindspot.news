@@ -4,7 +4,7 @@
     {
       "id": "enforcement-without-teeth",
       "title": "Enforcement Without Teeth",
-      "description": "Three of today's five stories are about the same underlying problem: institutions that have formal authority but lack the practical mechanism to compel compliance. Courts cannot force Trump to follow orders. SCOTUS could not stop the tariffs before $166 billion was collected. The Fed cannot cut rates to help the labor market without igniting inflation it cannot contain. In each case, the institution has a legitimate mandate and no effective lever.",
+      "description": "Three of today's stories are about the same underlying problem: institutions that have formal authority but lack the practical mechanism to compel compliance. Courts cannot force Trump to follow orders. SCOTUS could not stop the tariffs before $166 billion was collected. The Fed cannot cut rates to help the labor market without igniting inflation it cannot contain. In each case, the institution has a legitimate mandate and no effective lever.",
       "type": "tension-cluster",
       "stories": ["trump-court-defiance-executive-power", "scotus-ieepa-tariff-ruling-refund", "fed-trapped-iran-stagflation"],
       "connections": [
@@ -23,7 +23,7 @@
     {
       "id": "the-iran-war-as-economic-multiplier",
       "title": "The Iran War as Economic Multiplier",
-      "description": "The Iran war appears as a direct actor in three of today's five stories: it is the inflation shock the Fed cannot respond to, the missing variable that makes Trump's tariff replacement race more urgent because global growth is slowing, and the backdrop against which every diplomatic proposal is being evaluated. What is invisible in any single story is that the Hormuz closure is doing structural damage to the global economy that will persist even after a deal is reached, because insurance premiums, rerouting costs, and supply chain diversification decisions are being locked in now.",
+      "description": "The Iran war appears as a direct actor in three of today's stories: it is the inflation shock the Fed cannot respond to, the missing variable that makes Trump's tariff replacement race more urgent because global growth is slowing, and the backdrop against which every diplomatic proposal is being evaluated. What is invisible in any single story is that the Hormuz closure is doing structural damage to the global economy that will persist even after a deal is reached, because insurance premiums, rerouting costs, and supply chain diversification decisions are being locked in now.",
       "type": "dependency-web",
       "stories": ["iran-peace-proposal-trump-rejection", "fed-trapped-iran-stagflation", "scotus-ieepa-tariff-ruling-refund"],
       "connections": [
@@ -50,6 +50,44 @@
           "from": "trump-court-defiance-executive-power",
           "to": "pentagon-anthropic-blacklist-ai-deals",
           "relationship": "The administration that defies court orders also rewrote the conditions for AI military contracts after Anthropic refused to drop safety restrictions; in both cases, the powerful party replaced the constraint with a more compliant alternative rather than accepting the limit"
+        }
+      ]
+    },
+    {
+      "id": "sovereign-authority-under-pressure",
+      "title": "When Rules Don't Hold",
+      "description": "Four new stories today share a structure that is invisible inside any single brief: an authority that should be able to set binding rules is finding that the rules do not actually bind. SCOTUS gutted the VRA framework that governed redistricting for 40 years, and Republican states moved within 48 hours to draw maps the old rules would have blocked. China formally ordered non-compliance with US sanctions for the first time, testing whether Washington's financial authority extends past its borders. Meta threatened to leave a state rather than redesign its product. The EU failed to agree on AI rules because member states could not agree on what territory those rules should cover. These are not coincidentally similar. They all describe the same political moment: the moment when parties decide the rules were only ever as strong as the will to enforce them.",
+      "type": "tension-cluster",
+      "stories": ["scotus-vra-redistricting-rush", "china-blocks-us-sanctions-banks", "meta-new-mexico-child-safety-trial", "eu-ai-act-trilogue-collapse"],
+      "connections": [
+        {
+          "from": "scotus-vra-redistricting-rush",
+          "to": "meta-new-mexico-child-safety-trial",
+          "relationship": "In both cases, a legal framework that constrained powerful actors for decades was removed or threatened by a higher authority, and the constrained parties moved immediately to exploit the opening: Republican governors redrew maps within days, Meta threatened to exit rather than comply"
+        },
+        {
+          "from": "china-blocks-us-sanctions-banks",
+          "to": "eu-ai-act-trilogue-collapse",
+          "relationship": "Both Beijing and the EU's member states are reaching the limit of their tolerance for external rules: China formally rejects US financial jurisdiction, EU states cannot agree on whether AI rules should extend into territory already covered by sector-specific law, in both cases the refusal is about who has the authority to set terms"
+        },
+        {
+          "from": "china-blocks-us-sanctions-banks",
+          "to": "meta-new-mexico-child-safety-trial",
+          "relationship": "Both China and Meta are making the same structural argument: that a rule issued by a foreign or smaller jurisdiction does not have binding force over an actor large enough to sustain the cost of non-compliance, and are betting that the rule-setter will back down rather than escalate to full confrontation"
+        }
+      ]
+    },
+    {
+      "id": "military-as-commercial-leverage",
+      "title": "The Military-Commercial Bundle",
+      "description": "Trump is deploying military relationships as instruments of trade pressure in two separate stories today, and the pattern is not visible unless you read them together. He withdrew troops from Germany the same week he raised auto tariffs, targeting Germany's most economically sensitive sector while reducing its security guarantee. He excluded Anthropic from classified military AI contracts after Anthropic refused to remove safety restrictions, replacing the company with ones that agreed to deploy on offensive military networks. In both cases, access to US military infrastructure is the lever, and commercial compliance is the price of access.",
+      "type": "cause-effect",
+      "stories": ["trump-tears-up-eu-auto-tariff-deal", "pentagon-anthropic-blacklist-ai-deals"],
+      "connections": [
+        {
+          "from": "trump-tears-up-eu-auto-tariff-deal",
+          "to": "pentagon-anthropic-blacklist-ai-deals",
+          "relationship": "Both moves use US military relationships as leverage for commercial compliance: the EU auto tariff hike is coordinated with a German troop drawdown to maximize pressure on Merz; Anthropic's exclusion from classified contracts signals that safety restrictions on military AI use are treated as commercial non-compliance rather than legitimate engineering constraints"
         }
       ]
     }

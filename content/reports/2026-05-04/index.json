@@ -1,6 +1,6 @@
 {
   "date": "2026-05-04",
-  "generatedAt": "2026-05-04T08:30:00Z",
+  "generatedAt": "2026-05-04T13:00:00Z",
   "reports": [
     {
       "id": "iran-peace-proposal-trump-rejection",
@@ -31,6 +31,36 @@
       "title": "The Tariffs Are Gone. The $166 Billion Refund Has Arrived. The Trade War Has Not Ended.",
       "subtitle": "SCOTUS killed IEEPA tariffs in February. Trump is replacing them with Section 301 hearings starting this week. The destination is the same. Only the route changed.",
       "category": "power"
+    },
+    {
+      "id": "meta-new-mexico-child-safety-trial",
+      "title": "New Mexico Wants to Redesign Instagram. Meta Wants to Leave the State Instead.",
+      "subtitle": "Phase two of the landmark child safety trial isn't about money. It's about whether a state judge can restructure a global platform's core product.",
+      "category": "power"
+    },
+    {
+      "id": "eu-ai-act-trilogue-collapse",
+      "title": "The EU AI Act Talks Collapsed. The Deadline They Were Trying to Move Did Not.",
+      "subtitle": "Negotiators failed to agree on a delay. High-risk AI compliance is still due August 2. The failure is not a stalemate; it is an accidental victory for the hardliners.",
+      "category": "decision"
+    },
+    {
+      "id": "scotus-vra-redistricting-rush",
+      "title": "SCOTUS Gutted the Voting Rights Act. Republicans Have 180 Days to Redraw Maps.",
+      "subtitle": "Louisiana v. Callais ended the 40-year Gingles framework for minority representation. The race to redraw before November's midterms may flip four to six House seats.",
+      "category": "power"
+    },
+    {
+      "id": "china-blocks-us-sanctions-banks",
+      "title": "China Just Ordered Its Companies to Ignore US Sanctions. The Banks Are Next.",
+      "subtitle": "Beijing used its blocking law for the first time, telling domestic oil refiners not to comply with Treasury sanctions. The move puts Chinese banks in an impossible position ten days before Trump arrives in Beijing.",
+      "category": "conflict"
+    },
+    {
+      "id": "trump-tears-up-eu-auto-tariff-deal",
+      "title": "Trump Broke the EU Car Deal He Made at His Own Golf Course. The Reason He Gave Does Not Hold.",
+      "subtitle": "The Turnberry deal lowered EU auto tariffs to 15% last July. Trump raised them back to 25% without citing a specific EU violation. The EU's trade chief meets his US counterpart in Paris tomorrow.",
+      "category": "conflict"
     }
   ]
 }

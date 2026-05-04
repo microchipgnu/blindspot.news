@@ -1,0 +1,100 @@
+{
+  "id": "meta-new-mexico-child-safety-trial",
+  "date": "2026-05-04",
+  "generatedAt": "2026-05-04T13:00:00Z",
+  "title": "New Mexico Wants to Redesign Instagram. Meta Wants to Leave the State Instead.",
+  "subtitle": "Phase two of the landmark child safety trial isn't about money. It's about whether a state judge can restructure a global platform's core product.",
+  "topic": "society",
+  "category": "power",
+  "tags": ["Meta", "Instagram", "child safety", "social media regulation", "New Mexico", "Big Tech"],
+  "coverImage": {
+    "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_2_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "local": "/images/reports/2026-05-04/meta-new-mexico-child-safety.jpg",
+    "credit": "The Verge / Cath Virginia"
+  },
+  "sources": [
+    {
+      "url": "https://thenextweb.com/news/meta-new-mexico-trial-phase-two-child-safety",
+      "publisher": "The Next Web",
+      "angle": "Framing this as Meta's ultimatum: comply with product redesign or withdraw from New Mexico, casting the company as choosing corporate convenience over child welfare."
+    },
+    {
+      "url": "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety",
+      "publisher": "The Verge",
+      "angle": "Focuses on the legal novelty of the phase two remedies and how a $3.7B abatement fund demand could set precedent for every state attorney general with a similar case pending."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/05/04/meta-new-mexico-child-safety-facebook-instagram.html",
+      "publisher": "CNBC",
+      "angle": "Business-focused framing: the billion-dollar consequences and how this case fits into social media's broader 'Big Tobacco moment' narrative."
+    },
+    {
+      "url": "https://abcnews.com/Technology/wireStory/new-mexico-seeks-child-safety-restrictions-meta-apps-132625773",
+      "publisher": "ABC News / AP",
+      "angle": "Straight news account of the specific remedies sought: algorithm changes, age verification, default privacy settings, and child exploitation oversight."
+    },
+    {
+      "url": "https://www.bostonglobe.com/2026/05/04/nation/new-mexico-meta-trial/",
+      "publisher": "The Boston Globe",
+      "angle": "Notes that phase one's $375M jury verdict was against a company with $165B in annual revenue, contextualizing why the structural remedies in phase two are what actually matter."
+    }
+  ],
+  "brief": {
+    "actors": ["Meta", "New Mexico", "Zuckerberg", "SCOTUS"],
+    "whatHappened": "Phase two of New Mexico's landmark child safety trial against Meta opened Monday in Santa Fe before Judge Bryan Biedscheid. In March, a jury found Meta guilty of violating the state's consumer protection law by misrepresenting the safety of Facebook and Instagram for children, ordering $375 million in civil penalties. Phase two is a bench trial with no jury, lasting approximately three weeks, in which Attorney General Raul Torrez will argue that Meta's platforms constitute a public nuisance under state law. The remedies sought are sweeping: a $3.7 billion abatement fund, mandatory algorithm redesigns to remove addictive features, age verification requirements, default privacy settings for minors, and expanded oversight of child sexual exploitation. Meta has threatened to withdraw Facebook and Instagram from New Mexico entirely rather than rebuild its products to comply.",
+    "bottomLine": "Meta's threat to leave New Mexico is a confession that it cannot comply: the changes the state is demanding would break the business model that makes Instagram worth $1 trillion.",
+    "hiddenBets": [
+      {
+        "assumption": "Meta's withdrawal threat is a bluff to intimidate the judge",
+        "whyItMightBeWrong": "Withdrawing from New Mexico is operationally trivial for Meta; the real risk is that compliance with a New Mexico order creates a documented standard that plaintiffs in 40 other pending state cases will immediately cite. The threat might be entirely rational."
+      },
+      {
+        "assumption": "Algorithm changes ordered by a state court would be limited to New Mexico",
+        "whyItMightBeWrong": "Geofencing algorithmic behavior at the state level is technically possible but commercially absurd. Any meaningful change Meta makes to comply with Judge Biedscheid's order would almost certainly apply to its entire U.S. user base, and likely beyond."
+      },
+      {
+        "assumption": "The $375M jury verdict is the landmark; phase two is the follow-up",
+        "whyItMightBeWrong": "Commentators who got phase one right are reversing this: the penalty was the easy part. A judge ordering product redesign is the thing that would restructure an industry, not the fine a company of Meta's size settles before lunch."
+      }
+    ],
+    "realDisagreement": "The fork is whether social media harm to children is a product defect that can be fixed, or a feature that is inseparable from the business model. If it is a defect, remediation is possible and the court's power is legitimate. If it is a feature, then no cosmetic algorithm change will satisfy the state's demands, Meta's compliance will always be partial, and the only real outcome is either a platform redesign that breaks the engagement engine or a Meta exit. New Mexico's attorney general is betting on the second answer, which is why the abatement demand is $3.7 billion rather than an injunction to add a few safety toggles. The legal framing requires the judge to act as if it were a defect; the economic logic suggests it is a feature. I would lean toward the feature diagnosis, which means the phase two remedy, if granted, will either be ignored on appeal or will be the first genuine structural regulation of a major social media platform."
+    ,
+    "whatNoOneIsSaying": "Meta pulling out of New Mexico would be the best thing that could happen to the state's case. The moment Instagram disappears from phones in Albuquerque, the political and legal pressure on every other state and on Congress to act nationalizes overnight.",
+    "whoPays": [
+      {
+        "who": "New Mexico children and teens currently on Instagram",
+        "how": "If Meta executes the withdrawal threat, they lose access to the dominant social network used by their peers, with no substitute. The harm the lawsuit was designed to prevent is replaced by a different harm: social exclusion.",
+        "when": "Within weeks of any unfavorable ruling"
+      },
+      {
+        "who": "Meta shareholders",
+        "how": "Any structural remedy that survives appeal sets precedent nationwide. A $3.7B fund in New Mexico, scaled to population, would be approximately $400B nationally. The market has not priced this.",
+        "when": "Years of appeals; real exposure materializes 2028-2030"
+      },
+      {
+        "who": "State attorneys general in the 40+ pending cases",
+        "how": "A favorable ruling for New Mexico gives them a working legal theory and a discoverable record. An unfavorable ruling ends most of those cases before they reach juries.",
+        "when": "Ruling expected late 2026"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Structural order, Meta appeals",
+        "whatHappens": "Judge Biedscheid finds public nuisance and orders algorithm changes and partial abatement funding. Meta immediately appeals to the New Mexico Court of Appeals, arguing the order is preempted by federal law (CDA Section 230) and violates the Commerce Clause. The case reaches the Supreme Court by 2028.",
+        "signal": "Watch for Meta's initial response brief: if they argue Section 230 preemption, they are planning to fight on federal grounds. If they argue state procedural defects, they are buying time."
+      },
+      {
+        "name": "Meta withdraws, Congress reacts",
+        "whatHappens": "Meta exits New Mexico. The resulting political firestorm drives the first viable federal child online safety legislation since COPPA in 1998. Meta loses in Congress what it won in Santa Fe.",
+        "signal": "A Meta press release announcing service withdrawal triggers the observable event. Congressional co-sponsors on child safety bills will multiply within 72 hours."
+      },
+      {
+        "name": "Settlement before verdict",
+        "whatHappens": "Meta negotiates a settlement that includes opaque algorithm changes and a smaller fund, framed as voluntary child safety investment rather than court-ordered abatement. The precedent is muddied; other states accept similar deals.",
+        "signal": "Watch for a trial continuance request or a report of settlement talks between Torrez and Meta's outside counsel."
+      }
+    ],
+    "whatWouldChange": "If Judge Biedscheid rules that New Mexico's public nuisance theory is preempted by federal law before reaching remedies, the bottom line inverts: Meta wins on a technicality, the structural regulation theory dies in state courts, and the only path left is federal legislation. That would mean the states spent years building a case that ultimately handed the question back to a Congress that has not acted in 28 years.",
+    "markets": []
+  }
+}

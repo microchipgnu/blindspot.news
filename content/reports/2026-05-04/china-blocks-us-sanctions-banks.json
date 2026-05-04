@@ -1,0 +1,99 @@
+{
+  "id": "china-blocks-us-sanctions-banks",
+  "date": "2026-05-04",
+  "generatedAt": "2026-05-04T13:00:00Z",
+  "title": "China Just Ordered Its Companies to Ignore US Sanctions. The Banks Are Next.",
+  "subtitle": "Beijing used its blocking law for the first time, telling domestic oil refiners not to comply with Treasury sanctions. The move puts Chinese banks in an impossible position ten days before Trump arrives in Beijing.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["China", "sanctions", "Trump", "Xi", "Iran", "US Treasury", "trade war", "banks"],
+  "coverImage": {
+    "url": "https://cassette.sphdigital.com.sg/image/straitstimes/f85bbf1ea83f72b80561d42dd7b63dd65ddfbe4f261df5e147baa85b99943b04",
+    "local": "/images/reports/2026-05-04/china-blocks-us-sanctions.jpg",
+    "credit": "The Straits Times / Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://www.straitstimes.com/asia/east-asia/chinas-rare-defiance-of-us-sanctions-sparks-showdown-over-banks",
+      "publisher": "The Straits Times",
+      "angle": "Flags the banking system as the central mechanism: Chinese banks that process transactions for sanctioned entities face US secondary sanctions, creating a direct conflict between Beijing's order and their access to dollar clearing."
+    },
+    {
+      "url": "https://www.geopolitechs.org/p/china-uses-blocking-law-for-first",
+      "publisher": "Geopolitechs",
+      "angle": "Details the specific legal instrument used, China's Rules on Counteracting Unjustified Extraterritorial Application, and identifies the five companies covered: Hengli Petrochemical and four smaller teapot refiners, all sanctioned for buying Iranian crude."
+    },
+    {
+      "url": "https://sanctionsnews.bakermckenzie.com/china-introduces-new-state-council-decrees-on-supply-chain-security-and-countering-unjustifiable-extraterritorial-measures/",
+      "publisher": "Baker McKenzie / Global Sanctions Blog",
+      "angle": "Legal analysis of the State Council decrees that created the framework: Decree 834 on supply chain security and Decree 835 on counter-extraterritoriality, both effective spring 2026, as the legal architecture enabling this move."
+    },
+    {
+      "url": "https://international.astroawani.com/global-news/analysis-white-house-quiet-china-ramps-trade-leverage-trump-xi-summit",
+      "publisher": "Astro Awani / Reuters",
+      "angle": "Analyzes the Trump administration's conspicuous silence: US officials have not publicly commented on Beijing's new trade rules or the blocking order, interpreted as a deliberate choice not to escalate before the May 14-15 summit."
+    },
+    {
+      "url": "https://fortune.com/2026/05/04/china-announcement-21-us-sanctions-trump-xi-beijing-summit/",
+      "publisher": "Fortune",
+      "angle": "Argues Xi has the leverage advantage going into the summit: China's sanctions defiance, its new supply chain diversification rules, and its status as Trump's main trade counterparty all favor Beijing in the negotiation."
+    }
+  ],
+  "brief": {
+    "actors": ["China", "Trump", "Xi", "Iran", "US Treasury"],
+    "whatHappened": "On May 2, China's Ministry of Commerce issued a prohibition order under its blocking regulations directing companies not to recognize or comply with US Treasury sanctions on five Chinese oil refining companies, including Hengli Petrochemical and four smaller teapot refiners. The order declared the US sanctions a violation of international law. This is the first time Beijing has activated its blocking law, which has existed since 2021 but had never been formally invoked. The five companies were sanctioned by OFAC in April for allegedly purchasing billions of dollars in Iranian crude. The move comes 12 days before President Trump is scheduled to visit Beijing for a summit with Xi Jinping on May 14-15. US officials have publicly declined to comment on the order. Meanwhile, China introduced two State Council decrees in spring 2026 establishing formal frameworks to counter foreign extraterritorial measures and protect Chinese supply chains.",
+    "bottomLine": "China's first use of its blocking law is not about five oil refiners; it is about establishing before the summit that Beijing will not absorb US sanctions compliance as a political cost, and that the summit price for a trade deal is lifting the sanctions framework, not extending it.",
+    "hiddenBets": [
+      {
+        "assumption": "China's blocking order helps the sanctioned refiners",
+        "whyItMightBeWrong": "Chinese banks that service the five companies still face US secondary sanctions if they process transactions. Beijing can order non-compliance with US law; it cannot eliminate the consequence of losing dollar-clearing access. The practical effect may be that the refiners' banking relationships become more difficult, not less."
+      },
+      {
+        "assumption": "Trump's silence before the summit means he will not respond to the blocking order",
+        "whyItMightBeWrong": "Trump has a pattern of deferring escalation before meetings and then announcing punitive measures immediately after. The silence may be packaging the response as a post-summit announcement rather than suppressing it."
+      },
+      {
+        "assumption": "The blocking order is about the Iran sanctions specifically",
+        "whyItMightBeWrong": "The legal framework China has built targets any 'unjustifiable extraterritorial application of foreign legislation.' The Iran sanctions are the first use case, but the mechanism is general. Beijing has built infrastructure to systematically counter US sanctions and export controls, not just to defend five refiners."
+      }
+    ],
+    "realDisagreement": "The genuine fork is whether the US sanctions system can survive the erosion of compliance by a major economy. The US dollar's role as the global reserve currency gives Treasury secondary sanctions their enforcement power: any bank that wants dollar access has to comply or lose it. China's move tests whether a state large enough to sustain alternative payment infrastructure can actually defect from that system at scale. The market's implicit answer, in the continued dominance of dollar-denominated trade, is no. But Beijing's bet is that the network of Chinese banks, the Belt and Road payment corridors, and accumulated yuan trade volume have reached a threshold where defection is survivable. I lean toward the US position being durable for now, but the margin of safety is narrower than it was five years ago, and each successful instance of Chinese sanctions defiance narrows it further.",
+    "whatNoOneIsSaying": "The US government's silence is itself a signal to every other country watching: if you have enough leverage before a bilateral summit, you can violate US sanctions and face no immediate consequence. Saudi Arabia, the UAE, Turkey, and India are all watching to see if China pays a price.",
+    "whoPays": [
+      {
+        "who": "Chinese banks servicing the five sanctioned refiners",
+        "how": "They now face a formal conflict between Beijing's order and US secondary sanctions. Any bank that processes transactions for the five companies risks losing correspondent banking relationships and US dollar access. The ones that comply with Beijing lose access to New York; the ones that comply with Washington face potential domestic penalties.",
+        "when": "Immediate; the conflict is live as of May 2"
+      },
+      {
+        "who": "US companies with supply chains running through China",
+        "how": "The State Council decrees on supply chain security include provisions penalizing foreign companies that shift production away from China. US firms restructuring supply chains in response to tariffs now face a legal counterweight in Chinese domestic law.",
+        "when": "Enforcement of the decrees is uncertain but the legal exposure begins now"
+      },
+      {
+        "who": "Iran",
+        "how": "China's open defiance of the sanctions undermines the economic pressure that is supposed to constrain Iran's military program. If Beijing's blocking order holds, Iran retains a major buyer for crude that the US was trying to cut off.",
+        "when": "Ongoing; the blocking order is in effect immediately"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Summit deal absorbs the dispute",
+        "whatHappens": "Trump and Xi reach a broad trade framework that includes quiet US agreement not to enforce secondary sanctions against Chinese banks dealing with the five refiners in exchange for Chinese concessions on chip exports, fentanyl, or Taiwan-adjacent military activity. The blocking order becomes irrelevant.",
+        "signal": "Any summit communique that references 'sanctions relief' or 'humanitarian carveouts' in the context of trade, or a Treasury announcement of de-listing or modified enforcement after May 15."
+      },
+      {
+        "name": "US designates Chinese banks",
+        "whatHappens": "Treasury adds one or more Chinese banks to the SDN list for processing transactions with the sanctioned refiners. Beijing responds by restricting US financial institutions' Chinese market access. Bilateral financial system fragmentation accelerates.",
+        "signal": "An OFAC designation of a Chinese state bank or a Treasury announcement of enhanced China-Iran transaction monitoring."
+      },
+      {
+        "name": "Blocking order holds, no US response",
+        "whatHappens": "The summit produces no resolution of the sanctions conflict. US secondary sanctions remain technically in force but are not enforced against Chinese actors. The blocking order establishes a durable precedent that Chinese companies can ignore US sanctions with Beijing's political cover.",
+        "signal": "No Treasury action against Chinese banks within 90 days of the blocking order, combined with no summit language on the sanctions issue."
+      }
+    ],
+    "whatWouldChange": "If Treasury designates a major Chinese bank for sanctions violations before May 14, the summit framework collapses and the bottom line changes: the confrontation becomes overt rather than managed, and the question shifts from deal-making to escalation management.",
+    "markets": []
+  }
+}
