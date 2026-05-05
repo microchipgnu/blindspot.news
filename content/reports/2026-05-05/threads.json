@@ -80,6 +80,63 @@
           "relationship": "The proposed domestic AI model vetting regime and the chip export controls are designed to work together as a dual containment strategy, but the Nvidia zero-share outcome shows that hardware containment failed; if model-weight controls are added on top of failed hardware controls, the same substitution dynamic will occur with AI software development"
         }
       ]
+    },
+    {
+      "id": "voluntary-compliance-as-capture",
+      "title": "Industries are volunteering for the regulation they intend to control",
+      "description": "Two stories today show the same move in two different sectors: Google, Microsoft, and xAI voluntarily agreed to pre-release AI model review the day before mandatory rules were announced; Coinbase reversed its opposition to the CLARITY Act the day a stablecoin compromise cleared its path. In both cases, the industry player that was previously resisting regulatory oversight suddenly became its most vocal advocate -- exactly when the regulation was close enough to pass that non-participation would mean someone else writes the rules. Voluntary compliance, offered at the last moment before mandatory rules arrive, is the standard opening move of regulatory capture.",
+      "type": "tension-cluster",
+      "stories": ["big-tech-ai-model-review", "clarity-act-stablecoin"],
+      "connections": [
+        {
+          "from": "big-tech-ai-model-review",
+          "to": "clarity-act-stablecoin",
+          "relationship": "Both tech giants and crypto companies shifted from fighting oversight to embracing it within the same week, and in both cases the shift came precisely when mandatory regulation became probable enough that early compliance gave the incumbent a seat at the standard-setting table"
+        }
+      ]
+    },
+    {
+      "id": "iran-war-economic-transmission",
+      "title": "The Iran war is now an economic policy problem, not just a military one",
+      "description": "Three stories today reveal the economic transmission mechanism of the Hormuz conflict that the ceasefire narrative is obscuring. The IMF's adverse scenario already matches current oil prices. The Federal Reserve just split four ways over whether its next move might be a hike, driven by Iran-fueled inflation. And China is buying Iranian oil at a discount while blocking US sanctions, which means the war is simultaneously causing global inflation and funding the adversary Washington is trying to contain. The military story is about whether the ceasefire holds. The economic story is that the damage is already running and accelerating regardless of what happens at the front.",
+      "type": "dependency-web",
+      "stories": ["imf-stagflation-warning", "fomc-four-dissents", "china-sanctions-defiance"],
+      "connections": [
+        {
+          "from": "imf-stagflation-warning",
+          "to": "fomc-four-dissents",
+          "relationship": "The IMF's adverse scenario -- oil at $125, inflation at 5.4% -- is the exact condition that drives the Fed dissenter case for possible rate hikes rather than cuts; Kashkari explicitly named Iran as the reason he refused to rule out a hike"
+        },
+        {
+          "from": "china-sanctions-defiance",
+          "to": "imf-stagflation-warning",
+          "relationship": "China's decision to ignore US sanctions on Iranian oil refiners and continue purchasing at a discount means the supply disruption causing global inflation is being maintained by Chinese demand, which no US policy instrument currently in use can address"
+        }
+      ]
+    },
+    {
+      "id": "beijing-summit-as-inflation-valve",
+      "title": "The Trump-Xi summit is the only lever that touches both the war and the global economy at once",
+      "description": "Four stories today connect through Beijing. China is buying Iranian oil, fueling the Hormuz conflict's economic damage. The IMF says that economic damage becomes catastrophic if the war extends to 2027. The Fed is split over whether to hike because of Iran-driven inflation. And Trump is going to Beijing in two weeks to negotiate with the one actor who controls Iranian oil demand. The summit is not just a trade or Taiwan story; it is the single diplomatic event that could simultaneously reduce Iranian energy revenue, ease the Hormuz disruption, and give central banks enough confidence to hold. That makes every story about the Iran-economy link a story about whether Trump can actually deliver something in Beijing.",
+      "type": "cause-effect",
+      "stories": ["trump-xi-beijing-summit", "imf-stagflation-warning", "fomc-four-dissents", "china-sanctions-defiance"],
+      "connections": [
+        {
+          "from": "trump-xi-beijing-summit",
+          "to": "china-sanctions-defiance",
+          "relationship": "China's invocation of blocking rules against US oil sanctions on Iranian refiners gives Beijing a specific concession it can offer Trump in Beijing: agreeing to limit Iranian oil purchases in exchange for the US rolling back secondary sanctions"
+        },
+        {
+          "from": "trump-xi-beijing-summit",
+          "to": "imf-stagflation-warning",
+          "relationship": "A Chinese commitment to cut Iranian oil purchases by even 500,000 barrels per day would reduce Iranian revenue enough to move oil prices toward the IMF's baseline scenario rather than the adverse one"
+        },
+        {
+          "from": "china-sanctions-defiance",
+          "to": "fomc-four-dissents",
+          "relationship": "China's continued Iranian oil purchases keep global oil prices elevated, which is the primary mechanism sustaining the inflation-hawk case among the three Fed dissenters who opposed the easing-bias language"
+        }
+      ]
     }
   ]
 }

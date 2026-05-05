@@ -1,0 +1,106 @@
+{
+  "id": "big-tech-ai-model-review",
+  "date": "2026-05-05",
+  "generatedAt": "2026-05-05T16:00:00Z",
+  "title": "Google, Microsoft, and xAI Volunteered to Let the Government Watch Them",
+  "subtitle": "The three biggest players in frontier AI agreed to pre-release government review just as Washington debates making it mandatory. The companies that stayed out are the ones who already got excluded.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["AI regulation", "national security", "Big Tech", "Anthropic", "model safety"],
+  "coverImage": {
+    "url": "https://www.reuters.com/resizer/v2/LDVKBJB3ONLO7CPC2ACFFS4T2A.jpg?auth=375b6e9529a31632e52c77f6652f8923a8d89afc057e9552cf21f81f92d1015e&height=1005&width=1920&quality=80&smart=true",
+    "local": "/images/reports/2026-05-05/big-tech-ai-model-review.jpg",
+    "credit": "Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://www.reuters.com/legal/litigation/microsoft-xai-google-will-share-ai-models-with-us-govt-security-reviews-2026-05-05/",
+      "publisher": "Reuters",
+      "angle": "Straightforward news break: Google, Microsoft, xAI agree to CAISI pre-release evaluations; White House considering mandatory extension of the program."
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/924017/google-microsoft-xai-government-review",
+      "publisher": "The Verge",
+      "angle": "Notes that CAISI has already done 40 reviews for OpenAI and Anthropic; frames this as a voluntary expansion ahead of potential mandatory rules."
+    },
+    {
+      "url": "https://www.axios.com/2026/05/04/trump-white-house-ai-safety-tests-mythos",
+      "publisher": "Axios",
+      "angle": "The Mythos scare is the explicit trigger. The White House was not planning oversight until Anthropic's model alarmed officials enough to prompt an emergency working group."
+    },
+    {
+      "url": "https://thehill.com/homenews/5863937-google-microsoft-xai-testing/",
+      "publisher": "The Hill",
+      "angle": "Frames it as a political story: federal government moving toward pre-release oversight just as the companies most threatened by mandatory rules volunteer their compliance."
+    },
+    {
+      "url": "https://thedefensepost.com/2026/05/04/pentagon-snubs-anthropic-ai/",
+      "publisher": "The Defense Post",
+      "angle": "Background on the DoD exclusion of Anthropic from classified AI contracts -- the parallel track that shows the cost of non-cooperation."
+    }
+  ],
+  "brief": {
+    "actors": ["Google", "Microsoft", "xAI", "Anthropic", "CAISI", "White House", "DoD"],
+    "whatHappened": "On May 5, Google, Microsoft, and Elon Musk's xAI agreed to give the US government early access to new AI models for national security testing through the Center for AI Standards and Innovation (CAISI). The move comes one day after the White House confirmed it is weighing mandatory pre-release vetting rules triggered by Anthropic's Mythos model, which alarmed officials with its autonomous capabilities. CAISI has already conducted 40 evaluations for OpenAI and Anthropic. The three new companies are voluntarily joining a review architecture that may soon become compulsory.",
+    "bottomLine": "These three companies didn't volunteer out of principle. They volunteered because Anthropic just showed them what non-cooperation costs.",
+    "hiddenBets": [
+      {
+        "assumption": "Voluntary compliance signals support for AI safety.",
+        "whyItMightBeWrong": "Voluntary compliance signals a calculation that mandatory rules are coming and that being early gives you more say in how they're written. Google, Microsoft, and xAI are positioning for regulatory capture, not oversight."
+      },
+      {
+        "assumption": "Government review will catch dangerous models before release.",
+        "whyItMightBeWrong": "CAISI has 40 prior evaluations and no published methodology, criteria, or enforcement power. A review process with no defined pass/fail is an approval theater, not a safety gate."
+      },
+      {
+        "assumption": "The Mythos crisis is what triggered this.",
+        "whyItMightBeWrong": "The DoD exclusion of Anthropic from classified contracts was announced the same week. Companies that refused to cooperate with military use terms got shut out. The 'voluntary' agreements may be less about Mythos and more about the Pentagon making clear that access requires compliance."
+      }
+    ],
+    "realDisagreement": "The genuine fork is between two views of what just happened. One: companies are accepting legitimate security review and the government gets to know what is in frontier models before the public does. Two: the companies that agreed to review will now shape what 'safe' means, locking in definitions that advantage incumbents and slow competitors. Both outcomes follow from the same action. The first view requires believing CAISI will act as a neutral evaluator. The second requires believing Google and Microsoft's legal teams will be in every standards meeting. The second is more structurally likely. I would lean toward concern about regulatory capture, but the cost of that concern is that without any oversight, Mythos-level models go straight to the public with no review at all.",
+    "whatNoOneIsSaying": "The companies with the most to lose from a mandatory vetting regime just volunteered for it. That is a tell. When dominant incumbents embrace regulation, they are usually writing it.",
+    "whoPays": [
+      {
+        "who": "Open-source AI developers and smaller labs",
+        "how": "If voluntary pre-release review becomes mandatory, it creates a compliance cost that only large companies can absorb. A two-person lab releasing a capable open-weight model cannot run a CAISI evaluation.",
+        "when": "Immediate if rules pass before end of 2026"
+      },
+      {
+        "who": "Anthropic",
+        "how": "Already excluded from DoD classified contracts for refusing military use terms. If it is now also outside the voluntary review coalition, it is doubly isolated from the government relationships that determine where AI gets deployed at scale.",
+        "when": "Already in effect"
+      },
+      {
+        "who": "The public",
+        "how": "Pre-release government review with no public transparency means models may be modified based on national security feedback the public never sees. The reviewed model and the released model may not be the same.",
+        "when": "From the first mandatory review cycle onward"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Soft Mandate",
+        "whatHappens": "The White House issues an executive order requiring pre-release evaluations for models above a capability threshold. The threshold is defined in a process where CAISI consults with the companies already inside the review coalition. Open-source labs are exempted or given a reduced regime.",
+        "signal": "CAISI publishes draft evaluation criteria in the next 30 days and the comment period includes industry representatives from exactly the companies that already signed agreements."
+      },
+      {
+        "name": "Voluntary Holds",
+        "whatHappens": "The arrangement remains informal. Companies submit models to CAISI as a gesture, CAISI produces classified summaries for the NSC, and no model is ever actually blocked. The program becomes a paper compliance track that companies use in congressional testimony.",
+        "signal": "No model is delayed or modified as a result of CAISI review within six months of the program launching."
+      },
+      {
+        "name": "Capability Trigger",
+        "whatHappens": "A CAISI evaluation flags a model as presenting unacceptable autonomous action risk. The White House blocks its release. This is the first real test of whether the review has teeth. The company challenges the decision in court and the legal basis for the block proves thin.",
+        "signal": "A major model release is delayed by more than two weeks following a CAISI review."
+      }
+    ],
+    "whatWouldChange": "If CAISI publishes clear, quantitative criteria for what constitutes a failed evaluation and commits to public disclosure of review outcomes without national security redactions, the regulatory capture concern weakens significantly. That would look like actual oversight rather than industry co-management.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Trump orders federal review of AI model releases by May 31?",
+        "url": "https://polymarket.com/event/trump-orders-federal-review-for-ai-model-releases-by-may-31",
+        "probability": 0.27
+      }
+    ]
+  }
+}

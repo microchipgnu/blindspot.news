@@ -1,0 +1,94 @@
+{
+  "id": "imf-stagflation-warning",
+  "date": "2026-05-05",
+  "generatedAt": "2026-05-05T16:00:00Z",
+  "title": "The IMF Says 2027 Could Be Much Worse. Nobody Is Planning for It.",
+  "subtitle": "IMF chief Georgieva warned that if the Iran war extends into 2027, global growth falls to 2.5% and inflation hits 5.4%. The adverse scenario is already partially in motion.",
+  "topic": "economy",
+  "category": "conflict",
+  "tags": ["IMF", "stagflation", "oil prices", "Iran", "global economy", "inflation"],
+  "coverImage": {
+    "url": "https://images.firstpost.com/uploads/2026/04/AFP__20260415__A7WW3YE__v1__HighRes__UsEconomyImfWorldBank-1-2026-04-6608927cce384cea8f18ee9fd2658997.jpg?im=FitAndFill=(1200,675)",
+    "local": "/images/reports/2026-05-05/imf-stagflation-warning.jpg",
+    "credit": "AFP / Firstpost"
+  },
+  "sources": [
+    {
+      "url": "https://www.businesstimes.com.sg/international/imf-chief-georgieva-warns-much-worse-outcome-if-middle-east-war-drags-2027",
+      "publisher": "The Business Times",
+      "angle": "Georgieva's specific numbers: base case has global growth at 3.1% in 2026. Adverse scenario (war extends to 2027, oil at $125) has growth at 2.5% and headline inflation at 5.4%."
+    },
+    {
+      "url": "https://www.firstpost.com/business/imf-global-outlook-west-asia-war-oil-prices-inflation-growth-warning-14007643.html",
+      "publisher": "Firstpost",
+      "angle": "Frame: the IMF was bullish at the start of 2026. The Iran conflict broke that trajectory. The question is now whether it's a temporary shock or a structural reset."
+    },
+    {
+      "url": "https://cyprus-mail.com/2026/05/04/hormuz-closure-fuels-fears-of-global-stagflation-shock",
+      "publisher": "Cyprus Mail",
+      "angle": "On the ground: Hormuz closure is now the biggest-ever disruption to energy supplies. Shipping costs up 400%, LNG spot prices at record levels. The global economy is already in the shock, not approaching it."
+    },
+    {
+      "url": "https://www.khaleejtimes.com/business/economy/the-worlds-central-banks-are-wrestling-with-a-gigantic-problem",
+      "publisher": "Khaleej Times",
+      "angle": "Central banks are caught: raising rates kills growth, cutting rates risks runaway inflation. The traditional dual-mandate tools don't work in a supply-side oil shock. They can't fix the cause."
+    }
+  ],
+  "brief": {
+    "actors": ["IMF", "Georgieva", "Federal Reserve", "Iran", "China", "OPEC"],
+    "whatHappened": "IMF Managing Director Kristalina Georgieva warned Tuesday that if the Iran war extends into 2027 and oil prices reach $125 per barrel, global growth will slow to 2.5% in 2026 while headline inflation rises to 5.4%. Her baseline still assumes the conflict is resolved this year, with global growth projected at 3.1%. The warning comes as the Strait of Hormuz disruption enters its second month, LNG spot prices hit record levels, and the Federal Reserve is simultaneously refusing to signal rate cuts while facing a four-way internal dissent over whether hikes might be necessary.",
+    "bottomLine": "The IMF's 'adverse scenario' describes what is already partially happening. The question is not whether the shock is real. It is whether anyone with the ability to act will treat it as structural rather than temporary.",
+    "hiddenBets": [
+      {
+        "assumption": "The Iran war will be resolved before it causes structural economic damage.",
+        "whyItMightBeWrong": "The US and Iran have been in a ceasefire for four weeks, during which Iran attacked the UAE and both sides fired at each other in the Gulf. The ceasefire is holding in name while the underlying conflict continues. There is no credible mechanism for the resolution Georgieva's baseline assumes."
+      },
+      {
+        "assumption": "Central banks can manage through this with conventional tools.",
+        "whyItMightBeWrong": "A supply-side oil shock forces central banks to choose between fighting inflation with rate hikes that crush growth, or supporting growth by tolerating inflation. The 1970s stagflation period showed how badly this ends when central banks choose the wrong option too late. The Fed's four-way dissent this week is the first sign that it has not resolved this choice internally."
+      },
+      {
+        "assumption": "2.5% global growth is a warning scenario, not the likely one.",
+        "whyItMightBeWrong": "Barclays has already dropped its 2026 rate cut forecast. The World Bank's and IMF's own April updates revised downward. Each revision has moved toward the adverse scenario, not away from it. The baseline keeps getting updated to look more like the old adverse case."
+      }
+    ],
+    "realDisagreement": "The real fork is between treating this as a temporary geopolitical shock, which corrects when the war ends, versus treating it as a structural reset of energy supply chains, which does not correct even after the war ends. The temporary view implies waiting it out with tight monetary policy. The structural view implies active government intervention in energy supply, strategic reserve releases, and possibly fiscal support for energy-intensive sectors -- actions that are politically available in Europe and nowhere else. The US is currently doing nothing consistent with the structural view. I lean toward the structural interpretation being correct, because the Hormuz disruption has already redirected LNG flows and shipping routes in ways that take months to reverse even after the strait reopens."
+    ,
+    "whatNoOneIsSaying": "The IMF's adverse scenario requires oil at $125 to trigger 5.4% inflation. Oil hit $118 last week. Georgieva presented the adverse scenario as hypothetical. It is not.",
+    "whoPays": [
+      {
+        "who": "Emerging market governments with dollar-denominated debt",
+        "how": "Higher US inflation keeps the Fed on hold or hiking. Higher rates mean stronger dollar. Stronger dollar makes it more expensive to service debt denominated in dollars. Sri Lanka, Pakistan, and Egypt are already in debt distress; this deepens it.",
+        "when": "Each quarter the Fed holds or hikes"
+      },
+      {
+        "who": "European manufacturers",
+        "how": "Europe imports nearly all its oil. $125 oil means input cost increases that German and Italian manufacturers cannot absorb and cannot pass on while competing with Chinese producers who buy Iranian oil at a discount. Audi already announced deeper cost cuts today.",
+        "when": "Q2-Q3 2026 earnings season"
+      },
+      {
+        "who": "Global agricultural supply chains",
+        "how": "Fertilizer production depends on natural gas, and LNG prices are at record highs. If fertilizer costs remain elevated through the growing season, food inflation follows 6-9 months later. This hits grain-importing countries in Africa and South Asia hardest.",
+        "when": "Q4 2026 into 2027 harvest cycle"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Temporary Shock Resolves",
+        "whatHappens": "Iran ceasefire holds, Hormuz reopens, oil falls back below $90 by August. Inflation pressures ease. Central banks avoid hikes. The IMF's baseline proves roughly correct and the adverse scenario is quietly archived.",
+        "signal": "Iranian agreement to a UN-supervised Hormuz transit protocol and oil futures curve for December 2026 falls below $90."
+      },
+      {
+        "name": "Stagflation Locks In",
+        "whatHappens": "War extends through summer. Oil stays above $110. Core inflation in the US hits 4%, in Europe 5%. Central banks hike to fight inflation, triggering a growth contraction. The IMF revises its baseline to match its current adverse scenario.",
+        "signal": "The Fed raises rates at the September meeting and the ECB follows within two weeks."
+      },
+      {
+        "name": "Managed Disorder",
+        "whatHappens": "War continues but Hormuz partially reopens under US naval escort. Oil stabilizes between $95 and $110. Inflation stays elevated but not accelerating. Growth slows to 2.7% globally. No recession but no recovery. Central banks hold. This is the worst outcome for the most people over the longest period of time.",
+        "signal": "The IMF issues another 'elevated uncertainty' statement in July without revising its central projection."
+      }
+    ],
+    "whatWouldChange": "If oil falls decisively below $90 within the next three weeks, the stagflation scenario loses its primary driver. That would require the Iran ceasefire to hold firmly and the Hormuz disruption to ease. Both are possible but neither is the current trajectory."
+  }
+}

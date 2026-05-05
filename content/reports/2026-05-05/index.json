@@ -67,6 +67,36 @@
       "title": "The UK Banned Social Media for Kids. It Just Doesn't Know How Yet.",
       "subtitle": "The Children's Wellbeing and Schools Act passed last week with a mandatory July 2027 deadline for under-16 restrictions. The government has not yet named the platforms, the age verification method, or whether ISPs will be required to block VPNs.",
       "category": "ethics"
+    },
+    {
+      "id": "big-tech-ai-model-review",
+      "title": "Google, Microsoft, and xAI Volunteered to Let the Government Watch Them",
+      "subtitle": "The three biggest players in frontier AI agreed to pre-release government review just as Washington debates making it mandatory. The companies that stayed out are the ones who already got excluded.",
+      "category": "power"
+    },
+    {
+      "id": "fomc-four-dissents",
+      "title": "Powell's Last Meeting Split the Fed Four Ways",
+      "subtitle": "The FOMC held rates at its April 29 meeting, but four officials voted against the statement. Three opposed a cut signal. One wanted a cut now. The institution is publicly fractured heading into the Warsh era.",
+      "category": "power"
+    },
+    {
+      "id": "trump-xi-beijing-summit",
+      "title": "Trump Is Going to Beijing. China Is Already Pricing the Trip.",
+      "subtitle": "Trump confirmed a mid-May summit with Xi in Beijing. China rolled out new trade rules that undercut US supply chain policy hours later. Iran is the card China is holding. Taiwan is the price.",
+      "category": "power"
+    },
+    {
+      "id": "imf-stagflation-warning",
+      "title": "The IMF Says 2027 Could Be Much Worse. Nobody Is Planning for It.",
+      "subtitle": "IMF chief Georgieva warned that if the Iran war extends into 2027, global growth falls to 2.5% and inflation hits 5.4%. The adverse scenario is already partially in motion.",
+      "category": "conflict"
+    },
+    {
+      "id": "clarity-act-stablecoin",
+      "title": "Coinbase Flipped on Crypto Regulation. That Should Make You Nervous.",
+      "subtitle": "Coinbase reversed its opposition to the CLARITY Act after senators struck a deal on stablecoin yields. The crypto industry now wants this bill to pass. When an industry stops fighting regulation, the regulation usually favors them.",
+      "category": "power"
     }
   ]
 }

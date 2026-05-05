@@ -1,0 +1,99 @@
+{
+  "id": "trump-xi-beijing-summit",
+  "date": "2026-05-05",
+  "generatedAt": "2026-05-05T16:00:00Z",
+  "title": "Trump Is Going to Beijing. China Is Already Pricing the Trip.",
+  "subtitle": "Trump confirmed a mid-May summit with Xi in Beijing. China rolled out new trade rules that undercut US supply chain policy hours later. Iran is the card China is holding. Taiwan is the price.",
+  "topic": "geopolitics",
+  "category": "power",
+  "tags": ["Trump", "Xi Jinping", "China", "Taiwan", "Iran", "trade", "summit"],
+  "coverImage": {
+    "url": "https://image.hkstandard.com.hk/f/1200p0/0x0/100/none/7b38810968dbec4aef140d3653e103cf/2026-05/us_china.JPG",
+    "local": "/images/reports/2026-05-05/trump-xi-beijing-summit.jpg",
+    "credit": "The Standard HK"
+  },
+  "sources": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-05-04/trump-says-he-looks-forward-to-xi-summit-even-as-tensions-mount",
+      "publisher": "Bloomberg",
+      "angle": "Trump confirmed the trip: 'I'm going to go see President Xi in two weeks. I look forward to that.' Fresh China-US tensions including sanctions and new trade rules framed as backdrop."
+    },
+    {
+      "url": "https://insideretail.asia/2026/05/05/how-china-is-ramping-up-leverage-before-trump-summit/",
+      "publisher": "Inside Retail Asia / Reuters",
+      "angle": "China's new trade rules alarmed US businesses by creating mechanisms that undercut American efforts to reduce supply chain dependence. Beijing is building leverage for the summit, not responding to Trump."
+    },
+    {
+      "url": "https://www.israelhayom.com/2026/05/04/chinas-iran-play-has-one-real-prize-taiwan/",
+      "publisher": "Israel Hayom",
+      "angle": "Argues explicitly: China's cooperation on Iran is a bargaining chip, and the real prize is concessions on Taiwan -- recognition of China's position, delay of US arms sales, or a formal statement on One China."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-05-05/trump-says-he-will-bring-up-hong-kong-s-jimmy-lai-in-xi-summit",
+      "publisher": "Bloomberg",
+      "angle": "Trump said he will raise Jimmy Lai's case in Beijing. This introduces a human rights chip into a negotiation already crowded with Iran, trade, and Taiwan. It may be a bargaining item or a gesture with no follow-through."
+    },
+    {
+      "url": "https://www.thestandard.com.hk/editorial/article/331085/Can-China-help-end-the-war-in-Iran-when-Xi-Jinping-and-Donald-Trump-meet-in-Beijing",
+      "publisher": "The Standard (HK)",
+      "angle": "Reviews what China can actually deliver on Iran: pressure on Iranian oil financing, a back-channel to Tehran, potential UN Security Council votes. Skeptical about whether Xi will spend leverage he doesn't have to."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Xi Jinping", "China", "Iran", "Taiwan", "Jimmy Lai"],
+    "whatHappened": "President Trump confirmed Monday that he will travel to Beijing in approximately two weeks for a summit with Xi Jinping, calling it a 'very important trip.' Trump says he will raise the case of imprisoned Hong Kong media owner Jimmy Lai. The summit arrives as the US and China are simultaneously in friction on four fronts: US oil sanctions on China for buying Iranian crude, a new set of Chinese trade rules designed to undercut US supply chain decoupling, ongoing US arms discussions with Taiwan, and the active Iran ceasefire where Chinese cooperation could accelerate or derail a peace deal.",
+    "bottomLine": "China is letting the Iran war run long enough to make its cooperation look essential. The price for that cooperation is being set in the days before Trump arrives in Beijing.",
+    "hiddenBets": [
+      {
+        "assumption": "China wants to help resolve the Iran conflict.",
+        "whyItMightBeWrong": "China buys roughly 1.8 million barrels per day of Iranian oil at a steep discount. A ceasefire that lifts US sanctions on Iran normalizes Iranian oil prices and eliminates China's discount. China benefits economically from the conflict continuing and benefits diplomatically from appearing to help resolve it. Helping a little costs nothing. Helping enough to end the war costs a lot."
+      },
+      {
+        "assumption": "Trump can use Jimmy Lai as a bargaining chip.",
+        "whyItMightBeWrong": "Xi cannot release Lai without signaling that external pressure can force concessions on national security prosecutions. That is a precedent Beijing will not set. Raising Lai publicly before the summit means Trump either achieves nothing and goes home empty on that point, or quietly drops it during the meeting. Either way, Lai stays in prison."
+      },
+      {
+        "assumption": "Trade and Iran will be addressed separately.",
+        "whyItMightBeWrong": "China's new trade rules were announced within 48 hours of Trump confirming the summit. This is not coincidence. Beijing is building the trade leverage it will need to offset what the US asks for on Iran. The two dossiers are linked, not parallel."
+      }
+    ],
+    "realDisagreement": "The real fork is between a summit that produces something durable and a summit that produces theater. The 'something durable' path requires Trump to offer China a real concession on Taiwan in exchange for Chinese pressure on Iran. That could mean delaying an arms sale, softening language on Taiwan independence, or accepting a Joint Communique that affirms One China more explicitly than current US policy does. The 'theater' path requires neither side to move, both to announce progress, and the underlying conflicts to continue. Trump's deal-making instincts favor the first. His domestic political constraints and the Taiwan hawks in Congress strongly favor the second. I lean toward theater, because the Taiwan concessions China actually wants are ones Congress would revolt against -- and Trump knows that.",
+    "whatNoOneIsSaying": "If China pressures Iran enough to hold the ceasefire through mid-May and the summit looks successful, Trump gets a foreign policy win just as the Iran war has been generating domestic political pressure. Beijing is not just negotiating the summit. It is timing its Iran moves to give Trump something to announce.",
+    "whoPays": [
+      {
+        "who": "Taiwan",
+        "how": "Any US-China summit that produces a trade deal increases the probability of quiet language shifts on Taiwan sovereignty that Taiwan was not party to. Taiwan's leverage over its own security is lowest when the two superpowers are in active deal mode.",
+        "when": "During and immediately after the summit"
+      },
+      {
+        "who": "US companies trying to exit Chinese supply chains",
+        "how": "China's new trade rules specifically target supply chain decoupling. If the summit produces a broad trade deal, US pressure on companies to diversify away from China weakens. Companies that made costly diversification investments absorb sunk costs.",
+        "when": "6-12 months post-summit if a deal is announced"
+      },
+      {
+        "who": "Jimmy Lai",
+        "how": "His case is a diplomatic bargaining chip, which means its outcome depends on what else gets traded in the room. If the main deal is Iran-related, Lai's case gets set aside as a 'discussed but unresolved' item. He remains imprisoned.",
+        "when": "Immediately after the summit"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Iran-for-Trade Deal",
+        "whatHappens": "China commits to cutting Iranian oil purchases by 500,000 barrels per day and pressuring Tehran to accept US ceasefire terms. The US rolls back some of the secondary sanctions on Chinese oil refiners and pauses new Taiwan arms sales for 90 days. Both sides announce a 'strategic framework' and Trump claims a major win.",
+        "signal": "Chinese oil purchases from Iran fall measurably in June customs data, and the US delays the pending Taiwan defense package announcement."
+      },
+      {
+        "name": "Photo Op, No Movement",
+        "whatHappens": "Both leaders meet for two days, release a joint communique with warm language about 'constructive dialogue,' announce a working group on trade, and make no concrete commitments on Iran or Taiwan. The war continues. Sanctions stay. China's new trade rules remain in place.",
+        "signal": "The post-summit joint statement runs fewer than 1,000 words and uses the phrase 'will continue to discuss.'"
+      },
+      {
+        "name": "Summit Collapses",
+        "whatHappens": "Iran attacks the UAE or US vessels again before mid-May. Trump cancels or postpones the trip. China is blamed for not restraining Tehran. Secondary sanctions on Chinese oil buyers are expanded. The bilateral relationship deteriorates to its worst point since the Taiwan Strait crisis.",
+        "signal": "A major Iranian military action against US assets within the next 10 days, followed by Trump making public threats toward China."
+      }
+    ],
+    "whatWouldChange": "If China publicly announces a concrete reduction in Iranian oil purchases before the summit, that would force a reassessment. It would mean Beijing is spending real leverage, not just performing cooperation. That would shift the read from 'theater likely' to 'deal possible.'",
+    "markets": []
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "clarity-act-stablecoin",
+  "date": "2026-05-05",
+  "generatedAt": "2026-05-05T16:00:00Z",
+  "title": "Coinbase Flipped on Crypto Regulation. That Should Make You Nervous.",
+  "subtitle": "Coinbase reversed its opposition to the CLARITY Act after senators struck a deal on stablecoin yields. The crypto industry now wants this bill to pass. When an industry stops fighting regulation, the regulation usually favors them.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["crypto", "stablecoin", "CLARITY Act", "Coinbase", "Senate", "regulation"],
+  "coverImage": {
+    "url": "https://cdn.benzinga.com/files/images/story/2026/05/04/Coinbase-Logo-Displayed-On-A-Smartphone-.jpeg?width=1200&height=800&fit=crop",
+    "local": "/images/reports/2026-05-05/clarity-act-stablecoin.jpg",
+    "credit": "Benzinga"
+  },
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/05/04/crypto-industry-calls-for-lawmakers-to-act-after-breakthrough-agreement.html",
+      "publisher": "CNBC",
+      "angle": "Reports the deal: Senators Alsobrooks and Tillis released compromise language preventing stablecoins from being treated as bank deposits. Coinbase and industry groups are calling for a committee vote the week of May 11."
+    },
+    {
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/05/52247152/coinbase-does-a-180-now-backs-clarity-act-what-changed",
+      "publisher": "Benzinga",
+      "angle": "Tracks Coinbase's reversal. Previously opposed the CLARITY Act over the yield provision; now backs it after the compromise. Brian Armstrong said 'mark it up' -- an unusually direct call for legislative action."
+    },
+    {
+      "url": "https://unchainedcrypto.com/senators-release-clarity-act-stablecoin-yield-compromise-as-white-house-pushes-for-may-markup/",
+      "publisher": "Unchained Crypto",
+      "angle": "The White House is pushing for a May committee markup, accelerating the timeline. The deal on yields was the last major sticking point. The bill could move quickly."
+    },
+    {
+      "url": "https://news.nbtc.finance/sec-cftc-chiefs-signal-new-day-for-u-s-onshore-crypto-tokenization-and-future-proof-rules/",
+      "publisher": "NBTC News",
+      "angle": "SEC Chair Atkins and CFTC Chair Selig both described a regulatory reset at the Bitcoin 2026 Conference. 'A new day at the SEC' signals the regulatory environment is friendlier to crypto industry preferences than any prior administration."
+    }
+  ],
+  "brief": {
+    "actors": ["Coinbase", "Senate", "White House", "SEC", "CFTC", "Tether", "banks"],
+    "whatHappened": "Senators Angela Alsobrooks and Thom Tillis released compromise legislative language Monday that resolves the main sticking point in the CLARITY Act, a bill to create a federal regulatory framework for stablecoins. The compromise prevents stablecoins from being classified as bank deposits, which the banking industry had demanded, while also dropping a provision that would have allowed stablecoin issuers to pay holders yield-like returns. Coinbase CEO Brian Armstrong, who had previously opposed the bill, publicly called for the Senate Banking Committee to vote the week of May 11. The White House is pushing for a May markup.",
+    "bottomLine": "The crypto industry fought regulation until it could write the parts that matter. Now it wants urgency. This is what a regulatory capture endgame looks like in its final stage.",
+    "hiddenBets": [
+      {
+        "assumption": "The CLARITY Act is a consumer protection measure.",
+        "whyItMightBeWrong": "The bill's primary effect is to create a federal license for stablecoin issuers that preempts state money transmission laws in 50 states. The winners are large, federally licensed issuers like Circle and Tether. The losers are smaller, state-chartered competitors and any future entrants who cannot afford the federal licensing process."
+      },
+      {
+        "assumption": "The yield compromise is a win for consumers.",
+        "whyItMightBeWrong": "Removing yield from stablecoins doesn't protect consumers. It protects banks from competition. Stablecoins that pay yield are better for users. The yield ban is a concession to the banking lobby disguised as a safety measure."
+      },
+      {
+        "assumption": "The banking industry's concerns about deposit flight are legitimate.",
+        "whyItMightBeWrong": "If stablecoins cannot pay yield and cannot be insured by the FDIC, they are not bank deposit substitutes. They are payment instruments. Treating them as deposit competitors is the banking lobby conflating two different products to justify regulatory protection."
+      }
+    ],
+    "realDisagreement": "The real fork is between two views of what stablecoin regulation is for. One view: it creates safety, transparency, and consumer protection in a $200 billion market that has had multiple collapses. The other: it cements the position of existing large issuers by creating federal licensing requirements that exclude smaller competitors and embed crypto into the existing financial system on the big players' terms. Both can be true simultaneously. But Coinbase's flip from opposition to urgency when the yield provision was removed tells you that Coinbase was not primarily concerned about the bill's safety provisions. It was concerned about the yield provision, which would have let competitors pay interest. Remove that, and the bill is good for Coinbase. I lean toward this bill being good for large crypto incumbents and bad for competition and for users who would have benefited from yield.",
+    "whatNoOneIsSaying": "The banking groups said they were worried about deposit flight if stablecoins could pay yield. The compromise removed yield from stablecoins. So now the banks got what they wanted and the crypto companies got what they wanted. Nobody got less. That is not a compromise. That is two lobbies dividing the market.",
+    "whoPays": [
+      {
+        "who": "Stablecoin users",
+        "how": "Without yield, holding stablecoins means holding a dollar-pegged asset that earns nothing while the issuer earns interest on the reserves. Users subsidize issuers' reserve income. The yield ban takes money from users and gives it to Circle and Tether.",
+        "when": "From the day the bill passes"
+      },
+      {
+        "who": "State-chartered fintech stablecoin issuers",
+        "how": "Federal preemption means they have to choose between operating under the new federal framework or stopping. Companies that built compliance programs around state money transmission licenses face either conversion costs or exit.",
+        "when": "Within 18 months of enactment, during the transition period"
+      },
+      {
+        "who": "Crypto users in countries the US considers adversaries",
+        "how": "The bill will almost certainly require AML/KYC standards that make dollar stablecoins unavailable or unusable for anyone outside the US regulatory perimeter. Dollar-denominated financial access for people in sanctioned countries shrinks.",
+        "when": "From implementation"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Fast Track",
+        "whatHappens": "Senate Banking Committee marks up the bill in May. It passes committee on a bipartisan vote. The House Financial Services Committee moves a companion bill. Stablecoin legislation becomes law before the August recess.",
+        "signal": "Senate Banking Committee schedules a markup vote for the week of May 11."
+      },
+      {
+        "name": "Banking Lobby Kills It",
+        "whatHappens": "Banks object that even without yield, federally licensed stablecoins will migrate customer assets away from demand deposits. They lobby Republican members who rely on bank PAC funding. The bill stalls in committee past the summer.",
+        "signal": "The American Bankers Association issues a formal opposition statement within the next two weeks."
+      },
+      {
+        "name": "Compromise Unravels",
+        "whatHappens": "Progressive Democrats oppose the bill because it preempts state consumer protection laws and creates a light-touch federal regime. Combined with bank opposition on the other side, the coalition collapses. The bill dies and crypto remains in a legal gray zone into 2027.",
+        "signal": "More than five Democratic senators announce opposition before a committee vote is scheduled."
+      }
+    ],
+    "whatWouldChange": "If Coinbase or Circle publicly opposed any provision in the final bill, that would suggest the bill actually contains constraints. The fact that both major stablecoin industry players are pushing for urgency is the evidence that it doesn't."
+  }
+}

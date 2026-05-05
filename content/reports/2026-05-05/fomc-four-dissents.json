@@ -1,0 +1,118 @@
+{
+  "id": "fomc-four-dissents",
+  "date": "2026-05-05",
+  "generatedAt": "2026-05-05T16:00:00Z",
+  "title": "Powell's Last Meeting Split the Fed Four Ways",
+  "subtitle": "The FOMC held rates at its April 29 meeting, but four officials voted against the statement. Three opposed a cut signal. One wanted a cut now. The institution is publicly fractured heading into the Warsh era.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Federal Reserve", "FOMC", "interest rates", "Warsh", "Powell", "monetary policy"],
+  "coverImage": {
+    "url": "https://www.reuters.com/resizer/v2/4RRCNUL2CFO6FND5SKKCVCNMOU.jpg?auth=bcadce381359311284a8ec95f640115f8411f9d777bb180a2120316b00f31c6d&height=1005&width=1920&quality=80&smart=true",
+    "local": "/images/reports/2026-05-05/fomc-four-dissents.jpg",
+    "credit": "Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/05/01/fed-dissenters-explain-no-votes-saying-they-disagreed-with-hinting-next-move-would-be-a-cut.html",
+      "publisher": "CNBC",
+      "angle": "Dissenters explain the disagreement was about language, not rate level: they objected to signaling that cuts are more likely than hikes, not to the hold itself."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-04-29/fed-dissents-why-4-officials-voted-against-fomc-decision",
+      "publisher": "Bloomberg",
+      "angle": "Four dissenters: Kashkari, Logan, Hammack opposed the easing bias in the statement; Miran dissented wanting an immediate 25bp cut. Frames it as the sharpest committee split since 1992."
+    },
+    {
+      "url": "https://www.financial-world.org/news/news/financial/30593/fed-officials-challenge-ratecut-signal-before-warsh-takes-over/",
+      "publisher": "Financial World",
+      "angle": "The fight was over one word: 'additional.' The statement retained language implying the next move is a cut. Dissenters said that forward guidance was unjustified given war-driven inflation risk."
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/05/04/the-fed-just-did-something-it-hasnt-done-since-199/",
+      "publisher": "Motley Fool",
+      "angle": "Historical framing: four-way dissents are extraordinarily rare. The last time this happened was October 1992. Frames it as a possible signal that a rate hike is possible in 2026."
+    },
+    {
+      "url": "https://themortgagepoint.com/2026/05/04/fed-official-wont-rule-out-rate-hikes-as-iran-conflict-fuels-inflation/",
+      "publisher": "The Mortgage Point",
+      "angle": "Kashkari explicitly would not rule out rate hikes, citing Iran war energy shock. This is further than the formal dissent -- it suggests some committee members are already pricing in an upward move."
+    }
+  ],
+  "brief": {
+    "actors": ["Federal Reserve", "Powell", "Warsh", "Kashkari", "Hammack", "Logan", "Miran", "Trump"],
+    "whatHappened": "At its April 28-29 meeting, the Federal Open Market Committee voted to hold the federal funds rate at 3.50%-3.75% for the third consecutive meeting. Jerome Powell, in what is expected to be his final meeting as chair before Kevin Warsh takes over, presided over a four-way split: Neel Kashkari, Lorie Logan, and Beth Hammack dissented against language in the post-meeting statement they said implied the next rate move would be a cut, while Stephen Miran dissented in the opposite direction, wanting an immediate 25 basis point reduction. The last time four officials dissented at a single meeting was October 1992.",
+    "bottomLine": "The Fed did not disagree about whether to hold rates. It disagreed about whether the institution should even hint at where rates go next. That is a deeper fight about who controls the narrative as Warsh prepares to take over.",
+    "hiddenBets": [
+      {
+        "assumption": "The four dissents reflect genuine disagreement about monetary policy.",
+        "whyItMightBeWrong": "The three anti-easing-bias dissenters objected to a single word in the statement, not to the rate decision itself. That is less a policy disagreement and more a message to Warsh about what kind of Fed they expect him to run. Dissenters are positioning, not just analyzing."
+      },
+      {
+        "assumption": "Warsh will inherit a Fed unified behind his approach.",
+        "whyItMightBeWrong": "Three regional presidents went on record opposing the direction Powell's statement implied. They did this in public, in Powell's final meeting. Warsh enters with a visible faction that has already signaled it will not defer to the chair's framing on forward guidance."
+      },
+      {
+        "assumption": "The Iran war makes the policy path uncertain in both directions.",
+        "whyItMightBeWrong": "Market pricing and Barclays' updated forecast both point in one direction: no cuts in 2026 and a possible hike by September. The 'uncertainty cuts both ways' framing is reassuring language masking a one-directional inflation pressure from oil. Kashkari refusing to rule out hikes is the honest version of what the statement won't say."
+      }
+    ],
+    "realDisagreement": "The real fork is between Powell's view that the next move is probably still a cut, and the dissenters' view that the next move might be a hike. Both are defensible given current data. But the stakes are asymmetric: if Powell is wrong and inflation accelerates, Warsh inherits a Fed that gave markets false comfort. If the dissenters are wrong and growth slows, their hawkish posture deepens the slowdown. The market currently prices a 23.5% chance of a rate hike in 2026 -- which means the consensus is still with Powell, but the tail risk the dissenters are pointing to is real enough that Barclays has abandoned its cut forecast entirely. I lean toward taking the hike risk more seriously than the statement implies, because the Iran energy shock is not a symmetric uncertainty.",
+    "whatNoOneIsSaying": "Miran voted for a cut while three colleagues voted against signaling one. This is not a coincidence -- Miran was Trump's economic adviser before joining the Fed, and cutting rates is consistent with what Trump wants. Three regional presidents essentially voted to constrain the political appointee's ability to ease at the first opportunity.",
+    "whoPays": [
+      {
+        "who": "Mortgage holders and prospective homebuyers",
+        "how": "Every month the Fed holds without cutting -- or hints that hikes are possible -- keeps the 30-year mortgage rate elevated. At current rates, that is roughly $400-600 more per month on a median home purchase compared to 2024 levels.",
+        "when": "Immediate and ongoing"
+      },
+      {
+        "who": "Small businesses with floating-rate debt",
+        "how": "Fed uncertainty extending through 2026 means refinancing windows do not open. Businesses that took on variable-rate debt expecting cuts in the first half of 2026 are now carrying higher costs for longer.",
+        "when": "Each quarter rates stay unchanged"
+      },
+      {
+        "who": "Kevin Warsh",
+        "how": "Warsh takes over a committee that has publicly fractured. His first meeting will test whether he can establish authority over forward guidance when three members have already demonstrated willingness to dissent on exactly that point.",
+        "when": "First Warsh-chaired meeting, likely June 2026"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Warsh Consolidates",
+        "whatHappens": "Warsh walks back the easing-bias language in his first meeting statement, removes forward guidance language, and the three dissenters return to voting with the majority. Oil stays elevated but inflation doesn't accelerate further. No cuts in 2026.",
+        "signal": "The June statement drops the word 'additional' from rate guidance language."
+      },
+      {
+        "name": "Inflation Forces a Hike",
+        "whatHappens": "Iran war extends through summer. Oil stays above $110. Core PCE hits 3.5%. The Warsh Fed hikes 25bp in September over the objection of Miran. Markets price in further hikes. Mortgage rates spike back toward 8%.",
+        "signal": "CPI for May comes in above 4.5% month-over-month annualized, and Kashkari publicly calls for a hike in June."
+      },
+      {
+        "name": "Miran Gets His Cut",
+        "whatHappens": "Iran ceasefire holds, oil falls below $85, and growth slows enough that the three anti-easing dissenters flip. Warsh cuts 25bp in September. The dissenters were right that the language was premature but wrong about the direction.",
+        "signal": "Oil falls below $90 for two consecutive weeks and the Atlanta Fed GDPNow tracker goes negative."
+      }
+    ],
+    "whatWouldChange": "If the Iran ceasefire holds through June and oil falls back below $90, the inflation-hawkish case collapses. That would make the dissenters look wrong about the direction and validate Powell's easing-bias language. The dissents would then look like positioning theater rather than serious policy disagreement.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Fed rate hike in 2026?",
+        "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+        "probability": 0.235
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Fed Rate Hike by September 2026 Meeting?",
+        "url": "https://polymarket.com/event/fed-rate-hike-by",
+        "probability": 0.19
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Jerome Powell depart as Fed Chair by May 16 2026?",
+        "url": "https://polymarket.com/event/jerome-powell-departs-as-fed-chair-by",
+        "probability": 0.875
+      }
+    ]
+  }
+}
