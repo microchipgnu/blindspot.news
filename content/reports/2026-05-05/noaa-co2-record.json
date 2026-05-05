@@ -1,0 +1,93 @@
+{
+  "id": "noaa-co2-record",
+  "date": "2026-05-05",
+  "generatedAt": "2026-05-05T22:30:00Z",
+  "title": "CO2 Hits a New Record. The Observatory That Measures It Might Be Shut Down.",
+  "subtitle": "NOAA's Mauna Loa Observatory recorded the highest atmospheric CO2 concentration in human history in April 2026. The Trump administration's proposed FY2027 budget would eliminate $1.6 billion from NOAA, potentially closing the 70-year monitoring record.",
+  "topic": "society",
+  "category": "power",
+  "tags": ["NOAA", "climate", "CO2", "Mauna Loa", "budget cuts", "Trump", "climate monitoring", "science funding"],
+  "coverImage": {
+    "url": "https://civileats.com/wp-content/uploads/2026/05/noaa-is-still-standing-but-its-shaky-1.jpg",
+    "local": "/images/reports/2026-05-05/noaa-co2-record.jpg",
+    "credit": "Civil Eats"
+  },
+  "sources": [
+    {
+      "url": "https://www.scientificamerican.com/article/carbon-dioxide-levels-in-the-atmosphere-just-hit-a-depressing-record-high/",
+      "publisher": "Scientific American",
+      "angle": "Reports the record CO2 reading and directly links it to the Mauna Loa shutdown threat; quotes climate scientists calling it 'depressing' given that the monitoring infrastructure may be eliminated."
+    },
+    {
+      "url": "https://civileats.com/2026/05/05/noaa-is-still-standing-but-its-shaky/",
+      "publisher": "Civil Eats",
+      "angle": "Focuses on food system and fishery implications of NOAA cuts; reports that programs on fishery management, weather forecasting for agriculture, and coastal monitoring are all on hold pending budget resolution."
+    },
+    {
+      "url": "https://www.savingseafood.org/news/washington/proposed-noaa-cuts-get-bipartisan-pushback/",
+      "publisher": "Saving Seafood",
+      "angle": "Documents bipartisan congressional resistance to the NOAA cuts; NOAA Administrator Neil Jacobs testified that the cuts would not curtail research, a claim committee members challenged directly."
+    },
+    {
+      "url": "https://scilight.substack.com/p/noaa-budget-request-is-not-streamlining",
+      "publisher": "SciLight (Substack)",
+      "angle": "Calls the NOAA budget proposal 'sabotage not streamlining'; details what specific programs would be eliminated and argues the administrator's testimony was misleading about operational impact."
+    }
+  ],
+  "brief": {
+    "actors": ["NOAA", "Trump", "Congress", "Neil Jacobs"],
+    "whatHappened": "NOAA's Mauna Loa Observatory in Hawaii recorded the highest monthly average atmospheric carbon dioxide concentration in human history in April 2026, according to data published May 5. The Mauna Loa record has been collected continuously since 1958, making it the longest direct atmospheric CO2 measurement in the world. Simultaneously, the Trump administration's proposed FY2027 budget would cut NOAA's funding by $1.6 billion, targeting climate research programs. Among the programs potentially eliminated or defunded is the atmospheric monitoring network that includes Mauna Loa. NOAA Administrator Neil Jacobs testified before the House Science Committee that the cuts would not curtail research, but committee members from both parties disputed that characterization. Civil Eats reported that multiple NOAA programs are already on hold pending the budget outcome.",
+    "bottomLine": "The United States is proposing to shut down the instrument that has been measuring the CO2 increase driving the crisis it refuses to address, at the moment that instrument records its highest reading ever.",
+    "hiddenBets": [
+      {
+        "assumption": "The Mauna Loa record is replaceable through satellite data or international measurement networks.",
+        "whyItMightBeWrong": "Mauna Loa provides a 68-year continuous ground-level record that serves as the baseline against which all other atmospheric CO2 data is calibrated. Satellites measure different things and require that ground-level record for validation. A gap in the Mauna Loa series would not merely be a data gap: it would reduce confidence in the entire global CO2 measurement system for the duration of the gap and complicate retrospective analysis."
+      },
+      {
+        "assumption": "Bipartisan congressional opposition will block the cuts.",
+        "whyItMightBeWrong": "Bipartisan opposition expressed in committee hearings is different from bipartisan votes to restore funding. The NOAA cut is embedded in a broader budget package that Republicans need to pass on party-line votes. Individual Republican members can express concern in hearings without blocking the overall package. The committee hearing opposition does not translate automatically into appropriations protection."
+      },
+      {
+        "assumption": "This is primarily a climate policy story.",
+        "whyItMightBeWrong": "NOAA provides weather forecasting for aviation, shipping, and agriculture; fishery stock assessments that determine catch quotas in US coastal waters; tsunami and hurricane warning systems; and flood forecasting. A $1.6 billion cut to NOAA is not primarily a climate politics story. It is a public safety and economic infrastructure story that happens to include climate monitoring as one component."
+      }
+    ],
+    "realDisagreement": "The genuine tension is between two things the administration is implicitly claiming simultaneously: that climate data does not require federal investment because the market or international partners will fill the gap, and that the federal government should maintain weather forecasting, fishery management, and disaster warning systems that are entirely dependent on the infrastructure being cut. You cannot eliminate NOAA's atmospheric research capacity while maintaining the operational services that depend on it. The budget does not resolve that contradiction. It pretends it does not exist.",
+    "whatNoOneIsSaying": "Eliminating the primary CO2 measurement record is a strategic move, not a budget move. If the Mauna Loa series is interrupted, future administrations will face a gap in the evidentiary record that makes attributing specific climate events to specific CO2 levels harder. The data does not disappear, but the chain of custody for the authoritative US measurement becomes contested. This is not accidental in a political environment where climate attribution is already a contested claim.",
+    "whoPays": [
+      {
+        "who": "Commercial fishing industry in US coastal waters",
+        "how": "NOAA's fishery stock assessments are the legal basis for catch limits. Without those assessments, the regulatory system for fish stocks collapses. Overfishing without data leads to stock collapse, which destroys the commercial fishing industry it was supposed to help.",
+        "when": "Within 2-3 years if fishery assessment programs are eliminated."
+      },
+      {
+        "who": "Agricultural producers dependent on seasonal weather forecasting",
+        "how": "NOAA's climate prediction center provides long-range seasonal forecasts used in planting, irrigation, and crop insurance decisions. Degraded forecasting capability translates directly into higher agricultural risk and reduced efficiency in an already stressed food system.",
+        "when": "Within 1-2 growing seasons of any significant forecasting capacity reduction."
+      },
+      {
+        "who": "Future governments attempting to establish climate accountability",
+        "how": "An interrupted or degraded US atmospheric monitoring record weakens the evidentiary basis for future policy. Countries and companies will use data gaps to contest attribution, which makes both international climate agreements and domestic litigation harder.",
+        "when": "Long-term: the damage to evidentiary infrastructure compounds over decades."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Congress partially restores funding",
+        "whatHappens": "Appropriators insert emergency language protecting NOAA's operational monitoring programs, including Mauna Loa, while allowing cuts to pure research programs. The atmospheric record continues, but NOAA loses staff and capacity in adjacent programs.",
+        "signal": "Watch for a bipartisan Senate appropriations amendment specifically ring-fencing atmospheric monitoring and disaster warning systems."
+      },
+      {
+        "name": "Full cut implemented, monitoring degrades",
+        "whatHappens": "The FY2027 budget passes with the NOAA cuts intact. Mauna Loa continues with reduced staffing under a contingency mode, with gaps in the record during staffing shortages. The Keeling Curve dataset develops interruptions for the first time since 1958.",
+        "signal": "Watch for NOAA publishing operational status warnings for the Mauna Loa Observatory, and for data quality flags appearing in the ESRL Global Monitoring Laboratory's published datasets."
+      },
+      {
+        "name": "International takeover of the measurement function",
+        "whatHappens": "The European or Japanese atmospheric monitoring networks step in to maintain continuity of measurement, using Mauna Loa data but under reduced US control. The US loses its institutional leadership role in the global carbon monitoring system.",
+        "signal": "Watch for WMO or ICOS releasing statements about contingency monitoring plans for the Mauna Loa measurement site."
+      }
+    ],
+    "whatWouldChange": "If NOAA Administrator Jacobs' testimony proves accurate, that the operational monitoring programs survive the budget cuts even if research programs are reduced, the bottom line changes. The Mauna Loa record would be preserved and the alarm would be misplaced. Current evidence from Civil Eats and congressional testimony suggests the operational framing was misleading. The bottom line holds until NOAA publishes a specific program list showing Mauna Loa atmospheric monitoring is funded in the FY2027 request."
+  }
+}

@@ -97,6 +97,42 @@
       "title": "Coinbase Flipped on Crypto Regulation. That Should Make You Nervous.",
       "subtitle": "Coinbase reversed its opposition to the CLARITY Act after senators struck a deal on stablecoin yields. The crypto industry now wants this bill to pass. When an industry stops fighting regulation, the regulation usually favors them.",
       "category": "power"
+    },
+    {
+      "id": "guard-act-ai-chatbot-minors",
+      "title": "The Bill That Bans Kids from AI Chatbots Would Card Everyone Else",
+      "subtitle": "The GUARD Act passed committee unanimously. To protect minors from AI companions, it would require identity verification for anyone who uses a chatbot. The child safety framing is hiding what it actually is.",
+      "category": "power"
+    },
+    {
+      "id": "pentagon-ai-classified-networks",
+      "title": "Eight AI Companies Are Now Inside the Pentagon's Classified Networks",
+      "subtitle": "SpaceX, OpenAI, Google, Nvidia, Oracle, AWS, Microsoft, and Reflection signed agreements to run their AI on DoD's most sensitive networks. The company that refused to sign is the one Congress just started worrying about.",
+      "category": "power"
+    },
+    {
+      "id": "hamas-disarmament-impasse",
+      "title": "Hamas Will Not Disarm. The Peace Plan Requires It to Disarm.",
+      "subtitle": "The US-led Board of Peace has hit a wall: Hamas says it will give up weapons only after a Palestinian state is guaranteed. The BoP says there is no state guarantee without disarmament first. Neither position has moved.",
+      "category": "conflict"
+    },
+    {
+      "id": "samsung-union-fracture",
+      "title": "Samsung's Semiconductor Boom Is Tearing Its Union Apart",
+      "subtitle": "More than 2,500 non-chip workers quit Samsung's majority union in 10 days. The union is planning a strike over chip-division bonuses. Workers who don't make chips say they're being sacrificed for someone else's AI windfall.",
+      "category": "conflict"
+    },
+    {
+      "id": "noaa-co2-record",
+      "title": "CO2 Hits a New Record. The Observatory That Measures It Might Be Shut Down.",
+      "subtitle": "NOAA's Mauna Loa Observatory recorded the highest atmospheric CO2 concentration in human history in April 2026. The Trump administration's proposed FY2027 budget would eliminate $1.6 billion from NOAA, potentially closing the 70-year monitoring record.",
+      "category": "power"
+    },
+    {
+      "id": "house-farm-bill-senate",
+      "title": "The House Passed a Farm Bill. The Senate Needs 10 Democrats. Neither Side Wants to Give the Other What It Needs.",
+      "subtitle": "The Farm, Food, and National Security Act cleared the House 224-200, stripped of ethanol and pesticide protections that Republican farm-state members wanted. Now it needs 60 Senate votes, which means SNAP cuts that Democrats will not accept.",
+      "category": "power"
     }
   ]
 }

@@ -1,0 +1,107 @@
+{
+  "id": "hamas-disarmament-impasse",
+  "date": "2026-05-05",
+  "generatedAt": "2026-05-05T22:30:00Z",
+  "title": "Hamas Will Not Disarm. The Peace Plan Requires It to Disarm.",
+  "subtitle": "The US-led Board of Peace has hit a wall: Hamas says it will give up weapons only after a Palestinian state is guaranteed. The BoP says there is no state guarantee without disarmament first. Neither position has moved.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["Hamas", "Gaza", "Board of Peace", "ceasefire", "disarmament", "Palestinian state", "Israel", "US foreign policy"],
+  "coverImage": {
+    "url": "https://img.apmcdn.org/17bd34fd940834b5d3c3f2d3a3b57906dbc2157d/widescreen/5ea8aa-20260501-kid-ai-chatbot-2000.jpg",
+    "local": "/images/reports/2026-05-05/hamas-disarmament-impasse.jpg",
+    "credit": "Marketplace / APM"
+  },
+  "sources": [
+    {
+      "url": "https://foreignpolicy.com/2026/05/05/trump-gaza-peace-plan-hamas-disarmament-stalled/",
+      "publisher": "Foreign Policy",
+      "angle": "Analytical: experts say Hamas has no rational incentive to disarm without a statehood commitment, and the current framework gives Hamas nothing to gain by giving up the only leverage it has."
+    },
+    {
+      "url": "https://www.jpost.com/israel-news/defense-news/article-895228",
+      "publisher": "Jerusalem Post",
+      "angle": "Israeli security source: describes the gaps as 'almost impossible to bridge'; notes Israel is coordinating with the US and BoP on next steps if Hamas remains intransigent."
+    },
+    {
+      "url": "https://www.longwarjournal.org/archives/2026/05/negotiations-over-hamas-disarmament-stall-idf-reports-19-gaza-ceasefire-violations-april-21-may-5.php",
+      "publisher": "FDD Long War Journal",
+      "angle": "Tracks 19 reported Gaza ceasefire violations alongside the diplomatic stall, arguing Hamas is using the negotiation pause to consolidate positions."
+    },
+    {
+      "url": "https://www.khaama.com/hamas-rejects-disarmament-plan-without-palestinian-state-guarantee/",
+      "publisher": "Khaama Press",
+      "angle": "Hamas framing: reports Hamas's explicit position that disarmament is linked to a Palestinian state guarantee, framing it as a security condition rather than obstruction."
+    },
+    {
+      "url": "https://jewishinsider.com/2026/05/israel-u-s-trump-netanyahu-lebanon-hezbollah-gaza-hamas-iran/",
+      "publisher": "Jewish Insider",
+      "angle": "Regional picture: places the Gaza stall in context of simultaneous ceasefire fragility in Lebanon and Iran; Trump declared Iran's terms 'not acceptable' at the same moment Gaza talks broke down."
+    }
+  ],
+  "brief": {
+    "actors": ["Hamas", "Israel", "Board of Peace", "Trump", "Nikolay Mladenov"],
+    "whatHappened": "Negotiations between Hamas and the US-led Board of Peace have reached an impasse over the question of Hamas disarmament. The BoP, led by Nikolay Mladenov, requires full Hamas disarmament as a precondition for moving to the second phase of the Gaza agreement. Hamas says it will only surrender weapons after the full implementation of phase one, which requires Israel to complete its withdrawal from Gaza, and only if a Palestinian state is credibly guaranteed. Sources familiar with the talks told the Jerusalem Post that the gaps are 'almost impossible to bridge.' The IDF has recorded 19 ceasefire violations in the April 21 to May 5 period. Meanwhile, the US and Israel recalled their negotiators from a prior session, though Hamas says talks are expected to resume next week.",
+    "bottomLine": "Hamas's disarmament demand and the Board of Peace's sequencing requirement are structurally incompatible: each side is demanding the other move first on the thing that matters most, and neither has an incentive to blink.",
+    "hiddenBets": [
+      {
+        "assumption": "Hamas's position on disarmament is a negotiating posture that will shift under pressure.",
+        "whyItMightBeWrong": "For Hamas, weapons are not a bargaining chip. They are the only source of power the organization has. Disarmament without a state guarantee means organizational death: no armed wing means no political authority, no territorial control, and no leverage in any future negotiation. Foreign Policy experts quoted in coverage say Hamas has no rational incentive to disarm. That is not a negotiating position. It is an existential constraint."
+      },
+      {
+        "assumption": "The Board of Peace framework can succeed where previous US-mediated peace processes failed.",
+        "whyItMightBeWrong": "The BoP is a new institutional form for a very old problem. The sequencing demand, disarm first, then discuss outcomes, is identical to the Oslo-era demand that produced repeated stalemates. The rebranding does not change the underlying incentive structure. Hamas learned from the PA's experience that cooperating with these frameworks produces political marginalization, not statehood."
+      },
+      {
+        "assumption": "A failed negotiation produces a return to the prior ceasefire status quo.",
+        "whyItMightBeWrong": "Israel has stated it may resume military operations if the second phase of the agreement does not progress. Israeli hardline coalition partners have been advocating for full reoccupation of northern Gaza since the ceasefire began. A negotiation collapse does not pause the military logic; it potentially accelerates it."
+      }
+    ],
+    "realDisagreement": "The real fork is between two things both sides know to be true but cannot say simultaneously: Hamas can only survive as an organization if it maintains armed capacity, and the BoP framework can only succeed if Hamas does not. The side that will have to yield, if anyone does, is Hamas. But the means available to force that are the same means that created this situation. Military pressure sufficient to compel Hamas disarmament would require reoccupation at a scale that the international community and the ceasefire agreement both prohibit. The US cannot both maintain the ceasefire and apply enough pressure to achieve disarmament. That contradiction is the reason the gaps are 'almost impossible to bridge.' The honest position is that this peace framework cannot achieve its stated goal without a political concession that no Israeli government can currently make.",
+    "whatNoOneIsSaying": "The Board of Peace framework's leverage depends on Hamas believing that cooperation might eventually produce a Palestinian state. That belief is at its lowest point since Oslo. Netanyahu has publicly committed to Israeli control of Gaza's security indefinitely. The Trump administration has not publicly committed to statehood. The BoP is asking Hamas to trade its weapons for a promise that no one in the current US-Israeli political alignment can actually deliver.",
+    "whoPays": [
+      {
+        "who": "Gazan civilians currently under ceasefire",
+        "how": "A negotiation collapse that leads to Israeli military resumption would hit a civilian population already severely depleted in medical, food, and shelter resources. The IDF's stated intent for a resumed operation includes areas currently under partial reconstruction.",
+        "when": "Potentially within weeks if talks formally collapse and Israel declares the second-phase deadline expired."
+      },
+      {
+        "who": "Nikolay Mladenov and the BoP",
+        "how": "The BoP's institutional credibility rests on producing Phase II. A public impasse with a formal collapse on the disarmament question would effectively end the BoP as a viable peace framework and damage Mladenov's ability to convene future negotiations.",
+        "when": "Medium-term: the damage to institutional credibility accumulates over weeks of public stalemate."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Talks resume, impasse continues",
+        "whatHappens": "Negotiations restart next week as Hamas indicated, but no party moves on the core sequencing disagreement. The ceasefire technically holds while both sides manage the appearance of ongoing diplomacy to avoid being blamed for a breakdown.",
+        "signal": "Watch for a joint statement announcing 'productive discussions' with no concrete timeline for phase two, and continued low-level ceasefire violations going unreported."
+      },
+      {
+        "name": "Israel resumes limited military operations",
+        "whatHappens": "Israel declares the phase-two deadline expired, resumes targeted operations in northern Gaza framed as enforcing the original agreement rather than terminating the ceasefire. The BoP protests but does not formally withdraw.",
+        "signal": "Watch for Israeli cabinet votes on expanding the rules of engagement within Gaza and Hegseth or another US official publicly blaming Hamas for the breakdown."
+      },
+      {
+        "name": "US applies pressure on Israel to offer state framework",
+        "whatHappens": "The Trump administration, seeking to protect the summit with Xi in Beijing and a broader regional deal, pressures Israel to offer a conditional statehood pathway in exchange for a Hamas weapons moratorium rather than full disarmament. Netanyahu's coalition fractures over it.",
+        "signal": "Watch for a US envoy making private statements to Israeli media that the disarmament-first requirement may be 'revisited,' and for Ben Gvir or Smotrich threatening to leave the coalition."
+      }
+    ],
+    "whatWouldChange": "If the US publicly committed to supporting Palestinian statehood as part of a post-disarmament framework, and Israel's government accepted that condition, the bottom line changes. Hamas might accept a credible state guarantee in exchange for weapons. But the current Israeli government coalition cannot survive that commitment. The bottom line holds until the Israeli government changes.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Hamas agree to disarm by June 30?",
+        "url": "https://polymarket.com/event/will-hamaz-disarm-by-december-31",
+        "probability": 0.105
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Israel x Hamas Ceasefire Phase II by October 31?",
+        "url": "https://polymarket.com/event/israel-x-hamas-ceasefire-phase-ii-by-october-31",
+        "probability": 0.0
+      }
+    ]
+  }
+}

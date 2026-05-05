@@ -1,0 +1,93 @@
+{
+  "id": "house-farm-bill-senate",
+  "date": "2026-05-05",
+  "generatedAt": "2026-05-05T22:30:00Z",
+  "title": "The House Passed a Farm Bill. The Senate Needs 10 Democrats. Neither Side Wants to Give the Other What It Needs.",
+  "subtitle": "The Farm, Food, and National Security Act cleared the House 224-200, stripped of ethanol and pesticide protections that Republican farm-state members wanted. Now it needs 60 Senate votes, which means SNAP cuts that Democrats will not accept.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["farm bill", "SNAP", "food assistance", "Senate", "agriculture", "ethanol", "pesticides", "bipartisan"],
+  "coverImage": {
+    "url": "https://npr.brightspotcdn.com/dims4/default/d084f83/2147483647/strip/true/crop/1024x538+0+20/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffe%2F8a%2Fc684f2044dc7aee8a2740871d369%2Ffarm-cami-koons-iowa-capital-dispatch.jpg",
+    "local": "/images/reports/2026-05-05/house-farm-bill-senate.jpg",
+    "credit": "Iowa Capital Dispatch / WFYI"
+  },
+  "sources": [
+    {
+      "url": "https://www.eenews.net/articles/pesticide-debate-follows-farm-bill-to-the-senate/",
+      "publisher": "E&E News / Politico",
+      "angle": "Tracks the pesticide liability protection removal as a specific Republican intra-party concession; notes the Senate debate will reopen this question."
+    },
+    {
+      "url": "https://www.wfyi.org/statewide/2026-05-01/us-house-passes-skinny-farm-bill-that-keeps-big-gop-cuts-to-food-assistance",
+      "publisher": "WFYI / States Newsroom",
+      "angle": "Focuses on SNAP cuts: the House bill maintains major reductions to food assistance, which will be the central Senate fight; CBO analysis shows the bill would not fully pay for itself."
+    },
+    {
+      "url": "https://www.politico.com/newsletters/weekly-agriculture/2026/05/04/snap-and-the-farm-bills-fate-00904161",
+      "publisher": "Politico",
+      "angle": "Inside the Senate dynamics: Democratic senators want SNAP cost-sharing changed; Senate Agriculture Chairman Boozman needs 9-10 Democrats and acknowledges the filibuster math requires real bipartisan compromise."
+    },
+    {
+      "url": "https://www.wglt.org/local-news/2026-05-04/sen-durbin-says-he-will-not-back-house-version-of-farm-bill",
+      "publisher": "WGLT / Illinois Public Radio",
+      "angle": "Sen. Durbin explicitly says the House version is not passable as written; names the controversial provisions he cannot support."
+    },
+    {
+      "url": "https://pnwag.net/farm-bill-to-the-senate/",
+      "publisher": "Pacific Northwest Agriculture Network",
+      "angle": "Senate Ag Chairman Boozman's own framing: says the 60-vote threshold requires a different approach and that he is building bipartisan consensus around areas of agreement rather than insisting on the House version."
+    }
+  ],
+  "brief": {
+    "actors": ["House Republicans", "Senate", "Boozman", "USDA", "Durbin"],
+    "whatHappened": "The US House passed the Farm, Food, and National Security Act of 2026 on April 30, 224-200, after a chaotic week of procedural fights. The bill strips provisions that would have helped ethanol producers and pesticide manufacturers, two Republican-aligned industries, because those provisions could not hold enough support even within the Republican caucus. Fourteen Democrats voted for the bill, providing the margin past the slim House majority. The bill now moves to the Senate, where it needs 60 votes due to the filibuster, meaning Republicans will need at least 9-10 Democratic senators. Senate Agriculture Chairman Boozman acknowledged this math publicly and said he intends to build a different coalition than the House used. Sen. Durbin has already said he will not vote for the House version. The core sticking point is SNAP: the House bill contains significant cuts to food assistance, and no Democratic senator has indicated willingness to accept those cuts.",
+    "bottomLine": "The House farm bill is not a bill the Senate can pass. It was designed to satisfy the House Republican caucus, which is a different political calculation than the 60-vote math the Senate requires.",
+    "hiddenBets": [
+      {
+        "assumption": "The House passage creates enough political momentum that the Senate will pass a modified version before August recess.",
+        "whyItMightBeWrong": "The Senate calendar already has the debt ceiling, immigration funding legislation, and NDAA competing for floor time. Boozman wants to build a bipartisan bill from scratch rather than modify the House version, which means the Senate effectively restarts a process that took the House years. Senate farm bills historically take longer than House bills and require broader negotiation. The August recess deadline is aggressive."
+      },
+      {
+        "assumption": "SNAP cuts are the main obstacle and a deal that softens them will pass.",
+        "whyItMightBeWrong": "The removed ethanol and pesticide provisions represent Republican constituencies that will need to be compensated somewhere in the Senate version. A Senate deal that softens SNAP cuts while restoring ethanol provisions faces a different opposition coalition than the House bill. Agriculture policy is a mosaic of regional interests: what plays in Iowa does not play in California, what plays in Midwest farming states does not play in New England."
+      },
+      {
+        "assumption": "A failed farm bill means the current extension continues.",
+        "whyItMightBeWrong": "Farm bill extensions keep programs technically alive but create uncertainty for multi-year crop planning, conservation program enrollment, and commodity support payments. The longer the extension continues, the more damage accumulates to programs that require stable multi-year authorization. A perpetual extension is not a stable equilibrium."
+      }
+    ],
+    "realDisagreement": "The genuine fork is between the Republican position that SNAP is an entitlement that needs reform and the Democratic position that SNAP is a floor that should not be negotiated. These are not just rhetorical disagreements: they reflect incompatible theories of what federal food assistance is for. Republicans see it as a program that should adjust based on fiscal conditions and work requirements. Democrats see it as emergency infrastructure that should not be means-tested into unreliability. You cannot write a farm bill that satisfies both positions, and every farm bill negotiation eventually hits this wall. The current deadlock is not a negotiating failure. It is the predictable outcome of a genuine values conflict.",
+    "whatNoOneIsSaying": "The 14 Democrats who voted for the House bill gave Republicans the political cover to claim bipartisan support. Those 14 are from agricultural districts where SNAP cuts are less politically costly than farm program uncertainty. They voted for the bill because their constituents are farmers, not because the Democratic caucus changed its position on SNAP. Senate Democrats from the same type of districts will face the same pressure, and 9-10 of them may be findable. The question is whether Boozman is willing to offer enough on SNAP to get them without losing Senate Republicans.",
+    "whoPays": [
+      {
+        "who": "SNAP recipients in states with high error rates",
+        "how": "The House bill would require states with SNAP payment error rates above 6% to share the financial burden of the program with the federal government. States with high error rates are disproportionately those with large low-income populations and understaffed caseworker systems. The cost-sharing mandate would pressure those states to reduce enrollment to lower error rates rather than fix administrative capacity.",
+        "when": "Within 2 years of any bill that includes this provision becoming law."
+      },
+      {
+        "who": "Ethanol producers",
+        "how": "The stripped E15 provision would have allowed year-round sales of 15% ethanol fuel, a significant market expansion. Without it, ethanol producers remain locked out of summer markets due to EPA volatility rules. The House version abandoned them, and they will have to fight the same battle in the Senate.",
+        "when": "Ongoing: each summer driving season without E15 authorization costs the industry an estimated hundreds of millions in foregone sales."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Senate writes new bill, passes before recess",
+        "whatHappens": "Boozman and ranking member Stabenow negotiate a bipartisan Senate alternative that softens SNAP cuts, restores some commodity program improvements, and drops the most controversial pesticide and California animal welfare provisions. It passes with 65+ votes and goes to conference with the House.",
+        "signal": "Watch for a joint Boozman-Stabenow statement announcing a bipartisan framework and a May or June markup in the Senate Ag Committee."
+      },
+      {
+        "name": "Extension again",
+        "whatHappens": "Neither chamber can reconcile its differences before August recess. Another one-year extension passes as part of a continuing resolution, pushing the fight to 2027 and a different political environment.",
+        "signal": "Watch for any Senate floor scheduling announcement that does not include farm bill and for Boozman or McConnell noting 'insufficient time' for floor consideration."
+      },
+      {
+        "name": "Reconciliation threat forces House capitulation",
+        "whatHappens": "Senate Democrats threaten to pass a competing farm bill through reconciliation if House SNAP cuts are not removed. The threat is credible enough that House Republicans open negotiations on softening the SNAP cost-sharing provisions, producing a modified conference bill.",
+        "signal": "Watch for any Senate Democratic statement specifically invoking reconciliation as a mechanism for food assistance programs."
+      }
+    ],
+    "whatWouldChange": "If Senate Democrats publicly identified 9-10 members willing to vote for a modified bill that softened SNAP cuts and dropped the California animal welfare preemption, Boozman would have a credible path to 60 votes and the negotiating dynamics would shift. No such public commitment has been made. Until it is, the bottom line is that the House bill cannot pass the Senate as written, and Boozman has not identified what changes would make it passable."
+  }
+}

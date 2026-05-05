@@ -137,6 +137,53 @@
           "relationship": "China's continued Iranian oil purchases keep global oil prices elevated, which is the primary mechanism sustaining the inflation-hawk case among the three Fed dissenters who opposed the easing-bias language"
         }
       ]
+    },
+    {
+      "id": "children-safety-as-universal-id",
+      "title": "Two countries are using child safety to build surveillance infrastructure for everyone",
+      "description": "The UK's social media ban and the US GUARD Act are structurally identical moves: both use harm to minors as the lever to deploy identity verification infrastructure that will apply to all users. The UK has not yet named the platforms, the age verification mechanism, or the VPN enforcement regime, but the architecture it is building will track every under-16 user and necessarily create a database of verified adults. The GUARD Act requires age verification for AI chatbots that is so broad it covers general-purpose tools. Neither government is being transparent about the fact that child protection is the public argument for a surveillance capability that has no sunset clause.",
+      "type": "tension-cluster",
+      "stories": ["uk-social-media-ban", "guard-act-ai-chatbot-minors"],
+      "connections": [
+        {
+          "from": "uk-social-media-ban",
+          "to": "guard-act-ai-chatbot-minors",
+          "relationship": "Both laws use child safety as the legal basis for identity verification infrastructure that applies to all users: the UK's implementation challenge (no named platforms, no named verification method) reveals the same gap the GUARD Act's critics identify in the US, which is that the surveillance architecture is defined before the harm it claims to address"
+        }
+      ]
+    },
+    {
+      "id": "pentagon-ai-capture-completes",
+      "title": "The companies that accepted Pentagon terms now control both the commercial AI market and its classified infrastructure",
+      "description": "The Pentagon's classified AI agreements and the voluntary pre-release review program announced the same week are not separate stories. Together they describe a single outcome: the AI companies that agreed to military use terms without Anthropic-style restrictions are now the same companies operating inside the most sensitive DoD networks and the same companies volunteering for the pre-release review that will shape domestic AI regulation. The voluntary compliance story (big tech agreeing to pre-release review) and the classified access story (the same companies getting IL7 clearance) form a closed loop: cooperation with the national security state is the price of both military access and regulatory influence. The AI governance architecture now being built will be designed by the companies that accepted these terms.",
+      "type": "dependency-web",
+      "stories": ["pentagon-ai-classified-networks", "big-tech-ai-model-review", "anthropic-pentagon-excluded"],
+      "connections": [
+        {
+          "from": "pentagon-ai-classified-networks",
+          "to": "big-tech-ai-model-review",
+          "relationship": "The same companies that accepted DoD classified agreements (Google, Microsoft, OpenAI) are the ones who volunteered for CAISI pre-release evaluation; their willingness to cooperate with government in both contexts is what gives them a seat at the table when domestic AI regulations are written"
+        },
+        {
+          "from": "anthropic-pentagon-excluded",
+          "to": "pentagon-ai-classified-networks",
+          "relationship": "Anthropic's exclusion from DoD classified networks is the direct consequence of refusing military use terms, which means the classified AI infrastructure is now built entirely by companies with no publicly binding constraints on how their models are used in warfare"
+        }
+      ]
+    },
+    {
+      "id": "ai-boom-distributes-costs-unequally",
+      "title": "The AI economy is generating wealth and distributing its costs in the same motion",
+      "description": "Samsung's union fracture and the NOAA monitoring cuts are about the same underlying force: the AI investment cycle is creating winners and silently offloading costs onto those not in the loop. Samsung's semiconductor division generates the HBM profits that make the company globally important, while workers in the mobile division see their union captured by demands they did not make and cannot benefit from. NOAA's Mauna Loa observatory is being cut while the AI data centers that accelerate the climate change it measures are the largest electricity consumers in US history. The AI boom is not neutral: it is actively degrading the institutions and workforce conditions of the people and systems adjacent to it.",
+      "type": "tension-cluster",
+      "stories": ["samsung-union-fracture", "noaa-co2-record"],
+      "connections": [
+        {
+          "from": "samsung-union-fracture",
+          "to": "noaa-co2-record",
+          "relationship": "Both stories describe the same mechanism: the AI investment cycle concentrates gains in semiconductor infrastructure while externalizing costs onto adjacent parties, in one case workers in non-chip divisions, in the other case the atmospheric monitoring systems that measure AI data centers' contribution to record CO2 levels"
+        }
+      ]
     }
   ]
 }
