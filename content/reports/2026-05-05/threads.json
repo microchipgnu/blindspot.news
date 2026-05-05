@@ -1,0 +1,52 @@
+{
+  "date": "2026-05-05",
+  "threads": [
+    {
+      "id": "iran-war-as-eu-leverage",
+      "title": "Hormuz is the gun Trump is holding at Europe's head",
+      "description": "The US Navy is reopening the Strait of Hormuz while Trump simultaneously threatens 25% tariffs on European cars. These look like separate stories. They are the same story: Europe depends on US naval capability to protect the energy supply it cannot replace, which gives Trump a coercive instrument he is deploying simultaneously in two domains. The tariff threat is credible precisely because the alternative to European compliance is a US that chooses not to secure their energy lanes.",
+      "type": "dependency-web",
+      "stories": ["hormuz-ceasefire-fractures", "eu-car-tariffs-25-percent"],
+      "connections": [
+        {
+          "from": "hormuz-ceasefire-fractures",
+          "to": "eu-car-tariffs-25-percent",
+          "relationship": "US naval control of the Strait of Hormuz gives Trump leverage over EU energy security, which he is monetizing simultaneously as a car tariff threat: comply on trade or your energy supply is your problem"
+        }
+      ]
+    },
+    {
+      "id": "transactional-access-pattern",
+      "title": "The US is selling access to itself",
+      "description": "Three stories today share an underlying logic that rarely gets named: the Trump administration is treating every US capability as a commodity for sale, priced in political compliance. Military network access for AI companies, naval protection for global shipping, market access for European exporters. In each case, the party that agrees to US terms gets the capability; the party that refuses is shut out. Anthropic said no and lost classified access. Europe is being asked to say yes and pay with trade concessions. Iran said no to peace terms and got its shipping lane forced open against its will. These are not different policy areas; they are instances of the same transactional governance model applied at once.",
+      "type": "tension-cluster",
+      "stories": ["hormuz-ceasefire-fractures", "anthropic-pentagon-excluded", "eu-car-tariffs-25-percent"],
+      "connections": [
+        {
+          "from": "anthropic-pentagon-excluded",
+          "to": "hormuz-ceasefire-fractures",
+          "relationship": "AI companies that accepted broad military use terms got Pentagon classified access; US military capability in the strait is being exercised as leverage over Iran on the same transactional terms"
+        },
+        {
+          "from": "hormuz-ceasefire-fractures",
+          "to": "eu-car-tariffs-25-percent",
+          "relationship": "US naval power securing global energy transit is the background condition that makes EU dependence on US geopolitical cooperation real, converting it into trade leverage"
+        }
+      ]
+    },
+    {
+      "id": "court-timing-as-weapon",
+      "title": "The Supreme Court is using procedure to decide outcomes",
+      "description": "Both SCOTUS stories today are about the same move: using procedural timing to impose substantive results before political response is possible. The VRA ruling was forced into effect immediately, ahead of the 32-day standard window, putting redistricting on a schedule that compresses before the 2026 election. The mifepristone stay lasts exactly seven days, placing the burden of urgency on reproductive rights advocates rather than the court. In both cases, the procedural choice is not neutral; it determines who benefits from the clock.",
+      "type": "tension-cluster",
+      "stories": ["scotus-vra-redistricting", "mifepristone-scotus-stay"],
+      "connections": [
+        {
+          "from": "scotus-vra-redistricting",
+          "to": "mifepristone-scotus-stay",
+          "relationship": "In both cases Justice Alito controls the procedural lever, and in both cases the procedural choice, immediate effect for VRA, one-week stay for mifepristone, sets timelines that favor the politically conservative outcome regardless of the eventual merits ruling"
+        }
+      ]
+    }
+  ]
+}

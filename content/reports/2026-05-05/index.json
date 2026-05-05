@@ -1,0 +1,36 @@
+{
+  "date": "2026-05-05",
+  "generatedAt": "2026-05-05T08:00:00Z",
+  "reports": [
+    {
+      "id": "hormuz-ceasefire-fractures",
+      "title": "Project Freedom Cracks the Ceasefire",
+      "subtitle": "The US forced ships through the Strait of Hormuz. Iran responded by attacking the UAE. A three-week truce is unraveling in real time.",
+      "category": "conflict"
+    },
+    {
+      "id": "anthropic-pentagon-excluded",
+      "title": "Anthropic Said No to the Pentagon. Now It's on the Outside.",
+      "subtitle": "The DoD cleared 8 AI firms for classified networks and locked out the one company that refused to sign military use terms. This is what a fault line in AI looks like.",
+      "category": "power"
+    },
+    {
+      "id": "scotus-vra-redistricting",
+      "title": "SCOTUS Guts the VRA and Makes It Take Effect Immediately",
+      "subtitle": "A 6-3 ruling last week killed majority-minority districts. An emergency order Monday forced that ruling into effect before the 32-day waiting period. The 2026 map is already being redrawn.",
+      "category": "power"
+    },
+    {
+      "id": "mifepristone-scotus-stay",
+      "title": "Alito Saves the Abortion Pill. For One Week.",
+      "subtitle": "The 5th Circuit banned mifepristone by mail. SCOTUS gave it a seven-day reprieve. The same justice who ended Roe is now the procedural firewall between millions of women and a nationwide restriction.",
+      "category": "ethics"
+    },
+    {
+      "id": "eu-car-tariffs-25-percent",
+      "title": "Trump Is Coming for European Cars Again",
+      "subtitle": "The USTR confirmed 25% tariffs on EU autos are moving forward. Europe's car industry was already struggling. This time, the trigger is geopolitical, not just protectionist.",
+      "category": "power"
+    }
+  ]
+}

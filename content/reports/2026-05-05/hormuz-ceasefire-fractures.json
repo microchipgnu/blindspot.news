@@ -1,0 +1,118 @@
+{
+  "id": "hormuz-ceasefire-fractures",
+  "date": "2026-05-05",
+  "generatedAt": "2026-05-05T08:00:00Z",
+  "title": "Project Freedom Cracks the Ceasefire",
+  "subtitle": "The US forced ships through the Strait of Hormuz. Iran responded by attacking the UAE. A three-week truce is unraveling in real time.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["Iran", "US", "Strait of Hormuz", "ceasefire", "Middle East war", "shipping"],
+  "coverImage": {
+    "url": "https://dims.apnews.com/dims4/default/db48257/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc8%2F67%2F17662af83c87e677050f7a3fb4ba%2F184f5a49c188471ea559896d6ce7e43d",
+    "local": "/images/reports/2026-05-05/hormuz-ceasefire-fractures.jpg",
+    "credit": "AP News"
+  },
+  "sources": [
+    {
+      "url": "https://apnews.com/article/iran-war-ceasefire-strait-hormuz-explainer-1e5055b74f935a4b9a73ea2c1b636a44",
+      "publisher": "AP News",
+      "angle": "Factual explainer on what Project Freedom is, how the ceasefire is wavering, and the UAE attack; notes shipping companies and insurers are unlikely to immediately resume normal transit even if the strait reopens"
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/c4g437depzpo",
+      "publisher": "BBC",
+      "angle": "Describes Trump's framing of the operation as a humanitarian gesture while Iran calls it a ceasefire violation; notes fighting resumed the day after the announcement"
+    },
+    {
+      "url": "https://apnews.com/article/iran-us-war-ceasefire-negotiations-strait-b48635e586e2907caae65b58bd03f5b7",
+      "publisher": "AP News",
+      "angle": "Trump rejected Iran's 14-point peace proposal, saying he was not satisfied; Iran's plan demanded US withdrawal from nearby regions and a nuclear framework"
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/5/3/whats-irans-14-point-proposal-to-end-the-war-and-will-trump-accept-it",
+      "publisher": "Al Jazeera",
+      "angle": "Details Iran's 14-point peace framework, including demands to end the war comprehensively, a nuclear deal, and US troop withdrawal from the region"
+    },
+    {
+      "url": "https://foreignpolicy.com/2026/05/04/middle-powers-geopolitics-global-order-trump-war-iran-china/",
+      "publisher": "Foreign Policy",
+      "angle": "Argues that middle powers like Canada, Germany, and the Gulf states lack real leverage to shape the outcome; the great-power frame dominates"
+    }
+  ],
+  "brief": {
+    "actors": ["US", "Iran", "UAE", "Trump", "China"],
+    "whatHappened": "The US military launched Operation Project Freedom on May 4, deploying guided-missile destroyers, over 100 aircraft, and 15,000 personnel to escort stranded commercial ships through the Strait of Hormuz. The US said it sank six Iranian small boats that attacked civilian vessels and successfully transited two American-flagged merchant ships. The United Arab Emirates, which had not been attacked since the early-April ceasefire took hold, said Iran struck it with missiles and drones for the first time during the conflict. Two cargo vessels were reported ablaze off the UAE coast. Iran called the US naval operation a ceasefire violation, while Trump had already rejected Iran's 14-point peace proposal as unsatisfactory.",
+    "bottomLine": "The US chose to reopen the strait rather than close a deal, which means the ceasefire was already dead in Washington before Iran fired a single shot on Monday.",
+    "hiddenBets": [
+      {
+        "assumption": "The ceasefire was a stable pause that both sides wanted to preserve",
+        "whyItMightBeWrong": "Trump rejected Iran's formal 14-point proposal days before launching Project Freedom, suggesting the US was not actually negotiating in good faith during the ceasefire period. A ceasefire both sides want to break is not a ceasefire."
+      },
+      {
+        "assumption": "Reopening the strait is primarily about global shipping and economics",
+        "whyItMightBeWrong": "The operation uses 15,000 personnel and over 100 aircraft, far more than needed for merchant escort. The scale signals a deliberate test of whether Iran will fight back, not a humanitarian operation."
+      },
+      {
+        "assumption": "Iran's attacks on the UAE represent an escalation by Tehran",
+        "whyItMightBeWrong": "Iran's position is that US convoy operations violated the ceasefire terms first. The UAE attacks are, from Tehran's view, a lawful response to a broken agreement. Whether that framing has merit changes who bears the cost of escalation politically."
+      }
+    ],
+    "realDisagreement": "The actual fork is between two things that both seem right: that 20% of the world's oil cannot be held hostage indefinitely by a state that lost a military confrontation, and that forcing ships through a contested strait without a negotiated framework is not reopening a sea lane but starting a second round of war. The US is betting the first. Iran is betting the second. Both are correct about something. The US has the military advantage; Iran has the ability to drag this indefinitely, including through proxies that can threaten the UAE and Saudi infrastructure. The lean here is toward the US achieving temporary transit while failing to close the war, leaving the strait contested for months.",
+    "whatNoOneIsSaying": "Iran's 14-point proposal was rejected before Project Freedom launched. That sequencing means the US chose military action over a negotiated opening. If the goal were really to free ships, the proposal would have been the easier path. The real prize is not the shipping lanes; it is establishing that the US can operate freely in the strait under fire, which matters for the upcoming Trump-Xi summit where Taiwan and the Pacific are the real agenda.",
+    "whoPays": [
+      {
+        "who": "Merchant shipping crews and ship owners",
+        "how": "Even with US escort, shipping insurance premiums in the Gulf remain extremely elevated. Many carriers will avoid the strait entirely regardless of US military operations, rerouting via the Cape of Good Hope and absorbing weeks of delay and cost.",
+        "when": "Immediately and ongoing"
+      },
+      {
+        "who": "UAE civilian and economic infrastructure",
+        "how": "Iran attacked the UAE directly for the first time in this conflict. Abu Dhabi and Dubai are the financial and logistics hubs for the region; sustained Iranian drone and missile attacks could damage the Gulf's most stable economy and deter investment.",
+        "when": "Acute risk now, sustained over months"
+      },
+      {
+        "who": "Global energy consumers",
+        "how": "The Strait of Hormuz carries roughly 20% of world oil and LNG. Continued closure or contested transit keeps energy prices elevated, feeding inflation in import-dependent economies already strained by the conflict.",
+        "when": "Ongoing until a stable transit regime is established"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Corridor holds, war continues",
+        "whatHappens": "US naval escorts succeed in moving ships regularly. Iran accepts this de facto as the new baseline but refuses formal negotiations, and the conflict grinds as a low-grade naval standoff. The ceasefire becomes a fiction both sides maintain for diplomatic cover.",
+        "signal": "Iran stops attacking US-escorted convoys but resumes attacks on unescorted ships or Gulf-state infrastructure"
+      },
+      {
+        "name": "Escalation breaks the ceasefire formally",
+        "whatHappens": "Iran declares the ceasefire void, resumes strikes on US military assets in the region, and closes the strait more aggressively with mines or submarine threats. The US faces a choice between a full second military campaign or accepting a contested strait.",
+        "signal": "Iran publicly withdraws from the ceasefire agreement and launches attacks on US navy assets rather than just merchant ships"
+      },
+      {
+        "name": "Trump-Xi summit produces a framework",
+        "whatHappens": "China leverages its influence over Iran's oil revenue and the upcoming Beijing summit to push Tehran toward a more acceptable proposal. A US-Iran nuclear-plus-ceasefire deal is signed before July, but Iran retains significant enrichment capacity.",
+        "signal": "Chinese officials begin making public statements calling for a permanent Iran ceasefire in the two weeks before the Trump-Xi summit"
+      }
+    ],
+    "whatWouldChange": "If Trump accepted a modified version of Iran's 14-point proposal, or if Iran's response to Project Freedom stopped at words rather than attacks on UAE infrastructure, the bottom line would need to flip. Either event would show both sides still have reason to preserve the ceasefire.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "US x Iran permanent peace deal by May 31, 2026?",
+        "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by",
+        "probability": 0.125
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US-Iran nuclear deal by June 30?",
+        "url": "https://polymarket.com/event/us-iran-nuclear-deal-by-june-30",
+        "probability": 0.245
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US-Iran nuclear deal before 2027?",
+        "url": "https://polymarket.com/event/us-iran-nuclear-deal-before-2027",
+        "probability": 0.505
+      }
+    ]
+  }
+}

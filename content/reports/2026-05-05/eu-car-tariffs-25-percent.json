@@ -1,0 +1,94 @@
+{
+  "id": "eu-car-tariffs-25-percent",
+  "date": "2026-05-05",
+  "generatedAt": "2026-05-05T08:00:00Z",
+  "title": "Trump Is Coming for European Cars Again",
+  "subtitle": "The USTR confirmed 25% tariffs on EU autos are moving forward. Europe's car industry was already struggling. This time, the trigger is geopolitical, not just protectionist.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["tariffs", "EU", "trade war", "auto industry", "Germany", "Trump", "USTR"],
+  "coverImage": {
+    "url": "https://www.reuters.com/resizer/v2/6GGMLP472NMDLLBNTNOGJQE4E4.jpg?auth=85e0e6f0af372db96dfd549390b42eb3e3fd99b56875c58f177acf503ea85f48&height=1005&width=1920&quality=80&smart=true",
+    "local": "/images/reports/2026-05-05/eu-car-tariffs-25-percent.jpg",
+    "credit": "Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/europe/us-move-forward-with-plans-hike-eu-car-tariffs-2026-05-04/",
+      "publisher": "Reuters",
+      "angle": "Reports USTR Jamieson Greer confirmed on CNBC the 25% tariff hike is proceeding; Greer was in contact with EU and German officials over the weekend"
+    },
+    {
+      "url": "https://www.autonews.com/manufacturing/automakers/ane-trump-15-percent-tariff-threat-europe-reaction-0503/",
+      "publisher": "Automotive News",
+      "angle": "Industry perspective: German automakers like BMW and Porsche warn of 'huge costs'; Germany's VDA industry lobby called for talks; notes the existing US-EU trade deal was not supposed to allow this"
+    },
+    {
+      "url": "https://newmobility.news/en/2026/05/04/european-auto-industry-back-in-the-firing-line-as-trump-reignites-25-tariff-threat/",
+      "publisher": "New Mobility",
+      "angle": "Notes the trigger this time is geopolitical as much as economic: the tariff threat comes as Trump wants EU support for or at minimum non-interference with the Iran war"
+    },
+    {
+      "url": "https://finance.yahoo.com/economy/policy/articles/eu-vows-action-trump-adopts-133243847.html",
+      "publisher": "Bloomberg via Yahoo Finance",
+      "angle": "EU finance ministers said they would consider all retaliatory options but prefer sticking with the existing trade deal; shows the EU is caught between capitulation and escalation"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "EU", "Germany", "USTR"],
+    "whatHappened": "US Trade Representative Jamieson Greer told EU and German officials over the weekend that the Trump administration will move forward with a plan to raise tariffs on EU car and truck imports to 25%, up from the current rate. Greer confirmed the decision publicly on CNBC on Monday, saying he had been in contact with both European Commission and German trade officials. The EU trade commissioner responded that Europe would consider all retaliatory options if the tariffs are implemented, while urging the US to work within the existing US-EU trade framework. Germany's auto industry lobby called for emergency talks. The US and EU signed a trade deal last summer that was supposed to provide stability; this announcement signals that deal is under severe strain.",
+    "bottomLine": "A 25% tariff on European cars is not a trade dispute; it is a toll booth Trump is erecting to extract geopolitical compliance from Europe, and Europe does not have a credible counter-offer.",
+    "hiddenBets": [
+      {
+        "assumption": "This is primarily about protecting the American auto industry from import competition",
+        "whyItMightBeWrong": "The timing coincides directly with EU reluctance to fully endorse the Iran war and US demands for NATO allies to increase defense spending. Trade tariffs are being deployed as geopolitical pressure instruments, not industrial policy tools. The EU's auto exports to the US are leverage, not the actual target."
+      },
+      {
+        "assumption": "The existing US-EU trade deal creates a legal floor that prevents 25% tariffs",
+        "whyItMightBeWrong": "Trump has already shown willingness to abrogate or ignore trade agreements when politically convenient. The deal did not prevent this announcement, and the administration has not offered any legal explanation for how 25% tariffs are compatible with the framework it signed last summer."
+      },
+      {
+        "assumption": "European retaliation would be symmetrical and measured",
+        "whyItMightBeWrong": "The EU's most powerful retaliatory levers, targeting US services, tech companies, and pharmaceuticals, would be more economically damaging to the US economy than targeted auto tariffs. But deploying those levers risks an escalation spiral that EU member states with weaker economies cannot sustain. The asymmetry in tolerance for economic pain favors the US."
+      }
+    ],
+    "realDisagreement": "The core tension is between two views of what the transatlantic relationship is. One view: it is a reciprocal partnership where trade rules are binding and neither side can use trade as a weapon for political ends without mutual agreement. The other view: it is a relationship structured around US security provision, and the price of that provision is compliance with US strategic preferences, including trade policy. Trump is operating from the second view; the EU was built on the first. These two frameworks are incompatible, and the EU has no institutional mechanism for switching between them because the first view is foundational to the European project.",
+    "whatNoOneIsSaying": "The German auto industry's predicament here is specifically its own making. For 20 years, Germany built massive export capacity for premium cars priced above $50,000, betting on a globalized trade environment that US political consensus was always capable of withdrawing. The industry's lobbying strategy has been to call for 'talks' whenever the tariff threat appears, which produces delay but not resolution. That strategy works as long as the political cost of the tariff is higher than the cost of the delay. Trump has concluded the calculus has flipped.",
+    "whoPays": [
+      {
+        "who": "German and European automakers and their workers",
+        "how": "BMW, Mercedes, Volkswagen, and Porsche face a 25% cost increase on US-bound exports. At current exchange rates and margins, that either makes their cars uncompetitive in the US or forces margin compression that reduces capital available for EV transition investment.",
+        "when": "Immediately upon implementation; investment decisions affected now"
+      },
+      {
+        "who": "American car buyers",
+        "how": "Reduced competition from European imports supports higher prices for equivalent US-made vehicles. American buyers of premium cars pay more; the tariff is a transfer from American consumers to US automakers.",
+        "when": "Within 90 days of tariff implementation"
+      },
+      {
+        "who": "EU countries with weaker economies",
+        "how": "If the EU retaliates with broad counter-tariffs, the economic pain is not evenly distributed. Export-dependent smaller EU economies facing both the Iran war energy shock and a trade war with the US are most vulnerable.",
+        "when": "Medium-term, 6-18 months"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Tariffs take effect, EU retaliates narrowly",
+        "whatHappens": "The 25% tariff is signed into law. The EU responds with targeted tariffs on US goods in politically sensitive states, a playbook used successfully against steel tariffs. Both sides live with elevated tariffs while formally maintaining the trade framework.",
+        "signal": "EU publishes a retaliatory list targeting goods from US swing states within 30 days of tariff implementation"
+      },
+      {
+        "name": "EU capitulates on geopolitics and tariffs are withdrawn",
+        "whatHappens": "Faced with the combined pressure of Iran war energy disruption and the tariff threat, EU member states increase defense spending pledges and signal closer alignment with US Iran policy. Trump withdraws or reduces the tariff threat as geopolitical compliance is delivered.",
+        "signal": "EU High Representative makes a public statement endorsing US Iran policy or significantly upgrading NATO spending commitments"
+      },
+      {
+        "name": "Full trade war escalation",
+        "whatHappens": "The tariff is implemented, the EU responds with services and tech counter-tariffs, and both sides allow the existing trade deal to effectively collapse. The transatlantic trade relationship enters a prolonged adversarial phase.",
+        "signal": "EU targets American tech companies, financial services, or pharmaceutical exports in its retaliation package"
+      }
+    ],
+    "whatWouldChange": "If Trump signals the tariffs are genuinely about auto industry protection rather than geopolitical leverage, and the EU offers a market access concession that addresses the underlying industrial argument, a negotiated deal is plausible. The bottom line changes if the threat is real but the ask is specific and answerable.",
+    "markets": []
+  }
+}
