@@ -1,0 +1,108 @@
+{
+  "id": "nvidia-china-zero",
+  "date": "2026-05-05",
+  "generatedAt": "2026-05-05T12:45:00Z",
+  "title": "Nvidia Lost China. China Didn't Notice.",
+  "subtitle": "Jensen Huang says US export controls cut Nvidia's China AI market share to zero. China replaced Nvidia with Huawei. The policy worked exactly as its critics warned.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["nvidia", "china", "ai", "chips", "export-controls", "huawei"],
+  "coverImage": {
+    "url": "https://cdn.mos.cms.futurecdn.net/kzsQ9kF5A9MCd4sEEdZa4o-1571-80.png",
+    "local": "/images/reports/2026-05-05/nvidia-china-zero.jpg",
+    "credit": "Tom's Hardware"
+  },
+  "sources": [
+    {
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-says-nvidia-now-has-zero-percent-market-share-in-china-says-us-export-policy-has-already-largely-backfired",
+      "publisher": "Tom's Hardware",
+      "angle": "Jensen Huang tells SCSP that Nvidia's direct China AI accelerator share has dropped to zero; frames export controls as having already largely backfired by ceding the market to Chinese chipmakers."
+    },
+    {
+      "url": "https://www.implicator.ai/nvidia-says-china-ai-accelerator-share-has-dropped-to-zero-under-export-curbs/",
+      "publisher": "Implicator AI",
+      "angle": "Synthesizes Huang's comments with the broader pattern: China went from Nvidia-dependent to Huawei-led in roughly two years, with $4.5B in write-downs marking the transition."
+    },
+    {
+      "url": "https://www.internetgovernance.org/2026/05/04/running-a-race-looking-backwards-us-digital-export-controls/",
+      "publisher": "Internet Governance Project",
+      "angle": "Policy critique: argues the MATCH Act and all prior chip export controls are structurally counterproductive, reinforcing China's domestic semiconductor buildout rather than arresting it."
+    },
+    {
+      "url": "https://beam.ai/agentic-insights/nvidia-china-market-share-zero-huawei-12-billion",
+      "publisher": "Beam AI",
+      "angle": "Traces what filled the void: Huawei's $12B Ascend 910C cluster program became the de facto replacement, with Chinese hyperscalers now locked into domestic supply chains."
+    }
+  ],
+  "brief": {
+    "actors": ["Nvidia", "Jensen Huang", "Huawei", "China", "US Commerce Department", "Congress"],
+    "whatHappened": "Nvidia CEO Jensen Huang told the Special Competitive Studies Project that his company now holds zero percent of China's AI accelerator market, a fall from roughly 95% two years ago. The decline followed successive rounds of US export restrictions that blocked Nvidia's most powerful chips, then caught H200 shipments in a licensing limbo, and finally triggered Chinese government mandates to use domestic chips. Nvidia recorded $4.5 billion in write-downs tied to these controls in its first fiscal quarter of 2026 alone. Huawei's Ascend 910C series has stepped into the gap, with Chinese hyperscalers now running domestic clusters at scale.",
+    "bottomLine": "The US chip embargo handed Huawei the market it needed to mature: the policy turned China's AI chip dependency into an industrial program, and that program is now running.",
+    "hiddenBets": [
+      {
+        "assumption": "Export controls work by denying China capable hardware indefinitely.",
+        "whyItMightBeWrong": "The time horizon matters. Two years was apparently enough for Huawei and China's hyperscalers to build credible alternatives. If the goal was permanent denial, the window has already closed."
+      },
+      {
+        "assumption": "Nvidia's loss is temporary and recoverable once US-China relations normalize.",
+        "whyItMightBeWrong": "Chinese hyperscalers have now invested billions in Huawei Ascend infrastructure, training engineering teams and optimizing software stacks around domestic chips. Switching back to Nvidia imposes real costs even if sanctions lift. The installed base advantage Nvidia lost may not return."
+      },
+      {
+        "assumption": "Smuggled chips (estimated at $1B per quarter according to Huang) fill the gap without accelerating domestic development.",
+        "whyItMightBeWrong": "Smuggled chips patch acute needs but do not build the supply chain, CUDA-equivalent software ecosystems, or the institutional knowledge that a mandated domestic buildout creates. The smuggling may actually slow China's urgency to indigenize at the margin."
+      }
+    ],
+    "realDisagreement": "The genuine fork is between two readings of what export controls are for. One reading: they buy time, impose costs on China's AI program, and slow the pace at which China closes the gap with the US. Under this view, even a temporary denial of Nvidia chips was worth it. The other reading: the only thing that secures US AI leadership is staying ahead through innovation, and ceding the China market to Huawei funds and legitimizes the competitor you were trying to contain. Huang is explicitly arguing the second. The Commerce Department and most of Congress are implicitly betting on the first. The honest answer is that neither side knows which frame is correct because no one has run the counterfactual. I'd lean toward Huang's reading: you can't sanction your way to dominance in a technology where the software stack and training infrastructure are the actual moat, and China has now built both domestically."
+    ,
+    "whatNoOneIsSaying": "Nvidia's zero-percent share is a gift to Huawei's investor story at exactly the moment Huawei needed credibility to compete globally outside China. The chips Huawei sells to Chinese hyperscalers are the same chips it will try to sell to Middle Eastern and Southeast Asian buyers who face no US export restrictions. Washington didn't just lose the China market; it created Huawei's reference customer base.",
+    "whoPays": [
+      {
+        "who": "Nvidia shareholders",
+        "how": "$4.5 billion in write-downs recognized in Q1 2026; China was 20-25% of data center revenue. The market has priced in some of this but not a permanent zero-share scenario.",
+        "when": "Already happening; ongoing through 2026 as remaining China business winds down."
+      },
+      {
+        "who": "US AI startups and researchers dependent on affordable compute",
+        "how": "Huawei's Ascend ecosystem does not support CUDA. As China's developers build natively on Ascend, the tooling, model architectures, and benchmarks developed inside China will diverge from the US-dominant stack. The two AI ecosystems become progressively less compatible, fragmenting the global research base.",
+        "when": "Medium-term; 12-24 months before divergence becomes visible in model architectures."
+      },
+      {
+        "who": "Congressional proponents of the MATCH Act and prior chip controls",
+        "how": "The political cost arrives when China demonstrates a capable domestically-built AI cluster at scale that was explicitly accelerated by the pressure to indigenize. The policy's internal contradiction becomes undeniable.",
+        "when": "Likely within 12 months as Huawei ships volume 910C production."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Permanent bifurcation",
+        "whatHappens": "China's Huawei-led stack matures into a credible alternative for non-Western buyers. The global AI market splits into two incompatible ecosystems. Nvidia dominates the US-Europe-Japan corridor; Huawei dominates China plus much of the Global South.",
+        "signal": "Saudi Arabia, UAE, or another major non-Chinese sovereign AI program places a Huawei Ascend cluster order at scale."
+      },
+      {
+        "name": "Policy reversal",
+        "whatHappens": "The Commerce Department or White House, facing Nvidia lobbying and the visible failure of denial, carves out a new license category that allows Nvidia back into China for civilian AI applications. China accepts as a temporary measure while domestic capacity scales.",
+        "signal": "A new BIS license category for 'civilian AI compute' emerges in the Federal Register, or a Trump-Xi side agreement on chips is announced."
+      },
+      {
+        "name": "Controls deepen anyway",
+        "whatHappens": "Congress passes the AI OVERWATCH Act or similar legislation, adding software and model weight controls on top of hardware restrictions. The policy doubles down on denial despite visible failure at the hardware layer.",
+        "signal": "The AI OVERWATCH Act advances out of committee with bipartisan support and a Senate floor vote is scheduled."
+      }
+    ],
+    "whatWouldChange": "If Huawei's Ascend 910C clusters demonstrably underperform Nvidia equivalents at the frontier model training tasks that matter most, and China's AI labs publicly report hitting capability walls, the 'policy worked to slow China' argument becomes defensible. No current evidence points that direction.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Nvidia Data Center Revenue above 80B in Q1?",
+        "url": "https://polymarket.com/event/nvidia-data-center-revenue-above-in-q1",
+        "probability": 0.465
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will NVIDIA be the largest company in the world by market cap on June 30?",
+        "url": "https://polymarket.com/event/largest-company-end-of-june-712",
+        "probability": 0.705
+      }
+    ]
+  }
+}

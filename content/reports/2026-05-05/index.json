@@ -31,6 +31,42 @@
       "title": "Trump Is Coming for European Cars Again",
       "subtitle": "The USTR confirmed 25% tariffs on EU autos are moving forward. Europe's car industry was already struggling. This time, the trigger is geopolitical, not just protectionist.",
       "category": "power"
+    },
+    {
+      "id": "nvidia-china-zero",
+      "title": "Nvidia Lost China. China Didn't Notice.",
+      "subtitle": "Jensen Huang says US export controls cut Nvidia's China AI market share to zero. China replaced Nvidia with Huawei. The policy worked exactly as its critics warned.",
+      "category": "power"
+    },
+    {
+      "id": "china-sanctions-defiance",
+      "title": "China Told Its Banks: Ignore Washington.",
+      "subtitle": "Beijing invoked blocking rules for the first time, ordering Chinese companies not to comply with US sanctions on five oil refiners. It puts every Chinese bank with US dollar exposure in an impossible position.",
+      "category": "power"
+    },
+    {
+      "id": "russia-ukraine-competing-ceasefires",
+      "title": "Two Countries, Two Ceasefires, Zero Agreement",
+      "subtitle": "Russia declared a ceasefire for its own Victory Day holiday. Zelensky declared a different ceasefire for an earlier date. Both sides framed the other as the obstacle to peace.",
+      "category": "conflict"
+    },
+    {
+      "id": "trump-ai-model-vetting",
+      "title": "The White House That Killed AI Regulation Is Now Considering It",
+      "subtitle": "Trump reversed Biden's AI executive order to free companies from oversight. Now, after Anthropic's Mythos model scared enough officials, the White House is weighing mandatory pre-release vetting.",
+      "category": "power"
+    },
+    {
+      "id": "ice-dhs-immigration-funding",
+      "title": "Congress Is Funding a Deportation Machine That Can't Be Turned Off",
+      "subtitle": "DHS got its funding back. ICE and CBP didn't. Now Republicans are routing $140 billion in immigration enforcement through mandatory accounts designed to survive future Congresses and future presidents.",
+      "category": "power"
+    },
+    {
+      "id": "uk-social-media-ban",
+      "title": "The UK Banned Social Media for Kids. It Just Doesn't Know How Yet.",
+      "subtitle": "The Children's Wellbeing and Schools Act passed last week with a mandatory July 2027 deadline for under-16 restrictions. The government has not yet named the platforms, the age verification method, or whether ISPs will be required to block VPNs.",
+      "category": "ethics"
     }
   ]
 }

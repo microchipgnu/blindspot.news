@@ -1,0 +1,101 @@
+{
+  "id": "trump-ai-model-vetting",
+  "date": "2026-05-05",
+  "generatedAt": "2026-05-05T12:45:00Z",
+  "title": "The White House That Killed AI Regulation Is Now Considering It",
+  "subtitle": "Trump reversed Biden's AI executive order to free companies from oversight. Now, after Anthropic's Mythos model scared enough officials, the White House is weighing mandatory pre-release vetting. Polymarket puts it at 28% by month-end.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["ai", "trump", "regulation", "anthropic", "executive-order", "oversight"],
+  "coverImage": {
+    "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieMqR.D9stws/v1/1200x800.jpg",
+    "local": "/images/reports/2026-05-05/trump-ai-model-vetting.jpg",
+    "credit": "Bloomberg"
+  },
+  "sources": [
+    {
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-administration-considers-mandatory-pre-release-vetting-of-ai-models",
+      "publisher": "Tom's Hardware",
+      "angle": "Reports the proposed executive order would create an 'AI working group' of officials and tech executives to review models before release; Anthropic's Mythos model, flagged for its ability to identify and exploit cybersecurity vulnerabilities, is cited as the direct catalyst."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-05-04/white-house-eyes-vetting-ai-models-before-release-ny-times-says",
+      "publisher": "Bloomberg",
+      "angle": "Notes the proposal would give government early access to models without delaying their release, and frames it as a departure from the administration's prior deregulatory stance."
+    },
+    {
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/white-house-considers-vetting-ai-models-before-they-are-released-10673526/",
+      "publisher": "Indian Express",
+      "angle": "Reports tech executives arguing that pre-release reviews would slow US innovation against China, injecting the competitive frame directly into the regulatory debate."
+    },
+    {
+      "url": "https://www.banks.senate.gov/news/press-releases/banks-introduces-ai-overwatch-act/",
+      "publisher": "Senator Jim Banks (R-IN)",
+      "angle": "Banks's AI OVERWATCH Act, introduced May 4 with bipartisan cosponsors including Elizabeth Warren, would tie chip export controls to AI model access controls, framing AI governance as a national security issue."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "White House", "Anthropic", "OpenAI", "Google", "Congress", "NIST"],
+    "whatHappened": "The Trump administration is considering an executive order that would require US government officials to review AI models before their public release, the New York Times reported Monday. The proposed order would create a working group of tech company executives and government officials to develop oversight procedures. The reversal comes after the administration rescinded Biden's 2023 AI executive order as one of its first deregulatory acts. Anthropic's Mythos model, which demonstrated the ability to identify and exploit cybersecurity vulnerabilities at a level that alarmed officials, is reported as the proximate trigger. Separately, Senator Banks introduced the bipartisan AI OVERWATCH Act on May 4, which would expand chip export controls to cover AI model weights and access.",
+    "bottomLine": "The administration is discovering that 'move fast' works fine until a model ships that can attack critical infrastructure, and now it needs a framework it explicitly dismantled.",
+    "hiddenBets": [
+      {
+        "assumption": "Pre-release government vetting can catch dangerous capabilities without slowing development.",
+        "whyItMightBeWrong": "The proposed structure gives government 'early access' without delaying releases. But early access without authority to require changes is not oversight; it is notification. A government working group that cannot block a release has theatrical power, not real power."
+      },
+      {
+        "assumption": "Anthropic's Mythos is the exceptional case; most models don't require this level of scrutiny.",
+        "whyItMightBeWrong": "Mythos is exceptional because Anthropic disclosed its capabilities. Other companies may have models with similar or greater risks that they have not disclosed. The review regime is only as good as the disclosure incentive, and there is currently no legal requirement to disclose dangerous capabilities."
+      },
+      {
+        "assumption": "The tech industry will cooperate with a working group that includes company executives.",
+        "whyItMightBeWrong": "Including company executives in the review body creates an obvious conflict of interest: a company reviewing a competitor's pre-release model has every incentive to leak, delay, or disadvantage it. The UK's AI Security Institute solved this by keeping reviews inside government with independent technical staff."
+      }
+    ],
+    "realDisagreement": "The actual fork is whether the US government can design an AI oversight process that is genuinely independent of the companies it regulates, given that those companies are simultaneously the government's allies in the China competition. The Biden approach tried to do this through NIST and independent safety evaluation. The Trump administration dismantled that, then invited tech executives into the regulatory structure itself. The problem is real: Mythos-class capabilities are genuinely dangerous. But putting the companies being regulated on the review committee is not a solution to regulatory capture; it is a formalization of it. I'd lean toward the Biden-era NIST model being structurally sounder, but the current administration will not rebuild what it destroyed.",
+    "whatNoOneIsSaying": "Anthropic disclosed Mythos's cybersecurity capabilities voluntarily, in a responsible disclosure model it developed itself. The administration is now building a regulatory framework in response to a problem that only became visible because one company chose transparency. If the framework punishes disclosure by adding compliance burden, the next company will not be transparent.",
+    "whoPays": [
+      {
+        "who": "Smaller AI labs and open-source developers",
+        "how": "A pre-release review regime with a government working group and tech-executive membership will inevitably be calibrated to the scale of major frontier labs. Smaller labs and open-source projects will face disproportionate compliance costs or be carved out entirely, freezing the market structure in favor of incumbents.",
+        "when": "If the executive order is signed, carve-out definitions will be negotiated in the 90 days following."
+      },
+      {
+        "who": "National security agencies dependent on AI tools",
+        "how": "The DoD, CIA, and NSA depend on commercial AI capability. A pre-release review regime that slows frontier model deployment, even marginally, delays the military AI capabilities the administration says it wants to accelerate.",
+        "when": "Ongoing tension; visible whenever a classified deployment is delayed pending civilian review."
+      },
+      {
+        "who": "Anthropic",
+        "how": "Anthropic is simultaneously the company that caused this regulatory response and the company already excluded from Pentagon AI contracts for refusing military use terms. If pre-release vetting becomes law, Anthropic faces review from a working group that includes the companies that benefited from its exclusion.",
+        "when": "Immediate; the AI OVERWATCH Act and the proposed executive order both implicate Anthropic's product pipeline."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Executive order signed as described",
+        "whatHappens": "Trump signs an order creating a working group with early-access rights but no blocking authority. Companies comply by sharing models weeks before release. No model is ever actually delayed. The oversight is real on paper and nominal in practice.",
+        "signal": "White House publishes the EO text; it includes language about 'non-binding review' or 'notification requirements' rather than 'approval requirements'."
+      },
+      {
+        "name": "Tech industry lobbying kills it",
+        "whatHappens": "Company executives on the working group design a process so procedurally complex that it is never operationalized. The order stays on the books; no model is ever reviewed. The competitive framing ('this will let China win') dominates the internal White House debate.",
+        "signal": "No model reviews are completed within 6 months of the order being signed."
+      },
+      {
+        "name": "Congress moves faster",
+        "whatHappens": "The AI OVERWATCH Act passes with bipartisan support, creating a statutory review regime with actual teeth. The executive order becomes redundant and is folded into the legislative framework.",
+        "signal": "AI OVERWATCH Act advances to a floor vote in either chamber within 60 days."
+      }
+    ],
+    "whatWouldChange": "If a company other than Anthropic voluntarily discloses a dangerous capability in a future model, and that disclosure is treated as a compliance liability rather than a public good, the argument that self-regulation is insufficient becomes undeniable even to the administration.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Trump orders federal review of AI model releases by May 31?",
+        "url": "https://polymarket.com/event/trump-orders-federal-review-for-ai-model-releases-by-may-31",
+        "probability": 0.285
+      }
+    ]
+  }
+}

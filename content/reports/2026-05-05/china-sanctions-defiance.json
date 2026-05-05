@@ -1,0 +1,107 @@
+{
+  "id": "china-sanctions-defiance",
+  "date": "2026-05-05",
+  "generatedAt": "2026-05-05T12:45:00Z",
+  "title": "China Told Its Banks: Ignore Washington.",
+  "subtitle": "Beijing invoked blocking rules for the first time, ordering Chinese companies not to comply with US sanctions on five oil refiners. It puts every Chinese bank with US dollar exposure in an impossible position.",
+  "topic": "geopolitics",
+  "category": "power",
+  "tags": ["china", "sanctions", "iran", "trade-war", "banking", "oil"],
+  "coverImage": {
+    "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/03/5e1addd7-1801-4b3b-bbea-e943458f865d_7b376159.jpg?itok=tNF9xfm3&v=1777807902",
+    "local": "/images/reports/2026-05-05/china-sanctions-defiance.jpg",
+    "credit": "South China Morning Post"
+  },
+  "sources": [
+    {
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3352278/us-sanctioned-chinese-oil-refineries-now-china-really-pushing-back",
+      "publisher": "South China Morning Post",
+      "angle": "First application of China's 2021 Blocking Rules against specific named targets; frames it as a new stage in Beijing's pushback against US extraterritorial jurisdiction."
+    },
+    {
+      "url": "https://macaonews.org/news/greater-china/china-us-iran-oil-sanctions-banks/",
+      "publisher": "Macao News",
+      "angle": "Focuses on the compliance squeeze for Chinese banks: follow US sanctions and preserve dollar access, or follow MOFCOM's order and face domestic legal liability. No clean exit."
+    },
+    {
+      "url": "https://www.bostonglobe.com/2026/05/03/world/beijing-tells-china-firms-to-ignore-us-sanctions-on-refiners/",
+      "publisher": "Boston Globe / Bloomberg",
+      "angle": "Notes the timing: the order came before a long-awaited Trump-Xi meeting, signaling Beijing chose confrontation over conciliation as its opening bid."
+    },
+    {
+      "url": "https://fortune.com/2026/05/04/china-defiance-us-sanctions-iran-oil/",
+      "publisher": "Fortune / Bloomberg",
+      "angle": "Broader framing: China had previously allowed large firms to quietly comply with sanctions to protect dollar access; this order marks a deliberate reversal of that quiet accommodation."
+    }
+  ],
+  "brief": {
+    "actors": ["China", "US Treasury", "Iran", "MOFCOM", "Chinese banks", "Hengli Petrochemical", "Trump"],
+    "whatHappened": "China's Ministry of Commerce issued an unprecedented prohibition order on May 3, invoking blocking rules introduced in 2021 for the first time against named targets. The order declares that US sanctions on five Chinese oil refiners, including Hengli Petrochemical and several Shandong 'teapot' refineries, must not be recognized, enforced, or complied with inside China. The five firms were sanctioned by the US Treasury and State Department over Iranian petroleum trading. The Chinese order directly conflicts with US secondary sanctions law, which can penalize any entity that does business with the designated firms, including third-country banks with US dollar clearing relationships.",
+    "bottomLine": "China just forced every Chinese bank with a dollar correspondent account to choose between its domestic regulator and Washington. That choice has no safe answer, and Beijing knows it.",
+    "hiddenBets": [
+      {
+        "assumption": "Chinese banks will find a way to thread the needle, dealing with neither side to avoid consequences from both.",
+        "whyItMightBeWrong": "The five sanctioned refiners still need to move oil and settle payments. Chinese banks either facilitate those transactions or they don't. MOFCOM's order does not create a third option; it just changes which regulator you're crossing when you refuse."
+      },
+      {
+        "assumption": "This is a negotiating tactic ahead of the Trump-Xi meeting, not a genuine policy shift.",
+        "whyItMightBeWrong": "Beijing published the order, made it public, and put it in the Federal Register equivalent. Walking it back after a bilateral meeting would be a visible climb-down. The escalation cost of issuing this order was real; the optionality cost of reversing it may be higher."
+      },
+      {
+        "assumption": "The US secondary sanctions regime is robust enough to compel compliance regardless of what Beijing orders.",
+        "whyItMightBeWrong": "Secondary sanctions work through dollar clearing. If China accelerates yuan-based settlement for Iranian oil transactions, the dollar lever loses grip. The blocking order is both a defiance of the current regime and an accelerant for the alternative architecture that makes future defiance less costly."
+      }
+    ],
+    "realDisagreement": "The real fork is whether the dollar's dominance in global oil trade is a structural fact or a policy choice that can be eroded. The US Treasury's implicit bet is structural: no major bank will risk dollar clearing access for Iranian oil money, no matter what Beijing says. China's bet is that the threshold can shift if Beijing creates enough legal cover and domestic political legitimacy for non-compliance. Both bets have been made. The answer will be visible in whether Chinese banks actually process payments for the five refiners over the next 90 days. I'd lean toward Treasury being right in the short run: the correspondent banking relationships at ICBC, Bank of China, and CCB are worth far more than Iranian oil revenue. But China is playing a longer game, and every round of this builds the yuan settlement infrastructure that makes the next defiance cheaper.",
+    "whatNoOneIsSaying": "The US sanctioned these refiners explicitly to disrupt Iran's oil revenue as part of the Hormuz ceasefire pressure campaign. China just told Iran that its protection has a floor. That is worth more to Tehran than the oil income itself.",
+    "whoPays": [
+      {
+        "who": "Mid-tier Chinese banks without significant US exposure",
+        "how": "These banks face the least downside from ignoring US sanctions, which makes them the most likely to actually comply with MOFCOM's order. That makes them the locus of the next round of US secondary sanctions designations.",
+        "when": "Within 60-90 days, as Treasury identifies which institutions are facilitating transactions."
+      },
+      {
+        "who": "Global banks with both Chinese and US correspondent relationships",
+        "how": "European and Asian banks that have relationships in both markets now face real compliance ambiguity. Any transaction touching the five named firms carries legal exposure in at least one jurisdiction.",
+        "when": "Immediate; compliance teams are already working through the new exposure."
+      },
+      {
+        "who": "The Hormuz ceasefire framework",
+        "how": "The sanctions that triggered China's blocking order were designed to pressure Iran through cutting oil revenue. If Chinese banks are shielded from compliance pressure, Iran retains its oil income and loses a key incentive to hold the ceasefire.",
+        "when": "Medium-term; visible within the ceasefire review cycle."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Banks thread it anyway",
+        "whatHappens": "China's largest banks quietly find procedural grounds to avoid directly processing sanctioned transactions while MOFCOM's order remains formally in place. The confrontation is rhetorical; actual compliance with US sanctions continues at the institutional level.",
+        "signal": "No new US secondary sanctions designations against major Chinese financial institutions within 60 days."
+      },
+      {
+        "name": "Escalation spiral",
+        "whatHappens": "A mid-tier Chinese bank processes a transaction for one of the five refiners, the US designates it under secondary sanctions, and China retaliates with asset restrictions on US firms operating in China. The bilateral financial architecture cracks.",
+        "signal": "US Treasury adds a Chinese bank to the SDN list; China's State Administration of Foreign Exchange announces a review of US firms' renminbi holdings."
+      },
+      {
+        "name": "Trump-Xi deal papers it over",
+        "whatHappens": "The blocking order becomes a bargaining chip. At the bilateral summit, China agrees to quietly enforce sanctions on the five refiners in exchange for US concessions on tariffs or tech controls. MOFCOM's order is never formally rescinded but stops being enforced.",
+        "signal": "Bilateral summit statement includes language on 'coordination on sanctions compliance mechanisms' or 'financial stability cooperation'."
+      }
+    ],
+    "whatWouldChange": "If the Trump-Xi summit produces a formal agreement that includes Iran-related sanctions coordination, this looks like successful pressure rather than genuine defiance. Watch the summit communique.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Xi Jinping visit US before 2027?",
+        "url": "https://polymarket.com/event/will-xi-jinping-visit-us-before-2027",
+        "probability": 0.655
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US x China Military clash before 2027?",
+        "url": "https://polymarket.com/event/us-x-china-military-clash-before-2027",
+        "probability": 0.06
+      }
+    ]
+  }
+}

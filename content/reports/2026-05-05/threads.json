@@ -47,6 +47,39 @@
           "relationship": "In both cases Justice Alito controls the procedural lever, and in both cases the procedural choice, immediate effect for VRA, one-week stay for mifepristone, sets timelines that favor the politically conservative outcome regardless of the eventual merits ruling"
         }
       ]
+    },
+    {
+      "id": "china-chip-sanction-loop",
+      "title": "The chip embargo and the sanctions defiance are the same policy feedback loop",
+      "description": "The US cut Nvidia off from China to slow Beijing's AI development. China responded by building Huawei into a viable alternative and then, this week, ordered its entire corporate sector to ignore the US sanctions that were designed to keep the embargo in place. These are not separate tech and finance stories: Nvidia's zero-share outcome is the proof of concept that gave Beijing the confidence to invoke the blocking rules. Each US escalation in the sanctions-and-controls regime is producing the domestic Chinese capability that makes the next US escalation less effective.",
+      "type": "cause-effect",
+      "stories": ["nvidia-china-zero", "china-sanctions-defiance"],
+      "connections": [
+        {
+          "from": "nvidia-china-zero",
+          "to": "china-sanctions-defiance",
+          "relationship": "US chip export controls forced China to indigenize its AI hardware supply chain through Huawei, demonstrating that US economic coercion produces domestic substitution; emboldened by this success, Beijing escalated by invoking blocking rules against secondary sanctions on oil refiners"
+        }
+      ]
+    },
+    {
+      "id": "ai-governance-contradiction",
+      "title": "The US cannot be simultaneously deregulating and regulating AI",
+      "description": "Three stories today expose a single contradiction at the heart of US AI policy. The Trump administration killed Biden's AI oversight framework to let companies move fast. Then it excluded Anthropic from Pentagon contracts for refusing military use terms. Then, after Anthropic's Mythos scared officials, it began considering pre-release vetting, the core mechanism it had just abolished. Meanwhile, Congress is writing chip export controls that presuppose the government can track and constrain AI capability globally, while the White House tells companies those same capabilities are unregulated domestically. The administration is running a deregulation stance and a national security surveillance stance simultaneously, and they are starting to collide.",
+      "type": "tension-cluster",
+      "stories": ["anthropic-pentagon-excluded", "trump-ai-model-vetting", "nvidia-china-zero"],
+      "connections": [
+        {
+          "from": "anthropic-pentagon-excluded",
+          "to": "trump-ai-model-vetting",
+          "relationship": "Anthropic's exclusion from Pentagon AI contracts and its Mythos model's cybersecurity capabilities are the same story: the government needs frontier AI companies but cannot control them through military procurement, so it is now considering a pre-release vetting regime as a second attempt at leverage"
+        },
+        {
+          "from": "trump-ai-model-vetting",
+          "to": "nvidia-china-zero",
+          "relationship": "The proposed domestic AI model vetting regime and the chip export controls are designed to work together as a dual containment strategy, but the Nvidia zero-share outcome shows that hardware containment failed; if model-weight controls are added on top of failed hardware controls, the same substitution dynamic will occur with AI software development"
+        }
+      ]
     }
   ]
 }
