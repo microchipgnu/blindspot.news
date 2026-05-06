@@ -1,0 +1,83 @@
+{
+  "id": "scotus-universal-injunctions",
+  "date": "2026-05-06",
+  "generatedAt": "2026-05-06T08:30:00Z",
+  "title": "SCOTUS Ended the Nationwide Injunction. Kavanaugh Told You Why.",
+  "subtitle": "The Court didn't strip power from the judiciary. It moved that power upstairs, to itself.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["SCOTUS", "injunctions", "executive power", "birthright citizenship", "judiciary"],
+  "coverImage": {
+    "url": "https://cdn.sanity.io/images/pito4za5/production/d9859e7706474213efb48f53e5f281d6f579f544-2560x1708.jpg",
+    "local": "/images/reports/2026-05-06/scotus-universal-injunctions.jpg",
+    "credit": "Katie Barlow / SCOTUSblog"
+  },
+  "sources": [
+    {
+      "url": "https://www.scotusblog.com/2026/05/court-finalizes-voting-rights-act-ruling-and-temporarily-restores-mail-access-to-abortion-pill/",
+      "publisher": "SCOTUSblog",
+      "angle": "Comprehensive roundup: confirms the VRA ruling finalization, Alito's mifepristone stay, and notes the emerging redistricting chaos in Southern states"
+    },
+    {
+      "url": "http://sixfootturkey.blogspot.com/2025/06/justice-blindfolded.html",
+      "publisher": "Six Foot Turkey (legal commentary)",
+      "angle": "Argues Kavanaugh's concurrence reveals a power-grab: the FOMC is not abolishing nationwide relief but centralizing it in the Supreme Court's shadow docket"
+    },
+    {
+      "url": "https://www.mondaq.com/unitedstates/diversity-equity-inclusion/1782094/fourth-circuit-vacates-preliminary-injunction-blocking-trump-anti-dei-executive-orders",
+      "publisher": "Mondaq / Hall Benefits Law",
+      "angle": "Practical downstream effect: Fourth Circuit vacated the DEI injunction citing the new framework, showing how quickly the ruling is reshaping lower court behavior"
+    }
+  ],
+  "brief": {
+    "actors": ["SCOTUS", "Trump", "Jackson", "Kavanaugh", "Sotomayor", "Biden", "Louisiana", "Congress"],
+    "whatHappened": "The Supreme Court's 6-3 conservative majority ruled in the birthright citizenship case that federal district courts no longer have the authority to issue nationwide injunctions blocking presidential executive actions beyond the named plaintiffs in a case. The ruling did not decide the birthright citizenship question on its merits. Instead, it used the case to resolve a decade-long procedural dispute over whether single district courts could freeze presidential policy nationwide. Justice Kavanaugh wrote a concurrence explaining that the Court itself would provide any necessary nationwide interim relief through its shadow docket. Justices Jackson and Sotomayor dissented sharply, warning the ruling creates a two-tier justice system where only the well-lawyered can secure relief from constitutional violations.",
+    "bottomLine": "The Court did not end nationwide injunctive relief. It reserved that power for itself, exercisable without explanation, through the emergency docket it controls.",
+    "hiddenBets": [
+      {
+        "assumption": "Limiting district court injunctions reduces 'gamesmanship' and forum-shopping",
+        "whyItMightBeWrong": "Kavanaugh's answer to forum-shopping is that the Supreme Court will issue shadow docket orders instead. Shadow docket orders require no reasoning, no full briefing, and can be granted or denied based on majority preferences with no transparency. The gamesmanship does not end; it moves to a less visible arena with fewer procedural safeguards."
+      },
+      {
+        "assumption": "Individuals harmed by unconstitutional executive actions can still get relief by filing their own lawsuits",
+        "whyItMightBeWrong": "Jackson's dissent names this directly: litigation is expensive, slow, and requires lawyers. The administration has shown it will not voluntarily comply with circuit court precedent in other jurisdictions. A person deported to a country where they face torture while their individual lawsuit works through the system has no practical remedy even if they eventually win."
+      },
+      {
+        "assumption": "The ruling represents principled constitutional reasoning about the scope of equitable judicial power",
+        "whyItMightBeWrong": "Conservative justices who now endorse limiting injunctions were silent or supportive when district courts issued similar injunctions against Obama policies. Thomas wrote no similar critique in 2016 when courts blocked DAPA. The timing of the principle's discovery correlates with which party occupies the White House."
+      }
+    ],
+    "realDisagreement": "The genuine fork is between two views of what the federal courts are for. One view says courts exist to resolve disputes between specific parties, and nationwide relief is an overreach that allows judges to become policymakers. The other view says courts exist to enforce constitutional limits on power, and when the executive acts unconstitutionally at scale, anything less than nationwide relief makes the Constitution's guarantees contingent on personal wealth and legal access. The first position has formal logic behind it. The second has the more honest account of what constitutional rights mean to people who cannot afford lawyers. I lean toward the second, while conceding the first has a real concern about unelected district judges imposing nationwide policy. The answer to that concern is not concentrating relief in an unreasoned emergency docket, which is what Kavanaugh proposed.",
+    "whatNoOneIsSaying": "Kavanaugh's concurrence is a blueprint for how the Court expands its own power while appearing to constrain judicial overreach. The Court now controls when and whether anyone gets emergency protection from executive action, without any requirement to explain its reasoning. This is not judicial modesty. It is judicial monopoly.",
+    "whoPays": [
+      {
+        "who": "Immigrants facing deportation to third countries with torture risk",
+        "how": "Prior to this ruling, a district court order could halt a policy immediately for everyone. Now, each person must file individual litigation. The administration has already demonstrated it will move quickly enough that individual cases cannot keep pace.",
+        "when": "Immediate, applies to deportation actions already underway"
+      },
+      {
+        "who": "Civil rights organizations challenging discriminatory executive policies",
+        "how": "Group litigation strategies that previously allowed a single well-resourced lawsuit to protect an entire class of people now require parallel cases in every circuit. This multiplies costs and creates a patchwork where the same federal policy is legal in some states and blocked in others.",
+        "when": "Now through 2028 as the ruling's effects ripple through ongoing litigation"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Shadow docket absorbs the gap",
+        "whatHappens": "The Supreme Court grants emergency relief in high-profile cases through its interim docket, maintaining de facto nationwide protection for the most visible constitutional disputes. The ruling's real effect is concentrated on less-publicized violations where no one brings an emergency application.",
+        "signal": "SCOTUS grants stays in 3+ major executive action cases within 6 months using shadow docket procedure"
+      },
+      {
+        "name": "Circuit splits multiply",
+        "whatHappens": "Without nationwide injunctions to create uniform rules, different federal circuits reach different conclusions on the same executive actions. People in the Ninth Circuit have rights that people in the Fifth Circuit do not. Congress does not act to clarify. The legal landscape fragments for years.",
+        "signal": "Two circuits issue contradictory rulings on the same executive order; administration picks enforcement jurisdictions based on circuit outcomes"
+      },
+      {
+        "name": "Congress codifies injunction authority",
+        "whatHappens": "A future Congress passes legislation explicitly granting district courts the statutory authority to issue nationwide relief in specified categories. This partially restores the prior framework by grounding it in statute rather than equitable tradition.",
+        "signal": "Senate bill introduced with bipartisan support defining statutory class-action-style relief in constitutional challenges to executive action"
+      }
+    ],
+    "whatWouldChange": "If the Supreme Court demonstrated through consistent shadow docket practice that it grants nationwide emergency relief promptly, with reasoning, and without regard to partisan outcome, the Kavanaugh framework would have credibility. The historical record of the shadow docket moves in the opposite direction. That record, not the formal doctrine, is what makes the ruling consequential."
+  }
+}

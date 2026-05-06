@@ -1,0 +1,36 @@
+{
+  "date": "2026-05-06",
+  "generatedAt": "2026-05-06T08:30:00Z",
+  "reports": [
+    {
+      "id": "ai-mythos-gov-testing",
+      "title": "The Government Wants to Test AI Before You Get It",
+      "subtitle": "Microsoft, Google, and xAI will hand unreleased models to federal scientists. The real story is what triggered it: Anthropic's Mythos.",
+      "category": "power"
+    },
+    {
+      "id": "scotus-universal-injunctions",
+      "title": "SCOTUS Ended the Nationwide Injunction. Kavanaugh Told You Why.",
+      "subtitle": "The Court didn't strip power from the judiciary. It moved that power upstairs, to itself.",
+      "category": "power"
+    },
+    {
+      "id": "hormuz-iran-deal",
+      "title": "Trump Launched Project Freedom. Then Stopped It After One Day.",
+      "subtitle": "The Hormuz pause is not a concession to Iran. It is a test of whether Pakistan can deliver a deal before Iran's economy forces one.",
+      "category": "conflict"
+    },
+    {
+      "id": "warsh-fed-rate-hike",
+      "title": "The Bond Market Thinks Warsh Will Hike Before He Cuts",
+      "subtitle": "Trump wants cheaper money. His Fed pick may deliver the opposite. And neither man is fully wrong.",
+      "category": "decision"
+    },
+    {
+      "id": "australia-social-media-ban-enforcement",
+      "title": "Australia's Teen Social Media Ban Is Five Months Old. 61% of Affected Kids Still Have Accounts.",
+      "subtitle": "Meta's AI enforcement tools are a compliance performance, not a solution. The gap between the ban's ambition and its mechanics is now evidence.",
+      "category": "ethics"
+    }
+  ]
+}

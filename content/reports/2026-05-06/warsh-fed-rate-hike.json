@@ -1,0 +1,107 @@
+{
+  "id": "warsh-fed-rate-hike",
+  "date": "2026-05-06",
+  "generatedAt": "2026-05-06T08:30:00Z",
+  "title": "The Bond Market Thinks Warsh Will Hike Before He Cuts",
+  "subtitle": "Trump wants cheaper money. His Fed pick may deliver the opposite. And neither man is fully wrong.",
+  "topic": "economy",
+  "category": "decision",
+  "tags": ["Fed", "Warsh", "interest rates", "inflation", "Trump", "monetary policy"],
+  "coverImage": {
+    "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqtaHgTNSojM/v1/1200x800.jpg",
+    "local": "/images/reports/2026-05-06/warsh-fed-rate-hike.jpg",
+    "credit": "Bloomberg"
+  },
+  "sources": [
+    {
+      "url": "https://finance.biggo.com/news/1Vy7-p0B2jrwCtglWS-h",
+      "publisher": "BigGo Finance",
+      "angle": "Detailed market mechanics: swap contracts showing >50% probability of hike-before-cut by April 2027; SOFR options positioning and JPMorgan survey showing investor shift to net-short"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/05/04/fed-kevin-warsh-interest-rates.html",
+      "publisher": "CNBC",
+      "angle": "Former Fed officials raise concern about Warsh's balance sheet plans and the proposed Treasury-Fed accord; six sources describe it as 'confusing' to 'worrisome'"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/05/04/kevin-warsh-could-become-the-wealthiest-fed-chair/",
+      "publisher": "Motley Fool",
+      "angle": "Profile: Warsh would be the wealthiest Fed chair ever; describes his philosophy of a 'back-seat Fed' with less communication and balance sheet reduction"
+    },
+    {
+      "url": "https://thefinancialwire.com/kevin-warsh-could-be-running-the-fed-by-may-15-heres-what-changes-for-your-mortgage-rate-savings-account-and-401k/",
+      "publisher": "The Financial Wire",
+      "angle": "Consumer impact lens: Senate Banking Committee vote puts confirmation on track for week of May 11; frames stakes for mortgages, savings, and 401k"
+    },
+    {
+      "url": "https://www.fxstreet.com/news/fed-warshs-challenge-and-q4-cuts-bny-202605050815",
+      "publisher": "FXStreet / BNY",
+      "angle": "Contrarian view from BNY: four FOMC dissents matter less than markets think; maintains forecast of two Q4 cuts conditional on Hormuz reopening and oil prices easing"
+    }
+  ],
+  "brief": {
+    "actors": ["Warsh", "Trump", "Powell", "Fed", "Bessent", "FOMC"],
+    "whatHappened": "The Senate Banking Committee advanced Kevin Warsh's nomination to replace Jerome Powell as Fed chair on April 29, setting up a full Senate vote the week of May 11. Powell's term as chair expires May 15. Swap contracts now price a greater than 50% probability that the Fed's next rate move will be a hike, not a cut, by April 2027. The April FOMC meeting produced four dissents against the easing bias in the statement, the first time in over 30 years. Former Trump advisor Gary Cohn has described Warsh as a 'fundamentalist' who will shrink the balance sheet aggressively and reduce communication frequency. Trump continues to publicly advocate for rate cuts. BNY maintains a forecast of two Q4 cuts, contingent on the Strait of Hormuz reopening.",
+    "bottomLine": "The market is pricing a Fed chair who will hike into an economy Trump has promised to juice with cheap money. One of them is wrong about what the data will require.",
+    "hiddenBets": [
+      {
+        "assumption": "Warsh will govern as a hawkish, independence-first Fed chair despite being Trump's nominee",
+        "whyItMightBeWrong": "Warsh's documented view is that 'non-monetary matters' including international finance and balance sheet policy are legitimately subject to Treasury coordination. This is exactly the aperture through which political pressure enters. A man who believes swap lines to Gulf states are not monetary policy is already accepting Treasury's definition of where the Fed's independence ends."
+      },
+      {
+        "assumption": "The four FOMC dissents signal durable hawkish majority",
+        "whyItMightBeWrong": "BNY's analysis is right that Warsh still needs the other eleven FOMC members to move. Three of the four dissenters opposed the easing bias in language, not an outright hike. If oil prices drop because the Hormuz situation resolves, inflation pressure eases and the same voters who dissented will support cuts. The dissents are a current reading, not a permanent structure."
+      },
+      {
+        "assumption": "Restricting the Fed's balance sheet reduces its dangerous footprint without constraining crisis response",
+        "whyItMightBeWrong": "Warsh resigned in 2011 over the Fed's quantitative easing. The exact crisis response tool he opposed then is what former Fed officials say a future financial shock would require. A Treasury-Fed accord that limits balance sheet composition to Treasuries only would leave the Fed unable to intervene in corporate bond markets or mortgage markets during a systemic failure."
+      }
+    ],
+    "realDisagreement": "The genuine tension is between two legitimate problems. Trump's economy needs lower rates because the Hormuz-driven oil shock is squeezing growth while pushing up inflation, creating a stagflation trap where cutting rates risks more inflation and holding rates risks recession. Warsh's inclination is to treat the oil shock as a supply-side problem that rate cuts cannot fix and would worsen by inflating demand. Both positions are defensible. The market is betting on Warsh's view, which is the economically consistent one given persistent oil prices above $100. But if the Hormuz deal closes and oil drops 20% by September, the case for cuts becomes overwhelming and Warsh would face enormous institutional pressure to pivot. I lean toward the market's current bet: one hike is more likely than consensus admits, conditional on no deal before summer.",
+    "whatNoOneIsSaying": "Warsh's proposed Treasury-Fed accord is less about principle and more about giving the Fed cover to do politically convenient things while maintaining the fiction of independence. Ceding swap line decisions to Treasury lets Warsh give Gulf allies what Trump wants without it counting as monetary policy. This is not restraint. It is outsourcing.",
+    "whoPays": [
+      {
+        "who": "Homeowners with adjustable-rate mortgages and HELOC borrowers",
+        "how": "If Warsh holds or hikes, variable borrowing costs remain elevated. The average small business loan rate is already 8.5-10.5%. Consumers carrying adjustable debt have no buffer if rates stay high longer than the market's current median expectation.",
+        "when": "Immediate squeeze for those renewing ARMs; builds through 2026-2027 if cuts are delayed to 2028 as some traders now price"
+      },
+      {
+        "who": "U.S. federal government",
+        "how": "The federal government is spending over $1 trillion annually on interest payments at current rates. A hike extends that. A delay in cuts leaves the debt service burden compounding. There is bipartisan pressure to reduce this, which is one reason Trump wants cuts regardless of inflation.",
+        "when": "Fiscal year 2027 budget pressure if rates stay above 4% through end of 2026"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Hike then cut",
+        "whatHappens": "Warsh takes over May 15. June CPI comes in sticky. Hormuz deal stalls. At the September meeting, Warsh leads a 25bp hike to restore anti-inflation credibility. If Hormuz resolves by late fall, cuts begin in December.",
+        "signal": "June CPI above 3.2%; no Iran deal announced by July 4; Warsh's first public speech uses the phrase 'price stability mandate' without mentioning employment"
+      },
+      {
+        "name": "BNY's base case: Q4 cuts",
+        "whatHappens": "Hormuz deal closes by July. Oil drops to $85. Inflation cools. Warsh holds through summer, then cuts twice in Q4 as the dual mandate rebalances. Markets rally. Trump claims credit.",
+        "signal": "Hormuz reopens; Brent crude falls below $90; core PCE drops to 2.4% or below in July reading"
+      },
+      {
+        "name": "Stagflation trap",
+        "whatHappens": "Oil stays above $100. Labor market softens as energy costs destroy consumer purchasing power. Warsh faces simultaneous rising inflation and rising unemployment. He holds rates and is blamed for both problems. Congress moves to reform the Fed's mandate.",
+        "signal": "Unemployment rate rises to 4.5% while CPI stays above 3.5%; FOMC meeting minutes show active internal debate about mandate prioritization"
+      }
+    ],
+    "whatWouldChange": "If the Hormuz deal closes and oil falls to pre-war levels by summer, the inflation pressure driving hike expectations disappears and the case for cuts becomes the dominant view. The BNY forecast would be vindicated. If that does not happen by September, the swap market's hike-before-cut pricing moves from a hedge to the base case.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Jerome Powell depart as Fed Chair by May 16, 2026?",
+        "url": "https://polymarket.com/event/jerome-powell-departs-as-fed-chair-by",
+        "probability": 0.905
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Fed rate hike in 2026?",
+        "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+        "probability": 0.225
+      }
+    ]
+  }
+}
