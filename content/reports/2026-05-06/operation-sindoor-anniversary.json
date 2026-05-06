@@ -1,0 +1,106 @@
+{
+  "id": "operation-sindoor-anniversary",
+  "date": "2026-05-06",
+  "generatedAt": "2026-05-06T22:30:00Z",
+  "title": "One Year After Operation Sindoor, Both India and Pakistan Are Preparing for the Next War",
+  "subtitle": "The ceasefire is holding. The lessons both sides drew from the last conflict are not about how to prevent the next one. They are about how to win it.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["India", "Pakistan", "Operation Sindoor", "nuclear", "ceasefire", "South Asia", "escalation"],
+  "coverImage": {
+    "url": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/05/2-global-pulse-6-may.jpg",
+    "local": "/images/reports/2026-05-06/operation-sindoor-anniversary.jpg",
+    "credit": "ThePrint"
+  },
+  "sources": [
+    {
+      "url": "https://theprint.in/global-pulse/1-year-after-op-sindoor-global-media-predicts-next-india-pakistan-conflict-may-be-more-destructive/2923899/",
+      "publisher": "ThePrint",
+      "angle": "Summarizes Foreign Affairs analysis: both sides spent the year drawing lessons on how to hit harder and faster; the next crisis will be more dangerous with higher risk of inadvertent nuclear use"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/news/op-sindoor-precision-restraint-and-the-new-grammar-of-war-in-the-one-year-since-the-war/article70947592.ece",
+      "publisher": "The Hindu BusinessLine",
+      "angle": "Indian military perspective: Sindoor demonstrated decisive air dominance with Rafale jets and S-400 system; India is expanding drone warfare and air power capabilities"
+    },
+    {
+      "url": "https://thenorthlines.com/op-sindoor-redefines-indias-military-posture-highlights-need-for-air-cyber-strength-experts/",
+      "publisher": "Northlines",
+      "angle": "Indian defense experts: operation redrew red lines, showed India would respond under nuclear shadow; future conflicts will be multi-domain"
+    },
+    {
+      "url": "https://www.washingtonpost.com/opinions/2026/05/05/year-later-india-pakistan-ceasefire-is-holding-so-far/",
+      "publisher": "Washington Post (Opinion)",
+      "angle": "American perspective: few Americans remember the war; the ceasefire holds but the two sides are peaceful in the way of roommates who once threw furniture at each other"
+    },
+    {
+      "url": "https://www.moneycontrol.com/news/india/from-1-2-billion-to-near-zero-india-pakistan-trade-one-year-after-operation-sindoor-13909960.html",
+      "publisher": "Moneycontrol",
+      "angle": "Economic dimension: India-Pakistan bilateral trade collapsed from $1.2B to near zero; Attari-Wagah border shut, airspace closed, Indus Waters Treaty in abeyance"
+    }
+  ],
+  "brief": {
+    "actors": ["India", "Pakistan", "Modi", "Pahalgam attack", "Lashkar-e-Taiba"],
+    "whatHappened": "Operation Sindoor, launched on May 6-7, 2025, saw India strike nine terror infrastructure targets in Pakistan and Pakistan-Occupied Kashmir in response to the Pahalgam terrorist attack. An 88-hour military confrontation followed before a ceasefire on May 10. One year later, the ceasefire technically holds, but bilateral trade has collapsed from $1.2 billion to near zero, the Attari-Wagah border remains shut, airspace is closed, and the Indus Waters Treaty is in abeyance. Indian and Pakistani military establishments have spent the year rearming, retraining, and redesigning their forces based on lessons from the conflict. Foreign Affairs now assesses the next crisis will be more dangerous and more difficult to control.",
+    "bottomLine": "Both sides climbed new rungs of the nuclear escalation ladder in 2025 and concluded from the experience that they need to be able to climb faster next time. The ceasefire is holding because neither side is ready yet.",
+    "hiddenBets": [
+      {
+        "assumption": "The fact that both sides showed restraint in 2025 means they will show restraint again",
+        "whyItMightBeWrong": "Restraint in 2025 was partly the product of limited capability: strikes were surgical, duration was short, and external pressure from the US was effective. India has since acquired new strike capabilities and redrawn its red lines outward. Pakistan's calculation of what India will and will not do has shifted. The restraint was contextual, not constitutional."
+      },
+      {
+        "assumption": "Washington can de-escalate the next India-Pakistan crisis the way it did in 2025",
+        "whyItMightBeWrong": "The Trump administration's attention and diplomatic capacity is consumed by Iran, Ukraine, and trade. India-Pakistan is not a top-three priority. A faster-moving conflict with compressed timelines may not leave time for the kind of back-channel pressure that worked in May 2025."
+      },
+      {
+        "assumption": "The nuclear deterrent functions normally in a compressed-timeline conflict",
+        "whyItMightBeWrong": "Deterrence assumes each side can communicate clearly, interpret signals accurately, and control its own escalation ladder. An 88-hour war compressed into 24 hours, with new drone swarm capabilities on both sides, may outrun the command-and-control systems that kept 2025 from going nuclear."
+      }
+    ],
+    "realDisagreement": "The genuine fork is between two readings of what Sindoor proved. India's reading: the operation validated precision strikes as a tool that achieves political objectives below the nuclear threshold, and the lesson is to invest in faster, deeper, more precise capability. Pakistan's reading: the operation demonstrated that India will cross thresholds previously considered stable, and the lesson is to develop faster response and greater deterrence at lower rungs of escalation. Both readings point toward a more dangerous next crisis, not a safer one. There is no version of both lessons being applied that produces stability.",
+    "whatNoOneIsSaying": "Pakistan's military spent the year publicly commemorating what it calls Marka-e-Haq, framing the operation as a Pakistani victory. At the same event, a Pakistani political leader reportedly said the army fought for Hafiz Saeed and Masood Azhar. No Pakistani official has formally denounced those statements. The country that controls the terror infrastructure India struck has not credibly moved against it. The structural cause of the next crisis is unchanged.",
+    "whoPays": [
+      {
+        "who": "Traders and businesses on both sides of the Wagah border",
+        "how": "Bilateral trade collapsed from $1.2B to near zero. The border has been shut for a year with no reopening date. Businesses in Amritsar and Lahore that depended on cross-border commerce have no pathway back.",
+        "when": "Ongoing; no timeline for normalization"
+      },
+      {
+        "who": "People in the Indus basin dependent on water treaty protections",
+        "how": "The Indus Waters Treaty is in abeyance. India has not formally abrogated it, but Pakistan cannot enforce its terms. Seasonal water allocation disputes that the treaty previously managed now have no mechanism.",
+        "when": "Next agricultural cycle and beyond"
+      },
+      {
+        "who": "Populations near military targets in a future conflict",
+        "how": "Both sides have expanded their strike lists and capability radius. A future conflict starting from the same trigger point will hit harder targets faster. The 2025 operation hit nine terror infrastructure sites; the next one will have a longer list.",
+        "when": "Whenever the next trigger event occurs"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Cold peace holds",
+        "whatHappens": "The ceasefire continues indefinitely with no normalization. Trade stays near zero, border stays closed, both sides continue rearming. Stability through mutual exhaustion rather than resolution.",
+        "signal": "No cross-LOC incidents above the patrol level through 2026"
+      },
+      {
+        "name": "Trigger, faster escalation",
+        "whatHappens": "A terror attack in India attributed to Pakistan-based groups prompts a faster and broader Indian response than 2025. Pakistan's new retaliatory capabilities compress the timeline to hours, not days. External pressure cannot keep up.",
+        "signal": "A major terrorist attack in India with credible Pakistan links within 12 months"
+      },
+      {
+        "name": "Managed reopening",
+        "whatHappens": "Track 2 diplomacy or third-party pressure (China, UAE, or Saudi Arabia) reopens the Wagah border and restarts the Indus Waters mechanism. Neither side calls it normalization, but economic pressures force functional detente.",
+        "signal": "Pakistani finance ministry opens bilateral trade talks in the context of IMF conditionality"
+      }
+    ],
+    "whatWouldChange": "If Pakistan credibly moved against Lashkar-e-Taiba and dismantled the specific infrastructure India struck, the risk calculus would change. That has not happened in the year since the operation. The absence of action on the structural cause is itself the signal.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will India strike Pakistan by Oct 31?",
+        "url": "https://polymarket.com/event/india-strike-on-pakistan-by",
+        "probability": 0.0
+      }
+    ]
+  }
+}

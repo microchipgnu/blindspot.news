@@ -115,6 +115,58 @@
           "relationship": "Washington threatening to breach the EU deal on the same week as the Liberation Day anniversary signals that the administration is not treating trade agreements as binding commitments; the EU's decision to accept 15% rather than fight may have been a miscalculation."
         }
       ]
+    },
+    {
+      "id": "authority-without-enforcement",
+      "title": "Authority Without Enforcement",
+      "description": "Three stories today expose the same structural weakness: institutions have clear legal authority but no mechanism to compel the party with actual power to comply. NIST's AI testing agreements are voluntary with no deployment-blocking authority. The SCOTUS birthright ruling will strike down the executive order, but the same Court already showed through the tariff fight that presidential compliance is a choice. The tariff refund is court-ordered but the administration controls the pace. This is not three separate cases of weak institutions. It is a single pattern of formal authority hollowed out by enforcement gaps.",
+      "type": "tension-cluster",
+      "stories": ["nist-caisi-ai-testing", "birthright-citizenship-scotus-ruling", "tariff-refunds-who-benefits"],
+      "connections": [
+        {
+          "from": "nist-caisi-ai-testing",
+          "to": "birthright-citizenship-scotus-ruling",
+          "relationship": "CAISI cannot block an AI deployment it finds dangerous; SCOTUS cannot stop Trump from attempting the birthright EO in states where injunctions no longer apply. In both cases, the oversight body has visibility without veto."
+        },
+        {
+          "from": "birthright-citizenship-scotus-ruling",
+          "to": "tariff-refunds-who-benefits",
+          "relationship": "The tariff refund fight already demonstrated that presidential defiance of adverse SCOTUS rulings is survivable: the administration delayed compliance for months before courts applied direct pressure. The birthright ruling will face the same compliance dynamic."
+        },
+        {
+          "from": "tariff-refunds-who-benefits",
+          "to": "nist-caisi-ai-testing",
+          "relationship": "Both refund administration and AI safety testing are structured so that the party subject to oversight controls the pace: importers control CAPE filing completeness, and AI labs control what they share with CAISI and when. In both cases, the oversight body is dependent on the cooperation of the entity being overseen."
+        }
+      ]
+    },
+    {
+      "id": "injunction-to-birthright-pipeline",
+      "title": "SCOTUS Built the Road and Then Announced the Destination",
+      "description": "The Supreme Court's ruling limiting nationwide injunctions came in the birthright citizenship case, but the birthright ruling itself has not yet arrived. That sequencing was not accidental. By first removing the tool that lower courts use to block executive policies nationwide, SCOTUS ensured that whatever it rules on birthright citizenship, the administration can enforce the EO in non-injunction states during the gap between the ruling and any future appeal. The procedural ruling was both the setup and the real prize.",
+      "type": "cause-effect",
+      "stories": ["scotus-universal-injunctions", "birthright-citizenship-scotus-ruling"],
+      "connections": [
+        {
+          "from": "scotus-universal-injunctions",
+          "to": "birthright-citizenship-scotus-ruling",
+          "relationship": "The nationwide injunction ruling cleared the path for partial enforcement of the birthright EO in states that don't sue; the birthright ruling, when it comes, will strike the EO but cannot undo citizenship status already withheld in states that relied on the injunction ruling during the gap."
+        }
+      ]
+    },
+    {
+      "id": "rearming-in-the-gap",
+      "title": "Both Sides Are Using the Peace to Prepare for the Next War",
+      "description": "Operation Sindoor's anniversary and Trump's new counterterrorism strategy both describe the same global dynamic from different directions: ceasefires and strategy documents are periods of rearmament, not resolution. India and Pakistan spent a year identifying how to hit harder in the next conflict. The Trump counterterrorism strategy names the Western Hemisphere as the primary threat theater while jihadist groups continue operating. In both cases, the peace interval is a procurement window.",
+      "type": "tension-cluster",
+      "stories": ["operation-sindoor-anniversary", "trump-counterterrorism-cartels"],
+      "connections": [
+        {
+          "from": "operation-sindoor-anniversary",
+          "to": "trump-counterterrorism-cartels",
+          "relationship": "India and Pakistan are each building faster strike and response capabilities in the post-Sindoor gap, while the US is redirecting counterterrorism resources away from the jihadist groups that operate in Pakistan's territory. US attention to South Asia is declining precisely as the escalation risk is rising."
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,96 @@
+{
+  "id": "nist-caisi-ai-testing",
+  "date": "2026-05-06",
+  "generatedAt": "2026-05-06T22:30:00Z",
+  "title": "The Government Will Test Your AI Before You Get It. The Companies Volunteered.",
+  "subtitle": "NIST signed testing agreements with Google, Microsoft, and xAI. The trigger was Anthropic's Mythos. The structure rewards the compliant and punishes no one.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["AI regulation", "NIST", "CAISI", "Google", "Microsoft", "xAI", "Anthropic", "cybersecurity"],
+  "coverImage": {
+    "url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2196090520.jpg?c=16x9&q=w_800,c_fill",
+    "local": "/images/reports/2026-05-06/nist-caisi-ai-testing.jpg",
+    "credit": "CNN Business"
+  },
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/05/05/ai-oversight-trump-google-microsoft-xai.html",
+      "publisher": "CNBC",
+      "angle": "Framed as a policy shift toward oversight; notes the Mythos incident as the trigger; mentions the White House is considering a formal EO on top of this"
+    },
+    {
+      "url": "https://www.cnn.com/2026/05/05/tech/microsoft-google-xai-government-test-ai-models",
+      "publisher": "CNN Business",
+      "angle": "Focuses on cybersecurity and biosecurity framing; notes CAISI has completed 40+ evaluations already, including unreleased models"
+    },
+    {
+      "url": "https://www.nextgov.com/artificial-intelligence/2026/05/commerce-ai-center-will-evaluate-google-deepmind-microsoft-and-xai-models/413349/",
+      "publisher": "Nextgov/FCW",
+      "angle": "Government-insider perspective; notes testing happens in classified environments; renegotiated from Biden-era voluntary agreements"
+    },
+    {
+      "url": "https://siliconangle.com/2026/05/05/google-microsoft-xai-agree-allow-government-safety-checks-ai-models-prior-release/",
+      "publisher": "SiliconANGLE",
+      "angle": "Notes the administration was previously laissez-faire but the Mythos incident changed the calculus; OpenAI and Anthropic already had agreements since 2024"
+    }
+  ],
+  "brief": {
+    "actors": ["NIST", "CAISI", "Google", "Microsoft", "xAI", "Anthropic", "OpenAI", "Commerce Department"],
+    "whatHappened": "NIST's Center for AI Standards and Innovation announced pre-deployment testing agreements with Google DeepMind, Microsoft, and xAI on May 5, 2026. The evaluations will occur in classified environments and focus on national security risks including cybersecurity, biosecurity, and chemical weapons potential. The agreements expand a framework already in place with OpenAI and Anthropic since 2024, and were renegotiated to align with the Trump administration's AI Action Plan under Commerce Secretary Howard Lutnick. The White House is separately weighing an executive order formalizing AI model reviews, partly prompted by Anthropic's Mythos model raising new concerns about AI capabilities.",
+    "bottomLine": "The five largest frontier AI labs are now voluntarily submitting their unreleased models to government testing. That sounds like regulation but has none of regulation's enforcement teeth: there are no penalties for failing, no binding deployment standards, and no public disclosure of results.",
+    "hiddenBets": [
+      {
+        "assumption": "Voluntary testing agreements function like safety requirements",
+        "whyItMightBeWrong": "CAISI has zero authority to block a model release. If testing reveals a risk, the company decides what to do with that information. The government gets a preview; the company retains control."
+      },
+      {
+        "assumption": "The Mythos incident represents a new category of AI risk that justified this response",
+        "whyItMightBeWrong": "Mythos was dangerous enough to prompt an emergency policy response, but the response does not require any company to do anything different. If the risk is real, voluntary testing is an insufficient answer."
+      },
+      {
+        "assumption": "Having five top labs in the program means AI safety is being covered",
+        "whyItMightBeWrong": "CAISI's agreements cover Google, Microsoft, xAI, OpenAI, and Anthropic. Chinese labs, open-source models, and smaller frontier labs are excluded entirely. The safety perimeter only covers the cooperating incumbents."
+      }
+    ],
+    "realDisagreement": "The genuine tension is between two honest positions: that some government visibility into powerful AI before deployment is better than none, even if voluntary; versus that voluntary frameworks give major labs regulatory cover while doing almost nothing to constrain behavior, and therefore make the actual problem harder to fix by creating the appearance of oversight. The first position treats this as a necessary first step. The second treats it as a barrier to necessary future steps. Both are right about something. The administration is betting on the first, while what the Mythos incident suggests is that the second has become more urgent.",
+    "whatNoOneIsSaying": "The companies that volunteered for this program have the most to gain from it. Being in the CAISI program is now a competitive signal of legitimacy. Any lab that refuses testing will face questions about what it is hiding. The incumbents just made voluntary cooperation a de facto entry cost for the frontier AI club, without Congress passing a single law.",
+    "whoPays": [
+      {
+        "who": "Smaller frontier AI labs and open-source developers",
+        "how": "They are not in the CAISI framework and face no scrutiny, but they also receive none of the implicit government legitimacy the five major labs now carry. Regulations, if they come, will be designed around the existing framework's participants.",
+        "when": "Over the next 12-18 months as the EO and legislative proposals are shaped"
+      },
+      {
+        "who": "People harmed by risks that voluntary testing misses",
+        "how": "CAISI has no authority to require disclosure of test results, mandate safety changes, or delay deployments. Risks that evaluators find but companies choose not to address will not be disclosed publicly.",
+        "when": "Ongoing, with each model cycle"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Voluntary becomes mandatory",
+        "whatHappens": "The White House EO formalizes CAISI testing, adds binding standards for high-risk capabilities, and creates disclosure requirements. The five-lab framework becomes the foundation of actual AI regulation.",
+        "signal": "The EO includes language requiring CAISI sign-off before deployment of models above a capability threshold"
+      },
+      {
+        "name": "Legitimacy capture holds",
+        "whatHappens": "The EO never comes, or comes without teeth. CAISI testing remains voluntary, results stay private, and the five labs use their program membership to deflect congressional calls for mandatory oversight. The framework succeeds in preventing stricter regulation.",
+        "signal": "The White House EO is delayed past Q3 2026, or contains no deployment-blocking authority"
+      },
+      {
+        "name": "An incident breaks the frame",
+        "whatHappens": "A model deployed after passing CAISI evaluation causes a significant harm. Public attention focuses on what CAISI found and whether the company disclosed it. The voluntary framework collapses under political pressure.",
+        "signal": "A post-CAISI-evaluation model causes documented harm linked to a capability CAISI identified"
+      }
+    ],
+    "whatWouldChange": "If CAISI's agreements included mandatory public disclosure of evaluation findings, or authority to delay deployments, the analysis changes. Without those elements, the program is information-sharing, not safety oversight.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Trump orders federal review of AI model releases by May 31?",
+        "url": "https://polymarket.com/event/trump-orders-federal-review-for-ai-model-releases-by-may-31",
+        "probability": 0.185
+      }
+    ]
+  }
+}

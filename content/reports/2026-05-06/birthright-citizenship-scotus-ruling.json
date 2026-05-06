@@ -1,0 +1,101 @@
+{
+  "id": "birthright-citizenship-scotus-ruling",
+  "date": "2026-05-06",
+  "generatedAt": "2026-05-06T22:30:00Z",
+  "title": "SCOTUS Will Strike Down Trump's Birthright Citizenship Order. The Real Question Is What It Lets Happen First.",
+  "subtitle": "Polymarket gives 87% odds the Court kills the executive order. But SCOTUS already ruled states can enforce it partially. A ruling that arrives in June matters less than what happens between now and June.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["SCOTUS", "birthright citizenship", "14th Amendment", "Trump", "immigration", "executive order", "Gorsuch"],
+  "coverImage": {
+    "url": "https://assets.newsweek.com/wp-content/uploads/2026/05/Untitled-design-2026-05-06T103844.766.png?w=1200&crop=1",
+    "local": "/images/reports/2026-05-06/birthright-citizenship-scotus.jpg",
+    "credit": "Newsweek"
+  },
+  "sources": [
+    {
+      "url": "https://www.newsweek.com/gop-split-over-birthright-citizenship-as-supreme-court-weighs-ruling-poll-11919224",
+      "publisher": "Newsweek",
+      "angle": "AP-NORC poll: 44% of Republicans support birthright citizenship; two-thirds of all adults support it; GOP internally divided as ruling approaches"
+    },
+    {
+      "url": "https://www.cbsnews.com/news/trump-attacks-supreme-court-justice-neil-gorsuch-loyalty/",
+      "publisher": "CBS News",
+      "angle": "Gorsuch publicly stated his loyalty is to the Constitution, not to Trump, after Trump attacked him for the tariff ruling; Trump has already signaled he expects birthright EO to be struck down"
+    },
+    {
+      "url": "https://www.inquirer.com/news/birth-tourism-birthright-citizenship-trump-supreme-court-20260505.html",
+      "publisher": "Philadelphia Inquirer",
+      "angle": "Migration Policy Institute analysis: the administration elevated birth tourism as main argument; more than 250,000 babies born annually would be affected by the EO if upheld"
+    },
+    {
+      "url": "https://worldnews.bg/n/in-birthright-citizenship-case-supreme-court-limits-power-of-judges-to-block-trump-policies_462318/",
+      "publisher": "WorldNews (via NYT)",
+      "angle": "SCOTUS already used the birthright case to limit nationwide injunctions; states hostile to the EO can only enforce their own injunctions; friendly states can now allow partial EO enforcement"
+    },
+    {
+      "url": "https://www.deseret.com/politics/2026/05/03/supreme-court-decisions-june-2026-term-justices-trump-administration/",
+      "publisher": "Deseret News",
+      "angle": "Tracks the full docket of pending SCOTUS decisions; notes Trump v. Barbara (birthright citizenship) as the biggest remaining case before the July recess"
+    }
+  ],
+  "brief": {
+    "actors": ["SCOTUS", "Trump", "Gorsuch", "14th Amendment", "Alito", "Barrett"],
+    "whatHappened": "President Trump signed an executive order on January 20, 2025 denying birthright citizenship to children born in the U.S. to undocumented parents or parents on temporary visas. Courts immediately blocked it nationwide. In April 2026, the Supreme Court heard oral arguments and simultaneously issued a ruling in Louisiana v. Callais limiting the ability of lower courts to issue nationwide injunctions, which opened the door for some states to allow the birthright EO to take partial effect. The Court is expected to rule on the EO itself before the July recess. More than 250,000 babies born annually in the U.S. would be affected if the EO survives. An AP-NORC poll found 44% of Republicans and two-thirds of all adults oppose eliminating birthright citizenship.",
+    "bottomLine": "The EO is almost certainly dead on a 6-3 or 5-4 ruling. The damage was done earlier: the injunction ruling that the Court used as a vehicle to strip nationwide injunction power was more consequential than the birthright ruling will be.",
+    "hiddenBets": [
+      {
+        "assumption": "A ruling striking down the birthright EO resolves the question",
+        "whyItMightBeWrong": "Trump has already laid the groundwork to attack Gorsuch and Barrett publicly for their tariff ruling and has signaled he views them as disloyal. A birthright ruling against him will intensify pressure on the Court's institutional legitimacy. The question of whether the executive branch fully complies with adverse rulings is now live in a way it was not before the tariff fight."
+      },
+      {
+        "assumption": "The 14th Amendment's text settles this",
+        "whyItMightBeWrong": "The administration argues that the 14th Amendment's 'subject to the jurisdiction thereof' clause was never intended to cover children of people who entered illegally or on temporary visas. The historical record is contested; most scholars reject the administration's reading, but it is not frivolous. Thomas and Alito have signaled sympathy for it. The ruling could be 5-4 with Thomas and Alito dissenting in terms that encourage future challenges."
+      },
+      {
+        "assumption": "The birthright citizenship fight is primarily about citizenship",
+        "whyItMightBeWrong": "The real structural prize in this litigation was the nationwide injunction question, which SCOTUS already resolved in the administration's favor. The birthright EO itself may have been litigation bait: force the Court to rule on universal injunctions while birthright was the nominal issue. If so, the administration already won the game it was actually playing."
+      }
+    ],
+    "realDisagreement": "The genuine tension is between two versions of constitutional interpretation where stakes are concrete. The textualist case against birthright citizenship is historically weak but structurally available to the current Court. If adopted, it changes citizenship for roughly 250,000 children per year, eliminates an incentive for asylum-seeking families to have children in the U.S., and hands the executive branch power to redefine who is American through administrative action. The other side gives 250,000 children per year full citizenship regardless of their parents' status. The choice is not close on the merits, but the political mechanics that gave us this Court make the outcome less certain than 87% market odds suggest.",
+    "whatNoOneIsSaying": "The injunction ruling SCOTUS already issued in this case has more practical impact on executive power than the birthright ruling will. By limiting nationwide injunctions to plaintiffs who are party to the suit, the Court made it structurally easier for the administration to implement any future policy in the 25+ states that won't sue. The birthright EO is the headline; the injunction ruling is the tool the administration will use for everything else.",
+    "whoPays": [
+      {
+        "who": "Children of undocumented parents born in the U.S. starting January 2025",
+        "how": "If the EO had not been blocked, these children would already have been born without citizenship. They remain in legal limbo until the Court rules definitively, and in states where partial enforcement is now possible, their status is uncertain.",
+        "when": "Immediate for children born after January 20, 2025 if EO is enforced"
+      },
+      {
+        "who": "Children of parents on work visas and student visas",
+        "how": "The EO also denies birthright citizenship to children born to parents on legal temporary visas. This category includes children of H-1B workers, many of whom are from India and China. The policy would affect children of people who entered the country legally.",
+        "when": "Ongoing if EO survives or is revived"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "6-3 against, limited Thomas dissent",
+        "whatHappens": "SCOTUS strikes the EO in June with six justices in the majority, including Gorsuch and Barrett. Thomas and Alito dissent in terms that question the original understanding of the 14th Amendment. The EO is dead; the dissent becomes the roadmap for a future challenge.",
+        "signal": "Oral argument transcripts showing Gorsuch and Barrett skeptical of the administration's textual argument"
+      },
+      {
+        "name": "5-4 with a narrowing opinion",
+        "whatHappens": "SCOTUS strikes the specific EO on procedural or due process grounds without resolving the underlying 14th Amendment question. The administration reads this as an invitation to draft a narrower order. Litigation cycle restarts.",
+        "signal": "Questions at oral argument focused on the EO's drafting rather than the constitutional question itself"
+      },
+      {
+        "name": "Partial enforcement window matters",
+        "whatHappens": "Before the ruling, the administration uses the injunction limitation to enforce the EO in states that don't have standing to seek injunctions. Hundreds of children are born without citizenship documentation between now and June. The ruling is retroactive in theory but practically complex.",
+        "signal": "Reports of hospitals in Republican-led states refusing to issue citizenship documentation for newborns born to undocumented parents"
+      }
+    ],
+    "whatWouldChange": "If the Court rules 5-4 without resolving the underlying constitutional question, the market's 87% confidence is correct about the immediate outcome but misses the longer-term risk. A ruling on the merits with a Thomas-Alito dissent accepting the administration's argument would change the calculus for any future Court composition.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "SCOTUS strikes down Trump's Birthright Citizenship EO?",
+        "url": "https://polymarket.com/event/scotus-strikes-down-trumps-birthright-citizenship-eo",
+        "probability": 0.87
+      }
+    ]
+  }
+}

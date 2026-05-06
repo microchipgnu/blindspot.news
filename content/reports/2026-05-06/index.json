@@ -92,6 +92,42 @@
       "title": "Liberation Day Is One Year Old. Moody's Says It Did 'Significant Damage.' Courts Are About to Force Refunds.",
       "subtitle": "Job growth stalled. Inflation stayed above target. The IEEPA tariffs were ruled illegal. Polymarket gives 81.5% odds the courts force refunds by June. The White House calls it a success.",
       "category": "decision"
+    },
+    {
+      "id": "nist-caisi-ai-testing",
+      "title": "The Government Will Test Your AI Before You Get It. The Companies Volunteered.",
+      "subtitle": "NIST signed testing agreements with Google, Microsoft, and xAI. The trigger was Anthropic's Mythos. The structure rewards the compliant and punishes no one.",
+      "category": "power"
+    },
+    {
+      "id": "operation-sindoor-anniversary",
+      "title": "One Year After Operation Sindoor, Both India and Pakistan Are Preparing for the Next War",
+      "subtitle": "The ceasefire is holding. The lessons both sides drew from the last conflict are not about how to prevent the next one. They are about how to win it.",
+      "category": "conflict"
+    },
+    {
+      "id": "tariff-refunds-who-benefits",
+      "title": "$175 Billion in Tariff Refunds Are Starting to Flow. The Fight Over Who Gets Them Is Just Beginning.",
+      "subtitle": "Large multinationals have customs teams ready. Small importers are still figuring out the portal. The money goes to whoever filed correctly, not to whoever paid the most.",
+      "category": "power"
+    },
+    {
+      "id": "birthright-citizenship-scotus-ruling",
+      "title": "SCOTUS Will Strike Down Trump's Birthright Citizenship Order. The Real Question Is What It Lets Happen First.",
+      "subtitle": "Polymarket gives 87% odds the Court kills the executive order. But SCOTUS already ruled states can enforce it partially. A ruling that arrives in June matters less than what happens between now and June.",
+      "category": "power"
+    },
+    {
+      "id": "medicaid-cuts-hospital-cascade",
+      "title": "900 Health Facilities Are At Risk of Closing. States Are Trying to Fill a Hole They Cannot Fill.",
+      "subtitle": "The One Big Beautiful Bill cut $911 billion from Medicaid over ten years. The rural health fund it created to compensate is $50 billion over five years. The math does not balance.",
+      "category": "ethics"
+    },
+    {
+      "id": "trump-counterterrorism-cartels",
+      "title": "Trump Officially Moved Terrorism's Address from the Middle East to Mexico City.",
+      "subtitle": "The new counterterrorism strategy makes Western Hemisphere cartels the top priority and jihadists second. That is not rhetoric. It is a reallocation of the entire U.S. counterterrorism apparatus.",
+      "category": "power"
     }
   ]
 }

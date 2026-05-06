@@ -1,0 +1,107 @@
+{
+  "id": "tariff-refunds-who-benefits",
+  "date": "2026-05-06",
+  "generatedAt": "2026-05-06T22:30:00Z",
+  "title": "$175 Billion in Tariff Refunds Are Starting to Flow. The Fight Over Who Gets Them Is Just Beginning.",
+  "subtitle": "Large multinationals have customs teams ready. Small importers are still figuring out the portal. The money goes to whoever filed correctly, not to whoever paid the most.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["tariffs", "IEEPA", "trade", "refunds", "CBP", "CAPE portal", "Supreme Court", "importers"],
+  "coverImage": {
+    "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6H2LiDShI0Q/v1/1200x800.jpg",
+    "local": "/images/reports/2026-05-06/tariff-refunds-who-benefits.jpg",
+    "credit": "Bloomberg"
+  },
+  "sources": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-05-06/tariff-refunds-have-started-being-paid-by-trump-administration",
+      "publisher": "Bloomberg",
+      "angle": "Confirms first payments are hitting bank accounts as of May 6; trade lawyers say clients received money with interest; more scheduled for Thursday"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/industry-news/tariff-refunds-cbp-treasury-may-12-ace-cape-1238943925/",
+      "publisher": "WWD/Sourcing Journal",
+      "angle": "CBP says first electronic refunds start May 12; 75,000+ declarations filed within first week; only 3% of eligible entries have entered refund stage"
+    },
+    {
+      "url": "https://afro.com/supreme-court-tariff-refunds-debate/",
+      "publisher": "AFRO American Newspapers",
+      "angle": "Focuses on equity dimension: large multinationals with customs teams are positioned to claim; small businesses and minority-owned importers may miss the window due to complexity"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/05/06/tariff-refunds-earnings-hit-pandora-philips.html",
+      "publisher": "CNBC",
+      "angle": "Pandora and Philips have applied for refunds; process may cover 330,000+ importers and 53 million tariff entries; complexity is significant"
+    },
+    {
+      "url": "https://www.freightwaves.com/news/billions-in-tariff-refunds-begin-flowing-as-cape-portal-launches",
+      "publisher": "FreightWaves",
+      "angle": "CAPE portal working well for large prepared filers; clear divide emerging between those ready to file and those still scrambling; first phase covers only unliquidated entries and entries within 80 days of liquidation"
+    }
+  ],
+  "brief": {
+    "actors": ["CBP", "Supreme Court", "Trump", "Congress", "Pandora", "Philips", "importers"],
+    "whatHappened": "The Trump administration began issuing refunds for $166-175 billion in tariffs the Supreme Court declared unlawful in February 2026. CBP launched its CAPE portal on April 20; more than 75,000 refund declarations were filed within a week. The first ACH payments were expected May 11-12. Some major importers confirmed receiving money with interest as of May 6. The refund process potentially covers 330,000 importers across 53 million tariff entries, but only Phase 1 entries are currently eligible, and CBP has not announced when additional phases will open.",
+    "bottomLine": "The $175 billion refund is real money, but it will flow disproportionately to the largest importers with dedicated customs infrastructure. The tariff burden fell on everyone; the refund recovery will not.",
+    "hiddenBets": [
+      {
+        "assumption": "Filing a CAPE claim is straightforward for any importer who paid tariffs",
+        "whyItMightBeWrong": "Phase 1 covers only unliquidated entries and entries within 80 days of liquidation. Millions of entries from 2025 are already liquidated and excluded from Phase 1. CBP has not announced Phase 2 timing. Small businesses that paid tariffs months ago may find their entries outside the current eligibility window."
+      },
+      {
+        "assumption": "The Trump administration will process and pay all valid claims without resistance",
+        "whyItMightBeWrong": "The administration has publicly framed the Supreme Court's IEEPA ruling as illegitimate and fought it at multiple stages. The administration began paying only under court order and judicial monitoring. Korea's trade association is warning exporters that errors in origin or product classification could lead to additional scrutiny, not just rejection. The refund process is also the most visible evidence that the tariff policy failed legally."
+      },
+      {
+        "assumption": "The refund amount is $166 billion",
+        "whyItMightBeWrong": "Early estimates put IEEPA tariff collections at $166 billion; the AFRO analysis and some advocacy groups cite $175 billion. The Trump administration separately replaced IEEPA tariffs with Section 122 tariffs, which U.S. businesses paid $8 billion of in March alone. Those are not subject to refund. The total ongoing tariff cost has not stopped."
+      }
+    ],
+    "realDisagreement": "The real fork is whether the CAPE refund process is a legitimate resolution of the IEEPA ruling or a mechanism for the administration to slow-walk payments it opposes while publicly claiming compliance. Courts are watching: Judge Eaton received CBP executive reports. The administration has an incentive to make the process technically functional but practically slow. That is not the same thing as good-faith compliance. Distinguishing one from the other requires tracking the gap between claims filed and claims paid over the next 60 days.",
+    "whatNoOneIsSaying": "Congress replaced the struck-down IEEPA tariffs with Section 122 tariffs almost immediately after the SCOTUS ruling. Import costs for U.S. businesses did not actually fall. The refund discussion is about past payments; the ongoing trade cost is nearly unchanged. The CEOs appearing on earnings calls to announce refund applications are simultaneously paying the replacement tariffs.",
+    "whoPays": [
+      {
+        "who": "Small and medium-sized importers without customs teams",
+        "how": "CAPE is a technically complex system requiring coordination between importers, customs brokers, and ACE system knowledge. Large multinationals filed 75,000+ declarations in week one. Small businesses that paid tariffs on 2025 entries are navigating the portal without dedicated infrastructure.",
+        "when": "Filing window is open now; errors or missed deadlines may forfeit recovery"
+      },
+      {
+        "who": "U.S. consumers and importers still paying Section 122 tariffs",
+        "how": "The replacement tariffs Congress enacted maintain the trade cost regime. Refunds cover the past; current costs continue. Companies receiving refund payments from 2025 are simultaneously paying new tariffs on 2026 imports.",
+        "when": "Ongoing through the life of Section 122 authority"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Clean payout",
+        "whatHappens": "CAPE processes claims at scale, payments flow to the 330,000-plus eligible importers on a 60-90 day cycle, and the refund is largely complete by late 2026. Large importers get most of the money because they imported most of the goods.",
+        "signal": "CBP announces Phase 2 eligibility expansion by June 30"
+      },
+      {
+        "name": "Slow-walk under judicial pressure",
+        "whatHappens": "CAPE processes claims but payments stall on technical grounds: classification disputes, origin errors, ACH rejections. Courts issue show-cause orders. The administration points to process complexity as explanation. Billions remain unpaid through year-end.",
+        "signal": "Court filings from trade lawyers citing systematic claim rejections or unexplained delays past the 90-day processing window"
+      },
+      {
+        "name": "Political deal reshapes the refund",
+        "whatHappens": "The administration proposes redirecting part of the refund pool to a new fund or infrastructure program in exchange for legislative cover on Section 122 tariff authority. Some importers accept settlement terms below full refund value.",
+        "signal": "White House floats a 'tariff dividend' bill or executive action offering structured payments in exchange for waiving interest claims"
+      }
+    ],
+    "whatWouldChange": "If CBP opens Phase 2 eligibility quickly and processes claims on the published 60-90 day timeline without widespread rejections, the administration is complying in good faith and the equity concern is real but secondary. If claim rejection rates spike or Phase 2 is delayed past Q3, the slow-walk scenario is operative.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Court Force Trump to Refund Tariffs?",
+        "url": "https://polymarket.com/event/will-the-court-force-trump-to-refund-tariffs-2026-06-30",
+        "probability": 0.905
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Trump create a tariff dividend by June 30?",
+        "url": "https://polymarket.com/event/will-trump-create-a-tariff-dividend-by-june-30",
+        "probability": 0.08
+      }
+    ]
+  }
+}
