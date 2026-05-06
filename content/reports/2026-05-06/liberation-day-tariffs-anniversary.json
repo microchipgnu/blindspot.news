@@ -1,0 +1,107 @@
+{
+  "id": "liberation-day-tariffs-anniversary",
+  "date": "2026-05-06",
+  "generatedAt": "2026-05-06T17:45:00Z",
+  "title": "Liberation Day Is One Year Old. Moody's Says It Did 'Significant Damage.' Courts Are About to Force Refunds.",
+  "subtitle": "Job growth stalled. Inflation stayed above target. The IEEPA tariffs were ruled illegal. Polymarket gives 81.5% odds the courts force refunds by June. The White House calls it a success.",
+  "topic": "economy",
+  "category": "decision",
+  "tags": ["tariffs", "Trump", "trade", "economy", "Moody's", "Liberation Day", "IEEPA", "inflation"],
+  "coverImage": {
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7784x4379+0+700/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Faa%2F82%2F17613daf4500acfcc38dfec16f5b%2Fgettyimages-2207553685.jpg",
+    "local": "/images/reports/2026-05-06/liberation-day-tariffs-anniversary.jpg",
+    "credit": "NPR / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://fortune.com/2026/05/06/liberation-day-trump-tariffs-damage-economy-moody-zandi/",
+      "publisher": "Fortune",
+      "angle": "Moody's chief economist Mark Zandi: job growth at a standstill, inflation above 3% year-over-year, and the Iran war threatens to compound the damage further."
+    },
+    {
+      "url": "https://cafehayek.com/2026/05/gramm-and-boudreaux-liberation-day-one-year-later.html",
+      "publisher": "Cafe Hayek / WSJ",
+      "angle": "Economists Phil Gramm and Donald Boudreaux argue trading partners pivoted away from the US rather than retaliating, creating the largest peacetime trade diversion in modern history; US exporters hurt, but no retaliation war."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/05/06/tariff-refunds-earnings-hit-pandora-philips.html",
+      "publisher": "CNBC",
+      "angle": "Companies including Philips and Pandora have applied for tariff reimbursement after the IEEPA ruling; several firms are citing tariffs as material hits to earnings."
+    },
+    {
+      "url": "https://fortune.com/2026/05/05/iran-war-oil-prices-mark-zandi-donald-trump-tariffs/",
+      "publisher": "Fortune",
+      "angle": "Zandi warns the Iran war energy shock on top of tariff inflation creates a stagflation risk: higher prices, slower growth, a combination that conventional monetary policy cannot easily address."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Moody's", "Federal Reserve", "SCOTUS", "Zandi", "Bessent"],
+    "whatHappened": "April 2, 2026 marked one year since President Trump's 'Liberation Day' tariff announcement, which raised the average effective US tariff rate to 22.5%. The tariffs triggered an immediate market crash, partial rollbacks, SCOTUS ruling them illegal under IEEPA, and then reinstatement via Section 122 of the Trade Act at a current 10% base rate. Over the year, the US collected $287 billion in customs duties. Moody's chief economist Mark Zandi concluded that job growth is at a standstill, inflation has risen to 3% year-over-year against the Fed's 2% target, and the simultaneous Iran war energy shock risks pushing the economy into stagflation. Polymarket currently prices an 81.5% probability that courts will force tariff refunds by June 30. Companies including Philips and Pandora are already filing for reimbursement.",
+    "bottomLine": "The tariffs raised revenue and generated headlines but accomplished neither of the two stated goals: manufacturing did not return, and trading partners did not capitulate. They diverted trade away from the US, drove inflation above target, and stalled hiring. The courts are about to make the government give back a significant portion of what it collected.",
+    "hiddenBets": [
+      {
+        "assumption": "The $287 billion in customs revenue represents a net gain for the US government and economy.",
+        "whyItMightBeWrong": "The revenue was extracted from US importers and passed to consumers through higher prices. It was not a transfer from foreign governments. Treasury Secretary Bessent's claim that tariffs do not cause inflation but only 'temporary price moves in narrow markets' is contradicted by the Moody's PCE data showing inflation above 3%. The revenue number looks large; the cost-benefit number is negative."
+      },
+      {
+        "assumption": "The SCOTUS IEEPA ruling and the subsequent refund pressure will constrain future tariff policy.",
+        "whyItMightBeWrong": "Trump immediately reinvoked Section 122 after the IEEPA ruling, maintaining tariffs under a different legal authority. The courts blocked the mechanism, not the policy. As long as Congress has not rescinded the underlying statutory authorities, tariff policy continues."
+      },
+      {
+        "assumption": "The stagflation risk is contained because the Iran war is a temporary shock.",
+        "whyItMightBeWrong": "Stagflation becomes self-reinforcing once inflation expectations are unanchored and hiring decisions are frozen. Zandi's warning is not about the Iran shock in isolation. It is about a compounding effect between tariff-driven price increases and energy-driven price increases hitting an economy where employers are already in wait-and-see mode. The two shocks have different sources and different timelines; they do not cancel each other out."
+      }
+    ],
+    "realDisagreement": "The actual fork: did the tariffs accomplish anything strategically worth their economic cost? The Gramm-Boudreaux analysis in the WSJ argues yes, in a narrow sense: trading partners pivoted rather than retaliating, creating trade diversion that benefits non-US partners while not triggering the retaliatory spiral economists predicted. That is a real outcome. The Zandi analysis says it does not matter, because the domestic damage, stalled jobs, elevated inflation, and the Iran war compounding effect, exceeds whatever strategic leverage was purchased. Both are using the same data. The disagreement is about what 'working' means. If you define success as avoiding a trade war escalation, the tariffs partially worked. If you define success as delivering cheaper goods and more manufacturing jobs, they failed. The White House is using the first definition. Moody's is using the second.",
+    "whatNoOneIsSaying": "The companies now filing for tariff refunds, Philips, Pandora, and others, are the same companies that publicly supported the administration's trade posture or at least did not oppose it loudly. Filing for reimbursement while lobbying against reform produces the worst of both worlds: the tariffs stay on the books, the revenue goes back out through the courts, and no policy change occurs.",
+    "whoPays": [
+      {
+        "who": "US consumers who paid higher prices for imported goods in 2025",
+        "how": "They paid the tariff costs through price increases. When courts force refunds to importers, those refunds go to companies, not to the people who paid higher prices at the register.",
+        "when": "The harm is already incurred; the refunds will not reach consumers"
+      },
+      {
+        "who": "Workers in export sectors",
+        "how": "Trading partner retaliation and diversion cut US exports, particularly in agriculture and manufactured goods. Gramm and Boudreaux note that US trading partners pivoted to mutual trade that excludes the US, reducing long-term market access for US exporters.",
+        "when": "Ongoing, with structural effects accumulating over years"
+      },
+      {
+        "who": "Low-income households",
+        "how": "Tariff inflation hits lower-income households harder because a larger share of their spending goes to affected goods categories. The Washington Times notes the tariffs 'most burden those on the bottom economic rung.'",
+        "when": "Ongoing through the tariff period"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Courts force refunds, tariffs continue",
+        "whatHappens": "The court order forces the government to refund IEEPA-era duties while Section 122 tariffs remain. Companies recover past payments. Inflation pressure eases slightly. No structural policy change. The 81.5% Polymarket probability resolves yes.",
+        "signal": "A court order for refunds issued before June 30 and no executive action to block or appeal before the deadline."
+      },
+      {
+        "name": "Stagflation confirmed",
+        "whatHappens": "Q2 GDP comes in negative or near-zero while CPI stays above 3%. The Fed holds rates, unable to cut into inflation. The S-word becomes official in economic reporting. Midterm headwinds for Republicans increase sharply.",
+        "signal": "Q2 GDP preliminary estimate below 0.5% combined with a May CPI print above 3%."
+      },
+      {
+        "name": "Trade deals reduce pressure",
+        "whatHappens": "The EU trade deal that set tariffs at 15% holds, the UK follows with a similar framework, and the Iran war effect on energy prices moderates by Q3. The economy avoids formal stagflation. The tariff damage is real but contained.",
+        "signal": "Oil prices fall below $80/barrel by July and the EU-US deal is reaffirmed rather than renegotiated."
+      }
+    ],
+    "whatWouldChange": "If manufacturing investment and employment showed a statistically significant increase attributable to the tariffs, the argument that they were a strategic success despite the inflation cost would be credible. One year of data shows no such effect. Treasury Secretary Bessent's claim that the costs are temporary requires manufacturing gains that have not materialized.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Court Force Trump to Refund Tariffs?",
+        "url": "https://polymarket.com/event/will-the-court-force-trump-to-refund-tariffs-2026-06-30",
+        "probability": 0.815
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US recession by end of 2026?",
+        "url": "https://polymarket.com/event/us-recession-by-end-of-2026",
+        "probability": 0.225
+      }
+    ]
+  }
+}

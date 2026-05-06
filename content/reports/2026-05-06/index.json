@@ -62,5 +62,36 @@
       "subtitle": "The market decided the indictment was contained and the guidance was real. One of those bets is probably right.",
       "category": "ethics"
     }
+    ,
+    {
+      "id": "eu-ai-act-germany-industry",
+      "title": "Germany Is Gutting the EU AI Act. Siemens and Bosch Are Watching.",
+      "subtitle": "Berlin secured an industrial machinery exemption that rewrites the law's core premise: that AI rules should apply to all sectors equally.",
+      "category": "power"
+    },
+    {
+      "id": "mifepristone-scotus-telehealth",
+      "title": "The 5th Circuit Ended Telehealth Abortion. SCOTUS Has One Week to Decide if It Agrees.",
+      "subtitle": "Louisiana got a unanimous appeals court to revive an in-person requirement the FDA dropped years ago. The Supreme Court's one-week stay runs out May 11.",
+      "category": "ethics"
+    },
+    {
+      "id": "ukraine-russia-victory-day-ceasefire",
+      "title": "Both Sides Declared Ceasefires. Russia Launched 100 Drones Anyway.",
+      "subtitle": "The Victory Day truces were not failed negotiations. They were proof of concept for a tactic: announce peace to prevent counterstrikes, then keep attacking.",
+      "category": "conflict"
+    },
+    {
+      "id": "louisiana-voting-rights-act-gutted",
+      "title": "SCOTUS Gutted the Voting Rights Act. Then It Rushed the Ruling Into Effect.",
+      "subtitle": "The Court didn't just strike down Louisiana's map. It expedited the ruling so Louisiana can draw a new one in time for 2026 midterms, while Jackson and Alito traded public insults about what that means.",
+      "category": "power"
+    },
+    {
+      "id": "liberation-day-tariffs-anniversary",
+      "title": "Liberation Day Is One Year Old. Moody's Says It Did 'Significant Damage.' Courts Are About to Force Refunds.",
+      "subtitle": "Job growth stalled. Inflation stayed above target. The IEEPA tariffs were ruled illegal. Polymarket gives 81.5% odds the courts force refunds by June. The White House calls it a success.",
+      "category": "decision"
+    }
   ]
 }

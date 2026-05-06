@@ -53,5 +53,68 @@
         }
       ]
     }
+    ,
+    {
+      "id": "scotus-reshapes-the-game-board",
+      "title": "SCOTUS Is Redrawing the Board",
+      "description": "Three stories today are about the Supreme Court using procedural and jurisdictional decisions to shift what kind of power can be exercised, by whom, and with what constraints. Ending nationwide injunctions, gutting the Voting Rights Act and rushing it into effect, and now holding a one-week window on mifepristone access: these are not three separate cases. They are three moves in the same project of concentrating judicial discretion at the top while removing it from the district courts and the administrative state.",
+      "type": "tension-cluster",
+      "stories": ["scotus-universal-injunctions", "louisiana-voting-rights-act-gutted", "mifepristone-scotus-telehealth"],
+      "connections": [
+        {
+          "from": "scotus-universal-injunctions",
+          "to": "louisiana-voting-rights-act-gutted",
+          "relationship": "Ending nationwide injunctions means no single district court can block Louisiana's rushed redistricting; the only avenue for emergency relief is SCOTUS itself, which just expedited the ruling that created the crisis."
+        },
+        {
+          "from": "louisiana-voting-rights-act-gutted",
+          "to": "mifepristone-scotus-telehealth",
+          "relationship": "In both cases, SCOTUS is acting as the emergency checkpoint: it expedited the redistricting ruling and is now the only institution that can stop or allow the 5th Circuit mifepristone ruling. The Court has placed itself at the center of both electoral and healthcare access decisions simultaneously."
+        },
+        {
+          "from": "mifepristone-scotus-telehealth",
+          "to": "scotus-universal-injunctions",
+          "relationship": "The mifepristone one-week stay is exactly the kind of emergency action that, under the new nationwide injunction rules, only SCOTUS can grant with national effect. The Court that removed the district courts' emergency powers is now the only emergency power left."
+        }
+      ]
+    },
+    {
+      "id": "ceasefire-theater",
+      "title": "Peace as a Weapon",
+      "description": "Two stories today involve rival parties using ceasefire and deal announcements as tactical instruments rather than genuine commitments. Russia declared a Victory Day truce while launching 100 drones. Iran accepted a pause in nuclear talks while the US simultaneously threatened Hormuz. In both cases, the peace announcement is designed to shift diplomatic blame and manage domestic audiences, not to stop the underlying conflict. The announcement is the strategy.",
+      "type": "tension-cluster",
+      "stories": ["ukraine-russia-victory-day-ceasefire", "hormuz-iran-deal"],
+      "connections": [
+        {
+          "from": "ukraine-russia-victory-day-ceasefire",
+          "to": "hormuz-iran-deal",
+          "relationship": "Russia's ceasefire declaration gives the Trump administration a 'both sides tried' narrative for its stalled Ukraine mediation, just as the Hormuz pause gives the administration a 'Iran came to the table' narrative without Iran conceding anything material. Both ceasefires are media products, not military commitments."
+        },
+        {
+          "from": "hormuz-iran-deal",
+          "to": "ukraine-russia-victory-day-ceasefire",
+          "relationship": "Pakistan's role as intermediary in the Iran talks parallels Ukraine's impossible position: both are smaller states trying to extract concrete concessions from a larger power that has agreed to talk but not to stop fighting."
+        }
+      ]
+    },
+    {
+      "id": "tariff-wall-crumbling",
+      "title": "The Tariff Wall Is Crumbling",
+      "description": "The Liberation Day tariff anniversary and the EU-US trade deal threat are not separate economic stories. They are the same story: the US spent a year collecting revenue from a policy that courts ruled illegal, trading partners routed around, and companies are now demanding refunds from. The 15% EU deal that Washington is threatening to breach was itself a compromise from the 22.5% Liberation Day level. The entire tariff project is now in simultaneous legal, diplomatic, and economic stress, and none of those pressures are moving in the same direction.",
+      "type": "dependency-web",
+      "stories": ["liberation-day-tariffs-anniversary", "eu-us-trade-deal-july"],
+      "connections": [
+        {
+          "from": "liberation-day-tariffs-anniversary",
+          "to": "eu-us-trade-deal-july",
+          "relationship": "The Liberation Day tariffs created the leverage that forced the EU to accept the July 2025 15% deal. Now that courts are forcing refunds on the IEEPA tariffs and the Section 122 replacement is legally weaker, the leverage that produced the EU deal is eroding, giving Brussels grounds to question why it is honoring a deal extracted under duress."
+        },
+        {
+          "from": "eu-us-trade-deal-july",
+          "to": "liberation-day-tariffs-anniversary",
+          "relationship": "Washington threatening to breach the EU deal on the same week as the Liberation Day anniversary signals that the administration is not treating trade agreements as binding commitments; the EU's decision to accept 15% rather than fight may have been a miscalculation."
+        }
+      ]
+    }
   ]
 }

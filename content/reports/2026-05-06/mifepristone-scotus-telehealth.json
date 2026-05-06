@@ -1,0 +1,94 @@
+{
+  "id": "mifepristone-scotus-telehealth",
+  "date": "2026-05-06",
+  "generatedAt": "2026-05-06T17:45:00Z",
+  "title": "The 5th Circuit Ended Telehealth Abortion. SCOTUS Has One Week to Decide if It Agrees.",
+  "subtitle": "Louisiana got a unanimous appeals court to revive an in-person requirement the FDA dropped years ago. The Supreme Court's one-week stay runs out May 11.",
+  "topic": "society",
+  "category": "ethics",
+  "tags": ["abortion", "mifepristone", "SCOTUS", "FDA", "telehealth", "5th Circuit"],
+  "coverImage": {
+    "url": "https://static.scientificamerican.com/dam/asset/23a80249-7944-4495-97c6-3201278fb5a2/mifepristone-pills.jpg?m=1777917949.814&w=1200",
+    "local": "/images/reports/2026-05-06/mifepristone-scotus-telehealth.jpg",
+    "credit": "Scientific American"
+  },
+  "sources": [
+    {
+      "url": "https://www.npr.org/2026/05/04/nx-s1-5810510/supreme-court-mifepristone-appeals-telehealth",
+      "publisher": "NPR",
+      "angle": "Reports Alito's stay and explains that the case centers on Louisiana's challenge to the FDA's 2023 REMS rule allowing telehealth prescribing."
+    },
+    {
+      "url": "https://apnews.com/article/abortion-pills-mifepristone-supreme-court-louisiana-0533e83d67148fdfec53b1d0d30c1e8a",
+      "publisher": "AP News",
+      "angle": "Notes that medication abortion now accounts for the majority of US abortions, and that telehealth prescriptions have blunted the effect of state bans."
+    },
+    {
+      "url": "https://www.jurist.org/news/2026/05/supreme-court-temporarily-halts-federal-appeals-court-ban-on-mifepristone-mail-prescriptions/",
+      "publisher": "Jurist",
+      "angle": "Legal analysis clarifying that Alito's administrative stay signals nothing about merits; the Court simply wanted time to consider the emergency applications."
+    },
+    {
+      "url": "https://apnews.com/article/abortion-pill-politics-mifepristone-trump-republicans-democrats-8d15ca0de988e1d185515c621c67411e",
+      "publisher": "AP News",
+      "angle": "Political framing: the ruling is thrusting abortion back into the spotlight ahead of midterms, making both parties recalibrate their messaging."
+    }
+  ],
+  "brief": {
+    "actors": ["SCOTUS", "5th Circuit", "Louisiana", "FDA", "Alito", "Danco Laboratories", "GenBioPro"],
+    "whatHappened": "On May 1, a unanimous three-judge 5th Circuit panel ruled that the FDA likely acted unlawfully when it dropped the in-person prescribing requirement for mifepristone in 2023, immediately reinstating the restriction nationwide. The ruling effectively banned telehealth prescriptions and mail delivery of the abortion pill across the country, affecting the method used in the majority of U.S. abortions. On May 4, Justice Samuel Alito issued an administrative stay restoring telehealth access until May 11, while both sides file emergency briefs. Louisiana filed the underlying lawsuit, arguing the FDA relied on flawed data when it expanded access during COVID.",
+    "bottomLine": "The 5th Circuit did not just restrict mifepristone. It gave the Supreme Court a choice between overruling a unanimous appeals court on an administrative procedure question or ending the most widely used abortion method in the country. That choice lands on May 11.",
+    "hiddenBets": [
+      {
+        "assumption": "This is a straightforward administrative law dispute about whether the FDA followed proper procedure.",
+        "whyItMightBeWrong": "Louisiana did not sue because it had procedural concerns about the FDA's rulemaking. It sued to end telehealth abortion access. The APA argument is the legal vehicle; the policy outcome is the objective. The courts are being asked to adjudicate a medical access question through an administrative law frame."
+      },
+      {
+        "assumption": "SCOTUS will ultimately protect access because five justices previously declined to rule against mifepristone on standing grounds.",
+        "whyItMightBeWrong": "The 2023 standing ruling rejected the previous challengers but left the door open for plaintiffs with better standing, which Louisiana now has. The Court that declined to take the last case is not committed to the same outcome in this one. And this court has a conservative majority that just gutted nationwide injunctions."
+      },
+      {
+        "assumption": "Even if federal access is restricted, blue states will protect their residents through shield laws.",
+        "whyItMightBeWrong": "Shield laws protect telehealth providers from prosecution in their home states. They do not protect women in ban states who order pills by mail from facing legal consequences under their own state laws. The interstate legal protection gap is real and growing."
+      }
+    ],
+    "realDisagreement": "The actual fork is between two views of what the FDA is for. One view: the FDA's job is to assess safety and efficacy, and its 2023 rule reflected a legitimate scientific judgment that in-person visits were unnecessary for mifepristone. On this view, the 5th Circuit overreached by substituting its own medical judgment. The other view: when the FDA relaxes restrictions on a politically contested drug using pandemic-era rationale, courts have a role in scrutinizing whether the procedural requirements were met. Both have merit. The first is almost certainly right on the science. The second has legal legs. The Supreme Court cannot rule on the science. It has to rule on the procedure. And the procedure question is genuinely closer than the access question.",
+    "whatNoOneIsSaying": "More than half of US abortions are now medication abortions. A ruling that restricts mifepristone access does not return the country to pre-Dobbs conditions. It creates a new landscape where abortion is legal in some states but the primary method is federally restricted everywhere. That is a configuration no one planned for and no one has explained to the public.",
+    "whoPays": [
+      {
+        "who": "Women in states with abortion bans who use telehealth shield-state providers",
+        "how": "If the 5th Circuit ruling is upheld, they lose the ability to access medication abortion by mail, and shield-state protections do not cover the full legal risk they face under their home state laws.",
+        "when": "May 11 if SCOTUS does not extend the stay; otherwise whenever the case is resolved"
+      },
+      {
+        "who": "Danco Laboratories and GenBioPro",
+        "how": "Revenue from the most widely distributed version of their product depends on telehealth prescribing remaining legal. A permanent restriction would materially damage their business models.",
+        "when": "Immediate upon any unfavorable ruling"
+      },
+      {
+        "who": "Rural and low-income women in states with limited clinic access",
+        "how": "They are the primary users of mail-order mifepristone; they are also least able to travel to a clinic. The in-person requirement is not a neutral procedural rule for this population.",
+        "when": "Immediately if the restriction takes effect"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "SCOTUS extends the stay",
+        "whatHappens": "The Court agrees to hear the case on a full schedule, extending the stay until it rules. Telehealth access continues for months while merits briefing proceeds. The case becomes the next major abortion ruling.",
+        "signal": "The Court issues an order on or before May 11 extending the administrative stay with briefing deadlines."
+      },
+      {
+        "name": "5th Circuit ruling takes effect",
+        "whatHappens": "SCOTUS declines to extend the stay after May 11. The in-person requirement is immediately reinstated nationwide. Telehealth providers in blue states face a federal restriction on prescribing; many stop. Patients scramble for clinic appointments.",
+        "signal": "No extended stay order by 5 p.m. EDT on May 11."
+      },
+      {
+        "name": "SCOTUS reverses on merits",
+        "whatHappens": "The full Court takes the case and overturns the 5th Circuit, ruling the FDA's 2023 REMS rule was within its authority. Telehealth access is settled law. Louisiana's approach is foreclosed.",
+        "signal": "The Court agrees to take the case on an expedited merits schedule before the end of the current term."
+      }
+    ],
+    "whatWouldChange": "If evidence emerged that the FDA's 2023 REMS rule update genuinely failed to consider relevant safety data, rather than simply reaching a different conclusion from Louisiana's preferred standard, the bottom line would shift toward the 5th Circuit's position. The existing record does not support that, but that is what the litigation will test.",
+    "markets": []
+  }
+}
