@@ -1,0 +1,98 @@
+{
+  "id": "eu-us-trade-deal-july",
+  "date": "2026-05-06",
+  "generatedAt": "2026-05-06T12:00:00Z",
+  "title": "The EU Made a Deal with Trump. Trump Is Now Threatening to Break It Over Greenland.",
+  "subtitle": "Brussels struck a July 2025 agreement setting tariffs at 15%. Trump threatened 25% on cars last week. The EU is asking Washington to honor the deal it signed nine months ago. Washington is not answering.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["EU", "Trump", "tariffs", "trade deal", "Sefcovic", "Greer", "cars", "Greenland"],
+  "coverImage": {
+    "url": "https://www.reuters.com/resizer/v2/6GGMLP472NMDLLBNTNOGJQE4E4.jpg?auth=85e0e6f0af372db96dfd549390b42eb3e3fd99b56875c58f177acf503ea85f48&height=1005&width=1920&quality=80&smart=true",
+    "local": "/images/reports/2026-05-06/eu-us-trade-deal-july.jpg",
+    "credit": "Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/europe/us-move-forward-with-plans-hike-eu-car-tariffs-2026-05-04/",
+      "publisher": "Reuters",
+      "angle": "US Trade Representative Greer told European and German officials that Washington will move forward with 25% car tariffs, explicitly stating this was communicated over the weekend before Monday's announcement."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-05-05/eu-tells-us-trade-deal-should-be-adopted-by-july-deadline",
+      "publisher": "Bloomberg",
+      "angle": "Reports EU Trade Commissioner Sefcovic's message to Greer in Paris: the main parts of the July deal should be formally adopted before the July deadline, framing it as Washington needing to honor existing commitments."
+    },
+    {
+      "url": "https://efe.com/english/economy/2026-05-05/brussels-asks-washington-to-fulfill-its-agreement-and-apply-a-15-tariff-to-eu/",
+      "publisher": "EFE",
+      "angle": "Sefcovic quoted directly: 'A deal is a deal, and we have a deal.' The emphasis from Brussels is on reliability and rule-following as the foundation of the relationship."
+    },
+    {
+      "url": "https://www.euronews.com/my-europe/2026/05/05/eu-trade-chief-urges-us-to-swiftly-restore-15-tariff-arrangement",
+      "publisher": "Euronews",
+      "angle": "Context on the European Parliament ratification process: MEPs are set to vote on the deal implementation, with sunrise/sunset clauses that complicate formal adoption if Washington's position remains ambiguous."
+    },
+    {
+      "url": "https://www.rfi.fr/en/international/20260505-eu-us-trade-officials-meet-in-paris-to-discuss-trump-tariff-threat",
+      "publisher": "RFI",
+      "angle": "Frames the Paris meeting as damage control following Trump's announcement, noting the deal was signed 'last July' and that Trump's Greenland demands have reopened the tariff question."
+    }
+  ],
+  "brief": {
+    "actors": ["EU", "Trump", "Sefcovic", "Greer", "European Parliament", "Germany", "von der Leyen"],
+    "whatHappened": "In July 2025, the EU and US struck a trade agreement setting most European goods tariffs at 15%. Last week, Trump threatened to raise tariffs on EU cars and trucks to 25%, citing European resistance to US demands including on Greenland. US Trade Representative Jamieson Greer told European officials over the weekend that Washington plans to move forward with the higher rate. EU Trade Commissioner Maros Sefcovic met Greer in Paris on Tuesday, delivering a message that the July deal should be formally implemented by July 2026 and that Brussels expects Washington to honor its commitments. The European Parliament's trade committee is considering ratification, but members have added sunrise and sunset clauses that complicate the vote.",
+    "bottomLine": "Trump is using the July deal not as a floor for the relationship but as a ceiling he can push through any time he wants leverage on something else. The EU signed what it thought was a binding agreement; Washington is treating it as an opening bid.",
+    "hiddenBets": [
+      {
+        "assumption": "The July 2025 deal is a stable baseline that both sides are trying to preserve",
+        "whyItMightBeWrong": "Trump is threatening the deal not because of any trade grievance but because of Greenland, a territorial claim unrelated to the trade relationship. The deal was always contingent on the broader relationship, which means it was never as stable as the EU believed."
+      },
+      {
+        "assumption": "EU retaliation would be the natural response to 25% car tariffs",
+        "whyItMightBeWrong": "The EU has repeatedly threatened retaliation and repeatedly held back. Germany's auto industry employs hundreds of thousands of workers and is deeply dependent on US market access. Berlin will resist Brussels taking a hard line even if France and smaller EU members push for it. EU retaliation requires unanimity it may not have."
+      },
+      {
+        "assumption": "The European Parliament ratification process can be completed by July",
+        "whyItMightBeWrong": "MEPs have added sunrise and sunset clauses that would automatically invalidate the deal if the US applies tariffs above the agreed rate. If those clauses stay in, and the US raises car tariffs, ratification collapses automatically. The clauses are a political statement, not a negotiating tool, and they may have made the July deadline impossible."
+      }
+    ],
+    "realDisagreement": "The core tension is between a rules-based trade relationship, where agreements are binding regardless of unrelated political disagreements, and a transactional relationship, where every deal is perpetually open to renegotiation as leverage shifts. The EU is arguing the first model; Trump is practicing the second. The EU cannot accept the second model as a precedent without undermining its entire approach to international agreements. Trump gains nothing by accepting the first model except a deal he already has. He gains everything from keeping the threat alive: it gives him leverage on Greenland, on NATO burden-sharing, and on whatever comes next. The EU's best move would be to call the bluff and implement its side of the deal unilaterally, daring Washington to formally withdraw. But that requires the political coherence Brussels often lacks.",
+    "whatNoOneIsSaying": "Germany has more to lose from 25% car tariffs than almost any other stakeholder in this negotiation. BMW and Mercedes-Benz together employ roughly 400,000 people in Germany. If Berlin is not quietly making direct calls to the White House that circumvent Sefcovic's Paris meeting, German industry is not doing its job. The Paris meeting may be theater while the real negotiation happens bilaterally between Washington and Berlin.",
+    "whoPays": [
+      {
+        "who": "European automakers, particularly German",
+        "how": "A 25% tariff on cars entering the US market directly reduces price competitiveness; BMW, Volkswagen, and Mercedes-Benz have US assembly plants but not enough capacity to shift all production; higher prices translate to lost market share in SUVs and luxury segments",
+        "when": "Within 30-60 days if tariffs are implemented"
+      },
+      {
+        "who": "US consumers buying European luxury vehicles",
+        "how": "Tariff costs typically passed through to consumers; a $60,000 German car becomes $70,000-$75,000; lower and middle segments are less affected but premium imports see significant price jumps",
+        "when": "Immediately on implementation"
+      },
+      {
+        "who": "EU member states that support a softer line",
+        "how": "Countries like Ireland, the Netherlands, and Denmark that rely heavily on transatlantic trade in services and goods are disadvantaged when the EU takes a hard line; they bear the collateral damage of French-German political positioning without the same auto industry stakes",
+        "when": "Ongoing"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Partial climb-down",
+        "whatHappens": "Washington applies 25% car tariffs as threatened but signals flexibility on timeline and exemptions for specific models assembled in the US. The EU does not formally retaliate but triggers the sunset clause in Parliament, forcing a renegotiation. Both sides claim partial victory.",
+        "signal": "Greer announces tariff implementation with a 60-90 day phase-in period and an exemption list for US-assembled European models."
+      },
+      {
+        "name": "Deal survives intact",
+        "whatHappens": "Germany's direct pressure on Washington, combined with the EU's threat to accelerate retaliatory tariff prep, convinces the Trump administration to defer the car tariff hike. The July deal ratification proceeds, with Parliament dropping the sunrise/sunset clauses. Both sides declare the relationship stabilized.",
+        "signal": "European Parliament trade committee votes to ratify without sunset clauses within the next two weeks."
+      },
+      {
+        "name": "Full breakdown",
+        "whatHappens": "Tariffs go to 25% on cars, Parliament's sunset clause triggers, the July deal collapses formally, and the EU launches a phased retaliation targeting US agriculture and digital services. A prolonged tit-for-tat begins.",
+        "signal": "EU publishes a formal list of US goods subject to retaliatory tariffs within 30 days of the car tariff implementation."
+      }
+    ],
+    "whatWouldChange": "If Trump formally withdraws the Greenland demand as a condition of trade talks, the auto tariff threat loses its rationale and the deal becomes more stable. If Germany breaks from the EU's collective position and cuts a bilateral accommodation, it would both save its auto industry and fracture EU trade solidarity in ways that benefit Washington permanently."
+  }
+}

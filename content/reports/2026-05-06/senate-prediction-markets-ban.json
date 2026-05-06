@@ -1,0 +1,106 @@
+{
+  "id": "senate-prediction-markets-ban",
+  "date": "2026-05-06",
+  "generatedAt": "2026-05-06T12:00:00Z",
+  "title": "The Senate Banned Prediction Markets in Hours. It Has Never Managed to Ban Stock Trading.",
+  "subtitle": "Senators passed a unanimous rule banning themselves from Polymarket and Kalshi in a single day. The same body has failed for years to pass stock trading restrictions. The asymmetry is not an accident.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["prediction markets", "Congress", "insider trading", "Polymarket", "Kalshi", "STOCK Act", "Senate"],
+  "coverImage": {
+    "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251107-kalshi-billboard-ew-454p-535412.jpg",
+    "local": "/images/reports/2026-05-06/senate-prediction-markets-ban.jpg",
+    "credit": "NBC News"
+  },
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/04/30/senate-prediction-markets-trading-ban-kalshi-polymarket.html",
+      "publisher": "CNBC",
+      "angle": "Straightforward coverage of the unanimous Senate resolution banning members and staff from prediction market trading, noting the trigger of the Gannon Van Dyke indictment and earlier fines on congressional candidates."
+    },
+    {
+      "url": "https://abcnews.com/US/special-forces-soldier-won-400000-betting-maduros-capture/story?id=132442898",
+      "publisher": "ABC News",
+      "angle": "Details the Van Dyke case: a Special Forces soldier who allegedly used classified knowledge of the Maduro capture operation to bet $400,000 on Polymarket, then pleaded not guilty."
+    },
+    {
+      "url": "https://www.newsweek.com/congress-prediction-market-crackdown-pressure-stock-trading-ban-11913209",
+      "publisher": "Newsweek",
+      "angle": "Highlights the contradiction: Congress moved on prediction markets in days; the broader stock trading ban that would cover members' own portfolios has been stalled for years despite bipartisan public support."
+    },
+    {
+      "url": "https://www.csmonitor.com/Business/2026/0505/prediction-markets-congress-regulation-kalshi",
+      "publisher": "Christian Science Monitor",
+      "angle": "Broader regulatory picture: CFTC public comment period ending, Democratic lawmakers urging the CFTC to restrict event contracts on elections and military actions, and Kalshi's own suspensions of candidates."
+    },
+    {
+      "url": "https://time.com/article/2026/05/04/chuck-schumer-senate-white-house-trump-administration-prediction-markets-bet/",
+      "publisher": "Time",
+      "angle": "Schumer calls on Trump, the House, and the executive branch to follow the Senate's lead, framing the issue as one of public trust while carefully not mentioning stock trading restrictions."
+    }
+  ],
+  "brief": {
+    "actors": ["Senate", "Polymarket", "Kalshi", "CFTC", "Schumer", "Trump", "Gannon Van Dyke"],
+    "whatHappened": "On April 30, the US Senate unanimously passed a resolution banning its members and staff from trading on prediction markets, effective immediately. The move came after Master Sgt. Gannon Van Dyke was indicted for allegedly using classified information about the US military capture of Venezuelan President Nicolas Maduro to bet $400,000 on Polymarket. Three congressional candidates had been fined and suspended by Kalshi weeks earlier for trading on their own electoral outcomes. Senate Minority Leader Schumer subsequently called on the House and Trump administration to follow suit. The House has not acted. A stock trading ban for Congress, which has broader bipartisan public support and covers far larger financial stakes, remains stalled.",
+    "bottomLine": "Congress banned prediction markets the moment they became a threat to Congress. The stock market, which is a bigger conflict of interest and harder to hide behind national security framing, remains untouched.",
+    "hiddenBets": [
+      {
+        "assumption": "The prediction markets ban is about protecting market integrity",
+        "whyItMightBeWrong": "The ban targets a market where congressional information advantages are visible and auditable in near real-time. Stock trades are disclosed on a 45-day lag and often not at all. The prediction markets ban is about protecting the opacity that stock trading still provides, not about closing an information advantage."
+      },
+      {
+        "assumption": "Van Dyke's case proves prediction markets enable insider trading at scale",
+        "whyItMightBeWrong": "Van Dyke is a single case involving military classified information, not congressional legislative or market-moving information. His use of Polymarket is unusual precisely because prediction markets are more transparent than equity markets. The STOCK Act violations that involve regular congressional stock trading are more systematic but less visible and therefore less politically useful as a trigger."
+      },
+      {
+        "assumption": "Schumer pushing for the House and executive to ban prediction market trading is a good-faith reform effort",
+        "whyItMightBeWrong": "Schumer is in the minority and cannot force the House. His call costs him nothing and positions Democrats as pro-reform without requiring them to touch the stock trading ban, which would affect wealthy members on both sides of the aisle."
+      }
+    ],
+    "realDisagreement": "The real fork is whether Congress is a body capable of policing its own conflicts of interest or whether it will only restrict activity that is embarrassing when exposed. Prediction markets are embarrassing because they are public and time-stamped. Stock portfolios are embarrassing only after the fact, if at all. The choice is between a Congress that restricts both because the principle is the same, or a Congress that restricts only what it cannot hide. Polymarket at 15.5% odds on a congressional stock trading ban before 2027 implies the market believes Congress will choose the latter. That number is probably about right. The argument for optimism: the Van Dyke case may build enough political pressure to extend the logic to stocks. The argument against: the STOCK Act has been weakened twice since it passed in 2012, not strengthened.",
+    "whatNoOneIsSaying": "Prediction markets gave regulators and the public a real-time signal that something was wrong with the Maduro operation's secrecy before any investigation began. Banning congressional access to prediction markets removes one of the few mechanisms that surface insider trading automatically. The ban protects Congress partly by removing the instrument that caught them.",
+    "whoPays": [
+      {
+        "who": "Prediction market platforms Polymarket and Kalshi",
+        "how": "Regulatory uncertainty and legislative pressure reduce institutional participation, suppress liquidity on politically sensitive contracts, and increase compliance costs; the CFTC comment period closing creates a window for rulemaking that could restrict event contracts on elections and military actions entirely",
+        "when": "CFTC rulemaking likely within 6 months; legislative action within 12"
+      },
+      {
+        "who": "The public as consumers of political information",
+        "how": "Prediction market prices on legislative outcomes, military actions, and elections provide real-money signals that are more accurate than polling or punditry; restricting those markets removes a source of information about what insiders actually believe",
+        "when": "Immediately, as the signal degrades with thinner liquidity"
+      },
+      {
+        "who": "Congressional staffers",
+        "how": "The ban applies immediately to staff as well as members; staff who had been using prediction markets as a side income or investment tool lose that option while members' stock portfolios face no new restrictions",
+        "when": "Effective now"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Whack-a-mole stops at prediction markets",
+        "whatHappens": "The Senate ban stays in place, the House passes a similar rule after moderate political pressure, and the CFTC restricts event contracts on elections and military actions. Stock trading reform goes nowhere. Washington can point to two 'reforms' while the larger conflict of interest persists.",
+        "signal": "House passes its own prediction market rule within 60 days; no stock trading legislation gets a floor vote."
+      },
+      {
+        "name": "Reform momentum extends to stocks",
+        "whatHappens": "The Van Dyke case and continuing media coverage of congressional stock performance create enough pressure that a stock trading ban bill gets a floor vote, even if it does not pass. The Polymarket odds of 15.5% inch higher.",
+        "signal": "A bipartisan stock trading ban bill is scheduled for a committee markup, with co-sponsors from both parties in both chambers."
+      },
+      {
+        "name": "The ban gets quietly walked back",
+        "whatHappens": "Prediction markets prove politically useful to members for information about their own electoral prospects. Exceptions or definitional carve-outs appear. The rule weakens without formal repeal.",
+        "signal": "A member or staffer challenges the rule's scope through the Senate Ethics Committee within 90 days."
+      }
+    ],
+    "whatWouldChange": "If Congress passed a meaningful stock trading ban with real enforcement teeth in the same session, it would change the bottom line: this would be genuine anti-corruption reform, not selective embarrassment management. The market at 15.5% is telling you that happening before 2027 is unlikely.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "US congress stock trading ban before 2027?",
+        "url": "https://polymarket.com/event/us-congress-stock-trading-ban-before-2027",
+        "probability": 0.155
+      }
+    ]
+  }
+}

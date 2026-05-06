@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "generatedAt": "2026-05-06T08:30:00Z",
+  "generatedAt": "2026-05-06T12:00:00Z",
   "reports": [
     {
       "id": "ai-mythos-gov-testing",
@@ -30,6 +30,36 @@
       "id": "australia-social-media-ban-enforcement",
       "title": "Australia's Teen Social Media Ban Is Five Months Old. 61% of Affected Kids Still Have Accounts.",
       "subtitle": "Meta's AI enforcement tools are a compliance performance, not a solution. The gap between the ban's ambition and its mechanics is now evidence.",
+      "category": "ethics"
+    },
+    {
+      "id": "nvidia-china-chip-zero",
+      "title": "Nvidia Has Zero Percent of China's AI Market. Its CEO Says That Was Always the Point.",
+      "subtitle": "Jensen Huang admits export controls handed China's AI chip market to Huawei. He is arguing this proves the policy should be reversed. He has a conflict of interest the size of a data center.",
+      "category": "power"
+    },
+    {
+      "id": "senate-prediction-markets-ban",
+      "title": "The Senate Banned Prediction Markets in Hours. It Has Never Managed to Ban Stock Trading.",
+      "subtitle": "Senators passed a unanimous rule banning themselves from Polymarket and Kalshi in a single day. The same body has failed for years to pass stock trading restrictions. The asymmetry is not an accident.",
+      "category": "power"
+    },
+    {
+      "id": "eu-us-trade-deal-july",
+      "title": "The EU Made a Deal with Trump. Trump Is Now Threatening to Break It Over Greenland.",
+      "subtitle": "Brussels struck a July 2025 agreement setting tariffs at 15%. Trump threatened 25% on cars last week. The EU is asking Washington to honor the deal it signed nine months ago. Washington is not answering.",
+      "category": "conflict"
+    },
+    {
+      "id": "uaw-stellantis-outsourcing",
+      "title": "UAW Is Threatening to Strike the Plant That Builds Stellantis' Most Profitable Truck.",
+      "subtitle": "The fight is about who fixes the machines, not who builds the cars. Skilled trades outsourcing is the knife Stellantis is using to cut labor costs, and the UAW is finally picking it up.",
+      "category": "conflict"
+    },
+    {
+      "id": "supermicro-smuggling-rally",
+      "title": "Supermicro's Co-Founder Was Indicted for Smuggling $2.5 Billion in AI Chips to China. The Stock Jumped 18%.",
+      "subtitle": "The market decided the indictment was contained and the guidance was real. One of those bets is probably right.",
       "category": "ethics"
     }
   ]
