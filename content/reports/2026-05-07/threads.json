@@ -157,6 +157,44 @@
           "relationship": "Both stories involve a principal, Trump, who is demanding an institution take an action the institution refuses to take. Trump demands rate cuts; Powell refuses. Trump demands the filibuster die; Thune refuses. In both cases, the institution's independence from executive pressure is the mechanism of refusal, and in both cases Trump has no clean leverage to compel compliance."
         }
       ]
+    },
+    {
+      "id": "whose-upside-in-the-ai-boom",
+      "title": "Everyone Is Arguing About Who Owns the AI Windfall",
+      "description": "Three stories today are secretly about the same contested question: when AI creates enormous value, who gets to decide how it is distributed and who enforces that decision? Samsung workers are demanding 15% of semiconductor profits. The Trump administration is rebuilding AI safety oversight using voluntary agreements that give companies compliance credit without binding constraint. Cuba's nickel sanctions are partly an attempt to prevent Chinese battery makers from capturing the critical mineral supply chain that powers AI hardware. The AI boom is real. The fight over who captures it is just starting.",
+      "type": "tension-cluster",
+      "stories": ["samsung-workers-ai-profits-strike", "caisi-ai-safety-tests-trump", "cuba-nickel-china-battery-sanctions"],
+      "connections": [
+        {
+          "from": "samsung-workers-ai-profits-strike",
+          "to": "caisi-ai-safety-tests-trump",
+          "relationship": "Samsung workers are asking for a share of profits their labor generated during the AI chip boom. The CAISI voluntary agreements let AI companies self-certify safety compliance without sharing the safety data publicly. Both stories are about powerful incumbents structuring 'participation' arrangements that look like accountability while preserving capture of the upside."
+        },
+        {
+          "from": "cuba-nickel-china-battery-sanctions",
+          "to": "samsung-workers-ai-profits-strike",
+          "relationship": "The US sanctions on Cuba's nickel operations are partly about who controls the mineral supply chain that Samsung and its peers depend on to make AI chips. If China fills Sherritt's role and controls cobalt supply, Samsung's negotiating position with its own workers becomes harder, not easier: input cost uncertainty makes management resistant to profit-sharing commitments."
+        }
+      ]
+    },
+    {
+      "id": "institutions-defending-themselves",
+      "title": "Every Institution Simultaneously Insisting on Its Own Legitimacy",
+      "description": "Roberts says SCOTUS is not political. Warsh will inherit a Fed whose credibility depends entirely on whether markets believe it is independent of Trump. The CAISI agreements are structured to let the government claim AI oversight without legislative authority to enforce it. All three are institutions using rhetorical or structural maneuvers to assert legitimacy they cannot demonstrate through action. The pattern reveals something: when legitimacy cannot be earned through behavior, it gets asserted through performance.",
+      "type": "tension-cluster",
+      "stories": ["roberts-scotus-not-political", "warsh-fed-chair-independence", "caisi-ai-safety-tests-trump"],
+      "connections": [
+        {
+          "from": "warsh-fed-chair-independence",
+          "to": "roberts-scotus-not-political",
+          "relationship": "Both the Fed and the Supreme Court are facing legitimacy challenges that originate in the same source: the Trump administration's systematic placement of loyalists or preferred nominees into institutions designed to be insulated from electoral politics. Roberts and Warsh are both, in different ways, trying to assert the institution's independence after the selection process that installed them made that independence structurally questionable."
+        },
+        {
+          "from": "caisi-ai-safety-tests-trump",
+          "to": "warsh-fed-chair-independence",
+          "relationship": "CAISI's voluntary agreements give the government claim to AI oversight without the authority to enforce it. Warsh's incoming Fed chairmanship gives Trump nominal control over monetary policy without the ability to actually deliver rate cuts in an inflationary environment. In both cases, the administration captures the label of the institution while the institution's actual capacity to act is constrained by reality."
+        }
+      ]
     }
   ]
 }

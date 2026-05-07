@@ -1,6 +1,6 @@
 {
   "date": "2026-05-07",
-  "generatedAt": "2026-05-07T11:30:00Z",
+  "generatedAt": "2026-05-07T22:35:00Z",
   "reports": [
     {
       "id": "iran-war-peace-deal",
@@ -120,6 +120,41 @@
       "subtitle": "Tomorrow's April payrolls report will likely show near-zero job creation alongside a stable unemployment rate. This is not a healthy labor market. It is a frozen one, and the Iran oil shock is the reason it cannot thaw.",
       "category": "power",
       "topic": "economy"
+    },
+    {
+      "id": "warsh-fed-chair-independence",
+      "title": "Trump Is Getting the Fed He Wanted. The Question Is What He'll Do With It.",
+      "subtitle": "Kevin Warsh clears the Senate Banking Committee 13-11 and takes over from Powell on May 15. The Fed he inherits is more divided than it has been in decades, and the economy is the opposite of what Trump promised Warsh would fix.",
+      "category": "power",
+      "topic": "economy"
+    },
+    {
+      "id": "roberts-scotus-not-political",
+      "title": "Roberts Says the Supreme Court Is Not Political. He Said It the Day After a Partisan Redistricting Ruling.",
+      "subtitle": "The Chief Justice went to a judicial conference in Pennsylvania to defend the Court against 'political actor' charges, one day after a 6-3 party-line vote stripped majority-Black districts in Louisiana.",
+      "category": "power",
+      "topic": "politics"
+    },
+    {
+      "id": "cuba-nickel-china-battery-sanctions",
+      "title": "The US Just Sanctioned a Nickel Mine in Cuba. China's Battery Supply Chain Is the Real Target.",
+      "subtitle": "Rubio's State Department hit the Moa nickel-cobalt joint venture between Canada's Sherritt International and Cuba's military. Sherritt's shares collapsed and the company ended its participation. The strategic target is not Cuba. It is China.",
+      "category": "power",
+      "topic": "geopolitics"
+    },
+    {
+      "id": "samsung-workers-ai-profits-strike",
+      "title": "Samsung's Workers Want 15% of the AI Boom. The Company Says No. An 18-Day Strike Starts May 21.",
+      "subtitle": "Samsung's semiconductor division just posted a $32.6 billion first-quarter profit. The unions that made those chips want a share. Management says the timing is wrong. The timing is never going to get better.",
+      "category": "conflict",
+      "topic": "economy"
+    },
+    {
+      "id": "caisi-ai-safety-tests-trump",
+      "title": "Trump Killed Biden's AI Safety Framework. Then He Built the Same Thing and Called It Something Else.",
+      "subtitle": "The Center for AI Standards and Innovation just signed testing agreements with Google DeepMind, Microsoft, and xAI. It is functionally identical to the AI Safety Institute that Trump disbanded. The question is why it took a near-miss called Mythos to change his mind.",
+      "category": "power",
+      "topic": "tech"
     }
   ]
 }

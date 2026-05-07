@@ -1,0 +1,98 @@
+{
+  "id": "samsung-workers-ai-profits-strike",
+  "date": "2026-05-07",
+  "generatedAt": "2026-05-07T22:35:00Z",
+  "title": "Samsung's Workers Want 15% of the AI Boom. The Company Says No. An 18-Day Strike Starts May 21.",
+  "subtitle": "Samsung's semiconductor division just posted a $32.6 billion first-quarter profit. The unions that made those chips want a share. Management says the timing is wrong. The timing is never going to get better.",
+  "topic": "economy",
+  "category": "conflict",
+  "tags": ["Samsung", "labor", "semiconductors", "AI", "strike", "Korea", "supply chain", "profit sharing"],
+  "coverImage": {
+    "url": "https://img0.yna.co.kr/photo/yna/YH/2026/04/30/PYH2026043005550001300_P4.jpg",
+    "local": "/images/reports/2026-05-07/samsung-strike-ai-profits.jpg",
+    "credit": "Yonhap News Agency"
+  },
+  "sources": [
+    {
+      "url": "https://headlinesbriefing.com/market/ft-companies/samsung-unions-push-for-15-profit-share-amid-ai-chip-boom-8716cbf9",
+      "publisher": "Financial Times",
+      "angle": "Samsung unions demand 15% of each division's operating profit and a 7% wage hike; warned of 18-day strike starting May 21; semiconductor arm posted record $32.6bn Q1 profit"
+    },
+    {
+      "url": "https://en.yna.co.kr/view/AEN20260507012200320",
+      "publisher": "Yonhap News Agency",
+      "angle": "Management plea for dialogue: co-CEOs Jun Young-hyun and Roh Tae-moon appealed to workers to continue negotiating and not to strike"
+    },
+    {
+      "url": "https://www.koreatimes.co.kr/business/companies/20260504/samsung-union-coalition-fractures-over-bonus-demands",
+      "publisher": "The Korea Times",
+      "angle": "Internal union fracture: consumer electronics workers withdrew from the joint strike coalition, saying the demands are skewed toward the semiconductor division at their expense"
+    },
+    {
+      "url": "https://www.koreaherald.com/article/10733167",
+      "publisher": "The Korea Herald",
+      "angle": "Global supply chain analysis: Samsung is the world's largest memory chip maker; an 18-day walkout at this stage of the AI chip boom could ripple through server manufacturers and AI infrastructure builders worldwide"
+    },
+    {
+      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=153549",
+      "publisher": "Korea IT Times",
+      "angle": "Policy context: the dispute challenges Korea's existing profit-sharing legal framework, and may force legislative changes to how performance bonuses are calculated in conglomerate structures"
+    }
+  ],
+  "brief": {
+    "actors": ["Samsung", "Korea"],
+    "whatHappened": "Samsung Electronics' major unions have threatened an 18-day general strike starting May 21 unless management agrees to pay workers 15% of each division's operating profit and raise base wages by 7%. The semiconductor division posted $32.6 billion in first-quarter operating profit, its highest ever, driven by demand for high-bandwidth memory chips from AI data centers. Samsung's market capitalization has crossed $1 trillion. Management has refused the demands and is urging workers to continue negotiating, but as of Thursday no agreement has been reached. Separately, the union coalition is fracturing: consumer electronics workers have withdrawn from the joint strike action, saying the profit-sharing formula would transfer wealth from their division to the chip workers.",
+    "bottomLine": "Samsung's workers are asking a simple question that the AI boom makes unavoidable everywhere: if the profits are real and the work was done by people, why is the upside only for shareholders?",
+    "hiddenBets": [
+      {
+        "assumption": "Samsung can sustain production through or around a strike",
+        "whyItMightBeWrong": "Samsung is not just any manufacturer. It makes roughly 40% of global DRAM and more than half of high-bandwidth memory used in AI accelerators. An 18-day walkout at peak AI infrastructure buildout is not a local labor dispute. It is a supply chain event. Customers like NVIDIA, Amazon, and Google have no alternative supplier at scale."
+      },
+      {
+        "assumption": "The 15% profit-share demand is too high to be serious",
+        "whyItMightBeWrong": "In Q1 2026, 15% of the semiconductor division's operating profit is roughly $4.9 billion. Divided among the relevant workforce, it is large but not unprecedented for a technology supercycle. Workers citing this as fair profit sharing are not wrong that they generated the value. The demand is a negotiating position, but its upper bound is not as extreme as it sounds."
+      },
+      {
+        "assumption": "This is a Korea-specific labor story",
+        "whyItMightBeWrong": "This dispute is the first major test of whether workers who build AI infrastructure can claim a share of AI's returns. Every AI hyperscaler's supply chain runs through Samsung. The precedent set here, whether workers get 0%, 5%, or 15% of the profits their labor generates, will be cited in labor negotiations across the semiconductor industry globally."
+      }
+    ],
+    "realDisagreement": "The real argument is about what work entitles you to. Samsung management frames the AI profit surge as the result of capital investment, R&D decisions, and strategic positioning over decades. Unions frame it as the result of people working longer hours to meet unprecedented demand. Both are true. The question is how those two contributions get priced. The market sets the capital return automatically through equity prices. It does not automatically set the labor return. That is what collective bargaining is for. Management's position that 'now is not the time' because of competitive pressure is the same argument always made when profits are high: in bad times, workers share the pain; in good times, they wait for conditions to stabilize. Leans toward the workers on this one: Q1 2026 is the time, precisely because the profits exist.",
+    "whatNoOneIsSaying": "Samsung's competitors, primarily SK Hynix and Micron, are watching this strike closely not because they fear contagion but because they hope it slows Samsung's production at the exact moment when they are trying to close the gap in high-bandwidth memory. A strike is free capacity for SK Hynix.",
+    "whoPays": [
+      {
+        "who": "Samsung semiconductor workers",
+        "how": "If the strike fails, they go back to work having received no share of a record profit quarter. The AI boom may be cyclical; the next opportunity to bargain from strength may be years away.",
+        "when": "Immediate if strike fails; ongoing"
+      },
+      {
+        "who": "AI infrastructure builders and hyperscalers",
+        "how": "An 18-day strike at Samsung's Pyeongtaek campus could delay shipments of high-bandwidth memory chips, pushing back server delivery timelines and increasing spot prices for memory.",
+        "when": "Starting May 21 if strike proceeds"
+      },
+      {
+        "who": "Samsung consumer electronics workers",
+        "how": "The union coalition fracture means consumer electronics workers are being asked to strike for demands that do not benefit them. Their withdrawal weakens the semiconductor workers' leverage. If they stay out, they absorb strike costs for someone else's negotiation.",
+        "when": "Immediate, beginning with the withdrawal decision"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Management partial concession",
+        "whatHappens": "Samsung offers a higher performance bonus tied to operating profit but below the 15% demand, perhaps 7-9%. Unions accept, framing it as a precedent-setting victory. Strike averted. Global supply chain unaffected.",
+        "signal": "Union leadership agrees to an extended negotiation window and cancels the May 21 strike notice in the week before deadline"
+      },
+      {
+        "name": "Strike proceeds, limited duration",
+        "whatHappens": "Strike begins May 21 but lasts less than the full 18 days. Management makes a face-saving partial offer around day 7-10. Workers claim partial victory. Memory chip spot prices spike briefly then normalize.",
+        "signal": "First production reports showing output reductions at Pyeongtaek within 48 hours of strike start"
+      },
+      {
+        "name": "Full 18-day walkout",
+        "whatHappens": "Neither side yields. A full 18-day strike at the world's largest memory chip maker creates a genuine supply shock. AI data center buildout timelines slip for multiple hyperscalers. The dispute becomes the first documented case of a labor action disrupting the AI supply chain at scale.",
+        "signal": "No agreement in the 72 hours before the May 21 strike deadline; management issues contingency operation announcements"
+      }
+    ],
+    "whatWouldChange": "If Samsung misses Q2 guidance because of supply disruption, management's 'competitive pressure' argument against the bonus collapses. The cost of not settling becomes higher than the cost of settling, and negotiations resolve. The strike is only a strike until it is more expensive to continue than to stop."
+  }
+}

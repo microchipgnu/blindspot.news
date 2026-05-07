@@ -1,0 +1,118 @@
+{
+  "id": "warsh-fed-chair-independence",
+  "date": "2026-05-07",
+  "generatedAt": "2026-05-07T22:35:00Z",
+  "title": "Trump Is Getting the Fed He Wanted. The Question Is What He'll Do With It.",
+  "subtitle": "Kevin Warsh clears the Senate Banking Committee 13-11 and takes over from Powell on May 15. The Fed he inherits is more divided than it has been in decades, and the economy is the opposite of what Trump promised Warsh would fix.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Federal Reserve", "Kevin Warsh", "monetary policy", "central bank independence", "interest rates", "inflation"],
+  "coverImage": {
+    "url": "https://editorial.fxsstatic.com/images/i/TrumpWarsh2-6526_Medium.png",
+    "local": "/images/reports/2026-05-07/warsh-fed-chair-independence.jpg",
+    "credit": "FXStreet"
+  },
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/05/07/theres-no-chance-warsh-will-be-able-to-get-the-fed-to-cut-rates-paul-tudor-jones-says.html",
+      "publisher": "CNBC",
+      "angle": "Paul Tudor Jones says Warsh will face an FOMC hostile to rate cuts and may actually need to raise rates given Iran-driven inflation; calls the environment the most internally divided Fed in 34 years"
+    },
+    {
+      "url": "https://www.fxstreet.com/news/the-fed-warsh-inherits-divided-and-with-its-independence-in-doubt-202605061500",
+      "publisher": "FXStreet",
+      "angle": "Structural analysis of the Fed Warsh inherits: a committee split on methodology, a balance sheet debate unresolved, and a president who has publicly pressured the institution for two years"
+    },
+    {
+      "url": "https://www.businesstimes.com.sg/opinion-features/kevin-warshs-fed-reform-agenda-or-reputational-risk",
+      "publisher": "The Business Times",
+      "angle": "Warsh wants to reform Fed communication and balance sheet policy; his early moves will reveal whether he is a disciplined reformer or a politically convenient appointment"
+    },
+    {
+      "url": "https://www.newsweek.com/trump-wants-rate-cuts-but-his-own-policies-may-prevent-them-11917974",
+      "publisher": "Newsweek",
+      "angle": "Trump's Iran war and tariff policies have produced an oil-driven inflation shock that structurally prevents the rate cuts Trump wants Warsh to deliver"
+    },
+    {
+      "url": "https://investozora.com/kevin-warsh-senate-confirmation-vote-timeline/",
+      "publisher": "Investozora",
+      "angle": "Timeline and vote mechanics: Senate floor vote pending, no confirmed date, Murkowski seen as the decisive Republican vote; committee approved 13-11 on party lines"
+    }
+  ],
+  "brief": {
+    "actors": ["Warsh", "Trump", "Powell", "Fed", "Senate", "Murkowski"],
+    "whatHappened": "The Senate Banking Committee voted 13-11 along party lines on April 29 to advance Kevin Warsh as Federal Reserve Chair nominee, clearing him for a full Senate floor vote expected before Powell's term ends May 15. Warsh would be the first Fed Chair installed by a president who explicitly demanded rate cuts, publicly attacked his predecessor, and structured the nomination as a loyalty test. He takes over a Fed that recorded the most dissents at a single FOMC meeting in nearly 34 years, as internal disagreement over how to handle Iran-driven inflation has fractured the committee.",
+    "bottomLine": "Warsh inherits an impossible brief: Trump wants rate cuts, the data demands hikes, and the minute Warsh does what Trump wants, the institution he's running loses the credibility it needs to do anything at all.",
+    "hiddenBets": [
+      {
+        "assumption": "Warsh will be a tool for Trump's rate-cut agenda",
+        "whyItMightBeWrong": "Warsh has told the Banking Committee he plans to communicate differently and restructure Fed operations. He voted against the Bernanke stimulus in 2010 as the lone dissenter. His instinct is hawkish. The constraint he faces is the same one Powell faced: inflation data, not presidential preference, moves markets."
+      },
+      {
+        "assumption": "Fed independence is the central question",
+        "whyItMightBeWrong": "The more consequential question is whether Warsh can unify a committee that is already fractured without Trump. The most recent FOMC meeting saw multiple dissents over wording in the post-meeting statement. A divided committee is weaker than a captured one, because it sends no clear signal at all."
+      },
+      {
+        "assumption": "A new Fed Chair can deliver rate cuts in this environment",
+        "whyItMightBeWrong": "Paul Tudor Jones said flatly there is 'no chance' Warsh will cut rates. The Iran war has pushed oil above $100/barrel. Core inflation is re-accelerating. The ADP report showed April private payrolls at a 15-month high. Cutting rates into that data would require ignoring it, which would be visible and damaging to market credibility almost immediately."
+      }
+    ],
+    "realDisagreement": "The real fork is between two readings of what the Fed is for. In one reading, the Fed is an independent institution whose credibility rests on being insulated from electoral politics; on this view, Warsh's nomination is already a contamination, and what he does next will either confirm or modestly limit the damage. In the other reading, the Fed has always been a political institution that pretends otherwise, and what matters is whether Warsh makes technically sound calls that happen to align with Trump's preferences or technically unsound calls that don't. The first reading makes Warsh's confirmation a structural problem regardless of his actions. The second makes his confirmation unremarkable and judges him on outcomes. The honest answer leans toward the first: the process itself has already weakened the institution. The question is whether Warsh's decisions compound that or partially restore it.",
+    "whatNoOneIsSaying": "Trump created the very inflation problem that prevents Warsh from delivering what Trump wants. The Iran war, which Trump chose to enter, pushed oil prices up, which re-accelerated inflation, which means cutting rates would be irresponsible. The president has boxed in his own nominee before the nominee has taken office.",
+    "whoPays": [
+      {
+        "who": "Mortgage borrowers and homebuyers",
+        "how": "If Warsh cannot cut rates, 30-year mortgage rates stay above 7%. Housing affordability, already at multi-decade lows, does not improve. First-time buyers remain priced out.",
+        "when": "Immediate and ongoing through 2026"
+      },
+      {
+        "who": "Holders of long-duration Treasuries and pension funds",
+        "how": "If Warsh signals any willingness to subordinate policy to politics, bond investors reprice the risk premium on US debt upward. The 10-year yield, currently near 4.4%, could move toward 5%. That repricing hits anyone holding long bonds.",
+        "when": "Within weeks of any perceived capitulation"
+      },
+      {
+        "who": "Small businesses and consumers with floating-rate debt",
+        "how": "If Warsh is actually forced to raise rates to control inflation, not cut them, small business loan costs and credit card rates rise further. The businesses that survived two years of high rates on the expectation of cuts would see that timeline extended indefinitely.",
+        "when": "Second half of 2026 if Iran conflict sustains oil above $100"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Warsh holds the line",
+        "whatHappens": "Warsh takes over, keeps rates unchanged, communicates clearly that inflation from the Iran war must be absorbed before any easing. Trump is angry publicly but does not escalate to trying to fire him. Markets treat this as continuity and the credibility damage is limited.",
+        "signal": "First FOMC press conference where Warsh emphasizes data-dependence and makes no rate cut commitment"
+      },
+      {
+        "name": "Premature cut",
+        "whatHappens": "Warsh cuts rates within six months despite elevated inflation, citing slowdown risks. Bond markets react badly. The dollar weakens. Inflation expectations de-anchor. The Fed's credibility takes damage that takes years to repair.",
+        "signal": "Warsh uses 'insurance cut' language in his first few public appearances; the language tracks what Trump has said publicly"
+      },
+      {
+        "name": "Committee rebellion",
+        "whatHappens": "Warsh arrives to find FOMC governors consistently voting against his preferred path. The split becomes public through dissents in meeting minutes. The institution looks ungovernable and markets start treating Fed guidance as noise.",
+        "signal": "Three or more FOMC dissents at consecutive meetings within Warsh's first three months"
+      }
+    ],
+    "whatWouldChange": "If Iran oil shock resolves and inflation falls back below 3% in Q3, Warsh could cut rates and it would look like sound judgment rather than capitulation. That would validate the optimistic read: that Warsh is independent enough to wait for the data and the data eventually cooperated.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Kevin Warsh Fed Chair nomination withdrawn by May 15?",
+        "url": "https://polymarket.com/event/kevin-warsh-fed-chair-nomination-withdrawn-by-may-15",
+        "probability": 0.0025
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Jerome Powell depart as Fed Chair by May 16 2026?",
+        "url": "https://polymarket.com/event/jerome-powell-departs-as-fed-chair-by",
+        "probability": 0.86
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Lisa Murkowski vote to confirm Kevin Warsh as Chair of the Federal Reserve?",
+        "url": "https://polymarket.com/event/who-will-vote-to-confirm-kevin-warsh-as-fed-chair",
+        "probability": 0.8325
+      }
+    ]
+  }
+}

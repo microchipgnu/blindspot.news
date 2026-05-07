@@ -1,0 +1,98 @@
+{
+  "id": "cuba-nickel-china-battery-sanctions",
+  "date": "2026-05-07",
+  "generatedAt": "2026-05-07T22:35:00Z",
+  "title": "The US Just Sanctioned a Nickel Mine in Cuba. China's Battery Supply Chain Is the Real Target.",
+  "subtitle": "Rubio's State Department hit the Moa nickel-cobalt joint venture between Canada's Sherritt International and Cuba's military. Sherritt's shares collapsed and the company ended its participation. The strategic target is not Cuba. It is China.",
+  "topic": "geopolitics",
+  "category": "power",
+  "tags": ["Cuba", "sanctions", "nickel", "cobalt", "China", "critical minerals", "Sherritt", "Rubio", "supply chain"],
+  "coverImage": {
+    "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/08/05ae86eb-fe36-496d-b240-a72686911d81_ac804ebe.jpg?itok=OF5WVmad&v=1778177706",
+    "local": "/images/reports/2026-05-07/cuba-nickel-sanctions-sherritt.jpg",
+    "credit": "South China Morning Post"
+  },
+  "sources": [
+    {
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3352815/us-targets-cuba-nickel-operation-move-implications-china-linked-supply-chains",
+      "publisher": "South China Morning Post",
+      "angle": "Frames the sanctions as primarily aimed at disrupting China-linked battery supply chains that source cobalt and nickel from the Moa facility, not about Cuban repression"
+    },
+    {
+      "url": "https://www.mining.com/sherritt-shares-crater-on-cuba-sanctions-shock/",
+      "publisher": "Mining.com",
+      "angle": "Market impact perspective: Sherritt shares cratered after the sanctions announcement; the company immediately ended its joint venture participation"
+    },
+    {
+      "url": "https://sherritt.com/sherritt-provides-update-on-joint-venture-activities-in-cuba/",
+      "publisher": "Sherritt International",
+      "angle": "Corporate disclosure: Sherritt confirms it has suspended direct participation in the Moa joint venture and is assessing operational and financial consequences"
+    },
+    {
+      "url": "https://lnginnorthernbc.ca/2026/05/07/canadian-mining-company-sherritt-ends-joint-venture-in-cuba-after-new-sanctions/",
+      "publisher": "LNG in Northern BC",
+      "angle": "Reports that Sherritt formally ended its joint venture participation immediately after US sanctions were announced; notes the sanctions target the military-controlled Cuban enterprise"
+    },
+    {
+      "url": "https://www.federalregister.gov/documents/2026/05/07/2026-09173/imposing-sanctions-on-those-responsible-for-repression-in-cuba-and-for-threats-to-united-states",
+      "publisher": "Federal Register",
+      "angle": "The official legal text of the executive order authorizing the Cuba sanctions, framed as targeting 'repression' and national security threats"
+    }
+  ],
+  "brief": {
+    "actors": ["Rubio", "Cuba", "Sherritt", "China", "Trump"],
+    "whatHappened": "Secretary of State Marco Rubio announced new US sanctions on Thursday targeting Cuba's Moa nickel-cobalt mining operation, specifically the joint venture between Canada's Sherritt International and the Cuban government's military-controlled enterprise. Sherritt's shares crashed immediately and the company announced it was suspending its direct participation in the joint venture. The Moa facility is one of the world's largest nickel and cobalt producers. Chinese battery manufacturers and EV supply chains have been significant customers of its output. The sanctions were formally justified as punishment for Cuban repression, but the operational effect is to remove a non-Chinese source of cobalt from markets where Chinese companies are dominant buyers.",
+    "bottomLine": "Rubio is using Cuban repression as the legal hook to disrupt a mineral supply chain that benefits China, and the collateral damage is a Canadian company that has operated in Cuba for decades under the assumption that resource partnerships were a different category from political alignment.",
+    "hiddenBets": [
+      {
+        "assumption": "The sanctions are primarily about Cuba policy",
+        "whyItMightBeWrong": "Cuba has been sanctioned by the US for sixty years with minimal strategic effect on the Cuban government. The new element here is the Moa facility's connection to Chinese battery supply chains. If this were purely about Cuban repression, the target would not be a mining operation. The timing relative to the Trump-Xi Beijing summit is not coincidental: the US is demonstrating it can reach into Chinese supply chains through third-party sanctions."
+      },
+      {
+        "assumption": "Sherritt's exit will damage Cuba's nickel production enough to matter",
+        "whyItMightBeWrong": "Cuba's nickel operations predate Sherritt's involvement. The Cuban military-controlled enterprise will continue operating. Sherritt provided capital and technical expertise, but removing a Western partner from an operating mine does not shut the mine down. China's state-owned enterprises have demonstrated willingness to step into exactly these kinds of sanctions-exposed positions."
+      },
+      {
+        "assumption": "The cobalt supply disruption is the main strategic effect",
+        "whyItMightBeWrong": "The deeper effect may be signaling. The US is demonstrating to every company with a minority stake in a facility that sells to China that it can unilaterally end that relationship by sanctioning the facility. This is not mineral policy. It is a threat to any Western company that has not fully decoupled from China-linked resource supply chains."
+      }
+    ],
+    "realDisagreement": "The real tension is between two legitimate interests: the US has a genuine national security interest in degrading China's access to critical mineral supply chains outside its direct control. But sanctions on Cuban operations also harm Canadian companies operating lawfully under international rules, and they deepen Cuba's isolation without producing political change that sixty years of prior sanctions couldn't achieve. The US is essentially taxing Canadian shareholders and Cuban workers to pursue a China strategy. The China strategy may be correct. The question is who pays for it and whether they get a say. Leans toward: the China targeting logic is sound, but the Cuba framing is dishonest and the collateral damage to allied companies deserves more acknowledgment than it gets.",
+    "whatNoOneIsSaying": "China will probably buy Sherritt's stake in the Moa facility, or a Chinese state-owned enterprise will quietly fill the operational gap Sherritt leaves. The sanctions push Cuba further into China's orbit rather than reducing Chinese access to the minerals.",
+    "whoPays": [
+      {
+        "who": "Sherritt shareholders",
+        "how": "The stock collapsed on the sanctions announcement. A company that has operated in Cuba for decades loses its main revenue-generating asset overnight because of a US foreign policy decision targeting a third party.",
+        "when": "Immediate and ongoing"
+      },
+      {
+        "who": "EV battery manufacturers dependent on non-Chinese cobalt",
+        "how": "Cobalt supply from the Moa facility was a partial hedge against Chinese dominance of the cobalt market, primarily through Congo. Removing it narrows supply diversity and may push buyers further toward Chinese-controlled sources.",
+        "when": "Medium-term, as contracts expire and sourcing shifts"
+      },
+      {
+        "who": "Cuban workers at the Moa facility",
+        "how": "If Sherritt's technical and operational support degrades production, jobs and wages at the facility are at risk. The Cuban military-controlled enterprise may maintain operations but at lower efficiency.",
+        "when": "Medium-term over the next 12-18 months"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "China fills the gap",
+        "whatHappens": "A Chinese state-owned mining company acquires operational control of the Moa facility within 12-18 months, replacing Sherritt's stake. The US sanctions achieve the opposite of their stated goal by handing China direct control rather than just buyer access.",
+        "signal": "Reports of Chinese state enterprise negotiations with the Cuban government appearing in Chinese state media within 6 months"
+      },
+      {
+        "name": "Facility degradation",
+        "whatHappens": "Without Sherritt's capital and technical expertise, Moa production falls. Global cobalt supply tightens marginally. Battery manufacturers that were not already Chinese-sourced scramble for alternatives. The US claims success in disrupting supply chains.",
+        "signal": "Moa output figures showing more than 20% decline in quarterly production by Q4 2026"
+      },
+      {
+        "name": "Broader escalation with Canada",
+        "whatHappens": "Canada, whose company was directly hit by unilateral US sanctions on lawful operations, files a formal complaint under CUSMA. The dispute becomes a test case for whether the US will compensate allies harmed by its China-targeting sanctions.",
+        "signal": "Canadian government issues formal diplomatic protest citing Sherritt losses within 30 days"
+      }
+    ],
+    "whatWouldChange": "If the Trump-Xi Beijing summit produces a deal that includes Chinese commitments on critical mineral supply chains, these sanctions may have served their negotiating purpose and Sherritt's exit becomes collateral damage in a larger bargain. That would make the whole operation coherent. Without that deal, it is a disruption with unclear strategic benefit."
+  }
+}
