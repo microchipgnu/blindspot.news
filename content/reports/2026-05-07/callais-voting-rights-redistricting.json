@@ -1,0 +1,98 @@
+{
+  "id": "callais-voting-rights-redistricting",
+  "date": "2026-05-07",
+  "generatedAt": "2026-05-07T08:05:00Z",
+  "title": "SCOTUS Just Handed Republicans a Redistricting Weapon Before the Midterms",
+  "subtitle": "The Supreme Court's 6-3 ruling in Louisiana v. Callais dismantled majority-Black congressional districts. States are now scrambling to redraw maps before this year's elections.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["SCOTUS", "Voting Rights Act", "redistricting", "Louisiana", "Callais", "midterms", "gerrymandering"],
+  "coverImage": {
+    "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/05/02/745cf51d-8344-44e3-826c-c5fefacf5ebb/thumbnail/1200x630/f5890cf5e625da104ef2133d8864d2c4/cbsn-fusion-states-scramble-redistrict-supreme-court-limits-voting-rights-act-thumbnail.jpg",
+    "local": "/images/reports/2026-05-07/callais-voting-rights-redistricting.jpg",
+    "credit": "CBS News"
+  },
+  "sources": [
+    {
+      "url": "https://www.scotusblog.com/2026/05/court-gives-immediate-effect-to-voting-rights-act-decision/",
+      "publisher": "SCOTUSblog",
+      "angle": "Court immediately finalized ruling and refused to reverse; Alito and Jackson exchanged sharp written disagreements over the urgency order; Louisiana suspending May primaries to redraw"
+    },
+    {
+      "url": "https://www.cbsnews.com/news/supreme-court-louisiana-redistricting-ruling-take-effect-immediately-alito-jackson/",
+      "publisher": "CBS News",
+      "angle": "6-3 ruling declared Louisiana's two majority-Black House districts unconstitutional; rapid-effect order will force new maps before 2026 midterms"
+    },
+    {
+      "url": "https://www.brookings.edu/articles/callais-decision-threatens-to-stall-diversity-gains-in-house/",
+      "publisher": "Brookings Institution",
+      "angle": "Callais creates a template to challenge majority-minority districts in multiple states; could reverse a decade of post-Allen v. Milligan gains"
+    },
+    {
+      "url": "https://www.scotusblog.com/2026/05/is-the-court-done-with-callais/",
+      "publisher": "SCOTUSblog",
+      "angle": "Court may face further intervention as Louisiana redraws; the 'Alito vs. Jackson' public exchange signals the court is itself politically fractured on the question"
+    },
+    {
+      "url": "https://news.ballotpedia.org/2026/05/05/u-s-supreme-courts-ruling-in-louisiana-v-callais-could-spur-further-changes-in-redistricting/",
+      "publisher": "Ballotpedia",
+      "angle": "Ruling may prompt challenges to majority-minority districts in Alabama, Georgia, Texas; redistricting litigation wave already beginning"
+    }
+  ],
+  "brief": {
+    "actors": ["SCOTUS", "Louisiana", "Alito", "Jackson", "Republicans", "Congressional Black Caucus"],
+    "whatHappened": "The Supreme Court ruled 6-3 in Louisiana v. Callais that Louisiana's congressional map, which included two majority-Black districts, is unconstitutional. The court then immediately moved to finalize the ruling, bypassing the usual 32-day delay before a decision takes effect. Justice Alito and Justice Jackson exchanged unusually sharp public disagreements about the urgency order. Louisiana officials suspended this month's House primaries and moved to draw a new map. Brookings and redistricting scholars warn the ruling creates a template for challenging majority-minority districts in Alabama, Georgia, Texas, and other states, potentially reversing gains from the court's own 2023 Allen v. Milligan ruling. The court has also temporarily restored mail access to mifepristone while it considers the Louisiana v. FDA case.",
+    "bottomLine": "The court that ordered Louisiana to create a second majority-Black district in 2023 just struck down the majority-Black districts as unconstitutional in 2026. This is not legal evolution. It is a targeted reversal timed to affect this year's midterms.",
+    "hiddenBets": [
+      {
+        "assumption": "Callais is about Louisiana's specific map, not a general rollback of majority-minority districts",
+        "whyItMightBeWrong": "Brookings' analysis shows the ruling creates a directly transferable legal theory. The six-justice majority did not limit its reasoning to Louisiana's facts. Redistricting litigants in at least four other states are already citing Callais."
+      },
+      {
+        "assumption": "Louisiana will draw a fair map under court supervision",
+        "whyItMightBeWrong": "Louisiana's Republican legislature, which originally drew the invalidated map, is now drawing the replacement. The court's ruling gives them a new legal justification for the same political outcome: fewer Black-majority districts."
+      },
+      {
+        "assumption": "The Alito-Jackson public exchange is a curiosity rather than a signal",
+        "whyItMightBeWrong": "Justices virtually never publicly attack each other's reasoning on procedural motions. The fact that both wrote publicly signals the court is publicly fractured in a way that will affect future Voting Rights Act cases."
+      }
+    ],
+    "realDisagreement": "The real fork is between two views of what the Voting Rights Act requires. One view says race-conscious districts are the only way to ensure minority representation given decades of racially polarized voting. The other view says any district drawn with race as a primary factor is itself unconstitutional racial classification. Both have legal support. The six-justice majority has now endorsed the second view in a way that makes the first view nearly unenforceable. The question is whether Congress acts. The SAVE Act, at 24.5% Polymarket probability of passage by year end, suggests legislative response is unlikely in the near term.",
+    "whatNoOneIsSaying": "The court accelerated the ruling's effect specifically to force new maps before the 2026 midterms, not after. That is not a procedural decision. It is a choice about which elections are decided under which maps. The beneficiary of that timing is not ambiguous.",
+    "whoPays": [
+      {
+        "who": "Black voters in Louisiana and states facing follow-on challenges",
+        "how": "Fewer majority-Black districts means fewer Black representatives elected to Congress. In racially polarized electorates, this is not a minor shift. Louisiana's new map will almost certainly reduce Black representation from two seats toward zero or one.",
+        "when": "Beginning with the 2026 midterm elections"
+      },
+      {
+        "who": "Democratic House caucus",
+        "how": "The follow-on redistricting challenges in Alabama, Georgia, and Texas could eliminate 3-6 additional Democratic-held or competitive seats currently anchored in majority-minority districts.",
+        "when": "Over the 2026-2027 redistricting cycle"
+      },
+      {
+        "who": "Voting rights litigants",
+        "how": "Organizations that spent years in court winning the Allen v. Milligan precedent now face a ruling that effectively overrides it without formally reversing it. The cost of re-litigating in every affected state is enormous.",
+        "when": "Immediate and ongoing"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Cascade Challenges",
+        "whatHappens": "Redistricting litigants in Alabama, Georgia, Texas, and North Carolina file Callais-based challenges to majority-minority districts. Courts grant stays pending review. Multiple House seats held by Black Democrats face uncertain maps heading into November.",
+        "signal": "A federal court in any of those states cites Callais in granting an injunction against an existing majority-minority district."
+      },
+      {
+        "name": "Louisiana Compliance Fight",
+        "whatHappens": "Louisiana draws a replacement map that eliminates one or both Black-majority districts. Voting rights groups challenge it as still non-compliant. The case returns to the Supreme Court before November.",
+        "signal": "Louisiana legislature passes a new map within 30 days without creating any majority-Black district."
+      },
+      {
+        "name": "Limited Application",
+        "whatHappens": "Lower courts read Callais narrowly as fact-specific to Louisiana. Follow-on challenges in other states fail at the district court level. The ruling's practical effect is limited to Louisiana.",
+        "signal": "A district court in another state explicitly distinguishes Callais from its own facts and upholds an existing majority-minority map."
+      }
+    ],
+    "whatWouldChange": "If the court grants cert in one of the follow-on cases and explicitly limits Callais to Louisiana's specific map-drawing process, the bottom line is wrong. That would require the court to confront the contradiction between Callais and Allen v. Milligan directly."
+  }
+}

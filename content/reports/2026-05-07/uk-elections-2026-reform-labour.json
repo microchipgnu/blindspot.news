@@ -1,0 +1,93 @@
+{
+  "id": "uk-elections-2026-reform-labour",
+  "date": "2026-05-07",
+  "generatedAt": "2026-05-07T08:05:00Z",
+  "title": "UK Goes to the Polls Today. Labour Is Bracing for Its Worst Night in a Generation.",
+  "subtitle": "Voting is underway across England, Scotland, and Wales. Reform UK leads national polls at 25%. What today's results mean depends on whether Farage can convert council seats into something durable.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["UK", "elections", "Reform UK", "Labour", "Farage", "Starmer", "Scotland", "Wales"],
+  "coverImage": {
+    "url": "https://ichef.bbci.co.uk/news/1024/branded_news/0314/live/dd517790-496e-11f1-b55d-0f258dce1735.jpg",
+    "local": "/images/reports/2026-05-07/uk-elections-2026.jpg",
+    "credit": "BBC News / PA"
+  },
+  "sources": [
+    {
+      "url": "https://yougov.com/en-gb/articles/54701-voting-intention-4-5-may-2026-ref-25-lab-18-con-17-grn-15-ld-14",
+      "publisher": "YouGov",
+      "angle": "Reform UK leads at 25%, Labour at 18%, Tories at 17%, Greens at 15%; all parties within margin of error of prior week"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-05-06/how-will-uk-local-elections-on-may-7-work-what-s-at-stake-for-keir-starmer",
+      "publisher": "Bloomberg",
+      "angle": "Scottish and Welsh parliaments plus 5,000 council seats; worst case for Starmer is losing two-thirds of Labour councillors; Reform and Greens expected big winners"
+    },
+    {
+      "url": "https://www.newstatesman.com/politics/uk-politics/may-2026/2026/05/map-of-local-election-predictions-where-will-labour-reform-the-greens-and-the-tories-win-and-lose",
+      "publisher": "New Statesman",
+      "angle": "Britain Elects forecasts Labour losing two-thirds of councillors; Labour strongholds in Greater Manchester and West Yorkshire now vulnerable"
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/cvgzwdee72eo",
+      "publisher": "BBC News",
+      "angle": "Final campaign pitches; Scotland and Wales choose national governments; polls open 0700-2200 BST; results through the weekend"
+    },
+    {
+      "url": "https://www.independent.co.uk/news/uk/politics/local-elections-poll-tracker-may-7-labour-reform-green-b2971263.html",
+      "publisher": "The Independent",
+      "angle": "Labour polling below its 2024 general election score in its own heartlands; Reform and Greens fighting over the same anti-Labour vote in different demographics"
+    }
+  ],
+  "brief": {
+    "actors": ["Starmer", "Farage", "Labour", "Reform UK", "Greens", "Conservatives", "SNP"],
+    "whatHappened": "Voting is underway across England, Scotland, and Wales on May 7 in the largest set of elections since the 2024 general election. More than 5,000 council seats in England, the Scottish Parliament, and the Welsh Senedd are at stake. National polls put Reform UK at 25%, Labour at 18%, Conservatives at 17%, and Greens at 15%. Britain Elects forecasts Labour may lose two-thirds of its councillors, including strongholds in Greater Manchester and West Yorkshire. In Scotland, the SNP is heavily favored to win the most seats. In Wales, polling shows Labour potentially falling to third behind Plaid Cymru and Reform UK. Results will come in Friday and over the weekend.",
+    "bottomLine": "The story today is not whether Labour loses. It is whether Reform UK can build an organizational apparatus from a council majority, or whether it remains a polling phenomenon without governing infrastructure.",
+    "hiddenBets": [
+      {
+        "assumption": "Bad local election results force Starmer out",
+        "whyItMightBeWrong": "Starmer has no obvious successor, and Labour MPs face the same unpopular environment whoever leads. A leadership crisis midterm rarely improves a party's position. The incentive structure favors keeping Starmer as the person holding the losses, not installing a new leader to own the next set."
+      },
+      {
+        "assumption": "Reform UK's 25% national polling translates to proportional council gains",
+        "whyItMightBeWrong": "Reform UK has almost no incumbent councillors and very limited local party infrastructure. Council elections reward local relationships and candidate quality. UKIP polled 27% nationally in European elections in 2014 and won almost no council seats because its candidates and ground operation were thin. Reform may replicate that pattern."
+      },
+      {
+        "assumption": "A Labour collapse benefits Reform primarily",
+        "whyItMightBeWrong": "Greens are polling at 15% nationally and are competing with Labour in very different demographics than Reform: young voters, university towns, urban areas. Labour's losses could be split between Reform in working-class post-industrial seats and Greens in cities, with neither gaining enough to govern anything."
+      }
+    ],
+    "realDisagreement": "The fork for Farage is between Reform UK as a permanent protest vote, which wins polls and council seats but never forms government, and Reform UK as a governing force that must choose what it actually does with power. The first requires only opposition rhetoric. The second requires policy. Farage has been living in the first world for 30 years. He's been offered the second before and declined. The Polymarket market showing Reform as the most likely winner of council seats (implied by Labour at 2.5% for most wins) does not tell us which of those worlds Farage is choosing now.",
+    "whatNoOneIsSaying": "Labour's collapse in Wales is the result most likely to have lasting structural consequences. Wales has been a Labour stronghold for nearly a century. If Plaid Cymru or Reform becomes the largest party in the Senedd, it ends an assumption about Welsh politics that has defined British politics for a generation. Scotland broke from Labour over devolution. Wales breaking would confirm that Labour no longer has a geographic safe harbor anywhere in Britain.",
+    "whoPays": [
+      {
+        "who": "Labour MPs in Northern England",
+        "how": "Council election results in their constituencies will define their electoral vulnerability ahead of 2028 general election boundary review. Councillors are the ground operation for general elections. Losing two-thirds of them is not just symbolic.",
+        "when": "The damage compounds through 2027-2028"
+      },
+      {
+        "who": "Public services in Reform-controlled councils",
+        "how": "Reform UK has never run a council. Its policy positions on public spending are ambiguous. Councils with Reform majorities will face real decisions about budget cuts, social services, and housing. The gap between Reform's national rhetoric and local governing capacity will become visible quickly.",
+        "when": "Within 6-12 months of any Reform council majority"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Validation Without Infrastructure",
+        "whatHappens": "Reform wins more council seats than any other party in England. Farage declares vindication. But Reform lacks the councillor network to deliver services or build toward a general election ground game. It dominates polls and underdelivers in governance.",
+        "signal": "Reform wins the most seats nationally but fails to take outright control of any major metropolitan council."
+      },
+      {
+        "name": "Labour Survives Narrowly",
+        "whatHappens": "Labour loses heavily but retains control of enough metropolitan councils to claim the narrative shifted. Starmer survives. The result is described as 'bad but not catastrophic.' The party stabilizes around a reform agenda rather than a leadership change.",
+        "signal": "Labour holds at least two of: Greater Manchester, West Yorkshire, London mayoral authority."
+      },
+      {
+        "name": "Scottish Fracture",
+        "whatHappens": "SNP wins the Scottish Parliament with a majority sufficient to resume independence referendum pressure. Starmer faces simultaneous demands from Scotland and a Reform surge in England. The UK's territorial politics become unmanageable for a single-party Westminster government.",
+        "signal": "SNP wins more than 65 seats in the Scottish Parliament and immediately announces an independence mandate."
+      }
+    ],
+    "whatWouldChange": "If Reform wins outright control of a large English metropolitan council and governs it effectively for 12 months, the organization-without-infrastructure assumption is wrong and the next general election looks different."
+  }
+}

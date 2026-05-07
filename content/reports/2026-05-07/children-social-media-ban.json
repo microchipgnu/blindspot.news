@@ -1,0 +1,98 @@
+{
+  "id": "children-social-media-ban",
+  "date": "2026-05-07",
+  "generatedAt": "2026-05-07T08:05:00Z",
+  "title": "Every Government Is Banning Children from Social Media. None of Them Know If It Works.",
+  "subtitle": "The UK has now passed mandatory social media restrictions for under-16s. Canada, California, and Sri Lanka are following. The policy is running ahead of the evidence.",
+  "topic": "society",
+  "category": "ethics",
+  "tags": ["social media", "children", "UK", "Canada", "California", "age verification", "Meta", "regulation"],
+  "coverImage": {
+    "url": "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/teens-using-smartphones-social-Xavier-Lorenzo-adobe.jpg",
+    "local": "/images/reports/2026-05-07/children-social-media-ban.jpg",
+    "credit": "Computer Weekly / Xavier Lorenzo / Adobe Stock"
+  },
+  "sources": [
+    {
+      "url": "https://iptegrity.com/online-safety/uk-to-have-childrens-social-media-ban-by-summer-2027",
+      "publisher": "IPtegrity",
+      "angle": "UK Children's Wellbeing and Schools Act commits to mandatory under-16 restrictions by July 2027; mechanism undecided but outcome predetermined; VPN question unresolved"
+    },
+    {
+      "url": "https://www.lewissilkin.com/insights/2026/05/06/uk-government-commits-to-introducing-social-media-restrictions-for-children-reg-102mrv7",
+      "publisher": "Lewis Silkin (legal analysis)",
+      "angle": "UK government has pre-committed to action regardless of consultation outcome; likely age-based access restriction with platform liability rather than ISP-level blocking"
+    },
+    {
+      "url": "https://secretlosangeles.com/california-bill-ban-social-media-under-16/",
+      "publisher": "Secret Los Angeles / KTLA",
+      "angle": "California AB 1709 would prohibit platforms from allowing under-16 accounts; places burden entirely on platforms; advances in legislature"
+    },
+    {
+      "url": "https://www.thecanadianwire.com/news/manitoba-pushes-canada-first-ban-on-youth-social-media-and-ai-chatbots",
+      "publisher": "The Canadian Wire",
+      "angle": "Manitoba pushing for Canada-first ban on social media and AI chatbots for youth; federal minister says Ottawa 'has no choice' but to act"
+    },
+    {
+      "url": "https://about.fb.com/news/2026/05/ai-age-assurance-teens/",
+      "publisher": "Meta (official blog)",
+      "angle": "Meta deploying AI-based age detection to automatically place suspected teens in restricted 'Teen Accounts'; framed as voluntary compliance ahead of legislation"
+    }
+  ],
+  "brief": {
+    "actors": ["UK Government", "Meta", "California", "Canada", "EFF"],
+    "whatHappened": "The UK's Children's Wellbeing and Schools Act received Royal Assent in late April 2026, committing the government to social media restrictions for under-16s by July 2027. The specific mechanism remains subject to a consultation closing May 26, but the government has pre-committed to action regardless of the consultation's outcome. California's AB 1709 would prohibit platforms from allowing under-16 accounts entirely. Canada's federal government says it has 'no choice' but to act on teen social media use. Manitoba is pursuing a Canada-first ban covering social media and AI chatbots. Meta responded by announcing AI-powered age detection technology for automatic placement of suspected teens in restricted 'Teen Accounts.' The Electronic Frontier Foundation criticized California's approach as a free speech violation.",
+    "bottomLine": "Governments worldwide are converging on the same solution to a problem they cannot precisely define, using a mechanism they cannot reliably enforce, producing a precedent they will not be able to walk back.",
+    "hiddenBets": [
+      {
+        "assumption": "Age verification is technically feasible at scale",
+        "whyItMightBeWrong": "Australia's under-16 ban, the precedent most countries are citing, relies on platforms self-certifying age without a workable backend verification system. VPNs, shared accounts, and falsified ages remain trivially easy workarounds. The UK law leaves the VPN question explicitly unresolved."
+      },
+      {
+        "assumption": "Banning teens from social media improves their mental health",
+        "whyItMightBeWrong": "The causal evidence linking social media to teen mental health crises is hotly contested among researchers. Some studies show correlations; others find no effect or reverse effects. The policy wave is running well ahead of the evidentiary consensus. Australia has not published credible outcome data from its ban."
+      },
+      {
+        "assumption": "Platform liability is the right enforcement mechanism",
+        "whyItMightBeWrong": "Making platforms liable for underage access without giving them reliable verification tools creates an impossible standard. The result is either platforms becoming overly aggressive in ejecting all ambiguous-age users (adults included), or perfunctory compliance followed by continued access."
+      }
+    ],
+    "realDisagreement": "The genuine fork is between two approaches. The first says the internet is a public space and regulation should focus on specific harmful content and behaviors rather than categorical age exclusion. The EFF and civil liberties groups hold this view; they argue bans create surveillance infrastructure and restrict teen speech in ways that cause their own harms. The second says platforms are deliberately designed to be addictive and that externalities to children justify categorical restrictions regardless of verification difficulty. The political energy is entirely behind the second view right now. The first view is losing not because the evidence is stronger against it, but because 'protect the children' is an almost costless political position. No politician pays for being wrong about a ban that does not work. They pay acutely for opposing one.",
+    "whatNoOneIsSaying": "Meta's AI age detection tool, announced the same week the UK passed its law, is not safety technology. It is a regulatory compliance shield. If Meta can claim it made a 'reasonable effort' to detect underage users, it limits its liability under incoming law. The 'Teen Accounts' product is designed to satisfy regulators, not to stop determined teens.",
+    "whoPays": [
+      {
+        "who": "Teenagers in abusive or unsafe home environments",
+        "how": "For some teens, online communities are the primary source of peer connection and support outside hostile home environments. Age bans cut those connections uniformly, not surgically. The teens with the most to lose from isolation pay the same price as everyone else.",
+        "when": "Immediate, upon ban implementation"
+      },
+      {
+        "who": "Small and independent social platforms",
+        "how": "Compliance infrastructure for age verification costs millions. Large platforms can absorb it. Smaller alternatives, including platforms built specifically for safer teen use, face a compliance burden that advantages the incumbents the bans are supposedly targeting.",
+        "when": "Within 12 months of legislative passage"
+      },
+      {
+        "who": "Privacy of all users",
+        "how": "Any functional age verification system requires collecting and storing more personally identifying information about users. The infrastructure built to verify teen ages becomes available for other identification purposes.",
+        "when": "Medium-term, as systems are built"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Paper Bans",
+        "whatHappens": "Laws pass in UK, California, and Canada. Platforms implement nominal age checks. VPN use among teens increases. Teens migrate to unregulated platforms or use parents' accounts. Measured teen social media usage declines marginally on paper, not in practice.",
+        "signal": "No significant change in teen social media usage metrics 18 months after law implementation."
+      },
+      {
+        "name": "Surveillance Infrastructure",
+        "whatHappens": "Governments, unable to make platform-liability models work, begin requiring ISP-level filtering and national age verification registries. The infrastructure serves multiple identity purposes beyond social media. Privacy norms shift permanently.",
+        "signal": "A government proposes ISP-level blocking or a national digital ID requirement tied to age verification."
+      },
+      {
+        "name": "Court Invalidation",
+        "whatHappens": "California's AB 1709 or the UK restrictions face successful First Amendment or human rights legal challenges. Courts rule that categorical age exclusion from public communication platforms is an impermissible speech restriction.",
+        "signal": "EFF or ACLU files suit immediately after passage; federal district court grants a preliminary injunction."
+      }
+    ],
+    "whatWouldChange": "Peer-reviewed outcome data from Australia's ban showing measurable mental health improvement in under-16s would validate the policy consensus. That data does not yet exist."
+  }
+}

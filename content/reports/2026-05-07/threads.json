@@ -1,0 +1,57 @@
+{
+  "date": "2026-05-07",
+  "threads": [
+    {
+      "id": "executive-authority-without-authorization",
+      "title": "When Executives Act Without Legal Authority",
+      "description": "Three stories today turn on the same structural crack in democratic governance: executives acting beyond their delegated authority, then scrambling to find new legal cover when courts push back. The tariff ruling, the AI oversight reversal, and the Iran peace coercion loop are all cases where the executive branch ran ahead of its statutory authorization and is now rebuilding the scaffolding after the fact.",
+      "type": "tension-cluster",
+      "stories": ["tariff-refund-wave", "trump-ai-fda-oversight", "iran-war-peace-deal"],
+      "connections": [
+        {
+          "from": "tariff-refund-wave",
+          "to": "trump-ai-fda-oversight",
+          "relationship": "The Supreme Court striking down IEEPA tariffs as exceeding executive authority is the same legal logic the AI oversight EO is now trying to thread: find statutory authority for what the administration wants to do, or get Congress to delegate it explicitly."
+        },
+        {
+          "from": "tariff-refund-wave",
+          "to": "iran-war-peace-deal",
+          "relationship": "USTR is now reviewing Section 301 China tariffs to replace the invalidated IEEPA tariffs. The Iran war is itself legally unresolved: Congress has not authorized it and Polymarket puts the odds of a war powers resolution at 5.5%. Both are undeclared executive actions seeking retroactive legitimacy."
+        }
+      ]
+    },
+    {
+      "id": "courts-reshaping-political-power",
+      "title": "Courts Deciding Who Gets to Vote and How Markets Work",
+      "description": "The Callais redistricting ruling and the Apple contempt case both represent courts directly intervening in how political and economic power is distributed, with tight midterm timing in one case and hundreds of billions in market structure in the other. The linking insight is that SCOTUS decisions today are not resolving disputes. They are setting the playing field for the next round of political competition.",
+      "type": "dependency-web",
+      "stories": ["callais-voting-rights-redistricting", "apple-epic-app-store-contempt"],
+      "connections": [
+        {
+          "from": "callais-voting-rights-redistricting",
+          "to": "apple-epic-app-store-contempt",
+          "relationship": "Both cases show the Supreme Court declining to delay proceedings in ways that determine market outcomes before appellate review completes. In Callais, accelerating the ruling affects midterm maps. In Epic, declining the stay sends Apple to district court before a cert petition can be prepared. SCOTUS is actively choosing which contests get decided under which rules."
+        }
+      ]
+    },
+    {
+      "id": "platform-governance-global-regulatory-wave",
+      "title": "Governments Regulating Platforms They Cannot Actually Control",
+      "description": "The children's social media ban wave and the Apple App Store contempt case both expose the same gap: governments and courts are issuing mandates to tech platforms without the technical mechanisms to enforce compliance. The UK cannot prevent teens from using VPNs. The courts could not prevent Apple from charging a commission on the 'alternative' payment system they ordered Apple to allow. Both stories are about the gap between a legal order and the ability to operationalize it.",
+      "type": "tension-cluster",
+      "stories": ["children-social-media-ban", "apple-epic-app-store-contempt", "trump-ai-fda-oversight"],
+      "connections": [
+        {
+          "from": "children-social-media-ban",
+          "to": "apple-epic-app-store-contempt",
+          "relationship": "Both involve governments ordering platforms to change behavior without adequate enforcement mechanisms. Apple implemented the 2021 App Store order in a way designed to comply in form while defying it in substance. Social media bans face the same dynamic: platforms will implement nominal compliance while teens work around it."
+        },
+        {
+          "from": "trump-ai-fda-oversight",
+          "to": "children-social-media-ban",
+          "relationship": "The Trump administration's CAISI agreements are voluntary and unenforceable, mirroring the children's ban problem. Both are governments announcing oversight without building the legal infrastructure to make companies actually comply. The FDA framing is aspirational, not operational."
+        }
+      ]
+    }
+  ]
+}

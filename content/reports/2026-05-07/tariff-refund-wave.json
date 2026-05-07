@@ -1,0 +1,106 @@
+{
+  "id": "tariff-refund-wave",
+  "date": "2026-05-07",
+  "generatedAt": "2026-05-07T08:05:00Z",
+  "title": "The $166 Billion Tariff Refund Is Starting to Pay Out",
+  "subtitle": "After the Supreme Court struck down Trump's Liberation Day tariffs, importers are getting real money back. The mechanics of that repayment expose exactly how much the policy cost.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["tariffs", "trade", "Supreme Court", "importers", "CAPE", "USTR", "China"],
+  "coverImage": {
+    "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6H2LiDShI0Q/v1/1200x800.jpg",
+    "local": "/images/reports/2026-05-07/tariff-refund-wave.jpg",
+    "credit": "Bloomberg / Hannah Beier"
+  },
+  "sources": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-05-06/tariff-refunds-have-started-being-paid-by-trump-administration",
+      "publisher": "Bloomberg",
+      "angle": "First payments hitting importer bank accounts; refunds include interest; more payments scheduled for May 7; process covers $166 billion in invalidated IEEPA tariffs"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/05/06/tariff-refunds-earnings-hit-pandora-philips.html",
+      "publisher": "CNBC",
+      "angle": "Companies like Philips and Pandora rushing to file; total exposure could be $175 billion across 330,000 importers and 53 million entries"
+    },
+    {
+      "url": "https://www.freightwaves.com/news/billions-in-tariff-refunds-begin-flowing-as-cape-portal-launches",
+      "publisher": "FreightWaves",
+      "angle": "The CAPE portal is working better than expected; Phase 1 targets unliquidated entries; several million entries already rejected"
+    },
+    {
+      "url": "https://finance.yahoo.com/economy/policy/articles/us-tariff-refund-process-running-143200073.html",
+      "publisher": "Reuters / Yahoo Finance",
+      "angle": "Freight forwarder Kuehne und Nagel says process 'smoother than expected'; companies need data formatting help to submit claims"
+    },
+    {
+      "url": "https://www.supplychaindive.com/news/ustr-to-review-china-tariffs-as-section-301-takes-center-stage/819497/",
+      "publisher": "Supply Chain Dive",
+      "angle": "USTR now reviewing separate Section 301 China tariffs, which were not struck down; administration exploring what tariff authority it retains after SCOTUS ruling"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "SCOTUS", "USTR", "Customs and Border Protection", "Philips", "Pandora"],
+    "whatHappened": "The Trump administration began paying out refunds on the $166 billion in 'Liberation Day' tariffs the Supreme Court struck down in February 2026 as exceeding presidential authority under the International Emergency Economic Powers Act. The CBP's new CAPE portal went live on April 20; trade lawyers confirmed on May 6 that some clients had received payments. One attorney said refunds include interest. The refund process covers more than 330,000 importers and potentially 53 million entries, with some entries already being rejected. Simultaneously, the USTR is reviewing whether the separate Section 301 China tariffs, which were not struck down, can be expanded to fill the gap.",
+    "bottomLine": "The US government collected $166 billion in tariffs a court later said it had no authority to impose. Getting that money back is framed as bureaucratic progress. The more important question is who will not get their money back, and what the administration does with the trade authority it actually has.",
+    "hiddenBets": [
+      {
+        "assumption": "Most importers will successfully claim refunds",
+        "whyItMightBeWrong": "The CAPE portal already rejected 'several million entries' in Phase 1. The refund process requires data formatting and legal help that large importers can access and small ones cannot. The actual recovery rate for small and mid-sized importers may be far below 100%."
+      },
+      {
+        "assumption": "The Section 301 China tariffs that survived SCOTUS are a lesser substitute",
+        "whyItMightBeWrong": "Section 301 tariffs are narrower in scope but politically simpler to defend. The USTR is now running public hearings on expanding them. A focused set of China-specific tariffs may produce more durable trade pressure than the broad IEEPA approach the court rejected."
+      },
+      {
+        "assumption": "Paying out refunds signals the administration is complying with the ruling",
+        "whyItMightBeWrong": "97.75% Polymarket probability that the court forces refunds suggests the market never doubted compliance. The real action is in whether the administration finds a new legal vehicle for equivalent tariff levels. USTR's Section 301 review is that vehicle."
+      }
+    ],
+    "realDisagreement": "The fork is whether this ruling ends the era of executive-branch tariff maximalism or just forces a tactical shift in its legal architecture. The SCOTUS ruling said the president cannot use national emergency declarations to impose indefinite broad tariffs without congressional authorization. It did not say tariffs are impermissible. The question is whether Congress will grant explicit tariff authority and on what terms. Republicans who wanted the tariff revenues but are wary of the political cost of codifying them face a genuine choice. Giving Trump permanent statutory tariff authority creates a durable tool; refusing locks him into the administrative patchwork of Section 301. The Polymarket probability of 97.75% that refunds happen is not informative about this question; both scenarios involve paying the refunds.",
+    "whatNoOneIsSaying": "The $175 billion refund liability is denominated in dollars, but the actual cost is borne by the companies that passed tariff costs to consumers before the ruling. Those consumers do not get refunds. The corporate cash flow improves. Retail prices may not move.",
+    "whoPays": [
+      {
+        "who": "Small and mid-sized importers without customs brokerage support",
+        "how": "The CAPE portal requires precise data formatting and knowledge of entry numbers. Companies without freight forwarder support or in-house customs expertise face a higher rejection rate and may simply not recover their money.",
+        "when": "Over the next 90 days as phases 2 and 3 of the portal roll out"
+      },
+      {
+        "who": "US consumers",
+        "how": "Tariff costs were passed through to retail prices. Refunds to importers do not flow back to consumers. The inflationary impact of 12 months of Liberation Day tariffs remains embedded in price levels.",
+        "when": "Already realized; no reversal mechanism exists"
+      },
+      {
+        "who": "US Treasury",
+        "how": "Paying $166 billion plus interest out of a fiscal position already under strain from the Iran war costs and Fed rate uncertainty. This is not a rounding error.",
+        "when": "Cash outflows ongoing through mid-2026"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Section 301 Expansion",
+        "whatHappens": "USTR expands Section 301 China tariffs to roughly equivalent coverage as the invalidated IEEPA tariffs. Statutory authority holds. The trade war continues under a different legal label.",
+        "signal": "USTR issues a preliminary determination expanding Section 301 scope. Watch for public hearing results from the current review."
+      },
+      {
+        "name": "Congressional Delegation",
+        "whatHappens": "Congress passes a statute delegating explicit tariff authority to the president. This creates a permanent tool but requires Republican unity and attracts WTO challenge.",
+        "signal": "A House Ways and Means Committee markup of a tariff delegation bill."
+      },
+      {
+        "name": "Reimbursement Chaos",
+        "whatHappens": "A large share of small importer claims are rejected; class action lawsuits challenge the CAPE process. Refunds drag into 2027. Supply chain uncertainty persists.",
+        "signal": "Rejection rate in Phase 1 published above 30%. Legal challenges filed against CBP processing procedures."
+      }
+    ],
+    "whatWouldChange": "If USTR's Section 301 review produces an expansion order of comparable scope to Liberation Day, the administration's trade position is not materially weakened by the SCOTUS ruling. The refunds become a one-time cost rather than a permanent constraint.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Court Force Trump to Refund Tariffs?",
+        "url": "https://polymarket.com/event/will-the-court-force-trump-to-refund-tariffs-2026-06-30",
+        "probability": 0.9775
+      }
+    ]
+  }
+}

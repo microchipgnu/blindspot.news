@@ -1,0 +1,83 @@
+{
+  "id": "apple-epic-app-store-contempt",
+  "date": "2026-05-07",
+  "generatedAt": "2026-05-07T08:05:00Z",
+  "title": "SCOTUS Lets Apple's Contempt Finding Stand. Now a Judge Gets to Set the Rules.",
+  "subtitle": "After five years of litigation, Epic Games wins a procedural victory that sends Apple back to district court to face the one question Apple has been fighting to avoid: how much can it charge?",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["Apple", "Epic Games", "App Store", "antitrust", "SCOTUS", "contempt", "Kagan"],
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/05/06/supreme-court-declines-to-pause-order-holding-apple-in-contempt-in-epic-games-lawsuit.html",
+      "publisher": "CNBC",
+      "angle": "Kagan declines to pause contempt order on behalf of full court; Apple had sought delay to prepare full certiorari petition; case now remanded to district court"
+    },
+    {
+      "url": "https://9to5mac.com/2026/05/06/supreme-court-rejects-apples-stay-request-epic-games-case-to-head-back-to-district-court/",
+      "publisher": "9to5Mac",
+      "angle": "Apple charged 27% commission on off-App Store purchases in violation of 2021 injunction; contempt stems from charging for something the court did not authorize"
+    },
+    {
+      "url": "https://www.iclarified.com/100784/supreme-court-rejects-apples-bid-to-pause-app-store-contempt-ruling",
+      "publisher": "iClarified",
+      "angle": "Case returns to Judge Gonzalez Rogers in Oakland to determine what commission Apple may charge; the core question from 2021 finally gets a concrete answer"
+    },
+    {
+      "url": "https://www.theverge.com/tech/925457/the-supreme-court-denies-apples-latest-request",
+      "publisher": "The Verge",
+      "angle": "Epic publicly pleased; case sends antitrust fight into detailed remedies phase that could define app store economics industry-wide"
+    }
+  ],
+  "brief": {
+    "actors": ["Apple", "Epic Games", "SCOTUS", "Kagan", "Judge Gonzalez Rogers"],
+    "whatHappened": "Justice Elena Kagan, acting on behalf of the full Supreme Court, on May 6 declined to pause a Ninth Circuit ruling holding Apple in civil contempt of a 2021 court order about its App Store. The contempt arose because Apple, after the 2021 injunction requiring it to allow links to external payment systems, implemented a 27% commission on those external purchases. The court had not authorized any commission. Apple sought the stay to delay the case's return to federal district court in Oakland while it prepared a full Supreme Court appeal. Kagan's denial sends the case back to Judge Yvonne Gonzalez Rogers, who will now determine what commission, if any, Apple is permitted to charge on off-App Store transactions.",
+    "bottomLine": "Apple spent five years and tens of millions in legal fees fighting to avoid a single answer: what is the actual number? Now it has to give one.",
+    "hiddenBets": [
+      {
+        "assumption": "This case is about Apple versus Epic",
+        "whyItMightBeWrong": "What Judge Gonzalez Rogers decides about Apple's permissible commission rate becomes the template for every app store antitrust case globally. The EU is watching. South Korea, Japan, and India have related proceedings. Apple's commission structure for third-party payments is a global question with hundreds of billions in developer revenue at stake."
+      },
+      {
+        "assumption": "Apple will lose on commission rate if it goes to Judge Gonzalez Rogers",
+        "whyItMightBeWrong": "The district court will hear evidence about Apple's costs, the value of App Store distribution, and security overhead. Apple will argue for a rate that is lower than 30% but still material. The outcome is not predetermined. Apple could secure a 10-15% rate that Epic finds unacceptable but that developers and the market accept as a reasonable outcome."
+      },
+      {
+        "assumption": "The contempt ruling is the end of Apple's options",
+        "whyItMightBeWrong": "Apple explicitly reserved its right to file a full cert petition to the Supreme Court after the district court proceedings conclude. The contempt finding and the commission question are separate appeals. This case has years of litigation remaining."
+      }
+    ],
+    "realDisagreement": "The fork is about what an app store is. Apple argues it is a curated, secured, and trusted distribution platform, and that the 30% commission compensates for the security infrastructure, brand trust, and distribution reach it provides. Epic argues an app store on a device you own is closer to a mandatory toll on your ability to use software, with no competitive alternative on iOS. If Apple wins the frame, any reasonable commission is justified. If Epic wins the frame, nearly any commission is a form of coercion. Judge Gonzalez Rogers has consistently signaled skepticism toward Apple's framing, which is why Apple has been fighting to keep this case away from her specific authority.",
+    "whatNoOneIsSaying": "Apple agreed to allow external payment links in 2021. It then charged 27% to use them, making the 'alternative' more expensive than the original for most developers. The contempt finding is not about a technical violation. It is about Apple implementing compliance that was designed to be non-compliance. The court recognized this.",
+    "whoPays": [
+      {
+        "who": "App developers, particularly small and mid-sized developers",
+        "how": "If the district court sets a lower commission rate, Apple will likely offset lost commission revenue through other fee structures: developer fees, search advertising requirements, quality review costs. The headline commission may fall while total developer costs remain high.",
+        "when": "Over the 12-24 months of district court proceedings and any resulting order"
+      },
+      {
+        "who": "Apple shareholders",
+        "how": "Apple's services revenue, which includes App Store commissions, contributes approximately 25% of gross margin. A forced commission reduction even to 15% would materially reduce services growth. The market has been treating this as manageable; if Judge Gonzalez Rogers sets a hard number below 20%, the reassessment could be abrupt.",
+        "when": "Upon district court order, potentially late 2026 or 2027"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Hard Cap",
+        "whatHappens": "Judge Gonzalez Rogers rules Apple may charge no more than a specified rate (likely 10-15%) on off-App Store transactions. Apple appeals. Industry immediately reprices developer agreements globally based on anticipated litigation outcome.",
+        "signal": "Apple files a notice of appeal within 30 days of district court order. Stock reacts on announcement."
+      },
+      {
+        "name": "Settlement",
+        "whatHappens": "Facing an uncertain outcome at district court, Apple negotiates a settlement with Epic that includes a specific rate, possibly with a separate arrangement for Epic's Fortnite. The case ends without a binding precedent for other developers.",
+        "signal": "Epic and Apple file a joint motion to stay proceedings pending settlement discussions."
+      },
+      {
+        "name": "Narrow Ruling",
+        "whatHappens": "Judge Gonzalez Rogers rules on the specific commission question in a way that applies only to the categories at issue in the original injunction, not to the full App Store economics. Apple retains its 30% for standard in-app purchases.",
+        "signal": "The district court order explicitly limits its scope to the payment link compliance question from the 2021 injunction."
+      }
+    ],
+    "whatWouldChange": "If the Supreme Court grants certiorari on the core antitrust question before the district court finishes its work, the case returns to a forum where Apple has a better chance. Kagan's denial was a procedural ruling, not a statement on the merits."
+  }
+}

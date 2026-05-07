@@ -1,0 +1,101 @@
+{
+  "id": "trump-ai-fda-oversight",
+  "date": "2026-05-07",
+  "generatedAt": "2026-05-07T08:05:00Z",
+  "title": "Trump's AI Team Is Rebuilding Everything It Burned Down",
+  "subtitle": "After dismantling Biden's AI safety framework, the White House is now building a near-identical system with a different label and a political score to settle.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["AI", "Trump", "CAISI", "Anthropic", "regulation", "executive order", "safety"],
+  "coverImage": {
+    "url": "https://www.computerworld.com/wp-content/uploads/2026/05/4168137-0-47564000-1778122248-shutterstock_201256211-100963008-orig.jpg",
+    "local": "/images/reports/2026-05-07/trump-ai-fda-oversight.jpg",
+    "credit": "Computerworld / Shutterstock"
+  },
+  "sources": [
+    {
+      "url": "https://fortune.com/2026/05/06/trump-administration-embraces-ai-oversight-policies-it-once-rejected-anthropic-mythos-caisi/",
+      "publisher": "Fortune",
+      "angle": "Trump AI team is adopting Biden-era policies it publicly criticized; the pivot appears driven by Anthropic's Claude Mythos release triggering real safety concerns"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/05/05/ai-oversight-trump-google-microsoft-xai.html",
+      "publisher": "CNBC",
+      "angle": "CAISI signed pre-deployment evaluation agreements with Google DeepMind, Microsoft, and xAI; framed as national security imperative"
+    },
+    {
+      "url": "https://www.computerworld.com/article/4168137/us-government-agency-to-safety-test-frontier-ai-models-before-release-3.html",
+      "publisher": "Computerworld",
+      "angle": "White House considering executive order for FDA-like AI model review process; CAISI as the vetting body; Anthropic's Mythos release as the catalyst"
+    },
+    {
+      "url": "https://www.techdirt.com/2026/05/05/trumps-ai-oversight-plan-is-everything-vcs-claimed-to-hate-about-bidens-plan-only-worse/",
+      "publisher": "Techdirt",
+      "angle": "Trump's plan replicates Biden's but is less well-designed; VCs who celebrated Biden's rollback now silent; the political theater of deregulation revealed as posturing"
+    },
+    {
+      "url": "https://gizmodo.com/trumps-potential-new-ai-executive-order-may-take-a-swipe-at-anthropic-2000754883",
+      "publisher": "Gizmodo",
+      "angle": "Potential executive order could target Anthropic specifically; the 'AI working group' framing as political cover for picking winners"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "CAISI", "Anthropic", "OpenAI", "Google", "Microsoft", "xAI"],
+    "whatHappened": "The Center for AI Standards and Innovation (CAISI), the US Commerce Department's AI safety division, announced pre-deployment evaluation agreements with Google DeepMind, Microsoft, and xAI on May 5. These extend similar 2024 agreements with OpenAI and Anthropic. Simultaneously, the White House's chief economic advisor signaled the administration is considering an executive order to establish FDA-like government review of frontier AI models before release. The pivot follows the partial release of Anthropic's Claude Mythos model, which multiple sources indicate triggered genuine concern inside the administration about AI safety risks. This directly contradicts the administration's early rhetoric, which framed Biden's AI safety executive order as overreach and government overreach to be dismantled.",
+    "bottomLine": "The Trump administration spent 18 months tearing down Biden's AI oversight architecture, then rebuilt a worse version of the same thing once a powerful model scared them. The VCs who cheered the rollback got what they wanted and are now watching the same gate go back up.",
+    "hiddenBets": [
+      {
+        "assumption": "CAISI evaluations are technically meaningful safety checks",
+        "whyItMightBeWrong": "CAISI has no statutory enforcement power. Its agreements are voluntary. Google, Microsoft, and xAI can submit models for evaluation and then release them anyway. The FDA comparison is misleading: the FDA can block a drug. CAISI cannot block a model."
+      },
+      {
+        "assumption": "The executive order will be politically neutral",
+        "whyItMightBeWrong": "Gizmodo reports the order may specifically target Anthropic. If a formal review process is designed partly to slow a competitor of administration-aligned companies, it functions as anticompetitive industrial policy dressed as safety regulation."
+      },
+      {
+        "assumption": "The policy reversal reflects a genuine change in understanding of AI risk",
+        "whyItMightBeWrong": "The administration's allies in Silicon Valley spent 18 months claiming Biden's safety framework was scientifically unfounded. If the science was wrong then, either it is still wrong, or the reversal is driven by a specific incident rather than a systemic update. Mythos's capabilities appear to be the actual forcing function."
+      }
+    ],
+    "realDisagreement": "The genuine fork is whether mandatory pre-deployment testing makes AI safer or just advantages incumbents. If testing is rigorous enough to catch dangerous capabilities, it almost certainly slows release cycles enough to be a real barrier to entry. Companies already in the CAISI system (OpenAI, Anthropic, Google, Microsoft, xAI) get a process advantage: they can shape the evaluation criteria. New entrants and open-source developers get a compliance burden. The safety case and the anticompetitive case point in opposite directions, and the administration cannot serve both simultaneously. The 20% Polymarket probability on a federal review order by May 31 suggests the market thinks the executive order may not actually materialize.",
+    "whatNoOneIsSaying": "The Anthropic Mythos incident is the real story that the administration does not want to describe in detail. A safety concern serious enough to flip the White House's entire AI policy posture in 90 days is almost certainly documented in CAISI's internal evaluations. Those evaluations are not public.",
+    "whoPays": [
+      {
+        "who": "Open-source AI developers and smaller AI companies",
+        "how": "If pre-deployment federal evaluation becomes mandatory, it requires legal, compliance, and engineering resources that established companies can absorb but startups cannot. The practical effect is a moat around the existing frontier labs.",
+        "when": "Within 12 months of any executive order taking effect"
+      },
+      {
+        "who": "EU AI Act compliance teams",
+        "how": "A US FDA-style review process creates a second incompatible global standard. Companies building for both markets face doubled compliance costs and potentially conflicting requirements about what to disclose and when.",
+        "when": "Medium-term, as both frameworks mature"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Regulatory Capture",
+        "whatHappens": "The executive order creates an AI review board co-designed by the companies already in the CAISI system. The result is a process calibrated to their models. New entrants are effectively blocked from the top of the market.",
+        "signal": "Watch who gets appointed to the working group. If it is dominated by OpenAI, Anthropic, Google, and Microsoft personnel, this path is confirmed."
+      },
+      {
+        "name": "Symbolic Framework",
+        "whatHappens": "The executive order is issued, CAISI expands, but the review remains voluntary and advisory. No model is blocked. The administration claims credit for 'responsible AI leadership.' Nothing changes in practice.",
+        "signal": "If the order uses 'encourage' and 'collaborate' rather than 'require' and 'prohibit,' this is the outcome."
+      },
+      {
+        "name": "Real Gate",
+        "whatHappens": "The executive order creates a mandatory review with genuine blocking power. Release of frontier models requires government clearance. Development timelines extend by 6-12 months. US AI companies slow; Chinese equivalents do not.",
+        "signal": "Statutory authority cited in the order. Legal challenge filed within 30 days by an AI company or industry group."
+      }
+    ],
+    "whatWouldChange": "If the actual Mythos evaluation results are published and show genuinely novel dangerous capabilities, the administration's reversal looks principled rather than political. That document does not exist in the public record.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Trump orders federal review of AI model releases by May 31?",
+        "url": "https://polymarket.com/event/trump-orders-federal-review-for-ai-model-releases-by-may-31",
+        "probability": 0.2
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2026-05-07",
+  "generatedAt": "2026-05-07T08:05:00Z",
+  "reports": [
+    {
+      "id": "iran-war-peace-deal",
+      "title": "Trump Threatens More Bombs While Claiming Peace Progress on Iran",
+      "subtitle": "Sixty-eight days into a US war with Iran, both sides are inching toward a one-page memorandum while the president simultaneously threatens to escalate.",
+      "category": "conflict",
+      "topic": "geopolitics"
+    },
+    {
+      "id": "trump-ai-fda-oversight",
+      "title": "Trump's AI Team Is Rebuilding Everything It Burned Down",
+      "subtitle": "After dismantling Biden's AI safety framework, the White House is now building a near-identical system with a different label and a political score to settle.",
+      "category": "power",
+      "topic": "tech"
+    },
+    {
+      "id": "tariff-refund-wave",
+      "title": "The $166 Billion Tariff Refund Is Starting to Pay Out",
+      "subtitle": "After the Supreme Court struck down Trump's Liberation Day tariffs, importers are getting real money back. The mechanics of that repayment expose exactly how much the policy cost.",
+      "category": "power",
+      "topic": "economy"
+    },
+    {
+      "id": "callais-voting-rights-redistricting",
+      "title": "SCOTUS Just Handed Republicans a Redistricting Weapon Before the Midterms",
+      "subtitle": "The Supreme Court's 6-3 ruling in Louisiana v. Callais dismantled majority-Black congressional districts. States are now scrambling to redraw maps before this year's elections.",
+      "category": "power",
+      "topic": "politics"
+    },
+    {
+      "id": "children-social-media-ban",
+      "title": "Every Government Is Banning Children from Social Media. None of Them Know If It Works.",
+      "subtitle": "The UK has now passed mandatory social media restrictions for under-16s. Canada, California, and Sri Lanka are following. The policy is running ahead of the evidence.",
+      "category": "ethics",
+      "topic": "society"
+    },
+    {
+      "id": "apple-epic-app-store-contempt",
+      "title": "SCOTUS Lets Apple's Contempt Finding Stand. Now a Judge Gets to Set the Rules.",
+      "subtitle": "After five years of litigation, Epic Games wins a procedural victory that sends Apple back to district court to face the one question Apple has been fighting to avoid: how much can it charge?",
+      "category": "power",
+      "topic": "tech"
+    },
+    {
+      "id": "uk-elections-2026-reform-labour",
+      "title": "UK Goes to the Polls Today. Labour Is Bracing for Its Worst Night in a Generation.",
+      "subtitle": "Voting is underway across England, Scotland, and Wales. Reform UK leads national polls at 25%. What today's results mean depends on whether Farage can convert council seats into something durable.",
+      "category": "power",
+      "topic": "politics"
+    }
+  ]
+}
