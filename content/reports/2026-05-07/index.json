@@ -1,6 +1,6 @@
 {
   "date": "2026-05-07",
-  "generatedAt": "2026-05-07T08:05:00Z",
+  "generatedAt": "2026-05-07T11:30:00Z",
   "reports": [
     {
       "id": "iran-war-peace-deal",
@@ -50,6 +50,41 @@
       "subtitle": "Voting is underway across England, Scotland, and Wales. Reform UK leads national polls at 25%. What today's results mean depends on whether Farage can convert council seats into something durable.",
       "category": "power",
       "topic": "politics"
+    },
+    {
+      "id": "eu-ai-act-omnibus",
+      "title": "Europe Just Blinked on AI Regulation",
+      "subtitle": "The EU's landmark AI Act has been watered down, delayed, and rebranded as a competitiveness measure. The question is whether that was the plan all along.",
+      "category": "power",
+      "topic": "tech"
+    },
+    {
+      "id": "trump-xi-beijing-summit",
+      "title": "Trump Goes to Beijing. China Holds the Iran Card.",
+      "subtitle": "The first US presidential visit to China in eight years arrives after two months of war in Iran, with Beijing in a position it has rarely occupied: indispensable to both sides.",
+      "category": "conflict",
+      "topic": "geopolitics"
+    },
+    {
+      "id": "fed-iran-inflation-trap",
+      "title": "Trump Started a War That Is Preventing the Rate Cuts He Wants",
+      "subtitle": "The Iran war has created an oil-driven inflation shock that is pushing the Federal Reserve toward rate hikes, the opposite of everything Trump has demanded for two years.",
+      "category": "power",
+      "topic": "economy"
+    },
+    {
+      "id": "save-america-act-filibuster",
+      "title": "Trump Wants the Filibuster Dead. His Own Senate Won't Do It.",
+      "subtitle": "The SAVE America Act is stalled in the Senate not because of Democrats but because Republican senators refuse to eliminate the filibuster to pass it. Trump is furious. Thune is unmoved.",
+      "category": "power",
+      "topic": "politics"
+    },
+    {
+      "id": "republican-abortion-ban-disguise",
+      "title": "Republicans Just Introduced a National Abortion Ban Labeled Something Else",
+      "subtitle": "Rep. Kat Cammack's Dismemberment Abortion Ban Act criminalizes the most common second-trimester procedure. Call it what it is: a national 12-week ban written to sound procedural.",
+      "category": "ethics",
+      "topic": "society"
     }
   ]
 }

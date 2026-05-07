@@ -52,6 +52,49 @@
           "relationship": "The Trump administration's CAISI agreements are voluntary and unenforceable, mirroring the children's ban problem. Both are governments announcing oversight without building the legal infrastructure to make companies actually comply. The FDA framing is aspirational, not operational."
         }
       ]
+    },
+    {
+      "id": "iran-war-as-master-variable",
+      "title": "One War, Four Crises",
+      "description": "The US-Iran war is not a foreign policy story that sits alongside the economic and political stories. It is the cause running through all of them. The war created the oil shock that is preventing Fed rate cuts Trump wants. It is the reason Trump needs China badly enough to visit Beijing. It is the reason tariff leverage over China collapsed, because the tariff refunds weakened Washington's hand before the summit. The war is the load-bearing variable underneath stories that appear to be about monetary policy, trade, and diplomacy separately.",
+      "type": "cause-effect",
+      "stories": ["iran-war-peace-deal", "fed-iran-inflation-trap", "trump-xi-beijing-summit", "tariff-refund-wave"],
+      "connections": [
+        {
+          "from": "iran-war-peace-deal",
+          "to": "fed-iran-inflation-trap",
+          "relationship": "The war's oil price shock drove US inflation to 3.5% PCE, pushing bond markets to price a 50% probability of a rate hike, the opposite of what Trump demanded when he started the war."
+        },
+        {
+          "from": "iran-war-peace-deal",
+          "to": "trump-xi-beijing-summit",
+          "relationship": "China has leveraged Iran's dependence on Beijing into a pre-summit bargaining position: it controls Iran's incentive to negotiate, giving Xi a card Trump does not have and forcing the US president to travel to Beijing rather than the reverse."
+        },
+        {
+          "from": "tariff-refund-wave",
+          "to": "trump-xi-beijing-summit",
+          "relationship": "The Supreme Court's invalidation of IEEPA tariffs stripped Washington of its most flexible trade-pressure tool just before the Beijing summit, narrowing the concessions Trump can offer or threaten in exchange for Chinese cooperation on Iran."
+        }
+      ]
+    },
+    {
+      "id": "mislabeling-as-governance-strategy",
+      "title": "The Political Art of Calling It Something Else",
+      "description": "Four stories today involve actors pursuing a contested objective while publicly describing it as something else entirely. The EU calls regulatory retreat 'simplification.' Republicans call a 12-week abortion ban a 'procedure ban.' The SAVE America Act frames vote suppression as 'election integrity.' Trump's AI safety rebuild labels regulatory reversal 'streamlining.' The pattern is not coincidence: when a policy cannot survive public scrutiny under its real description, you rename it. The briefs read together suggest this is the dominant political technology of 2026.",
+      "type": "tension-cluster",
+      "stories": ["eu-ai-act-omnibus", "republican-abortion-ban-disguise", "save-america-act-filibuster", "trump-ai-fda-oversight"],
+      "connections": [
+        {
+          "from": "eu-ai-act-omnibus",
+          "to": "trump-ai-fda-oversight",
+          "relationship": "Both are AI regulatory retreats publicly branded as improvements. The EU calls weakening the AI Act 'simplification for competitiveness.' The Trump administration calls dismantling Biden's AI safety framework and rebuilding it under new labels 'streamlined oversight.' Both produce less binding constraint on AI developers, both are described as progress."
+        },
+        {
+          "from": "republican-abortion-ban-disguise",
+          "to": "save-america-act-filibuster",
+          "relationship": "Both bills operate through definitional sleight of hand: one bans a procedure to achieve a ban on abortion, the other enforces documentation requirements to achieve voter roll reduction. Both are designed to allow sponsors to deny they did what they did."
+        }
+      ]
     }
   ]
 }

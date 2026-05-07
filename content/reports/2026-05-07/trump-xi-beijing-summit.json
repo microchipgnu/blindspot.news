@@ -1,0 +1,112 @@
+{
+  "id": "trump-xi-beijing-summit",
+  "date": "2026-05-07",
+  "generatedAt": "2026-05-07T11:30:00Z",
+  "title": "Trump Goes to Beijing. China Holds the Iran Card.",
+  "subtitle": "The first US presidential visit to China in eight years arrives after two months of war in Iran, with Beijing in a position it has rarely occupied: indispensable to both sides.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["Trump", "Xi", "China", "Iran", "trade war", "Strait of Hormuz", "diplomacy"],
+  "coverImage": {
+    "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260506-araghchi-wang-yi-rs-4dd001.jpg",
+    "local": "/images/reports/2026-05-07/trump-xi-beijing-summit.jpg",
+    "credit": "NBC News / Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/05/06/china-iran-araghchi-wang-yi-trump-beijing-hormuz-talks.html",
+      "publisher": "CNBC",
+      "angle": "China pressed Iran's foreign minister Araghchi to pursue diplomacy and reopen the Strait of Hormuz, positioning Beijing as a mediator just before Trump arrives."
+    },
+    {
+      "url": "https://foreignpolicy.com/2026/05/06/china-us-sanctions-ban-trump-xi-iran-war-oil-trade/",
+      "publisher": "Foreign Policy",
+      "angle": "China has formally banned compliance with US sanctions, deploying a rare tool from its economic arsenal as a pre-summit bargaining chip."
+    },
+    {
+      "url": "https://www.washingtonpost.com/national-security/2026/05/07/trump-xi-us-china-summit-iran/",
+      "publisher": "Washington Post",
+      "angle": "The two-month postponement of the summit did little to strengthen Washington's hand; Trump arrives with Iran unresolved and China's leverage intact."
+    },
+    {
+      "url": "https://www.nbcnews.com/world/iran/iran-foreign-minister-meets-chinese-counterpart-week-trumps-beijing-tr-rcna343809",
+      "publisher": "NBC News",
+      "angle": "Iran's foreign minister visit to Beijing just before the summit is deliberate signaling: Tehran and Beijing are coordinating positions before Trump arrives."
+    },
+    {
+      "url": "https://uk.news.yahoo.com/factbox-whats-stake-trump-xi-084536259.html",
+      "publisher": "Reuters",
+      "angle": "Factual breakdown of the summit agenda: trade, Taiwan, Iran, and chip sanctions. Notes that company executives expect little concrete progress on trade."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Xi", "China", "Iran", "Pakistan"],
+    "whatHappened": "US President Donald Trump is scheduled to visit Beijing next week for his first trip to China in eight years, meeting President Xi Jinping amid a relationship strained by the US-led war with Iran, tariff disputes, and tensions over Taiwan. Days before the summit, Iranian Foreign Minister Abbas Araghchi traveled to Beijing for talks with Chinese Foreign Minister Wang Yi, the first such visit since the outbreak of the Iran war in February. China simultaneously issued a formal ban on compliance with US sanctions, deploying a rarely-used legal instrument. Polymarket has a 39% probability of a permanent US-Iran peace deal by May 31, and 53% by June 30.",
+    "bottomLine": "Trump needs China to pressure Iran into a deal. China knows this, has spent the last ten weeks building leverage through the war, and will extract a price for any cooperation. The summit is not about friendship, it is about what Beijing can get for what Washington needs.",
+    "hiddenBets": [
+      {
+        "assumption": "China wants the Iran war to end as quickly as possible because the Strait of Hormuz closure hurts Chinese oil imports.",
+        "whyItMightBeWrong": "A prolonged, managed conflict with the Strait partially closed has unique benefits for Beijing: it ties down US military resources, strains the US-Saudi relationship, elevates China's mediator status, and forces Washington to come to Beijing hat in hand. China vetoed the UN Security Council resolution in April that would have reopened the Strait. That is not the behavior of a party desperate for the war to end."
+      },
+      {
+        "assumption": "Trump's visit to Beijing signals a willingness to make concessions on trade to get China's help on Iran.",
+        "whyItMightBeWrong": "The Trump administration has simultaneously escalated chip sanctions and tariff enforcement in the weeks before the trip. A visit can be a negotiation opener or a pressure tactic. The concurrent sanctions escalation suggests Washington is trying to improve its hand before the meeting, not offer concessions in advance."
+      },
+      {
+        "assumption": "The Araghchi-Wang Yi meeting is evidence China is pushing Iran toward a deal.",
+        "whyItMightBeWrong": "China pressing Iran to stop the war is publicly visible. What is not visible is what China offered Iran in the same meeting. Beijing mediating a ceasefire while providing Tehran with diplomatic cover, economic support, and potentially military intelligence is a coherent strategy. The press conference content and the back-channel content are different things."
+      }
+    ],
+    "realDisagreement": "The genuine fork is this: either China is a reluctant participant in the Iran crisis that genuinely prefers stability and wants to help end the war, or China has spent ten weeks maximizing its strategic position from the conflict and the summit is the moment it cashes in. These two readings produce completely different negotiating strategies for Washington. If the first is true, Trump should offer trade concessions to give Xi political cover for pressuring Iran. If the second is true, trade concessions will be pocketed and China will offer just enough Iran pressure to secure them without actually changing Tehran's calculus. The weight of observable evidence, particularly the April UN veto and the pre-summit sanctions ban, points toward the second reading. But Washington has to negotiate as if the first is at least partially true, because the alternative is no summit at all.",
+    "whatNoOneIsSaying": "Pakistan has been in the middle of every major Iran-US communication channel for two months. Polymarket gives a 64% probability that the next US-Iran diplomatic meeting happens in Pakistan. If the Trump-Xi summit produces any Iran framework, Pakistan will be the one carrying it. Islamabad's leverage over both sides, its debt to Beijing, and its historically ambiguous relationship with Washington mean that the actual peace architecture, if one emerges, will be Pakistani-built and Chinese-financed. The US will call it a win regardless.",
+    "whoPays": [
+      {
+        "who": "Shipping companies and global supply chains dependent on Hormuz",
+        "how": "Each week of summit posturing without a concrete Hormuz reopening timeline extends the insurance premium spike, route diversions around the Cape of Good Hope, and oil price elevation above $100 per barrel.",
+        "when": "Ongoing until a deal is verified"
+      },
+      {
+        "who": "Taiwan",
+        "how": "Any US-China deal that provides China relief on chip sanctions or tariffs in exchange for Iran pressure creates a new precedent: Taiwan-related security concerns are tradeable against other US priorities. The precedent is the harm, not any immediate policy change.",
+        "when": "Medium-term, any deal made in Beijing"
+      },
+      {
+        "who": "US semiconductor industry",
+        "how": "If chip sanction easing is part of a deal, the companies that built supply chains and export controls around the current regime face disruption. If no deal is made, the status quo uncertainty continues.",
+        "when": "Post-summit, within 90 days"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Framework deal, partial Hormuz opening",
+        "whatHappens": "Trump and Xi announce a \"memorandum of understanding\" on Iran that includes a Chinese commitment to press Tehran for partial Strait reopening in exchange for a 90-day pause on new chip sanctions. Markets rally. Neither side fully delivers.",
+        "signal": "Watch for a joint statement that uses the words 'framework' or 'roadmap' without a specific date for Hormuz reopening."
+      },
+      {
+        "name": "Summit theater, no substance",
+        "whatHappens": "Both leaders declare the meeting productive, trade teams agree to resume talks, and nothing changes on Iran or trade. The war continues, oil stays above $100, and the next administration inherits the same problem.",
+        "signal": "Watch for absence of any specific deliverable in the joint readout, and for Trump posting 'great meeting' without naming a single agreed item."
+      },
+      {
+        "name": "Summit collapses over Taiwan or SMIC",
+        "whatHappens": "New intelligence about Chinese chip exports to Iran, or a Taiwan-related incident in the weeks before the visit, forces Trump to cancel or downgrade the meeting. China retaliates by formally ending Iran-related diplomatic cooperation.",
+        "signal": "Watch for any US government statement mentioning SMIC or Chinese dual-use exports in the week before departure."
+      }
+    ],
+    "whatWouldChange": "If China announces a concrete Hormuz-reopening timeline before the summit, that would indicate Beijing is acting in good faith as a mediator rather than maximizing leverage. That evidence would substantially revise the bottom line.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "US x Iran permanent peace deal by May 31, 2026?",
+        "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by",
+        "probability": 0.39
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US x Iran permanent peace deal by June 30, 2026?",
+        "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by",
+        "probability": 0.53
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "save-america-act-filibuster",
+  "date": "2026-05-07",
+  "generatedAt": "2026-05-07T11:30:00Z",
+  "title": "Trump Wants the Filibuster Dead. His Own Senate Won't Do It.",
+  "subtitle": "The SAVE America Act is stalled in the Senate not because of Democrats but because Republican senators refuse to eliminate the filibuster to pass it. Trump is furious. Thune is unmoved.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["Trump", "Senate", "filibuster", "SAVE America Act", "Thune", "voting rights", "midterms"],
+  "coverImage": {
+    "url": "https://thefederalist.com/wp-content/uploads/2026/05/52449946245_93b4dcbccb_k-e1777659242938.jpg",
+    "local": "/images/reports/2026-05-07/save-america-act-filibuster.jpg",
+    "credit": "The Federalist"
+  },
+  "sources": [
+    {
+      "url": "https://www.washingtontimes.com/news/2026/may/5/trump-disappointed-senate-gop-leader-john-thune-not-eliminating/",
+      "publisher": "Washington Times",
+      "angle": "Trump publicly expressed disappointment in Thune for refusing to move on the filibuster, while stopping short of threatening him directly."
+    },
+    {
+      "url": "https://www.deseret.com/politics/2026/05/05/trump-upset-gop-leaders-wont-eliminate-filibuster/",
+      "publisher": "Deseret News",
+      "angle": "Trump is building a political case that Republican senators, not Democrats, are responsible for the failure to pass his election agenda."
+    },
+    {
+      "url": "https://www.foxnews.com/politics/trump-says-cant-stand-republicans-refusing-one-key-move-agenda",
+      "publisher": "Fox News",
+      "angle": "Fox frames the story from Trump's perspective: senate Republicans are stonewalling a popular and necessary reform."
+    },
+    {
+      "url": "https://www.cnn.com/2026/05/04/politics/voter-roll-purges-election-day",
+      "publisher": "CNN",
+      "angle": "The Trump administration is already implementing election rule changes through executive action where legislation has stalled, including mass voter roll purges that break the traditional 90-day window."
+    },
+    {
+      "url": "https://www.yahoo.com/news/articles/poll-save-america-act-meets-084500363.html",
+      "publisher": "Yahoo News / Politico",
+      "angle": "Polling shows mixed public support: some provisions, like voter ID, are broadly popular; others are not. The bill's packaging bundles popular and unpopular measures."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Senate", "Thune"],
+    "whatHappened": "The SAVE America Act, Trump's flagship election integrity legislation requiring proof of citizenship to register to vote and mandating election-day-only voting in federal elections, has stalled in the Senate after passing the House. Senate Majority Leader John Thune has declined to bring it to a floor vote because it cannot clear the 60-vote filibuster threshold, and he refuses to invoke the nuclear option to eliminate the filibuster for this bill. Trump publicly expressed being \"disappointed\" in Thune and called on him to expose the Republican senators blocking action. The Trump administration is simultaneously pursuing executive-action alternatives, including aggressive voter roll purges ordered before the traditional 90-day election window.",
+    "bottomLine": "The filibuster standoff is not about democratic norms. It is about which Republican senators face harder reelection races with a nuclear-option vote on their record than without the SAVE Act on the books, and Thune is protecting them. Trump knows this and is trying to make it politically more expensive to protect them than to detonate the rule.",
+    "hiddenBets": [
+      {
+        "assumption": "Senate Republicans are blocking the filibuster elimination because they value institutional norms.",
+        "whyItMightBeWrong": "The Republican Senate eliminated the filibuster for Supreme Court nominations in 2017 and used budget reconciliation to pass massive tax legislation without 60 votes. The norm-preservation argument has a selective track record. The more likely explanation is that senators in competitive 2026 races calculate that a nuclear option vote exposes them to more swing-voter backlash than the SAVE Act provides in base mobilization value."
+      },
+      {
+        "assumption": "The SAVE America Act would improve election integrity if passed.",
+        "whyItMightBeWrong": "The nonpartisan voter fraud research consistently finds that the fraud the bill targets, non-citizen voting and impersonation fraud, is statistically negligible. The bill's primary documented effect in state-level equivalents has been the removal of eligible voters who cannot quickly produce the required documents. The election integrity argument is a frame, not an evidence-based policy case."
+      },
+      {
+        "assumption": "Trump's anger at Thune is politically dangerous for Thune.",
+        "whyItMightBeWrong": "Thune won reelection in 2022 with 65% of the vote in South Dakota, one of the most Republican states in the country. He has no competitive race on the horizon. Trump attacked him repeatedly before the Senate majority leader vote and Thune won anyway. A senator who cannot be primaried and cannot lose a general election has unusually high immunity to presidential pressure."
+      }
+    ],
+    "realDisagreement": "The real fork is between two Republican positions that both have internal coherence. The first says: elections are existential, the filibuster is a procedural mechanism invented in the 1800s that is not in the Constitution, and letting Democrats block election reform through a Senate procedural rule is self-defeating for a party that needs to keep winning elections to maintain power. The second says: the filibuster protects the minority, and today's Republican majority is tomorrow's minority; eliminating it for election laws is especially dangerous because the next Democratic majority will use the same precedent to pass election laws that entrench Democratic advantages. Both positions are rational. The first is more likely to prevail over time because the political pressure is asymmetric: the base that demands the nuclear option votes in primaries, and the swing voters who dislike institutional erosion vote in generals where Republicans are increasingly uncompetitive in Senate races. If Republicans lose the Senate in November, the debate is moot. If they hold it, the pressure to use it builds.",
+    "whatNoOneIsSaying": "The administration does not actually need the SAVE America Act. Executive actions, including voter roll purges without the 90-day window and DOGE-driven cross-referencing of immigration databases with voter rolls, are already achieving the practical effect the legislation was designed to formalize. The fight over the bill is partly about having a legislative precedent and partly about giving Trump a grievance to campaign on: the Senate Republicans who blocked election integrity reform. The bill's defeat is potentially more useful to Trump politically than its passage.",
+    "whoPays": [
+      {
+        "who": "Eligible voters in states with strict documentation requirements",
+        "how": "Voter ID laws and registration document requirements consistently produce higher disqualification rates for low-income, elderly, and minority voters who have legal voting rights but face disproportionate barriers to producing specific documents on demand.",
+        "when": "Starting with the 2026 midterms if executive-action equivalents are fully implemented"
+      },
+      {
+        "who": "Senate Republicans in competitive 2026 races",
+        "how": "Forced to vote publicly on the nuclear option, they face a no-win choice: vote yes and become the target of Democratic attack ads about destroying Senate norms; vote no and face primary challengers backed by Trump.",
+        "when": "If Thune brings the vote to the floor before the November election"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Thune holds, executive action fills the gap",
+        "whatHappens": "The SAVE Act never comes to a Senate floor vote in 2026. The administration implements equivalent measures through executive orders, DOGE database cross-referencing, and state-level pressure. Trump campaigns against Senate Republicans as the midterm scapegoat.",
+        "signal": "Watch for new DHS or DOGE executive orders on voter registration cross-checking in the next 30 days."
+      },
+      {
+        "name": "Trump forces the nuclear option vote",
+        "whatHappens": "Trump escalates from disappointment to active primary threats against specific Republicans, names them publicly, and attaches the filibuster fight to DHS funding or another must-pass vehicle. At least three Republican senators break and the nuclear option passes on a narrow vote.",
+        "signal": "Watch for Trump posting specific senator names, not just generic 'weak Republicans,' and linking the SAVE Act to a spending deadline."
+      },
+      {
+        "name": "Democrats win the Senate, question becomes moot",
+        "whatHappens": "Republicans fail to pass the SAVE Act before November. Democrats retake the Senate at 48.5% probability per current markets. The new majority kills the bill and potentially reverses some executive-action voter roll purges through legislation.",
+        "signal": "Watch November polling in Montana, Ohio, and Arizona Senate races. If Democrats lead in two of three, Senate control flips and this debate ends."
+      }
+    ],
+    "whatWouldChange": "If evidence emerged of meaningful non-citizen voting in federal elections, the policy case for the SAVE Act strengthens and the political calculus for Republican senators shifts. The bill's premise would need empirical support it currently lacks.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
+        "url": "https://polymarket.com/event/which-party-will-win-the-senate-in-2026",
+        "probability": 0.485
+      },
+      {
+        "platform": "Polymarket",
+        "question": "GOP uses 'Nuclear Option' to break filibuster by December 31, 2026?",
+        "url": "https://polymarket.com/event/will-the-gop-use-nuclear-option-to-break-filibuster",
+        "probability": 0.215
+      }
+    ]
+  }
+}
