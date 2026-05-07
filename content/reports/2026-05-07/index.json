@@ -85,6 +85,41 @@
       "subtitle": "Rep. Kat Cammack's Dismemberment Abortion Ban Act criminalizes the most common second-trimester procedure. Call it what it is: a national 12-week ban written to sound procedural.",
       "category": "ethics",
       "topic": "society"
+    },
+    {
+      "id": "ukraine-victory-day-ceasefire-theater",
+      "title": "Both Sides Declared a Ceasefire. Both Sides Violated It. Now They're Doing It Again.",
+      "subtitle": "Russia and Ukraine each announced Victory Day ceasefires, each accused the other of breaking it within hours, and Russia has now announced a second one for May 8-9. This is not a peace process. It is a ritual.",
+      "category": "conflict",
+      "topic": "geopolitics"
+    },
+    {
+      "id": "china-blocks-meta-manus",
+      "title": "China Retroactively Killed a $2 Billion AI Deal. The Founders Can't Leave.",
+      "subtitle": "Beijing blocked Meta's acquisition of AI startup Manus ten weeks after it was announced, ordered the parties to unwind it, and restricted the Chinese co-founders' ability to travel. The move draws a permanent line: Chinese-origin AI does not get sold to Americans.",
+      "category": "power",
+      "topic": "tech"
+    },
+    {
+      "id": "ice-mandatory-detention-no-bond",
+      "title": "Trump's Policy of Jailing Immigrants Without Bond Hearings Is Heading to the Supreme Court",
+      "subtitle": "Federal appeals circuits are splitting over whether a 30-year-old immigration law authorizes mass detention without hearings. The Supreme Court will likely have to decide whether millions of people can be held indefinitely on the government's schedule alone.",
+      "category": "power",
+      "topic": "politics"
+    },
+    {
+      "id": "maha-maga-surgeon-general-rift",
+      "title": "Trump Just Picked a Surgeon General Who Deleted Tweets Criticizing Him and RFK Jr.",
+      "subtitle": "The MAHA-MAGA split inside the administration is now visible in public: Trump replaced his MAHA-aligned surgeon general nominee with a Fox News doctor who spent years attacking Kennedy's health agenda, then deleted the evidence.",
+      "category": "power",
+      "topic": "society"
+    },
+    {
+      "id": "april-jobs-no-hire-no-fire",
+      "title": "The Jobs Market Looks Fine. The Hiring Market Doesn't.",
+      "subtitle": "Tomorrow's April payrolls report will likely show near-zero job creation alongside a stable unemployment rate. This is not a healthy labor market. It is a frozen one, and the Iran oil shock is the reason it cannot thaw.",
+      "category": "power",
+      "topic": "economy"
     }
   ]
 }

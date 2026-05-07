@@ -93,6 +93,68 @@
           "from": "republican-abortion-ban-disguise",
           "to": "save-america-act-filibuster",
           "relationship": "Both bills operate through definitional sleight of hand: one bans a procedure to achieve a ban on abortion, the other enforces documentation requirements to achieve voter roll reduction. Both are designed to allow sponsors to deny they did what they did."
+        },
+        {
+          "from": "maha-maga-surgeon-general-rift",
+          "to": "trump-ai-fda-oversight",
+          "relationship": "Both are cases where the Trump administration maintains a brand, MAHA health reform and AI safety reform, while appointing personnel and building structures that contradict the brand's stated purpose. The label survives; the policy dies."
+        }
+      ]
+    },
+    {
+      "id": "ceasefire-as-performance",
+      "title": "The Ceasefire Is Not an Offer. It Is a Claim.",
+      "description": "Both Ukraine-Russia Victory Day ceasefires and the US-Iran peace memorandum talks share the same structural logic: announcing a ceasefire serves a domestic and diplomatic audience more than it serves the people at risk of being shot. In both conflicts, the announcement is the point. Compliance is optional. The briefs together reveal a world where 'we tried' has become more valuable than 'we stopped.'",
+      "type": "tension-cluster",
+      "stories": ["ukraine-victory-day-ceasefire-theater", "iran-war-peace-deal"],
+      "connections": [
+        {
+          "from": "iran-war-peace-deal",
+          "to": "ukraine-victory-day-ceasefire-theater",
+          "relationship": "In both conflicts, the US is positioned as a mediator while US-aligned parties simultaneously conduct military operations. The ceasefire announcements are designed to create diplomatic space without requiring either side to stop fighting. The Victory Day ceasefires and the Iran memorandum talks follow identical playbooks: announce, continue operations, blame the other side."
+        }
+      ]
+    },
+    {
+      "id": "beijing-holds-the-cards",
+      "title": "Everything Happening Today Runs Through Beijing",
+      "description": "Five apparently separate stories today all depend on decisions made or deferred in Beijing. China controls Iran's ceasefire incentives. China blocked the Meta-Manus deal days before the Trump summit. China's AI chip manufacturing is the subject of export control fights in Congress. The Ukraine negotiation stalled because American mediators are focused on the 'American track,' meaning the Beijing summit. The stories look separate. They are not.",
+      "type": "dependency-web",
+      "stories": ["trump-xi-beijing-summit", "china-blocks-meta-manus", "iran-war-peace-deal", "ukraine-victory-day-ceasefire-theater"],
+      "connections": [
+        {
+          "from": "trump-xi-beijing-summit",
+          "to": "china-blocks-meta-manus",
+          "relationship": "The Manus block happened ten days before Trump's Beijing arrival. China is establishing its position on AI technology transfer before sitting down to negotiate AI governance frameworks with Washington. The block is a pre-summit move, not an independent regulatory decision."
+        },
+        {
+          "from": "trump-xi-beijing-summit",
+          "to": "iran-war-peace-deal",
+          "relationship": "China holds Iran's cooperation in the peace talks. The Kremlin noted US negotiators are currently 'focused on the American track,' meaning the Beijing summit has consumed the bandwidth that would otherwise go to Ukraine and Iran diplomacy simultaneously."
+        },
+        {
+          "from": "iran-war-peace-deal",
+          "to": "ukraine-victory-day-ceasefire-theater",
+          "relationship": "The US diplomatic bandwidth being spent on Beijing and Iran is bandwidth not being spent on Ukraine. The ceasefire collapse in Ukraine is partly a function of American distraction, not just Russian intransigence."
+        }
+      ]
+    },
+    {
+      "id": "frozen-institutions",
+      "title": "The Things That Cannot Move",
+      "description": "Three stories today are about institutions that are structurally unable to take the action everyone expects them to take. The Fed cannot cut rates because of a war it did not choose. The Senate cannot kill the filibuster because its own members will not vote to do it. The labor market cannot hire because firms are absorbing two shocks simultaneously and will not commit to headcount. The common thread is not dysfunction. It is a situation where the normal lever has been disconnected from the outcome it is supposed to produce.",
+      "type": "tension-cluster",
+      "stories": ["april-jobs-no-hire-no-fire", "fed-iran-inflation-trap", "save-america-act-filibuster"],
+      "connections": [
+        {
+          "from": "fed-iran-inflation-trap",
+          "to": "april-jobs-no-hire-no-fire",
+          "relationship": "The Fed's inability to cut rates because of Iran-driven inflation is directly causing the labor market's frozen state: firms are not investing in headcount when capital costs are high and energy costs are rising simultaneously. The Fed's paralysis is the labor market's ceiling."
+        },
+        {
+          "from": "save-america-act-filibuster",
+          "to": "fed-iran-inflation-trap",
+          "relationship": "Both stories involve a principal, Trump, who is demanding an institution take an action the institution refuses to take. Trump demands rate cuts; Powell refuses. Trump demands the filibuster die; Thune refuses. In both cases, the institution's independence from executive pressure is the mechanism of refusal, and in both cases Trump has no clean leverage to compel compliance."
         }
       ]
     }

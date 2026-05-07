@@ -1,0 +1,98 @@
+{
+  "id": "maha-maga-surgeon-general-rift",
+  "date": "2026-05-07",
+  "generatedAt": "2026-05-07T17:45:00Z",
+  "title": "Trump Just Picked a Surgeon General Who Deleted Tweets Criticizing Him and RFK Jr.",
+  "subtitle": "The MAHA-MAGA split inside the administration is now visible in public: Trump replaced his MAHA-aligned surgeon general nominee with a Fox News doctor who spent years attacking Kennedy's health agenda, then deleted the evidence.",
+  "topic": "society",
+  "category": "power",
+  "tags": ["MAHA", "RFK", "Trump", "surgeon general", "health policy", "MAGA"],
+  "coverImage": {
+    "url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1502985232.jpg?c=16x9&q=w_800,c_fill",
+    "local": "/images/reports/2026-05-07/maha-maga-surgeon-general.jpg",
+    "credit": "CNN / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://www.cnn.com/2026/05/07/politics/rfk-jr-trump-maha-maga-rift",
+      "publisher": "CNN",
+      "angle": "Documents the MAHA-MAGA fracture in detail: Trump initially let Kennedy choose the surgeon general nominee (Casey Means), then overruled him after the midterm calendar shifted political calculus."
+    },
+    {
+      "url": "https://www.cnn.com/2026/05/06/politics/nicole-saphire-surgeon-general-deleted-critical-tweets",
+      "publisher": "CNN",
+      "angle": "Exclusively reports that Saphier deleted social media posts criticizing Trump's health policies and RFK Jr.'s vaccine positions. The deletions suggest she knows the confirmation process will surface these posts."
+    },
+    {
+      "url": "https://www.thedailybeast.com/rfk-jr-plots-revenge-against-maga-adversary/",
+      "publisher": "The Daily Beast",
+      "angle": "Reports that Kennedy and his MAHA allies are actively working to unseat Sen. Bill Cassidy in Louisiana's primary next week, in retaliation for Cassidy's skepticism toward MAHA health positions."
+    },
+    {
+      "url": "https://www.kff.org/public-opinion/kff-health-tracking-poll-maha-and-the-midterms/",
+      "publisher": "KFF",
+      "angle": "Polling shows MAHA is a genuine voter-base constituency, not just an elite faction. The administration's retreat from MAHA on the surgeon general shows midterm math overriding policy coherence."
+    },
+    {
+      "url": "https://www.npr.org/2026/05/07/nx-s1-5814083/rfk-jr-hhs-ssri-antidepressant-psychiatry-therapy-mental-health",
+      "publisher": "NPR",
+      "angle": "RFK Jr. launched a new MAHA action plan to curb psychiatric overprescribing on the same day Trump selected Saphier, who has been critical of anti-prescribing campaigns. The two events directly contradict each other."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "RFK", "Saphier", "Cassidy", "MAHA"],
+    "whatHappened": "President Trump on May 7 selected Dr. Nicole Saphier, a Fox News medical contributor, as his third nominee for surgeon general, replacing Casey Means, a MAHA-aligned health advocate who had been Kennedy's preferred choice. CNN reported that Saphier had deleted social media posts in which she criticized both Trump's health policies and RFK Jr.'s positions on vaccines and pharmaceutical oversight. On the same day, Kennedy launched a new MAHA Institute action plan targeting psychiatric overprescribing and is reportedly working to defeat Sen. Bill Cassidy, chair of the Senate Health Committee, in Louisiana's primary next week. Kennedy was largely excluded from the Saphier selection process.",
+    "bottomLine": "Trump is betting he can keep RFK Jr.'s voter base while quietly sidelining RFK Jr.'s policy agenda. That bet only works as long as MAHA supporters don't notice the gap between the rhetoric and the nominations.",
+    "hiddenBets": [
+      {
+        "assumption": "MAHA voters are primarily loyal to Kennedy as a person, not to his policy positions.",
+        "whyItMightBeWrong": "KFF polling shows that MAHA supporters care specifically about pharmaceutical industry influence on government health policy. If Saphier is perceived as a pharmaceutical-friendly Fox News doctor, the constituency may not follow the party loyalty."
+      },
+      {
+        "assumption": "The deleted tweets are a liability that can be managed through the confirmation process.",
+        "whyItMightBeWrong": "The deletions themselves are news. The act of deleting signals that Saphier knows she cannot defend the positions, which invites questions about which positions she actually holds. Her confirmation hearings will force her to either contradict her previous views or contradict MAHA doctrine."
+      },
+      {
+        "assumption": "The MAHA-MAGA rift is a personality conflict between RFK Jr. and White House staff.",
+        "whyItMightBeWrong": "The conflict is structural. MAHA's core agenda, reducing pharmaceutical influence on federal health agencies, directly threatens drug company relationships with Republican donors. The surgeon general pick reveals that when MAHA positions conflict with donor interests, donor interests win."
+      }
+    ],
+    "realDisagreement": "The core fork is whether MAHA is a coalition partner inside the Trump administration or a constituency being managed from the outside. If it is a genuine coalition partner, Kennedy should have veto power over surgeon general nominations, and losing that power is a major fracture. If it is a managed constituency, the administration will maintain MAHA rhetoric while pursuing conventional pharmaceutical and health industry relationships, and Kennedy's role is to keep the voters happy while the policy does something else entirely. The evidence of the past week, Kennedy sidelined on the nomination, his preferred nominee dropped, a Fox News doctor with deleted anti-Kennedy tweets selected, strongly suggests the managed constituency model. The risk is that Kennedy himself eventually figures this out and acts accordingly. His Cassidy revenge campaign suggests he already has.",
+    "whatNoOneIsSaying": "Saphier's deleted tweets are a paper trail showing exactly what a mainstream, Republican-establishment position on health policy looks like, one that is skeptical of RFK Jr. and aligned with institutional medicine. Trump picked her anyway. That means the substantive MAHA agenda is over at the surgeon general level, even if the MAHA brand survives.",
+    "whoPays": [
+      {
+        "who": "MAHA voters and health reform advocates",
+        "how": "They will receive MAHA language from the White House while the surgeon general implements a conventional public health agenda. The policy agenda they voted for is being replaced with branding.",
+        "when": "The gap becomes visible over the first year of Saphier's tenure if confirmed"
+      },
+      {
+        "who": "Sen. Bill Cassidy (R-LA)",
+        "how": "Kennedy and MAHA allies are funding and organizing against him in next week's Louisiana primary. Cassidy leads but the primary is competitive, and a visible loss would cost him the Senate Health Committee chair.",
+        "when": "Louisiana primary, May 13"
+      },
+      {
+        "who": "Patients and providers affected by psychiatric prescribing policy",
+        "how": "Kennedy's action plan on overprescribing and Saphier's skepticism of that agenda mean no coherent federal direction on psychiatric medication policy. States and insurance companies fill the vacuum with their own inconsistent rules.",
+        "when": "Policy confusion compounds over 6-12 months"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Managed split holds",
+        "whatHappens": "Saphier is confirmed. Kennedy stays at HHS but focuses on public-facing events rather than personnel. MAHA voters remain in the coalition because the branding is intact even as the nominations diverge.",
+        "signal": "No public break between Kennedy and Trump; Saphier confirmation proceeds without MAHA-bloc opposition."
+      },
+      {
+        "name": "Kennedy breaks publicly",
+        "whatHappens": "Kennedy publicly criticizes the Saphier nomination or the Cassidy situation escalates into a visible White House dispute. Trump is forced to choose between managing MAHA internally or letting Kennedy leave the administration.",
+        "signal": "Kennedy makes statements explicitly critical of Saphier's qualifications or policy positions before her confirmation vote."
+      },
+      {
+        "name": "Confirmation blocks the pick",
+        "whatHappens": "Senate Republicans sympathetic to MAHA, or Democrats using the deleted tweets as leverage, delay or block Saphier's confirmation. Trump nominates a fourth surgeon general candidate.",
+        "signal": "Two or more Republican senators publicly question Saphier's record on vaccine safety or MAHA-aligned health positions."
+      }
+    ],
+    "whatWouldChange": "If Kennedy publicly endorses Saphier and announces that she shares his MAHA agenda, it would suggest the rift has been papered over and Kennedy has accepted the managed-constituency role. That endorsement would be worth watching closely, because it would either be sincere or it would be the moment Kennedy signals he no longer has real influence."
+  }
+}
