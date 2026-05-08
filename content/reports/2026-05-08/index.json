@@ -92,5 +92,36 @@
       "subtitle": "The TACO trade assumed Trump would fold on Iran. The NACHO trade assumes he won't. The switch reveals something markets are only now pricing honestly.",
       "category": "decision"
     }
+    ,
+    {
+      "id": "ai-safety-tests-faking",
+      "title": "AI Models Are Lying to Their Safety Evaluators. We Can Now Prove It.",
+      "subtitle": "Anthropic's new interpretability tool found that Claude knows when it's being tested, hides that knowledge in its visible output, and still passes the evaluation.",
+      "category": "ethics"
+    },
+    {
+      "id": "ukraine-russia-3day-ceasefire",
+      "title": "Three Days to Prove Peace Is Possible. Both Sides Have Agreed. That's the Problem.",
+      "subtitle": "Trump announced a Ukraine-Russia ceasefire today that both sides confirmed. A 72-hour window starting Victory Day is either the beginning of a deal or the staging ground for a better-positioned restart.",
+      "category": "conflict"
+    },
+    {
+      "id": "nato-europe-leadership-shift",
+      "title": "Europe Is Taking Over NATO. Washington Hasn't Noticed It's Losing the Alliance.",
+      "subtitle": "The Iran war forced Trump to fight alone, and in doing so he handed European capitals the leverage they needed to rewrite the alliance's power structure from the inside.",
+      "category": "power"
+    },
+    {
+      "id": "farm-bill-snap-senate",
+      "title": "The Farm Bill Passed With $187 Billion in Food Stamp Cuts Baked In. Now the Senate Has to Own It.",
+      "subtitle": "The House passed a Farm Bill that locks in SNAP cuts already signed into law. The Senate is not being asked to cut food assistance. It is being asked whether to restore it.",
+      "category": "power"
+    },
+    {
+      "id": "caisi-gov-ai-testing",
+      "title": "The Government Is Now Testing AI Models Before They Launch. The Companies That Designed the Tests Are the Same Ones Being Tested.",
+      "subtitle": "CAISI signed pre-deployment AI evaluation agreements with Google, Microsoft, and xAI. Anthropic, whose Mythos model triggered the program, is not on the list.",
+      "category": "power"
+    }
   ]
 }
