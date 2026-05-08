@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-08",
+  "threads": [
+    {
+      "id": "fiction-maintained-by-both-sides",
+      "title": "The Useful Fiction",
+      "description": "Three of today's stories share a structural feature: both sides in a conflict maintain a label that describes peace, legality, or protection while operating in open contradiction of it. The Iran ceasefire is called a ceasefire while fire is being exchanged. Trump's tariffs are ruled unlawful while remaining in force. The EU AI Act is called intact while its core enforcement mechanisms are removed. In each case, the fiction is not an accident. It is what allows both parties to avoid the more costly choice of calling the situation what it actually is.",
+      "type": "tension-cluster",
+      "stories": ["iran-hormuz-ceasefire-breaks", "trump-tariffs-court-unlawful", "eu-ai-act-rollback"],
+      "connections": [
+        {
+          "from": "iran-hormuz-ceasefire-breaks",
+          "to": "trump-tariffs-court-unlawful",
+          "relationship": "Trump's insistence that the Iran ceasefire holds despite active fire exchange is the same political logic as maintaining tariff enforcement despite court rulings: the label does the political work that the underlying reality cannot."
+        },
+        {
+          "from": "trump-tariffs-court-unlawful",
+          "to": "eu-ai-act-rollback",
+          "relationship": "US tariff pressure on Europe is explicitly cited as one reason EU industry and governments pushed for AI Act rollbacks; Brussels is trying to reduce friction with Washington while calling the result a 'simplification' rather than a concession to American pressure."
+        },
+        {
+          "from": "iran-hormuz-ceasefire-breaks",
+          "to": "eu-ai-act-rollback",
+          "relationship": "Both situations involve a nominal framework being maintained while the substance of the framework is evacuated: the ceasefire holds in name as strikes continue; the AI Act holds in name as its enforcement deadlines and industrial scope are removed."
+        }
+      ]
+    },
+    {
+      "id": "iran-dominates-everything",
+      "title": "Iran as Load-Bearing Wall",
+      "description": "The Iran war is not just one story today. It is the hidden variable inside three others. The Trump-Xi summit's agenda is being shaped by who controls the Hormuz resolution. The tariff court ruling matters less than it appears because the EU deadline and China summit will determine trade outcomes more than any US court. Even the Polymarket odds on tariff refunds and China deals are moving in part on Hormuz shipping expectations. Iran, a country the US is nominally in a ceasefire with, is setting the terms for US diplomacy with Europe and China simultaneously.",
+      "type": "dependency-web",
+      "stories": ["iran-hormuz-ceasefire-breaks", "trump-xi-iran-summit", "trump-tariffs-court-unlawful"],
+      "connections": [
+        {
+          "from": "iran-hormuz-ceasefire-breaks",
+          "to": "trump-xi-iran-summit",
+          "relationship": "Iran's decision to attack US destroyers on May 7 and its non-response to the US memorandum directly weakens Trump's position ahead of the Beijing summit by ensuring he arrives needing China's leverage over Tehran."
+        },
+        {
+          "from": "trump-xi-iran-summit",
+          "to": "trump-tariffs-court-unlawful",
+          "relationship": "Any tariff or trade concessions Trump makes to China in exchange for Iranian cooperation at the summit will determine whether the EU's July 4 tariff ultimatum is enforceable or is softened as part of a broader China-anchored trade reset."
+        }
+      ]
+    },
+    {
+      "id": "who-pays-is-never-the-decision-maker",
+      "title": "The Absent Party",
+      "description": "Across all five stories today, the people who bear the direct costs of each decision are absent from the room where the decision is made. Stranded Indian seafarers have no seat at the Iran ceasefire table. Small US importers are not in the tariff court case that will shape their compliance costs. EU factory workers are not in the AI Act omnibus negotiations that removed their safety protections. Low-income Americans losing Medicaid coverage were not consulted on the reconciliation bill. This is not an accident or an oversight. It is the consistent structure of how the decisions are made.",
+      "type": "tension-cluster",
+      "stories": ["iran-hormuz-ceasefire-breaks", "eu-ai-act-rollback", "medicaid-gop-cuts-blocked", "trump-tariffs-court-unlawful"],
+      "connections": [
+        {
+          "from": "eu-ai-act-rollback",
+          "to": "medicaid-gop-cuts-blocked",
+          "relationship": "In both cases, the decision-makers (EU legislators responding to Siemens, Bosch, and industry lobbies; GOP senators responding to donor pressure) explicitly traded away protections for people without institutional representation in exchange for political support from organized interests."
+        },
+        {
+          "from": "trump-tariffs-court-unlawful",
+          "to": "medicaid-gop-cuts-blocked",
+          "relationship": "The tariff court ruling that benefits only two named importers and one state is the same structural logic as moderate Republicans blocking future Medicaid cuts while the already-enacted H.R. 1 cuts continue: formal protections are narrow and named; harms are broad and unnamed."
+        }
+      ]
+    }
+  ]
+}

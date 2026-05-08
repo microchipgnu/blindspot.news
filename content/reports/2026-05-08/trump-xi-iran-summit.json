@@ -1,0 +1,118 @@
+{
+  "id": "trump-xi-iran-summit",
+  "date": "2026-05-08",
+  "generatedAt": "2026-05-08T07:45:00Z",
+  "title": "Trump Flies to Beijing With Iran in the Room",
+  "subtitle": "The Trump-Xi summit next week is nominally about trade and rare earths. Iran has turned it into a negotiation about who controls the ceasefire.",
+  "topic": "geopolitics",
+  "category": "power",
+  "tags": ["Trump", "Xi", "China", "Iran", "trade", "rare earths", "Hormuz"],
+  "coverImage": {
+    "url": "https://www.ttnews.com/sites/default/files/styles/social_media_1200x630/public/2026-05/Trump-China-1200.jpg",
+    "local": "/images/reports/2026-05-08/trump-xi-iran-summit.jpg",
+    "credit": "Bloomberg / Transport Topics"
+  },
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/05/08/iran-focus-at-trump-xi-summit-may-delay-progress-on-tariffs-rare-earths.html",
+      "publisher": "CNBC",
+      "angle": "Business framing: Iran's dominance of the summit agenda is squeezing out progress on tariffs and rare earth supply chains; the US business delegation is reportedly smaller than expected."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/05/06/china-iran-araghchi-wang-yi-trump-beijing-hormuz-talks.html",
+      "publisher": "CNBC",
+      "angle": "Pre-summit positioning: China pressed Iran's foreign minister in Beijing on May 6 to avoid resuming hostilities; Beijing wants to arrive at the Trump summit as the party that brokered peace, not as Iran's protector."
+    },
+    {
+      "url": "https://www.washingtonpost.com/national-security/2026/05/07/trump-xi-us-china-summit-iran/",
+      "publisher": "Washington Post",
+      "angle": "Security framing: the summit proceeds despite US uncertainty on Iran strategy and China's unease; the two-month rescheduling strengthened neither side's hand; US-China tensions over Beijing's support for Tehran remain unresolved."
+    },
+    {
+      "url": "https://www.ttnews.com/articles/trump-xi-summit-still-on",
+      "publisher": "Transport Topics",
+      "angle": "Logistics and energy: the Strait of Hormuz remaining largely shut is the economic backdrop for both leaders; China imports more Gulf oil than any other country and has the most to lose from a prolonged closure."
+    },
+    {
+      "url": "https://finance.yahoo.com/economy/article/a-top-iranian-official-is-in-china-its-setting-the-tone-for-trumps-big-trip-next-week-125528209.html",
+      "publisher": "Bloomberg / Yahoo Finance",
+      "angle": "Strategic signaling: Iran's foreign minister traveled to Beijing days before the summit; Chinese state media called China a 'trusted strategic partner' of Iran, deliberately placing Beijing in a mediator role it can leverage with Washington."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Xi", "China", "Iran", "CENTCOM"],
+    "whatHappened": "President Trump is scheduled to hold a summit with Xi Jinping in Beijing on May 14-15, the first US presidential visit to China since 2017. The meeting was already rescheduled once due to the Iran war. China expressed unease about holding it before the Iran conflict is resolved but agreed to proceed. On May 6, Iran's foreign minister Araghchi traveled to Beijing, where China's foreign minister praised Iran's 'resilience' and pushed for a comprehensive ceasefire. China is pressing Iran to reopen Hormuz ahead of the summit. The meetings were nominally set to advance tariff and rare earth supply chain negotiations, but analysts and US sources say Iran will dominate the agenda. The US business delegation going to Beijing is reportedly smaller than those that other countries have brought to recent China meetings.",
+    "bottomLine": "China positioned itself as Iran's peace broker in the week before the summit, which means Trump will arrive in Beijing needing something China already controls: Iran's behavior at the Strait of Hormuz.",
+    "hiddenBets": [
+      {
+        "assumption": "The Trump-Xi summit is primarily about US-China trade, tariffs, and rare earths.",
+        "whyItMightBeWrong": "Iran's foreign minister was in Beijing five days before Trump. China publicly declared itself Iran's 'trusted strategic partner' in the same week. China holds significant leverage over whether Iran escalates or de-escalates in the Strait. Trump is walking into a summit where the other side has already defined the issue as Iran, not trade."
+      },
+      {
+        "assumption": "China wants Hormuz reopened for its own economic reasons and will pressure Iran accordingly.",
+        "whyItMightBeWrong": "China imports Gulf oil, but it also imports Iranian oil in violation of US sanctions. A prolonged Strait disruption raises global oil prices, which hurts China's manufacturing costs, but a rapid US-Iran peace deal that gives the US a win reduces China's leverage in the summit. China may prefer a 'almost resolved' Hormuz situation: open enough to prevent an energy crisis, closed enough to keep Trump dependent on Chinese diplomatic cooperation."
+      },
+      {
+        "assumption": "Rare earth negotiations are a primary US objective at the summit.",
+        "whyItMightBeWrong": "The smaller-than-expected US business delegation suggests the administration either does not expect rare earth breakthroughs or is subordinating economic objectives to the Iran issue. Rare earth supply chain negotiations require sustained technical working groups, not a one-time summit. If Iran dominates the agenda, rare earths become a side conversation that China can manage on its own timeline."
+      }
+    ],
+    "realDisagreement": "The core fork is whether the US enters Beijing as the party that ended the Iran war or as the party that still needs China's help to end it. If the ceasefire holds and the US short-term memorandum with Iran is accepted before May 14, Trump arrives as the dealmaker and China's role shrinks. If the Strait remains contested and Iran has not accepted the US proposal, Trump arrives needing Xi's leverage over Tehran, which is exactly the position China has been engineering since Araghchi's May 6 visit. The May 7 exchange of fire in the Strait, combined with Iran's silence on the US memorandum, looks less like a military standoff and more like deliberate positioning to ensure Trump arrives in Beijing in the weaker posture.",
+    "whatNoOneIsSaying": "China coordinated Araghchi's Beijing visit and its 'trusted strategic partner' language precisely to be visible before Trump's arrival. This is not mediation; it is a demonstration of leverage. China is telling Trump: we can move Iran, but you will owe us for it. The price will be paid in tariff concessions, Taiwan posture, or semiconductor policy, not in the headline about rare earths.",
+    "whoPays": [
+      {
+        "who": "US manufacturers dependent on rare earth supply chains",
+        "how": "If Iran dominates the summit agenda, rare earth discussions get pushed to working-group level, where progress is slow. Chinese export controls on rare earth materials remain in place longer, raising costs for EV, defense, and semiconductor manufacturers who cannot quickly source alternatives.",
+        "when": "Ongoing; each month without a deal extends supply chain vulnerability"
+      },
+      {
+        "who": "Iran's population",
+        "how": "If China's pressure on Iran to open the Strait is primarily tactical, intended to give Trump a win at the summit rather than achieve Iranian interests, Iran may get diplomatic cover for de-escalation without actual sanctions relief or security guarantees. Iran would be managed, not heard.",
+        "when": "Depends on what Iran receives in any deal brokered through Beijing"
+      },
+      {
+        "who": "US allies in the Indo-Pacific",
+        "how": "Any tariff or trade concessions the US makes to China at the summit in exchange for Iran cooperation reduce the trade pressure that was supposed to push China away from supporting Iran and Russia. The allies who aligned with US trade policy against China bear the cost of any rollback.",
+        "when": "Depends on summit outcomes; announced within days of May 14-15"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "China brokers the Hormuz reopening",
+        "whatHappens": "Between now and May 14, China delivers a message to Iran resulting in a formal pause of the Hormuz blockade claims. Trump arrives in Beijing able to announce progress. Xi gets credit. The summit produces a tariff pause and a rare earth working group. The underlying US-China confrontation is deferred.",
+        "signal": "Iran's foreign ministry issues a statement accepting the US short-term memorandum before May 12. Chinese state media credits 'Chinese diplomatic efforts' for the breakthrough."
+      },
+      {
+        "name": "Summit proceeds without Iran resolution",
+        "whatHappens": "Iran does not accept the US memorandum before May 14. Trump arrives in Beijing needing China's help. Any tariff or rare earth deal is conditioned on Chinese commitments regarding Iran. The US concedes more than it expected on trade to secure Iranian cooperation. The Strait reopens slowly over subsequent weeks.",
+        "signal": "No Iran memorandum acceptance announced before May 12. US trade representative makes a pre-summit statement that tariff discussions are 'preliminary.'"
+      },
+      {
+        "name": "Summit collapses or is downgraded",
+        "whatHappens": "Iran escalates further in the Strait, or a US strike causes civilian casualties that China cannot publicly ignore. Xi cancels or downgrades the summit. US-China trade talks stall. Rare earth export controls remain in place indefinitely.",
+        "signal": "Chinese foreign ministry issues a statement saying 'conditions are not ripe' for a summit before May 12. A second US military exchange with Iran occurs."
+      }
+    ],
+    "whatWouldChange": "If China and the US announced a genuine rare earth supply chain agreement with binding timelines at the summit, the framing of Iran-as-leverage would need revision. Alternatively, if Iran accepted the US memorandum before Trump landed in Beijing, China's mediator role would shrink and the summit agenda would genuinely return to trade, which would change the bottom line.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Strait of Hormuz traffic returns to normal by end of June?",
+        "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+        "probability": 0.52
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US-Iran nuclear deal by June 30?",
+        "url": "https://polymarket.com/event/us-iran-nuclear-deal-by-june-30",
+        "probability": 0.305
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US x China tariff agreement by May 31?",
+        "url": "https://polymarket.com/event/us-x-china-tariff-agreement-by-may-31",
+        "probability": 0.395
+      }
+    ]
+  }
+}

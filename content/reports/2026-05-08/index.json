@@ -1,0 +1,36 @@
+{
+  "date": "2026-05-08",
+  "generatedAt": "2026-05-08T07:45:00Z",
+  "reports": [
+    {
+      "id": "iran-hormuz-ceasefire-breaks",
+      "title": "The Ceasefire That Isn't",
+      "subtitle": "US and Iran exchange fire in the Strait of Hormuz while both sides insist the war is over.",
+      "category": "conflict"
+    },
+    {
+      "id": "trump-tariffs-court-unlawful",
+      "title": "Tariffs Ruled Unlawful, Again. It Still Won't Matter.",
+      "subtitle": "A federal trade court struck down Trump's 10% global tariffs, but the ruling only protects two importers and one state.",
+      "category": "power"
+    },
+    {
+      "id": "eu-ai-act-rollback",
+      "title": "Europe Blinks on AI",
+      "subtitle": "The EU delayed its flagship AI law's core rules by 18 months and exempted industrial AI entirely, handing industry a win critics say undermines the whole point.",
+      "category": "power"
+    },
+    {
+      "id": "medicaid-gop-cuts-blocked",
+      "title": "Moderate Republicans Block Medicaid Cuts, for Now",
+      "subtitle": "Vulnerable GOP senators blocked the third reconciliation bill over Medicaid fear, but the cuts already signed into law via H.R. 1 are hitting millions of Americans right now.",
+      "category": "power"
+    },
+    {
+      "id": "trump-xi-iran-summit",
+      "title": "Trump Flies to Beijing With Iran in the Room",
+      "subtitle": "The Trump-Xi summit next week is nominally about trade and rare earths. Iran has turned it into a negotiation about who controls the ceasefire.",
+      "category": "power"
+    }
+  ]
+}
