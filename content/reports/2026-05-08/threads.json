@@ -28,38 +28,86 @@
     {
       "id": "iran-dominates-everything",
       "title": "Iran as Load-Bearing Wall",
-      "description": "The Iran war is not just one story today. It is the hidden variable inside three others. The Trump-Xi summit's agenda is being shaped by who controls the Hormuz resolution. The tariff court ruling matters less than it appears because the EU deadline and China summit will determine trade outcomes more than any US court. Even the Polymarket odds on tariff refunds and China deals are moving in part on Hormuz shipping expectations. Iran, a country the US is nominally in a ceasefire with, is setting the terms for US diplomacy with Europe and China simultaneously.",
+      "description": "The Iran war is not just one story today. It is the hidden variable inside three others. The Trump-Xi summit's agenda is being shaped by who controls the Hormuz resolution. The tariff court ruling matters less than it appears because the EU deadline and China summit will determine trade outcomes more than any US court. The April jobs beat looks strong until you realize oil at $4.50/gallon is a delayed fuse, not an absorbed shock. Iran, a country the US is nominally in a ceasefire with, is setting the terms for US diplomacy with Europe and China and determining whether the US labor market survives 2026.",
       "type": "dependency-web",
-      "stories": ["iran-hormuz-ceasefire-breaks", "trump-xi-iran-summit", "trump-tariffs-court-unlawful"],
+      "stories": ["iran-hormuz-ceasefire-breaks", "trump-xi-iran-summit", "trump-tariffs-court-unlawful", "april-jobs-beat"],
       "connections": [
         {
           "from": "iran-hormuz-ceasefire-breaks",
           "to": "trump-xi-iran-summit",
-          "relationship": "Iran's decision to attack US destroyers on May 7 and its non-response to the US memorandum directly weakens Trump's position ahead of the Beijing summit by ensuring he arrives needing China's leverage over Tehran."
+          "relationship": "Iran's continued fire exchange weakens Trump's position ahead of Beijing by ensuring he arrives needing China's leverage over Tehran rather than negotiating from strength."
         },
         {
           "from": "trump-xi-iran-summit",
           "to": "trump-tariffs-court-unlawful",
-          "relationship": "Any tariff or trade concessions Trump makes to China in exchange for Iranian cooperation at the summit will determine whether the EU's July 4 tariff ultimatum is enforceable or is softened as part of a broader China-anchored trade reset."
+          "relationship": "Any tariff concessions Trump makes to China in exchange for Iranian cooperation at the summit will determine whether the EU's July 4 tariff ultimatum is enforceable or softened as part of a broader China-anchored trade reset."
+        },
+        {
+          "from": "iran-hormuz-ceasefire-breaks",
+          "to": "april-jobs-beat",
+          "relationship": "The Hormuz disruption is the largest oil supply shock in recent history; the April jobs beat reflects activity before the shock's full transmission to consumer spending and business hiring, which typically runs 8-12 weeks."
         }
       ]
     },
     {
       "id": "who-pays-is-never-the-decision-maker",
       "title": "The Absent Party",
-      "description": "Across all five stories today, the people who bear the direct costs of each decision are absent from the room where the decision is made. Stranded Indian seafarers have no seat at the Iran ceasefire table. Small US importers are not in the tariff court case that will shape their compliance costs. EU factory workers are not in the AI Act omnibus negotiations that removed their safety protections. Low-income Americans losing Medicaid coverage were not consulted on the reconciliation bill. This is not an accident or an oversight. It is the consistent structure of how the decisions are made.",
+      "description": "Across today's stories, the people who bear the direct costs of each decision are absent from the room where the decision is made. Stranded seafarers have no seat at the Iran ceasefire table. Small US importers are not in the tariff court case shaping their compliance costs. EU factory workers are not in the AI Act omnibus negotiations that removed their safety protections. Low-income Americans losing Medicaid coverage were not consulted on the reconciliation bill. This is not an accident or an oversight. It is the consistent structure of how the decisions are made.",
       "type": "tension-cluster",
       "stories": ["iran-hormuz-ceasefire-breaks", "eu-ai-act-rollback", "medicaid-gop-cuts-blocked", "trump-tariffs-court-unlawful"],
       "connections": [
         {
           "from": "eu-ai-act-rollback",
           "to": "medicaid-gop-cuts-blocked",
-          "relationship": "In both cases, the decision-makers (EU legislators responding to Siemens, Bosch, and industry lobbies; GOP senators responding to donor pressure) explicitly traded away protections for people without institutional representation in exchange for political support from organized interests."
+          "relationship": "In both cases decision-makers traded away protections for people without institutional representation in exchange for political support from organized interests: EU legislators responding to Siemens and Bosch; GOP senators responding to donor pressure."
         },
         {
           "from": "trump-tariffs-court-unlawful",
           "to": "medicaid-gop-cuts-blocked",
-          "relationship": "The tariff court ruling that benefits only two named importers and one state is the same structural logic as moderate Republicans blocking future Medicaid cuts while the already-enacted H.R. 1 cuts continue: formal protections are narrow and named; harms are broad and unnamed."
+          "relationship": "The tariff court ruling that benefits only two named importers and one state is the same structural logic as moderate Republicans blocking future Medicaid cuts while already-enacted H.R. 1 cuts continue: formal protections are narrow and named; harms are broad and unnamed."
+        }
+      ]
+    },
+    {
+      "id": "executive-authority-without-legal-basis",
+      "title": "Acting First, Asking Permission Never",
+      "description": "Four stories today are different instances of the same question: can the executive branch act without legal authority if it moves fast enough and the courts are slow enough? Trump's tariffs have been ruled unlawful twice and remain in force. DOGE used a chatbot to cancel $100 million in congressionally appropriated funds. The Pentagon blacklisted a domestic AI company using a designation meant for foreign adversaries. In each case the administration acted, the courts objected, and the practical effect of the action persisted. The answer to the question appears to be: yes, at least for a while.",
+      "type": "tension-cluster",
+      "stories": ["trump-tariffs-court-unlawful", "doge-neh-grants-unconstitutional", "pentagon-ai-anthropic-blacklist", "medicaid-gop-cuts-blocked"],
+      "connections": [
+        {
+          "from": "doge-neh-grants-unconstitutional",
+          "to": "trump-tariffs-court-unlawful",
+          "relationship": "Both rulings found that the executive branch exceeded its authority over congressionally appropriated resources: tariff law limits presidential power to declare emergencies; the Impoundment Control Act limits impoundment of appropriated funds. Both rulings are being appealed with stays sought."
+        },
+        {
+          "from": "pentagon-ai-anthropic-blacklist",
+          "to": "doge-neh-grants-unconstitutional",
+          "relationship": "The Pentagon applied a supply-chain-risk designation meant for foreign adversaries to a domestic company for refusing a contract condition; DOGE applied grant-termination authority it did not have to ideologically disfavored recipients. Both involve using an existing legal mechanism outside its intended scope."
+        },
+        {
+          "from": "trump-tariffs-court-unlawful",
+          "to": "medicaid-gop-cuts-blocked",
+          "relationship": "Courts blocking tariffs and senators blocking Medicaid cuts are both instances of institutional friction slowing executive-legislative overreach, but in both cases the underlying harm persists: tariffs continue to be collected pending appeal; H.R. 1 Medicaid cuts are already in force."
+        }
+      ]
+    },
+    {
+      "id": "privacy-safety-as-political-lever",
+      "title": "Safety as a Weapon",
+      "description": "Three stories today use 'safety' as a mechanism to achieve something other than safety. The Pentagon blacklisted Anthropic under a supply-chain-risk label that formally means 'threatens national security,' but functionally means 'would not comply with our terms.' Meta removed Instagram encryption citing child safety compliance under the UK Online Safety Act, but the actual driver is regulatory fine risk. Russia declared a ceasefire citing humanitarian respect for Victory Day, but the actual function is domestic propaganda on a day when 427 Ukrainian drones targeted Moscow. The word 'safety' is doing political work in all three cases while pointing away from the thing being protected.",
+      "type": "tension-cluster",
+      "stories": ["pentagon-ai-anthropic-blacklist", "instagram-encryption-killed", "russia-victory-day-ceasefire"],
+      "connections": [
+        {
+          "from": "pentagon-ai-anthropic-blacklist",
+          "to": "instagram-encryption-killed",
+          "relationship": "Both involve invoking child safety or national security framing to justify a decision whose primary driver is compliance or market control: the Pentagon used safety to punish a company for refusing contract terms; Meta used safety to justify removing encryption under regulatory threat."
+        },
+        {
+          "from": "instagram-encryption-killed",
+          "to": "russia-victory-day-ceasefire",
+          "relationship": "Meta removing encryption increases the capacity for state surveillance of dissidents in countries where its legal compliance is required; Russia's ceasefire declaration is simultaneously a domestic narrative management tool for populations the state monitors through exactly such surveillance systems."
         }
       ]
     }

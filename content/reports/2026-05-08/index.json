@@ -1,6 +1,6 @@
 {
   "date": "2026-05-08",
-  "generatedAt": "2026-05-08T07:45:00Z",
+  "generatedAt": "2026-05-08T13:25:00Z",
   "reports": [
     {
       "id": "iran-hormuz-ceasefire-breaks",
@@ -30,6 +30,36 @@
       "id": "trump-xi-iran-summit",
       "title": "Trump Flies to Beijing With Iran in the Room",
       "subtitle": "The Trump-Xi summit next week is nominally about trade and rare earths. Iran has turned it into a negotiation about who controls the ceasefire.",
+      "category": "power"
+    },
+    {
+      "id": "pentagon-ai-anthropic-blacklist",
+      "title": "The Pentagon Has Picked Its AI Winners. Anthropic Isn't One of Them.",
+      "subtitle": "The DOD signed eight AI firms onto classified military networks and labeled its former partner a supply chain risk. The line between safety-first and market loser is dissolving.",
+      "category": "power"
+    },
+    {
+      "id": "instagram-encryption-killed",
+      "title": "Meta Killed Instagram's Encryption. The Reason It Gave Is the Cover Story.",
+      "subtitle": "Meta quietly removed end-to-end encryption from Instagram DMs today, citing low user adoption. The timing, the UK regulator fight, and the silence make the real reason obvious.",
+      "category": "power"
+    },
+    {
+      "id": "russia-victory-day-ceasefire",
+      "title": "Russia's Victory Day Ceasefire Is Already Over",
+      "subtitle": "Putin declared a 48-hour truce for May 9 commemorations. Ukraine launched 427 drones into Russia anyway. The ceasefire is real as theater and worthless as strategy.",
+      "category": "conflict"
+    },
+    {
+      "id": "april-jobs-beat",
+      "title": "115,000 Jobs in April. The Iran War Hasn't Hit the Labor Market. Yet.",
+      "subtitle": "April payrolls nearly doubled economist forecasts despite $4.50 gas and the biggest oil shock since 2022. Either the economy is genuinely resilient, or the damage is still in transit.",
+      "category": "decision"
+    },
+    {
+      "id": "doge-neh-grants-unconstitutional",
+      "title": "Judge Calls DOGE's NEH Grant Cuts 'Blatant.' Trump Will Ignore Her.",
+      "subtitle": "A federal judge ruled 1,400 humanities grants were canceled unconstitutionally by DOGE staffers who used ChatGPT and DEI keywords to slash $100 million in congressionally appropriated funds.",
       "category": "power"
     }
   ]
