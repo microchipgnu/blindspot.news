@@ -110,6 +110,58 @@
           "relationship": "Meta removing encryption increases the capacity for state surveillance of dissidents in countries where its legal compliance is required; Russia's ceasefire declaration is simultaneously a domestic narrative management tool for populations the state monitors through exactly such surveillance systems."
         }
       ]
+    },
+    {
+      "id": "anthropic-encirclement",
+      "title": "Anthropic's Week",
+      "description": "Three separate government actions today create a coherent pattern of pressure on a single company. The Pentagon blacklisted Anthropic as a supply chain risk. CAISI signed safety agreements with Google, Microsoft, and xAI but not Anthropic. The White House executive order on AI vetting is being drafted to cover models exactly like Anthropic's Mythos. Individually, each story is explicable on its own terms. Together they describe an encirclement: one government action through the military, one through commerce, one through the White House. A company that refused a Pentagon contract condition is now facing three simultaneous regulatory disadvantages.",
+      "type": "cause-effect",
+      "stories": ["pentagon-ai-anthropic-blacklist", "trump-ai-policy-reversal"],
+      "connections": [
+        {
+          "from": "pentagon-ai-anthropic-blacklist",
+          "to": "trump-ai-policy-reversal",
+          "relationship": "The Pentagon's exclusion of Anthropic from its AI partnerships established the political ground for CAISI to exclude Anthropic from voluntary safety agreements, which the White House executive order will formalize into a mandatory process where Anthropic enters with no established government relationship."
+        }
+      ]
+    },
+    {
+      "id": "iran-priced-in-everywhere",
+      "title": "Iran's Bill Comes Due",
+      "description": "The Iran war was treated as a shock event for its first two weeks. Today's briefing reveals it has become structural. The Fed held rates because of it and is fracturing over how to respond. Wall Street replaced its short-term trade with a long-war trade. Taiwan's opposition cited Iranian oil revenues as a reason to sequence arms purchases differently. The Fed transition from Powell to Warsh is complicated by whether a peace deal arrives before or after the new chair takes over. Iran is no longer a geopolitical story with economic side effects. It is an economic constraint with geopolitical side effects.",
+      "type": "dependency-web",
+      "stories": ["fed-fomc-dissent-warsh", "nacho-trade-oil-iran", "taiwan-defense-bill-passed", "iran-hormuz-ceasefire-breaks"],
+      "connections": [
+        {
+          "from": "nacho-trade-oil-iran",
+          "to": "fed-fomc-dissent-warsh",
+          "relationship": "The NACHO trade is the market pricing what the Fed cannot say officially: oil above $100 is no longer a transitory shock, which means the four FOMC dissenters who wanted tighter language were right, and Warsh inherits an institution that needs to revise its inflation model before it can set rational rates."
+        },
+        {
+          "from": "fed-fomc-dissent-warsh",
+          "to": "taiwan-defense-bill-passed",
+          "relationship": "High US interest rates from prolonged Iran-driven inflation constrain how much the US government can finance through bond issuance, which creates indirect pressure to compress overseas military commitments including arms delivery timelines to Taiwan."
+        },
+        {
+          "from": "iran-hormuz-ceasefire-breaks",
+          "to": "nacho-trade-oil-iran",
+          "relationship": "Each US-Iran exchange in the strait that occurs under a nominal ceasefire extends the insurance market's pricing of route risk, which is the physical mechanism that translates geopolitical instability into the persistent oil price the NACHO trade bets on."
+        }
+      ]
+    },
+    {
+      "id": "the-budget-you-pass-is-not-the-one-you-wanted",
+      "title": "What Passes Is Not What Protects",
+      "description": "Two stories today share a structure: a legislative body passed something called a protection, and the thing that passed is structurally inadequate to the threat it names. Taiwan's legislature passed an NT$780 billion defense bill as a deterrence measure while simultaneously cutting the arms pipeline by 40 percent before a summit where concessions on Taiwan arms are the likeliest trade. Moderate Senate Republicans blocked future Medicaid cuts while existing H.R. 1 cuts continue to reduce coverage for millions. In both cases the act of passing legislation is treated as a protection when the substance of what passed is closer to a liability.",
+      "type": "tension-cluster",
+      "stories": ["taiwan-defense-bill-passed", "medicaid-gop-cuts-blocked"],
+      "connections": [
+        {
+          "from": "taiwan-defense-bill-passed",
+          "to": "medicaid-gop-cuts-blocked",
+          "relationship": "Both cases involve legislative actors claiming a protective outcome while the structural outcome is the opposite: Taiwan's opposition capped defense spending at a number acceptable to China right before Trump meets Xi; Senate moderates blocked marginal future cuts while existing cuts already in law hit beneficiaries."
+        }
+      ]
     }
   ]
 }

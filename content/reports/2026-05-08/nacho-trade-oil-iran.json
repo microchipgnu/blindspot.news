@@ -1,0 +1,119 @@
+{
+  "id": "nacho-trade-oil-iran",
+  "date": "2026-05-08",
+  "generatedAt": "2026-05-08T18:00:00Z",
+  "title": "Wall Street Stopped Betting on a Quick Iran Deal. Markets Are Priced for a Long War.",
+  "subtitle": "The TACO trade assumed Trump would fold on Iran. The NACHO trade assumes he won't. The switch reveals something markets are only now pricing honestly.",
+  "topic": "economy",
+  "category": "decision",
+  "tags": ["oil", "Iran", "Hormuz", "markets", "Fed", "inflation", "NACHO", "TACO", "gold"],
+  "coverImage": {
+    "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-98112,msid-130956820/explained-what-is-the-new-nacho-trade-and-how-is-it-different-from-taco.jpg",
+    "local": "/images/reports/2026-05-08/nacho-trade-oil-iran.jpg",
+    "credit": "Economic Times"
+  },
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/05/08/traders-nacho-trade-strait-hormuz-oil-markets-taco-trump-iran.html",
+      "publisher": "CNBC",
+      "angle": "Reports the emergence of the NACHO acronym among Wall Street traders betting that oil stays elevated because Hormuz remains disrupted longer than initially assumed. Frames it as a reversal of the TACO (Trump Always Chickens Out) trade."
+    },
+    {
+      "url": "https://invezz.com/in/news/2026/05/08/forget-taco-wall-street-bets-on-nacho-as-hormuz-peace-hopes-vanish/",
+      "publisher": "Invezz",
+      "angle": "Explains the mechanics: oil drops sustainably only on a real Hormuz reopening. Until then, energy stocks, gold, and defense are buys. The trade is long oil, long gold near $5,000, and short cyclicals exposed to freight costs."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/newsletters/2026-05-05/iran-us-skirmishes-only-enlarge-oil-supply-gap",
+      "publisher": "Bloomberg",
+      "angle": "Documents that each US-Iran skirmish in the strait further disrupts insurance markets and tanker routing, compounding the supply gap even when hostilities don't escalate to direct strikes."
+    },
+    {
+      "url": "https://www.fxleaders.com/news/2026/05/08/middle-east-conflict-complicates-the-feds-inflation-fight/",
+      "publisher": "FX Leaders",
+      "angle": "Connects the oil market structure to the Fed's bind: sustained oil above $100 makes the supply-shock framing unsustainable and forces the Fed to treat Iran as a persistent inflation driver, not a transitory one."
+    }
+  ],
+  "brief": {
+    "actors": ["Iran", "US", "Fed", "Warsh", "Trump", "OPEC", "China"],
+    "whatHappened": "Wall Street traders have shifted from the TACO trade, which bet on Trump backing down from confrontation with Iran and oil prices falling, to what Bloomberg columnist Javier Blas coined the NACHO trade. NACHO bets that oil drops sustainably only on a real reopening of the Strait of Hormuz, pushes gold toward $5,000, and treats high oil as the baseline rather than the exception. The shift reflects growing market consensus that the conflict has lasted long enough to be structural, not episodic. WTI crude has already hit $100 this month. Polymarket prices a 43.5 percent chance WTI reaches $110 in May and a 38.5 percent chance it trades as low as $85.",
+    "bottomLine": "The NACHO trade is markets pricing what the Fed and White House are still refusing to say out loud: the Iran conflict is not a shock; it is the new baseline, and every institution that assumed otherwise needs to revise its assumptions.",
+    "hiddenBets": [
+      {
+        "assumption": "A peace deal resolves the oil supply problem quickly",
+        "whyItMightBeWrong": "Polymarket prices a peace deal by May 31 at 33.5 percent and by June 30 at 51.5 percent. Even a June deal leaves 8 weeks of tanker rerouting, insurance repricing, and refinery adjustment after the strait reopens. Physical oil markets lag financial markets by 4 to 6 weeks. A June deal does not produce $85 oil in June."
+      },
+      {
+        "assumption": "High oil is inflationary in a straightforward way the Fed can address with higher rates",
+        "whyItMightBeWrong": "Oil above $100 is simultaneously inflationary for consumers and deflationary for industry: it raises input costs, depresses consumer discretionary spending, and compresses margins. The Fed cannot cut the cost of oil with interest rate policy. Hiking into an oil shock slows growth without reducing oil prices. The NACHO trade implies stagflation; stagflation has no clean monetary policy response."
+      },
+      {
+        "assumption": "The NACHO trade is a new position rather than the old position relabeled",
+        "whyItMightBeWrong": "TACO was always a bet on Trump behavior, not on geopolitical resolution. NACHO is a bet on physical market conditions. They were never the same trade. The market's 'shift' may be traders recognizing that they confused a behavioral bet with a commodity bet."
+      }
+    ],
+    "realDisagreement": "The genuine tension is between two readings of the same data: oil above $100 and labor markets holding means the economy is more resilient than feared, suggesting the Fed can hold without causing a recession. Or: oil above $100 and labor markets holding means the recession lag is longer than usual but the damage is accumulating, and by the time job losses show up, they will be severe. Both readings fit the current data. The NACHO trade is implicitly the second reading. Markets pricing only a 22.5 percent recession probability are implicitly the first. One of them is badly wrong.",
+    "whatNoOneIsSaying": "China is the beneficiary of every week Hormuz stays disrupted. Chinese refiners are buying Iranian oil at a steep discount, building strategic reserves, and watching the US economy absorb inflation that Chinese manufacturers are insulated from. A quick peace deal is not in Beijing's economic interest. The Trump-Xi summit is nominally about trade; China's negotiating posture on Iran may be shaped by how much longer it wants the oil discount to last.",
+    "whoPays": [
+      {
+        "who": "US freight and logistics companies",
+        "how": "Every rerouted tanker adds 2 to 3 weeks of voyage time and 25 to 40 percent freight cost increases. That cost passes through to importers, then consumers. Companies with thin logistics margins face margin compression that interest rate cuts cannot fix.",
+        "when": "Ongoing for every week Hormuz remains disrupted"
+      },
+      {
+        "who": "Emerging market economies dependent on oil imports",
+        "how": "Countries in South Asia and Southeast Asia that import oil and export to dollar-denominated markets face a double squeeze: higher import costs in dollars and weakening local currencies as the dollar strengthens on safe-haven flows. Their central banks cannot raise rates without triggering debt crises.",
+        "when": "Immediate and compounding"
+      },
+      {
+        "who": "US consumers in rural and suburban areas",
+        "how": "Gasoline at $4.50 affects driving-dependent households disproportionately. These households have no transit alternative and cannot reduce consumption below a minimum threshold. The regressive distributional impact of oil shocks is larger than the aggregate inflation number suggests.",
+        "when": "Every fill-up, ongoing"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Peace Deal by June",
+        "whatHappens": "US-Iran deal signed by May 31. Strait reopens in stages over 4 weeks. Oil falls to $85 by mid-July. NACHO trade unwinds. Fed has room to cut in Q3. TACO traders briefly vindicated.",
+        "signal": "WTI futures curve flattens materially; one-month calendar spread collapses from backwardation. Polymarket peace deal market prices above 50 percent by May 20."
+      },
+      {
+        "name": "Sustained Disruption",
+        "whatHappens": "Conflict continues through summer. Oil oscillates between $100 and $120. Fed holds. Consumer confidence erodes. Recession probability climbs above 35 percent by September. Gold reaches $5,000.",
+        "signal": "WTI maintains backwardation through June; Polymarket recession odds cross 30 percent."
+      },
+      {
+        "name": "Escalation Spike",
+        "whatHappens": "A direct US or Israeli strike on Iranian port infrastructure closes Hormuz for more than 30 days. Oil spikes above $140. Fed faces stagflationary emergency. Emergency rate holds with explicit forward guidance against hiking.",
+        "signal": "WTI crosses $120 on a single session; Polymarket $130 oil market crosses 10 percent."
+      }
+    ],
+    "whatWouldChange": "If the peace deal closes before May 31 (Polymarket: 33.5%), the entire NACHO trade thesis collapses and oil falls sharply. The signal to watch is not the deal announcement but the first week of tanker movements through Hormuz after any ceasefire: if insurance rates don't fall immediately, the market is saying it doesn't believe the deal.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will WTI Crude Oil hit (HIGH) $110 in May?",
+        "url": "https://polymarket.com/event/what-price-will-wti-hit-in-may-2026",
+        "probability": 0.435
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will WTI Crude Oil hit (LOW) $85 in May?",
+        "url": "https://polymarket.com/event/what-price-will-wti-hit-in-may-2026",
+        "probability": 0.385
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US x Iran permanent peace deal by May 31, 2026?",
+        "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by",
+        "probability": 0.335
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US recession by end of 2026?",
+        "url": "https://polymarket.com/event/us-recession-by-end-of-2026",
+        "probability": 0.225
+      }
+    ]
+  }
+}

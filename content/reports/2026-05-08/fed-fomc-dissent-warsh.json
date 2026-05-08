@@ -1,0 +1,124 @@
+{
+  "id": "fed-fomc-dissent-warsh",
+  "date": "2026-05-08",
+  "generatedAt": "2026-05-08T18:00:00Z",
+  "title": "Powell's Last Meeting. Four Dissents. And Warsh Waiting.",
+  "subtitle": "The Fed's most divided vote since 1992 revealed a central bank that no longer agrees on what it is supposed to do. The incoming chair inherits the contradiction.",
+  "topic": "economy",
+  "category": "decision",
+  "tags": ["Fed", "FOMC", "Powell", "Warsh", "inflation", "stagflation", "Iran", "interest rates"],
+  "coverImage": {
+    "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyiMV14BDUxk/v1/1200x800.jpg",
+    "local": "/images/reports/2026-05-08/fed-fomc-dissent-warsh.jpg",
+    "credit": "Bloomberg / Andrew Harrer"
+  },
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/04/29/fed-interest-rate-decision-april-2026.html",
+      "publisher": "CNBC",
+      "angle": "Reports the 4-dissent vote, Powell's announcement he will stay on as governor, and the internal split between those wanting cuts (Miran) and those wanting hikes (Hammack, Kashkari, Bostic)."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-04-29/fed-dissents-why-4-officials-voted-against-fomc-decision",
+      "publisher": "Bloomberg",
+      "angle": "Explains the ideological split: three dissenters wanted to acknowledge inflation risk more explicitly in the statement, one wanted to cut rates. The disagreement is about the Iran war's economic character, not just its timing."
+    },
+    {
+      "url": "https://businesstech.news/fed-iran-war-anxiety-april-dissents-stagflation/",
+      "publisher": "BusinessTech",
+      "angle": "Argues the dissents signal that Fed officials no longer believe their own 'transitory shock' framing of the Iran war's economic impact."
+    },
+    {
+      "url": "https://www.cbsnews.com/news/federal-reserve-fomc-meeting-today-rate-decision-jerome-powell-kevin-warsh/",
+      "publisher": "CBS News",
+      "angle": "Focuses on Powell's vow to stay as governor after his chair term ends, framing it as a check on the incoming Warsh administration. DOJ investigation referenced as leverage."
+    },
+    {
+      "url": "https://finance.yahoo.com/economy/policy/article/federal-reserve-holds-steady-as-divisions-emerge-over-interest-rate-stance-130000414.html",
+      "publisher": "Yahoo Finance",
+      "angle": "Names the four dissenters and characterizes the disagreement as structural, not tactical: the four officials hold incompatible views on whether the Iran shock is inflationary or deflationary."
+    }
+  ],
+  "brief": {
+    "actors": ["Powell", "Warsh", "Fed", "Hammack", "Kashkari", "Miran", "Bostic"],
+    "whatHappened": "The Federal Reserve held interest rates at 3.5 to 3.75 percent at its April 29 meeting, the third consecutive hold. Four officials dissented, the most since 1992. Three of the four wanted tighter policy language acknowledging inflation risk from the Iran oil shock; one wanted an immediate rate cut citing labor market softening. Jerome Powell announced he will remain on the Fed Board of Governors after his chair term ends in May, despite Kevin Warsh having cleared Senate confirmation and being ready to take the chair position. A DOJ investigation into the Fed's building renovation, which Powell called politically motivated, is the stated reason for his continued presence.",
+    "bottomLine": "The four dissents are not a procedural anomaly. They reflect a genuine institutional fracture: the Fed cannot agree on whether $4.50 gasoline is an inflation problem requiring hikes or a growth shock requiring cuts, and Warsh inherits a divided institution on his first day with Powell still in the room.",
+    "hiddenBets": [
+      {
+        "assumption": "Warsh will unify the Fed around a clear rate path once he takes over",
+        "whyItMightBeWrong": "The disagreement among dissenters is not about personality or leadership; it is about whether the Iran war is fundamentally inflationary or deflationary. Warsh will face the same empirical ambiguity Powell faced. His policy instincts lean hawkish, which would make three of the four dissenters his allies but alienate Miran, who is a Trump ally."
+      },
+      {
+        "assumption": "Powell's decision to stay as governor is about institutional integrity",
+        "whyItMightBeWrong": "Powell staying on the board while Warsh chairs is structurally unusual and guarantees a public dissent record. Every time Warsh votes for a rate cut to satisfy Trump, Powell can dissent with institutional credibility. Staying on is not neutral; it is a veto mechanism."
+      },
+      {
+        "assumption": "The 22.5% recession probability priced by markets reflects the true downside risk",
+        "whyItMightBeWrong": "The Polymarket recession market was set before the April jobs beat and before the 5th Circuit mifepristone ruling redirected consumer health spending pressure. The market may be stale. More importantly, 22.5% assumes the Iran conflict resolves within 90 days; if it doesn't, stagflation scenarios that the Fed is not prepared to handle become more likely."
+      }
+    ],
+    "realDisagreement": "The actual fork is this: the Fed can prioritize price stability, which means holding or hiking into a softening labor market, or it can prioritize employment, which means cutting into an oil-driven inflation environment. Both mandates are statutory. They cannot both be satisfied when a war is causing a supply shock. The standard answer is to look through temporary supply shocks, but the Iran conflict has now lasted long enough that calling it temporary is a political judgment, not an economic one. Warsh's hawkish instincts push toward holding or hiking, which is the intellectually consistent position but one that will produce job losses in the second half of 2026. That is the position the market is not pricing.",
+    "whatNoOneIsSaying": "Powell staying on the board converts the Federal Reserve from a technocratic institution into an implicit political check on Trump. That is exactly what the Fed is not supposed to be. Powell is doing it anyway, and calling it governance.",
+    "whoPays": [
+      {
+        "who": "Homebuyers and mortgage holders",
+        "how": "Every month the Fed holds at 3.5 to 3.75 percent is another month of 7.5 percent mortgage rates. The housing market is effectively frozen for buyers who need financing. A hawkish Warsh holding or hiking means this persists through 2027.",
+        "when": "Ongoing, compounding through 2026"
+      },
+      {
+        "who": "Small businesses with variable-rate debt",
+        "how": "Small businesses carry disproportionately more floating-rate credit than large firms. Holding rates while input costs rise from oil creates a margin squeeze with no relief valve.",
+        "when": "Q3-Q4 2026"
+      },
+      {
+        "who": "Workers in rate-sensitive sectors",
+        "how": "Construction, manufacturing, and retail are the most exposed to high borrowing costs. If Warsh holds or hikes, these sectors contract first. The April jobs beat did not come from these sectors.",
+        "when": "6-9 months"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Warsh Hikes Into Weakness",
+        "whatHappens": "Warsh takes the chair, prioritizes inflation credibility, holds or nudges rates up through Q3. The labor market begins softening in late 2026 as construction and manufacturing pull back. Recession odds climb above 40 percent.",
+        "signal": "First FOMC meeting under Warsh ends with no cut and a statement emphasizing inflation vigilance."
+      },
+      {
+        "name": "Political Cut",
+        "whatHappens": "Trump pressures Warsh publicly; Warsh cuts by 25 basis points in Q3 despite elevated inflation. Powell dissents on record. Treasury markets sell off as credibility erodes. Long-term rates rise even as short rates fall.",
+        "signal": "Trump posts about interest rates on social media within 30 days of Warsh taking the chair."
+      },
+      {
+        "name": "Iran Deal Unlocks Cuts",
+        "whatHappens": "A US-Iran peace deal by end of May (16.7% on Polymarket) collapses oil prices back toward $80, inflation cools, and the Iran-war dissenters' arguments collapse. Warsh cuts in Q3 with institutional unity and political cover.",
+        "signal": "WTI crude drops below $85 within two weeks of a ceasefire announcement; Polymarket already prices this low at 38.5% chance."
+      }
+    ],
+    "whatWouldChange": "If the Iran conflict ends before Warsh's first meeting and oil drops below $90, the case for prolonged holds weakens significantly. Also: if Warsh's first statement language emphasizes the dual mandate rather than price stability alone, that signals he intends to be more dovish than his public statements suggest, and the 'hawkish inheritance' frame is wrong.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Jerome Powell depart as Fed Chair by May 16 2026?",
+        "url": "https://polymarket.com/event/jerome-powell-departs-as-fed-chair-by",
+        "probability": 0.875
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Kevin Warsh be confirmed as Fed Chair?",
+        "url": "https://polymarket.com/event/who-will-be-confirmed-as-fed-chair",
+        "probability": 0.997
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US recession by end of 2026?",
+        "url": "https://polymarket.com/event/us-recession-by-end-of-2026",
+        "probability": 0.225
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US x Iran permanent peace deal by May 31, 2026?",
+        "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by",
+        "probability": 0.335
+      }
+    ]
+  }
+}

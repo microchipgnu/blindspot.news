@@ -61,6 +61,36 @@
       "title": "Judge Calls DOGE's NEH Grant Cuts 'Blatant.' Trump Will Ignore Her.",
       "subtitle": "A federal judge ruled 1,400 humanities grants were canceled unconstitutionally by DOGE staffers who used ChatGPT and DEI keywords to slash $100 million in congressionally appropriated funds.",
       "category": "power"
+    },
+    {
+      "id": "trump-ai-policy-reversal",
+      "title": "Trump Wants to Regulate AI Now. The Industry It Threatened Is Thanking Him.",
+      "subtitle": "The White House is drafting an executive order to vet AI models before release. The companies that would bear the cost helped design the system.",
+      "category": "power"
+    },
+    {
+      "id": "fed-fomc-dissent-warsh",
+      "title": "Powell's Last Meeting. Four Dissents. And Warsh Waiting.",
+      "subtitle": "The Fed's most divided vote since 1992 revealed a central bank that no longer agrees on what it is supposed to do. The incoming chair inherits the contradiction.",
+      "category": "decision"
+    },
+    {
+      "id": "taiwan-defense-bill-passed",
+      "title": "Taiwan Passed Its Defense Bill. The Opposition Cut It by 40 Percent.",
+      "subtitle": "The KMT and TPP forced through NT$780 billion instead of the NT$1.25 trillion the government requested, days before Trump meets Xi in Beijing.",
+      "category": "conflict"
+    },
+    {
+      "id": "mifepristone-scotus-telehealth",
+      "title": "The Supreme Court Has Until Monday to Save Telehealth Abortion Access. It Probably Will. That's Not the Point.",
+      "subtitle": "SCOTUS paused the 5th Circuit's ban on mifepristone by mail until May 11. The real question is what happens after the pause.",
+      "category": "power"
+    },
+    {
+      "id": "nacho-trade-oil-iran",
+      "title": "Wall Street Stopped Betting on a Quick Iran Deal. Markets Are Priced for a Long War.",
+      "subtitle": "The TACO trade assumed Trump would fold on Iran. The NACHO trade assumes he won't. The switch reveals something markets are only now pricing honestly.",
+      "category": "decision"
     }
   ]
 }

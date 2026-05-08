@@ -1,0 +1,94 @@
+{
+  "id": "trump-ai-policy-reversal",
+  "date": "2026-05-08",
+  "generatedAt": "2026-05-08T18:00:00Z",
+  "title": "Trump Wants to Regulate AI Now. The Industry It Threatened Is Thanking Him.",
+  "subtitle": "The White House is drafting an executive order to vet AI models before release. The companies that would bear the cost helped design the system.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["AI", "regulation", "CAISI", "Anthropic", "Trump", "Mythos", "national security"],
+  "coverImage": {
+    "url": "https://www.claimsjournal.com/app/uploads/2026/05/Kevin-Hassett_Bloomberg-scaled.jpg",
+    "local": "/images/reports/2026-05-08/trump-ai-policy-reversal.jpg",
+    "credit": "Claims Journal / Bloomberg"
+  },
+  "sources": [
+    {
+      "url": "https://www.insurancejournal.com/news/national/2026/05/07/868812.htm",
+      "publisher": "Insurance Journal",
+      "angle": "White House economic adviser Kevin Hassett confirmed the administration is studying an executive order modeled on FDA drug approval to vet AI models before public release, citing Anthropic's Mythos as the trigger."
+    },
+    {
+      "url": "https://www.theregister.com/ai-and-ml/2026/05/08/trump-jumps-from-anything-goes-to-strict-regulation-ai-policy/5234687",
+      "publisher": "The Register",
+      "angle": "Frames the pivot as a reversal from Trump's earlier 'anything goes' stance, arguing the shift is about cybersecurity risk to US networks rather than embracing EU-style AI governance."
+    },
+    {
+      "url": "https://siliconangle.com/2026/05/05/google-microsoft-xai-agree-allow-government-safety-checks-ai-models-prior-release/",
+      "publisher": "SiliconAngle",
+      "angle": "Google, Microsoft, and xAI agreed to share unreleased models with CAISI for national security testing. Anthropic was not included in the voluntary agreement."
+    },
+    {
+      "url": "https://www.computerworld.com/article/4168137/us-government-agency-to-safety-test-frontier-ai-models-before-release-3.html",
+      "publisher": "Computerworld",
+      "angle": "CAISI signed the agreements with Google DeepMind, Microsoft, and xAI to pre-test models. The timing followed the Mythos incident, not a planned policy rollout."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Anthropic", "Google", "Microsoft", "xAI", "CAISI", "Hassett"],
+    "whatHappened": "The White House is preparing an executive order that would require AI models to undergo government safety testing before public release, modeled on FDA drug approval. National Economic Council Director Kevin Hassett announced the plan on May 7, citing Anthropic's Mythos as evidence that unreleased models pose immediate cybersecurity risks. Separately, the Center for AI Standards and Innovation at the Commerce Department announced agreements with Google, Microsoft, and xAI to share pre-release models for security evaluation. Anthropic was not included in either agreement.",
+    "bottomLine": "This is not safety regulation. It is a market structure play: the firms that agreed to share models with the government get advance notice of the rules; the firm that didn't gets framed as the threat that justified them.",
+    "hiddenBets": [
+      {
+        "assumption": "The executive order is about national security risk from AI models",
+        "whyItMightBeWrong": "The three firms that signed voluntary agreements with CAISI are the same firms the Pentagon chose for its AI partnerships last month. The sequencing suggests the voluntary agreement was a loyalty test, not a technical one."
+      },
+      {
+        "assumption": "Pre-release government vetting makes AI models safer",
+        "whyItMightBeWrong": "The FDA comparison breaks down immediately: drugs are tested against biological standards that exist independent of the regulator. AI capabilities have no agreed standard, which means CAISI evaluates models against criteria it sets itself. That is not safety testing; it is discretionary gatekeeping."
+      },
+      {
+        "assumption": "Anthropic's exclusion is about its safety-first positioning creating friction with the Pentagon",
+        "whyItMightBeWrong": "Anthropic may simply have refused to share pre-release access. If so, the executive order is designed to make that refusal costly, converting voluntary cooperation into a compliance requirement with Anthropic starting behind."
+      }
+    ],
+    "realDisagreement": "The genuine tension is between two things that both seem right: advanced AI models do pose real cybersecurity risks that justify government oversight, and government pre-release vetting concentrates enormous discretionary power in an agency with no track record and clear conflicts of interest. Both are true. You cannot have a neutral safety system when the evaluator has commercial and national security relationships with the companies being evaluated. The right answer is probably independent third-party auditing with published criteria, not CAISI. But that answer produces no winners in Washington, which is why it won't happen.",
+    "whatNoOneIsSaying": "The executive order effectively makes the US government a silent venture partner in frontier AI development. Access to pre-release models means CAISI will know capabilities before markets do. That is not a safety function; it is an intelligence function disguised as one.",
+    "whoPays": [
+      {
+        "who": "Anthropic",
+        "how": "If the executive order passes as described, Anthropic's refusal to participate in voluntary agreements means it enters the mandatory regime with no established relationship with CAISI evaluators, facing longer and less predictable review timelines than Google or Microsoft.",
+        "when": "Immediately upon executive order signing"
+      },
+      {
+        "who": "Open-source AI developers",
+        "how": "Pre-release vetting only functions if models have identifiable release events. Open-source models released in stages or without formal deployment have no clear compliance path, which could force them into a gray zone or de facto prohibition.",
+        "when": "6-12 months post-order"
+      },
+      {
+        "who": "Foreign AI developers",
+        "how": "An FDA-style approval requirement applies to models released in the US market. Chinese and European developers either comply with US government access requirements or lose the US market. That is either a trade barrier or an intelligence collection mechanism.",
+        "when": "12-18 months post-order"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Compliance Club",
+        "whatHappens": "The executive order passes with CAISI as gatekeeper. Google, Microsoft, and xAI move through the process quickly; Anthropic faces delays. The effect is a soft barrier to entry that favors incumbents with government relationships.",
+        "signal": "CAISI sets a 90-day review timeline and immediately grants expedited review to the three firms that signed voluntary agreements."
+      },
+      {
+        "name": "Legal Injunction",
+        "whatHappens": "Anthropic or an open-source coalition challenges the executive order as exceeding Commerce authority. Courts pause implementation pending review. The administration modifies the order to apply only to government procurement, not commercial release.",
+        "signal": "Anthropic files for preliminary injunction within 30 days of order signing."
+      },
+      {
+        "name": "Standards Capture",
+        "whatHappens": "CAISI publishes evaluation criteria written with industry input. The criteria systematically favor the architecture choices of the three participating firms. Open-source and foreign models structurally fail compliance. The US AI market consolidates to three vendors.",
+        "signal": "CAISI's published evaluation rubric uses benchmark scores that only commercially available models can run."
+      }
+    ],
+    "whatWouldChange": "If the executive order applies identical timelines and criteria to all firms including the three CAISI partners, and if the evaluation rubric is published and subject to public comment before implementation, the analysis above is too cynical. That would be genuine safety policy. Watch for whether the order includes independent appeal mechanisms and whether Anthropic gets the same procedural rights as Google.",
+    "markets": []
+  }
+}
