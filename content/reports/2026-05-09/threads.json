@@ -35,21 +35,35 @@
       ]
     },
     {
-      "id": "sovereignty-as-weapon",
-      "title": "Whose Law Applies Here",
-      "description": "Four of today's five stories are about contested jurisdiction: who gets to define the legal rules that govern cross-border behavior. France claims criminal jurisdiction over a US platform operating on French servers. The US Court of International Trade claims authority to invalidate executive tariffs that the administration insists are a core presidential prerogative. Iran and the US are each defining 'ceasefire' to mean what is convenient. Thailand's OBON allegedly exploited the seam between US export control jurisdiction and Thai commercial sovereignty. The common thread is that legal authority over cross-border activity is genuinely unsettled, and sophisticated actors are exploiting the settlement process itself as the strategy.",
-      "type": "tension-cluster",
-      "stories": ["musk-france-criminal-probe", "tariffs-court-ruling", "iran-ceasefire-hormuz", "nvidia-chip-smuggling-thailand"],
+      "id": "industry-writes-the-rules",
+      "title": "Regulated Industry Designs Its Own Regulator",
+      "description": "Two stories today show the same dynamic at different scales: an industry facing political pressure to be regulated accelerates into the regulatory process to control its outcome. Anthropic disclosed Mythos's dangerous capabilities, triggered a White House panic, and is now co-designing the vetting regime through pre-existing CAISI agreements. The GUARD Act passed committee 22-0 with tech companies' own AI age-detection tools announced the same week as the vote, positioning Meta and others as the compliance infrastructure their own regulation requires. In both cases, the company that helped create the problem is being handed the contract to fix it.",
+      "type": "cause-effect",
+      "stories": ["white-house-ai-vetting-mythos", "guard-act-social-media-ban-minors"],
       "connections": [
         {
-          "from": "musk-france-criminal-probe",
-          "to": "tariffs-court-ruling",
-          "relationship": "The Trump administration argues US courts cannot restrain presidential trade authority; France argues French courts can reach US tech executives operating in France. Both claims assert domestic jurisdiction over cross-border behavior that the other side disputes. They are the same argument from different sides."
+          "from": "white-house-ai-vetting-mythos",
+          "to": "guard-act-social-media-ban-minors",
+          "relationship": "The White House AI vetting framework and the GUARD Act are proceeding in parallel and will likely converge: both require identity verification before AI access, and both are being shaped by the largest AI companies. The vetting regime Anthropic helped prompt, and the age verification system Meta announced alongside the GUARD Act vote, are moving toward the same endpoint: centralized identity checkpoints for AI access controlled by the incumbents."
+        }
+      ]
+    },
+    {
+      "id": "trump-mediates-the-wars-he-benefits-from",
+      "title": "Trump as Mediator of Crises That Serve His Agenda",
+      "description": "Three geopolitical stories today involve Trump as the decisive external actor in regional conflicts, with each mediation reinforcing a different piece of his strategic agenda. He stopped Operation Sindoor and rehabilitated Pakistan's army chief to preserve his role in the Iran deal. His summit with Xi is framed as Iran-war coordination while simultaneously leveraging China's export strength to extract trade and tech concessions. The Strait of Hormuz ceasefire runs through Trump's relationship with both Iran and the Gulf states. None of these mediations are neutral: each one produces political capital for Trump domestically and internationally while the underlying conflicts remain unresolved.",
+      "type": "dependency-web",
+      "stories": ["iran-ceasefire-hormuz", "india-pakistan-sindoor-anniversary", "china-exports-record-trump-xi-summit"],
+      "connections": [
+        {
+          "from": "india-pakistan-sindoor-anniversary",
+          "to": "iran-ceasefire-hormuz",
+          "relationship": "Pakistan, whose army chief Trump is now hosting, is a critical intermediary in Gulf regional stability and has interests in the Iran conflict's resolution. Trump's rehabilitation of Asim Munir is not separate from the Iran deal: Pakistan's cooperation with US Gulf strategy is part of what makes the Hormuz situation manageable, which is why the price of Rubio stopping Operation Sindoor was Pakistan's restoration to respectability."
         },
         {
-          "from": "nvidia-chip-smuggling-thailand",
-          "to": "iran-ceasefire-hormuz",
-          "relationship": "The Hormuz ceasefire and the chip diversion route both exploit the same gap: the US government's authority ends at its physical enforcement reach. In the Strait, Iran operates beyond the reach of US court orders. In Southeast Asia, OBON allegedly operated beyond the reach of US export inspectors. In both cases, the gap between US legal authority and US physical reach is where the action happens."
+          "from": "iran-ceasefire-hormuz",
+          "to": "china-exports-record-trump-xi-summit",
+          "relationship": "China's record April exports were partly driven by buyers front-loading orders before anticipated Hormuz-driven supply disruptions. China needs the Iran war to end to stabilize its export markets. Trump controls the pace of the Iran resolution, which means the summit's trade agenda and its Iran agenda are the same negotiation, not two separate ones."
         }
       ]
     }

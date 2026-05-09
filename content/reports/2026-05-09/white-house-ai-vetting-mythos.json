@@ -1,0 +1,112 @@
+{
+  "id": "white-house-ai-vetting-mythos",
+  "date": "2026-05-09",
+  "generatedAt": "2026-05-09T12:00:00Z",
+  "title": "The White House Wants an FDA for AI. The Problem Is That Anthropic Wrote the Prescription.",
+  "subtitle": "A single model from Anthropic alarmed the VP, scrambled the administration's deregulatory posture, and may hand the biggest AI companies a regulatory moat they've been building toward for years.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["AI", "regulation", "Anthropic", "White House", "cybersecurity", "CAISI"],
+  "coverImage": {
+    "url": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/artificial-intelligence-(ai)-security.jpg?sfvrsn=982907ba_5",
+    "local": "/images/reports/2026-05-09/white-house-ai-vetting-mythos.jpg",
+    "credit": "Lawfare"
+  },
+  "sources": [
+    {
+      "url": "https://www.lawfaremedia.org/article/mythos-fallout--u.s.-government-weighs-ai-model-regulation",
+      "publisher": "Lawfare",
+      "angle": "Argues the administration should watch and learn before locking in an FDA-style regime, noting that global cybersecurity authorities are already bracing for AI-enabled vulnerability waves"
+    },
+    {
+      "url": "https://threatbeat.com/government-and-industry/how-anthropics-mythos-threw-the-white-house-ai-strategy-into-chaos/",
+      "publisher": "Threat Beat (WSJ reporting)",
+      "angle": "Reconstructs how a private call with JD Vance and top AI CEOs set off the current policy scramble after Mythos demonstrated autonomous vulnerability-finding capabilities"
+    },
+    {
+      "url": "https://www.computerworld.com/article/4168137/us-government-agency-to-safety-test-frontier-ai-models-before-release-3.html",
+      "publisher": "Computerworld",
+      "angle": "Reports that CAISI (NIST division) has already signed pre-deployment vetting agreements with Google DeepMind, Microsoft, xAI, Anthropic, and OpenAI before any executive order exists"
+    },
+    {
+      "url": "https://www.politico.com/news/2026/05/07/white-house-ai-oversight-00910837",
+      "publisher": "Politico",
+      "angle": "Notes the White House quickly walked back Hassett's FDA analogy, with a senior official saying they want partnerships not regulation, revealing the internal split"
+    },
+    {
+      "url": "https://www.dailysignal.com/2026/05/07/trump-mulls-ai-regulation-orders/",
+      "publisher": "The Daily Signal",
+      "angle": "Conservative-leaning outlet highlights that administration insiders say multiple draft executive orders exist but which ones reach Trump's desk is still contested"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Anthropic", "White House", "JD Vance", "NIST", "OpenAI", "Google", "Microsoft", "xAI"],
+    "whatHappened": "National Economic Council Director Kevin Hassett said on May 7 that the White House is studying an executive order that would require AI models to undergo FDA-style government vetting before public release. The announcement came weeks after Anthropic revealed that its Mythos model can autonomously identify software vulnerabilities at scale, prompting an alarmed private call between VP JD Vance and the CEOs of OpenAI, Anthropic, Google, Microsoft, and SpaceX. CAISI, a division of NIST inside the Commerce Department, has already signed pre-deployment vetting agreements with all five major AI labs. The White House walked back the FDA framing within 24 hours, with a senior official insisting they want partnerships rather than regulation, but multiple executive orders are being drafted.",
+    "bottomLine": "Anthropic built a model that scared the government into considering pre-release AI gatekeeping. The company that benefits most from that gatekeeping is Anthropic.",
+    "hiddenBets": [
+      {
+        "assumption": "This is a genuine security response to a genuine threat",
+        "whyItMightBeWrong": "Anthropic has spent years arguing that only well-resourced safety-focused labs can build frontier AI responsibly. Mythos's scariness, publicly disclosed by Anthropic itself, arrived precisely when Congress was debating whether to require exactly the kind of pre-release reviews Anthropic is already doing internally. The timing and framing serve the company's competitive interests too cleanly to be coincidental."
+      },
+      {
+        "assumption": "An FDA-style review would slow AI development equally across the industry",
+        "whyItMightBeWrong": "The FDA analogy works for incumbents with compliance infrastructure and government relationships already in place. CAISI signed agreements with the five largest AI labs before any executive order existed. Startups and open-source developers lack the legal and technical apparatus to participate in a formal review process, which means the vetting regime would function as a moat for the companies that helped design it."
+      },
+      {
+        "assumption": "The White House reversal means this policy is dead",
+        "whyItMightBeWrong": "Senior officials denied the FDA framing but not the substance. CAISI's agreements are already operational. The Daily Signal reports multiple draft executive orders circulating inside the administration. An election-year security posture, combined with industry players who want predictable rules, creates durable pressure toward some formal review mechanism regardless of branding."
+      }
+    ],
+    "realDisagreement": "The genuine fork is between treating frontier AI like a pharmaceutical, where safety must be proven before release, versus treating it like software, where security is a continuous responsibility after release. The pharmaceutical model protects against catastrophic pre-release failure but creates gatekeeping that incumbents can game. The software model preserves competition and open development but accepts that dangerous capabilities will sometimes escape into the wild. The administration instinctively drifted toward pharma after Mythos, then backed away when industry pushed back. The backing-away was politically smart: it preserved the deregulatory brand. But the underlying security problem that Mythos exposed did not go away, and the next alarming model will restart the same cycle. The pharmaceutical model is more honest about what frontier AI actually is: a product that can cause mass harm if released carelessly. What you give up is any pretense that this market remains competitive.",
+    "whatNoOneIsSaying": "The five companies that signed pre-deployment agreements with CAISI are the same five companies that would benefit from a regulatory regime requiring those agreements. They are not being subjected to oversight. They are co-designing it.",
+    "whoPays": [
+      {
+        "who": "Open-source AI developers and smaller AI startups",
+        "how": "Any mandatory pre-release vetting process will require legal teams, government liaisons, and compliance infrastructure that only large well-capitalized labs can maintain. The informal agreements CAISI already has with the big five will become the template, and companies without those relationships will find themselves outside the tent.",
+        "when": "Within 6-12 months if an executive order is signed"
+      },
+      {
+        "who": "Local governments, hospitals, and utilities",
+        "how": "If vetting succeeds in delaying dangerous AI capabilities, they benefit from reduced cyberattack surface. If it fails but creates a false assurance of safety, they may invest in AI-integrated systems that remain vulnerable while believing they are protected.",
+        "when": "Ongoing, with risk materializing as AI-enabled cyberattacks scale"
+      },
+      {
+        "who": "Non-US AI developers",
+        "how": "US vetting requirements apply to US-domiciled companies. Chinese, European, and open-source developers outside US jurisdiction face no equivalent review, meaning US companies bear compliance costs that foreign competitors do not.",
+        "when": "Immediately upon any executive order taking effect"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Light-touch partnership",
+        "whatHappens": "The executive order establishes voluntary agreements with major labs, codifying what CAISI already has. No mandatory pre-release holds. The FDA language is buried. Anthropic and OpenAI describe themselves as responsible actors who invited oversight.",
+        "signal": "The executive order uses the word 'partnership' rather than 'review' or 'approval' in its operative language"
+      },
+      {
+        "name": "Hard gate for high-risk models",
+        "whatHappens": "A formal pre-release hold applies to models above a specific capability threshold, defined in part by vulnerability-finding benchmarks derived from Mythos. Anthropic and OpenAI can meet the bar. Most startups cannot.",
+        "signal": "The executive order defines a capability threshold and assigns a government agency mandatory approval authority rather than advisory authority"
+      },
+      {
+        "name": "Congressional override",
+        "whatHappens": "The GUARD Act and social media regulation create momentum for broader AI legislation. Congress passes its own framework that either preempts the executive order or forces it to go further than the administration wants.",
+        "signal": "The GUARD Act passes the Senate floor vote with bipartisan support above 60"
+      }
+    ],
+    "whatWouldChange": "If Anthropic disclosed that Mythos was released with intentional capability constraints precisely to trigger this regulatory response, the regulatory-capture framing would be confirmed rather than inferred. Alternatively, if a non-Anthropic open-source model demonstrated comparable vulnerability-finding and the administration still pushed for the same vetting regime, it would suggest the security concern is genuine rather than engineered.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Trump orders federal review of AI model releases by May 31?",
+        "url": "https://polymarket.com/event/trump-orders-federal-review-for-ai-model-releases-by-may-31",
+        "probability": 0.085
+      },
+      {
+        "platform": "Polymarket",
+        "question": "U.S. enacts AI safety bill before 2027?",
+        "url": "https://polymarket.com/event/us-enacts-ai-safety-bill-before-2027",
+        "probability": 0.24
+      }
+    ]
+  }
+}

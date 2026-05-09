@@ -1,6 +1,6 @@
 {
   "date": "2026-05-09",
-  "generatedAt": "2026-05-09T08:00:00Z",
+  "generatedAt": "2026-05-09T12:00:00Z",
   "reports": [
     {
       "id": "iran-ceasefire-hormuz",
@@ -31,6 +31,30 @@
       "title": "France Opens Criminal Case Against Musk and X. He Still Isn't Coming.",
       "subtitle": "French prosecutors escalated their probe of Elon Musk and X to a criminal investigation after he and former CEO Linda Yaccarino ignored summons. The US government previously called the probe a political attack on an American business.",
       "category": "conflict"
+    },
+    {
+      "id": "white-house-ai-vetting-mythos",
+      "title": "The White House Wants an FDA for AI. The Problem Is That Anthropic Wrote the Prescription.",
+      "subtitle": "A single model from Anthropic alarmed the VP, scrambled the administration's deregulatory posture, and may hand the biggest AI companies a regulatory moat they've been building toward for years.",
+      "category": "power"
+    },
+    {
+      "id": "india-pakistan-sindoor-anniversary",
+      "title": "One Year After Operation Sindoor, Pakistan's Army Chief Is Having Lunch at the White House",
+      "subtitle": "India launched precision strikes on Pakistan a year ago and claims strategic victory. But the country it was trying to isolate is now being embraced by the same mediator who stopped the war.",
+      "category": "conflict"
+    },
+    {
+      "id": "china-exports-record-trump-xi-summit",
+      "title": "China's Exports Hit a Monthly Record While Trump Is Flying to Beijing to Demand Concessions",
+      "subtitle": "China's April export surge was driven partly by buyers front-loading against Iran war supply disruptions. It also gives Xi Jinping a stronger hand at next week's summit than any tariff threat could have produced.",
+      "category": "power"
+    },
+    {
+      "id": "guard-act-social-media-ban-minors",
+      "title": "The GUARD Act Passed Committee 22-0. It Would Also Require All Adults to Show ID Before Using a Chatbot.",
+      "subtitle": "Framed as child protection, the bill advancing through the US Senate would build a national ID database for AI access. The same architecture is being replicated in Australia, Ireland, and the UK simultaneously.",
+      "category": "power"
     }
   ]
 }
