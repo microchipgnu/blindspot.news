@@ -1,0 +1,98 @@
+{
+  "id": "samsung-ai-profit-strike",
+  "date": "2026-05-09",
+  "generatedAt": "2026-05-09T17:40:00Z",
+  "title": "Samsung Workers Want 15% of the AI Boom. Management Says the Company Can't Afford It.",
+  "subtitle": "Samsung's union is threatening an 18-day strike starting May 21, demanding a share of the HBM windfall that helped drive Korea's GDP. The company says paying out would hurt competitiveness. One of them is right.",
+  "topic": "economy",
+  "category": "conflict",
+  "tags": ["Samsung", "labor", "AI", "semiconductors", "HBM", "Korea", "strike"],
+  "coverImage": {
+    "url": "https://wimg.heraldcorp.com/news/cms/2026/05/07/news-p.v1.20260507.a59166cfbbc2441383a9004e086d9bd3_T1.png",
+    "local": "/images/reports/2026-05-09/samsung-ai-profit-strike.jpg",
+    "credit": "Korea Herald / Yonhap"
+  },
+  "sources": [
+    {
+      "url": "https://www.koreaherald.com/article/10733167",
+      "publisher": "Korea Herald",
+      "angle": "Supply chain risk angle: Samsung is the world's largest memory chipmaker; a strike would ripple through global semiconductor supply; union demands represent 45 trillion won estimated payout"
+    },
+    {
+      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=153549",
+      "publisher": "Korea IT Times",
+      "angle": "Strike is already showing measurable effects on semiconductor output; dispute is about bonus caps, not base pay; partial production disruption is already occurring"
+    },
+    {
+      "url": "https://en.sedaily.com/news/2026/05/08/samsung-labor-dispute-looms-as-executives-warn-of",
+      "publisher": "Seoul Economic Daily",
+      "angle": "Management angle: executives warn a strike at this moment would damage Samsung's AI memory competitiveness against SK Hynix, which does not face comparable labor pressure"
+    },
+    {
+      "url": "https://www.thelec.net/news/articleView.html?idxno=10309",
+      "publisher": "The Elec",
+      "angle": "Final negotiation timeline: talks resume May 11-12 in post-mediation; if no deal, strike begins May 21 and lasts 18 days"
+    },
+    {
+      "url": "https://en.yna.co.kr/view/AEN20260507012200320",
+      "publisher": "Yonhap News Agency",
+      "angle": "Management plea for dialogue; company says it offered significant increases already; union rejected the offer as inadequate given the scale of AI-driven profits"
+    }
+  ],
+  "brief": {
+    "actors": ["Samsung", "Samsung union", "SK Hynix", "Nvidia", "South Korea"],
+    "whatHappened": "Samsung Electronics' labor union is demanding the company pay out 15% of each division's operating profit and raise wages by 7%, citing the extraordinary profits driven by demand for high-bandwidth memory chips used in AI infrastructure. The Bank of Korea estimates chipmaking accounted for roughly half of South Korea's 1.7% first-quarter GDP growth. If no deal is reached in talks scheduled for May 11-12, the union has threatened an 18-day general strike beginning May 21. Samsung management has responded by warning the strike would damage the company's ability to compete against SK Hynix at a critical juncture in the HBM memory market. Some union workers are already engaged in partial work stoppages, and supply disruption is measurable.",
+    "bottomLine": "The dispute is not really about wages; it is about who owns the gains from an AI infrastructure boom that Samsung's workers built but Samsung's shareholders are capturing.",
+    "hiddenBets": [
+      {
+        "assumption": "Samsung can hold its HBM market position regardless of labor disruption",
+        "whyItMightBeWrong": "SK Hynix currently leads Samsung in HBM3E production yields and has a tighter relationship with Nvidia. A strike that disrupts Samsung's HBM production for 18 days hands SK Hynix a window to lock in additional Nvidia contracts. The executives warning about competitiveness are not bluffing: the market they are worried about losing has a single dominant customer and very low tolerance for supply uncertainty."
+      },
+      {
+        "assumption": "The 15% profit-sharing demand is the real number the union expects to get",
+        "whyItMightBeWrong": "Korean labor negotiations typically open at numbers both sides know are unachievable. The 15% figure signals seriousness, not expectation. The union's actual threshold is likely a removal of bonus caps and a meaningful raise, which is a different and smaller ask. Management's counter-offer of 9.5% raises for three years is closer to a real negotiation floor."
+      },
+      {
+        "assumption": "The strike, if it happens, will last the full 18 days",
+        "whyItMightBeWrong": "Both Korean and global pressure will accelerate once production disruption becomes visible to Nvidia and other major customers. The government has an obvious interest in resolving a dispute that is measurably affecting Korea's GDP contribution. The 18-day timeline is a credible threat designed to force resolution, not a plan to execute."
+      }
+    ],
+    "realDisagreement": "The actual fork is between two different theories of what AI profits are. Management's position: profits reflect capital investment decisions and technological bets made years ago, which workers did not bear the risk of. The union's position: the production quality, yield rates, and process knowledge that make Samsung's HBM competitive are inseparable from the workers who built them; the AI boom is not a windfall that arrived from outside but a return on labor that deserves to be shared. Both positions are coherent. The market leans toward management because capital mobility makes the labor claim difficult to enforce: Samsung can threaten to move production, accelerate automation, or simply wait. But the union has leverage as long as Samsung genuinely needs stable HBM output, which right now it does.",
+    "whatNoOneIsSaying": "The same AI profits that Samsung's workers are striking to share are, in large part, being captured by Nvidia, which buys the chips and charges its customers 10 times what Samsung charges for them. Samsung workers asking for 15% of Samsung's operating profit are asking for a fraction of a fraction of the value created by the AI infrastructure stack they manufacture. The people who actually captured the AI windfall are one link up the supply chain.",
+    "whoPays": [
+      {
+        "who": "Samsung semiconductor workers",
+        "how": "If the strike fails to achieve meaningful profit-sharing, workers continue to receive fixed wages while bonus caps limit their participation in the company's largest profit cycle in years. Real wages relative to Samsung's earnings decline.",
+        "when": "Ongoing, visible in Q2 and Q3 2026 compensation cycles"
+      },
+      {
+        "who": "Global AI infrastructure customers",
+        "how": "Any disruption to Samsung HBM supply affects availability of high-bandwidth memory for data center AI hardware. Nvidia's H200 and Blackwell GPU supply is constrained partly by HBM availability. An 18-day strike at a critical juncture would tighten an already tight market.",
+        "when": "Immediate if strike begins May 21; effects visible in lead times within weeks"
+      },
+      {
+        "who": "South Korea's macroeconomic position",
+        "how": "Samsung and SK Hynix account for over 40% of the Kospi index value. A prolonged dispute that damages Samsung's HBM competitiveness would affect not just the company's stock but Korea's export earnings and fiscal position.",
+        "when": "Medium-term, visible in Q2 export data if strike extends beyond two weeks"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Last-minute deal, strike averted",
+        "whatHappens": "May 11-12 talks produce a compromise: bonus caps removed, wages raised 5-6%, with a profit-sharing formula for exceptional years. Strike is called off. Samsung retains HBM production continuity.",
+        "signal": "Watch for any government labor mediator being invited into talks, which in Korean labor law signals both sides are ready to accept a face-saving middle position."
+      },
+      {
+        "name": "Strike begins, resolves within a week",
+        "whatHappens": "Workers walk out May 21. Nvidia and other major Samsung customers make calls to Seoul within 72 hours. Korean government applies direct pressure. A settlement is reached before the 18-day strike concludes, with terms closer to the union's floor than management's offer.",
+        "signal": "Watch for any public statement from a Samsung customer expressing 'concern about supply continuity.' That is how large customers signal to management without publicly taking the union's side."
+      },
+      {
+        "name": "Full strike, SK Hynix wins market share",
+        "whatHappens": "Strike runs the full 18 days or longer. Samsung's HBM3E yields suffer. Nvidia accelerates qualification of SK Hynix alternatives for its next generation. Samsung's memory market share in the highest-margin AI segment shrinks in H2 2026.",
+        "signal": "Watch for any Nvidia allocation or capacity announcement that shifts proportions toward SK Hynix without explicitly referencing Samsung. The signal will be indirect."
+      }
+    ],
+    "whatWouldChange": "If Samsung agrees to remove bonus caps entirely and implement a formula-based profit share, even at a rate below 15%, that would indicate management accepted the union's underlying claim that workers have a structural right to participate in exceptional profits. That would be genuinely new in Korean chaebol labor relations and would set a precedent beyond Samsung."
+  }
+}

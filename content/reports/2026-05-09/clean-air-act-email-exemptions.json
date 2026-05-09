@@ -1,0 +1,99 @@
+{
+  "id": "clean-air-act-email-exemptions",
+  "date": "2026-05-09",
+  "generatedAt": "2026-05-09T17:45:00Z",
+  "title": "The EPA Deregulated 180 Polluters Via Email. It Called This the Biggest Deregulatory Action in US History.",
+  "subtitle": "ProPublica revealed that the Trump EPA granted two-year Clean Air Act exemptions to over 180 major industrial facilities through a simple email request system. The agency's own air quality scientists were sidelined.",
+  "topic": "society",
+  "category": "power",
+  "tags": ["EPA", "Clean Air Act", "Trump", "deregulation", "pollution", "environment"],
+  "coverImage": {
+    "url": "https://www.propublica.org/wp-content/uploads/2026/05/1224_Scrubgrass-Generating-Plant-4_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg",
+    "local": "/images/reports/2026-05-09/clean-air-act-email-exemptions.jpg",
+    "credit": "ProPublica"
+  },
+  "sources": [
+    {
+      "url": "https://www.propublica.org/article/clean-air-act-exemptions-trump-emails",
+      "publisher": "ProPublica",
+      "angle": "Original investigation: more than 180 facilities in 38 states and Puerto Rico received two-year pauses on Clean Air Act compliance via email; EPA's internal scientists were removed from the review process"
+    },
+    {
+      "url": "https://nbtxnews.com/trump-exempted-some-of-the-nations-biggest-polluters-from-air-quality-rules-all-it-took-was-an-email/",
+      "publisher": "NBTX News / ProPublica syndication",
+      "angle": "Same investigation: includes coal-fired power plants, chemical manufacturers, and factories; EPA itself described the program as 'biggest deregulatory action in US history'"
+    },
+    {
+      "url": "https://www.archynewsy.com/trump-administration-grants-clean-air-act-exemptions-to-hundreds-of-polluters/",
+      "publisher": "Archynewsy",
+      "angle": "Companies were invited via an email address to request exemptions; original offer was extended in March 2025; 180+ facilities accepted"
+    },
+    {
+      "url": "https://www.eenews.net/articles/dc-circuit-seems-split-on-epa-air-permitting-rule-from-trumps-first-term/",
+      "publisher": "E&E News / Politico",
+      "angle": "Parallel legal fight: DC Circuit appears split on EPA's air permitting rule that would make it easier for major sources to avoid stricter New Source Review; this context shows the email exemptions are one piece of a broader deregulatory architecture"
+    },
+    {
+      "url": "https://www.firstalert7.com/2026/04/27/permission-poison-hundreds-companies-ask-exemptions-clean-air-act/",
+      "publisher": "InvestigateTV / ProPublica partnership",
+      "angle": "Earlier reporting from April: companies were offered the exemption in 2025; the Clean Air Act is described as 'estimated to have prevented thousands of premature deaths'"
+    }
+  ],
+  "brief": {
+    "actors": ["EPA", "Trump", "ProPublica", "Congress"],
+    "whatHappened": "A ProPublica investigation published May 8 revealed that the Trump administration granted two-year pauses on Clean Air Act compliance to more than 180 industrial facilities in 38 states and Puerto Rico. Companies obtained the exemptions by sending an email to an address the EPA created for the purpose. The agency's own air quality scientists were removed from the exemption review process. The facilities include coal-fired power plants, chemical manufacturing plants, and other major industrial polluters. The EPA itself described the program as the 'biggest deregulatory action in US History.' Separately, the DC Circuit Court is considering a related EPA rule that would ease permitting requirements for major pollution sources.",
+    "bottomLine": "The EPA did not reduce a regulation; it created an informal system that lets companies opt out of an existing law by sending an email, then called this historic.",
+    "hiddenBets": [
+      {
+        "assumption": "The exemptions are a temporary administrative measure that will expire after two years",
+        "whyItMightBeWrong": "Two-year pauses are renewable. The same email system that granted them can extend them. The Clean Air Act's formal exemption process under Section 112(i)(4) requires a regulatory finding and public comment period. What was created here bypasses that process entirely. If the underlying rulemaking that would formalize the deregulation is not completed before the exemptions expire, they will be extended rather than lapsed, because the political cost of revoking them is higher than the cost of renewing them."
+      },
+      {
+        "assumption": "This is a deregulation story that only affects environmental policy",
+        "whyItMightBeWrong": "The mechanism is more significant than the policy area. Granting regulatory exemptions by email, removing scientific review from the process, and doing so under an informal program that bypasses notice-and-comment requirements is not just an EPA story. It is a proof of concept for how any agency can hollow out any statute while the law technically remains on the books. The Clean Air Act has not been amended; it is simply not being applied."
+      },
+      {
+        "assumption": "Courts will block these exemptions",
+        "whyItMightBeWrong": "Legal challenges to informal agency actions are harder than challenges to formal rules. If the administration argues the exemptions are enforcement discretion rather than rulemaking, courts have historically given agencies significant latitude over enforcement priorities. The DC Circuit's apparent split on the related permitting rule suggests no clear judicial majority is forming to reverse this approach."
+      }
+    ],
+    "realDisagreement": "The genuine fork is whether clean air rules should be applied uniformly to all facilities regardless of economic impact, or whether there should be relief mechanisms for companies that face genuinely difficult compliance timelines. The Clean Air Act already has a formal variance process that requires demonstrated hardship and public comment. The argument for the email exemption program is that the formal process is too slow and bureaucratic to respond to real economic needs. The argument against is that the formal process exists precisely to prevent industry from obtaining regulatory relief by asking for it privately without public scrutiny. The real question is: who gets to know when a facility near them is exempt from clean air rules, and who gets to object? Under the email program, the answer is: nobody outside the company and the agency."
+    ,
+    "whatNoOneIsSaying": "The EPA called this the biggest deregulatory action in US history. That is a self-congratulatory claim about the scope of the program. But it also means that if any subsequent administration wants to reinstate enforcement, they will be describing it as the biggest regulatory action in US history. The political cost of reversal is baked into the framing.",
+    "whoPays": [
+      {
+        "who": "People living near the 180+ exempted facilities",
+        "how": "Two-year pauses on Clean Air Act compliance rules mean specific pollutant reductions scheduled for 2025-2026 will not occur. For facilities near densely populated areas, this translates to measurable increases in fine particulate matter, ozone precursors, or specific toxics depending on the facility type.",
+        "when": "Immediate; pollution increases begin on the date the exemption was granted"
+      },
+      {
+        "who": "Companies that invested in compliance",
+        "how": "Industrial facilities that spent capital to meet the 2025-2026 deadlines now compete against facilities that are exempt. The competitive disadvantage is direct: lower compliance costs for exempted competitors.",
+        "when": "Ongoing, for the two-year exemption period"
+      },
+      {
+        "who": "EPA scientists and staff",
+        "how": "Removal of scientific review from the exemption process is a demotion of institutional function. The agency's technical capacity for air quality assessment atrophies when scientists are excluded from decisions that were previously their domain. The expertise base erodes faster than staff numbers do.",
+        "when": "Slow-burn; visible over 2-3 years as institutional knowledge dissipates"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Legal challenge succeeds, exemptions voided",
+        "whatHappens": "Environmental groups or Democratic state attorneys general challenge the email exemption program as an unlawful attempt to waive statutory requirements without notice-and-comment rulemaking. A court vacates the exemptions. Facilities scramble to resume compliance timelines.",
+        "signal": "Watch for whether any state AG files suit specifically targeting the mechanism of the exemptions rather than any individual facility's permit."
+      },
+      {
+        "name": "Program expands before legal challenge resolves",
+        "whatHappens": "The EPA extends the program to additional facilities and renews the existing exemptions before any legal challenge is resolved. The two-year clock resets. The scale of the program makes voiding it more politically costly and legally complicated.",
+        "signal": "Watch for any EPA announcement expanding eligibility for the email program to additional industrial categories."
+      },
+      {
+        "name": "Congress codifies or blocks the program",
+        "whatHappens": "The scale of the ProPublica investigation generates enough attention that Congress either moves to formally legalize the exemption mechanism or to prohibit it explicitly. Either outcome converts an informal agency action into a statutory question, which is harder to reverse by the next administration.",
+        "signal": "Watch for any Senate or House hearing on EPA's enforcement discretion that specifically references the email exemption program."
+      }
+    ],
+    "whatWouldChange": "If a court ruled that this program constitutes unlawful suspension of a statutory requirement rather than permissible enforcement discretion, the analysis changes entirely. That would mean future administrations cannot replicate the mechanism. Without that ruling, the email exemption program is a template."
+  }
+}

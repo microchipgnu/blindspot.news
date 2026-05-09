@@ -1,6 +1,6 @@
 {
   "date": "2026-05-09",
-  "generatedAt": "2026-05-09T12:00:00Z",
+  "generatedAt": "2026-05-09T17:55:00Z",
   "reports": [
     {
       "id": "iran-ceasefire-hormuz",
@@ -55,6 +55,36 @@
       "title": "The GUARD Act Passed Committee 22-0. It Would Also Require All Adults to Show ID Before Using a Chatbot.",
       "subtitle": "Framed as child protection, the bill advancing through the US Senate would build a national ID database for AI access. The same architecture is being replicated in Australia, Ireland, and the UK simultaneously.",
       "category": "power"
+    },
+    {
+      "id": "russia-ukraine-ceasefire-3day",
+      "title": "Trump's Three-Day Ceasefire Is a Victory Photo, Not a Peace Deal",
+      "subtitle": "Russia and Ukraine just agreed to stop shooting for 72 hours so Putin can celebrate Victory Day in peace. Polymarket says a durable ceasefire is 25% likely by year-end. Both sides know why.",
+      "category": "conflict"
+    },
+    {
+      "id": "eu-ai-act-rollback",
+      "title": "Europe Just Gutted Its Own AI Law. Industry Called It 'Not Enough.'",
+      "subtitle": "The EU delayed its flagship AI regulations by 18 months, exempted industrial AI entirely, and banned nudification apps. Tech lobbyists and US officials wanted more. Centrist lawmakers agreed.",
+      "category": "power"
+    },
+    {
+      "id": "samsung-ai-profit-strike",
+      "title": "Samsung Workers Want 15% of the AI Boom. Management Says the Company Can't Afford It.",
+      "subtitle": "Samsung's union is threatening an 18-day strike starting May 21, demanding a share of the HBM windfall that helped drive Korea's GDP. The company says paying out would hurt competitiveness. One of them is right.",
+      "category": "conflict"
+    },
+    {
+      "id": "clean-air-act-email-exemptions",
+      "title": "The EPA Deregulated 180 Polluters Via Email. It Called This the Biggest Deregulatory Action in US History.",
+      "subtitle": "ProPublica revealed that the Trump EPA granted two-year Clean Air Act exemptions to over 180 major industrial facilities through a simple email request system. The agency's own air quality scientists were sidelined.",
+      "category": "power"
+    },
+    {
+      "id": "lirr-mta-strike",
+      "title": "New York's Commuter Rail Is Seven Days From Its First Strike in 30 Years",
+      "subtitle": "Long Island Rail Road unions and the MTA agree on three years of raises but are deadlocked on year four. If talks fail by May 16, 300,000 daily riders lose their train.",
+      "category": "conflict"
     }
   ]
 }
