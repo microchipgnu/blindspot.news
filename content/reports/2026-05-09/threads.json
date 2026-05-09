@@ -99,6 +99,58 @@
           "relationship": "The EU's decision to exempt industrial AI and delay high-risk compliance was driven partly by US government pressure for deregulation. That pressure was applied simultaneously with the White House building its own informal AI oversight regime where the biggest US companies have structural influence. The two regulatory regimes are not competing; they are converging toward a global framework where incumbents set the terms."
         }
       ]
+    },
+    {
+      "id": "platform-sovereignty-losing",
+      "title": "Platform Sovereignty Is Losing",
+      "description": "Two stories today show powerful platform actors failing to maintain the rules they wrote for their own ecosystems. Apple argued for four years that the App Store constitutes a legitimate market with its own rules, and every federal court including the Supreme Court emergency docket has rejected that argument. Saudi Arabia argued implicitly that US military operations on its territory require its consent, and extracted that principle through a base-access denial. In both cases, the platform owner won on the ground for years, then encountered a limit: a court that would not defer, or an ally that would not comply. The lesson is not that powerful actors lose eventually. It is that sovereignty claims require continuous enforcement, and when enforcement fails, the claim collapses fast.",
+      "type": "tension-cluster",
+      "stories": ["apple-epic-supreme-court", "saudi-project-freedom-us-bases"],
+      "connections": [
+        {
+          "from": "apple-epic-supreme-court",
+          "to": "saudi-project-freedom-us-bases",
+          "relationship": "Apple's claim that it sets the rules for its platform and Saudi Arabia's claim that it controls access to bases on its territory are structurally the same argument: the owner of the infrastructure sets the terms of its use. Both claims were maintained through enforcement for years; both were challenged by a party willing to pay the cost of defiance; and both owners eventually faced limits they could not litigate or negotiate away."
+        }
+      ]
+    },
+    {
+      "id": "courts-absorbing-political-risks",
+      "title": "Congress Will Not Do It, So the Courts Must",
+      "description": "Three stories today involve courts being asked to resolve questions that Congress has conspicuously avoided. The Supreme Court must rule on mifepristone mailing without a legislative framework clarifying whether the Comstock Act applies to FDA-approved medications. Federal courts must decide whether federal preemption nullifies New Mexico's sanctuary law without Congress ever passing a comprehensive immigration statute. The Apple antitrust case was decided by federal judges applying century-old Sherman Act doctrine to app store economics Congress never contemplated. In all three cases, the political branches avoided the question, and the courts are left to create policy through case law rather than through deliberate legislation.",
+      "type": "tension-cluster",
+      "stories": ["mifepristone-scotus-mailing", "doj-sanctuary-new-mexico", "apple-epic-supreme-court"],
+      "connections": [
+        {
+          "from": "mifepristone-scotus-mailing",
+          "to": "doj-sanctuary-new-mexico",
+          "relationship": "Both cases turn on the same constitutional gap: Congress has never passed legislation that explicitly addresses whether federal law preempts state or local rules that limit federal agency reach. The Comstock Act preemption question and the sanctuary preemption question both exist because legislators in both eras declined to write clear rules, leaving courts to construct the doctrine from first principles."
+        },
+        {
+          "from": "doj-sanctuary-new-mexico",
+          "to": "apple-epic-supreme-court",
+          "relationship": "The Apple case and the sanctuary litigation both involve courts updating the application of old statutes (Sherman Act 1890, Supremacy Clause 1789) to circumstances the drafters could not have foreseen. In both cases the political branch that could have legislated clarity has not. The courts are writing the rules that govern App Store commerce and immigration enforcement, which is the work of legislators done by judges."
+        }
+      ]
+    },
+    {
+      "id": "iran-war-economic-ripple",
+      "title": "The Iran War's Invisible Economic Hand",
+      "description": "The Iran conflict appears in four of today's stories as a background cause of economic outcomes that look unrelated. Warsh inherits a Fed where the stubborn inflation is partly driven by the Iran war energy shock that has kept oil prices elevated. Saudi Arabia's Red Sea investment boom is a direct response to Hormuz closure. China's record exports were partly front-loaded against Iran war supply disruptions. The Fed cannot cut rates, in part, because a military conflict the Fed had nothing to do with is feeding the inflation it must control. That is the invisible chain: military action in the Gulf sets energy prices, energy prices set inflation expectations, inflation expectations constrain the Fed, and the Fed's inaction sets mortgage rates for American homebuyers.",
+      "type": "cause-effect",
+      "stories": ["warsh-fed-inflation-trap", "saudi-project-freedom-us-bases", "iran-ceasefire-hormuz"],
+      "connections": [
+        {
+          "from": "iran-ceasefire-hormuz",
+          "to": "warsh-fed-inflation-trap",
+          "relationship": "The Iran war's energy shock contributed to the inflation reading that makes it politically impossible for Warsh to deliver the rate cuts Trump installed him to provide. The ceasefire's fragility means that relief from energy price pressure is uncertain, which means Warsh cannot forecast his way to a dovish position without assuming a geopolitical resolution he cannot control."
+        },
+        {
+          "from": "saudi-project-freedom-us-bases",
+          "to": "iran-ceasefire-hormuz",
+          "relationship": "Saudi Arabia's veto of Project Freedom extended the Hormuz closure by creating uncertainty about US operational capacity in the Gulf, which sustains the shipping disruption and insurance premium that feeds into the energy price spike driving global inflation."
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,101 @@
+{
+  "id": "doj-sanctuary-new-mexico",
+  "date": "2026-05-09",
+  "generatedAt": "2026-05-09T22:30:00Z",
+  "title": "The DOJ Just Sued New Mexico for Passing a Law Its Legislature Voted On.",
+  "subtitle": "The Justice Department is asking a federal court to block New Mexico's Immigrant Safety Act before it takes effect, arguing the state cannot prohibit local governments from cooperating with ICE. The state's governor signed the bill in February. The federal government wants a judge to override her.",
+  "topic": "society",
+  "category": "power",
+  "tags": ["immigration", "sanctuary", "DOJ", "New Mexico", "ICE", "federalism", "preemption"],
+  "coverImage": {
+    "url": "https://nm.news/wp-content/uploads/2026/05/Rer_IceoutofABQprotest09.jpg",
+    "local": "/images/reports/2026-05-09/doj-sanctuary-new-mexico.jpg",
+    "credit": "nm.news / Roberto E. Rosales"
+  },
+  "sources": [
+    {
+      "url": "https://www.justice.gov/opa/pr/justice-department-files-lawsuit-against-state-new-mexico-and-city-albuquerque-obstructing",
+      "publisher": "US Department of Justice",
+      "angle": "Official complaint: DOJ argues House Bill 9, the Immigrant Safety Act, and Albuquerque's companion ordinance 'unlawfully obstruct' federal immigration enforcement and must be enjoined before taking effect"
+    },
+    {
+      "url": "https://nm.news/2026/05/08/feds-sue-new-mexico-albuquerque-to-block-anti-ice-laws/",
+      "publisher": "New Mexico News",
+      "angle": "State perspective: New Mexico's law bans local governments from contracting with ICE for detention but does not prohibit officers from sharing information about violent criminals; Albuquerque's ordinance separately limits police cooperation; the lawsuit targets both"
+    },
+    {
+      "url": "https://www.abqjournal.com/news/doj-sues-new-mexico-albuquerque-over-sanctuary-policies/3039327",
+      "publisher": "Albuquerque Journal",
+      "angle": "Details the specific legal ask: preliminary injunction to preserve current ICE detention contracts at three New Mexico facilities that would otherwise lapse when the law takes effect; argues federal preemption under the Supremacy Clause"
+    },
+    {
+      "url": "https://www.yahoo.com/news/articles/feds-sue-mexico-albuquerque-over-033200421.html",
+      "publisher": "Yahoo News / AP",
+      "angle": "Broader context: all three existing ICE detention centers in New Mexico are expected to stay open despite the law, but new contracts would be prohibited; DOJ specifically wants a judge to invalidate the prohibition on future agreements"
+    }
+  ],
+  "brief": {
+    "actors": ["DOJ", "New Mexico", "Lujan Grisham", "ICE", "Albuquerque", "Trump"],
+    "whatHappened": "The US Department of Justice filed suit on May 8 against New Mexico Governor Michelle Lujan Grisham, Attorney General Raul Torrez, the City of Albuquerque, and Mayor Timothy Keller, seeking an injunction to block enforcement of the state's Immigrant Safety Act and Albuquerque's companion ordinance. The state law, passed by the legislature and signed in February, prohibits local governments from contracting with ICE for immigrant detention and from entering into cooperation agreements with federal immigration authorities. The city ordinance separately limits when Albuquerque police can assist ICE operations. DOJ argues both laws violate the Supremacy Clause and obstruct federal immigration enforcement. The state's three existing ICE detention facilities are expected to stay open, but the law would prevent renewal or new contracts.",
+    "bottomLine": "The DOJ is not enforcing immigration law. It is suing a state for passing a law through its own legislature. The legal theory that states cannot limit their own cooperation with federal immigration enforcement has been litigated repeatedly and has a mixed track record. What is new is using a federal lawsuit as the primary enforcement tool rather than funding cuts or prosecutorial action.",
+    "hiddenBets": [
+      {
+        "assumption": "Federal preemption doctrine clearly prohibits states from limiting their cooperation with ICE",
+        "whyItMightBeWrong": "The Supreme Court has held in multiple cases that the federal government cannot commandeer state and local governments to enforce federal law. New York v. United States, Printz v. United States, and City of Los Angeles v. Patel all establish limits on federal power to compel state enforcement cooperation. New Mexico is not obstructing federal immigration officers. It is declining to have its own officers and facilities used for federal purposes. Those are legally distinct claims, and the latter has survived court challenges before."
+      },
+      {
+        "assumption": "This lawsuit is about immigration enforcement",
+        "whyItMightBeWrong": "New Mexico is not a high-priority immigration enforcement state. The border is far from Albuquerque. The political target is the precedent: if New Mexico's law survives, other states will pass similar laws, and ICE loses its network of local detention partners and information-sharing agreements nationally. The lawsuit is a deterrence measure aimed at the other 30 states watching."
+      },
+      {
+        "assumption": "The existing detention contracts are safe under current law",
+        "whyItMightBeWrong": "The law does not void existing contracts. But it creates a legal environment where local officials who cooperate with ICE beyond the contractual minimum face potential state liability. Individual officers and county sheriffs in New Mexico may pull back from informal cooperation even where the formal contract remains. The chilling effect on day-to-day enforcement cooperation may be more significant than the contract prohibition."
+      }
+    ],
+    "realDisagreement": "The genuine fork is between two readings of federalism: states retain the right to govern their own law enforcement resources and cannot be made to serve as arms of federal immigration enforcement; or immigration is a uniquely federal function and states cannot affirmatively obstruct it, even by declining to participate. Both have constitutional support. The anti-commandeering cases favor New Mexico. The Supremacy Clause and the specific ICE detention contract language favor the DOJ. The lean is toward New Mexico: the state is not deporting anyone or releasing anyone. It is declining to help. That distinction has mattered in prior rulings and is likely to matter here.",
+    "whatNoOneIsSaying": "The DOJ lawsuit names the governor and attorney general personally as defendants. That is a choice, not a legal requirement. The effect is to expose state officials to personal liability risk and to make it politically costly for Lujan Grisham to fight the lawsuit through its full course. She is a Democrat in a state with a significant undocumented immigrant population. The lawsuit is also a press release: it signals to Republican-led states that the federal government will back them up when they push sanctuary city cases up the chain, and it signals to Democratic governors that their personal assets are in the crosshairs when they sign protective legislation.",
+    "whoPays": [
+      {
+        "who": "Undocumented immigrants in New Mexico detention",
+        "how": "If the injunction is granted, the existing ICE contracts are locked in place and new ones can be added. The population in detention cannot appeal based on the state law's protections while litigation continues.",
+        "when": "Immediate if preliminary injunction is granted; could take months to resolve"
+      },
+      {
+        "who": "New Mexico taxpayers",
+        "how": "The state must now finance a major federal lawsuit defense. Governor Lujan Grisham has announced the state will fight the lawsuit, which means hiring outside counsel and diverting AG resources that would otherwise go to other enforcement.",
+        "when": "Now through likely 2027 or longer litigation timeline"
+      },
+      {
+        "who": "Other Democratic governors watching the case",
+        "how": "If the DOJ wins an injunction quickly, it creates a template for attacking sanctuary policies in Illinois, Colorado, Massachusetts, and Washington. If New Mexico wins, it sets a precedent those states can use to defend their own laws.",
+        "when": "Medium-term; most consequential during whatever state legislative sessions follow the initial ruling"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Injunction Granted, Chilling Effect",
+        "whatHappens": "A federal judge grants the preliminary injunction blocking the Immigrant Safety Act before it takes effect. New Mexico appeals. The law is on hold while litigation proceeds. Other states that had similar legislation pending quietly delay. The DOJ treats the injunction as a win and files similar suits against two or three other states within months.",
+        "signal": "A federal district court in New Mexico issues the injunction within 30 days of the filing"
+      },
+      {
+        "name": "New Mexico Wins on Anti-Commandeering",
+        "whatHappens": "The district court denies the injunction, citing the anti-commandeering doctrine. DOJ appeals to the Tenth Circuit. The law takes effect in New Mexico. ICE begins losing detention capacity in the state. The case eventually reaches the Supreme Court, which has to reconcile the anti-commandeering cases with the Supremacy Clause argument.",
+        "signal": "The district court cites Printz v. United States in its ruling against the injunction"
+      },
+      {
+        "name": "Settlement Before Decision",
+        "whatHappens": "New Mexico negotiates with DOJ to preserve existing detention contracts and allow ICE information-sharing while prohibiting new facilities. DOJ drops the personal liability claims against the governor and AG in exchange. The law is amended by the legislature to carve out the specific practices DOJ objected to.",
+        "signal": "State officials and DOJ announce 'ongoing discussions' within 60 days of filing"
+      }
+    ],
+    "whatWouldChange": "If the Supreme Court issues a ruling in a parallel sanctuary city case that clearly establishes states cannot limit local ICE cooperation, the bottom line inverts. The current precedent favors New Mexico, but the current Supreme Court is not the one that decided Printz. What would also change this: if DOJ wins quickly and the Tenth Circuit upholds the injunction, the anti-commandeering doctrine in immigration contexts will need to be re-examined. But that has not happened yet.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "SCOTUS strikes down Trump's Birthright Citizenship EO?",
+        "url": "https://polymarket.com/event/scotus-strikes-down-trumps-birthright-citizenship-eo",
+        "probability": 0.8675
+      }
+    ]
+  }
+}

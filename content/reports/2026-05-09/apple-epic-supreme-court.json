@@ -1,0 +1,99 @@
+{
+  "id": "apple-epic-supreme-court",
+  "date": "2026-05-09",
+  "generatedAt": "2026-05-09T22:30:00Z",
+  "title": "The Supreme Court Refused to Save Apple's App Store. The Consequences Are Still Loading.",
+  "subtitle": "The Supreme Court denied Apple's emergency stay in the Epic antitrust case, forcing the company to open its iOS payment system. Apple now faces the same fight in Europe and a wave of copycat lawsuits from developers it has removed.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["Apple", "Epic Games", "antitrust", "app store", "Supreme Court", "tech regulation"],
+  "coverImage": {
+    "url": "https://www.themainewire.com/wp-content/uploads/2025/02/supreme-court.png",
+    "local": "/images/reports/2026-05-09/apple-epic-supreme-court.jpg",
+    "credit": "The Maine Wire"
+  },
+  "sources": [
+    {
+      "url": "https://www.themainewire.com/2026/05/supreme-court-denies-apples-emergency-request-for-stay-in-epic-games-lawsuit/",
+      "publisher": "The Maine Wire / AP",
+      "angle": "Straight news on the Supreme Court denial; Apple's emergency stay request denied without comment, leaving lower court order intact requiring Apple to allow third-party payment links in iOS"
+    },
+    {
+      "url": "https://gamersnewz.com/2026/05/08/apple-suffers-a-major-loss-as-u-s-supreme-court-sides-with-epic-over-ios-fees/",
+      "publisher": "Kotaku / Gamersnewz",
+      "angle": "Frames the ruling as a landmark loss for Apple after years of litigation; focuses on what game developers and consumers can now do that was previously banned"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-gets-more-time-from-eu-commission-over-search-investigation-the-reality-for-now-is/articleshow/130973762.cms",
+      "publisher": "Times of India / Reuters",
+      "angle": "European Commission also extended Google's deadline on a parallel DMA investigation; frames the week as one of simultaneous antitrust pressure on multiple platforms across jurisdictions"
+    },
+    {
+      "url": "https://allaboutlawyer.com/rave-inc-apple-antitrust-app-store-lawsuit/",
+      "publisher": "AllAboutLawyer / Reuters",
+      "angle": "Rave Inc filed a copycat antitrust suit the same week, arguing Apple removed its co-viewing app to promote SharePlay and labeled it malware on Macs; shows the Epic ruling is already inspiring follow-on litigation"
+    },
+    {
+      "url": "https://www.36kr.com/p/3548498031679620",
+      "publisher": "36Kr",
+      "angle": "Chinese tech press covers the Epic v. Google settlement from late 2025 as the comparative backdrop; notes how Google chose settlement while Apple chose to fight to the Supreme Court"
+    }
+  ],
+  "brief": {
+    "actors": ["Apple", "Epic Games", "SCOTUS", "EU", "Rave", "Google"],
+    "whatHappened": "The US Supreme Court on May 9 denied Apple's emergency request to stay a lower court order in the Epic Games antitrust case, refusing to block a ruling that requires Apple to allow iOS developers to link users to external payment processors and bypass the App Store's 15-30% commission. The denial was issued without comment, meaning the Ninth Circuit injunction against Apple is now in effect. Within the same week, a Canadian software company called Rave filed a separate federal antitrust lawsuit alleging Apple removed its co-viewing app from the App Store in 2025 to promote its competing SharePlay feature. The European Commission simultaneously continued its own investigation into Apple's App Store compliance under the Digital Markets Act.",
+    "bottomLine": "Apple spent four years and hundreds of millions in legal fees to protect its App Store commission, and the Supreme Court just declined to save it. The 30% take is gone from external-payment transactions, and the decision has now handed every developer Apple has ever removed a legal template.",
+    "hiddenBets": [
+      {
+        "assumption": "The ruling only affects how developers link to external payments, not the 30% commission itself",
+        "whyItMightBeWrong": "Once developers can direct users outside the iOS payment system, the commission becomes voluntary. A developer who processes payments directly charges less and wins users. Apple's 30% rate was never about the payment processing cost. It was about control. The court has cut the enforcement mechanism, not just the rule."
+      },
+      {
+        "assumption": "Apple will comply with the injunction while continuing to fight in other venues",
+        "whyItMightBeWrong": "Apple's pattern has been maximum delay, minimum compliance. The company spent over a year after the 2021 district court ruling violating the injunction in ways that courts later found were intentional. A contempt finding, not just a lost appeal, is the mechanism that would actually force compliance. The Supreme Court denial does not end the compliance fight."
+      },
+      {
+        "assumption": "Google's earlier settlement with Epic sets the template for how platforms respond to antitrust pressure",
+        "whyItMightBeWrong": "Google settled after losing in a jury trial. Apple lost in a bench trial, appealed, won on some points, lost on others, and has now failed at every level up to the Supreme Court. Apple's bet was on a different legal theory: that its App Store is not a monopoly market. That theory has now lost in every federal court. Settlement does not follow automatically; Apple may continue litigating while implementing minimal changes."
+      }
+    ],
+    "realDisagreement": "The core tension is between two claims that are both defensible: Apple built the iOS ecosystem at enormous cost and deserves to extract value from it through its payment infrastructure; and companies that achieve monopoly control over a distribution channel cannot use that control to price out competition in adjacent markets. Both cannot be fully true. A developer cannot both acknowledge Apple's investment in building iOS and also accept Apple's right to extract a toll on all commerce that happens within it. The lean is toward the developers: Apple's commission rate was set at a level that reflects market power, not cost. If Apple had competitors in mobile operating systems at the relevant moment, the rate would be lower. It is not. Giving this up means Apple earns less from the App Store, which is real, but the alternative is permanent platform monopoly rents that no competitive market would sustain.",
+    "whatNoOneIsSaying": "Apple's strategy for the past four years has been to make compliance with antitrust rulings expensive enough for developers that they do not bother. The anti-steering provisions Apple built after the 2021 ruling required developers to use Apple-specific wording, specific button placement, and scared users with warning dialogs about leaving the safety of the App Store. The Supreme Court denial means those workarounds are now under scrutiny. The real question is not whether Apple opens its payment system. It is whether Apple engineers compliance or performs it.",
+    "whoPays": [
+      {
+        "who": "Small app developers, particularly gaming studios",
+        "how": "They paid Apple 15-30% on every transaction for years and cannot recover those payments retroactively. The ruling is prospective. The money already extracted stays extracted.",
+        "when": "Ongoing loss is now stopped, but historical extraction is permanent"
+      },
+      {
+        "who": "Apple shareholders",
+        "how": "Services revenue, which includes App Store commissions, has been a primary growth driver. Any sustained shift by developers to external payments reduces take rate and margins on the highest-margin segment Apple operates.",
+        "when": "Gradual over 12-24 months as developers update their apps and user behavior shifts"
+      },
+      {
+        "who": "Consumers using iOS",
+        "how": "In-app prices should fall as developers keep more of each transaction. The countervailing risk is that Apple degrades the UX of external payment flows enough to offset the savings.",
+        "when": "Near-term, if Apple complies in good faith; uncertain if Apple pursues friction-by-design"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Technical Compliance, Real Friction",
+        "whatHappens": "Apple implements external payment links as required but makes the user experience for leaving the App Store payment system sufficiently alarming that most users abandon the process. Take rate falls modestly; developers who push hard see gains but casual developers do not bother.",
+        "signal": "Apple's implementation of external link warnings is challenged in contempt proceedings within six months of rollout"
+      },
+      {
+        "name": "Cascade of Litigation",
+        "whatHappens": "Rave's lawsuit is the first of dozens. Every developer Apple removed or penalized in the last five years files suit using the Epic precedent. Apple spends billions in legal fees across parallel litigation while trying to hold the fee structure together in other markets.",
+        "signal": "More than ten new antitrust lawsuits against Apple are filed in federal courts before the end of 2026"
+      },
+      {
+        "name": "Negotiated Restructuring",
+        "whatHappens": "Apple settles with the major litigants, accepts a lower commission rate (perhaps 12-15%) and eliminates anti-steering provisions voluntarily in exchange for dropping contempt proceedings. Models itself on Google's approach after losing the Epic jury trial.",
+        "signal": "Apple announces a new App Store fee structure before its September developer conference"
+      }
+    ],
+    "whatWouldChange": "If the Supreme Court later agrees to hear the case on merits, the ruling could be revisited. But the court declined to even stay the injunction pending appeal, which strongly signals they do not see this as a close question. What would change the bottom line: evidence that the Ninth Circuit's market definition was wrong and that Apple does face real competition from non-iOS platforms. That argument lost at trial, on appeal, and now at the emergency stay level. It is not gaining traction.",
+    "markets": []
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "mifepristone-scotus-mailing",
+  "date": "2026-05-09",
+  "generatedAt": "2026-05-09T22:30:00Z",
+  "title": "Mifepristone Can Be Mailed Today. By Monday, It Might Not Be.",
+  "subtitle": "The Supreme Court temporarily restored telemedicine access to the most widely used abortion medication after a Fifth Circuit panel banned mailing it nationwide. SCOTUS now has to decide whether to let that ban go into effect before the full case is heard.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["mifepristone", "abortion", "Supreme Court", "Fifth Circuit", "FDA", "telehealth"],
+  "coverImage": {
+    "url": "https://www.rollingstone.com/wp-content/uploads/2026/05/Mifepristone-rulings.jpg",
+    "local": "/images/reports/2026-05-09/mifepristone-supreme-court.jpg",
+    "credit": "Rolling Stone / Shuran Huang / The Washington Post / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://www.rollingstone.com/politics/politics-features/mifepristone-abortion-medication-supreme-court-1235560055/",
+      "publisher": "Rolling Stone",
+      "angle": "Comprehensive narrative of the legal whiplash: Fifth Circuit banned mailing nationwide, Alito temporarily stayed that ban, full SCOTUS extended the stay, and the court now must rule before Monday or access lapses again"
+    },
+    {
+      "url": "https://www.cnn.com/2026/05/08/health/medication-abortion-misoprostol-mifepristone",
+      "publisher": "CNN",
+      "angle": "Clinical perspective: even if mifepristone is banned by mail, misoprostol-only regimens are available and 95% effective; doctors are shifting protocols in anticipation of the court's ruling"
+    },
+    {
+      "url": "https://www.fiercepharma.com/pharma/lawmakers-former-fda-leaders-and-more-rally-behind-mifepristone-supreme-court-weighs",
+      "publisher": "Fierce Pharma",
+      "angle": "Industry and regulatory response: amicus briefs from former FDA commissioners, major health systems, and legislators warn of systemic harm to telehealth access beyond abortion if the Fifth Circuit ruling stands"
+    },
+    {
+      "url": "https://www.inquirer.com/politics/nation/louisiana-supreme-court-mifepristone-abortion-pill-access-20260508.html",
+      "publisher": "Philadelphia Inquirer",
+      "angle": "Louisiana's legal strategy: the state is using the FDA's expanded 2023 telemedicine rules as the target, not just access in Louisiana. The order, if upheld, would apply nationwide regardless of state law."
+    },
+    {
+      "url": "https://www.npr.org/2026/05/09/nx-s1-5815996/a-critical-legal-deadline-approaches-for-mailing-abortion-pills-whats-next",
+      "publisher": "NPR",
+      "angle": "Practitioner perspective: doctors in states where abortion is legal are already contingency planning; the nationwide scope of the Fifth Circuit order means blue-state prescribers would also lose the ability to mail the medication"
+    }
+  ],
+  "brief": {
+    "actors": ["SCOTUS", "Fifth Circuit", "FDA", "Louisiana", "Alito", "Trump"],
+    "whatHappened": "The Fifth Circuit Court of Appeals issued a ruling on May 2, 2026 in Louisiana v. FDA that would prohibit mailing mifepristone to patients anywhere in the United States, applying a nationwide ban on telehealth prescribing of the abortion drug. The ruling went further than Louisiana's own state law by targeting the FDA's 2023 rule that expanded telemedicine access to the medication. Justice Samuel Alito temporarily stayed the ruling, and the full Supreme Court later extended that stay. The emergency stay expires on Monday, May 11. The court must either grant a longer stay, take the case, or allow the Fifth Circuit order to take effect and effectively ban mailing mifepristone to women in all 50 states, including states where abortion is legal.",
+    "bottomLine": "The Fifth Circuit has handed the Supreme Court a choice it cannot avoid: either block a ruling that would strip abortion medication access from women in states that voted to protect it, or let a three-judge panel nationalize the most restrictive interpretation of abortion access since Dobbs.",
+    "hiddenBets": [
+      {
+        "assumption": "This case is about abortion access",
+        "whyItMightBeWrong": "The Fifth Circuit's ruling targets the FDA's authority to approve telemedicine prescribing for any medication. Mifepristone was the vehicle, but the legal theory is that the FDA exceeded its authority in expanding access via telehealth. If that theory holds, the precedent applies to every telemedicine prescription of a controlled or regulated drug, not just abortion medication. The healthcare industry's amicus briefs are not sentimental. They are alarmed about the regulatory structure."
+      },
+      {
+        "assumption": "The Supreme Court will be reluctant to take a case that could produce another politically damaging abortion ruling",
+        "whyItMightBeWrong": "Not taking the case carries its own cost. If SCOTUS allows the stay to expire Monday without action, the Fifth Circuit order takes effect and produces the same political damage. The court's choice is not between acting on abortion and avoiding it. It is between acting explicitly and acting by inaction. An expired stay is a court decision."
+      },
+      {
+        "assumption": "Misoprostol-only regimens are an adequate fallback that makes the mifepristone ruling tolerable",
+        "whyItMightBeWrong": "The clinical evidence supports misoprostol-only as effective. But the legal framing around misoprostol is unstable. The same legal theory used to attack mifepristone's FDA approval can be applied to misoprostol. Misoprostol has never received FDA approval for abortion use specifically. If this litigation strategy succeeds with mifepristone, the next target is already obvious."
+      }
+    ],
+    "realDisagreement": "The genuine fork is this: either the FDA has the authority to set national standards for how regulated medications are dispensed, including via telehealth, and states cannot override that through litigation; or the Comstock Act and statutory limits on the FDA's telemedicine authority mean the 2023 rule was always legally vulnerable, and the courts are correct to revisit it. The stakes are not just mifepristone. They are whether federal drug regulation or state-by-state judicial interpretations controls medication access. The lean is toward FDA authority: the 2023 rule followed a standard notice-and-comment process, the drug has a documented safety profile over two decades, and the nationwide scope of the Fifth Circuit order shows the court was not resolving a Louisiana dispute but rewriting federal pharmaceutical policy. That kind of ruling requires Supreme Court review, not deference.",
+    "whatNoOneIsSaying": "The Trump administration's FDA has not filed a brief defending its predecessor's 2023 telemedicine rule. That silence is meaningful. The Biden-era FDA expanded telemedicine access; the Trump FDA has not moved to rescind that rule, but it has also not shown up to defend it. If the court rules and the FDA does not appeal, or the administration decides to let the Fifth Circuit order stand, the ban takes effect without a formal change in policy. The administration gets the outcome without owning it.",
+    "whoPays": [
+      {
+        "who": "Women in states where abortion is legal who use telemedicine for medication abortion",
+        "how": "The nationwide scope of the Fifth Circuit order removes their access too. A woman in Massachusetts who currently receives mifepristone by mail from her telehealth provider cannot do so under the order. She would need to travel to a clinic.",
+        "when": "Immediately upon expiration of the SCOTUS stay, unless extended or replaced"
+      },
+      {
+        "who": "Telehealth providers across all specialties",
+        "how": "If the FDA's telemedicine rulemaking authority is invalidated as the Fifth Circuit ruling implies, the legal basis for dozens of other telehealth prescribing arrangements becomes uncertain. Providers face regulatory risk they cannot price.",
+        "when": "Slow-burn uncertainty now; acute if SCOTUS takes the case and the FDA theory is litigated on merits"
+      },
+      {
+        "who": "Rural women in states with limited clinic access",
+        "how": "Telemedicine mifepristone was specifically designed for women who cannot reach a clinic. Banning mail access does not eliminate abortion in cities. It primarily eliminates it in areas where driving to a clinic is not feasible.",
+        "when": "Immediate if the stay expires Monday without renewal"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Stay Extended, Case Accepted",
+        "whatHappens": "SCOTUS extends the stay past Monday and agrees to hear Louisiana v. FDA next term. Mifepristone access continues by mail while the case is briefed and argued. The court issues a ruling in late 2026 or 2027 that either affirms FDA authority or limits it.",
+        "signal": "SCOTUS files an order extending the stay with a call for briefs on certiorari before Monday"
+      },
+      {
+        "name": "Stay Expires, Chaos Follows",
+        "whatHappens": "SCOTUS does not act before Monday. The Fifth Circuit order takes effect. Telehealth providers stop mailing mifepristone nationwide. Blue-state attorneys general file emergency injunctions in their own circuits. Multiple conflicting orders create a patchwork where the drug is available in the Ninth Circuit but not the Fifth.",
+        "signal": "No SCOTUS order appears on the docket before end of business Friday, May 9"
+      },
+      {
+        "name": "FDA Rule Challenged Broadly",
+        "whatHappens": "SCOTUS takes the case but rules against FDA authority, agreeing that the 2023 telemedicine rule exceeded the agency's statutory mandate. The ruling destabilizes telehealth prescribing broadly. Congress is forced to address telemedicine authority explicitly, producing a protracted legislative fight.",
+        "signal": "SCOTUS grants cert and frames the question broadly around FDA rulemaking authority rather than narrowly on mifepristone"
+      }
+    ],
+    "whatWouldChange": "If the Supreme Court refuses to extend the stay and also refuses to take the case, the Fifth Circuit order takes effect and the bottom line changes entirely. The ban would be in place, not pending. If the Trump FDA files a brief defending the 2023 rule, that would signal the administration is willing to own the legal fight rather than let the courts do its work. Either of those developments would require a reassessment."
+  }
+}
