@@ -1,0 +1,113 @@
+{
+  "id": "tariffs-court-ruling",
+  "date": "2026-05-09",
+  "generatedAt": "2026-05-09T08:00:00Z",
+  "title": "The Second Time a Court Killed Trump's Tariffs",
+  "subtitle": "The Court of International Trade struck down Trump's replacement 10% global tariffs. He appealed within 24 hours. The question is no longer whether courts will stop him, but whether it matters.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["tariffs", "trade", "courts", "executive power", "Trump", "trade law"],
+  "coverImage": {
+    "url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2270451899.jpg?c=16x9&q=w_800,c_fill",
+    "local": "/images/reports/2026-05-09/tariffs-court-ruling.jpg",
+    "credit": "CNN / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://uk.marketscreener.com/news/us-trade-court-rules-against-trump-s-10-global-tariff-ce7f5bdada80f620",
+      "publisher": "Reuters via MarketScreener",
+      "angle": "Clean factual summary: CIT 2-1 ruling found Section 122 does not authorize tariffs to address trade deficits; relief limited to small business plaintiffs"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/05/08/trump-administration-appeals-latest-court-loss-on-tariffs.html",
+      "publisher": "CNBC",
+      "angle": "Focuses on the immediate appeal to the Federal Circuit; administration argues the ruling conflicts with their reading of emergency trade powers"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/trade/trump-section-122-tariffs-importers-refunds-trade-lawyers-cit-supreme-court-ieepa-1238948705/",
+      "publisher": "WWD / Sourcing Journal",
+      "angle": "Trade lawyers advise importers not to expect refunds; the injunction is narrow, only covering three plaintiffs, and the appeal creates uncertainty"
+    },
+    {
+      "url": "https://www.politico.eu/article/trade-court-rules-trumps-replacement-tariffs-illegal/",
+      "publisher": "Politico",
+      "angle": "Political framing: second consecutive court rebuke after Supreme Court struck down IEEPA tariffs in February; Trump simultaneously threatening EU with higher levies"
+    },
+    {
+      "url": "https://talkingpointsmemo.com/news/court-permanently-blocks-trumps-newest-tariffs-orders-more-tariff-refunds",
+      "publisher": "Talking Points Memo",
+      "angle": "Emphasizes the permanent block and tariff refund order; characterizes it as structural erosion of Trump's trade agenda"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "SCOTUS", "CIT", "EU", "Congress"],
+    "whatHappened": "The US Court of International Trade ruled 2-1 on May 7 that Trump's 10% global tariffs, imposed in February under Section 122 of the Trade Act of 1974, are unlawful. The court found Section 122 was designed to address acute balance-of-payments crises, not structural trade deficits, and that using it to impose across-the-board tariffs exceeded presidential authority. The ruling is the second consecutive court loss for Trump's tariff strategy: in February, the Supreme Court struck down his broader IEEPA tariffs. The Section 122 tariffs were explicitly designed as a replacement after that loss. Trump appealed the CIT ruling within 24 hours while simultaneously threatening the EU with 'much higher' duties and giving Brussels a July 4 deadline to reach a trade deal.",
+    "bottomLine": "Trump has now run out of statutory vehicles for across-the-board tariffs, and each new court loss creates a narrower window before the Federal Circuit or SCOTUS clarifies that no existing trade law authorizes what he is trying to do, at which point the tariff agenda dies or Congress has to pass it explicitly.",
+    "hiddenBets": [
+      {
+        "assumption": "The courts are the binding constraint on tariff policy",
+        "whyItMightBeWrong": "The CIT injunction only covers three plaintiffs. Every other importer is still paying the 10% tariff while the appeal proceeds. The administration can collect tariffs for months or years while litigation drags through the Federal Circuit, then SCOTUS. The courts are not stopping the tariffs in practice, only creating legal exposure for refunds later."
+      },
+      {
+        "assumption": "Congress is the fallback if courts keep striking tariffs down",
+        "whyItMightBeWrong": "Congress has not shown appetite to grant Trump explicit tariff authority because many members fear voter backlash on prices. The trade deficit framing Trump uses has no clear statutory home. Even a Republican-majority Congress is unlikely to pass a blanket tariff authorization because it would force every member to own the inflationary consequences."
+      },
+      {
+        "assumption": "The EU July 4 deadline is a negotiating tactic, not a real deadline",
+        "whyItMightBeWrong": "The Polymarket market for a US-EU trade deal before 2027 is at 11.9%. Markets are pricing the deadline as nearly meaningless. But the administration has shown it will impose tariffs even when courts say it cannot, using the collection period before injunctions expand. The EU deadline may be designed to extract partial concessions that can be framed as a win without a deal."
+      }
+    ],
+    "realDisagreement": "The genuine fork is whether the tariff litigation produces an eventual constitutional settlement or a permanent gray zone. Those who believe settlement say SCOTUS will eventually take a tariff case and clarify the limits of executive trade authority, forcing Congress to act or the tariffs to end. Those who believe gray zone say the administration will keep finding new statutory hooks, courts will keep ruling narrowly, and tariffs will persist through collections, delays, and appeals while legally uncertain. Importers cannot plan either way. The Polymarket market at 94.75% probability that courts will force tariff refunds suggests the smart money expects legal vindication, but that is the wrong question: refunds are only meaningful if the tariff ends. The lean: the gray zone wins for at least another 18 months."
+    ,
+    "whatNoOneIsSaying": "Section 122 required the tariffs to be temporary, capped at 150 days. By appealing rather than withdrawing, the administration is trying to get judicial blessing for something that already expired by its own statutory terms. The appeal is not really about winning; it is about keeping the question uncertain long enough for the EU deadline and other leverage plays to run.",
+    "whoPays": [
+      {
+        "who": "Small US importers not covered by the three-plaintiff injunction",
+        "how": "Continue paying 10% tariffs during the appeal; refunds are not guaranteed and require separate legal action",
+        "when": "Immediate and ongoing through appeal, potentially 12-18 months"
+      },
+      {
+        "who": "EU exporters to the US",
+        "how": "Face the threat of 'much higher' tariffs if they do not reach a deal by July 4, which may force political concessions that domestic EU constituencies oppose",
+        "when": "Medium-term pressure through Q2 2026"
+      },
+      {
+        "who": "US consumers in tariffed sectors",
+        "how": "Price increases from tariff pass-through are already embedded in supply chains; legal uncertainty means retailers cannot plan pricing or sourcing changes",
+        "when": "Ongoing, slow-burn"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Federal Circuit Stays the Ruling",
+        "whatHappens": "The Federal Circuit grants the administration's request for a stay while the appeal proceeds, restoring the 10% tariff for all importers. The gray zone continues and the administration keeps collecting.",
+        "signal": "Federal Circuit issues a stay order within 2-3 weeks of the appeal filing"
+      },
+      {
+        "name": "SCOTUS Takes the Case",
+        "whatHappens": "The Federal Circuit rules against the administration again and the government petitions SCOTUS. The court takes the case and consolidates it with any remaining IEEPA questions. A broad ruling on presidential trade authority would either vindicate or permanently constrain executive tariff power.",
+        "signal": "Administration files cert petition citing 'circuit split' or 'constitutional importance' in language designed to attract SCOTUS review"
+      },
+      {
+        "name": "EU Deal Preempts the Fight",
+        "whatHappens": "The EU accepts enough concessions by July 4 to give Trump a political win he can present as validating the tariff strategy. The legal fight becomes less urgent because the political objective is achieved without SCOTUS clarity.",
+        "signal": "Joint statement from Trump and EU leadership before July 4 using words like 'framework' or 'historic agreement'"
+      }
+    ],
+    "whatWouldChange": "If the Federal Circuit reverses the CIT and finds a plausible reading of Section 122 that supports the tariffs, the bottom line is wrong. That would require the appeals court to find that persistent trade deficits qualify as a 'balance of payments crisis' under a 1974 law, which no court has ever held and which directly contradicts the legislative history.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Court Force Trump to Refund Tariffs?",
+        "url": "https://polymarket.com/event/will-the-court-force-trump-to-refund-tariffs-2026-06-30",
+        "probability": 0.9475
+      },
+      {
+        "platform": "Polymarket",
+        "question": "U.S. agrees to a new trade deal with the European Union before 2027?",
+        "url": "https://polymarket.com/event/which-countries-will-trump-make-new-trade-deals-with-before-2027-921",
+        "probability": 0.119
+      }
+    ]
+  }
+}

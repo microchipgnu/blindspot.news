@@ -1,0 +1,36 @@
+{
+  "date": "2026-05-09",
+  "generatedAt": "2026-05-09T08:00:00Z",
+  "reports": [
+    {
+      "id": "iran-ceasefire-hormuz",
+      "title": "The Ceasefire That Keeps Shooting",
+      "subtitle": "US and Iran are exchanging fire in the Strait of Hormuz while both sides insist a ceasefire is still in effect. One of them is lying, or neither knows what a ceasefire means.",
+      "category": "conflict"
+    },
+    {
+      "id": "tariffs-court-ruling",
+      "title": "The Second Time a Court Killed Trump's Tariffs",
+      "subtitle": "The Court of International Trade struck down Trump's replacement 10% global tariffs. He appealed within 24 hours. The question is no longer whether courts will stop him, but whether it matters.",
+      "category": "power"
+    },
+    {
+      "id": "nvidia-chip-smuggling-thailand",
+      "title": "Thailand's National AI Strategy Was a Chip Laundering Operation",
+      "subtitle": "US prosecutors believe OBON Corp, the centerpiece of Thailand's AI national strategy, moved $2.5 billion in Nvidia-equipped servers to China for Alibaba. The export controls were not beaten by spies; they were beaten by a trade show partner.",
+      "category": "power"
+    },
+    {
+      "id": "abc-fcc-broadcast-control",
+      "title": "The FCC vs. The View, and the Broadcast License as a Weapon",
+      "subtitle": "The Trump FCC is using a 1934 equal-time rule to investigate a talk show, threatening licenses and rewriting 20-year-old precedents. ABC is fighting back. The stakes are whether the government can police broadcast content through regulatory intimidation.",
+      "category": "power"
+    },
+    {
+      "id": "musk-france-criminal-probe",
+      "title": "France Opens Criminal Case Against Musk and X. He Still Isn't Coming.",
+      "subtitle": "French prosecutors escalated their probe of Elon Musk and X to a criminal investigation after he and former CEO Linda Yaccarino ignored summons. The US government previously called the probe a political attack on an American business.",
+      "category": "conflict"
+    }
+  ]
+}
