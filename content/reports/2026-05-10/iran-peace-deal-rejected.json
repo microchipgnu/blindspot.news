@@ -1,0 +1,108 @@
+{
+  "id": "iran-peace-deal-rejected",
+  "date": "2026-05-10",
+  "generatedAt": "2026-05-10T18:00:00Z",
+  "title": "Iran Rejected the US Proposal. Trump Called It Unacceptable. Now What?",
+  "subtitle": "Tehran's counteroffer focused on ending the war. Washington's proposal required ending the nuclear program first. Those are not the same negotiation.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["Iran", "US", "Hormuz", "ceasefire", "nuclear", "war"],
+  "coverImage": {
+    "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/TCHL23F4MJMVE423I5T2UUSTNU.JPG&w=1440",
+    "local": "/images/reports/2026-05-10/iran-peace-deal-rejected.jpg",
+    "credit": "The Washington Post"
+  },
+  "sources": [
+    {
+      "url": "https://www.bbc.co.uk/news/articles/clypgz9e5pmo",
+      "publisher": "BBC News",
+      "angle": "Reports Trump calling Iran's response totally unacceptable and summarizes both sides' positions, including Iran's demand for a UN Security Council guarantee"
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/5/10/why-is-iran-taking-time-to-respond-to-the-us-proposal-to-end-the-war",
+      "publisher": "Al Jazeera",
+      "angle": "Explains Iran's three-phase approach and why Iran insists it will maintain Hormuz influence rather than return to pre-war status quo"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/05/10/tanker-crosses-strait-of-hormuz-as-us-awaits-iran-response-.html",
+      "publisher": "CNBC",
+      "angle": "Notes Qatari tanker crossing as a confidence-building signal from Iran to Qatar and Pakistan as mediators, while tracking the gap between Trump's timeline and Iran's four-month economic buffer"
+    },
+    {
+      "url": "https://www.politico.eu/article/tehran-responds-us-peace-proposal-war-defense-iran-media/",
+      "publisher": "Politico EU",
+      "angle": "Captures Iran's framing: this phase is only about ending the war, not about nuclear weapons, explicitly separating the two issues"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Iran", "Pakistan", "Qatar", "Israel", "Rubio"],
+    "whatHappened": "Iran submitted its response to the US 14-point peace proposal via Pakistani mediators on Sunday, May 10. The Iranian counteroffer focused on ending the war on all fronts and lifting US sanctions, explicitly declining to address nuclear enrichment at this stage. Trump responded within hours on Truth Social, calling the proposal totally unacceptable. A Qatari natural gas tanker crossed the Strait of Hormuz safely for the first time since February, reportedly approved by Iran as a goodwill gesture toward Qatar and Pakistan. Meanwhile, both sides continued attacking each other's ships and the British Royal Navy announced deployment toward the region.",
+    "bottomLine": "Iran and the US are negotiating two different things: Iran wants a war-ending agreement first, the US wants a nuclear deal first. Neither side will move off that sequencing, which means this is not a negotiation that is close to resolving.",
+    "hiddenBets": [
+      {
+        "assumption": "The ceasefire is holding",
+        "whyItMightBeWrong": "Both sides have struck each other's ships, Iran launched drones across the Gulf this weekend, and a cargo ship was hit off Qatar's coast. The ceasefire is a label both sides maintain for political reasons, not a description of facts on the ground."
+      },
+      {
+        "assumption": "Iran needs a deal more than the US does",
+        "whyItMightBeWrong": "A CIA assessment reportedly found Iran can withstand the blockade for another four months without severe economic pressure. Iran's parliament is drafting legislation to formalize its control of the Strait, which suggests Tehran is preparing for a longer standoff, not surrender."
+      },
+      {
+        "assumption": "Reopening Hormuz is in everyone's interest",
+        "whyItMightBeWrong": "A permanently closed or Iran-controlled Hormuz gives Tehran coercive leverage it has never had before. Iran may calculate that formalizing that leverage is worth more than the sanctions relief on offer, especially if it doubts US compliance with any deal given past history."
+      }
+    ],
+    "realDisagreement": "The real fork is about sequencing: does the war end before nuclear negotiations begin, or do nuclear commitments precede any ceasefire formalization? Iran insists war must end first, citing the precedent that the US attacked in the middle of negotiations in June 2025. The US insists nuclear limits must be the centerpiece, not an afterthought. Both positions are defensible. You cannot credibly negotiate nuclear constraints with someone who has just bombed you, and you cannot grant a ceasefire to someone who then pockets it and refuses to discuss the thing that started the war. The US position is probably more strategically coherent, but Iran has more leverage to hold the sequencing argument, because it still controls the Strait."
+    ,
+    "whatNoOneIsSaying": "Iran letting one Qatari tanker through is not a confidence-building measure. It is a reminder that Iran decides who passes and who does not. Every tanker that crosses at Iran's discretion proves Tehran's point: the Strait is now an Iranian-controlled chokepoint, not international waters.",
+    "whoPays": [
+      {
+        "who": "Global energy consumers",
+        "how": "Oil and gas prices remain elevated as long as a fifth of the world's supply is blocked or at risk; transportation and production costs pass through to food, manufacturing, and services globally",
+        "when": "Ongoing, with compounding effects as the blockade extends past four months"
+      },
+      {
+        "who": "Pakistan",
+        "how": "Power blackouts from halted Qatari LNG imports; Pakistan is the mediator being squeezed on both ends, with the UAE already expelling Pakistani workers over its mediation role",
+        "when": "Already ongoing"
+      },
+      {
+        "who": "Gulf Arab states",
+        "how": "UAE came under Iranian drone attack Friday; these states have lifted restrictions on US military access to their bases and airspace, making them implicit participants in the war's cost structure",
+        "when": "Escalating with each exchange"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Phased framework agreed",
+        "whatHappens": "Both sides accept a war-ends-first structure with nuclear talks guaranteed to follow within 30 days; Hormuz reopens gradually; oil prices begin falling ahead of Trump's Beijing summit",
+        "signal": "Trump stops saying Iran's proposals are unacceptable and starts talking about a 'framework' or 'process'"
+      },
+      {
+        "name": "Escalation then deal",
+        "whatHappens": "Trump resumes airstrikes after the summit, as he threatened; Iran retaliates against US regional bases; the economic shock forces both sides into emergency negotiations with a neutral host like Oman or Turkey",
+        "signal": "US military strike on an Iranian facility after May 15; Iran attacks a US base within 48 hours"
+      },
+      {
+        "name": "Frozen conflict",
+        "whatHappens": "Neither side escalates to full-scale war, neither side accepts the other's sequencing; Hormuz stays partially closed; Iran formalizes its control via domestic legislation; global economy absorbs a permanently higher energy floor",
+        "signal": "Iran's parliament passes the Hormuz control legislation; US stops citing a July 4 deadline"
+      }
+    ],
+    "whatWouldChange": "If Iran agrees to any process where nuclear enrichment is paused even temporarily, the bottom line changes. That would mean Tehran is trading leverage it has held for thirty years for something the US is offering. So far there is no evidence Iran is prepared to do that.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "US-Iran nuclear deal by May 31?",
+        "url": "https://polymarket.com/event/us-iran-nuclear-deal-by-may-31-974",
+        "probability": 0.14
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US-Iran nuclear deal by June 30?",
+        "url": "https://polymarket.com/event/us-iran-nuclear-deal-by-june-30",
+        "probability": 0.295
+      }
+    ]
+  }
+}

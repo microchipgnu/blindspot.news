@@ -1,0 +1,113 @@
+{
+  "id": "warsh-fed-hawk-inflation-trap",
+  "date": "2026-05-10",
+  "generatedAt": "2026-05-10T18:00:00Z",
+  "title": "Trump Got His Fed Chair. He May Get Rate Hikes.",
+  "subtitle": "Kevin Warsh spent a year promising he would cut rates. Then the Iran war made that impossible. Now the only question is how high rates go.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Fed", "Warsh", "Powell", "inflation", "interest rates", "Iran", "monetary policy"],
+  "coverImage": {
+    "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F868552%2Fpresident-donald-trump-wh-photo-speak-jerome-powell-daniel-torok.jpg&w=1200&op=resize",
+    "local": "/images/reports/2026-05-10/warsh-fed-chair-inflation.jpg",
+    "credit": "The Motley Fool / White House"
+  },
+  "sources": [
+    {
+      "url": "https://www.fool.com/investing/2026/05/10/donald-trump-force-feds-hand-not-way-youd-expect/",
+      "publisher": "The Motley Fool",
+      "angle": "Argues Trump's Iran war may force Warsh to raise rates, the opposite of what Trump wanted"
+    },
+    {
+      "url": "https://www.scmp.com/business/banking-finance/article/3352914/investors-have-worries-about-trumps-pick-fed-chair-should-they",
+      "publisher": "South China Morning Post",
+      "angle": "Covers Warsh's confirmation hearing vow of independence and the ongoing question of whether Trump will accept a chair who won't do what he wants"
+    },
+    {
+      "url": "https://finance.yahoo.com/economy/policy/articles/pimco-cio-sees-risk-fed-145414185.html",
+      "publisher": "Yahoo Finance / Bloomberg",
+      "angle": "Pimco CIO warns a Fed rate hike is possible, not just a delay in cuts, due to Iran war energy inflation"
+    },
+    {
+      "url": "https://www.marketscreener.com/news/strong-us-jobs-data-complicates-any-warsh-push-for-lower-rates-ce7f5bdbdc89f723",
+      "publisher": "MarketScreener / Reuters",
+      "angle": "Strong April jobs data removes the labor market justification for cutting; Warsh enters with no economic cover for the rate cuts Trump wants"
+    }
+  ],
+  "brief": {
+    "actors": ["Warsh", "Trump", "Powell", "Fed"],
+    "whatHappened": "The Senate is expected to confirm Kevin Warsh as the 17th Federal Reserve Chair this week, with Jerome Powell's term expiring May 15. Warsh, who Trump nominated after a year-long public feud with Powell over interest rates, enters with inflation running at 3.3% and projected to climb to 3.8% or higher in April data due out Tuesday. The Iran war has driven energy prices sharply higher, and the April jobs report came in stronger than forecast at 115,000 jobs added, removing the labor market argument for rate cuts. Pimco's CIO said this week that a rate hike is no longer off the table. Goldman Sachs pushed its rate cut forecast to December 2026 at the earliest.",
+    "bottomLine": "Trump fired the central banker who wouldn't cut rates, and the man he replaced him with may have to raise them. The Iran war has made the economic logic of rate cuts impossible, and Warsh's own inflation-hawkish history is more relevant now than it was when he was nominated.",
+    "hiddenBets": [
+      {
+        "assumption": "Warsh will maintain central bank independence",
+        "whyItMightBeWrong": "At his confirmation hearing, Warsh promised he would not be Trump's 'human sock puppet.' But Trump's DOJ opened a criminal investigation into Powell, who was confirmed and confirmed again. Warsh has stronger incentives to cooperate and no precedent showing independence is protected."
+      },
+      {
+        "assumption": "Inflation is primarily war-driven and will ease when the war ends",
+        "whyItMightBeWrong": "Core PCE, which strips out energy, is running at 3.2%. Three FOMC members voted against keeping an easing bias at the April meeting. The inflation embedding is not purely an energy story, which means a Hormuz deal does not fix it."
+      },
+      {
+        "assumption": "A rate hike would be politically intolerable for Trump",
+        "whyItMightBeWrong": "Trump could reframe a rate hike as a necessary consequence of the Iran war he started and blame Iran for the economic pain. High rates on his watch are damaging, but a high-inflation spiral is worse. If Warsh raises rates, Trump needs a story, not permission."
+      }
+    ],
+    "realDisagreement": "The real tension is between Trump's political need for rate cuts and the economic reality that warrants the opposite. Warsh told the Senate he would prioritize price stability over White House pressure. Either he meant it, in which case Trump has a Fed chair who will do the opposite of what he wants, or he did not mean it, in which case monetary policy is now officially subordinate to executive preference. You cannot have both a credible Fed and a president who chooses the chair to execute his preferences. The market currently prices Warsh as credible; a 18.5% probability of any rate hike in 2026 is not nothing, and that probability was near zero six months ago.",
+    "whatNoOneIsSaying": "The DOJ investigation into Powell was not about cost overruns. It was a demonstration that the executive branch can credibly threaten any Fed chair. Warsh knows this. Every decision he makes will be filtered through what happened to Powell.",
+    "whoPays": [
+      {
+        "who": "US homeowners and mortgage borrowers",
+        "how": "Rates already elevated; any hike extends the housing affordability crisis; 30-year fixed mortgages stay above 7%; first-time buyers remain locked out of the market",
+        "when": "Immediately upon any rate increase signal, and for years after"
+      },
+      {
+        "who": "Small businesses with variable-rate debt",
+        "how": "Refinancing becomes more expensive; credit card rates stay near record highs; the Fed funds futures market currently prices a hike over a cut twelve months out",
+        "when": "Rolling, as existing loans reset"
+      },
+      {
+        "who": "Trump's political base",
+        "how": "Consumer sentiment is at its worst in 74 years of University of Michigan surveys; three of the four lowest readings ever occurred in the past nine months; a rate hike deepens the squeeze on the people who voted for lower prices",
+        "when": "Before the midterms"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Warsh holds, market adjusts",
+        "whatHappens": "Warsh keeps rates flat despite Trump pressure; inflation stabilizes near 3.5%; Trump criticizes the Fed loudly but does not move against Warsh; markets price in no cuts until 2027",
+        "signal": "Warsh's first FOMC statement after confirmation does not include an easing bias"
+      },
+      {
+        "name": "Warsh hikes",
+        "whatHappens": "April CPI prints at 4% or higher; Warsh cites price stability mandate; rates rise 25 basis points; stock market sells off sharply; Trump attacks Warsh publicly",
+        "signal": "April CPI above 4.2% on Tuesday and a simultaneous Warsh public statement on inflation expectations"
+      },
+      {
+        "name": "Warsh capitulates",
+        "whatHappens": "Iran war ends, oil prices drop, Warsh uses the cover to cut rates; Trump claims victory; the cut is premature but politically necessary; core inflation stays elevated",
+        "signal": "Iran deal signed within 30 days and Warsh immediately signals a June meeting cut"
+      }
+    ],
+    "whatWouldChange": "If the Iran war ends and energy prices drop enough to pull headline inflation back below 3% before June, the case for rate hikes collapses. Warsh cuts, Trump claims credit, and the uncomfortable questions about Fed independence get deferred. That is the scenario Trump needs. Polymarket currently prices it at 14% probability by May 31 and 29.5% by June 30.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Kevin Warsh be confirmed as Fed Chair?",
+        "url": "https://polymarket.com/event/who-will-be-confirmed-as-fed-chair",
+        "probability": 0.9975
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Kevin Warsh cuts rates at first Fed meeting?",
+        "url": "https://polymarket.com/event/kevin-warsh-cuts-rates-at-first-fed-meeting",
+        "probability": 0.0405
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Fed rate hike in 2026?",
+        "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+        "probability": 0.185
+      }
+    ]
+  }
+}

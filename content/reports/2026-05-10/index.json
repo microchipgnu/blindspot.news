@@ -73,6 +73,36 @@
       "title": "The Trump-Xi Summit Is About Iran. China Wants It That Way.",
       "subtitle": "The US-China summit next week was supposed to be about tariffs and rare earths. Iran has displaced both topics. That displacement is not accidental — it is the best outcome China could have engineered.",
       "category": "power"
+    },
+    {
+      "id": "iran-peace-deal-rejected",
+      "title": "Iran Rejected the US Proposal. Trump Called It Unacceptable. Now What?",
+      "subtitle": "Tehran's counteroffer focused on ending the war. Washington's proposal required ending the nuclear program first. Those are not the same negotiation.",
+      "category": "conflict"
+    },
+    {
+      "id": "warsh-fed-hawk-inflation-trap",
+      "title": "Trump Got His Fed Chair. He May Get Rate Hikes.",
+      "subtitle": "Kevin Warsh spent a year promising he would cut rates. Then the Iran war made that impossible. Now the only question is how high rates go.",
+      "category": "power"
+    },
+    {
+      "id": "clarity-act-banks-vs-crypto",
+      "title": "The Stablecoin Bill Is Four Days From a Vote. Banks Just Tried to Kill It.",
+      "subtitle": "The CLARITY Act cleared the House with 294 votes. Banks rejected the Senate compromise the weekend before the markup. The argument is about yield. The war is about deposits.",
+      "category": "power"
+    },
+    {
+      "id": "meta-child-harm-trial-phase2",
+      "title": "New Mexico Wants to Redesign Instagram. Meta Says It Will Leave the State First.",
+      "subtitle": "A judge who calls himself a reluctant legislator must now decide whether a state AG can force a global platform to change its algorithm. The answer will determine whether courts can regulate what Congress won't.",
+      "category": "power"
+    },
+    {
+      "id": "eu-ai-act-omnibus-watered-down",
+      "title": "The EU Spent Three Years Writing the World's Toughest AI Law. Then It Rewrote It.",
+      "subtitle": "The AI Act Omnibus delays most high-risk rules to 2027 and 2028. The Digital Omnibus, the sequel, may gut the data protection framework that makes AI development in Europe structurally different from China and the US.",
+      "category": "power"
     }
   ]
 }

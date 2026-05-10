@@ -1,0 +1,93 @@
+{
+  "id": "meta-child-harm-trial-phase2",
+  "date": "2026-05-10",
+  "generatedAt": "2026-05-10T18:00:00Z",
+  "title": "New Mexico Wants to Redesign Instagram. Meta Says It Will Leave the State First.",
+  "subtitle": "A judge who calls himself a reluctant legislator must now decide whether a state AG can force a global platform to change its algorithm. The answer will determine whether courts can regulate what Congress won't.",
+  "topic": "society",
+  "category": "power",
+  "tags": ["Meta", "Instagram", "social media", "children", "New Mexico", "Section 230", "algorithm"],
+  "coverImage": {
+    "url": "https://npr.brightspotcdn.com/dims4/default/1783cf0/2147483647/strip/true/crop/7834x4113+0+173/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5b%2F05%2Fb078cd744cc2b239fa6d6e9bbb52%2Fap26125006629659.jpg",
+    "local": "/images/reports/2026-05-10/meta-child-harm-trial.jpg",
+    "credit": "AP / KRWG"
+  },
+  "sources": [
+    {
+      "url": "https://www.krwg.org/regional/2026-05-09/new-mexico-seeks-child-safety-restrictions-on-meta-apps-and-algorithms-in-trials-2nd-phase",
+      "publisher": "KRWG / AP",
+      "angle": "Reports the judge's own skepticism about becoming a 'one-person legislator, judge and executive branch enforcer' as the trial opened"
+    },
+    {
+      "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/new-mexico-ag-seeks-3-7b-from-meta-over-alleged-public-nuisance-claims/",
+      "publisher": "Top Class Actions",
+      "angle": "Details the $3.712 billion abatement plan covering 15 years of mental health services and education, and Meta's threat to exit New Mexico entirely"
+    },
+    {
+      "url": "https://ppc.land/metas-pr-response-to-child-harm-verdicts-draws-scrutiny/",
+      "publisher": "PPC Land",
+      "angle": "Documents Meta removing plaintiff recruitment ads from its own platforms after the $375M verdict, and the bipartisan Senate response calling that removal misleading"
+    },
+    {
+      "url": "https://nsjonline.com/article/2026/05/new-mexico-seeks-child-safety-restrictions-on-meta-apps-algorithms/",
+      "publisher": "North State Journal",
+      "angle": "Notes the Massachusetts Supreme Court ruling April 2026 that Section 230 does not protect Meta from state child harm claims, removing Meta's primary legal shield"
+    }
+  ],
+  "brief": {
+    "actors": ["Meta", "New Mexico", "Instagram", "Massachusetts", "Senate"],
+    "whatHappened": "New Mexico opened the second phase of its landmark child safety trial against Meta on May 9, following a jury verdict in Phase 1 that ordered $375 million in civil penalties. Phase 2 is a bench trial before a single judge who will decide whether Meta's platforms constitute a public nuisance and what structural remedies, if any, to impose. The state is seeking $3.712 billion in abatement costs to fund 15 years of mental health services and education. New Mexico also wants the court to order changes to Meta's algorithm, age verification systems, and default privacy settings. Meta has threatened to exit New Mexico entirely if court-imposed mandates are unworkable. In April, the Massachusetts Supreme Court ruled Section 230 does not shield Meta from these claims. More than 2,400 related lawsuits are pending against Meta and other platforms.",
+    "bottomLine": "A single New Mexico judge is being asked to do what Congress has refused to do for twenty years: force a change to how the most influential media platforms in the world function. The judge has already said he does not want that role. Whether he takes it anyway is the question.",
+    "hiddenBets": [
+      {
+        "assumption": "Meta's threat to exit New Mexico is a negotiating tactic",
+        "whyItMightBeWrong": "Meta has 3 billion users and cannot afford to lose a state market over one trial. But geofencing Instagram or Facebook away from a state has been operationally tested. If the court orders changes that conflict with Meta's core engagement mechanics, exit is cheaper than compliance. Meta's calculated business interest is not always what it appears from outside."
+      },
+      {
+        "assumption": "The Section 230 ruling in Massachusetts changes everything",
+        "whyItMightBeWrong": "The Massachusetts ruling applies to state law claims. Federal courts in the Ninth Circuit are proceeding with a multidistrict litigation that may still find Section 230 protects platform design decisions. The legal landscape is split, not settled."
+      },
+      {
+        "assumption": "Public nuisance is the right legal theory for platform harm",
+        "whyItMightBeWrong": "Eric Goldman, a leading Section 230 scholar who was quoted in coverage, called the nuisance theory not well accepted as applied to the internet. If the judge dismisses the nuisance claim in Phase 2, the $375 million Phase 1 verdict stands but no structural changes follow."
+      }
+    ],
+    "realDisagreement": "The core tension is between two legitimate positions on who decides platform design standards. One view holds that courts should impose these changes because Congress has failed to act and children are being harmed now. The other holds that courts imposing structural changes on a global platform based on one state's nuisance law creates perverse incentives, jurisdictional chaos, and outcomes that will vary by state. The first view is morally urgent. The second is procedurally sound. The judge's own comment about not wanting to be a one-person legislator suggests he is more sympathetic to the second view, which means the structural remedies are unlikely to survive, even if the nuisance finding does.",
+    "whatNoOneIsSaying": "Meta removing plaintiff recruitment ads from its own platforms after the verdict is a confession. If the platforms are genuinely safe and the cases are meritless, the ads cause no harm. The only reason to suppress them is to reduce the pool of plaintiffs. The bipartisan Senate letter called this out, but it disappeared from coverage within a day.",
+    "whoPays": [
+      {
+        "who": "Children and parents in New Mexico",
+        "how": "If Meta exits the state in response to court orders, New Mexico teenagers lose access to the dominant social platforms while their peers in neighboring states do not; the harm is an exclusion that applies specifically to the most vulnerable users the case is trying to protect",
+        "when": "Within months of any injunctive order Meta deems unworkable"
+      },
+      {
+        "who": "Every other state AG office",
+        "how": "If New Mexico wins structural relief, it establishes a template for 49 more states and the EU to file their own nuisance actions with their own design mandates; platform design compliance becomes a 50-state patchwork",
+        "when": "Within 12-18 months of a final New Mexico order"
+      },
+      {
+        "who": "Meta shareholders",
+        "how": "The $375 million verdict is priced in; the 2,400 pending lawsuits are not; if the Massachusetts and California tracks succeed, total exposure runs into the billions with structural remedies on top",
+        "when": "Multi-year exposure as cases progress"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Structural relief granted",
+        "whatHappens": "Judge finds public nuisance and orders algorithmic restrictions, age verification, and default privacy changes; Meta appeals immediately; other AGs accelerate their own actions using the New Mexico template",
+        "signal": "Judge issues a preliminary ruling accepting the nuisance theory within the first week of trial"
+      },
+      {
+        "name": "Nuisance rejected, damages stand",
+        "whatHappens": "Judge dismisses the public nuisance claim as legally insufficient; the $375 million penalty stands but no structural changes follow; Meta declares victory and points to the ruling as evidence courts cannot regulate platform design",
+        "signal": "Judge rules in Meta's favor on the threshold nuisance question before testimony concludes"
+      },
+      {
+        "name": "Settlement",
+        "whatHappens": "Meta negotiates a settlement including limited algorithm transparency commitments and a mental health fund, avoiding both a structural order and a precedent; the AG accepts it as a win for optics",
+        "signal": "Trial is paused for mediation within the first two weeks"
+      }
+    ],
+    "whatWouldChange": "If Congress passes federal children's online safety legislation that preempts state nuisance claims, the New Mexico case becomes moot or severely limited. That has not happened despite years of bipartisan rhetoric. If the Ninth Circuit rules for Meta in the federal MDL on Section 230, the structural case weakens nationally even if the New Mexico nuisance theory survives."
+  }
+}

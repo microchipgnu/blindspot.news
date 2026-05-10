@@ -67,6 +67,49 @@
           "relationship": "Pakistan played a central role in the April Iran-US ceasefire that currently governs the Hormuz situation; if that ceasefire collapses, Pakistan's army chief loses his most significant diplomatic achievement, which would destabilize his domestic position and potentially heighten Pakistan-India tensions."
         }
       ]
+    },
+    {
+      "id": "iran-war-economy-chain",
+      "title": "The Iran War Is Deciding This Week's Domestic Economy",
+      "description": "The Iran war is not just a foreign policy crisis. It is the forcing function behind two of today's US economy stories. The Hormuz blockade drove oil prices high enough to push CPI above 3.3% and climbing, which is the reason Kevin Warsh enters as Fed chair unable to cut rates as Trump promised, and why a rate hike is now priced at 18.5%. The inflation shock from the war also eliminates the economic rationale for rate cuts that was the entire premise of why Trump wanted Warsh over Powell. Trump may have ended up with a Fed chair who has to do the opposite of what Powell was fired for refusing to do.",
+      "type": "cause-effect",
+      "stories": ["iran-peace-deal-rejected", "warsh-fed-hawk-inflation-trap", "hormuz-blockade-iran-war"],
+      "connections": [
+        {
+          "from": "hormuz-blockade-iran-war",
+          "to": "warsh-fed-hawk-inflation-trap",
+          "relationship": "The Hormuz blockade drove energy prices high enough to push CPI to 3.3% and rising, transforming Warsh from the rate-cut Fed chair Trump wanted into a potential rate-hike Fed chair the economy may require."
+        },
+        {
+          "from": "iran-peace-deal-rejected",
+          "to": "warsh-fed-hawk-inflation-trap",
+          "relationship": "Trump's rejection of Iran's counteroffer extends the war indefinitely, extending the energy price shock, and reducing the probability that Warsh will have the inflation cover he needs to cut rates before the midterms."
+        }
+      ]
+    },
+    {
+      "id": "who-governs-the-platform",
+      "title": "Courts, States, and the EU Are Trying to Govern Platforms That Outran All Three",
+      "description": "Three stories today share the same structural problem: a governance body trying to regulate technology at a scale or speed it was not designed to handle. New Mexico's attorney general is asking a state court to redesign Instagram's algorithm. The EU rewrote its AI Act Omnibus overnight in a nine-hour session and immediately faced criticism for being too weak and too strong simultaneously. The CLARITY Act asks the Senate Banking Committee to resolve a twenty-year legal ambiguity about whether digital assets are securities or commodities. All three are attempts by legacy institutions to govern systems that already operate globally and at machine speed. The institutions are slower, smaller, and more fragmented than what they are trying to govern.",
+      "type": "tension-cluster",
+      "stories": ["meta-child-harm-trial-phase2", "eu-ai-act-omnibus-watered-down", "clarity-act-banks-vs-crypto", "apple-ios27-ai-extensions"],
+      "connections": [
+        {
+          "from": "eu-ai-act-omnibus-watered-down",
+          "to": "meta-child-harm-trial-phase2",
+          "relationship": "The EU's two-year delay of high-risk AI enforcement creates a window where US courts are moving faster than EU regulators on the same underlying question: who is responsible when AI-driven platform design harms users."
+        },
+        {
+          "from": "meta-child-harm-trial-phase2",
+          "to": "clarity-act-banks-vs-crypto",
+          "relationship": "Both cases turn on whether existing legal frameworks, public nuisance law for Meta and securities law for crypto, can govern behaviors the frameworks were not written to address; in both cases, the failure to legislate has pushed the question into adversarial legal settings with unpredictable outcomes."
+        },
+        {
+          "from": "eu-ai-act-omnibus-watered-down",
+          "to": "apple-ios27-ai-extensions",
+          "relationship": "Apple's iOS 27 multi-model AI marketplace, which the EU AI Act would eventually have to classify and regulate as a high-risk deployment channel, arrives two years before the EU's high-risk AI rules take effect, meaning the regulatory framework will be written around a product that already dominates the market."
+        }
+      ]
     }
   ]
 }

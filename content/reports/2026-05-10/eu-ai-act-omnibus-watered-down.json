@@ -1,0 +1,88 @@
+{
+  "id": "eu-ai-act-omnibus-watered-down",
+  "date": "2026-05-10",
+  "generatedAt": "2026-05-10T18:00:00Z",
+  "title": "The EU Spent Three Years Writing the World's Toughest AI Law. Then It Rewrote It.",
+  "subtitle": "The AI Act Omnibus delays most high-risk rules to 2027 and 2028. The Digital Omnibus, the sequel, may gut the data protection framework that makes AI development in Europe structurally different from China and the US.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["EU", "AI Act", "regulation", "Digital Omnibus", "GDPR", "data protection"],
+  "coverImage": {
+    "url": "https://ai2people.com/wp-content/uploads/2026/05/europe-hits-pause-on-its-toughest-ai-rules-and-the-backlash-has-already-begun.jpg",
+    "local": "/images/reports/2026-05-10/eu-ai-act-omnibus.jpg",
+    "credit": "AI2People"
+  },
+  "sources": [
+    {
+      "url": "https://www.euronews.com/next/2026/05/10/imperfect-ai-omnibus-arrives-all-eyes-turn-to-digital-omnibus",
+      "publisher": "Euronews",
+      "angle": "Reports the overnight negotiation outcome and immediately pivots to the Digital Omnibus as the higher-stakes fight; industry calls the AI Omnibus too modest, rights groups call it a sellout"
+    },
+    {
+      "url": "https://ai2people.com/europe-hits-pause-on-its-toughest-ai-rules-and-the-backlash-has-already-begun/",
+      "publisher": "AI2People",
+      "angle": "Describes the delay of high-risk AI obligations and the political backlash beginning from consumer and civil society groups"
+    },
+    {
+      "url": "https://www.aibusinessreview.org/2026/05/09/eu-ai-act-compliance-omnibus-framework-eased/",
+      "publisher": "AI Business Review",
+      "angle": "Industry perspective: the simplified framework is welcome but the deadlines remain unclear and the definition narrowing creates compliance uncertainty"
+    }
+  ],
+  "brief": {
+    "actors": ["EU", "Germany", "OpenAI", "GDPR"],
+    "whatHappened": "After a nine-hour all-night negotiation, the European Parliament and Council reached a provisional agreement on the AI Act Omnibus in the early hours of May 10. The deal delays the application of high-risk AI rules for stand-alone systems from August 2026 to December 2027, and for AI embedded in regulated products to August 2028. The original sectoral exemptions sought by Germany, which wanted to remove AI Act requirements that overlap with existing rules for medical devices, toys, and other machinery, were mostly rejected; only machinery products received the carve-out. Germany was criticized by other member states for what they described as a failure to collaborate in the negotiations. Attention now shifts to the Digital Omnibus, a separate legislative package that will determine how personal data can be used for AI development and scientific research, a fight that analysts describe as more consequential than the AI Act itself.",
+    "bottomLine": "Europe delayed its hard AI rules by two years and called it simplification. The real fight is over the Digital Omnibus, where the question is whether European companies can train AI on personal data at all. If the data protection framework holds, Europe will continue to train less competitive AI on less data. If it yields, Europe will lose the only structural distinction that made its approach different.",
+    "hiddenBets": [
+      {
+        "assumption": "Delaying enforcement creates breathing room for companies to comply",
+        "whyItMightBeWrong": "The AI Sandbox framework, pushed back from August 2026 to August 2027, is already criticized for allowing only soft measures. The grace period is being used to slow the rollout of enforcement infrastructure, not to accelerate company readiness. Delays benefit the largest companies with the most lobbying capacity, not the startups that need clarity."
+      },
+      {
+        "assumption": "The AI Act and the Digital Omnibus are separate issues",
+        "whyItMightBeWrong": "You cannot build compliant high-risk AI systems without clear rules for what data you can train them on. The AI Act sets deployment rules; the Digital Omnibus sets training rules. If the Digital Omnibus weakens GDPR's data processing constraints for AI, the two-year AI Act delay is irrelevant because the underlying constraint disappears."
+      },
+      {
+        "assumption": "Europe is the global template for AI regulation",
+        "whyItMightBeWrong": "The US is moving toward voluntary frameworks and security partnerships with AI companies rather than mandatory compliance. China has its own national AI governance framework with different rules. The EU's claim to set global standards depends on companies choosing to comply, which depends on the EU remaining a market worth serving. Two delays in three years test that assumption."
+      }
+    ],
+    "realDisagreement": "The live tension is between two things both the EU wants: competitive AI development and strong data protection. They cannot both be maximized simultaneously. Training competitive AI requires large-scale personal data processing. GDPR imposes consent and minimization requirements that make large-scale personal data processing expensive and legally risky. The Digital Omnibus is where this tension breaks. Industry and scale-ups argue the EU's AI ambitions are pointless without data access. Privacy advocates say loosening GDPR creates a precedent that hollows out the entire framework. The Commission's original compromise was watered down in Council, suggesting the status quo is winning, meaning Europe may preserve GDPR and accept second-tier AI competitiveness.",
+    "whatNoOneIsSaying": "Germany is in an impossible position. It wanted carve-outs for its industrial machinery sector to avoid AI Act compliance costs. Other member states called Germany obstructionist for not collaborating earlier. But Germany's machinery sector is the most exposed to AI-enabled competition from China and the US, and Germany is correct that the AI Act's overlap with sectoral rules creates genuine compliance confusion. The political cost of Germany arguing for its industrial interest is that it looks like it is undermining the regulation it publicly supports.",
+    "whoPays": [
+      {
+        "who": "European AI startups",
+        "how": "Regulatory uncertainty persists; compliance timelines have changed twice; venture capital prefers jurisdictions with clearer rules; the sandbox framework is delayed another year, removing the low-risk testing environment they were promised",
+        "when": "Ongoing, compounding with each delay"
+      },
+      {
+        "who": "EU citizens whose data is used in AI training",
+        "how": "If the Digital Omnibus loosens GDPR's protections for AI development, personal data processed under existing GDPR consents could be repurposed for AI training without new consent; the 'incidental processing of sensitive data' exemption being discussed would mean health and biometric data could be used for AI development under a broad research exception",
+        "when": "From the date the Digital Omnibus enters into force, if adopted"
+      },
+      {
+        "who": "Medical device and toy manufacturers",
+        "how": "They sought sectoral exemptions from duplicate AI Act requirements but received only implementing acts, which come long after the problems they are meant to fix; they now face both existing sectoral regulations and AI Act requirements without the clarity the Omnibus was supposed to provide",
+        "when": "When high-risk rules apply in December 2027"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Digital Omnibus preserves GDPR",
+        "whatHappens": "The status quo wins in the Digital Omnibus debate; personal data processing for AI development remains tightly restricted; European companies continue training on smaller, consent-compliant datasets; the competitiveness gap with US and Chinese AI widens",
+        "signal": "Digital Omnibus proposal published without an Article 88c legitimate interest exemption for AI processing"
+      },
+      {
+        "name": "Data access loosened",
+        "whatHappens": "Industry lobbying succeeds; GDPR's definition of personal data is narrowed or a broad AI research exemption passes; European companies gain data access comparable to US competitors; privacy groups challenge the law in the European Court of Justice",
+        "signal": "Commission publishes a Digital Omnibus draft that includes a broad AI research exemption covering pseudonymized data"
+      },
+      {
+        "name": "Neither resolves, enforcement fragments",
+        "whatHappens": "AI Omnibus delays continue beyond 2027; Digital Omnibus stalls in Council; national regulators interpret existing GDPR and AI Act rules differently; large companies establish compliance strategies by member state rather than for the EU as a whole",
+        "signal": "France, Germany, and Netherlands issue conflicting national AI Act guidance before the December 2027 deadline"
+      }
+    ],
+    "whatWouldChange": "If the European Court of Justice issues a ruling that definitively clarifies what AI training data processing is permissible under GDPR, the Digital Omnibus debate resolves by litigation rather than legislation. That has happened before in EU digital regulation. It would be faster and more binding than the current legislative path, but it would remove democratic deliberation from a decision that affects hundreds of millions of people."
+  }
+}

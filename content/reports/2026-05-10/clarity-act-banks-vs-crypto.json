@@ -1,0 +1,83 @@
+{
+  "id": "clarity-act-banks-vs-crypto",
+  "date": "2026-05-10",
+  "generatedAt": "2026-05-10T18:00:00Z",
+  "title": "The Stablecoin Bill Is Four Days From a Vote. Banks Just Tried to Kill It.",
+  "subtitle": "The CLARITY Act cleared the House with 294 votes. Banks rejected the Senate compromise the weekend before the markup. The argument is about yield. The war is about deposits.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["crypto", "stablecoin", "CLARITY Act", "banking", "Senate", "regulation"],
+  "coverImage": {
+    "url": "https://img.phemex.com/v1/59ba2815-6631-43a1-84b9-e87f34176561/visual-02-9.png",
+    "local": "/images/reports/2026-05-10/clarity-act-stablecoin-banks.jpg",
+    "credit": "Phemex"
+  },
+  "sources": [
+    {
+      "url": "https://cryptonews.net/news/legal/32836403/",
+      "publisher": "Crypto.news",
+      "angle": "Reports the banking lobby's joint rejection and Senators Tillis and Lummis pushing back, framing the bank opposition as bad-faith stalling"
+    },
+    {
+      "url": "https://cryptoadventure.com/banks-make-late-push-to-tighten-stablecoin-yield-rules-before-clarity-markup/",
+      "publisher": "Crypto Adventure",
+      "angle": "Details the technical dispute: the 'rewards tied to duration and balance size' language banks want prohibited, and why that effectively bans any stablecoin yield product"
+    },
+    {
+      "url": "https://coinedition.com/clarity-act-heads-to-key-senate-banking-committee-vote-on-may-14/",
+      "publisher": "Coin Edition",
+      "angle": "Explains the legislative path: markup on May 14 is just one of at least four hurdles before the bill reaches the president's desk"
+    }
+  ],
+  "brief": {
+    "actors": ["Lummis", "Tillis", "Senate", "ABA", "crypto"],
+    "whatHappened": "The Senate Banking Committee is scheduled to hold a markup session for the CLARITY Act on May 14, a bill that would create the first comprehensive US regulatory framework for digital assets by splitting jurisdiction between the SEC for securities and the CFTC for digital commodities. Days before the vote, five major US banking trade groups, including the American Bankers Association and the Bank Policy Institute, issued a joint statement rejecting the stablecoin yield compromise drafted by Senators Tillis and Alsobrooks. The bill had passed the House 294-134 in July 2025 and cleared the Senate Agriculture Committee in January. Galaxy Digital estimates a 50-50 chance of passage. Prediction markets put it above 60%. Senator Tillis responded that banks may simply oppose any version of the bill.",
+    "bottomLine": "The banking lobby is not opposing this bill because of the specific yield language. It is opposing this bill because stablecoins that can earn yield are a bank deposit substitute, and the banks know it.",
+    "hiddenBets": [
+      {
+        "assumption": "This is a technical dispute about yield definitions",
+        "whyItMightBeWrong": "Banking research cited in the joint letter claims yield-earning stablecoins could reduce all consumer, small-business, and farm loans by one-fifth or more. That is not a technical objection. That is a depositor flight scenario. The banks are not arguing about words; they are arguing about whether they keep the deposit base that funds their lending."
+      },
+      {
+        "assumption": "The White House July 4 target creates urgency",
+        "whyItMightBeWrong": "The bill has stalled in the Senate Banking Committee before. If it misses the May 21 Memorial Day recess window, the next realistic opening is 2030 according to Senators Lummis and Moreno. White House targets have not moved Senate timelines on crypto before."
+      },
+      {
+        "assumption": "The bipartisan coalition will hold",
+        "whyItMightBeWrong": "The 294-134 House vote looks strong, but the Senate requires 60 votes to pass the floor. The House bill must then be reconciled with the Senate Agriculture Committee version and any Senate Banking amendments. Each reconciliation round is another opportunity for the banking lobby to insert blocking language."
+      }
+    ],
+    "realDisagreement": "The genuine fork is whether stablecoin issuers should be allowed to function as deposit-like entities outside the banking system. Crypto advocates say yes: users should be able to hold yield-bearing dollar equivalents without going through a bank. Banks say no: that is deposit-taking without the regulations, capital requirements, and deposit insurance obligations that protect the financial system. Both positions are correct descriptions of what is being built. The question is whether that is a feature or a bug. The answer determines whether this legislation creates a new financial system or strengthens the existing one.",
+    "whatNoOneIsSaying": "If stablecoins that pay yield are deposit substitutes, the banks are right that they pose systemic risk. But the banks do not want regulation that makes stablecoins safe deposit substitutes. They want regulation that makes stablecoins competitively disadvantaged deposit substitutes. Those are not the same ask.",
+    "whoPays": [
+      {
+        "who": "Crypto holders and smaller payment companies",
+        "how": "If the bill dies or passes with bank-preferred restrictions, yield-bearing stablecoins remain legally uncertain; offshore alternatives capture the market; US-domiciled companies face compliance costs that offshore competitors do not",
+        "when": "Immediately on legislative outcome"
+      },
+      {
+        "who": "Community banks",
+        "how": "The Independent Community Bankers of America is in the banking coalition. If stablecoins expand without restriction, community banks face deposit flight to fintech and crypto alternatives they cannot match in yield",
+        "when": "Slow-burn over 2-5 years if the bill passes; faster if large tech companies launch stablecoin products"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Markup clears, floor vote follows",
+        "whatHappens": "Senate Banking Committee passes the bill May 14 with minor amendments; bank lobby accepted the process failed; the bill moves to a 60-vote floor threshold; passage odds improve",
+        "signal": "Tim Scott announces floor time before May 21; White House issues a signing statement"
+      },
+      {
+        "name": "Markup stalls",
+        "whatHappens": "Banking opposition picks off two or three Republican senators on the committee; markup is postponed past Memorial Day recess; bill effectively dies until 2027 at the earliest",
+        "signal": "No markup announcement by May 13 close of business; Senator Warren or Sherrod Brown issues a statement opposing the compromise"
+      },
+      {
+        "name": "Narrow bill passes",
+        "whatHappens": "Banks get the stricter yield language; crypto industry accepts a partial win; the bill passes with meaningful restrictions on stablecoin yield; offshore alternatives begin capturing US retail market share",
+        "signal": "Tillis or Alsobrooks introduces a floor amendment matching banking lobby language before the markup vote"
+      }
+    ],
+    "whatWouldChange": "If one of the banking groups publicly separates from the coalition and endorses the Tillis-Alsobrooks compromise, the bill's path clears significantly. That would indicate the banking lobby has accepted this is happening and shifted to damage-limiting mode. There is no sign of that yet."
+  }
+}
