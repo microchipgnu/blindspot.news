@@ -1,0 +1,103 @@
+{
+  "id": "trump-xi-iran-tariff-displacement",
+  "date": "2026-05-10",
+  "generatedAt": "2026-05-10T13:30:00Z",
+  "title": "The Trump-Xi Summit Is About Iran. China Wants It That Way.",
+  "subtitle": "The US-China summit next week was supposed to be about tariffs and rare earths. Iran has displaced both topics. That displacement is not accidental — it is the best outcome China could have engineered.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Trump", "Xi", "China", "Iran", "tariffs", "rare earths", "trade war", "IEEPA", "SCOTUS"],
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/05/08/iran-focus-at-trump-xi-summit-may-delay-progress-on-tariffs-rare-earths.html",
+      "publisher": "CNBC",
+      "angle": "Reporting on summit agenda: Iran will dominate the meeting, US business delegation is smaller than expected, Boeing deal and soybean commitments may be the main economic outcomes, tariffs take a backseat"
+    },
+    {
+      "url": "https://www.atlanticcouncil.org/content-series/econographics/as-the-trump-xi-summit-draws-closer-trade-uncertainty-still-looms-large/",
+      "publisher": "Atlantic Council",
+      "angle": "Detailed analysis of US tariff constraints: IEEPA tariffs were struck down by SCOTUS in February, China now faces only 10 percent baseline tariff (expiring July), Trump administration is limited to Section 301/232 to rebuild the tariff wall, which will take months and trigger escalation"
+    },
+    {
+      "url": "https://www.cfr.org/blog/what-expect-ahead-next-weeks-trump-xi-summit",
+      "publisher": "Council on Foreign Relations",
+      "angle": "China's strategic posture going in: Beijing has hosted a dozen national leaders this year with large business delegations, has already defied US sanctions on Iranian oil, is positioned to extend the Busan trade truce on its own terms, and knows the US needs its cooperation on Iran more than the reverse"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Xi", "China", "Iran", "US", "Boeing"],
+    "whatHappened": "Trump is scheduled to visit Beijing on May 14-15 for the first US presidential visit to China since 2017. Treasury Secretary Bessent has confirmed Iran will be a central topic. The summit follows China hosting Iran's foreign minister in May, raising hopes for a broader Iran-US peace deal. Meanwhile, the Supreme Court struck down Trump's IEEPA tariffs against China in February, leaving China facing only a 10 percent baseline tariff (set to expire in July), down from the 34 percent rate imposed last year. The Trump administration is building new Section 301 and 232 tariff cases, but those require mandatory investigation periods before taking effect. Expected deliverables include Chinese purchases of US soybeans and a Boeing airplane order. The US declined China's invitation to organize industry-specific CEO meetings, reportedly concerned about optics of American businesses appearing too close to Beijing.",
+    "bottomLine": "China goes into this summit having won on tariffs via SCOTUS and having positioned itself as the indispensable broker on Iran, giving Xi leverage on both the economic and security agendas simultaneously.",
+    "hiddenBets": [
+      {
+        "assumption": "Trump can extract meaningful economic concessions at the summit",
+        "whyItMightBeWrong": "China's effective tariff rate has dropped from 34 percent to 10 percent since February, China knows new Section 301 tariffs cannot be imposed for months due to mandatory investigation periods, and China holds the rare earth export controls as leverage. The US is negotiating with fewer chips than it had six months ago, not more."
+      },
+      {
+        "assumption": "Iran is a shared interest that creates cooperation",
+        "whyItMightBeWrong": "China's priority on Iran is not peace — it is resuming Iranian oil imports that were disrupted by US sanctions and Hormuz fighting. Chinese refineries were sanctioned for buying Iranian oil, and Beijing immediately invoked domestic law to protect those firms from US enforcement. China wants the war to end, but not because of shared values. It wants its oil supply chain restored."
+      },
+      {
+        "assumption": "Soybean and Boeing deals constitute meaningful progress",
+        "whyItMightBeWrong": "China's soybean purchases are fungible: Brazil supplies over 80 million metric tons per year, making Chinese demand easily redirectable without US dependence. Boeing deals are one-time optics. Neither addresses the structural issues — rare earth export controls, semiconductor restrictions, or the tariff trajectory — that determine the long-term economic relationship."
+      }
+    ],
+    "realDisagreement": "The real fork is whether the summit represents a genuine détente where both sides step back from maximum pressure and build durable economic rules, or whether it is a tactical pause where China consolidates the gains it has made since SCOTUS struck down IEEPA, and then the trade confrontation resumes on worse terms for the US. The Atlantic Council analysis is compelling: recreating even last year's tariff rate requires measures that will almost certainly trigger Chinese retaliation in rare earths. The US cannot rebuild its tariff wall without provoking the very supply chain disruption it is trying to prevent. That is not a negotiating position; it is a strategic trap. Lean toward: the summit produces optics without structure. A soybean deal and a Boeing order give both leaders something to say domestically. The underlying confrontation over semiconductors, rare earths, and Taiwan continues at its current pace, and the tariff question is deferred until Section 301 investigations are complete.",
+    "whatNoOneIsSaying": "The SCOTUS decision striking down IEEPA tariffs in February was the most consequential moment in US-China trade relations this year, and almost none of the summit coverage is treating it as such. China's effective tariff rate dropped by 24 percentage points in one ruling. China did not need to negotiate that down; a US court handed it to them. Whatever Xi agrees to in Beijing will be from a position of having already secured the most significant tariff relief since the trade war began, and with the knowledge that the US legal system has constrained Trump's tariff authority more than any Chinese threat ever did.",
+    "whoPays": [
+      {
+        "who": "US semiconductor industry",
+        "how": "If the summit produces an extended pause on semiconductor export controls as part of a trade truce, US chip companies that were expecting regulatory certainty on China access face continued uncertainty; if it produces tighter controls as compensation for tariff weakness, they face market restrictions",
+        "when": "Second half of 2026"
+      },
+      {
+        "who": "US manufacturing workers in industries dependent on rare earths",
+        "how": "China's rare earth export controls, partially in place since October, affect electric vehicle motors, defense components, and clean energy equipment; a summit deal that extends the 'truce' without addressing underlying rare earth dependency leaves US manufacturers exposed to the next round of Chinese leverage",
+        "when": "Ongoing; next acute moment when a new Chinese export control is announced"
+      },
+      {
+        "who": "US farmers who bet on the soybean deal",
+        "how": "If China commits to US soybean purchases as a summit deliverable, it creates a short-term demand bump; but China has demonstrated it can redirect soybean purchases to Brazil almost overnight, and any political deterioration would see purchases cut within a single shipping cycle",
+        "when": "Volatile; subject to reversal on 30-60 day notice"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Iran deal displaces trade",
+        "whatHappens": "The summit produces a framework for China to broker a formal Iran-US peace agreement. Trump claims credit, Xi claims credit. The trade issues are deferred to 'working groups.' Rare earth and semiconductor confrontation continues below the headline level. Both leaders claim success.",
+        "signal": "Trump and Xi issue a joint statement that includes language on Iran peace but minimal specifics on tariff or technology policy"
+      },
+      {
+        "name": "Section 301 ultimatum",
+        "whatHappens": "Trump uses the summit to issue a public ultimatum: China must agree to purchase agreements and rare earth deal by a specific date, or new Section 301 tariffs will be fast-tracked. Xi refuses to be publicly pressured. The summit ends without the symbolic joint statement that markets expected. Equities fall.",
+        "signal": "Trump posts about tariff deadlines on Truth Social before or during the summit"
+      },
+      {
+        "name": "Structured détente",
+        "whatHappens": "Both sides agree to a new Busan-style deal: China commits to expanded US soybean and aircraft purchases, the US commits to a pause on new semiconductor export controls, both sides agree to a rare earth export license framework. The confrontation is managed rather than resolved.",
+        "signal": "Treasury Secretary Bessent holds a joint press conference with a Chinese counterpart announcing specific purchase targets and export control parameters"
+      }
+    ],
+    "whatWouldChange": "If Xi agreed to discuss Taiwan's status at a leadership level, or if the US agreed to discuss the Section 301 tariff timeline publicly, either concession would indicate the summit is structural rather than theatrical. Neither is expected.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "US x China tariff agreement by May 31?",
+        "url": "https://polymarket.com/event/us-x-china-tariff-agreement-by-may-31",
+        "probability": 0.585
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Xi Jinping visit US before 2027?",
+        "url": "https://polymarket.com/event/will-xi-jinping-visit-us-before-2027",
+        "probability": 0.66
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will the Court Force Trump to Refund Tariffs?",
+        "url": "https://polymarket.com/event/will-the-court-force-trump-to-refund-tariffs-2026-06-30",
+        "probability": 0.944
+      }
+    ]
+  }
+}

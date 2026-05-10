@@ -1,6 +1,6 @@
 {
   "date": "2026-05-10",
-  "generatedAt": "2026-05-10T08:00:00Z",
+  "generatedAt": "2026-05-10T13:30:00Z",
   "reports": [
     {
       "id": "hormuz-blockade-iran-war",
@@ -42,6 +42,36 @@
       "id": "hungary-magyar-orban-transition",
       "title": "After Orban",
       "subtitle": "Peter Magyar just became Hungary's prime minister. His hardest problem isn't Orban's loyalists. It's the system Orban built to survive anyone who tried to replace him.",
+      "category": "power"
+    },
+    {
+      "id": "putin-victory-day-ceasefire",
+      "title": "Putin Says the War Is Ending. He Means Something Different by That.",
+      "subtitle": "A three-day ceasefire, North Korean troops on Red Square, and Putin telling reporters the matter is 'coming to an end' — none of this means what it sounds like.",
+      "category": "conflict"
+    },
+    {
+      "id": "india-pakistan-war-anniversary",
+      "title": "One Year After Operation Sindoor: Both Sides Won, Neither Side Is Safer",
+      "subtitle": "India and Pakistan each claim victory in last May's four-day aerial war. The mutual claim of victory is not spin — it is the most dangerous thing about the ceasefire that ended it.",
+      "category": "conflict"
+    },
+    {
+      "id": "apple-ios27-ai-extensions",
+      "title": "Apple Just Ended ChatGPT's Exclusive Status. OpenAI Should Be Worried.",
+      "subtitle": "iOS 27 will let users choose Claude, Gemini, or any approved AI to power Siri. Apple is not becoming an AI company. It is becoming the platform every AI company must pay to reach.",
+      "category": "power"
+    },
+    {
+      "id": "trump-defying-courts",
+      "title": "The Administration Has Defied Courts 31 Times. Nobody Has Stopped It.",
+      "subtitle": "A new review finds the Trump administration has violated federal court orders at least 31 times. The question is no longer whether the rule of law is being broken. It is whether anyone with the power to enforce it will.",
+      "category": "power"
+    },
+    {
+      "id": "trump-xi-iran-tariff-displacement",
+      "title": "The Trump-Xi Summit Is About Iran. China Wants It That Way.",
+      "subtitle": "The US-China summit next week was supposed to be about tariffs and rare earths. Iran has displaced both topics. That displacement is not accidental — it is the best outcome China could have engineered.",
       "category": "power"
     }
   ]

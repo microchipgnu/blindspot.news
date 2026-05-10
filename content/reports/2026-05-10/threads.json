@@ -2,63 +2,69 @@
   "date": "2026-05-10",
   "threads": [
     {
-      "id": "iran-war-economic-cascade",
-      "title": "The Iran War's Hidden Economic Chain",
-      "description": "The Hormuz blockade is not just a geopolitical story. It is also the reason the Federal Reserve cannot cut rates even when growth is slowing: energy inflation from the war makes any dovish pivot look irresponsible. Trump started a war that is now constraining the economic policy tools he most wants to use. His two biggest policy priorities are in direct conflict with each other.",
-      "type": "cause-effect",
-      "stories": ["hormuz-blockade-iran-war", "powell-fed-succession"],
+      "id": "iran-war-geopolitical-pivot",
+      "title": "The Iran War Reorganized Everything",
+      "description": "The US war on Iran — which began February 28 — is the single event reshaping the most stories today. It is why the Hormuz blockade exists, why Pakistan became a global diplomatic player, why China is indispensable at the Trump-Xi summit, why Russia's ceasefire talks are entangled with Iran, and why Saudi Arabia refused to give the US bases. The Iran war is not a separate story from trade, from South Asian diplomacy, or from the Ukraine peace process. It is the forcing function that has reorganized every other actor's position simultaneously.",
+      "type": "dependency-web",
+      "stories": ["hormuz-blockade-iran-war", "pakistan-uae-iran-mediation", "trump-xi-iran-tariff-displacement", "putin-victory-day-ceasefire"],
       "connections": [
         {
           "from": "hormuz-blockade-iran-war",
-          "to": "powell-fed-succession",
-          "relationship": "The Hormuz blockade drives a 24% energy price surge that feeds inflation, forcing the Fed to hold rates and making Trump's demand for aggressive rate cuts from his new Fed chair politically toxic."
+          "to": "trump-xi-iran-tariff-displacement",
+          "relationship": "The Hormuz blockade is the primary reason Iran has displaced tariffs and rare earths as the Trump-Xi summit's central agenda item: no peace deal, no oil flow, no deal."
+        },
+        {
+          "from": "pakistan-uae-iran-mediation",
+          "to": "trump-xi-iran-tariff-displacement",
+          "relationship": "Pakistan's April ceasefire with Iran created a regional diplomatic template that China is now trying to leverage at the Trump-Xi summit, positioning Beijing as the next broker for a permanent deal."
+        },
+        {
+          "from": "hormuz-blockade-iran-war",
+          "to": "putin-victory-day-ceasefire",
+          "relationship": "Iranian drones and North Korean troops are fighting alongside Russia in Ukraine; an Iran peace deal that removes Iranian military support from the Russian theater changes the calculus for Putin's 'coming to an end' statement."
         }
       ]
     },
     {
-      "id": "pakistan-mediator-trap",
-      "title": "The Mediator Trap",
-      "description": "Pakistan's mediation role in the Iran ceasefire talks is the only US-Iran diplomatic channel that currently exists. The UAE is punishing Pakistan for it by expelling its workers. But a financially destabilized Pakistan is a worse mediator, not a better-aligned ally. The punishment degrades the tool the US is implicitly relying on, which means the UAE is inadvertently working against the ceasefire the US says it wants.",
+      "id": "executive-power-without-limits",
+      "title": "Who Controls the Executive When Courts Cannot",
+      "description": "Four stories today share a hidden common structure: actors claiming executive authority without meaningful legal constraint. Trump defying courts 31 times. Putin threatening missile strikes on Kyiv to extract a ceasefire. India treating the Indus Waters Treaty suspension as unilateral and indefinite. China invoking domestic law to shield firms from US sanctions enforcement. Each story is superficially about a different actor in a different domain, but underneath they all test the same question: when the entity with the most force decides to ignore the rule binding it, what actually stops it?",
+      "type": "tension-cluster",
+      "stories": ["trump-defying-courts", "putin-victory-day-ceasefire", "india-pakistan-war-anniversary", "trump-xi-iran-tariff-displacement"],
+      "connections": [
+        {
+          "from": "trump-defying-courts",
+          "to": "putin-victory-day-ceasefire",
+          "relationship": "Trump's pattern of defying domestic courts without consequence mirrors Putin's pattern of defying international ceasefires without consequence; both are testing how far executive power can stretch before external enforcement materializes."
+        },
+        {
+          "from": "india-pakistan-war-anniversary",
+          "to": "trump-defying-courts",
+          "relationship": "India's indefinite Indus Waters Treaty suspension, which has no basis in the treaty's legal framework according to independent legal scholars, mirrors the Trump administration's pattern of continuing legally-enjoined actions pending appeal; the norm that legal constraints bind powerful states is being tested simultaneously in South Asia and Washington."
+        },
+        {
+          "from": "trump-xi-iran-tariff-displacement",
+          "to": "trump-defying-courts",
+          "relationship": "The SCOTUS ruling that struck down IEEPA tariffs — the most significant legal constraint on Trump's trade authority — is directly connected to the court defiance story: the administration is simultaneously losing on IEEPA in the courts while defying courts on immigration and agency closures, creating an asymmetric pattern of selective compliance."
+        }
+      ]
+    },
+    {
+      "id": "asim-munir-pivot",
+      "title": "Pakistan's Army Chief Is the World's Most Underrated Power Broker",
+      "description": "Asim Munir appears directly in two stories today and is the invisible actor in a third. He received a private White House lunch with Trump (the first Pakistani military chief to do so without civilian leadership). He brokered the April Iran ceasefire that Pakistan's Zahid Hamid announced. He is the reason Pakistan went from IMF-dependent debtor to indispensable regional mediator in twelve months. The UAE's mass expulsion of Pakistani workers — designed to punish his Iran mediation — did not break his position. His trajectory changes the Pakistan-India calculus, the US-Iran diplomatic landscape, and Pakistan's domestic civil-military balance simultaneously.",
       "type": "dependency-web",
-      "stories": ["hormuz-blockade-iran-war", "pakistan-uae-iran-mediation"],
+      "stories": ["pakistan-uae-iran-mediation", "india-pakistan-war-anniversary", "hormuz-blockade-iran-war"],
       "connections": [
         {
           "from": "pakistan-uae-iran-mediation",
-          "to": "hormuz-blockade-iran-war",
-          "relationship": "UAE deportation of Pakistani workers destabilizes Pakistan's economy and threatens its ability to sustain the mediation role that is currently the only viable channel for a Hormuz ceasefire."
-        }
-      ]
-    },
-    {
-      "id": "inherited-machine-problem",
-      "title": "The Machine Problem",
-      "description": "Three stories today involve someone who won the right to govern but inherited a system built by their predecessor to survive their arrival. Magyar faces Orban's judiciary and media apparatus. Warsh walks into a Federal Reserve board packed with dissenting governors who treated his predecessor's final meeting as the most contentious in decades. Democrats face a redistricting machine that SCOTUS just freed from legal constraints. In each case, the question is whether institutional control follows from electoral success or whether the machine outlasts the election.",
-      "type": "tension-cluster",
-      "stories": ["hungary-magyar-orban-transition", "powell-fed-succession", "redistricting-voting-rights-gop"],
-      "connections": [
-        {
-          "from": "redistricting-voting-rights-gop",
-          "to": "powell-fed-succession",
-          "relationship": "In both cases, the outgoing power built institutional barriers (court-packed redistricting maps, a dissenting Fed board) that the incoming winner must navigate without being able to simply undo them."
+          "to": "india-pakistan-war-anniversary",
+          "relationship": "Munir's global rise as a mediator — the Iran ceasefire, the Trump White House lunch — changes India's threat model: Pakistan's military is no longer just a bilateral adversary but a globally connected diplomatic actor with US-level access, which alters the escalation calculus for any next India-Pakistan confrontation."
         },
         {
-          "from": "hungary-magyar-orban-transition",
-          "to": "redistricting-voting-rights-gop",
-          "relationship": "Orban's Hungary is the advanced case study for what happens when an elected government systematically builds institutional durability against successors; US redistricting machinery is the same strategy in an earlier stage."
-        }
-      ]
-    },
-    {
-      "id": "democratic-erosion-wave",
-      "title": "The Same Vote, Different Results",
-      "description": "Reform UK surges in local elections while winning only a fraction of council seats. Democrats win the popular vote in dozens of redistricted House races while losing the seats. These two stories involve the same mechanism: electoral systems that translate voter preferences into representation unevenly, amplifying minority preferences into majority power. One is the UK's first-past-the-post; the other is gerrymandered US districts. Both are causing voters to lose faith that their votes produce the governments they voted for.",
-      "type": "tension-cluster",
-      "stories": ["uk-labour-collapse-reform", "redistricting-voting-rights-gop"],
-      "connections": [
-        {
-          "from": "uk-labour-collapse-reform",
-          "to": "redistricting-voting-rights-gop",
-          "relationship": "Both stories describe electoral systems where the translation of votes into seats systematically under-represents certain voter preferences, eroding confidence that elections produce accountable government."
+          "from": "india-pakistan-war-anniversary",
+          "to": "hormuz-blockade-iran-war",
+          "relationship": "Pakistan played a central role in the April Iran-US ceasefire that currently governs the Hormuz situation; if that ceasefire collapses, Pakistan's army chief loses his most significant diplomatic achievement, which would destabilize his domestic position and potentially heighten Pakistan-India tensions."
         }
       ]
     }
