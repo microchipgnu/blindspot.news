@@ -1,0 +1,113 @@
+{
+  "id": "hormuz-blockade-iran-war",
+  "date": "2026-05-10",
+  "generatedAt": "2026-05-10T08:00:00Z",
+  "title": "The Strait Nobody Can Open",
+  "subtitle": "The Hormuz blockade is costing $2 billion a day in global shipping, yet neither side can afford the deal that would end it.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["Iran", "Hormuz", "US", "blockade", "ceasefire", "oil", "war"],
+  "coverImage": {
+    "url": "https://static01.nyt.com/images/2026/05/09/multimedia/09mideast-shipping-file-qtfv/09mideast-shipping-file-qtfv-mediumSquareAt3X.jpg",
+    "local": "/images/reports/2026-05-10/hormuz-blockade-iran-war.jpg",
+    "credit": "The New York Times"
+  },
+  "sources": [
+    {
+      "url": "https://www.nytimes.com/2026/05/09/world/middleeast/strait-hormuz-ships-blockade-us-iran.html",
+      "publisher": "The New York Times",
+      "angle": "Documents the US Navy's ongoing interception of vessels at Hormuz, noting Iranian attacks have kept most shipping from attempting passage. Treats the blockade as a holding pattern rather than a strategic outcome."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/09/world/middleeast/caspian-sea-iran-russia.html",
+      "publisher": "The New York Times",
+      "angle": "Reveals Russia is shipping military and commercial goods to Iran via the Caspian Sea, giving Tehran a lifeline that partially offsets the Hormuz blockade. Frames this as a new strategic geography in the conflict."
+    },
+    {
+      "url": "https://www.nytimes.com/live/2026/05/09/world/iran-strikes-trump-ceasefire-hormuz/heres-the-latest",
+      "publisher": "The New York Times",
+      "angle": "Live updates on ceasefire negotiations and continued air exchanges. Notes Putin's statement that the Ukraine war is 'coming to an end' in context of broader great-power maneuvering."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/08/world/asia/uae-pakistan-workers-deportations.html",
+      "publisher": "The New York Times",
+      "angle": "UAE is expelling Pakistani workers en masse as retaliation for Pakistan's role mediating between the US and Iran. Frames it as a rupture in Gulf-South Asian labor relationships caused by geopolitical pressure."
+    }
+  ],
+  "brief": {
+    "actors": ["US", "Iran", "Russia", "UAE", "Pakistan", "Trump", "Israel"],
+    "whatHappened": "The US Navy's blockade of the Strait of Hormuz entered its fourth week, with American vessels continuing to intercept ships attempting to reach Iranian ports and Iranian threat-of-attack fears keeping most commercial shipping out of the narrow waterway. Russia has opened a parallel supply route via the Caspian Sea, shipping military and commercial goods to Tehran despite the maritime siege. A temporary ceasefire announced last week produced no durable halt to fighting, with Israel continuing strikes in Lebanon and Iran-backed groups conducting counter-attacks. Ceasefire talks brokered through Pakistan have stalled.",
+    "bottomLine": "The blockade is working well enough to hurt Iran and not well enough to break it, which means it is most useful as leverage that neither side is prepared to spend.",
+    "hiddenBets": [
+      {
+        "assumption": "The Caspian route is a workaround that softens the blockade's bite",
+        "whyItMightBeWrong": "The Caspian can move goods but not oil at scale. Iran's primary economic wound is the halt to petroleum exports, not imports. Russia is helping Iran survive, not thrive."
+      },
+      {
+        "assumption": "A ceasefire deal is possible if the US and Iran negotiate seriously",
+        "whyItMightBeWrong": "The market for a permanent peace deal by May 31 is at 28.5%. The deeper problem is that the Trump administration started this war partly to prevent Iranian nuclear capability, and Iran has refused to surrender enriched uranium (44.5% odds of doing so by December). No ceasefire resolves that."
+      },
+      {
+        "assumption": "The blockade is costing Iran more than it costs the US",
+        "whyItMightBeWrong": "Global fuel prices have surged 24% in 2026 according to the World Bank. The pain is diffuse: lower-income Americans are driving less, Asian importers are scrambling, and oil company profits are generating windfall-tax debates in Europe. Iran absorbs one concentrated wound; everyone else absorbs distributed ones."
+      }
+    ],
+    "realDisagreement": "The core fork: is the blockade a coercive tool aimed at a deal, or a punishment meant to change Iran's regime calculus permanently? If it is leverage, the US must at some point offer Iran a path to relief. If it is punishment, relief is beside the point and the US is committed to indefinite economic siege. The two postures require completely different negotiating behavior. Trump's public statements suggest the latter; Pakistan's mediation role suggests the former. Both cannot be true simultaneously. The leverage reading is more likely to prevent regional escalation, but it requires the US to accept an Iran that still exists as a functioning state.",
+    "whatNoOneIsSaying": "The blockade's real deadline is not Iranian exhaustion but American midterm elections in November. A six-month war with soaring fuel prices is a political liability. Trump needs either a visible win or a visible exit before October.",
+    "whoPays": [
+      {
+        "who": "Pakistani workers in the UAE",
+        "how": "UAE is expelling Pakistani laborers en masse as retaliation for Islamabad's mediation role. Hundreds of thousands of remittance workers face deportation, collapsing household incomes in Pakistan's already stressed economy.",
+        "when": "Now, with deportations accelerating week over week"
+      },
+      {
+        "who": "Asian fuel importers, especially India, Japan, and South Korea",
+        "how": "Hormuz handles roughly 20% of global oil trade. With the strait effectively closed, Asian buyers are paying spot-market premiums and scrambling for alternative routes. Supply tightness is building into refinery shutdowns.",
+        "when": "Already paying; gets worse if blockade extends past 60 days"
+      },
+      {
+        "who": "Low-income American households",
+        "how": "Gas prices have soared as Iranian oil exits global markets. Lower-income households spend a higher share of income on fuel and are driving less, cutting into labor market participation in sectors that require commuting.",
+        "when": "Ongoing; concentrated in rural and outer-suburban areas with no transit alternatives"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Managed climb-down",
+        "whatHappens": "Pakistan brokers a sequenced deal: Iran agrees to freeze enrichment above 60%, US lifts the blockade, a monitoring framework is negotiated over 90 days. Hormuz reopens. Oil prices drop sharply.",
+        "signal": "A formal US-Iran diplomatic meeting takes place in a neutral country. Market: 75.7% odds that no qualifying meeting happens by June 30, so watch for that signal to flip."
+      },
+      {
+        "name": "Frozen conflict",
+        "whatHappens": "No deal; no escalation. The blockade continues at current intensity, Iran survives via Caspian and black-market routes, global oil prices stabilize at the new high baseline. The war becomes a slow economic siege.",
+        "signal": "The Polymarket 'blockade lifted by May 31' contract (currently 40.5%) fails to resolve yes by June 1."
+      },
+      {
+        "name": "Escalation",
+        "whatHappens": "Iran or a proxy force conducts a major attack on US naval assets or a Gulf oil facility. Trump responds with broader strikes. The war expands beyond its current semi-contained state.",
+        "signal": "A US warship is struck or a Saudi Aramco facility is attacked. Watch for the oil price spike that would follow within hours."
+      }
+    ],
+    "whatWouldChange": "If Iran publicly agrees to surrender its enriched uranium stockpile (currently 44.5% odds by December), the strategic rationale for the blockade collapses and a deal becomes possible within weeks. Alternatively, if Trump shifts negotiating posture from punishment to leverage, watch for Pakistan being given formal US diplomatic backing rather than being punished via the UAE.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?",
+        "url": "https://polymarket.com/event/trump-announces-us-blockade-of-hormuz-lifted-by",
+        "probability": 0.405
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US x Iran permanent peace deal by May 31, 2026?",
+        "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by",
+        "probability": 0.285
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Iran agrees to surrender enriched uranium stockpile by December 31, 2026?",
+        "url": "https://polymarket.com/event/iran-agrees-to-surrender-enriched-uranium-stockpile-by",
+        "probability": 0.445
+      }
+    ]
+  }
+}

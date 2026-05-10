@@ -1,0 +1,89 @@
+{
+  "id": "redistricting-voting-rights-gop",
+  "date": "2026-05-10",
+  "generatedAt": "2026-05-10T08:00:00Z",
+  "title": "The Permanent Gerrymander",
+  "subtitle": "After the Supreme Court gutted the Voting Rights Act, Republicans are redrawing maps without legal constraint. Democrats are about to learn what structural disadvantage really feels like.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["redistricting", "Voting Rights Act", "SCOTUS", "Republican Party", "gerrymandering", "midterms", "House"],
+  "coverImage": {
+    "url": "https://static01.nyt.com/images/2026/05/09/multimedia/09dc-redistrict-lczp/09dc-redistrict-lczp-mediumSquareAt3X.jpg",
+    "local": "/images/reports/2026-05-10/redistricting-voting-rights-gop.jpg",
+    "credit": "Seth Herald/Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://www.nytimes.com/2026/05/09/us/politics/midterm-redistricting-house-map-republicans.html",
+      "publisher": "The New York Times",
+      "angle": "Republicans have gained a new structural edge in 10 days through redistricting. While Democrats are still favored to win the House, the GOP advantage is real and widening."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/09/us/politics/redistricting-midterms.html",
+      "publisher": "The New York Times",
+      "angle": "Frames the current redistricting wave as the beginning of 'perpetual redistricting' enabled by two Supreme Court decisions. Four states are currently drawing new maps; a dozen more could follow in 2027."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/09/us/politics/how-minority-districts-fueled-the-gops-southern-ascendancy-in-congress.html",
+      "publisher": "The New York Times",
+      "angle": "Historical analysis showing that majority-minority districts, now being dismantled, paradoxically helped Republicans consolidate Southern seats. The argument is that concentrating Black voters gave Republicans cleaner white-majority districts around them."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/08/upshot/redistricting-midterms-republicans-house.html",
+      "publisher": "The New York Times",
+      "angle": "Quantitative analysis of what the redistricting edge is actually worth in seat terms. Concludes the Republican gain is meaningful but not sufficient to flip the House on its own; it narrows the Democrats' structural path to a majority."
+    }
+  ],
+  "brief": {
+    "actors": ["Republican Party", "Democratic Party", "SCOTUS", "Jeffries"],
+    "whatHappened": "Following the Supreme Court's recent decision gutting key provisions of the Voting Rights Act, Republican-controlled legislatures across the South are dismantling majority-minority congressional districts. Four states are actively drawing new maps: Virginia's Supreme Court struck down a Democratic redistricting plan; Tennessee, Alabama, Louisiana, and South Carolina are all in active redraw processes. Republicans gained a structural House map edge in the last 10 days alone. Democrats, widely favored to win the House in November's midterms, now face a narrower path. The rulings enable what analysts are calling 'perpetual redistricting' where maps can be challenged and redrawn with no settled endpoint.",
+    "bottomLine": "Republicans cannot win the House on the current political environment, so they are changing the map. The legal framework to stop them no longer exists.",
+    "hiddenBets": [
+      {
+        "assumption": "Democrats are still heavily favored to win the House, so the redistricting threat is manageable",
+        "whyItMightBeWrong": "The redistricting effect is not about this cycle alone. Maps drawn now for 2026 establish baselines for 2028 and 2030. Even a 3-5 seat swing from redistricting in 2026 compounds over multiple cycles. The structural damage is long-term even if the near-term majority survives."
+      },
+      {
+        "assumption": "Courts will push back on the most aggressive gerrymanders",
+        "whyItMightBeWrong": "The SCOTUS rulings that enabled this wave came from the same court that would review challenges to the resulting maps. The legal doctrine has shifted; there is no VRA backstop that a challenger can reliably invoke."
+      },
+      {
+        "assumption": "Majority-minority districts are unambiguously good for Black political representation",
+        "whyItMightBeWrong": "The historical analysis suggests otherwise. Majority-minority districts maximize Black representation in specific seats while allowing Republicans to pack hostile-to-minority-interests voters into neighboring majority-white districts. Diluting Black voters slightly across more competitive districts might produce more total congressional power for Black communities over time, at the cost of fewer guaranteed safe seats."
+      }
+    ],
+    "realDisagreement": "The core tension is between two theories of equal representation. The first says groups should have seats where they are numerically certain to elect representatives of their choice. The second says representation works better when districts are competitive and candidates must appeal across lines. The SCOTUS majority chose the second theory; the VRA was built on the first. Both theories have coherent arguments. The SCOTUS ruling is not legally incoherent, it is politically consequential in one direction.",
+    "whatNoOneIsSaying": "The party that wins the House in November will control redistricting for the rest of the decade. Democrats need the House not just to govern but to prevent a Republican map-lock going into the 2030 census. The stakes of 2026 are not one Congress; they are the political architecture of the 2030s.",
+    "whoPays": [
+      {
+        "who": "Black voters in Southern states",
+        "how": "Majority-minority districts are being dismantled, which eliminates near-certain representation in those specific seats. Black candidates in newly drawn districts will face majority-white electorates where, historically, cross-racial voting for Black candidates is lower.",
+        "when": "Beginning with the November 2026 election"
+      },
+      {
+        "who": "Competitive-district Republican incumbents",
+        "how": "Aggressive gerrymandering to protect safe seats can inadvertently place Republican incumbents into safer but smaller geographic bases, reducing their ability to compete if statewide sentiment shifts sharply.",
+        "when": "Visible in 2028 if political environment deteriorates for Republicans"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Democrats win narrow majority despite map",
+        "whatHappens": "Democrats flip enough seats in competitive states to offset Republican structural gains in the South. They take a House majority of 5-10 seats, enough to govern but not enough to counter Senate gridlock effectively.",
+        "signal": "Generic ballot polling shows Democrats with 7%+ advantage through September. That margin historically overcomes a 3-seat structural disadvantage."
+      },
+      {
+        "name": "Perpetual redistricting stalemate",
+        "whatHappens": "Democratic states respond by redrawing their own maps to counter Republican gains. Courts rule inconsistently across circuits. The House map is litigated continuously and no settled geography exists going into 2030.",
+        "signal": "Three or more additional states announce map-redraw processes by September 2026."
+      },
+      {
+        "name": "Republicans hold House",
+        "whatHappens": "Redistricting plus a midterm environment that softens Democratic enthusiasm (Iran war, economic anxiety) produces a narrow Republican retention. Democrats enter the minority in both chambers for the first time since 2022.",
+        "signal": "Generic ballot narrows to within 3% by October. That is the threshold where structural advantages become decisive."
+      }
+    ],
+    "whatWouldChange": "A Supreme Court ruling striking down any of the current redistricting maps would restore a legal constraint. That requires a case to move quickly through district courts, the circuit level, and cert. The timeline makes it unlikely before November 2026 and possibly not before 2028.",
+    "markets": []
+  }
+}

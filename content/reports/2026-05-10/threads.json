@@ -1,0 +1,66 @@
+{
+  "date": "2026-05-10",
+  "threads": [
+    {
+      "id": "iran-war-economic-cascade",
+      "title": "The Iran War's Hidden Economic Chain",
+      "description": "The Hormuz blockade is not just a geopolitical story. It is also the reason the Federal Reserve cannot cut rates even when growth is slowing: energy inflation from the war makes any dovish pivot look irresponsible. Trump started a war that is now constraining the economic policy tools he most wants to use. His two biggest policy priorities are in direct conflict with each other.",
+      "type": "cause-effect",
+      "stories": ["hormuz-blockade-iran-war", "powell-fed-succession"],
+      "connections": [
+        {
+          "from": "hormuz-blockade-iran-war",
+          "to": "powell-fed-succession",
+          "relationship": "The Hormuz blockade drives a 24% energy price surge that feeds inflation, forcing the Fed to hold rates and making Trump's demand for aggressive rate cuts from his new Fed chair politically toxic."
+        }
+      ]
+    },
+    {
+      "id": "pakistan-mediator-trap",
+      "title": "The Mediator Trap",
+      "description": "Pakistan's mediation role in the Iran ceasefire talks is the only US-Iran diplomatic channel that currently exists. The UAE is punishing Pakistan for it by expelling its workers. But a financially destabilized Pakistan is a worse mediator, not a better-aligned ally. The punishment degrades the tool the US is implicitly relying on, which means the UAE is inadvertently working against the ceasefire the US says it wants.",
+      "type": "dependency-web",
+      "stories": ["hormuz-blockade-iran-war", "pakistan-uae-iran-mediation"],
+      "connections": [
+        {
+          "from": "pakistan-uae-iran-mediation",
+          "to": "hormuz-blockade-iran-war",
+          "relationship": "UAE deportation of Pakistani workers destabilizes Pakistan's economy and threatens its ability to sustain the mediation role that is currently the only viable channel for a Hormuz ceasefire."
+        }
+      ]
+    },
+    {
+      "id": "inherited-machine-problem",
+      "title": "The Machine Problem",
+      "description": "Three stories today involve someone who won the right to govern but inherited a system built by their predecessor to survive their arrival. Magyar faces Orban's judiciary and media apparatus. Warsh walks into a Federal Reserve board packed with dissenting governors who treated his predecessor's final meeting as the most contentious in decades. Democrats face a redistricting machine that SCOTUS just freed from legal constraints. In each case, the question is whether institutional control follows from electoral success or whether the machine outlasts the election.",
+      "type": "tension-cluster",
+      "stories": ["hungary-magyar-orban-transition", "powell-fed-succession", "redistricting-voting-rights-gop"],
+      "connections": [
+        {
+          "from": "redistricting-voting-rights-gop",
+          "to": "powell-fed-succession",
+          "relationship": "In both cases, the outgoing power built institutional barriers (court-packed redistricting maps, a dissenting Fed board) that the incoming winner must navigate without being able to simply undo them."
+        },
+        {
+          "from": "hungary-magyar-orban-transition",
+          "to": "redistricting-voting-rights-gop",
+          "relationship": "Orban's Hungary is the advanced case study for what happens when an elected government systematically builds institutional durability against successors; US redistricting machinery is the same strategy in an earlier stage."
+        }
+      ]
+    },
+    {
+      "id": "democratic-erosion-wave",
+      "title": "The Same Vote, Different Results",
+      "description": "Reform UK surges in local elections while winning only a fraction of council seats. Democrats win the popular vote in dozens of redistricted House races while losing the seats. These two stories involve the same mechanism: electoral systems that translate voter preferences into representation unevenly, amplifying minority preferences into majority power. One is the UK's first-past-the-post; the other is gerrymandered US districts. Both are causing voters to lose faith that their votes produce the governments they voted for.",
+      "type": "tension-cluster",
+      "stories": ["uk-labour-collapse-reform", "redistricting-voting-rights-gop"],
+      "connections": [
+        {
+          "from": "uk-labour-collapse-reform",
+          "to": "redistricting-voting-rights-gop",
+          "relationship": "Both stories describe electoral systems where the translation of votes into seats systematically under-represents certain voter preferences, eroding confidence that elections produce accountable government."
+        }
+      ]
+    }
+  ]
+}

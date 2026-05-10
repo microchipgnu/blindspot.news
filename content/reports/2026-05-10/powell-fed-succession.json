@@ -1,0 +1,108 @@
+{
+  "id": "powell-fed-succession",
+  "date": "2026-05-10",
+  "generatedAt": "2026-05-10T08:00:00Z",
+  "title": "Powell's Last Days",
+  "subtitle": "The Fed chair's departure is essentially priced in at 95%. What comes next is the part that matters.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Federal Reserve", "Powell", "Warsh", "interest rates", "inflation", "Trump"],
+  "coverImage": {
+    "url": "https://static01.nyt.com/images/2026/04/30/multimedia/29SUBfed-meeting-powell-fwqz/29fed-meeting-powell-fwqz-mediumSquareAt3X.jpg",
+    "local": "/images/reports/2026-05-10/powell-fed-succession.jpg",
+    "credit": "The New York Times"
+  },
+  "sources": [
+    {
+      "url": "https://www.nytimes.com/2026/04/29/business/economy/powell-fed-stay-governor.html",
+      "publisher": "The New York Times",
+      "angle": "Reports Powell will stay on as a Fed governor after his chair term ends, citing lingering legal threats against him and the institution. Frames this as an act of institutional protection, not ambition."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/04/29/business/economy/takeaways-from-powells-final-fed-meeting-as-chair.html",
+      "publisher": "The New York Times",
+      "angle": "Powell's final meeting was the most divisive in decades, with multiple dissents over rate direction. His successor Warsh will inherit a fractured institution."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/08/business/economy/jobs-report-inflation-federal-reserve.html",
+      "publisher": "The New York Times",
+      "angle": "April jobs report beat expectations (115,000 added, 4.3% unemployment), strengthening the case for holding rates. Fuel price surge from Iran war is the dominant inflation driver, not demand."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/01/business/economy/fed-inflation-interest-rate-dissents.html",
+      "publisher": "The New York Times",
+      "angle": "Fed governors dissented from the recent meeting, signaling that Trump's pick Warsh will face institutional resistance if he tries to cut rates aggressively despite inflation concerns."
+    }
+  ],
+  "brief": {
+    "actors": ["Powell", "Trump", "Warsh", "Federal Reserve"],
+    "whatHappened": "Jerome Powell's term as Federal Reserve chair is ending imminently, with prediction markets placing a 95% probability on his departure between May 15 and May 22. Powell announced he would remain on the Fed board as a governor, citing ongoing legal threats against the institution. His final Fed meeting in late April was the most divisive in decades, with multiple governors dissenting over rate policy. Trump's pick to succeed him, Kevin Warsh, is a former Fed governor and Wall Street figure who has indicated willingness to cut rates more aggressively than Powell. The April jobs report showed continued strength with 115,000 jobs added, even as the Iran war drives a 24% surge in energy prices in 2026.",
+    "bottomLine": "Trump gets the Fed chair he wanted, but Warsh walks into a box: cut rates to please Trump and risk reigniting inflation; hold rates to fight inflation and prove that political independence survived the chair swap.",
+    "hiddenBets": [
+      {
+        "assumption": "Warsh will cut rates quickly to satisfy Trump's demands",
+        "whyItMightBeWrong": "Warsh is facing a deeply divided board that just logged its most contentious meeting in decades. Multiple governors dissented on the side of caution. If Warsh pushes for cuts against that headwind, he risks a public revolt within the institution he is supposed to lead."
+      },
+      {
+        "assumption": "Keeping Powell on as governor provides meaningful institutional continuity",
+        "whyItMightBeWrong": "A governor has one vote out of seven. Powell can dissent, but he cannot stop a determined chair. His remaining presence signals resistance, not control, and may actually make Warsh's position harder by creating a visible internal opposition."
+      },
+      {
+        "assumption": "The Iran war's inflation effect is temporary and the Fed can wait it out",
+        "whyItMightBeWrong": "Energy price surges take 12-18 months to fully transmit into core inflation. If the Hormuz blockade continues through fall, inflation expectations will reprice upward before any ceasefire brings relief. The Fed cannot cut in that environment without credibility damage."
+      }
+    ],
+    "realDisagreement": "The actual fork is whether the Federal Reserve is an independent institution that happens to have a Trump-appointed chair, or a Trump policy instrument that retains Fed branding. The two versions require different behavior: the first version has Warsh holding rates until the data clearly supports cuts; the second version has him cutting at Trump's request regardless of inflation signals. Warsh's track record suggests he understands the difference, but Trump does not tolerate institutions that refuse his preferences. The dissenting governors' continued presence makes capitulation politically costly in both directions.",
+    "whatNoOneIsSaying": "If Warsh cuts rates while the Iran war is driving energy inflation, the resulting price surge will fall hardest on the working-class voters who are Trump's base. The political cost of that outcome could be worse than the political cost of refusing to cut.",
+    "whoPays": [
+      {
+        "who": "Holders of long-term US Treasury bonds",
+        "how": "If Warsh signals aggressive cuts, bond markets will price in inflation risk and long yields will rise even as short rates fall. The Treasury curve will steepen, increasing the cost of financing the federal deficit.",
+        "when": "Within weeks of any explicit rate-cut signal from Warsh"
+      },
+      {
+        "who": "Renters and first-time homebuyers",
+        "how": "Mortgage rates are primarily driven by the 10-year Treasury, not the federal funds rate. If bond markets anticipate inflation, mortgage rates stay elevated even if the Fed cuts. The housing affordability crisis continues regardless of what Warsh does.",
+        "when": "Ongoing; unchanged until either inflation falls or the Iran war ends"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Credible independence",
+        "whatHappens": "Warsh holds rates at current levels through summer, citing energy inflation from the Iran war. Markets accept his framing as data-dependent. The Fed retains credibility at the cost of Trump's public displeasure.",
+        "signal": "Warsh's first public statement explicitly references inflation risks from the Hormuz situation. Watch for Trump Truth Social posts attacking him within 72 hours."
+      },
+      {
+        "name": "Managed cut",
+        "whatHappens": "Warsh orchestrates a 25bps cut at the first meeting, framed as a response to slowing growth indicators, not political pressure. The board's dissenters vote against; markets shrug. Inflation ticks up slightly over the next two quarters.",
+        "signal": "The June FOMC statement softens its language on inflation 'remaining elevated.' Look for the word 'moderating' to appear."
+      },
+      {
+        "name": "Institutional rupture",
+        "whatHappens": "Warsh cuts aggressively; multiple governors publicly dissent; bond market sells off; dollar weakens; inflation re-accelerates. The Fed's credibility gap becomes a market event.",
+        "signal": "10-year Treasury yield rises above 5.5% within two months of Warsh's first cut. The dollar index falls below 95."
+      }
+    ],
+    "whatWouldChange": "If the Iran war ends and energy prices fall significantly before Warsh's first meeting, the inflation constraint loosens and rate cuts become genuinely supportable. That would make it impossible to distinguish political acquiescence from sound economics, which is probably what Trump is hoping for.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Jerome Powell depart as Fed Chair between May 15 and May 22?",
+        "url": "https://polymarket.com/event/when-will-jerome-powell-depart-as-fed-chair",
+        "probability": 0.9525
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Jerome Powell depart as Fed Chair by May 31, 2026?",
+        "url": "https://polymarket.com/event/jerome-powell-departs-as-fed-chair-by",
+        "probability": 0.985
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Kevin Warsh Fed Chair nomination withdrawn by May 15?",
+        "url": "https://polymarket.com/event/kevin-warsh-fed-chair-nomination-withdrawn-by-may-15",
+        "probability": 0.0015
+      }
+    ]
+  }
+}

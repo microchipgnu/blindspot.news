@@ -1,0 +1,48 @@
+{
+  "date": "2026-05-10",
+  "generatedAt": "2026-05-10T08:00:00Z",
+  "reports": [
+    {
+      "id": "hormuz-blockade-iran-war",
+      "title": "The Strait Nobody Can Open",
+      "subtitle": "The Hormuz blockade is costing $2 billion a day in global shipping, yet neither side can afford the deal that would end it.",
+      "category": "conflict"
+    },
+    {
+      "id": "powell-fed-succession",
+      "title": "Powell's Last Days",
+      "subtitle": "The Fed chair's departure is essentially priced in at 95%. What comes next is the part that matters.",
+      "category": "power"
+    },
+    {
+      "id": "uk-labour-collapse-reform",
+      "title": "Britain's Party System Is Breaking",
+      "subtitle": "Reform UK is the biggest winner in the local elections. The real winner is a political system that cannot handle what British voters now want.",
+      "category": "power"
+    },
+    {
+      "id": "trump-xi-tariff-summit",
+      "title": "The Summit That Has to Look Like Nothing",
+      "subtitle": "Trump and Xi have more to gain from a deal than from a standoff. The problem is neither can afford to say so.",
+      "category": "power"
+    },
+    {
+      "id": "redistricting-voting-rights-gop",
+      "title": "The Permanent Gerrymander",
+      "subtitle": "After the Supreme Court gutted the Voting Rights Act, Republicans are redrawing maps without legal constraint. Democrats are about to learn what structural disadvantage really feels like.",
+      "category": "power"
+    },
+    {
+      "id": "pakistan-uae-iran-mediation",
+      "title": "The Price of Playing Both Sides",
+      "subtitle": "Pakistan tried to mediate between the US and Iran. The UAE responded by expelling hundreds of thousands of Pakistani workers. That is what it costs to be indispensable.",
+      "category": "conflict"
+    },
+    {
+      "id": "hungary-magyar-orban-transition",
+      "title": "After Orban",
+      "subtitle": "Peter Magyar just became Hungary's prime minister. His hardest problem isn't Orban's loyalists. It's the system Orban built to survive anyone who tried to replace him.",
+      "category": "power"
+    }
+  ]
+}

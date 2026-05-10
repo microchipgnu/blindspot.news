@@ -1,0 +1,102 @@
+{
+  "id": "trump-xi-tariff-summit",
+  "date": "2026-05-10",
+  "generatedAt": "2026-05-10T08:00:00Z",
+  "title": "The Summit That Has to Look Like Nothing",
+  "subtitle": "Trump and Xi have more to gain from a deal than from a standoff. The problem is neither can afford to say so.",
+  "topic": "geopolitics",
+  "category": "power",
+  "tags": ["Trump", "Xi", "China", "tariffs", "trade", "Taiwan", "AI", "espionage"],
+  "coverImage": {
+    "url": "https://static01.nyt.com/images/2026/05/07/multimedia/OakArticle-69fd448d-fbvp/OakArticle-69fd448d-fbvp-mediumSquareAt3X-v3.jpg",
+    "local": "/images/reports/2026-05-10/trump-xi-tariff-summit.jpg",
+    "credit": "Haiyun Jiang/The New York Times"
+  },
+  "sources": [
+    {
+      "url": "https://www.nytimes.com/2026/05/09/world/asia/trump-xi-china-us-summit.html",
+      "publisher": "The New York Times",
+      "angle": "Frames the summit as high-stakes but low-expectations: Iran, trade, AI, and Taiwan are all on the agenda, but structural disagreements make breakthroughs unlikely. Notably does not report on any concrete pre-summit concessions."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/09/us/politics/china-us-spy-congressional-aide.html",
+      "publisher": "The New York Times",
+      "angle": "A House China Committee aide was recruited by Beijing to hand over policy insights for $10,000. The case is timed awkwardly for summit atmospherics and reveals ongoing Chinese intelligence operations targeting Capitol Hill during a supposed diplomatic opening."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/09/business/economy/trump-tariff-timeline.html",
+      "publisher": "The New York Times",
+      "angle": "Detailed timeline of Trump tariffs, noting that the Supreme Court struck down the 10% global tariff and multiple other levies have been declared illegal. The legal erosion of tariff authority is weakening Trump's negotiating position."
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/07/business/economy/trump-global-tariff-ruled-illegal.html",
+      "publisher": "The New York Times",
+      "angle": "Trade Court ruling that Trump's 10% global tariff is illegal removes a key pressure point ahead of the summit. China knows the tariff architecture is legally fragile."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Xi", "China", "US", "SCOTUS"],
+    "whatHappened": "A Trump-Xi summit is underway or imminent, with trade, the Iran war, AI governance, and Taiwan on the agenda. Prediction markets put the odds of a US-China tariff agreement by May 31 at 57.5%. The summit occurs after the US Trade Court ruled Trump's 10% global tariff illegal, weakening his tariff leverage. Simultaneously, a House China Committee aide was revealed to have been recruited by Beijing's intelligence services to supply policy insights, creating a counterintelligence backdrop to diplomatic talks. Xi Jinping's trust in his own generals has reportedly eroded due to corruption purges inside the People's Liberation Army, limiting his military options.",
+    "bottomLine": "The tariff deal will happen because both economies need it, but it will be structured so both leaders can claim it was the other who blinked.",
+    "hiddenBets": [
+      {
+        "assumption": "Trump's tariffs are the primary leverage in the negotiation",
+        "whyItMightBeWrong": "Courts have struck down the key tariffs, and China has watched the legal erosion carefully. Beijing's actual negotiating calculation is less about tariff levels and more about whether the US will enforce export controls on advanced chips, which no court ruling can undo."
+      },
+      {
+        "assumption": "The Taiwan question is a red line that makes a deal impossible",
+        "whyItMightBeWrong": "Polymarket gives a 66% chance that Xi visits the US before 2027. Both sides have an interest in separating the trade deal from the Taiwan dispute. A tariff framework can proceed without resolving Taiwan; the two tracks are more separable than the public framing suggests."
+      },
+      {
+        "assumption": "The spy case will derail or complicate the summit",
+        "whyItMightBeWrong": "Both governments deal with intelligence operations constantly. The case is being prosecuted by the DOJ, not the State Department. Summit atmospherics are managed by both sides' foreign ministries, which have powerful incentives to compartmentalize."
+      }
+    ],
+    "realDisagreement": "The genuine tension is whether a tariff deal includes any language on AI chip exports and semiconductor supply chains. If it does, the US is trading away its most durable long-term leverage (technology chokepoints) for near-term trade relief. If it does not, the deal is economically real but strategically shallow. The markets' 57.5% probability for a deal by May 31 likely reflects a narrow deal on goods tariffs that deliberately avoids tech controls. That is probably the right trade for this year's politics, but it leaves the underlying strategic competition intact.",
+    "whatNoOneIsSaying": "China's military purges mean Xi is entering this summit with fewer military options he fully trusts. A weakened PLA command makes the diplomatic track more attractive for Beijing. The spy case inadvertently confirms the coexistence of intelligence hostility and economic negotiation, which is the normal condition of great-power competition, not an aberration.",
+    "whoPays": [
+      {
+        "who": "US manufacturers who bet on tariff protection",
+        "how": "A tariff deal will likely involve a reduction or suspension of tariffs that US steel, aluminum, and semiconductor fab companies have built business plans around. The deal benefits consumers and retailers at the expense of the protected manufacturing base.",
+        "when": "Within 90-120 days of a deal announcement as companies revise production plans"
+      },
+      {
+        "who": "Taiwan's semiconductor industry",
+        "how": "Any trade deal that softens US export controls on AI chips benefits China's indigenous chip development. Taiwan's dominant position in advanced chip manufacturing is partly protected by US export policy. A deal that weakens those controls, even marginally, tightens the competitive pressure on TSMC.",
+        "when": "Multi-year; effects appear in next-generation chip development timelines"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Narrow goods deal",
+        "whatHappens": "US suspends tariffs on Chinese consumer goods; China commits to specific purchases of American agricultural products and energy. No binding agreement on tech exports. Both sides declare victory.",
+        "signal": "The deal text omits any reference to semiconductors, AI hardware, or export licensing frameworks. Watch for what is NOT in the press release."
+      },
+      {
+        "name": "Breakdown with managed face-saving",
+        "whatHappens": "No formal deal. Both sides release statements emphasizing 'productive dialogue' and 'shared commitment to stable relations.' The tariff status quo continues under legal uncertainty as courts continue striking down specific levies.",
+        "signal": "No joint statement is issued. Watch for a solo Trump press conference rather than a bilateral readout."
+      },
+      {
+        "name": "Broad framework deal",
+        "whatHappens": "A comprehensive agreement covers goods tariffs, semiconductor export licensing, and fentanyl precursor enforcement. Markets rally. This is the low-probability scenario (requires both sides to accept domestic political pain simultaneously).",
+        "signal": "Xi agrees to a follow-up summit in Washington. The 66% Polymarket odds on Xi visiting the US before 2027 move toward 80%."
+      }
+    ],
+    "whatWouldChange": "If Trump faces a serious political crisis at home (midterm environment deteriorates sharply or the Iran war escalates) before the deal closes, he will need a win and may accept terms he would otherwise reject. Watch for the domestic US political temperature in the 30 days before any announced deal.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "US x China tariff agreement by May 31?",
+        "url": "https://polymarket.com/event/us-x-china-tariff-agreement-by-may-31",
+        "probability": 0.575
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Xi Jinping visit US before 2027?",
+        "url": "https://polymarket.com/event/will-xi-jinping-visit-us-before-2027",
+        "probability": 0.66
+      }
+    ]
+  }
+}
