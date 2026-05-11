@@ -1,0 +1,107 @@
+{
+  "id": "china-rare-earths-summit",
+  "date": "2026-05-11",
+  "generatedAt": "2026-05-11T08:30:00Z",
+  "title": "Trump Flies to Beijing Thinking He Has Leverage. China Disagrees.",
+  "subtitle": "China's rare earths card turned the October trade truce into a template Beijing plans to repeat. The May 14 summit will reveal who actually blinks.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["China", "Trump", "Xi", "rare earths", "trade", "Beijing summit"],
+  "coverImage": {
+    "url": "https://newsimg.koreatimes.co.kr/2026/05/11/f2fe46e0-561d-4764-9227-985c42df57d9.jpg",
+    "local": "/images/reports/2026-05-11/china-rare-earths-summit.jpg",
+    "credit": "Korea Times / Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://www.koreatimes.co.kr/world/20260511/buoyed-by-rare-earths-china-approaches-trump-summit-fresh-confidence",
+      "publisher": "Korea Times / SCMP",
+      "angle": "Exclusive: Beijing officials signaling growing willingness to retaliate; China views rare earths as deterrent that brought US 'to its knees'; less afraid of tariff escalation."
+    },
+    {
+      "url": "https://www.channelnewsasia.com/commentary/trump-xi-beijing-meeting-us-china-rare-earth-taiwan-6108846",
+      "publisher": "Channel News Asia / Brookings",
+      "angle": "Asia perspective: If Washington secures rare earth assurances for itself while leaving allies exposed, US credibility in Asia collapses. Taiwan and Korea are watching."
+    },
+    {
+      "url": "https://www.9news.com.au/world/donald-trump-update-iran-war-could-make-us-presidents-trip-to-see-xi-jinping-in-china-a-bit-chillier-than-his-firstterm-visit/f269600e-d592-4abf-91c1-615aee13a561",
+      "publisher": "9News / AP",
+      "angle": "China may be working backward from US midterm elections: closer to 2026 elections, the more leverage Beijing has. Xi understands Trump; Trump does not understand Xi."
+    },
+    {
+      "url": "https://www.straitstimes.com/asia/rare-earths-deal-between-us-and-china-is-still-in-effect-us-official-says",
+      "publisher": "Straits Times / Reuters",
+      "angle": "US official confirms rare earths deal still in effect but extension unclear; deal covers China's suspension of rare earth export curbs in exchange for US tariff easing."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Xi", "China", "US", "Bessent"],
+    "whatHappened": "Trump departs for a two-day summit in Beijing on May 14-15, his first visit to China in his second term. Chinese officials have privately signaled growing willingness to retaliate, buoyed by the October 2025 experience where restricting rare earth exports brought the US to a trade truce within weeks. The rare earths deal from that October truce remains in effect but its extension is uncertain. Ahead of the summit, US Treasury Secretary Scott Bessent is holding pre-summit talks in Seoul with Chinese Vice Premier He Lifeng. South China Morning Post sources report Beijing is less worried about US tariffs than before and believes it can withstand escalation.",
+    "bottomLine": "China went into the last summit as the side that needed a deal. It goes into this one as the side with the deterrent. That is a different summit.",
+    "hiddenBets": [
+      {
+        "assumption": "The trade truce from October is stable enough that both sides will extend it.",
+        "whyItMightBeWrong": "The truce was built on mutual pain. Since October, the SCOTUS struck down US tariffs, the Iran war created an energy shock that hurt China's economy, and the US is now $166 billion in tariff refunds deep. The underlying leverage structure has shifted. China has more reason to hold its cards; the US has less credibility on tariff threats."
+      },
+      {
+        "assumption": "Trump's personal rapport with Xi is a strategic asset.",
+        "whyItMightBeWrong": "Xi has 'a better understanding of Trump' than Trump has of Xi, per analysts at the Brookings Institution. Xi does not do personal connections. Trump does. That asymmetry means Trump is susceptible to flattery and pomp in ways that may produce premature concessions or vague announcements that China does not honor."
+      },
+      {
+        "assumption": "Rare earths are a symmetric weapon: China restricts them, the US restricts semiconductors.",
+        "whyItMightBeWrong": "These are not equivalent. US semiconductor restrictions hurt specific Chinese firms over years. Chinese rare earth restrictions hurt US defense manufacturing within months. The US cannot replace rare earth supply chains quickly; China can weather semiconductor restrictions through domestic development and strategic stockpiling. The weapons are not balanced."
+      }
+    ],
+    "realDisagreement": "The core tension at this summit is whether the US-China relationship is fundamentally transactional or whether it reflects a structural rivalry where deals are tactical pauses. Trump treats it as transactional: make deals, collect wins, move on. Xi treats it as a structural competition where every deal is a data point about who is gaining. That means Xi will always interpret a deal differently than Trump. Trump will announce a win; China will bank the concession and use the next crisis to extract another. The question is whether any American leader can negotiate durably with a counterpart who is playing a different game on a longer time horizon. I don't think Trump can, but I also don't think it matters for the immediate summit: both sides need to not blow up the truce before the US midterms.",
+    "whatNoOneIsSaying": "China helped end the Iran ceasefire standoff enough to keep the energy shock from spiraling into a global depression, and this gave China enormous diplomatic credit in the Middle East. That credit is now partially convertible at the Beijing summit. Iran's economic pain is also China's problem because Beijing buys Iranian oil, but China's willingness to quietly pressure Tehran gave it something to trade with Washington. The summit is also about Iran, even if it is framed entirely as a trade discussion.",
+    "whoPays": [
+      {
+        "who": "US defense and electronics manufacturers",
+        "how": "If the rare earths deal expires without renewal, Chinese export restrictions on neodymium, dysprosium and other critical minerals bite into production of F-35 components, electric vehicle motors, and semiconductor equipment. The Defense Department has no short-term substitute supply chain.",
+        "when": "Within 90 days of any deal expiration, depending on stockpile levels."
+      },
+      {
+        "who": "US allies: Japan, South Korea, Taiwan",
+        "how": "If Washington secures its own rare earth supply while leaving allies exposed to Chinese pressure, it demonstrates that American security guarantees are transactional and can be bought off. Beijing has already used rare earth threats against Japan over Taiwan disputes.",
+        "when": "Medium-term; visible in alliance behavior within 6-12 months."
+      },
+      {
+        "who": "Southeast Asian manufacturers: Vietnam, Malaysia, Thailand",
+        "how": "If the US-China tariff truce collapses, Washington will pressure these countries to enforce transshipment rules, threatening their manufacturing hub status. If the truce holds, they face continued pressure from both sides to choose lanes.",
+        "when": "Dependent on summit outcome; visible within weeks."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Truce extended, everything else deferred",
+        "whatHappens": "Both sides announce an extension of the October trade truce for another six months. Rare earth deal extended. Tariff levels frozen. Taiwan, Iran, AI all discussed but produce no concrete outcomes. Both sides claim a win.",
+        "signal": "A joint statement that emphasizes 'stability' and 'ongoing dialogue' without any specific timelines or commitments is the clearest signal this is the outcome."
+      },
+      {
+        "name": "China extracts Taiwan concession",
+        "whatHappens": "Xi pushes Trump for a statement opposing Taiwanese independence that goes beyond US traditional language. Trump, focused on a deal optic, makes an off-the-cuff remark that shifts the policy line. Taiwan's government panics.",
+        "signal": "Watch any unscripted Trump comment about Taiwan during or after the summit. The State Department's cleanup language in the 24 hours after the summit matters more than Trump's statement."
+      },
+      {
+        "name": "Summit produces no deal, markets react",
+        "whatHappens": "Negotiations on rare earths and tariffs fail to reach agreement. China signals it may let the rare earth deal expire. US equity markets drop; energy prices rise.",
+        "signal": "No joint statement issued at end of summit, or Bessent's pre-summit Seoul talks break down before Trump lands in Beijing."
+      }
+    ],
+    "whatWouldChange": "If China agrees to substantive restrictions on Iranian oil purchases in exchange for tariff concessions, that would indicate Beijing has decided the Iran war costs more than the strategic benefit of keeping Tehran as a lever. That is the version of the summit where Trump can legitimately claim leverage.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "US x China tariff agreement by May 31?",
+        "url": "https://polymarket.com/event/us-x-china-tariff-agreement-by-may-31",
+        "probability": 0.61
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Xi Jinping visit US before 2027?",
+        "url": "https://polymarket.com/event/will-xi-jinping-visit-us-before-2027",
+        "probability": 0.73
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "date": "2026-05-11",
+  "threads": [
+    {
+      "id": "iran-shapes-everything",
+      "title": "Iran Is the Hidden Variable in Three Other Stories Today",
+      "description": "The US-Iran war is not just a Middle East story. It delayed Trump's Beijing visit, which means the rare earths deal was negotiated under the shadow of Hormuz pressure rather than normal trade terms. The SCOTUS tariff ruling in February happened as the Iran war was starting, leaving the administration without its economic leverage precisely when energy prices were rising. And China used its role as Iran's largest oil buyer to quietly influence the ceasefire enough to preserve its own economic interests, which it will now convert into diplomatic credit at the Beijing summit. The Iran conflict is the background radiation in every major decision this week.",
+      "type": "dependency-web",
+      "stories": ["iran-ceasefire-collapse", "china-rare-earths-summit", "tariff-legal-collapse"],
+      "connections": [
+        {
+          "from": "iran-ceasefire-collapse",
+          "to": "china-rare-earths-summit",
+          "relationship": "Trump's failure to reach a peace deal before the Beijing summit weakens his negotiating position: he arrives needing China's help on Iran while China has extracted concessions using its Iran leverage."
+        },
+        {
+          "from": "iran-ceasefire-collapse",
+          "to": "tariff-legal-collapse",
+          "relationship": "The Hormuz blockade drove oil prices to a new cycle high, which makes the tariff refund process ($166B to importers) politically radioactive: refunding businesses while consumers face energy inflation reads as a regressive wealth transfer."
+        },
+        {
+          "from": "china-rare-earths-summit",
+          "to": "tariff-legal-collapse",
+          "relationship": "China's rare earth leverage over the US is now more credible than US tariff threats against China, because the courts have struck down two US tariff regimes while China's rare earth restrictions remain legally and physically intact."
+        }
+      ]
+    },
+    {
+      "id": "executive-authority-without-legal-container",
+      "title": "Every Actor Is Trying to Do the Same Thing Without Legal Authority to Do It",
+      "description": "Trump wants unilateral tariff power, but courts keep killing the legal container. He wants judicial loyalty, but the Constitution requires independence. The EU wants to regulate Android AI, but the legal proceedings will take years. Germany wants to ban children from social media, but age verification requires building surveillance infrastructure. In all four stories, a government actor wants a legitimate policy outcome but lacks the institutional mechanism to achieve it durably. The pattern is actors repeatedly finding that the tools they need don't exist and building workarounds that create new problems.",
+      "type": "tension-cluster",
+      "stories": ["trump-scotus-loyalty", "tariff-legal-collapse", "eu-android-ai-interoperability", "germany-social-media-ban"],
+      "connections": [
+        {
+          "from": "tariff-legal-collapse",
+          "to": "trump-scotus-loyalty",
+          "relationship": "SCOTUS killed Trump's tariffs in February; Trump's May 10 'loyalty' demand is directly provoked by that ruling, making clear the SCOTUS pressure is retaliation for the tariff loss, not a new policy initiative."
+        },
+        {
+          "from": "eu-android-ai-interoperability",
+          "to": "germany-social-media-ban",
+          "relationship": "Both EU Android DMA enforcement and German social media ban require massive compliance infrastructure that platforms will challenge legally; the EU is simultaneously fighting Meta over DSA fees and seeking to mandate Android interoperability, stretching enforcement capacity."
+        },
+        {
+          "from": "trump-scotus-loyalty",
+          "to": "eu-android-ai-interoperability",
+          "relationship": "US political pressure on courts to deliver policy outcomes mirrors how tech companies use legal challenges to delay EU regulatory enforcement; both are tactics to override institutional resistance through attrition rather than changing the underlying legal argument."
+        }
+      ]
+    },
+    {
+      "id": "chokepoint-as-leverage",
+      "title": "The New Deterrent Is Controlling a Physical or Digital Chokepoint",
+      "description": "China's rare earth restrictions, Iran's Hormuz blockade, and the EU's Android interoperability case are all about the same strategic logic: control a chokepoint and use it as leverage. Rare earths are 60-90 percent China-controlled. Hormuz carries 20 percent of global oil. Android runs on 72 percent of smartphones. The actor that controls the chokepoint does not need military or judicial power; they just need to threaten to close it. This is the dominant foreign policy and regulatory strategy of 2026, and it explains why 'soft power' arguments about alliances and norms are losing to hard chokepoint economics.",
+      "type": "cause-effect",
+      "stories": ["iran-ceasefire-collapse", "china-rare-earths-summit", "eu-android-ai-interoperability"],
+      "connections": [
+        {
+          "from": "china-rare-earths-summit",
+          "to": "iran-ceasefire-collapse",
+          "relationship": "China demonstrated in October 2025 that rare earth chokepoint leverage produces faster concessions than prolonged trade conflict; Iran watched this and applied the same logic to Hormuz, with a harder-line position and less willingness to settle."
+        },
+        {
+          "from": "iran-ceasefire-collapse",
+          "to": "eu-android-ai-interoperability",
+          "relationship": "The EU's Android case is the regulatory equivalent of a chokepoint strategy: by requiring Alphabet to open Android to rivals, the EU is forcing Google to share the mobile AI distribution channel it controls, just as courts forced open telecom networks in the 1990s."
+        }
+      ]
+    }
+  ]
+}

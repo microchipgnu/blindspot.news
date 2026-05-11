@@ -1,0 +1,87 @@
+{
+  "id": "tariff-legal-collapse",
+  "date": "2026-05-11",
+  "generatedAt": "2026-05-11T08:35:00Z",
+  "title": "The Courts Have Now Killed Two Different Tariff Regimes. Trump Keeps Building New Ones.",
+  "subtitle": "The first $166B in IEEPA refunds arrive today. Last week a trade court struck down the 10% replacement tariff. The administration's legal theory for unilateral trade authority is running out of runways.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Trump", "tariffs", "SCOTUS", "IEEPA", "trade law", "trade court", "refunds"],
+  "coverImage": {
+    "url": "https://cassette.sphdigital.com.sg/image/businesstimes/eb0a17df01e93aa4d97c0cba9284438c2a087be3ccff325181386e7996c93680?w=1200&f=webp",
+    "local": "/images/reports/2026-05-11/tariff-legal-collapse.jpg",
+    "credit": "Business Times / NYT"
+  },
+  "sources": [
+    {
+      "url": "https://www.businesstimes.com.sg/opinion-features/when-us-trade-court-says-no-limits-presidential-tariff-authority",
+      "publisher": "Business Times",
+      "angle": "Analysis: Trump has now lost both his IEEPA tariff regime (SCOTUS, February) and his 10% Section 232 replacement (Court of International Trade, May 7). The two boldest legal theories for unilateral tariff authority are gone."
+    },
+    {
+      "url": "https://ipview.blogspot.com/2026/04/us-says-first-tariffs-refunds-around-may.html",
+      "publisher": "Independent View",
+      "angle": "Refund mechanics: $166B owed to 330,000 importers on 53 million shipments; first payments expected today. Court-managed process via CAPE system."
+    },
+    {
+      "url": "https://www.foxbusiness.com/politics/trump-orders-federal-agencies-prioritize-american-made-goods-curb-waiver-use",
+      "publisher": "Fox Business",
+      "angle": "Trump's response to losing tariffs: executive order tightening Buy American enforcement, closing waiver loopholes on federal procurement. Shifts from market-wide tariffs to government purchasing mandate."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "SCOTUS", "Bessent", "US"],
+    "whatHappened": "The first tariff refunds under the court-ordered CAPE process are expected to be paid today, covering a portion of the $166 billion in tariff revenue collected under Trump's IEEPA-based regime that the Supreme Court struck down 6-3 in February. Last week, a three-judge panel of the US Court of International Trade ruled 2-1 that Trump's replacement 10% global tariff, imposed after SCOTUS killed the broader IEEPA regime, also lacked legal authority. Treasury Secretary Bessent told importers the administration might restore tariffs by July to pre-SCOTUS levels. Trump responded by signing a Buy American enforcement executive order targeting federal procurement waivers.",
+    "bottomLine": "The courts have not stopped Trump's trade policy; they have forced him to keep finding new legal containers for the same policy. Each container is weaker than the last.",
+    "hiddenBets": [
+      {
+        "assumption": "The tariff refunds represent a real cost to the administration.",
+        "whyItMightBeWrong": "The refund process is slow and covers only some importers. The administration can use the delay to impose new tariffs before the refunds fully clear, effectively collecting duties twice on the same goods. Bessent's July restoration threat is the mechanism: importers who received refunds may face new tariffs in weeks."
+      },
+      {
+        "assumption": "Congress is the natural body to pass new tariff authority.",
+        "whyItMightBeWrong": "Congress has consistently delegated trade authority to the executive since the 1930s. Getting Congress to pass a new, constitutionally grounded tariff law requires affirmative legislation, which requires votes from members whose districts depend on imports. The political calculus does not favor quick congressional action. The administration has more incentive to keep finding executive authority than to ask Congress."
+      },
+      {
+        "assumption": "Importing companies that won refunds are now safe.",
+        "whyItMightBeWrong": "Bessent's warning about July tariff restoration means importers must decide whether to spend refunds or hold them as a hedge. Companies that committed capital based on refund expectations and then face reimposed tariffs are in a structurally worse position than they were before the refund."
+      }
+    ],
+    "realDisagreement": "The real tension is between two legitimate positions: unilateral executive trade authority is genuinely useful for fast-moving economic threats, and constitutional separation of powers requires Congress to set trade policy. The courts have consistently chosen the latter. The administration argues the courts are wrong. That is not a frivolous argument; trade scholars disagree on the historical scope of IEEPA. But the administration has now lost that argument twice at the highest levels. The question is whether it will accept the constitutional constraint and work with Congress, or keep finding new executive workarounds until one sticks. The Buy American executive order suggests the latter: it is a circumnavigation of the courts, not a concession to them.",
+    "whoPays": [
+      {
+        "who": "US importers: small and medium businesses",
+        "how": "The CAPE refund process covers about 21 percent of IEEPA entries. The other 79 percent are still in earlier stages of the process. Companies that paid tariffs but have not yet received refunds face cash flow pressure while navigating a complex court-administered process.",
+        "when": "Immediate for those in the refund queue; ongoing uncertainty for the rest."
+      },
+      {
+        "who": "US trading partners",
+        "how": "Bessent's July tariff restoration threat means foreign exporters cannot plan pricing. A business trying to commit to a US order in May faces the possibility that its goods will face a new tariff in July. The predictability cost of US trade policy may be more damaging than any specific tariff rate.",
+        "when": "Ongoing; visible in foreign investment decisions within months."
+      },
+      {
+        "who": "Federal agency suppliers and foreign-made goods vendors",
+        "how": "Trump's Buy American executive order tightens procurement rules and closes waiver loopholes. Companies that relied on waivers to sell foreign goods to the US government face immediate contract risk.",
+        "when": "Immediate; agencies must respond within the order's timeline."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "July tariff restoration",
+        "whatHappens": "The administration finds a new legal vehicle, possibly a Section 232 national security determination or a new emergency declaration, and reimpose tariffs in July before refunds fully clear. Courts challenge again; process repeats.",
+        "signal": "Watch any new emergency declarations or Commerce Department national security reviews announced in May or June."
+      },
+      {
+        "name": "Congressional deal",
+        "whatHappens": "The administration negotiates with Congress to pass a targeted tariff authorization bill, trading some executive authority for legislative backing that could survive judicial review. This is the only path to durable tariffs.",
+        "signal": "Any bipartisan Senate caucus forming around trade legislation. Senators from manufacturing states have an incentive to support targeted tariffs if they can strip the blanket authority."
+      },
+      {
+        "name": "Executive capitulation",
+        "whatHappens": "Without a viable new legal container, the administration accepts that SCOTUS has effectively constrained broad tariff authority. Trade policy reverts to pre-Trump frameworks, with targeted Section 301 tariffs on specific countries remaining in place.",
+        "signal": "Bessent stopping the July restoration threat or the Buy American order becoming the primary trade policy tool."
+      }
+    ],
+    "whatWouldChange": "If the Court of International Trade's 10% tariff ruling is appealed to the Federal Circuit and reversed, that would give the administration a new legal footing. The appellate timeline is months to years, so this is not an immediate escape."
+  }
+}
