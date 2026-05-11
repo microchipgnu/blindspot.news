@@ -1,0 +1,107 @@
+{
+  "id": "deepseek-china-chip-parity",
+  "date": "2026-05-11",
+  "generatedAt": "2026-05-11T17:50:00Z",
+  "title": "China's AI Chips Achieved Day Zero Parity with Nvidia. Jensen Huang Says His China Share Is Now Zero.",
+  "subtitle": "When DeepSeek V4 launched, Huawei, Cambricon and Moore Threads ran it the same day. That ended Nvidia's real advantage in China: timing.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["AI", "chips", "Nvidia", "DeepSeek", "China", "export controls", "Huawei"],
+  "coverImage": {
+    "url": "https://byteiota.com/wp-content/uploads/2026/05/featured-image-144.jpg",
+    "local": "/images/reports/2026-05-11/deepseek-china-chip-parity.jpg",
+    "credit": "byteiota"
+  },
+  "sources": [
+    {
+      "url": "https://byteiota.com/deepseek-v4-hits-day-0-chinese-ai-chips-match-nvidia/",
+      "publisher": "byteiota",
+      "angle": "Chinese chipmakers achieved Day 0 adaptation of DeepSeek V4, meaning developers can now deploy frontier models on domestic chips without waiting for Nvidia compatibility. Huawei's Ascend 950PR delivers 2.8x the performance of the H20, the only chip Nvidia can legally sell in China."
+    },
+    {
+      "url": "https://finance.biggo.com/news/z1GyCp4BDXrLZJaAqUbi",
+      "publisher": "BigGo Finance",
+      "angle": "Jensen Huang admitted in earnings that Nvidia's China AI chip share has fallen to zero. The company held 95% before export controls. Three domestic players now divide the market: Huawei Ascend, Haiguang DCU, Cambricon."
+    },
+    {
+      "url": "https://weijinresearch.substack.com/p/deepseek-v4",
+      "publisher": "Weijin Research",
+      "angle": "DeepSeek V4 is driving aggressive cost compression, with token prices near zero for cache hits. This forces Nvidia to accelerate its own open-weight strategy via the Nemotron series. DeepSeek's cost war is reshaping who controls the open-weight AI ecosystem globally."
+    },
+    {
+      "url": "https://www.strategicstudyindia.com/2026/05/deepseek-v4-signals-new-phase-in-us.html",
+      "publisher": "Indian Strategic Studies",
+      "angle": "DeepSeek V4 is open-source, rivals Claude and ChatGPT on benchmarks, and launched with same-day support for Chinese chips. The AI rivalry is now shifting from training to inference and from chips to software ecosystems."
+    }
+  ],
+  "brief": {
+    "actors": ["Nvidia", "DeepSeek", "Huawei", "China", "US"],
+    "whatHappened": "DeepSeek released its V4 model on April 29, and Chinese chip companies including Huawei Ascend, Cambricon, and Moore Threads all achieved Day 0 adaptation, meaning the model ran on domestic chips the same day it launched. This timing capability was previously exclusive to Nvidia. Nvidia CEO Jensen Huang acknowledged in the most recent earnings season that the company's share of China's AI accelerator market has fallen to zero, down from a near-monopoly of 95% before 2020. Huawei's Ascend 950PR now delivers 2.8 times the performance of the H20, the only Nvidia chip permitted under current export control rules.",
+    "bottomLine": "The US chip export controls succeeded in removing Nvidia from China; they failed to stop China from building a replacement. The two outcomes are not in tension. They were always the likely result.",
+    "hiddenBets": [
+      {
+        "assumption": "Export controls slow Chinese AI development by denying frontier chips",
+        "whyItMightBeWrong": "Denial of Nvidia chips forced Chinese chipmakers to build alternatives. DeepSeek V4 running on Huawei Day 0 means the software-hardware co-evolution gap has closed for inference workloads. The controls may have accelerated China's domestic chip industry rather than arrested it."
+      },
+      {
+        "assumption": "Nvidia's CUDA ecosystem lock-in is durable",
+        "whyItMightBeWrong": "CUDA advantage derives from developer habit and ecosystem depth. Cambricon open-sourced their DeepSeek V4 adaptation code. If the Chinese developer community standardizes on Huawei and Cambricon frameworks within China, CUDA lock-in has no purchase there. The question is whether open-source AI models accelerate this globally."
+      },
+      {
+        "assumption": "DeepSeek V4 is competitive with Western frontier models",
+        "whyItMightBeWrong": "Chinese industry media noted V4 still trails Claude Opus 4.6 in agent benchmarks, the workload that matters most for enterprise software. Benchmark parity on narrow tests does not equal product parity. Huang may be correct that DeepSeek V4 first deploying on Huawei chips is the real story, not V4 itself."
+      }
+    ],
+    "realDisagreement": "The genuine fork is whether US export controls are working. The administration argues the controls forced China to build inferior alternatives on degraded hardware, buying time. The counter-case, now supported by Huang's own earnings disclosure, is that the controls removed Nvidia from China entirely while Chinese companies used the forced independence to build an ecosystem that no longer needs Nvidia. Both cannot be right. The administration is treating Nvidia's revenue loss as a strategic victory. The market treats Nvidia's China share as already zero and is pricing Nvidia's future on whether it can hold the rest of the world. The second framing is more accurate. The controls did not delay Chinese AI. They decoupled it.",
+    "whatNoOneIsSaying": "Nvidia is lobbying against the export controls not purely for revenue reasons. Jensen Huang's deeper argument is that if Chinese developers standardize on Huawei's software ecosystem inside China, and DeepSeek V4 propagates globally as open-source, then the CUDA ecosystem could face a global split. China could become the reference platform for open-weight AI deployment in the Global South. That would be a far more durable loss than revenue.",
+    "whoPays": [
+      {
+        "who": "US AI chip supply chain outside China",
+        "how": "Chinese chip independence means the global AI market bifurcates. Companies building on open-source DeepSeek models may choose Huawei or Cambricon infrastructure if it is cheaper, even outside China. Nvidia's total addressable market shrinks.",
+        "when": "18 to 36 months as Chinese chip performance and software maturity improves"
+      },
+      {
+        "who": "US policymakers defending the export control rationale",
+        "how": "If Nvidia's China share is zero and China's AI development has not visibly slowed, the strategic justification for the controls requires revision. The controls will be defended anyway because reversal is politically impossible, meaning the actual policy cost remains unexamined.",
+        "when": "Already happening; the earnings disclosure is public"
+      },
+      {
+        "who": "Global South AI developers",
+        "how": "They now have a choice: Nvidia's closed ecosystem at premium prices, or open-source models running on cheaper Chinese-backed hardware. That choice did not exist before 2025. It is not obvious which direction they choose.",
+        "when": "Starting now, accelerating through 2027"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "CUDA Split",
+        "whatHappens": "Open-source DeepSeek models become the dominant choice for inference in cost-sensitive markets. Huawei and Cambricon become the default hardware platform in China and increasingly in Southeast Asia and Africa. Nvidia retains dominance in Western hyperscaler training.",
+        "signal": "Huawei Ascend ships begin appearing in Indian, Indonesian, or Middle Eastern AI infrastructure procurements at scale."
+      },
+      {
+        "name": "Quality Ceiling Holds",
+        "whatHappens": "Chinese chips remain performance-competitive for inference but fall short in frontier training. The next generation of frontier models requires hardware capabilities Chinese chips cannot yet match. DeepSeek V5 is delayed. The quality gap reasserts itself.",
+        "signal": "DeepSeek's next model requires Huawei clusters for training but Huawei announces delays to its 950PR mass production timeline."
+      },
+      {
+        "name": "US Escalation",
+        "whatHappens": "Washington expands export controls to ASML and Dutch lithography equipment, or imposes secondary sanctions on Huawei chip customers. This would slow future generations of Chinese chips but not affect chips already deployed.",
+        "signal": "A new BIS rule or congressional legislation targeting ASML EUV sales to third countries."
+      }
+    ],
+    "whatWouldChange": "Evidence that Chinese chips fail on the next generation of frontier training runs, not inference. If DeepSeek V5 requires hardware China cannot domestically produce, the export control argument recovers. The Day 0 inference story does not prove the training story.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will NVIDIA be the largest company in the world by market cap on June 30?",
+        "url": "https://polymarket.com/event/largest-company-end-of-june-712",
+        "probability": 0.83
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will DeepSeek have a #1 AI model by June 30?",
+        "url": "https://polymarket.com/event/which-companies-will-have-a-1-ai-model-by-june-30",
+        "probability": 0.02
+      }
+    ]
+  }
+}

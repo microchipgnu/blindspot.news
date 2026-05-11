@@ -1,0 +1,88 @@
+{
+  "id": "eu-ai-act-omnibus-rewrite",
+  "date": "2026-05-11",
+  "generatedAt": "2026-05-11T17:52:00Z",
+  "title": "The EU Just Rewrote Its AI Law Before It Took Effect. OpenAI Is Cooperating. Anthropic Is Not.",
+  "subtitle": "The Digital Omnibus deal pushed high-risk AI compliance to 2027 at 4:30am after talks collapsed twice. OpenAI is offering EU regulators model access. Anthropic is holding off.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["EU", "AI Act", "OpenAI", "Anthropic", "regulation", "compliance"],
+  "coverImage": {
+    "url": "https://www.computerworld.com/wp-content/uploads/2026/05/4168467-0-64990200-1778167309-Google-will-jetzt-doch-den-EU-AI-Act-unterstutzen.jpg?quality=50&strip=all&w=1024",
+    "local": "/images/reports/2026-05-11/eu-ai-act-omnibus-rewrite.jpg",
+    "credit": "Computerworld"
+  },
+  "sources": [
+    {
+      "url": "https://www.computerworld.com/article/4168467/eu-lawmakers-strike-provisional-deal-to-soften-ai-act.html",
+      "publisher": "Computerworld",
+      "angle": "The deal pushes high-risk AI deadlines to December 2027, nearly 18 months beyond the original August 2026 deadline. Industry pressure over overlapping obligations with the Machinery Regulation forced the renegotiation."
+    },
+    {
+      "url": "https://captaincompliance.com/news/eu-reaches-last-minute-deal-to-rewrite-key-parts-of-the-ai-act-ahead-of-august-compliance-deadline/",
+      "publisher": "Captain Compliance",
+      "angle": "The EU is not retreating from AI regulation but trying to make it operational. The rewrite focused on clarifying overlapping obligations between the AI Act and existing product safety frameworks that would have created duplicative compliance burdens."
+    },
+    {
+      "url": "https://iapp.org/news/a/eu-agrees-to-amend-ai-act-clarifies-overlap-with-machinery-rules",
+      "publisher": "IAPP",
+      "angle": "Germany pushed hard to exempt industrial AI from the act's scope. German Chancellor Merz told German CEOs he would seek to ease the regulatory burden on industrial AI. The machinery sector was permanently carved out."
+    },
+    {
+      "url": "https://ca.marketscreener.com/news/openai-to-grant-eu-regulators-access-to-latest-ai-model-anthropic-still-holding-off-ce7f5bd8d081f223",
+      "publisher": "MT Newswires via MarketScreener",
+      "angle": "OpenAI is proactively offering EU regulators access to its latest AI model. Anthropic is holding off. The split reveals different strategic calculations about EU market access versus regulatory exposure."
+    }
+  ],
+  "brief": {
+    "actors": ["EU", "OpenAI", "Anthropic", "Germany", "European Parliament"],
+    "whatHappened": "On May 7, after talks had collapsed on April 28 and gone to a marathon overnight session, European Parliament and Council negotiators reached a provisional agreement to amend the EU AI Act as part of the Digital Omnibus on AI simplification package. High-risk AI systems now face a compliance deadline of December 2, 2027 rather than August 2, 2026, an extension of nearly 16 months. The machinery sector was permanently exempted. Separately, the European Commission disclosed on May 11 that it is in talks with both OpenAI and Anthropic to obtain access to their latest AI models for regulatory evaluation. OpenAI is described as proactively offering access; Anthropic is still holding off.",
+    "bottomLine": "The EU rewrote its landmark AI law before a single company had to comply with it. That is not a sign of regulatory maturity. It is a sign that the law was written for the press release, not for implementation.",
+    "hiddenBets": [
+      {
+        "assumption": "The EU AI Act delay is a concession to industry that weakens the regulation",
+        "whyItMightBeWrong": "The Commission's stated rationale is precision, not retreat. The machinery exemption and the two-tier deadline structure may produce cleaner enforcement than the original catch-all deadline would have. A law that cannot be implemented is not regulation: it is aspiration. The question is whether the 2027 deadline holds or collapses again."
+      },
+      {
+        "assumption": "OpenAI's decision to offer model access is straightforwardly cooperative",
+        "whyItMightBeWrong": "OpenAI and Microsoft are constructing European data centers and want EU market access at scale. Cooperation on model access may be a calculated trade: give regulators early evaluation access now to shape what they look for, before enforcement begins. Anthropic, which has less EU infrastructure to protect, has less incentive to make that trade."
+      },
+      {
+        "assumption": "The EU AI Act sets the global regulatory standard",
+        "whyItMightBeWrong": "The UK explicitly declined to adopt the EU approach. The US has no federal AI law. China's agentic AI policy explicitly emphasizes human-in-the-loop control as its own regulatory frame. The EU may be writing rules for a jurisdiction that frontier AI companies treat as a compliance cost, not a governance model."
+      }
+    ],
+    "realDisagreement": "The genuine tension is whether early regulatory access to AI models gives the EU the power to shape AI development, or whether it simply tells AI companies what to game. OpenAI offering regulators access to its latest model is, on its face, transparency. It could also be an audition: showing the EU what OpenAI wants the EU to evaluate, framing what safety means before enforcement begins. Anthropic refusing access might be principled caution about how that access gets used, or it might be strategic, letting OpenAI carry the regulatory exposure while Anthropic watches what the EU does with the data. The EU's ability to enforce depends entirely on whether it understands what it is being shown. Nothing in the Omnibus deal changes that fundamental information asymmetry.",
+    "whatNoOneIsSaying": "Germany got the outcome it wanted: industrial AI exempted from the act's scope. Chancellor Merz lobbied for it directly. The official story is that this was about reducing compliance burden overlap with the Machinery Regulation. The actual outcome is that the country with the largest industrial AI deployment in Europe removed itself from the most demanding tier of the law it helped write.",
+    "whoPays": [
+      {
+        "who": "Small EU AI startups",
+        "how": "Large US labs have compliance teams and regulatory relationships. The Omnibus simplification still requires significant legal and technical capacity to navigate. The 16-month extension benefits well-resourced companies most; smaller European AI companies may face the same complexity with less capacity to manage it.",
+        "when": "From now through the 2027 deadline"
+      },
+      {
+        "who": "EU citizens relying on high-risk AI systems",
+        "how": "Biometric systems, employment screening, law enforcement AI, and border management AI all get 16 more months of operation without the new compliance requirements that were supposed to apply in August. The extension is sold as technical. The effect is continued deployment of consequential systems under the old, lighter rules.",
+        "when": "August 2026 through December 2027"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Enforcement Credibility",
+        "whatHappens": "The December 2027 deadline holds. The Commission uses the 16 months to build the governance infrastructure the original deadline assumed was already in place. Model access negotiations with OpenAI and Anthropic produce real evaluation capability. The EU becomes an informed regulator.",
+        "signal": "The Commission publishes binding technical standards for high-risk AI before January 2027, with the machinery implementing acts completed on schedule."
+      },
+      {
+        "name": "Death by Delay",
+        "whatHappens": "The 2027 deadline faces another extension push, this time led by France or Poland. The Omnibus deal is used as the template: another overnight session, another provisional agreement, another 18 months. The act never reaches enforced compliance.",
+        "signal": "A new Omnibus proposal or member state coalition proposing further deferral appears before mid-2027."
+      },
+      {
+        "name": "Split Compliance",
+        "whatHappens": "OpenAI achieves full EU compliance and uses that status as a competitive advantage over Anthropic, Meta, and Chinese AI providers. Regulators shape the EU market around OpenAI's disclosed architecture. Other labs face harder audits.",
+        "signal": "OpenAI secures EU Commission endorsement or preferred status in public procurement before the 2027 deadline."
+      }
+    ],
+    "whatWouldChange": "If the Commission's technical standards for high-risk AI evaluation, published before 2027, prove specific and enforceable, the delay argument becomes defensible. If the standards remain vague, the delay was the point."
+  }
+}

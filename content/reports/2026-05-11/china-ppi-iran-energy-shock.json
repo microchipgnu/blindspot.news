@@ -1,0 +1,107 @@
+{
+  "id": "china-ppi-iran-energy-shock",
+  "date": "2026-05-11",
+  "generatedAt": "2026-05-11T17:58:00Z",
+  "title": "China's Factory Prices Just Hit a 45-Month High. The Iran War Did It, and Beijing Cannot Undo It.",
+  "subtitle": "China's PPI jumped 2.8% in April, ending 41 months of factory deflation. Cost-push inflation from Iranian oil disruptions is pressuring manufacturer margins in an economy where domestic demand is still weak.",
+  "topic": "economy",
+  "category": "decision",
+  "tags": ["China", "inflation", "Iran", "oil", "PPI", "manufacturing", "economy"],
+  "coverImage": {
+    "url": "https://cassette.sphdigital.com.sg/image/straitstimes/584c00d65f20bf517d86d7f570e011d26edfa8e237203f05bed048d5d9124d25",
+    "local": "/images/reports/2026-05-11/china-ppi-iran-energy-shock.jpg",
+    "credit": "The Straits Times / AFP"
+  },
+  "sources": [
+    {
+      "url": "https://www.straitstimes.com/business/economy/chinas-factory-inflation-hits-post-covid-high-on-iran-war-cost-shock",
+      "publisher": "The Straits Times",
+      "angle": "China's PPI rose 2.8% year-on-year in April, the fastest since July 2022. Consumer inflation also beat expectations at 1.2%. China has officially exited deflation, but analysts say cost-push inflation from Iran war energy shocks does not indicate an improvement in supply-demand balance."
+    },
+    {
+      "url": "https://www.rte.ie/news/business/2026/0511/1572705-chinas-factory-inflation-hits-45-month-high/",
+      "publisher": "RTE News",
+      "angle": "Capital Economics analysts say inflation from Iran war is unlikely to build into a wider reflationary impulse. Price pressures remain narrow in scope. China capped retail fuel price increases to blunt consumer impact but airlines are raising fuel surcharges."
+    },
+    {
+      "url": "https://www.business-standard.com/world-news/china-s-april-producer-inflation-hits-45-month-high-on-energy-price-shock-126051100079_1.html",
+      "publisher": "Business Standard",
+      "angle": "Cost-push inflation lessens urgency for looser monetary policy. Beijing faces a trap: the same war that raised energy costs may undermine the stimulus rationale, leaving manufacturers squeezed between higher input costs and weak domestic demand."
+    },
+    {
+      "url": "https://www.firstpost.com/business/china-inflation-45-month-high-trump-xi-beijing-summit-iran-war-oil-prices-14009769.html",
+      "publisher": "Firstpost",
+      "angle": "The data lands days before the Trump-Xi summit in Beijing. Trump is expected to press Xi on China's approach to Iran, including Beijing's continued purchase of Iranian oil and potential weapons exports. China's inflation problem is also America's leverage problem."
+    }
+  ],
+  "brief": {
+    "actors": ["China", "Iran", "US", "Xi"],
+    "whatHappened": "China's National Bureau of Statistics reported April producer price index data on May 11, showing a 2.8% year-on-year increase, well above the Reuters consensus forecast of 1.6% and the fastest increase since July 2022. The reading ends a 41-month consecutive decline in factory prices that had made China a deflationary force in the global economy. Consumer inflation also surprised to the upside at 1.2%, against a 0.9% forecast. Analysts attributed both readings primarily to elevated energy costs driven by disruptions from the US-Israeli war on Iran, which began in late February. Beijing has capped retail fuel price increases and has not cut interest rates in response, as the cost-push nature of the inflation argues against looser monetary policy.",
+    "bottomLine": "China has exited deflation, but not because its economy recovered. An external war it did not start and cannot end drove up energy costs that its manufacturers cannot pass on to domestic consumers. That is not reflation. That is a margin squeeze.",
+    "hiddenBets": [
+      {
+        "assumption": "China exiting deflation is a macroeconomic positive",
+        "whyItMightBeWrong": "Deflation in China was driven by excess supply and weak domestic demand. Energy-cost-driven PPI inflation does not fix either problem. Chinese manufacturers still face the same overcapacity and the same weak consumer spending. They now face those problems while paying more for inputs. The headline improvement in inflation data may mask continued deterioration in corporate profitability."
+      },
+      {
+        "assumption": "Beijing's energy reserves and diversified supply mix protect China from the Iran shock",
+        "whyItMightBeWrong": "China has cushioned some of the impact, but the April data shows the cushion is not complete. A 2.8% PPI increase on a base of 41 months of deflation represents real cost transmission. If the Iran war continues or escalates and Hormuz disruptions intensify, the gap between what Beijing can absorb and what it must pass on will widen."
+      },
+      {
+        "assumption": "Iran war energy disruptions are a symmetric problem shared by all major economies",
+        "whyItMightBeWrong": "The US and Israel initiated the strikes that disrupted Iranian oil. China, as a major Iranian oil customer, pays the price for a disruption it did not choose and cannot reverse. This asymmetry will feature prominently in Trump-Xi negotiations this week. Beijing has less reason than Washington to want the conflict resolved quickly, because resolution would remove the leverage China currently holds over Iran while also removing the energy disruption argument for demanding a US policy change."
+      }
+    ],
+    "realDisagreement": "The core tension is whether the Trump administration can use China's energy-cost pain to extract concessions at the summit, or whether China's pain actually limits what the US can demand. If China is bleeding from the Iran war's energy impact, it has an incentive to press for resolution but also an incentive to demand US policy changes as the price of cooperation. The US frames the summit as an opportunity to press China on its Iran revenue and weapons flows. China frames the summit as an opportunity to link any cooperation to tariff relief. Both are using the other's vulnerability as leverage simultaneously. The outcome depends on who blinks first on conditionality. Polymarket currently prices a Ukraine peace deal before 2027 at 33%, but the Iran-China-US dynamic at this week's summit is the more immediate variable.",
+    "whatNoOneIsSaying": "The Beijing summit is being framed as a trade negotiation. It is actually an energy negotiation. The US needs China to stop buying Iranian oil to maintain economic pressure on Tehran. China needs lower energy prices to protect its manufacturers. The most direct outcome of the summit would be a deal in which China reduces Iranian oil purchases in exchange for tariff concessions, and the US softens Iran war terms to allow some oil flow back through Hormuz. No official on either side will describe it that way.",
+    "whoPays": [
+      {
+        "who": "Chinese manufacturers in energy-intensive sectors",
+        "how": "Non-ferrous metals, oil and gas processing, and tech equipment producers face rising input costs with limited ability to pass them on to domestic consumers whose spending remains constrained. Margins are compressing. Corporate defaults in these sectors may accelerate.",
+        "when": "Over the next two to three quarters"
+      },
+      {
+        "who": "Chinese workers in export manufacturing",
+        "how": "If manufacturers cannot raise prices domestically and cannot cut input costs, the adjustment falls on labor. Wage freezes or layoffs in manufacturing hubs are the likely transmission mechanism. The NBS's own data shows labor market deterioration.",
+        "when": "Gradual, over the next 12 months"
+      },
+      {
+        "who": "Global importers of Chinese manufactured goods",
+        "how": "China was the deflationary anchor for global manufactured goods prices for three years. If Chinese PPI stays elevated, the deflationary tailwind for global goods inflation reverses. Countries that relied on cheap Chinese imports to offset domestic inflation will lose that buffer.",
+        "when": "Already beginning, will compound through 2026"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Summit Deal",
+        "whatHappens": "Trump and Xi agree on a framework that links Chinese reduction in Iranian oil purchases to US tariff relief. Energy prices stabilize. China's PPI moderates in the second half of 2026 as Iran war oil disruptions ease. Chinese manufacturers get partial relief.",
+        "signal": "Joint communique from the May 14 Beijing summit includes language on coordinated approach to Middle East energy stability alongside a tariff schedule."
+      },
+      {
+        "name": "Summit Failure",
+        "whatHappens": "No deal on Iran or tariffs. China continues Iranian oil purchases. PPI stays elevated above 2%. Beijing cuts interest rates anyway to support growth, accepting the risk of stagflation in the manufacturing sector. Manufacturers continue to squeeze labor.",
+        "signal": "PBOC announces a 25 basis point rate cut within 30 days of the summit without tariff relief."
+      },
+      {
+        "name": "Hormuz Escalation",
+        "whatHappens": "Iran-US ceasefire collapses before or after the summit. Hormuz disruptions intensify. Chinese energy costs spike further. PPI approaches 5% by Q3. Beijing faces a genuine policy crisis: stimulate domestic demand and accept higher inflation, or hold rates and accept a manufacturing recession.",
+        "signal": "Brent crude breaks $120 on renewed Hormuz shipping attacks in the week following the summit."
+      }
+    ],
+    "whatWouldChange": "If China announces a verifiable reduction in Iranian oil imports, it signals the summit produced real concessions and energy price relief is coming. If the summit produces no such commitment, cost-push inflation is structural for the remainder of the Iran conflict.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will China's annual inflation in 2026 be between 1.1% and 1.5%?",
+        "url": "https://polymarket.com/event/china-annual-inflation-2026",
+        "probability": 0.365
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will China's annual inflation in 2026 be at least 2.5%?",
+        "url": "https://polymarket.com/event/china-annual-inflation-2026",
+        "probability": 0.103
+      }
+    ]
+  }
+}

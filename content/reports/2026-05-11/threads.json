@@ -62,6 +62,49 @@
           "relationship": "The Cerebras IPO's 89.5% probability of a $50B+ valuation reflects a market betting heavily on continued AI infrastructure investment. But Fed rate policy at 3.5-3.75% with no near-term cut is exactly the environment that historically compresses growth stock valuations. The AI market is betting on continued easy-money-era pricing in a high-rate environment."
         }
       ]
+    },
+    {
+      "id": "election-control-infrastructure",
+      "title": "Three Different Levers for Controlling Who Votes",
+      "description": "Today's voting rights stories form a single architecture, not three separate events. The SCOTUS ruling killed the Voting Rights Act's structural protection and triggered immediate map redrawing. The mifepristone stay expiring disproportionately affects women in states without mail abortion access, many of whom are Black women in the same gerrymandered districts. And Trump's USPS executive order deputizes a bankrupt federal agency to control mail ballot eligibility before the 2026 midterms. Each move works at a different point in the election pipeline: redistricting shapes who is in which district, abortion access shapes who is motivated to turn out, and USPS controls who can receive a ballot at home. Together they constitute an integrated infrastructure change, not three unrelated controversies.",
+      "type": "cause-effect",
+      "stories": ["scotus-voting-rights-gerrymandering", "mifepristone-scotus-deadline", "trump-usps-mail-ballot-gatekeeper"],
+      "connections": [
+        {
+          "from": "scotus-voting-rights-gerrymandering",
+          "to": "trump-usps-mail-ballot-gatekeeper",
+          "relationship": "The VRA ruling removed federal judicial oversight of redistricting, meaning the maps now being drawn will stand without the Section 2 challenge that would previously have been available. The USPS order adds a second layer: even in newly gerrymandered districts where progressive voters are packed, mail ballot eligibility can be further filtered by DHS rolls."
+        },
+        {
+          "from": "mifepristone-scotus-deadline",
+          "to": "scotus-voting-rights-gerrymandering",
+          "relationship": "Abortion access restrictions track closely with the same Southern states where the VRA ruling enables aggressive gerrymandering. Black women in states like Louisiana and Texas face simultaneous loss of mail abortion access and diluted voting power as their districts are redrawn. The two restrictions are legally distinct but politically co-designed."
+        }
+      ]
+    },
+    {
+      "id": "china-splits-the-world",
+      "title": "China Is Building a Parallel Everything",
+      "description": "Four stories today are about the same underlying reality: China is constructing parallel infrastructure, in chips, in AI models, in energy supply chains, and in summit leverage, that reduces its dependence on Western systems in ways the West is still describing as 'the China threat' rather than 'the split that already happened.' Nvidia's China share is zero. DeepSeek V4 runs on Huawei chips Day 0. China's PPI spike came from Iranian oil it continues to buy despite sanctions. And the Beijing summit positions China as a leverage holder, not a supplicant. The frame of these stories as separate issues obscures that China has already executed a structural decoupling that the US policy community is still trying to prevent.",
+      "type": "tension-cluster",
+      "stories": ["deepseek-china-chip-parity", "china-ppi-iran-energy-shock", "china-rare-earths-summit", "china-sanctions-shipping-shield"],
+      "connections": [
+        {
+          "from": "deepseek-china-chip-parity",
+          "to": "china-rare-earths-summit",
+          "relationship": "US chip export controls were supposed to keep China behind in AI. DeepSeek V4 running on Huawei Day 0 means the chip lever did not work. China arrives at the summit having already closed the AI chip gap, which removes the US technology superiority argument from the summit's leverage calculus."
+        },
+        {
+          "from": "china-sanctions-shipping-shield",
+          "to": "china-ppi-iran-energy-shock",
+          "relationship": "The April 24 sanctions targeted China's Iranian oil import infrastructure. China's PPI data shows those sanctions did not prevent energy cost transmission: China is still absorbing the Iran war's oil shock because it continues to buy Iranian oil through the sanctioned entities and through the shadow fleet. The sanctions are leaky; the pain is real."
+        },
+        {
+          "from": "china-ppi-iran-energy-shock",
+          "to": "china-rare-earths-summit",
+          "relationship": "China's energy cost spike from the Iran war creates a domestic political imperative to resolve the summit productively. Xi needs tariff relief to offset manufacturer margin pressure. That domestic urgency both strengthens China's negotiating position (it can offer Hormuz cooperation) and weakens it (it needs a deal)."
+        }
+      ]
     }
   ]
 }

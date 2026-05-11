@@ -1,0 +1,93 @@
+{
+  "id": "samsung-strike-supply-chain",
+  "date": "2026-05-11",
+  "generatedAt": "2026-05-11T18:00:00Z",
+  "title": "Samsung Faces Its First Strike in 88 Years. Google, Apple, and Qualcomm Are Worried.",
+  "subtitle": "A 18-day planned walkout over performance bonuses could squeeze the memory supply chain at the worst possible moment for global AI hardware demand.",
+  "topic": "economy",
+  "category": "conflict",
+  "tags": ["Samsung", "Korea", "semiconductor", "strike", "supply chain", "AI", "memory chips"],
+  "coverImage": {
+    "url": "https://cphoto.asiae.co.kr/listimglink/1/2026051110233557347_1778462615.jpg",
+    "local": "/images/reports/2026-05-11/samsung-strike-supply-chain.jpg",
+    "credit": "Asia Business Daily"
+  },
+  "sources": [
+    {
+      "url": "https://www.asiae.co.kr/en/article/2026051109301157448",
+      "publisher": "Asia Business Daily",
+      "angle": "AMCHAM, whose members include Google, Apple, and Qualcomm, issued an official statement warning the strike could damage Korea's investment credibility and accelerate supply chain diversification away from Korean chipmakers. Internal union conflict has emerged as a variable in the outcome."
+    },
+    {
+      "url": "https://www.koreaherald.com/article/10735141",
+      "publisher": "Korea Herald",
+      "angle": "The planned walkout is 18 days, set for May 21. Workers demand removal of caps on performance bonuses and a 15% share of operating profit. AmCham survey shows Korea has already dropped to third place among preferred Asian regional HQ destinations, behind Singapore and Hong Kong."
+    },
+    {
+      "url": "https://en.yna.co.kr/view/AEN20260511005000320",
+      "publisher": "Yonhap News Agency",
+      "angle": "The largest union reiterated its demand for 15% of operating profit as performance pay. Management has not moved on the core demand. Last-ditch talks began May 11-12 with mediation."
+    },
+    {
+      "url": "https://en.sedaily.com/finance/2026/05/10/samsung-strike-could-rattle-1754-suppliers-draw-global-ib-attention",
+      "publisher": "Seoul Economic Daily",
+      "angle": "A Samsung strike would affect 1,754 suppliers in its immediate supply chain. International investment banks are monitoring the situation. Memory chip prices could spike given existing AI demand-driven supply tightness."
+    }
+  ],
+  "brief": {
+    "actors": ["Samsung", "Korea"],
+    "whatHappened": "Samsung Electronics faces its first general strike since the company's founding 88 years ago. The largest employee union has set May 21 as the start date for an 18-day walkout if labor and management cannot agree on a performance bonus structure. The union's core demand is that 15% of operating profit be distributed as performance pay and that caps on bonuses be removed. Management has not moved. Last-ditch mediation talks began May 11 and 12. The American Chamber of Commerce in Korea, whose members include Google, Apple, and Qualcomm, issued an official statement warning the strike could damage Korean investment credibility and trigger supply chain diversification. Samsung is the world's largest memory chip producer and a dominant supplier to global AI hardware.",
+    "bottomLine": "Samsung's workers are asking for a share of profits that exist because of AI demand they helped enable. Management is refusing. The company that supplies memory for almost every AI chip in the world is ten days from a production stoppage.",
+    "hiddenBets": [
+      {
+        "assumption": "A short strike would have limited impact on memory supply",
+        "whyItMightBeWrong": "Samsung's fabs run continuous processes. Even a partial walkout at Pyeongtaek, the world's largest chip campus, disrupts yield and quality control in ways that take weeks to recover from. The 1,754-supplier dependency means even indirect disruptions spread. An 18-day strike is not short."
+      },
+      {
+        "assumption": "Last-ditch mediation talks will succeed",
+        "whyItMightBeWrong": "The union reiterated its 15% demand on the same day talks were announced. Internal union conflict, with some factions demanding more aggressive action, creates a dynamic where union leadership may be unable to accept a compromise even if it wants to. The internal split gives management less room to negotiate with, not more."
+      },
+      {
+        "assumption": "The strike is primarily a labor dispute internal to Korea",
+        "whyItMightBeWrong": "AMCHAM's official statement transforms the dispute's frame. When the chamber that represents Google and Apple says Korea's investment credibility is at stake, it is applying pressure to both sides via geopolitical reputation costs. Samsung's management is now negotiating not just with its union but with the implicit threat that multinationals will accelerate diversification to SK Hynix, Micron, or TSMC subsidiaries."
+      }
+    ],
+    "realDisagreement": "The genuine tension is between two claims to the value Samsung's workers created. The union's position is that AI demand for HBM memory and advanced DRAM generated record-level operating profits, and workers deserve a share commensurate with that contribution. Management's position is that performance bonuses must be capped to maintain financial flexibility for the enormous capital expenditure required to stay at the frontier of chip design. Both are defensible. Samsung cannot simultaneously be the world's most critical AI memory supplier and a company that cannot afford to pay workers who built that position. But it also cannot fund the next generation of fabs, which costs tens of billions of dollars, while distributing 15% of operating profit in cash. The constraint is real. The question is who absorbs it.",
+    "whatNoOneIsSaying": "Samsung's chip competitiveness relative to SK Hynix has declined over the past three years, particularly in HBM memory used in Nvidia and AMD AI accelerators. The performance bonus dispute is partly a proxy fight over that decline. Workers are demanding a share of profits generated before the competitive slippage became apparent. Management is reluctant to entrench a profit-sharing formula that assumes continued dominance Samsung can no longer guarantee.",
+    "whoPays": [
+      {
+        "who": "AI hardware buyers, including hyperscalers",
+        "how": "A Samsung production stoppage tightens already constrained HBM and advanced DRAM supply at exactly the moment when AI infrastructure buildout is accelerating. Memory price spikes flow through to AI server costs within one to two quarters.",
+        "when": "If the strike proceeds May 21 and lasts more than a week, effects visible in Q3 2026"
+      },
+      {
+        "who": "Samsung's 1,754 direct suppliers",
+        "how": "Suppliers running just-in-time inventory models cannot absorb a multi-week fab shutdown. Smaller component makers face cash flow crises immediately. Some may not recover their Samsung contracts even after the strike ends.",
+        "when": "Immediately upon strike commencement"
+      },
+      {
+        "who": "Korea's semiconductor investment position",
+        "how": "AmCham's survey already shows Korea has slipped to third among Asian regional HQ destinations. A high-profile strike at its flagship company, with explicit AMCHAM pressure, gives multinationals a public justification for accelerating geographic diversification of supply chains.",
+        "when": "Medium-term, 12 to 24 months for investment decisions to shift"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Last-Minute Deal",
+        "whatHappens": "Mediation on May 11-12 produces a framework that partially meets union demands, perhaps a lower profit share percentage or a one-time bonus rather than a structural change. Union leadership accepts. The May 21 strike is averted. Memory supply is unaffected.",
+        "signal": "Joint statement from Samsung and union leaders before May 18 announcing resumed wage talks with a specific schedule."
+      },
+      {
+        "name": "Strike Begins, Ends Quickly",
+        "whatHappens": "The May 21 walkout proceeds but internal union divisions produce a return-to-work vote within the first week. Production disruption is contained. Memory prices spike briefly and then normalize. AMCHAM issues a follow-up statement praising resolution.",
+        "signal": "A dissident union faction calls a separate return-to-work vote within the first five days of the strike."
+      },
+      {
+        "name": "Extended Shutdown",
+        "whatHappens": "Mediation fails. Strike proceeds for the full 18 days or longer. Pyeongtaek fab output drops 20-30%. HBM prices spike. SK Hynix and Micron gain market share. AMCHAM's supply chain diversification warnings accelerate. Korean government intervenes.",
+        "signal": "No joint statement by May 18 and no emergency government mediation announcement."
+      }
+    ],
+    "whatWouldChange": "If Samsung management offers a profit-sharing formula tied to exceeding a specific operating profit threshold rather than a flat percentage, it would address the capital expenditure concern while giving workers a credible upside claim. Neither side has proposed this structure publicly."
+  }
+}

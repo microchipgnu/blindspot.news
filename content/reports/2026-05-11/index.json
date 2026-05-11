@@ -79,5 +79,48 @@
       "category": "power",
       "topic": "geopolitics"
     }
+    ,
+    {
+      "id": "deepseek-china-chip-parity",
+      "title": "China's AI Chips Achieved Day Zero Parity with Nvidia. Jensen Huang Says His China Share Is Now Zero.",
+      "subtitle": "When DeepSeek V4 launched, Huawei, Cambricon and Moore Threads ran it the same day. That ended Nvidia's real advantage in China: timing.",
+      "category": "power",
+      "topic": "tech"
+    },
+    {
+      "id": "eu-ai-act-omnibus-rewrite",
+      "title": "The EU Just Rewrote Its AI Law Before It Took Effect. OpenAI Is Cooperating. Anthropic Is Not.",
+      "subtitle": "The Digital Omnibus deal pushed high-risk AI compliance to 2027 at 4:30am after talks collapsed twice. OpenAI is offering EU regulators model access. Anthropic is holding off.",
+      "category": "power",
+      "topic": "tech"
+    },
+    {
+      "id": "trump-usps-mail-ballot-gatekeeper",
+      "title": "Trump Made the Post Office a Gatekeeper for Who Can Vote by Mail. USPS Is Losing $2 Billion a Quarter.",
+      "subtitle": "The March 31 executive order gives USPS the power to flag or reject mail ballots tied to people not on DHS-curated voter rolls. Courts are watching. So is USPS's board, which needs Trump's help to stay solvent.",
+      "category": "power",
+      "topic": "politics"
+    },
+    {
+      "id": "schroeder-ukraine-mediator-rejected",
+      "title": "Putin Proposed His Friend Schroeder as Ukraine Mediator. Every Party That Matters Rejected Him Within 24 Hours.",
+      "subtitle": "Germany, Ukraine, and the EU all said no. That is not the interesting part. The interesting part is why Putin floated a name he knew would be refused.",
+      "category": "conflict",
+      "topic": "geopolitics"
+    },
+    {
+      "id": "china-ppi-iran-energy-shock",
+      "title": "China's Factory Prices Just Hit a 45-Month High. The Iran War Did It, and Beijing Cannot Undo It.",
+      "subtitle": "China's PPI jumped 2.8% in April, ending 41 months of factory deflation. Cost-push inflation from Iranian oil disruptions is pressuring manufacturer margins in an economy where domestic demand is still weak.",
+      "category": "decision",
+      "topic": "economy"
+    },
+    {
+      "id": "samsung-strike-supply-chain",
+      "title": "Samsung Faces Its First Strike in 88 Years. Google, Apple, and Qualcomm Are Worried.",
+      "subtitle": "A 18-day planned walkout over performance bonuses could squeeze the memory supply chain at the worst possible moment for global AI hardware demand.",
+      "category": "conflict",
+      "topic": "economy"
+    }
   ]
 }
