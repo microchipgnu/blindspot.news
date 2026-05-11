@@ -1,0 +1,98 @@
+{
+  "id": "mifepristone-scotus-deadline",
+  "date": "2026-05-11",
+  "generatedAt": "2026-05-11T13:22:00Z",
+  "title": "The Mifepristone Stay Expires Today. SCOTUS Has Not Acted.",
+  "subtitle": "Justice Alito's one-week pause on the Fifth Circuit's mail-order abortion ban runs out May 11. If the court stays silent, two-thirds of American abortions stop being accessible by mail overnight.",
+  "topic": "society",
+  "category": "ethics",
+  "tags": ["mifepristone", "abortion", "SCOTUS", "FDA", "reproductive-rights", "Louisiana"],
+  "coverImage": {
+    "url": "https://www.rollingstone.com/wp-content/uploads/2026/05/Mifepristone-rulings.jpg",
+    "local": "/images/reports/2026-05-11/mifepristone-scotus-deadline.jpg",
+    "credit": "Rolling Stone"
+  },
+  "sources": [
+    {
+      "url": "https://time.news/louisiana-v-fda-access-to-mifepristone-back-at-the-supreme-court/",
+      "publisher": "Time News",
+      "angle": "A physician's perspective on the clinical stakes: ending mail distribution does not end medication abortion, it pushes patients toward misoprostol-only regimens that have higher failure rates and more severe side effects. Covers the standing dispute and the FDA's internal timeline."
+    },
+    {
+      "url": "https://www.rollingstone.com/politics/politics-features/mifepristone-abortion-medication-supreme-court-1235560055/",
+      "publisher": "Rolling Stone",
+      "angle": "Focus on the legal mechanism: the FDA chose not to appeal to SCOTUS after the Fifth Circuit ruled, leaving only the drug manufacturers to seek a stay. Calls out the Trump FDA's 'review' of mifepristone as a political maneuver that gave Louisiana the opening it needed."
+    },
+    {
+      "url": "https://www.liveaction.org/news/over-100-republican-lawmakers-scotus-amicus-brief",
+      "publisher": "Live Action",
+      "angle": "Over 100 Republican lawmakers filed an amicus brief supporting Louisiana's position. Senate Majority Leader Thune and HELP Committee Chairman Cassidy explicitly back reinstating the in-person requirement. This represents the Republican legislative posture going into a midterm year."
+    },
+    {
+      "url": "https://www.yahoo.com/news/articles/california-abortion-pill-suppliers-plot-140110304.html",
+      "publisher": "Yahoo News / Fox News",
+      "angle": "California suppliers say they are 'ready to switch in a day' to misoprostol-only prescriptions if mifepristone mail is banned. The workaround exists, but it provides a clinically inferior product. Shows how blue-state providers are adapting without waiting for the court."
+    },
+    {
+      "url": "https://www.ky3.com/2026/05/09/arkansas-ag-griffin-joins-multistate-challenge-fda-abortion-pill-rule/",
+      "publisher": "KY3 / KAIT",
+      "angle": "23 Republican state AGs filed a supporting brief. The breadth of state-level coordination shows this is not just Louisiana's fight: the coalition is organized to make mail-order abortion permanently unavailable."
+    }
+  ],
+  "brief": {
+    "actors": ["SCOTUS", "Alito", "FDA", "Louisiana", "Fifth Circuit", "Danco Labs", "GenBioPro", "California"],
+    "whatHappened": "On May 1, the Fifth Circuit Court of Appeals ruled in Louisiana v. FDA that the Biden-era FDA rule allowing mifepristone to be dispensed by mail violated the Administrative Procedure Act. That ruling would ban mail-order prescription of the drug used in roughly two-thirds of all U.S. abortions. Mifepristone manufacturers Danco Labs and GenBioPro appealed to the Supreme Court, and on May 4 Justice Alito issued a one-week administrative stay. That stay expires today, May 11, and as of this writing the Supreme Court has not acted further. Louisiana's challenge is backed by over 100 Republican lawmakers and 23 state attorneys general. The Trump FDA, which is conducting its own review of mifepristone, did not submit its own appeal to SCOTUS.",
+    "bottomLine": "The FDA's silence is not neutrality: by declining to defend its own rule, the Trump administration handed Louisiana the case, and now the court decides whether a drug that accounts for two-thirds of American abortions can still be mailed.",
+    "hiddenBets": [
+      {
+        "assumption": "The Supreme Court will act before the deadline expires to preserve the status quo.",
+        "whyItMightBeWrong": "Alito issued the stay, not the full court. Nothing requires the court to extend it. If a majority believes the Fifth Circuit was correct, letting the stay expire is itself a decision. The court can make law by inaction."
+      },
+      {
+        "assumption": "Louisiana's standing claim is legally weak and will fail on that basis.",
+        "whyItMightBeWrong": "Louisiana argued its standing on $92,000 in Medicaid costs for two women who had complications after receiving mailed mifepristone from out of state. That is a thin injury. But the Trump DoJ chose not to challenge Louisiana's standing, and the Fifth Circuit accepted it. If SCOTUS agrees, any state can challenge any federal drug policy that generates out-of-state patients."
+      },
+      {
+        "assumption": "Ending mail distribution would effectively restrict abortion access nationwide.",
+        "whyItMightBeWrong": "California suppliers say they can switch to misoprostol-only within a day. About 55% of telehealth abortions are already prescribed to patients in states with bans, using shield laws. The network adapts. But the clinical inferiority of misoprostol-only is real: higher failure rates, more intense side effects, longer processes. It is not a seamless substitute."
+      }
+    ],
+    "realDisagreement": "The core tension is whether federal drug regulation preempts state abortion bans when the drug crosses state lines. Louisiana says it has sovereign authority to enforce its abortion ban even over medications mailed from California by a California doctor under California law. The FDA says its drug approval is federal and cannot be restricted by individual states' medical preferences. Both positions have genuine weight. The question is whether federal drug law is a ceiling that states cannot exceed or a floor that states can build on. The current court has narrowed federal preemption in many contexts. If it applies that logic here, every state can effectively set its own FDA rules for any drug it finds objectionable.",
+    "whatNoOneIsSaying": "The Trump FDA announced a 'review' of mifepristone's safety in September 2025. That review is still ongoing. The Fifth Circuit used the FDA's own announcement as evidence the agency had conceded its prior approval was inadequate. The administration's review process is simultaneously the basis for the legal attack on the drug. The FDA is undermining its own authority by signaling it might reconsider a 25-year-old, extensively studied approval. That is not regulatory caution; it is a strategy.",
+    "whoPays": [
+      {
+        "who": "Women in states with abortion bans who use telehealth services in blue states",
+        "how": "55% of telehealth abortions serve patients in ban states. If mifepristone mailing is blocked nationally, these patients lose access to the more effective drug. They can access misoprostol-only regimens through shield-law providers, but with higher failure rates and more severe side effects.",
+        "when": "Immediate if SCOTUS allows the Fifth Circuit ruling to take effect."
+      },
+      {
+        "who": "Telehealth abortion providers",
+        "how": "Their entire operational model depends on mailing mifepristone across state lines. A national mail ban forces them to either pivot to a legally available but clinically inferior protocol or shut down services to ban-state patients.",
+        "when": "Immediate."
+      },
+      {
+        "who": "Drug manufacturers Danco Labs and GenBioPro",
+        "how": "They are the only parties who asked the Supreme Court to act because the FDA declined to. If the court rules against them, their market for the most widely used abortion drug is restricted to in-person pharmacy dispensing in states where abortion is legal. Revenue impact is significant.",
+        "when": "Medium-term through 2026 litigation."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Court extends the stay",
+        "whatHappens": "SCOTUS issues a broader stay and agrees to hear the case in the fall term, keeping mifepristone mail access intact through at least 2027 while the case is briefed and argued.",
+        "signal": "A stay order from the full court today or within the next 48 hours, citing the need for full briefing before the dramatic change in access."
+      },
+      {
+        "name": "Court lets the ban take effect",
+        "whatHappens": "The Fifth Circuit ruling becomes operative nationwide. Mifepristone can no longer be mailed. Telehealth providers rapidly pivot to misoprostol-only. Access continues but at lower quality. Multiple states pass legislation targeting the misoprostol-only workaround.",
+        "signal": "Court silence past the May 11 deadline, followed by FDA guidance removing mail-dispensing from the approved REMS."
+      },
+      {
+        "name": "Political settlement via FDA review",
+        "whatHappens": "The Trump FDA concludes its review and imposes new in-person requirements administratively, rendering the litigation moot. The administration gets the policy result without a Supreme Court ruling, avoiding a high-profile defeat or a precedent it cannot control.",
+        "signal": "An FDA announcement of 'updated REMS requirements' for mifepristone in the next 30-60 days."
+      }
+    ],
+    "whatWouldChange": "If a future court found that Louisiana's $92,000 Medicaid injury was insufficient to grant standing, the entire Fifth Circuit ruling collapses and mifepristone access is restored. Or, if the FDA finishes its review and issues a science-based finding that mail-order dispensing is safe, that would provide legal cover for courts to reject the Fifth Circuit's reasoning."
+  }
+}

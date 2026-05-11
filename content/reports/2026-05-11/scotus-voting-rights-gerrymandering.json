@@ -1,0 +1,99 @@
+{
+  "id": "scotus-voting-rights-gerrymandering",
+  "date": "2026-05-11",
+  "generatedAt": "2026-05-11T13:20:00Z",
+  "title": "The Supreme Court Killed Section 2. Now Every State Is Redrawing Maps.",
+  "subtitle": "The 6-3 ruling in Louisiana v. Callais used manipulated DoJ data to gut the last protection in the Voting Rights Act. Louisiana already suspended live elections.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["SCOTUS", "voting-rights", "redistricting", "gerrymandering", "Louisiana", "elections"],
+  "coverImage": {
+    "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/05/10/ade4eb69-8c2f-4f12-a0ba-d308f6eb365a/thumbnail/1200x630/fbe89ac6a4afd66687c4a944a8b74400/vote-here-1280.jpg",
+    "local": "/images/reports/2026-05-11/scotus-voting-rights-gerrymandering.jpg",
+    "credit": "CBS News"
+  },
+  "sources": [
+    {
+      "url": "https://www.armwoodlaw.com/2026/05/supreme-courts-voting-rights-act-ruling.html",
+      "publisher": "The Guardian (via Armwood Law Blog)",
+      "angle": "The Guardian found that Justice Alito's key data point about Black turnout in Louisiana was based on a methodology election experts call misleading. The DoJ brief Alito cited used total voting-age population instead of the citizen voting-age population, inflating Black turnout figures to reach the conclusion that the Voting Rights Act's protections are no longer necessary."
+    },
+    {
+      "url": "https://www.cbsnews.com/news/scotus-ruling-ushers-in-a-new-era-of-gerrymandering/",
+      "publisher": "CBS News",
+      "angle": "A broad look at the downstream consequences: Republican-controlled states are rushing to redraw maps, a gerrymandering arms race has broken out coast to coast, and legal scholars warn this will produce a more polarized, extremist Congress."
+    },
+    {
+      "url": "https://www.cbsnews.com/news/louisiana-gov-on-supreme-court-decision-and-suspending-house-primary-elections-60-minutes-transcript/",
+      "publisher": "CBS News / 60 Minutes",
+      "angle": "Louisiana Gov. Jeff Landry suspended active primaries mid-vote, discarding 45,000 already-cast ballots. He describes this as a procedural necessity; Black voters describe it as a preview of permanent disenfranchisement."
+    },
+    {
+      "url": "https://blacktimes.com/voting-rights-act-dismantled/",
+      "publisher": "Black Times",
+      "angle": "A historical account placing Louisiana v. Callais as the final chapter of a 60-year legal campaign: 2013 (Shelby County gutted Section 5), 2021 (Brnovich weakened Section 2 challenges), 2024 (Alexander blurred race vs. partisan intent), and now 2026 completes the dismantlement."
+    },
+    {
+      "url": "https://www.aol.com/news/supreme-court-decision-vra-sent-202156449.html",
+      "publisher": "The Hill",
+      "angle": "Democratic senators call the ruling equivalent to Plessy v. Ferguson. Justice Kagan's dissent says Section 2 is now 'all but a dead letter.'"
+    }
+  ],
+  "brief": {
+    "actors": ["SCOTUS", "Alito", "Kagan", "Louisiana", "DoJ", "Trump", "Republicans", "Black voters"],
+    "whatHappened": "On April 29, the Supreme Court ruled 6-3 in Louisiana v. Callais that the state's second majority-Black congressional district was an unconstitutional racial gerrymander. Writing for the majority, Justice Alito declared Section 2 of the Voting Rights Act now only covers intentional discrimination and cited Black voter turnout data provided by the Trump DoJ. A Guardian review found that data used a non-standard methodology that inflated Black turnout. Louisiana Gov. Jeff Landry immediately declared a state of emergency and suspended congressional primaries that were already underway, discarding 45,000 cast ballots. Within days, Tennessee, Virginia, and Alabama began redrawing maps under the new legal framework.",
+    "bottomLine": "The Supreme Court used fabricated math to declare racism solved, and every Republican-controlled state got the memo the same week.",
+    "hiddenBets": [
+      {
+        "assumption": "The ruling is simply applying neutral constitutional principles to race-conscious policy.",
+        "whyItMightBeWrong": "The majority's key factual premise, that Black and white voter turnout have reached parity in Louisiana, was derived from a methodology that election scientists specifically flag as unreliable. The DoJ supplied that number. The court treated it as settled science."
+      },
+      {
+        "assumption": "States can now freely defend racial gerrymanders by relabeling them as partisan.",
+        "whyItMightBeWrong": "Race and party affiliation are so tightly correlated in Southern states that the distinction is largely fictional. A map drawn to elect Republicans in Louisiana is necessarily a map drawn to reduce Black representation. The court's framework creates a paper test that every future gerrymander will pass."
+      },
+      {
+        "assumption": "Democrats can fight back effectively through their own redistricting in blue states.",
+        "whyItMightBeWrong": "California and New York have independent redistricting commissions that constrain partisan manipulation. The asymmetry is real: Republican states redraw immediately, while institutional constraints slow Democratic responses. Obama publicly endorsed fighting back, but the tools available are weaker on the left."
+      }
+    ],
+    "realDisagreement": "The actual split is not about racism but about who decides what counts as a fair election map. Conservatives argue the Constitution mandates race-blindness in government action, meaning any district drawn with race in mind violates the 14th Amendment, regardless of purpose. Liberals argue that formally race-blind rules produce racially discriminatory outcomes in environments with documented histories of exclusion, meaning race-consciousness in remedy is required for genuine equality. Both positions have logical coherence. The problem is they produce incompatible election maps. The court chose the first, which in practice means the party that holds more state legislatures controls the rules for how everyone votes. That is not a neutral position; it is a particular one that advantages whoever holds power at a given moment.",
+    "whatNoOneIsSaying": "Louisiana suspended an ongoing election and discarded 45,000 ballots without a court order requiring it. No law forced Landry to cancel the primaries. He chose to. The ruling gave him cover, but the decision to throw out live ballots was his own. That is something more than redistricting.",
+    "whoPays": [
+      {
+        "who": "Black voters in Southern states",
+        "how": "Majority-minority districts across Louisiana, Tennessee, Alabama, and Virginia are being dissolved. In Louisiana, no Black candidate has ever won a statewide race in a majority-white district. The practical effect is the elimination of Black congressional representation in states where it currently exists.",
+        "when": "Immediate: maps being redrawn now for November 2026 midterms."
+      },
+      {
+        "who": "Voters who cast early ballots in Louisiana",
+        "how": "45,000 ballots were discarded. Those voters must re-cast in November, assuming the new map is ready. There is no guarantee their second ballot will be cast in anything resembling the district they voted in the first time.",
+        "when": "Immediate."
+      },
+      {
+        "who": "Moderate Republicans in competitive House districts",
+        "how": "Safe districts created by gerrymandering produce primary electorates that reward extremism. Georgetown law professor Stephen Vladeck predicts a more polarized House. Moderate Republicans in marginal seats face primary challengers emboldened by partisan lock-in.",
+        "when": "Medium-term: 2026 midterms and 2028."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Gerrymandering arms race",
+        "whatHappens": "Red states redraw to maximize Republican seats; California and other blue states attempt to undo their independent commissions or pass new laws to draw aggressive Democratic maps. The House becomes more partisan and less responsive to competitive districts.",
+        "signal": "Watch whether California's Governor Newsom follows through on his redistricting proposal and whether courts allow it."
+      },
+      {
+        "name": "Federal legislative response",
+        "whatHappens": "Democrats campaign on restoring the Voting Rights Act as a central issue in 2026. If they win a House majority, they attempt to pass a new Section 2 or Section 5 that uses criteria the current court cannot dismiss. The court then faces a choice of whether to strike down the new law.",
+        "signal": "Watch whether VRA restoration becomes a Senate floor vote before the election rather than just a talking point."
+      },
+      {
+        "name": "Constitutional entrenchment",
+        "whatHappens": "Republican gains in the 2026 House lock in the current redistricting maps for the rest of the decade. Section 2 litigation becomes futile under the new standard. The window for legislative remedy closes until at least 2028.",
+        "signal": "Watch the Tennessee, Alabama, and Virginia map fights in federal court. If injunctions fail there, the entrenchment scenario is underway."
+      }
+    ],
+    "whatWouldChange": "If a federal court finds that the DoJ's turnout data was materially false and that Alito's reliance on it invalidates the factual premises of the ruling, that could open a challenge to Louisiana v. Callais itself. Or, if a Republican map in a contested state is successfully defended as partisan but results in documented racial exclusion that exceeds even partisan intent, the distinction the court drew might collapse in practice.",
+    "markets": []
+  }
+}
