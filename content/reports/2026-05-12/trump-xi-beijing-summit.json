@@ -1,0 +1,118 @@
+{
+  "id": "trump-xi-beijing-summit",
+  "date": "2026-05-12",
+  "generatedAt": "2026-05-12T08:20:00Z",
+  "title": "The Summit Without a Spine",
+  "subtitle": "Trump flies to Beijing Tuesday. Both sides want stability. Neither side can say what they actually need from the other.",
+  "topic": "geopolitics",
+  "category": "power",
+  "tags": ["Trump", "Xi", "China", "trade", "tariffs", "AI", "chips", "Taiwan", "Iran", "summit"],
+  "coverImage": {
+    "url": "https://www.bnnbloomberg.ca/resizer/v2/6OWJKCMMQH6ZZKJKHFPU7NBVE4.jpg?smart=true&auth=7d21ada787b96f3d873e8070cc297ad6f94f98a4027807f6eec82c8ebb87c3e0&width=1200&height=630",
+    "local": "/images/reports/2026-05-12/trump-xi-beijing-summit.jpg",
+    "credit": "BNN Bloomberg / AP"
+  },
+  "sources": [
+    {
+      "url": "https://www.bbc.com/news/articles/c3rz75rgn8zo",
+      "publisher": "BBC",
+      "angle": "First US presidential visit to China in nearly a decade, framed as a test of the fragile October 2025 trade truce. Notes Boeing, Citigroup, and Qualcomm executives accompanying Trump for potential commercial deals"
+    },
+    {
+      "url": "https://www.washingtonpost.com/business/2026/05/11/trump-xi-china-summit-trade-tariffs/b678d37c-4d95-11f1-97e7-22c6c29ff0d8_story.html",
+      "publisher": "Washington Post",
+      "angle": "Administration officials briefing that 'modest policy announcements' are expected. No major breakthroughs. The summit is about keeping economic relations stable while core tensions over rare earths, AI, and Taiwan remain unresolved"
+    },
+    {
+      "url": "https://www.scmp.com/tech/policy/article/3353161/huaweis-secretive-chip-lab-featured-prime-time-tv-ahead-trumps-trip-china",
+      "publisher": "South China Morning Post",
+      "angle": "Huawei's chip research lab featured on Chinese national TV for the first time, just before the summit. Beijing sending a signal: we are developing domestic chip capability regardless of what happens in Beijing this week"
+    },
+    {
+      "url": "https://thediplomat.com/2026/05/the-software-layer-of-china-us-tech-diplomacy/",
+      "publisher": "The Diplomat",
+      "angle": "The export control architecture was built for hardware. Software, AI models, and algorithmic knowledge transfer are invisible to current controls. The summit will not address this, but it is the actual battleground"
+    },
+    {
+      "url": "https://insights.made-in-china.com/US-Supreme-Court-Strikes-Down-Trump-s-Tariffs-What-it-Means-for-the-US-China-D-tente_LTofbrVcJEIX.html",
+      "publisher": "Made-in-China Insights",
+      "angle": "Supreme Court tariff ruling context: with IEEPA and Section 122 tariffs under judicial challenge, Trump arrives in Beijing with weakened unilateral leverage. China knows the tariff wall has legal cracks"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Xi", "China", "Huawei", "Qualcomm", "Boeing", "SCOTUS"],
+    "whatHappened": "US President Donald Trump departs Tuesday for a May 13-15 state visit to Beijing, the first US presidential trip to China in nearly a decade. The visit follows the October 2025 South Korea summit that paused a 100-plus percent tariff war between the two countries. Major US executives from Boeing, Citigroup, and Qualcomm are traveling with Trump. Ahead of the summit, Chinese state television featured Huawei's secretive chip research laboratory in a rare prime-time segment, with founder Ren Zhengfei hosting the Vice Premier at its Shanghai campus. Separately, US prosecutors are investigating a scheme to route restricted NVIDIA AI servers through Thailand to Alibaba in China. The summit agenda includes trade truce extension, AI export controls, Taiwan, Iran, and rare earths.",
+    "bottomLine": "Trump goes to Beijing having already lost most of his tariff leverage in court, while China has spent 18 months building chip self-sufficiency and quietly watching the Iran war strangle its oil supply. The summit will produce announcements designed to look like progress. The actual negotiation is about whether either side can afford to let the relationship deteriorate further before the midterms.",
+    "hiddenBets": [
+      {
+        "assumption": "Trump has leverage because China needs US market access",
+        "whyItMightBeWrong": "The Supreme Court struck IEEPA tariffs in February, and a federal court invalidated Section 122 tariffs last week. Trump's legal basis for imposing new tariffs is narrowing rapidly. China knows this. The October 2025 trade truce was negotiated when Trump's tariff authority was intact. He arrives this week with fewer credible threats than he had in October."
+      },
+      {
+        "assumption": "AI chip export controls are containing Chinese AI capability",
+        "whyItMightBeWrong": "NVIDIA servers are being routed through Thailand to Alibaba. Huawei's Ascend chips now hold 62% of the Chinese AI chip market and were just showcased on prime-time national television. Export controls have accelerated Chinese domestic chip investment rather than limiting it. The smuggling route exposure this week is not evidence of effective controls; it is evidence that the controls have a large-scale workaround already in operation."
+      },
+      {
+        "assumption": "The summit's main agenda is trade",
+        "whyItMightBeWrong": "Xi Jinping's most pressing problem right now is oil. Brent at $104 because of the Iran war is hitting Chinese manufacturing input costs and consumer prices. China imports more Gulf oil than any other country. Xi has a direct, immediate financial incentive to use whatever influence he has with Tehran to push for a Hormuz resolution. The question is whether Trump will offer Xi anything in exchange for that pressure, and whether it appears in any public communique."
+      }
+    ],
+    "realDisagreement": "The real fork at the summit is whether to treat AI and chip competition as a zero-sum security conflict or as a domain where both countries can establish guardrails and reduce the risk of accidental escalation. The security framing says: any Chinese AI advancement is a military threat, restrict everything. The guardrails framing says: both countries are building AI, both will continue, the only question is whether there are diplomatic channels to prevent the technology from being used in ways that trigger war. Both framings have serious arguments behind them. The guardrails path requires trusting that Chinese assurances about AI use cases are enforceable, which they aren't. The zero-sum security path accelerates decoupling and guarantees the smuggling and circumvention scale up. The Trump administration has publicly adopted the security framing, but the CEO delegation traveling to Beijing is operating on the guardrails framing, and those two postures will be in the same room simultaneously.",
+    "whatNoOneIsSaying": "The most consequential thing that could happen this week is not a tariff announcement or a soybean purchase agreement. It is whether Xi tells Trump, in private, that China will lean on Iran to accept a narrowed peace proposal in exchange for something the US can offer China. That conversation, if it happens, will not appear in any readout. But the oil price chart for the two weeks after the summit will tell you whether it happened.",
+    "whoPays": [
+      {
+        "who": "US semiconductor firms with Chinese revenue",
+        "how": "Qualcomm gets roughly 60% of its revenue from China. If the summit produces tighter AI export controls or Chinese retaliation for the NVIDIA smuggling investigation, Qualcomm's China business becomes legally and politically untenable. The CEO is on the plane to Beijing precisely because the alternative is losing that revenue entirely",
+        "when": "Immediate exposure from any summit announcement, longer-term cliff if controls tighten"
+      },
+      {
+        "who": "Taiwan",
+        "how": "Polymarket puts a 47% probability on Trump saying 'Taiwan' during summit events. Every US concession on trade or AI that China frames as a win reduces the perceived cost of Chinese pressure on Taiwan. Taiwan's security depends partly on the US treating the relationship with China as adversarial enough to maintain deterrence",
+        "when": "Structural erosion over months; acute risk rises if summit produces large concessions"
+      },
+      {
+        "who": "Chinese consumers and manufacturers",
+        "how": "The Hormuz blockade is costing China in oil import costs. If the summit produces no movement on Iran, Xi returns home having bought some trade stability at the cost of continued energy inflation. His domestic approval depends partly on economic performance",
+        "when": "Ongoing, accelerating until Hormuz resolution"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Trade extension, no breakthrough",
+        "whatHappens": "Trade truce extended through end of 2026. China announces soybean and Boeing purchases. A Board of Trade is established. AI export controls remain unchanged. No movement on Iran or Taiwan. Both sides declare the relationship stable. Markets rally briefly.",
+        "signal": "Watch for whether a joint statement mentions AI controls or Hormuz at all. If neither appears, this is the outcome."
+      },
+      {
+        "name": "AI controls relief in exchange for Iran pressure",
+        "whatHappens": "Trump offers to ease some AI chip export restrictions for Chinese tech companies (excluding Huawei) in exchange for Chinese diplomatic pressure on Iran to accept a modified ceasefire. The deal is not announced publicly. It surfaces in a Reuters or Bloomberg exclusive two weeks later.",
+        "signal": "Watch for a sudden Iranian willingness to return to negotiations within 10 days of the summit closing."
+      },
+      {
+        "name": "Summit collapse from smuggling case",
+        "whatHappens": "The US Department of Justice announces new indictments in the NVIDIA-Alibaba smuggling case during or just before the summit. China walks back to a defensive posture. Summit produces no communique. Markets reprice tech decoupling risk.",
+        "signal": "Watch for any DOJ announcement about the Supermicro case in the days immediately surrounding the summit."
+      }
+    ],
+    "whatWouldChange": "If China publicly and verifiably leaned on Iran to accept a modified Hormuz deal and that produced a reopening, the entire logic of this summit changes. A Trump who returns from Beijing having solved the oil crisis at home has no political need to maintain tariff pressure on China and far more domestic capital to spend on a durable trade framework. The summit's importance right now is as a side stage to the Iran war.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Trump announce a tariff reduction on China?",
+        "url": "https://polymarket.com/event/trump-xi-summit-what-will-trump-announce-by-may-22",
+        "probability": 0.53
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US x China tariff agreement by May 31?",
+        "url": "https://polymarket.com/event/us-x-china-tariff-agreement-by-may-31",
+        "probability": 0.675
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Trump announce AI export restrictions relief for China?",
+        "url": "https://polymarket.com/event/trump-xi-summit-what-will-trump-announce-by-may-22",
+        "probability": 0.305
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-12",
+  "threads": [
+    {
+      "id": "iran-war-economic-cascade",
+      "title": "Iran War as Fiscal Crisis",
+      "description": "Three separate stories today are downstream consequences of the same event: the Hormuz blockade from the US-Iran war. The gas tax suspension is a fiscal response to oil at $104 caused by Hormuz. The tariff court rulings are weakening Trump's other economic lever at the same moment the Iran war demands fiscal resources. Trump's Beijing summit agenda is shaped by the fact that Xi, as the world's largest Gulf oil importer, has more incentive to end the war than almost anyone. The Iran war is not a geopolitical story that happens to affect the economy. It is a fiscal crisis that is forcing decisions across every domain simultaneously.",
+      "type": "cause-effect",
+      "stories": ["iran-ceasefire-life-support", "gas-tax-iran-war", "trump-xi-beijing-summit"],
+      "connections": [
+        {
+          "from": "iran-ceasefire-life-support",
+          "to": "gas-tax-iran-war",
+          "relationship": "The Hormuz blockade keeping Brent crude at $104 is the direct cause of $4.52 US gas prices, which created the political pressure driving the gas tax suspension proposal."
+        },
+        {
+          "from": "iran-ceasefire-life-support",
+          "to": "trump-xi-beijing-summit",
+          "relationship": "China's dependence on Gulf oil means Xi Jinping has a direct financial interest in pushing Iran toward a settlement, making the Beijing summit a potential back-channel for Iran mediation that no official agenda item acknowledges."
+        },
+        {
+          "from": "gas-tax-iran-war",
+          "to": "trump-xi-beijing-summit",
+          "relationship": "Trump's weakened tariff legal authority, exposed by court rulings, means he arrives in Beijing with fewer economic threats than during the October 2025 trade truce, shifting the power balance of the summit toward Xi."
+        }
+      ]
+    },
+    {
+      "id": "trump-war-authority-without-congress",
+      "title": "Wars Without Authorization",
+      "description": "Both the Iran war and the Ukraine involvement share a structural feature that none of the coverage names directly: neither has formal congressional authorization, and the executive branch is managing both conflicts through emergency powers, executive authority, and informal arrangements that are progressively being challenged by courts and legislators. The Supreme Court struck IEEPA tariffs used to fund the Iran war's economic pressure. A Senate minority leader is pushing a war powers vote on Iran. Democrats are simultaneously pushing war powers resolutions on Ukraine. The common thread across four stories today is whether the executive branch can conduct open-ended military and economic policy without legislative sanction, and the answer from courts and the minority party is increasingly: no.",
+      "type": "tension-cluster",
+      "stories": ["iran-ceasefire-life-support", "gas-tax-iran-war", "ukraine-truce-expires"],
+      "connections": [
+        {
+          "from": "gas-tax-iran-war",
+          "to": "iran-ceasefire-life-support",
+          "relationship": "Courts striking down IEEPA and Section 122 tariffs removes the executive's unilateral economic warfare tools, weakening Trump's ability to pressure Iran through economic means rather than military means, forcing the conflict toward either a peace deal or resumed strikes."
+        },
+        {
+          "from": "ukraine-truce-expires",
+          "to": "iran-ceasefire-life-support",
+          "relationship": "Senate minority leader pushing a war powers vote to end the Iran war, simultaneous with Democrats pushing Ukraine war powers resolutions, reflects a broader congressional reassertion that two simultaneous undeclared conflicts exceed executive authority, which constrains Trump's negotiating options in both theaters."
+        }
+      ]
+    },
+    {
+      "id": "chip-war-summit-divergence",
+      "title": "The Chips the Summit Cannot Fix",
+      "description": "The Trump-Xi summit and the Huawei chip disclosure are happening simultaneously, but they are operating on incompatible timelines. The summit will produce announcements about hardware export controls. The Huawei lab disclosure and the NVIDIA smuggling case reveal that both the controlled and the uncontrolled hardware problems are already beyond the summit's reach: Chinese domestic chips have 62% market share, and restricted US chips are being smuggled in through Southeast Asia. The Beijing summit will generate communiques about a technology war that has already moved to a terrain the communiques cannot address.",
+      "type": "dependency-web",
+      "stories": ["huawei-chip-war-summit", "trump-xi-beijing-summit"],
+      "connections": [
+        {
+          "from": "huawei-chip-war-summit",
+          "to": "trump-xi-beijing-summit",
+          "relationship": "Huawei showing its chip lab on national TV three days before the summit is Beijing negotiating in public: any US demand for export control concessions is met with demonstrated evidence that Chinese domestic capability has already reduced dependence on US chips, weakening the US leverage position."
+        },
+        {
+          "from": "trump-xi-beijing-summit",
+          "to": "huawei-chip-war-summit",
+          "relationship": "If the summit produces AI export restriction relief for Chinese firms, it legitimizes the very chip acquisition channels that the NVIDIA smuggling case was trying to criminalize, creating a contradiction between the DOJ prosecution and the State Department negotiation happening in the same week."
+        }
+      ]
+    }
+  ]
+}

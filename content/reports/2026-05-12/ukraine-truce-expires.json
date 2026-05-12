@@ -1,0 +1,94 @@
+{
+  "id": "ukraine-truce-expires",
+  "date": "2026-05-12",
+  "generatedAt": "2026-05-12T08:25:00Z",
+  "title": "Three Days of Quiet, Then Drones on Kyiv",
+  "subtitle": "Trump's 72-hour Ukraine ceasefire expired at midnight. Russia struck residential buildings in Kyiv by 3:35 AM.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["Ukraine", "Russia", "ceasefire", "Kyiv", "Trump", "Putin", "war", "diplomacy"],
+  "coverImage": {
+    "url": "https://s.france24.com/media/display/6ff0bfaa-4d9a-11f1-87b6-005056bfb2b6/w:1280/p:16x9/d292ffca5c3d3b7d13e66f24a9633836c98a5f96.jpg",
+    "local": "/images/reports/2026-05-12/ukraine-truce-expires.jpg",
+    "credit": "France24 / AFP"
+  },
+  "sources": [
+    {
+      "url": "https://kyivindependent.com/as-ceasefire-ends-russian-drones-strike-residential-buildings-in-kyiv/",
+      "publisher": "Kyiv Independent",
+      "angle": "Ground-level reporting on the first confirmed air attack on Kyiv since Friday. Drone debris hit a 20-storey residential building. Notes the ceasefire was quiet on air strikes but both sides reported ongoing ground violations throughout"
+    },
+    {
+      "url": "https://www.france24.com/en/live-news/20260512-little-respite-in-ukraine-as-air-strikes-ring-out-during-russia-truce",
+      "publisher": "France24",
+      "angle": "Civilian experience in Zaporizhzhia during the truce: residents said it didn't feel like a ceasefire. Air alerts continued. The truce was real from a satellite perspective but not from street level"
+    },
+    {
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-ceasefire-sanctions-b2974692.html",
+      "publisher": "The Independent",
+      "angle": "Zelensky's 'airport ceasefire' proposal: start with mutual halting of strikes on each other's airports, then expand. Zelensky publicly stated Putin has 'no intention' of ending the war. Framing this as a war that can only be managed, not negotiated"
+    },
+    {
+      "url": "https://www.aa.com.tr/en/americas/us-senate-minority-leader-vows-to-push-new-vote-to-end-iran-war/3934385",
+      "publisher": "Anadolu Agency",
+      "angle": "US Senate minority leader announcing a new vote to end the Iran war. Notes Democrats are simultaneously pushing war powers resolutions on both Iran and Ukraine, arguing neither conflict has proper congressional authorization"
+    }
+  ],
+  "brief": {
+    "actors": ["Putin", "Zelensky", "Trump", "Ukraine", "Russia"],
+    "whatHappened": "A three-day US-brokered ceasefire between Ukraine and Russia, announced by Trump last Friday coinciding with Russia's World War II Victory Day celebrations, expired overnight on May 12. Within hours, Russian forces launched dozens of drones at Kyiv, striking a residential building, and separately attacked Zaporizhzhia, Dnipro, Kharkiv, Kherson, Sumy, and Mykolaiv. Ukrainian President Zelensky had proposed extending the truce via an 'airport ceasefire' model, beginning with mutual halts on strikes at each other's airports, but said Putin showed 'no intention' of ending the war. During the ceasefire itself, both sides reported ground-level violations, and air alerts continued in Zaporizhzhia throughout the pause.",
+    "bottomLine": "The three-day truce achieved its actual purpose, which was to give Putin a propaganda-clean Victory Day and give Trump a headline, and then ended. It was not a peace overture. It was a calendar courtesy dressed as diplomacy, and the resumption of strikes within hours of expiration confirms neither side entered it intending to extend it.",
+    "hiddenBets": [
+      {
+        "assumption": "The ceasefire was a genuine step toward peace negotiations",
+        "whyItMightBeWrong": "Russia reported hundreds of Ukrainian ceasefire violations during the 72 hours. Ukraine reported hundreds of Russian violations. Neither side halted ground operations. A ceasefire that both sides publicly accuse the other of violating, that produces no agreement on what comes next, and that collapses the moment it expires is not a peace process. It is a tactical pause that both sides used to reposition."
+      },
+      {
+        "assumption": "Trump has meaningful leverage over Putin on Ukraine",
+        "whyItMightBeWrong": "Trump has been signaling desire for a Ukraine deal since before his second inauguration. Nearly 18 months later, Russia controls more Ukrainian territory than when the second term began, and Ukraine's front lines have stabilized at significant cost. Putin is winning slowly. He has no incentive to negotiate a deal that freezes territorial gains he can continue to improve by waiting."
+      },
+      {
+        "assumption": "Zelensky's airport ceasefire proposal is a credible path forward",
+        "whyItMightBeWrong": "The proposal to start with airports is sound as a confidence-building mechanism. But Zelensky simultaneously told the press that Putin has 'no intention' of ending the war. These two statements cannot both be true as a negotiating posture. Zelensky may be making proposals he believes will be rejected in order to demonstrate to European allies that Ukraine is the party seeking peace, rather than as a genuine attempt to secure Russian agreement."
+      }
+    ],
+    "realDisagreement": "The core tension in Ukraine diplomacy right now is between the European position, which holds that any deal that freezes Russia's territorial gains rewards aggression and incentivizes future invasions, and the US position under Trump, which holds that the war must end regardless of territorial terms because the cost of continued support is too high. Both positions have genuine arguments. The European fear of precedent is well-founded: a 2026 frozen conflict in Ukraine that legitimizes Russian territorial conquest does change the calculus for any autocrat considering a land grab. The American fatigue with open-ended military commitment is also real, particularly as the Iran war now competes for defense resources and congressional attention. The side that cannot have both is Zelensky, who needs US material support to fight the war and European diplomatic backing to set the terms of any peace.",
+    "whatNoOneIsSaying": "Russia is winning, slowly, at a pace that is politically sustainable for Putin and increasingly unsustainable for Ukraine's manpower and Zelensky's domestic support. The ceasefire and airport proposal are both attempts to manage that reality without acknowledging it. The countries supplying Ukraine with weapons and intelligence have a vested interest in the war continuing at current intensity rather than either escalating or resolving, because a frozen conflict with no clear outcome is the scenario that justifies continued defense industry production without requiring a political reckoning with either total victory or total failure.",
+    "whoPays": [
+      {
+        "who": "Ukrainian civilians in front-line cities",
+        "how": "Zaporizhzhia, Kherson, and Kharkiv residents reported that even the 72-hour ceasefire brought little actual respite. Russian drone and missile attacks resumed immediately after expiration, targeting residential infrastructure. The people paying most concretely are those sleeping in buildings that become targets the moment any truce expires",
+        "when": "Ongoing, immediate"
+      },
+      {
+        "who": "European defense budgets",
+        "how": "European states have been steadily increasing Ukraine military aid to compensate for uncertainty about continued US support. If the US under Trump pivots toward a frozen conflict deal that European allies consider unacceptable, European states face the choice of continuing the war alone at full commitment or accepting terms they opposed",
+        "when": "Medium-term, becoming acute over the next 6-12 months"
+      },
+      {
+        "who": "Russian economy",
+        "how": "Russia has redirected substantial industrial capacity to military production. Sanctions, though leaky, are compressing discretionary spending. A protracted war is sustainable for Putin politically, but it has costs he manages by suppressing domestic consumption and borrowing against future oil revenues at risk while Hormuz is disrupted",
+        "when": "Slow-burn, with the Iran oil disruption adding a current pressure"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Perpetual truce cycle",
+        "whatHappens": "Trump announces another short ceasefire, perhaps 7 days, around a symbolic date. Russia agrees, uses it for resupply and repositioning. Ukraine accepts to maintain US support. The cycle repeats without any durable framework. The war continues at medium intensity indefinitely.",
+        "signal": "Watch for Trump's next public statement on Ukraine. If it focuses on the next symbolic date rather than the terms of a lasting deal, this is the path."
+      },
+      {
+        "name": "Frozen conflict formalization",
+        "whatHappens": "Trump, focused on Iran and the Beijing summit, pressures Ukraine to accept a ceasefire line that approximates current front lines. European allies protest but cannot block it. A Korean War-style armistice without a peace treaty is signed. Russian-held territory is not formally recognized but is not contested militarily.",
+        "signal": "Watch for Trump referring to current front lines as 'a good starting point' in any public statement."
+      },
+      {
+        "name": "Ukrainian counteroffensive changes terms",
+        "whatHappens": "Ukraine uses the post-ceasefire period for a significant tactical advance in Kursk or another region, changing the military map enough that a frozen conflict on current lines is no longer viable. Russia escalates in response. European allies increase commitment. The US faces a harder choice about escalation.",
+        "signal": "Watch for Ukrainian military announcements of territorial gain in the weeks after the ceasefire expires."
+      }
+    ],
+    "whatWouldChange": "If Putin made a concrete and verifiable offer on territorial terms, with a defined security guarantee mechanism, the 'no intention to end the war' framing collapses and Zelensky loses the moral high ground that keeps European support engaged. The truce proposal that might actually go somewhere would have to come from Moscow, not Washington, and include something that looks like a face-saving off-ramp for Ukraine's sovereignty claims.",
+    "markets": []
+  }
+}

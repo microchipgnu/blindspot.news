@@ -1,0 +1,36 @@
+{
+  "date": "2026-05-12",
+  "generatedAt": "2026-05-12T08:35:00Z",
+  "reports": [
+    {
+      "id": "iran-ceasefire-life-support",
+      "title": "The Ceasefire That Isn't",
+      "subtitle": "Trump called Iran's peace proposal garbage. Iran called the US terms surrender. Brent crude hit $104. Nobody's blinking.",
+      "category": "conflict"
+    },
+    {
+      "id": "gas-tax-iran-war",
+      "title": "Pump Relief as Political Triage",
+      "subtitle": "Gas hit $4.52. Trump wants to kill the gas tax. Congress needs to pass it. The Highway Trust Fund will pay.",
+      "category": "power"
+    },
+    {
+      "id": "trump-xi-beijing-summit",
+      "title": "The Summit Without a Spine",
+      "subtitle": "Trump flies to Beijing Tuesday. Both sides want stability. Neither side can say what they actually need from the other.",
+      "category": "power"
+    },
+    {
+      "id": "ukraine-truce-expires",
+      "title": "Three Days of Quiet, Then Drones on Kyiv",
+      "subtitle": "Trump's 72-hour Ukraine ceasefire expired at midnight. Russia struck residential buildings in Kyiv by 3:35 AM.",
+      "category": "conflict"
+    },
+    {
+      "id": "huawei-chip-war-summit",
+      "title": "The Chip Lab on National Television",
+      "subtitle": "Beijing showed Huawei's secret semiconductor research lab on prime-time TV three days before Trump lands. This was a message, not a documentary.",
+      "category": "power"
+    }
+  ]
+}
