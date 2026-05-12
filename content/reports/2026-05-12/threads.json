@@ -68,5 +68,44 @@
         }
       ]
     }
+    ,
+    {
+      "id": "deregulation-by-jurisdiction",
+      "title": "Killing Rules Without Repealing Them",
+      "description": "Three stories today involve the same structural move: instead of repealing consumer protections or security obligations directly, actors are using jurisdictional authority to make them unenforceable. Colorado's AI accountability law is being nullified not by Congress voting against it but by a preemption bill that prohibits state action while substituting nothing. Trump's withdrawal of troops from Germany does not formally abandon NATO but removes the forward presence that makes Article 5 credible. The ICE funding bill passes not as an immigration debate but as a budget reconciliation package, bypassing the deliberation that a standalone vote would require. All three use procedural or jurisdictional moves to achieve policy outcomes that would be harder to defend directly.",
+      "type": "tension-cluster",
+      "stories": ["colorado-ai-law-gutted", "trump-nato-germany-withdrawal", "ice-funding-ballroom-deal"],
+      "connections": [
+        {
+          "from": "colorado-ai-law-gutted",
+          "to": "ice-funding-ballroom-deal",
+          "relationship": "Both use procedural vehicles to achieve policy outcomes that could not survive direct floor debate: federal AI preemption is being advanced as a budget measure, just as ICE funding is being advanced through reconciliation to bypass the filibuster"
+        },
+        {
+          "from": "trump-nato-germany-withdrawal",
+          "to": "colorado-ai-law-gutted",
+          "relationship": "Both replace a protective commitment with a gap: the NATO guarantee loses credibility through partial withdrawal just as state AI accountability rules are left without replacement when federal preemption removes them"
+        }
+      ]
+    },
+    {
+      "id": "chip-war-labor-dimension",
+      "title": "The Semiconductor Race Has a Labor Problem Nobody Mapped",
+      "description": "The chip war narrative in 2026 is almost entirely about geopolitics: US export controls, Huawei's lab reveal, TSMC's production capacity, China's semiconductor sovereignty drive. But two stories today point to a labor dimension the geopolitical frame entirely ignores. Samsung's workforce is striking for a share of the AI-driven profit boom that their production enabled. The Colorado AI law debate is partly about whether workers who are screened, hired, and fired by automated systems have any right to know or challenge those decisions. The chip war is often framed as a battle between states. It is also a battle over who within each country captures the value that the semiconductor economy creates.",
+      "type": "tension-cluster",
+      "stories": ["samsung-strike-chip-war", "colorado-ai-law-gutted", "huawei-chip-war-summit"],
+      "connections": [
+        {
+          "from": "samsung-strike-chip-war",
+          "to": "huawei-chip-war-summit",
+          "relationship": "Samsung's labor dispute threatens the same global memory supply that Huawei's chip lab reveal was designed to reassure buyers about: a Samsung strike and Chinese semiconductor self-sufficiency are competing signals about where semiconductor reliability actually lives"
+        },
+        {
+          "from": "colorado-ai-law-gutted",
+          "to": "samsung-strike-chip-war",
+          "relationship": "Both are cases of workers or citizens trying to claim accountability rights over systems that use their labor or govern their lives, and both are being defeated by the same argument: protecting accountability is too costly for the companies benefiting from its absence"
+        }
+      ]
+    }
   ]
 }

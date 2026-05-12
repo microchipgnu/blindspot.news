@@ -1,0 +1,94 @@
+{
+  "id": "colorado-ai-law-gutted",
+  "date": "2026-05-12",
+  "generatedAt": "2026-05-12T17:55:00Z",
+  "title": "Colorado Rewrites Its AI Law. Congress Is About to Overwrite All of Them.",
+  "subtitle": "After two years and a lawsuit from Elon Musk, Colorado passed a weaker AI accountability law. A House Republican bill would nullify it before it takes effect.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["AI regulation", "Colorado", "federal preemption", "algorithmic discrimination", "Congress", "states"],
+  "coverImage": {
+    "url": "https://www.denverpost.com/wp-content/uploads/2026/05/TDP-L-CAPITOLA03_5567x.jpg?w=1024&h=683",
+    "local": "/images/reports/2026-05-12/colorado-ai-law-gutted.jpg",
+    "credit": "The Denver Post"
+  },
+  "sources": [
+    {
+      "url": "https://coloradosun.com/2026/05/12/colorado-ai-law-rewrite-passes/",
+      "publisher": "The Colorado Sun",
+      "angle": "Documents the two-year collapse of Colorado's original ambitions: from broad algorithmic discrimination rules to a narrower automated decision-making framework that the industry shaped in the final weeks"
+    },
+    {
+      "url": "https://www.denverpost.com/2026/05/10/colorado-artificial-intelligence-regulations-compromise-bill/",
+      "publisher": "The Denver Post",
+      "angle": "Covers the political mechanics: Elon Musk's lawsuit created enough political cover for tech-aligned lawmakers to gut the original bill while claiming they were merely improving it"
+    },
+    {
+      "url": "https://www.cyberadviserblog.com/2026/05/colorado-rewrites-its-landmark-ai-law-unpacking-sb-26-189-and-what-it-means-for-businesses/",
+      "publisher": "CyberAdviser",
+      "angle": "Technical breakdown of what changed: broad 'high-risk AI' obligations replaced by narrower 'automated decision-making technology' rules with significant carve-outs for businesses"
+    },
+    {
+      "url": "https://news.bloomberglaw.com/privacy-and-data-security/states-ready-face-off-against-congress-tech-bros-on-privacy",
+      "publisher": "Bloomberg Law",
+      "angle": "State AGs are preparing to resist House Republican federal preemption proposals, arguing they strip the states of authority to police AI, data privacy, and social media harms"
+    },
+    {
+      "url": "https://www.aipolicydesk.com/blog/federal-ai-preemption-state-laws-2026",
+      "publisher": "AI Policy Desk",
+      "angle": "Explains the White House's current position: federal preemption of state AI laws is now active executive policy, but Congress has not yet passed binding legislation"
+    }
+  ],
+  "brief": {
+    "actors": ["Colorado", "Musk", "Congress", "NAAG", "OpenAI", "Polis"],
+    "whatHappened": "Colorado's legislature passed SB 26-189 on Tuesday, replacing the state's 2024 landmark AI accountability law with a significantly narrowed version. The original law required companies to disclose how AI systems made consequential decisions about hiring, housing, healthcare, and credit. The new version applies only to a narrower category of 'automated decision-making technology,' carves out large classes of business use, and delays enforcement until January 2027. Governor Jared Polis is expected to sign it. Meanwhile, House Republicans have advanced a federal AI preemption proposal that would nullify all state AI regulations, and the National Association of Attorneys General has begun coordinating resistance.",
+    "bottomLine": "Colorado spent two years building the first real AI accountability framework in the US, then spent another two years dismantling it. The federal preemption bill waiting in Congress would make the whole exercise retroactively irrelevant.",
+    "hiddenBets": [
+      {
+        "assumption": "The watered-down Colorado law still provides meaningful protection against algorithmic harm",
+        "whyItMightBeWrong": "The original law's power was its breadth: any AI system making a consequential decision about a person had to be disclosed and auditable. The rewrite replaced 'consequential decision' with 'automated decision-making technology' and added exemptions that cover most of the practices consumer advocates were most worried about, including AI used in financial risk scoring and content moderation."
+      },
+      {
+        "assumption": "Federal preemption is a genuine effort to create a unified national AI framework",
+        "whyItMightBeWrong": "The House Republican preemption bill does not propose federal rules to replace state ones: it proposes to prohibit state rules without substituting federal ones. This is not regulatory rationalization. It is deregulation by jurisdictional shell game."
+      },
+      {
+        "assumption": "Tech industry opposition killed the strong version of the Colorado law",
+        "whyItMightBeWrong": "Elon Musk's lawsuit was the visible pressure. But Colorado business groups, insurance companies, and healthcare systems had been lobbying to narrow the law since 2024. Musk's intervention gave legislators political cover for a retreat they had already privately decided to make."
+      }
+    ],
+    "realDisagreement": "The real fork is this: should AI accountability rules be set nationally, or should states be allowed to experiment and compete on standards? The case for federal preemption is genuine: a patchwork of 50 different AI compliance regimes would impose real costs on companies that operate nationally, and inconsistent standards would be worse than no standards. The case for state authority is equally genuine: federal AI regulation in the current Congress means no meaningful consumer protection for the foreseeable future, because the federal bill is explicitly designed to block state action without replacing it. I lean toward allowing states to regulate for now. The cost of premature federal preemption is locking in the absence of rules during the period when AI is doing the most consequential hiring, lending, and sentencing. That cost is higher than the cost of regulatory patchwork.",
+    "whatNoOneIsSaying": "The companies that lobbied hardest to weaken Colorado's law are the same companies deploying AI systems in hiring and credit decisions that disproportionately affect lower-income workers and minority applicants. The law did not ban those systems. It required disclosure. Killing disclosure requirements while citing regulatory burden is a tell: the burden they are protecting against is not compliance cost, it is accountability.",
+    "whoPays": [
+      {
+        "who": "Job seekers and loan applicants screened by AI in Colorado and nationally",
+        "how": "Without disclosure requirements, people denied jobs or credit because of an algorithmic decision have no right to know the decision was automated, no right to review the criteria, and no basis for challenge. The harm is invisible by design.",
+        "when": "Ongoing; accelerates as AI screening expands into more hiring and lending decisions over the next 2-3 years"
+      },
+      {
+        "who": "State attorneys general",
+        "how": "Federal preemption strips state AGs of the consumer protection tools they currently have for policing AI harms. Without state authority, the only enforcement mechanism is federal agencies whose leadership has signaled they will not aggressively pursue tech companies.",
+        "when": "Immediate if federal preemption passes; the NAAG is already treating this as an emergency"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Preemption Passes, Vacuum Locked In",
+        "whatHappens": "The House Republican bill becomes law, nullifying Colorado and the dozen other states that had enacted or were advancing AI consumer protection rules. No federal rules replace them. AI hiring and credit systems operate without disclosure requirements nationally for at least 3-5 years.",
+        "signal": "Senate Majority Leader advances the preemption bill for floor vote before the midterm recess"
+      },
+      {
+        "name": "Preemption Stalls, Colorado Becomes the Floor",
+        "whatHappens": "Federal preemption fails or stalls in the Senate. Colorado's weakened law takes effect in January 2027 and becomes the de facto national standard as other states adopt similar frameworks. Companies standardize on Colorado compliance to avoid 50 different regimes.",
+        "signal": "Senate AGs' coordinated opposition generates enough Republican defections to kill the preemption bill in committee"
+      },
+      {
+        "name": "Polis Vetoes, Resets the Clock",
+        "whatHappens": "Governor Polis decides the compromise law is weaker than no law at all and vetoes SB 26-189, forcing the legislature back to the original framework or nothing. Colorado becomes the test case for whether meaningful AI accountability can survive industry pressure.",
+        "signal": "Polis delays signing past the session end date and requests further amendments"
+      }
+    ],
+    "whatWouldChange": "If the federal preemption bill included a minimum floor of consumer protections that states could exceed but not fall below, that would be evidence of genuine regulatory rationalization rather than deregulation by preemption. No version of the bill currently does this.",
+    "markets": []
+  }
+}

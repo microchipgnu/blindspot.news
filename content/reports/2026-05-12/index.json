@@ -62,5 +62,36 @@
       "subtitle": "The EU is proposing a 'social media delay' for kids, backed by an age-verification app that is ready to deploy. Ten member states already have different rules.",
       "category": "ethics"
     }
+    ,
+    {
+      "id": "samsung-strike-chip-war",
+      "title": "The Strike That Could Crack the Memory Market",
+      "subtitle": "Samsung's union wants 15% of operating profit. Management offered nothing. May 21 is the deadline. Micron stock is already up 6%.",
+      "category": "power"
+    },
+    {
+      "id": "colorado-ai-law-gutted",
+      "title": "Colorado Rewrites Its AI Law. Congress Is About to Overwrite All of Them.",
+      "subtitle": "After two years and a lawsuit from Elon Musk, Colorado passed a weaker AI accountability law. A House Republican bill would nullify it before it takes effect.",
+      "category": "power"
+    },
+    {
+      "id": "trump-nato-germany-withdrawal",
+      "title": "Trump Pulls 5,000 Troops from Germany. NATO's Eastern Flank Is Now Improvising.",
+      "subtitle": "Germany's 'Sparta 2.0' plan admits Europe cannot run a war without US software approval. Poland is competing for the troops like a trophy. The Baltics are watching both of them.",
+      "category": "conflict"
+    },
+    {
+      "id": "icj-climate-un-resolution",
+      "title": "The ICJ Said States Must Act on Climate. Now Vanuatu Is Trying to Make That Stick.",
+      "subtitle": "A 2025 court ruling said governments have a legal obligation to protect human rights from climate harm. Pacific island nations are pushing a UN resolution to turn it into accountability. The major emitters have not said yes.",
+      "category": "ethics"
+    },
+    {
+      "id": "ice-funding-ballroom-deal",
+      "title": "Fund ICE for Three Years. Also Build the Ballroom.",
+      "subtitle": "Senate Republicans returned from recess to pass a $72 billion immigration enforcement package. Trump wants $1 billion in the same bill for White House ballroom security. Vulnerable Republicans have to vote on both.",
+      "category": "power"
+    }
   ]
 }
