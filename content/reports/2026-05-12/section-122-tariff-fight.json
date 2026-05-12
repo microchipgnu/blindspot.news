@@ -1,0 +1,101 @@
+{
+  "id": "section-122-tariff-fight",
+  "date": "2026-05-12",
+  "generatedAt": "2026-05-12T22:40:00Z",
+  "title": "The Court Said the Tariffs Are Illegal. Importers Are Still Paying Them.",
+  "subtitle": "A federal trade court ruled Trump's 10% global surcharge unlawful. The same day, it agreed to let the government keep collecting while it appeals. 170,000 companies are funding a tariff the court just declared invalid.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["tariffs", "trade", "Section 122", "Court of International Trade", "Trump", "importers"],
+  "coverImage": {
+    "url": "https://www.insurancejournal.com/app/uploads/2026/05/containers-port-of-los-angeles-Bloomberg-scaled.jpg",
+    "local": "/images/reports/2026-05-12/section-122-tariff-fight.jpg",
+    "credit": "Bloomberg / Insurance Journal"
+  },
+  "sources": [
+    {
+      "url": "https://www.bhfs.com/insight/section-122-case-raises-prospect-of-additional-tariff/",
+      "publisher": "Brownstein Law",
+      "angle": "Legal analysis of why the CIT ruling was technically correct: Congress enacted Section 122 with specific definitions of 'balance-of-payments deficit' that Trump's proclamation simply did not use"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/trade/court-international-trade-cit-section-122-tariffs-stay-injunction-1238950938/",
+      "publisher": "WWD / Sourcing Journal",
+      "angle": "The DOJ's stay argument: refunding Section 122 tariffs would divert Customs resources already overwhelmed processing IEEPA tariff refunds; the administration used its own operational chaos as a reason to keep collecting illegal levies"
+    },
+    {
+      "url": "https://www.insurancejournal.com/news/national/2026/05/12/869402.htm",
+      "publisher": "Insurance Journal",
+      "angle": "Scale: 170,000 importers, 13 million entries; the DOJ expects 'hundreds if not thousands' of copycat suits once the ruling becomes widely known"
+    },
+    {
+      "url": "https://www.globaltrademag.com/federal-court-blocks-trumps-10-tariff-under-section-122-appeal-planned/",
+      "publisher": "Global Trade Magazine",
+      "angle": "Context: this is a replacement tariff after the Supreme Court struck down IEEPA tariffs in February; the administration has now lost two legal foundations for its global tariff regime in three months"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "CIT", "DOJ", "CBP", "Washington State"],
+    "whatHappened": "On May 7, the US Court of International Trade ruled 2-1 that Trump's 10% global tariff imposed under Section 122 of the Trade Act of 1974 was illegal. The court found the administration failed to demonstrate the 'balance-of-payments deficit' that Section 122 requires, instead using trade and current account deficits as a substitute. The ruling immediately blocked the tariffs only for two small importer plaintiffs and Washington state. The following Monday, the Trump administration filed for a stay, arguing that broader relief would 'severely undermine' the trade agenda and overwhelm Customs resources; the same court granted the stay that day. The 10% surcharge is now being appealed to the Federal Circuit, which previously upheld IEEPA tariffs before the Supreme Court struck them down.",
+    "bottomLine": "The tariff is illegal by the court's own finding, but 170,000 importers will keep paying it indefinitely because the administration convinced the same court that the disruption of stopping collection outweighs the legal violation.",
+    "hiddenBets": [
+      {
+        "assumption": "The administration's appeal will fail and importers will eventually receive refunds",
+        "whyItMightBeWrong": "Polymarket prices this at 99.95% -- near certainty that courts force refunds. But 'eventually' can mean years, and interim financing costs for importers who paid billions in tariffs are not refunded with interest at commercial rates. The delay itself is a subsidy to the government."
+      },
+      {
+        "assumption": "Section 122 tariffs are legally distinct from IEEPA tariffs and face different risks",
+        "whyItMightBeWrong": "The administration replaced one legally vulnerable tariff instrument with another. The Supreme Court struck down IEEPA tariffs in February. The CIT struck down Section 122 in May. There is no remaining statutory vehicle that gives the president unilateral authority to impose a flat global surcharge, yet the stays allow collection to continue throughout the appeals process, which could stretch into 2027."
+      },
+      {
+        "assumption": "The stay granted by the CIT was a close call",
+        "whyItMightBeWrong": "The CIT granted the stay the same day it was filed, within hours, despite having just ruled against the tariffs. The court's reasoning -- that CBP is overwhelmed with IEEPA refunds -- implicitly accepts that the government's self-created operational chaos justifies keeping an illegal levy in place. This is not a close legal question; it is a practical accommodation that happens to massively benefit the administration."
+      }
+    ],
+    "realDisagreement": "The core fork is between two legitimate principles: courts should enforce their own rulings promptly, especially when the violation is clear-cut, versus courts should not destabilize massive government operations mid-stream when the underlying dispute will be resolved on appeal. The problem is that the second principle, applied here, means the government can impose any tariff it wants, get a stay the moment a court rules against it, and collect through the entire appeals process. The second principle swallows the first. The side that should win is immediate enforcement, because the alternative creates a structural incentive to keep imposing illegal tariffs.",
+    "whatNoOneIsSaying": "The administration's stay argument was that processing Section 122 refunds would strain Customs because they are already processing IEEPA refunds ordered by the Supreme Court. This means the government is using its failure to comply with one court order as justification for not complying with another. The CIT accepted this. No major outlet has described it that way.",
+    "whoPays": [
+      {
+        "who": "Small and mid-size importers",
+        "how": "They paid the 10% surcharge on goods since February; they cannot stop paying during the appeal. Large companies have legal teams that filed as plaintiffs and get immediate relief; everyone else keeps paying until they individually sue or the appeal resolves",
+        "when": "Ongoing; the DOJ estimates 'hundreds if not thousands' of individual suits are coming, which means litigation costs are now the price of getting your money back"
+      },
+      {
+        "who": "US consumers",
+        "how": "Tariff costs pass through to retail prices; even if refunds eventually come to importers, those savings rarely flow back to end consumers who already absorbed the price increases",
+        "when": "The price impact is already embedded; refunds would not reverse retail prices"
+      },
+      {
+        "who": "Federal Circuit judges",
+        "how": "They previously upheld IEEPA tariffs; the Supreme Court reversed them. Now the same court must hear the Section 122 appeal with that reversal on record. Any decision to uphold Section 122 tariffs will be reviewed by a Supreme Court that has already shown willingness to strike down emergency trade authority",
+        "when": "Decision expected within 12-18 months"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Appeal fails, mass refunds",
+        "whatHappens": "The Federal Circuit upholds the CIT ruling. The administration loses its third tariff legal foundation in a year. Importers who filed individual suits get refunds; the question of whether the government must proactively refund all 170,000 importers creates a separate wave of litigation.",
+        "signal": "The Federal Circuit declines to grant an expedited schedule, suggesting it is taking the merits seriously; oral arguments are scheduled for fall 2026"
+      },
+      {
+        "name": "Supreme Court intervenes early",
+        "whatHappens": "The administration asks the Supreme Court to hear the case on an emergency basis before the Federal Circuit decides, arguing trade policy disruption justifies expedited review. The court could either stay the CIT ruling nationally or take up the Section 122 authority question directly.",
+        "signal": "DOJ filing at SCOTUS within 30 days of a Federal Circuit ruling; or a cert petition before any appellate decision, invoking the court's original jurisdiction over trade questions"
+      },
+      {
+        "name": "Congress codifies the tariffs",
+        "whatHappens": "Senate Republicans, facing continued IEEPA and Section 122 court losses, pass legislation retroactively authorizing the global surcharge, resolving the legal question by statute and mooting the pending refunds.",
+        "signal": "A tariff authorization bill is introduced with Republican co-sponsors in both chambers and attached to a reconciliation vehicle"
+      }
+    ],
+    "whatWouldChange": "If the Federal Circuit rules quickly and against the administration, it changes the picture: three court losses in a row with no statutory backup means the administration's unilateral global tariff regime has no legal foundation left. At that point, the question is whether Congress bails it out or the tariffs collapse. The 99.95% Polymarket probability on eventual refunds suggests the market has already priced in eventual legal defeat; the dispute is now over timing and scope.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Court Force Trump to Refund Tariffs?",
+        "url": "https://polymarket.com/event/will-the-court-force-trump-to-refund-tariffs-2026-06-30",
+        "probability": 0.9995
+      }
+    ]
+  }
+}

@@ -92,6 +92,36 @@
       "title": "Fund ICE for Three Years. Also Build the Ballroom.",
       "subtitle": "Senate Republicans returned from recess to pass a $72 billion immigration enforcement package. Trump wants $1 billion in the same bill for White House ballroom security. Vulnerable Republicans have to vote on both.",
       "category": "power"
+    },
+    {
+      "id": "mifepristone-scotus-limbo",
+      "title": "The Abortion Pill Gets Three More Days. Every Three Days.",
+      "subtitle": "The Fifth Circuit banned mifepristone by mail. Alito overrode it. Then extended it three more days. The court is running the clock while millions of women wait.",
+      "category": "ethics"
+    },
+    {
+      "id": "section-122-tariff-fight",
+      "title": "The Court Said the Tariffs Are Illegal. Importers Are Still Paying Them.",
+      "subtitle": "A federal trade court ruled Trump's 10% global surcharge unlawful. The same day, it agreed to let the government keep collecting while it appeals. 170,000 companies are funding a tariff the court just declared invalid.",
+      "category": "power"
+    },
+    {
+      "id": "sindoor-anniversary-china-reveal",
+      "title": "China Confirms What India Already Knew. The Problem Is Why They Said It Now.",
+      "subtitle": "A year after the India-Pakistan war, Chinese state TV aired interviews with engineers who supported Pakistan's J-10CE jets during the fighting. India responded with a statement about 'reputation.' Neither reaction explains why China chose this moment to confirm it.",
+      "category": "conflict"
+    },
+    {
+      "id": "anthropic-compute-stack",
+      "title": "Anthropic Is Renting Compute From Everyone, Including Its Enemies",
+      "subtitle": "Anthropic committed $200 billion to Google Cloud, rented Musk's supercomputer three months after he called the company 'evil,' and is simultaneously locking in deals with Amazon, CoreWeave, and Akamai. This is not a diversification strategy. It is a survival posture.",
+      "category": "power"
+    },
+    {
+      "id": "meta-custom-silicon-race",
+      "title": "Meta Locks In Two Chip Partners in One Week. Nvidia Is Still at the Table.",
+      "subtitle": "Meta announced multi-year deals with both Broadcom and Nvidia for custom silicon and infrastructure. The catch: it needs Broadcom to escape Nvidia dependency and needs Nvidia because the escape route isn't ready yet.",
+      "category": "decision"
     }
   ]
 }

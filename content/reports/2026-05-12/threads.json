@@ -106,6 +106,68 @@
           "relationship": "Both are cases of workers or citizens trying to claim accountability rights over systems that use their labor or govern their lives, and both are being defeated by the same argument: protecting accountability is too costly for the companies benefiting from its absence"
         }
       ]
+    },
+    {
+      "id": "courts-collecting-illegal-money",
+      "title": "Courts Can Rule Against the Government and the Government Keeps the Money",
+      "description": "Two stories today reveal the same structural failure in how courts interact with executive power over money. A federal trade court ruled Trump's Section 122 tariffs illegal, then immediately stayed its own ruling so the government could keep collecting. The Fifth Circuit ruled that mifepristone cannot be mailed, creating chaos, then the Supreme Court issued stay after stay while deliberating. In both cases, the government's preferred outcome continues even after a court has formally ruled against it. Stays have become the mechanism by which the government extracts economic value from legal violations while appeals proceed for years.",
+      "type": "tension-cluster",
+      "stories": ["section-122-tariff-fight", "mifepristone-scotus-limbo", "trump-scotus-loyalty-demand"],
+      "connections": [
+        {
+          "from": "section-122-tariff-fight",
+          "to": "trump-scotus-loyalty-demand",
+          "relationship": "The CIT's decision to stay its own ruling the day it was filed illustrates why Trump's public pressure on SCOTUS justices has a real mechanism: courts do weigh institutional disruption costs against legal correctness, and the executive branch knows how to exploit that"
+        },
+        {
+          "from": "mifepristone-scotus-limbo",
+          "to": "section-122-tariff-fight",
+          "relationship": "Both cases are in administrative stay limbo: the government's position was legally invalidated but the practical outcome continues while appeals proceed; in the mifepristone case the beneficiary of the delay is access; in the tariff case the beneficiary is continued collection of illegal levies"
+        }
+      ]
+    },
+    {
+      "id": "china-signals-before-beijing-summit",
+      "title": "China Sent Three Separate Signals This Week, All Before Trump Landed",
+      "description": "Beijing showed Huawei's chip lab on prime-time television. Chinese state TV aired engineers confirming they supported Pakistan against India in combat. And Anthropic's $200B Google commitment landed three days before the Trump-Xi summit, with Google being a US company Beijing tolerates through selective enforcement. Each message has a different target audience, but they share a structure: this is what China can do without you, to countries you care about, using infrastructure you cannot match. The three signals were not coordinated by accident.",
+      "type": "dependency-web",
+      "stories": ["huawei-chip-war-summit", "sindoor-anniversary-china-reveal", "trump-xi-beijing-summit"],
+      "connections": [
+        {
+          "from": "huawei-chip-war-summit",
+          "to": "trump-xi-beijing-summit",
+          "relationship": "The Huawei lab reveal three days before the summit was a negotiating position display: Beijing is telling Trump that semiconductor self-sufficiency is close enough that export control threats carry less leverage than they did two years ago"
+        },
+        {
+          "from": "sindoor-anniversary-china-reveal",
+          "to": "trump-xi-beijing-summit",
+          "relationship": "China's confirmation of direct military involvement in India-Pakistan fighting arrives during summit week when India is a secondary topic; it signals to Trump that China's commitments to regional allies are durable enough to withstand US pressure, making any Beijing demand for concessions on Pakistan harder to refuse"
+        }
+      ]
+    },
+    {
+      "id": "ai-compute-consolidation",
+      "title": "The AI Compute Market Is Consolidating Around Three Companies. Everyone Else Is Renting.",
+      "description": "Anthropic committed $200B to Google, Meta locked in multi-year deals with Nvidia and Broadcom, and Samsung's potential strike threatens the memory layer that all of them depend on. What is invisible in any single brief is that the compute decisions being made this week are determining which companies will be able to train frontier AI models in 2027 and 2028. The supply is being pre-committed. Smaller labs that did not secure capacity in this window will face 12-18 month lead times for equivalent infrastructure. The AI industry is bifurcating between companies with multi-year compute contracts and everyone else.",
+      "type": "dependency-web",
+      "stories": ["anthropic-compute-stack", "meta-custom-silicon-race", "samsung-strike-chip-war", "huawei-chip-war-summit"],
+      "connections": [
+        {
+          "from": "anthropic-compute-stack",
+          "to": "meta-custom-silicon-race",
+          "relationship": "Anthropic's multi-provider hoarding and Meta's dual Broadcom-Nvidia lock-in are consuming infrastructure capacity simultaneously; neither company's strategy would be viable if both were trying to execute it with the same pool of supply"
+        },
+        {
+          "from": "samsung-strike-chip-war",
+          "to": "anthropic-compute-stack",
+          "relationship": "A Samsung strike would constrain HBM memory supply, which is the critical component for the Nvidia Blackwell and Vera Rubin GPUs that Anthropic is renting through Colossus 1 and the meta-NVIDIA deal; the labor dispute is a single point of failure in the compute buildout both companies depend on"
+        },
+        {
+          "from": "huawei-chip-war-summit",
+          "to": "meta-custom-silicon-race",
+          "relationship": "If Huawei's domestic semiconductor program matures enough to supply Chinese AI labs at competitive performance levels, it removes a portion of global GPU demand from the market, potentially easing the scarcity that is currently forcing Meta into multi-year exclusive commitments"
+        }
+      ]
     }
   ]
 }
