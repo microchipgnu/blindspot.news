@@ -2,64 +2,69 @@
   "date": "2026-05-12",
   "threads": [
     {
-      "id": "iran-war-economic-cascade",
-      "title": "Iran War as Fiscal Crisis",
-      "description": "Three separate stories today are downstream consequences of the same event: the Hormuz blockade from the US-Iran war. The gas tax suspension is a fiscal response to oil at $104 caused by Hormuz. The tariff court rulings are weakening Trump's other economic lever at the same moment the Iran war demands fiscal resources. Trump's Beijing summit agenda is shaped by the fact that Xi, as the world's largest Gulf oil importer, has more incentive to end the war than almost anyone. The Iran war is not a geopolitical story that happens to affect the economy. It is a fiscal crisis that is forcing decisions across every domain simultaneously.",
-      "type": "cause-effect",
-      "stories": ["iran-ceasefire-life-support", "gas-tax-iran-war", "trump-xi-beijing-summit"],
-      "connections": [
-        {
-          "from": "iran-ceasefire-life-support",
-          "to": "gas-tax-iran-war",
-          "relationship": "The Hormuz blockade keeping Brent crude at $104 is the direct cause of $4.52 US gas prices, which created the political pressure driving the gas tax suspension proposal."
-        },
-        {
-          "from": "iran-ceasefire-life-support",
-          "to": "trump-xi-beijing-summit",
-          "relationship": "China's dependence on Gulf oil means Xi Jinping has a direct financial interest in pushing Iran toward a settlement, making the Beijing summit a potential back-channel for Iran mediation that no official agenda item acknowledges."
-        },
-        {
-          "from": "gas-tax-iran-war",
-          "to": "trump-xi-beijing-summit",
-          "relationship": "Trump's weakened tariff legal authority, exposed by court rulings, means he arrives in Beijing with fewer economic threats than during the October 2025 trade truce, shifting the power balance of the summit toward Xi."
-        }
-      ]
-    },
-    {
-      "id": "trump-war-authority-without-congress",
-      "title": "Wars Without Authorization",
-      "description": "Both the Iran war and the Ukraine involvement share a structural feature that none of the coverage names directly: neither has formal congressional authorization, and the executive branch is managing both conflicts through emergency powers, executive authority, and informal arrangements that are progressively being challenged by courts and legislators. The Supreme Court struck IEEPA tariffs used to fund the Iran war's economic pressure. A Senate minority leader is pushing a war powers vote on Iran. Democrats are simultaneously pushing war powers resolutions on Ukraine. The common thread across four stories today is whether the executive branch can conduct open-ended military and economic policy without legislative sanction, and the answer from courts and the minority party is increasingly: no.",
+      "id": "executive-authority-unraveling",
+      "title": "The Executive Is Running Out of Legal Runway",
+      "description": "Four stories today are about the same underlying erosion: the executive branch has been treating its authority as effectively unlimited, and the legal system is removing those assumptions one at a time. Courts struck down tariffs twice. Trump is pre-delegitimizing the birthright ruling before it lands. The UK announced a policy with no legal mechanism. OpenAI is trading regulatory concessions to soften enforcement. These are not separate stories. They are all responses to governments discovering that the authority they claimed on paper does not hold when tested.",
       "type": "tension-cluster",
-      "stories": ["iran-ceasefire-life-support", "gas-tax-iran-war", "ukraine-truce-expires"],
+      "stories": ["trump-scotus-loyalty-demand", "gas-tax-iran-war", "uk-shadow-fleet-bluff", "openai-eu-cyber-deal"],
       "connections": [
         {
-          "from": "gas-tax-iran-war",
-          "to": "iran-ceasefire-life-support",
-          "relationship": "Courts striking down IEEPA and Section 122 tariffs removes the executive's unilateral economic warfare tools, weakening Trump's ability to pressure Iran through economic means rather than military means, forcing the conflict toward either a peace deal or resumed strikes."
+          "from": "trump-scotus-loyalty-demand",
+          "to": "gas-tax-iran-war",
+          "relationship": "The same courts that struck down Section 122 tariffs also struck down IEEPA tariffs, leaving Trump's gas tax suspension proposal as one of the few economic relief mechanisms he cannot implement unilaterally and must ask Congress for"
         },
         {
-          "from": "ukraine-truce-expires",
-          "to": "iran-ceasefire-life-support",
-          "relationship": "Senate minority leader pushing a war powers vote to end the Iran war, simultaneous with Democrats pushing Ukraine war powers resolutions, reflects a broader congressional reassertion that two simultaneous undeclared conflicts exceed executive authority, which constrains Trump's negotiating options in both theaters."
+          "from": "uk-shadow-fleet-bluff",
+          "to": "trump-scotus-loyalty-demand",
+          "relationship": "Both represent governments announcing enforcement postures that their own legal frameworks do not support: Starmer announcing boardings his lawyers say are impermissible, Trump pre-labeling court rulings as illegitimate before they are issued"
+        },
+        {
+          "from": "openai-eu-cyber-deal",
+          "to": "trump-scotus-loyalty-demand",
+          "relationship": "OpenAI's cooperative posture is a private-sector response to the same dynamic: when you cannot rely on legal authority to hold, you preemptively trade concessions for goodwill. Trump is attempting the same with the judiciary and failing because courts do not negotiate"
         }
       ]
     },
     {
-      "id": "chip-war-summit-divergence",
-      "title": "The Chips the Summit Cannot Fix",
-      "description": "The Trump-Xi summit and the Huawei chip disclosure are happening simultaneously, but they are operating on incompatible timelines. The summit will produce announcements about hardware export controls. The Huawei lab disclosure and the NVIDIA smuggling case reveal that both the controlled and the uncontrolled hardware problems are already beyond the summit's reach: Chinese domestic chips have 62% market share, and restricted US chips are being smuggled in through Southeast Asia. The Beijing summit will generate communiques about a technology war that has already moved to a terrain the communiques cannot address.",
-      "type": "dependency-web",
-      "stories": ["huawei-chip-war-summit", "trump-xi-beijing-summit"],
+      "id": "iran-war-economic-transmission",
+      "title": "The Iran War Is Now Primarily an Economic Event",
+      "description": "The Iran war began as a military story and has become an economic one. Today's CPI print, the gas tax debate, the Fed transition, the supply chain stress indicators, and the stalled Trump-Xi summit are all downstream of the Strait of Hormuz closure. The war itself appears to be on diplomatic life support. But the inflation it created will outlast any ceasefire, because commodity prices reset slowly, inflation expectations are already embedded, and Kevin Warsh inherits a Fed that has to choose between its mandate and its political context. The war may end before its economic consequences do.",
+      "type": "cause-effect",
+      "stories": ["april-cpi-warsh-fed", "gas-tax-iran-war", "iran-ceasefire-life-support", "trump-xi-beijing-summit"],
       "connections": [
         {
-          "from": "huawei-chip-war-summit",
-          "to": "trump-xi-beijing-summit",
-          "relationship": "Huawei showing its chip lab on national TV three days before the summit is Beijing negotiating in public: any US demand for export control concessions is met with demonstrated evidence that Chinese domestic capability has already reduced dependence on US chips, weakening the US leverage position."
+          "from": "iran-ceasefire-life-support",
+          "to": "april-cpi-warsh-fed",
+          "relationship": "The ceasefire's failure to hold keeps oil prices above $100/bbl, which is the primary driver of the 3.8% CPI print Warsh will inherit as his opening conditions"
         },
         {
-          "from": "trump-xi-beijing-summit",
+          "from": "april-cpi-warsh-fed",
+          "to": "gas-tax-iran-war",
+          "relationship": "A hot CPI print increases political pressure on Trump to demonstrate relief action, making the gas tax suspension politically urgent even as its fiscal cost to the Highway Trust Fund mounts"
+        },
+        {
+          "from": "iran-ceasefire-life-support",
+          "to": "trump-xi-beijing-summit",
+          "relationship": "The ceasefire failure forces Iran onto the Beijing agenda, but China is Iran's largest oil buyer and is being sanctioned for that relationship: Trump arrives at the summit simultaneously sanctioning Chinese teapot refineries and asking Xi for cooperation"
+        }
+      ]
+    },
+    {
+      "id": "infrastructure-for-control",
+      "title": "Two Governments Building Systems That Will Outlast Their Stated Purpose",
+      "description": "The EU's age-verification app and the UK shadow fleet tracking infrastructure are both being built in response to urgent, sympathetic problems. Child safety and sanctions enforcement are hard to oppose. But both systems create surveillance capacity that will persist after the original justification fades. The EU is building a universal identity layer it plans to deploy through Apple and Google. The UK is tracking hundreds of ships in real time. The stated uses are narrow. The technical substrate is not.",
+      "type": "dependency-web",
+      "stories": ["eu-social-media-delay-children", "uk-shadow-fleet-bluff", "huawei-chip-war-summit"],
+      "connections": [
+        {
+          "from": "eu-social-media-delay-children",
           "to": "huawei-chip-war-summit",
-          "relationship": "If the summit produces AI export restriction relief for Chinese firms, it legitimizes the very chip acquisition channels that the NVIDIA smuggling case was trying to criminalize, creating a contradiction between the DOJ prosecution and the State Department negotiation happening in the same week."
+          "relationship": "Both stories are about governments deciding who controls critical digital infrastructure: the EU is building its own age-verification layer rather than relying on US platforms, just as Beijing showed Huawei's chip lab to assert it does not need US semiconductors"
+        },
+        {
+          "from": "uk-shadow-fleet-bluff",
+          "to": "eu-social-media-delay-children",
+          "relationship": "Both reveal the gap between announced capability and actual enforcement: the UK has the tracking infrastructure to monitor every shadow fleet ship but not the legal authority to act; the EU has the age-verification app but not the unified legal framework to deploy it"
         }
       ]
     }

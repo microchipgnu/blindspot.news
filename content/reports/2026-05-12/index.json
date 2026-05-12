@@ -1,6 +1,6 @@
 {
   "date": "2026-05-12",
-  "generatedAt": "2026-05-12T08:35:00Z",
+  "generatedAt": "2026-05-12T13:00:00Z",
   "reports": [
     {
       "id": "iran-ceasefire-life-support",
@@ -31,6 +31,36 @@
       "title": "The Chip Lab on National Television",
       "subtitle": "Beijing showed Huawei's secret semiconductor research lab on prime-time TV three days before Trump lands. This was a message, not a documentary.",
       "category": "power"
+    },
+    {
+      "id": "openai-eu-cyber-deal",
+      "title": "OpenAI Buys Its Way Into Europe While Anthropic Waits",
+      "subtitle": "GPT-5.5-Cyber is now free to EU defenders. Anthropic's Mythos is not. This is not a cybersecurity story.",
+      "category": "power"
+    },
+    {
+      "id": "trump-scotus-loyalty-demand",
+      "title": "Trump Names His Own Justices in Public, Warns the Birthright Ruling Will Follow",
+      "subtitle": "Gorsuch and Barrett voted wrong on tariffs. Now they face the birthright case. Trump is not asking for loyalty. He is documenting a grievance.",
+      "category": "power"
+    },
+    {
+      "id": "april-cpi-warsh-fed",
+      "title": "The Inflation Number Lands Three Days Before the New Fed Chair Does",
+      "subtitle": "April CPI is expected at 3.8%, a 3-year high. Kevin Warsh takes over Friday. His first decision will be whether to pretend the last five years didn't happen.",
+      "category": "decision"
+    },
+    {
+      "id": "uk-shadow-fleet-bluff",
+      "title": "184 Sanctioned Russian Ships Passed Through UK Waters. None Were Boarded.",
+      "subtitle": "Keir Starmer announced in March that British forces could now intercept shadow fleet tankers. Seven weeks later, the count is 238 journeys, zero boardings.",
+      "category": "power"
+    },
+    {
+      "id": "eu-social-media-delay-children",
+      "title": "Von der Leyen Wants to Delay Children's Access to Social Media. The Question Is Delay It Until When.",
+      "subtitle": "The EU is proposing a 'social media delay' for kids, backed by an age-verification app that is ready to deploy. Ten member states already have different rules.",
+      "category": "ethics"
     }
   ]
 }

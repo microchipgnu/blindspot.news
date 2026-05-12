@@ -1,0 +1,102 @@
+{
+  "id": "april-cpi-warsh-fed",
+  "date": "2026-05-12",
+  "generatedAt": "2026-05-12T13:00:00Z",
+  "title": "The Inflation Number Lands Three Days Before the New Fed Chair Does",
+  "subtitle": "April CPI is expected at 3.8%, a 3-year high. Kevin Warsh takes over Friday. His first decision will be whether to pretend the last five years didn't happen.",
+  "topic": "economy",
+  "category": "decision",
+  "tags": ["Fed", "CPI", "inflation", "Warsh", "Powell", "interest rates", "Iran war"],
+  "coverImage": {
+    "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260511-grocery-shop-lidl-ew-445p-79f105.jpg",
+    "local": "/images/reports/2026-05-12/april-cpi-warsh-fed.jpg",
+    "credit": "NBC News"
+  },
+  "sources": [
+    {
+      "url": "https://www.nbcnews.com/business/economy/april-inflation-data-iran-war-rcna344586",
+      "publisher": "NBC News",
+      "angle": "Straight economic preview; forecasts 3.8% headline CPI, notes wage growth falling below inflation for first time since 2023"
+    },
+    {
+      "url": "https://abcnews.com/Business/inflation-report-show-latest-prices-fuel-costs-surge/story?id=132842452",
+      "publisher": "ABC News",
+      "angle": "Consumer-focused framing; tracks the $4.52 average gas price and the University of Michigan sentiment hitting record lows"
+    },
+    {
+      "url": "https://www.fxstreet.com/analysis/us-april-cpi-set-to-test-iran-related-inflation-worries-202605120547",
+      "publisher": "FX Street / Danske Bank",
+      "angle": "Market-facing analysis; forecasts core CPI below consensus at 2.6% YoY, argues EUR/USD could push above 1.18 on a soft print"
+    },
+    {
+      "url": "https://www.businessinsider.com/fed-rate-cuts-outlook-inflation-oil-prices-iran-war-cpi-2026-5",
+      "publisher": "Business Insider",
+      "angle": "Contrarian take from $31B CIO Brad Long: Fed will not hike because supply-shock inflation cannot be fixed by tightening demand"
+    }
+  ],
+  "brief": {
+    "actors": ["Fed", "Powell", "Warsh", "Iran", "Trump"],
+    "whatHappened": "The Bureau of Labor Statistics is releasing April CPI data today (May 12) at 8:30 AM ET. Economists expect headline inflation at 3.8%, driven by oil prices that spiked more than 50% after Iran closed the Strait of Hormuz in March. The Iran war has pushed gas to $4.52 per gallon nationally, a 52% increase since February 28. This print lands three days before Federal Reserve Chair Jerome Powell's final day in office (May 15) and the beginning of Kevin Warsh's tenure. Polymarket prices an 91.5% probability that Powell departs by May 16. Markets are pricing a 25% chance of a rate hike somewhere in 2026, versus a 6% chance of a cut.",
+    "bottomLine": "The April CPI print is not an economic data point. It is Warsh's opening conditions: he inherits a Fed that has held rates through three meetings while inflation doubled, and his first decision is whether to hike into a supply shock that rate increases cannot fix.",
+    "hiddenBets": [
+      {
+        "assumption": "The Fed should hike to address 3.8% inflation",
+        "whyItMightBeWrong": "The inflation is almost entirely driven by oil supply disruption caused by a war. Raising the federal funds rate does not reopen the Strait of Hormuz. Core CPI, which excludes food and energy, is projected at 2.6% YoY. The Fed's rate tools address demand-pull inflation; this is a supply shock. Hiking creates a recession without reducing the oil price."
+      },
+      {
+        "assumption": "Warsh will be hawkish because his voting record is hawkish",
+        "whyItMightBeWrong": "Warsh dissented for tighter policy during 2006-2011 when demand was driving inflation. His argument was always about structural misallocation, not mechanical CPI targets. A president who wants lower borrowing costs will have nominated someone he believes will deliver them. Warsh's first test is whether his institutional independence survives the context in which he was appointed."
+      },
+      {
+        "assumption": "Consumer sentiment at record lows signals an imminent recession",
+        "whyItMightBeWrong": "Consumer spending remained positive in April despite record low sentiment. The disconnect may reflect that higher-income households, who do most of the spending, are shielded by wealth effects from a stock market at record highs. The recession signal in sentiment may not transmit to actual spending before the war ends."
+      }
+    ],
+    "realDisagreement": "The fork: treat this inflation as demand-driven and raise rates, or treat it as a supply shock and hold. The case for holding is analytically stronger. The case for hiking is politically safer for an incoming chair who needs to establish credibility on inflation without being accused of serving the president who appointed him. The two positions cannot both be right, and the choice will define the Warsh Fed for years. I would hold and accept the credibility hit, because hiking into a supply shock is the wrong call regardless of how it looks.",
+    "whatNoOneIsSaying": "Warsh is being handed an impossible brief: hold rates and be accused of serving Trump's interest in cheap money, or hike rates and cause a recession during a war that is already driving record-low consumer sentiment. Either choice will be used against the Fed's independence. The only position that preserves institutional credibility is the one that the incoming chair cannot make politically.",
+    "whoPays": [
+      {
+        "who": "Middle and lower-income American workers",
+        "how": "Wage growth fell to 3.4% in March; if April CPI hits 3.8%, real wages go negative for the first time since 2023. Unlike higher-income households with assets, these workers have no wealth buffer against falling purchasing power.",
+        "when": "Immediately, paycheck by paycheck through summer 2026"
+      },
+      {
+        "who": "Homebuilders and small businesses",
+        "how": "If markets price in a Warsh hike by year-end, mortgage rates spike before the hike actually occurs. Homebuilders, already operating in a frozen market, lose customers at the margin. Small businesses with floating-rate debt see costs rise.",
+        "when": "Within weeks of a hot CPI print, as rate expectations reprice"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Hot print, Warsh holds",
+        "whatHappens": "CPI comes in at 3.8%+. Warsh takes over Friday and publicly frames the inflation as war-driven and supply-side, declining to signal a hike. Markets initially reprice hawkish, then recover as the Fed's analytical frame takes hold. Dollar strengthens modestly.",
+        "signal": "First Warsh press conference statement includes the phrase 'supply-driven' or 'war-related' as a qualifier on inflation"
+      },
+      {
+        "name": "Hot print, Warsh signals hike",
+        "whatHappens": "CPI above 3.8% forces Warsh to signal policy tightening to establish anti-inflation credibility. June meeting becomes live for a 25bp hike. Mortgage rates spike. Stock market drops 3-5% in the week following. Recession probability climbs.",
+        "signal": "June FOMC dot plot shows median rate projection above current levels; two or more dissents for hiking"
+      },
+      {
+        "name": "Cool surprise, pressure off",
+        "whatHappens": "CPI prints below 3.5%, driven by core coming in at 2.4% YoY. Warsh inherits a cleaner picture. Rate hike talk fades. Markets rally. The Iran war effect turns out to be partly priced in already.",
+        "signal": "10-year Treasury yield drops 15+ basis points on the release; EUR/USD breaks above 1.19"
+      }
+    ],
+    "whatWouldChange": "If Iranian oil supply resumed or the Strait of Hormuz reopened before the June FOMC meeting, the entire rate debate resets. The inflation this week is war inflation, and a war that ends takes the pressure off.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Fed rate hike in 2026?",
+        "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+        "probability": 0.255
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Jerome Powell depart as Fed Chair by May 16 2026?",
+        "url": "https://polymarket.com/event/jerome-powell-departs-as-fed-chair-by",
+        "probability": 0.915
+      }
+    ]
+  }
+}
