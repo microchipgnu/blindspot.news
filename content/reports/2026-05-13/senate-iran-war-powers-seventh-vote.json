@@ -1,0 +1,101 @@
+{
+  "id": "senate-iran-war-powers-seventh-vote",
+  "date": "2026-05-13",
+  "generatedAt": "2026-05-13T18:20:00Z",
+  "title": "The Senate Has Voted Seven Times to End the Iran War and Lost Every Time. That Is Now the Point.",
+  "subtitle": "Murkowski flipped, the vote failed 50-49, and Democrats are not trying to stop the war anymore -- they are trying to force Republicans to own it before November.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["Iran-war", "Senate", "war-powers", "Trump", "War-Powers-Act", "midterms"],
+  "coverImage": {
+    "url": "https://i.abcnewsfe.com/a/f92bbacc-b479-4d71-b514-d5f23ffb7977/wirestory_7e9173700a2cf1ea8d5c4b1a85a6bce3_16x9.jpg?w=1600",
+    "local": "/images/reports/2026-05-13/senate-iran-war-powers-seventh-vote.jpg",
+    "credit": "ABC News"
+  },
+  "sources": [
+    {
+      "url": "https://www.cbsnews.com/news/senate-defeats-7th-trump-war-powers-iran/",
+      "publisher": "CBS News",
+      "angle": "Murkowski told reporters she expected clarity from the administration after the 60-day War Powers Act deadline passed and did not receive it, making this her first vote for the resolution."
+    },
+    {
+      "url": "https://www.notus.org/congress/senate-rejects-war-powers-limit",
+      "publisher": "NOTUS",
+      "angle": "The vote failed 50-49 with Collins, Murkowski, and Paul voting with Democrats -- and Fetterman being the only Democrat to oppose, signaling internal Democratic dissent on the war's cost."
+    },
+    {
+      "url": "https://us.headtopics.com/news/republicans-support-for-iran-war-fractures-but-gop-holds-83319770",
+      "publisher": "Fox News via HeadTopics",
+      "angle": "Despite the cracks, the GOP holds: four Republicans voting against the war is not enough, and the story from the right frames this as Democrats' campaign of attrition finally drawing blood but still failing."
+    },
+    {
+      "url": "https://abcnews.com/US/wireStory/hegseth-facing-new-round-questioning-congress-iran-war-132871995",
+      "publisher": "ABC News / AP",
+      "angle": "Hegseth faces congressional testimony on the war's costs and objectives, with some Republicans privately questioning whether there is an exit strategy."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Senate", "Murkowski", "Collins", "Paul", "Fetterman", "Schumer", "Hegseth", "Iran"],
+    "whatHappened": "The Senate on Wednesday rejected for the seventh time a resolution to limit President Trump's authority to wage war against Iran, but the vote shifted: for the first time, Sen. Lisa Murkowski of Alaska joined Sens. Rand Paul and Susan Collins on the Republican side to vote with Democrats, making the final tally 50-49. The resolution failed because 60 votes are needed to discharge it from committee, but the one-vote margin is the closest it has come. Murkowski said the 60-day War Powers Act deadline had passed without the administration providing her the clarity it promised. Sen. John Fetterman of Pennsylvania was the sole Democrat to vote against the measure. The vote came as Defense Secretary Hegseth faced separate congressional questioning about the war's objectives and exit strategy.",
+    "bottomLine": "Democrats cannot stop the Iran war in the Senate. They can, however, make every Republican senator vote to continue it seven times before the 2026 midterms, and that is the actual strategy.",
+    "hiddenBets": [
+      {
+        "assumption": "The War Powers Act 60-day deadline creates legal pressure on the administration.",
+        "whyItMightBeWrong": "Every president since Nixon has ignored the War Powers Act as an unconstitutional infringement on executive power, and courts have consistently declined to enforce it. The clock ran out. Nothing happened. The legal pressure is rhetorical, not real."
+      },
+      {
+        "assumption": "Republican senators who flip will cost Trump politically in their states.",
+        "whyItMightBeWrong": "Collins and Murkowski represent states with significant veterans communities and libertarian-leaning independents. Voting for war constraints may be cheaper for them than voting against it in a midterm environment where gas prices are up 50% because of the conflict."
+      },
+      {
+        "assumption": "Fetterman's dissent is principled.",
+        "whyItMightBeWrong": "Fetterman is running for re-election in Pennsylvania in 2026, where Iran hawkishness and support for Israel poll better than in most blue states. His no vote is almost certainly electoral positioning, not a philosophical departure from his party."
+      }
+    ],
+    "realDisagreement": "The underlying fork is whether Congress has any legitimate war-limiting power once a president commits forces. Democrats argue the War Powers Act means the clock ran out and the war is now unauthorized. Republicans argue the president's Article II commander-in-chief authority is plenary and Congress cannot set a deadline for ending a conflict it never formally authorized in the first place. Both positions have serious constitutional backing. But the operational reality is that the branch holding the guns decides this, not the branch holding the resolutions. I would lean toward the Democrats' position on the constitutional text, but the Republicans are right about who wins in practice. The more important question is whether the accumulation of Republican defections -- Paul, Collins, Murkowski -- eventually reaches 60, and the Polymarket at 4.3% for a war powers resolution passing by May 31 suggests the market sees that as effectively impossible near-term.",
+    "whatNoOneIsSaying": "The Iran war is unpopular enough that a majority of the Senate just voted to end it. That is the news. Every headline focuses on the 50-49 failure, but the majority-of-the-Senate fact is what the 2026 midterm campaigns will be built on.",
+    "whoPays": [
+      {
+        "who": "Vulnerable Senate Republicans in swing states",
+        "how": "Each successive war powers vote creates a recorded vote tally that Democratic challengers can run ads against in states where gas prices and war fatigue are electoral liabilities.",
+        "when": "November 2026 midterms"
+      },
+      {
+        "who": "US military personnel and their families",
+        "how": "The absence of a clear exit strategy or defined objectives, which Murkowski explicitly cited, means deployment timelines and rules of engagement remain undefined. Personnel face open-ended exposure in an undeclared war.",
+        "when": "Ongoing"
+      },
+      {
+        "who": "Iranian civilians",
+        "how": "A war authorized by no formal declaration, bounded by no legal framework, and subject to no congressional review has no structural limit on escalation. Without the constraint of formal authorization, the administration faces no domestic legal floor on the conflict's scope.",
+        "when": "Ongoing, with escalation risk in coming months"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Slow Bleed to 60",
+        "whatHappens": "Two to three more Republican senators defect over the next two months, pushed by constituent pressure from gas prices and military family fatigue, bringing the resolution within range of 60 votes by late summer.",
+        "signal": "A Republican senator from a gas-price-sensitive state -- Texas, Ohio, or Arizona -- gives a floor speech citing constituent economic concerns about the war."
+      },
+      {
+        "name": "War Ends on Trump's Terms",
+        "whatHappens": "Trump secures a negotiated ceasefire through the Beijing summit or direct Iran talks before the Senate reaches 60 votes, declaring victory and making the war powers debate moot.",
+        "signal": "Wang Yi announces Chinese mediation in Iran talks, or the White House announces a direct US-Iran communications channel has been established."
+      },
+      {
+        "name": "Permanent Stalemate",
+        "whatHappens": "The war drags through November, Republicans hold the line at 55-45 against the resolution, and the conflict becomes the defining issue of the 2026 midterms without any formal legislative resolution.",
+        "signal": "Hegseth testimony produces no new Republican defections and the administration announces an extended operational timeline for 'Operation Epic Fury.'"
+      }
+    ],
+    "whatWouldChange": "If a second Republican senator from a state with major military installations -- not just libertarian-aligned Paul or already-known-dissidents Collins and Murkowski -- votes for the resolution, the 60-vote threshold becomes credible and the entire political dynamic shifts.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Congress passes Iran war powers resolution by May 31?",
+        "url": "https://polymarket.com/event/congress-passes-iran-war-powers-resolution-by-may-31",
+        "probability": 0.043
+      }
+    ]
+  }
+}

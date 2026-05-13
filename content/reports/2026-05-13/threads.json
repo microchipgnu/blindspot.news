@@ -30,12 +30,17 @@
       "title": "Courts Are Systematically Dismantling Executive Unilateralism on Two Fronts Simultaneously",
       "description": "The Section 122 tariff ruling and the SCOTUS redistricting ruling look like unrelated legal events but together represent a single contested question: how much can the executive branch -- and the institutions aligned with it -- act without clear legal authorization? The tariff courts say the president cannot impose global duties using statutes that do not explicitly grant that power. The SCOTUS redistricting ruling says the same court can reverse itself when politically expedient, which creates the inverse problem: a judiciary acting without stable legal justification. Both rulings expose a governance system where the boundaries of institutional authority are actively contested and unstable.",
       "type": "tension-cluster",
-      "stories": ["trump-tariff-section122-courts", "scotus-redistricting-voting-rights"],
+      "stories": ["trump-tariff-section122-courts", "scotus-redistricting-voting-rights", "senate-iran-war-powers-seventh-vote"],
       "connections": [
         {
           "from": "trump-tariff-section122-courts",
           "to": "scotus-redistricting-voting-rights",
           "relationship": "In the tariff cases, courts are constraining executive action by insisting on explicit statutory authorization; in the redistricting case, the Supreme Court reversed a ruling it previously upheld with no written opinion -- the two trends reveal that the rule of law is being applied selectively depending on whether the institution asserting authority is aligned with the current political majority."
+        },
+        {
+          "from": "senate-iran-war-powers-seventh-vote",
+          "to": "trump-tariff-section122-courts",
+          "relationship": "The Senate's seventh war powers vote and the courts' tariff rulings both test the same constitutional theory: that the executive branch can act broadly without explicit congressional authorization, and both are finding that the other branches are not uniformly acquiescing. The War Powers Act is being ignored by the president; the tariff statutes are being enforced by courts against him."
         }
       ]
     },
@@ -44,7 +49,7 @@
       "title": "Three Stories Today Are About Who Controls AI Infrastructure -- Lab, Distribution, and Supply Chain",
       "description": "The Musk-Altman trial, the Meta WhatsApp EU ruling, and the Trump-Xi summit are being covered as a legal drama, a regulatory story, and a diplomatic visit. But they are all about the same question: who controls the three layers of AI power. OpenAI controls the frontier lab -- and Musk wants either ownership or to neutralize it. Meta controls the messaging distribution platform that connects AI to two billion users -- and the EU is trying to break that chokehold. The Trump-Xi summit has a 50% probability of producing AI chip export relief for China -- which determines whether Nvidia's supply chain constraint stays intact or breaks open. A ruling at any one layer reshapes the others.",
       "type": "dependency-web",
-      "stories": ["musk-altman-openai-trial", "meta-whatsapp-eu-antitrust", "trump-xi-beijing-summit"],
+      "stories": ["musk-altman-openai-trial", "meta-whatsapp-eu-antitrust", "trump-xi-beijing-summit", "match-act-asml-chip-export"],
       "connections": [
         {
           "from": "musk-altman-openai-trial",
@@ -55,6 +60,11 @@
           "from": "trump-xi-beijing-summit",
           "to": "meta-whatsapp-eu-antitrust",
           "relationship": "If Trump grants China AI chip export relief, it accelerates the development of Chinese AI models that would be among the first to seek WhatsApp API access under the EU's new interoperability mandate -- the diplomatic concession creates direct competitors for Meta AI in the distribution channel the EU is forcing open."
+        },
+        {
+          "from": "match-act-asml-chip-export",
+          "to": "trump-xi-beijing-summit",
+          "relationship": "The MATCH Act's 150-day compliance deadline for the Netherlands is being introduced on the same day Trump sits down with Xi -- creating a contradiction where Washington is simultaneously tightening chip restrictions through legislation and seeking Chinese diplomatic cooperation, signaling that the MATCH Act is a bargaining chip rather than a committed policy."
         }
       ]
     },
@@ -69,6 +79,54 @@
           "from": "iran-hormuz-ceasefire",
           "to": "samsung-semiconductor-strike",
           "relationship": "Hormuz disruption raises energy and logistics costs for Korean manufacturers, compressing Samsung's operating margins at the same moment workers are demanding profit-sharing bonuses benchmarked to SK Hynix's record year -- the war made the bonus gap larger by squeezing Samsung's profitability from the cost side."
+        }
+      ]
+    },
+    {
+      "id": "iran-war-global-costs-invisible",
+      "title": "The Iran War Has Two Casualty Counts. Only One of Them Gets Reported.",
+      "description": "The Senate war powers vote and the WHO health statistics reversal are not obviously connected, but they measure the same cost from different angles. The Senate vote is about the domestic political price of a war Congress never authorized. The WHO report is about the global health price of the US redirecting foreign assistance toward war costs and cutting international health funding. When USAID's malaria bed net distribution programs are defunded to redirect discretionary spending toward Iran war supplementals, children in West Africa die of preventable disease. That is a cost of the war. The WHO report will not say so. The Senate war powers debate does not mention it. But both stories are about what gets paid when a war has no exit.",
+      "type": "dependency-web",
+      "stories": ["senate-iran-war-powers-seventh-vote", "who-health-statistics-2026-reversal", "iran-hormuz-ceasefire", "trump-gas-tax-holiday"],
+      "connections": [
+        {
+          "from": "iran-hormuz-ceasefire",
+          "to": "who-health-statistics-2026-reversal",
+          "relationship": "The Iran war created budget pressure that accelerated USAID cuts and defunded the global health programs -- malaria control, maternal health, vaccine distribution -- whose collapse the WHO report is now measuring as a 'systemic' challenge without naming the cause."
+        },
+        {
+          "from": "senate-iran-war-powers-seventh-vote",
+          "to": "who-health-statistics-2026-reversal",
+          "relationship": "The Senate's failure to limit war powers means no institutional brake on the spending diversion from global health programs to war costs; the war continues, the defunding continues, and the reversal in health statistics continues with it."
+        },
+        {
+          "from": "trump-gas-tax-holiday",
+          "to": "who-health-statistics-2026-reversal",
+          "relationship": "The gas tax holiday would cost the highway fund $30 billion -- the same order of magnitude as the USAID global health cuts that are driving the WHO statistics reversal. The US faces a choice between subsidizing domestic fuel consumption and funding global health programs it is already failing to fund, and the political math is not close."
+        }
+      ]
+    },
+    {
+      "id": "china-strategic-patience-multiplex",
+      "title": "China Is Running a Four-Board Chess Game and Each Story Today Is One of the Boards",
+      "description": "The China-Taiwan lessons piece, the Trump-Xi summit, the MATCH Act confrontation, and the Senate war powers vote are being covered as separate stories. They are actually four moves in the same Chinese strategic patience play. China watched the Iran war reveal US stockpile depth and political durability. China is now facing the MATCH Act chip restriction while Trump needs China's help on Iran. China's refusal to join Iran negotiations (15.5% on Polymarket) is not a failure -- it is leverage. And the Senate's seven failed war powers votes signal to Beijing that the US executive can sustain a war indefinitely even when a majority of the Senate opposes it. Every one of today's stories makes Taiwan slightly harder to defend.",
+      "type": "dependency-web",
+      "stories": ["china-taiwan-iran-war-lessons", "trump-xi-beijing-summit", "match-act-asml-chip-export", "senate-iran-war-powers-seventh-vote"],
+      "connections": [
+        {
+          "from": "china-taiwan-iran-war-lessons",
+          "to": "match-act-asml-chip-export",
+          "relationship": "The intelligence value China gained from observing the Iran war makes the MATCH Act more urgent from the US side -- but it also makes it easier for China to accept the chip restrictions as a manageable cost, because the real constraint on US deterrence is now documented operational limits, not chip access."
+        },
+        {
+          "from": "senate-iran-war-powers-seventh-vote",
+          "to": "china-taiwan-iran-war-lessons",
+          "relationship": "The Senate's inability to constrain the Iran war, even with majority support, tells Beijing that the US executive can commit forces and sustain operations past any political opposition short of 60 Senate votes -- which reduces the deterrent value of US domestic political fragility as a strategic constraint in any Taiwan scenario."
+        },
+        {
+          "from": "trump-xi-beijing-summit",
+          "to": "match-act-asml-chip-export",
+          "relationship": "If Trump uses the MATCH Act as a summit negotiating chip and softens enforcement in exchange for Chinese soybean and Boeing deals, the Netherlands objection becomes retrospectively vindicated -- Washington demonstrated that its chip legislation is a bargaining instrument rather than a security commitment."
         }
       ]
     }

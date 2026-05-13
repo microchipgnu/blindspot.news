@@ -1,0 +1,101 @@
+{
+  "id": "clarity-act-crypto-senate-markup",
+  "date": "2026-05-13",
+  "generatedAt": "2026-05-13T18:25:00Z",
+  "title": "The Senate Is About to Draw the Map of Crypto. The Industry Does Not Know If It Will Like It.",
+  "subtitle": "The 309-page CLARITY Act goes to Senate Banking Committee markup on May 14 -- it splits crypto between the SEC and CFTC, bans stablecoin yield, and Polymarket gives it 58% odds of becoming law this year.",
+  "topic": "economy",
+  "category": "decision",
+  "tags": ["CLARITY-Act", "crypto", "digital-assets", "SEC", "CFTC", "stablecoin", "Senate", "regulation"],
+  "coverImage": {
+    "url": "https://cdn.sanity.io/images/s3y3vcno/production/80e88f1b55051ed1a8439fd3fab5518a4860c2b8-4030x2267.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+    "local": "/images/reports/2026-05-13/clarity-act-crypto-senate.jpg",
+    "credit": "CoinDesk"
+  },
+  "sources": [
+    {
+      "url": "https://www.coindesk.com/policy/2026/05/11/clarity-act-in-the-flesh-unveiled-by-u-s-senate-banking-committee-before-hearing",
+      "publisher": "CoinDesk",
+      "angle": "The bill splits oversight by assigning SEC authority over new token sales and CFTC control over all secondary trading, a division the industry has been lobbying for but which DeFi protocols are now worried about."
+    },
+    {
+      "url": "https://news.bitcoin.com/us-senate-drops-309-page-crypto-clarity-act-draft-ahead-of-may-14-vote/",
+      "publisher": "Bitcoin.com News",
+      "angle": "The 309-page draft is 31 pages longer than the previous version and adds new DeFi provisions; the stablecoin yield ban is the most controversial addition, targeting protocols like Aave and Compound."
+    },
+    {
+      "url": "https://www.financemagnates.com/cryptocurrency/regulation/what-is-the-clarity-act-the-us-crypto-bill-that-could-reshape-digital-asset-regulation-this-week/",
+      "publisher": "Finance Magnates",
+      "angle": "Even if the committee passes it, the bill still needs 60 votes on the Senate floor and must reconcile with the House version, which was passed last year and differs on key stablecoin provisions."
+    },
+    {
+      "url": "https://cryptonewsinsights.com/clarity-act-senate-banking-hearing/",
+      "publisher": "Crypto News Insights",
+      "angle": "The stablecoin rewards ban -- prohibiting yield on stablecoins that function like bank accounts -- is framed as consumer protection but is actually a bank protection, because it limits what stablecoin issuers can offer relative to bank deposit accounts."
+    }
+  ],
+  "brief": {
+    "actors": ["Senate", "SEC", "CFTC", "Tim Scott", "Congress", "Bitcoin", "Ethereum"],
+    "whatHappened": "The Senate Banking Committee, chaired by Sen. Tim Scott of South Carolina, published a 309-page draft of the CLARITY Act on May 12 and scheduled a formal markup vote for May 14. The bill would formally divide US crypto oversight between the Securities and Exchange Commission, which would regulate initial token sales, and the Commodity Futures Trading Commission, which would regulate all secondary market trading. A new provision bans yield-bearing stablecoins that function like demand deposit accounts. The bipartisan bill was brokered by Sens. Thom Tillis and Angela Alsobrooks. A committee vote passing the bill would send it to the full Senate, where it would need 60 votes and reconciliation with the House version passed last year.",
+    "bottomLine": "The CLARITY Act is the most important piece of financial regulation in a decade, and the industry that lobbied hardest for it is now discovering that the map drawn to end regulatory ambiguity has drawn several major protocols out of existence.",
+    "hiddenBets": [
+      {
+        "assumption": "Regulatory clarity will unlock US crypto investment and bring offshore activity back.",
+        "whyItMightBeWrong": "The bill's stablecoin yield ban and DeFi disclosure requirements may push the most profitable segments of the ecosystem -- yield protocols, decentralized exchanges -- to jurisdictions where those rules do not apply. Clarity that bans your business model is not clarity, it is regulation."
+      },
+      {
+        "assumption": "The SEC-CFTC split is workable because tokens can be clearly categorized as securities or commodities.",
+        "whyItMightBeWrong": "The same token can function as a security when first issued and a commodity once it is widely distributed. The CLARITY Act creates a jurisdictional transition point that both agencies will fight over in every case that is not obvious, generating exactly the litigation it was meant to prevent."
+      },
+      {
+        "assumption": "Bipartisan support means it will pass.",
+        "whyItMightBeWrong": "The House version and Senate version differ materially on stablecoin provisions, and reconciling them will reopen every settled compromise. The 60-vote Senate threshold means a handful of Democratic senators who represent bank-heavy constituencies can kill it at any moment."
+      }
+    ],
+    "realDisagreement": "The core tension is between treating crypto as a new asset class that deserves its own regulatory framework versus treating it as financial instruments that already have frameworks and simply need enforcement. The CLARITY Act is a bet on the former: build new institutions, new categories, new oversight structures. The alternative -- which the SEC under Gensler tried for four years -- was to force crypto into existing securities law, with mixed legal results. The CLARITY Act approach will produce a cleaner, more predictable environment for institutional players. It will also lock in a set of rules that favor large, compliant actors over small, innovative ones. The industry lobbied for clarity and may get a framework that preserves the top layer of the ecosystem while banning the bottom layer that made it interesting. I lean toward thinking this passes in some form, because the political will is there and Polymarket at 58% reflects genuine legislative momentum, but the stablecoin yield ban will be the provision most likely to get stripped before final passage.",
+    "whatNoOneIsSaying": "The stablecoin yield ban is a gift to traditional banks. If stablecoins cannot pay yield, they cannot compete with bank deposit accounts for everyday savers. The Senate Banking Committee is chaired by a senator from South Carolina, which has a significant regional banking constituency. This is financial protectionism dressed as consumer protection.",
+    "whoPays": [
+      {
+        "who": "DeFi protocol users",
+        "how": "Protocols like Aave, Compound, and MakerDAO that pay yield on stablecoin deposits would be required to register as money transmitters or banks, with capital requirements they cannot meet. Most would simply geo-block US users.",
+        "when": "Within 12 months of enactment"
+      },
+      {
+        "who": "Retail crypto investors",
+        "how": "The SEC jurisdiction over new token sales creates registration requirements that effectively shut off access to token launches for US retail investors, who would be limited to listed tokens on registered exchanges.",
+        "when": "Immediate upon enactment"
+      },
+      {
+        "who": "Regional banks",
+        "how": "They gain a competitive advantage because stablecoin issuers cannot offer yield accounts, protecting the banks' core deposit-gathering function from a direct digital challenger.",
+        "when": "Ongoing benefit from enactment forward"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Committee Passes, Floor Dies",
+        "whatHappens": "The Senate Banking Committee passes the markup on May 14, but the bill stalls on the Senate floor at 55 votes as three bank-state Democrats refuse to cross the 60-vote threshold without further concessions on the stablecoin yield ban.",
+        "signal": "Sen. Jon Ossoff (Georgia) or Sen. Mark Warner (Virginia) announces reservations about the stablecoin provisions after the committee vote."
+      },
+      {
+        "name": "Signed Into Law",
+        "whatHappens": "Both chambers reconcile their versions, the yield ban is softened to allow 'qualified' stablecoin issuers to offer yield under FDIC-like supervision, and Trump signs the bill before the midterms as a 'pro-innovation' win.",
+        "signal": "The House Financial Services Committee announces a reconciliation conference with the Senate within 30 days of the Senate markup."
+      },
+      {
+        "name": "DeFi Carveout Kills the Bill",
+        "whatHappens": "DeFi lobbying groups mobilize against the disclosure requirements for decentralized protocols, and enough senators representing crypto-heavy states -- Wyoming, Colorado, Arizona -- refuse to vote for a bill that bans yield, killing the 60-vote threshold.",
+        "signal": "The DeFi Education Fund announces opposition to the bill as written within 48 hours of the markup."
+      }
+    ],
+    "whatWouldChange": "If the stablecoin yield ban is removed or significantly narrowed before the full Senate floor vote, the bill becomes broadly favorable to the industry and the probability of passage increases substantially above 58%. The yield ban is the load-bearing controversy.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Clarity Act signed into law in 2026?",
+        "url": "https://polymarket.com/event/clarity-act-signed-into-law-in-2026",
+        "probability": 0.58
+      }
+    ]
+  }
+}

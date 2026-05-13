@@ -1,6 +1,6 @@
 {
   "date": "2026-05-13",
-  "generatedAt": "2026-05-13T13:30:00Z",
+  "generatedAt": "2026-05-13T18:35:00Z",
   "reports": [
     {
       "id": "iran-hormuz-ceasefire",
@@ -61,6 +61,36 @@
       "title": "Trump Wants to Suspend the Gas Tax. The Industry That Runs on Gas Does Not.",
       "subtitle": "Gas is up 50% since the Iran war started. An 18-cent relief would cost the highway fund $30 billion and the trucking lobby is already fighting it.",
       "category": "decision"
+    },
+    {
+      "id": "match-act-asml-chip-export",
+      "title": "The US Is Trying to Cut Off ASML from China While Its President Is in Beijing Asking China for Favors",
+      "subtitle": "The MATCH Act gives the Netherlands a 150-day deadline to stop ASML sales to China -- and The Hague is openly refusing, catching Washington in a contradiction it cannot resolve.",
+      "category": "power"
+    },
+    {
+      "id": "senate-iran-war-powers-seventh-vote",
+      "title": "The Senate Has Voted Seven Times to End the Iran War and Lost Every Time. That Is Now the Point.",
+      "subtitle": "Murkowski flipped, the vote failed 50-49, and Democrats are not trying to stop the war anymore -- they are trying to force Republicans to own it before November.",
+      "category": "power"
+    },
+    {
+      "id": "clarity-act-crypto-senate-markup",
+      "title": "The Senate Is About to Draw the Map of Crypto. The Industry Does Not Know If It Will Like It.",
+      "subtitle": "The 309-page CLARITY Act goes to Senate Banking Committee markup on May 14 -- it splits crypto between the SEC and CFTC, bans stablecoin yield, and Polymarket gives it 58% odds of becoming law this year.",
+      "category": "decision"
+    },
+    {
+      "id": "china-taiwan-iran-war-lessons",
+      "title": "China Did Not Fight in the Iran War. It May Have Won It Anyway.",
+      "subtitle": "The CFR and Times of India both say the same thing: Beijing watched the US burn through stockpiles, studied its weaknesses, and walked into the Trump summit holding a much stronger Taiwan hand than it had before the war started.",
+      "category": "power"
+    },
+    {
+      "id": "who-health-statistics-2026-reversal",
+      "title": "The World Is Losing the Health Gains It Spent Twenty Years Building. The WHO Cannot Say Why.",
+      "subtitle": "The 2026 World Health Statistics report released today says malaria is rising, maternal mortality is stalling, and childhood vaccine coverage is slipping below herd immunity thresholds -- but the report conspicuously avoids naming the funding cuts causing it.",
+      "category": "ethics"
     }
   ]
 }

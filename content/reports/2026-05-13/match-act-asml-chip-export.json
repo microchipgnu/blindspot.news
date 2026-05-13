@@ -1,0 +1,95 @@
+{
+  "id": "match-act-asml-chip-export",
+  "date": "2026-05-13",
+  "generatedAt": "2026-05-13T18:15:00Z",
+  "title": "The US Is Trying to Cut Off ASML from China While Its President Is in Beijing Asking China for Favors",
+  "subtitle": "The MATCH Act gives the Netherlands a 150-day deadline to stop ASML sales to China -- and The Hague is openly refusing, catching Washington in a contradiction it cannot resolve.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["ASML", "semiconductors", "chip-war", "export-controls", "Netherlands", "China", "MATCH-Act"],
+  "coverImage": {
+    "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/05/13/ee33d653-86d8-48b2-b476-acc0ef580ed9_31744a08.jpg?itok=BsQJvvEa&v=1778669969",
+    "local": "/images/reports/2026-05-13/match-act-asml-chip-export.jpg",
+    "credit": "South China Morning Post"
+  },
+  "sources": [
+    {
+      "url": "https://thenextweb.com/news/china-match-act-chip-bill-beijing-summit",
+      "publisher": "The Next Web",
+      "angle": "The MATCH Act's 150-day alignment deadline for Japan and the Netherlands is the sharpest edge of the bill, and China's foreign ministry called it out directly as Trump arrived in Beijing."
+    },
+    {
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3353452/netherlands-protests-us-proposal-further-bar-chip-giant-asml-china-market",
+      "publisher": "South China Morning Post",
+      "angle": "The Dutch government filed an official objection with Washington, arguing it cannot unilaterally be forced to apply US extraterritorial legislation to a Dutch company."
+    },
+    {
+      "url": "https://www.straitstimes.com/asia/east-asia/us-china-rivalry-over-ai-and-chips-intensifies-ahead-of-trump-xi-summit",
+      "publisher": "The Straits Times",
+      "angle": "The MATCH Act would close loopholes in existing US export controls and significantly hamstring China's AI development, which already relies on lower-end ASML machines after advanced EUV sales were banned."
+    },
+    {
+      "url": "https://seekingalpha.com/news/4591918-china-criticizes-us-chip-equipment-bill-ahead-of-trump-xi-meeting",
+      "publisher": "Seeking Alpha",
+      "angle": "Market perspective: ASML shares fell sharply on the bill's introduction as investors priced in the loss of remaining China revenue, which still accounts for roughly 19% of total sales."
+    }
+  ],
+  "brief": {
+    "actors": ["US", "Netherlands", "ASML", "China", "Trump", "Congress"],
+    "whatHappened": "The US Congress is advancing the MATCH Act, which would further restrict ASML -- the Dutch monopoly supplier of semiconductor lithography equipment -- from selling even its older, lower-end machines to Chinese customers, and would give the Netherlands and Japan a 150-day deadline to align their export controls with US policy. The Dutch government filed an official objection with Washington, calling the bill an extraterritorial overreach that cannot unilaterally bind a Dutch company. China's foreign ministry publicly criticized the bill on the morning Trump arrived in Beijing for his summit with Xi Jinping, calling it evidence of Washington's 'malicious blocking and suppression' of Chinese industry. ASML, already banned from selling its most advanced EUV machines to China, still generates roughly 19% of its revenue from Chinese customers for older equipment.",
+    "bottomLine": "The US wants China to be a trade partner on soybeans, oil, and Boeing planes while simultaneously forcing a US-aligned embargo on the one piece of European infrastructure China needs to close its chip gap. Both demands cannot be satisfied in the same week.",
+    "hiddenBets": [
+      {
+        "assumption": "The Netherlands will eventually comply because it needs the US alliance more than it needs ASML's China revenue.",
+        "whyItMightBeWrong": "The Dutch government has already lodged a formal objection, ASML employs tens of thousands in a country with a small industrial base, and the EU is increasingly resistant to US extraterritorial legislation after years of it. The Hague may calculate that acquiescing now simply invites the next demand."
+      },
+      {
+        "assumption": "Cutting off ASML's remaining China sales will slow Chinese chip development.",
+        "whyItMightBeWrong": "China is already spending aggressively on domestic lithography alternatives, including SMEE, which is advancing faster than Western analysts projected two years ago. The MATCH Act may accelerate Chinese self-sufficiency by removing any remaining reason for Beijing to stay dependent on foreign equipment."
+      },
+      {
+        "assumption": "This legislation is primarily about national security.",
+        "whyItMightBeWrong": "US chipmakers like Applied Materials and Lam Research also sell equipment to China, and the MATCH Act's 150-day alignment clause targets the European companies -- not the American ones -- suggesting competitive industrial policy dressed as security legislation."
+      }
+    ],
+    "realDisagreement": "The US and the Netherlands are arguing about whether American national security law can obligate a foreign company operating in a foreign country. Washington says yes, because the technology originated from US-origin intellectual property and export control jurisdiction travels with it. The Hague says no, because the Netherlands is a sovereign state and the Dutch have their own export control regime. The US position only works if allies accept that US law has global reach. The Netherlands' objection is the first serious crack in that assumption from a NATO ally during the Trump era. The more interesting question is whether the 150-day deadline is a real deadline or a negotiating position. If it is real, the US will have to choose between enforcing it against an ally or backing down. I would lean toward backing down, because the US needs European cooperation on too many other things right now, but backing down would signal that the deadline means nothing, which guts the deterrent logic of every future US chip restriction."
+    ,
+    "whatNoOneIsSaying": "ASML is the only company in the world that can build the extreme ultraviolet machines needed to make the most advanced chips. The US does not have a domestic alternative. If the Netherlands relationship fractures badly enough, the US cannot actually build its next generation of defense semiconductors without ASML cooperation either.",
+    "whoPays": [
+      {
+        "who": "ASML shareholders and Dutch workers",
+        "how": "Loss of roughly 19% of ASML's China revenue, which has already driven the stock down nearly 5% on the bill's introduction. Veldhoven -- the single Dutch city where ASML is headquartered -- employs roughly 42,000 people globally, with the Dutch facilities most exposed to any retaliatory Chinese procurement freeze.",
+        "when": "Within 6-18 months if the bill passes and is enforced"
+      },
+      {
+        "who": "US chip designers dependent on ASML tools",
+        "how": "If ASML accelerates its domestic China alternative program in response to US pressure, and that alternative eventually succeeds, US chipmakers lose their leverage over Chinese competitors who no longer need Western equipment at all.",
+        "when": "3-7 years"
+      },
+      {
+        "who": "Chinese fabless chip companies",
+        "how": "Near-term loss of access to ASML's older DUV machines needed for mature nodes, which China still heavily uses for automotive, industrial, and consumer electronics. This is actually painful because China has not yet substituted DUV at scale.",
+        "when": "Immediate if the law passes"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Summit Tradeoff",
+        "whatHappens": "Trump uses the MATCH Act as a bargaining chip at the Beijing summit, agreeing to delay or soften enforcement in exchange for Chinese concessions on Iranian oil purchases or Boeing orders. The Netherlands objection gives him political cover to back down.",
+        "signal": "A US-China joint statement on 'technology cooperation frameworks' or a White House announcement of a 'review period' for MATCH Act enforcement."
+      },
+      {
+        "name": "Alliance Fracture",
+        "whatHappens": "Congress passes the MATCH Act over Dutch objections, the Netherlands refuses compliance, and the US faces its first open enforcement confrontation with a NATO ally over chip controls. The EU begins coordinating its own response.",
+        "signal": "The Dutch parliament votes to formally oppose compliance, or the European Commission opens a formal complaint under WTO extraterritoriality rules."
+      },
+      {
+        "name": "China Accelerates",
+        "whatHappens": "Facing the loss of remaining ASML access, China's SMEE achieves viable DUV-class lithography within 18 months, removing China's dependency on Western equipment entirely. The MATCH Act succeeds in its stated goal and eliminates its own leverage.",
+        "signal": "SMEE machines begin appearing in TSMC competitor capacity announcements from SMIC or Hua Hong."
+      }
+    ],
+    "whatWouldChange": "If the Trump administration explicitly exempts ASML's existing service contracts and older DUV machines from MATCH Act enforcement, the story becomes a paper restriction with symbolic but limited real impact. That would change the bottom line from contradiction to managed hypocrisy.",
+    "markets": []
+  }
+}
