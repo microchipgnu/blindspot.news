@@ -1,0 +1,118 @@
+{
+  "id": "trump-xi-beijing-summit",
+  "date": "2026-05-13",
+  "generatedAt": "2026-05-13T13:30:00Z",
+  "title": "Trump Flies to Beijing Saying He Does Not Need Xi's Help -- Which Is How You Ask for Help",
+  "subtitle": "The US needs China to pressure Iran. China knows this. Markets put a 16% chance China actually joins Iran negotiations -- and an 88% chance it buys Boeing planes instead.",
+  "topic": "geopolitics",
+  "category": "power",
+  "tags": ["Trump", "Xi", "China", "Iran", "trade", "Taiwan", "AI chips"],
+  "coverImage": {
+    "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260512-president-trump-china-visit-vsb-2348-196a53.jpg",
+    "local": "/images/reports/2026-05-13/trump-xi-beijing-summit.jpg",
+    "credit": "NBC News"
+  },
+  "sources": [
+    {
+      "url": "https://www.nbcnews.com/politics/donald-trump/trade-taiwan-iran-cast-shadows-trumps-china-summit-xi-rcna344049",
+      "publisher": "NBC News",
+      "angle": "Overview of the summit agenda, noting US officials' low expectations while framing the visit as a stabilization effort -- the diplomatic equivalent of damage control"
+    },
+    {
+      "url": "https://abcnews.com/Politics/iran-war-looms-trumps-visit-beijing-analysis/story?id=132851357",
+      "publisher": "ABC News",
+      "angle": "Iran war as the dominant subtext: US explicitly asked China to encourage Iran back to negotiations, which analysts say gives Beijing leverage it did not have before"
+    },
+    {
+      "url": "https://ca.news.yahoo.com/rare-earths-deal-between-us-182638612.html",
+      "publisher": "Reuters via Yahoo",
+      "angle": "Full agenda preview including AI export restrictions, nuclear discussions, and a critical minerals deal extension -- signals that both sides want transaction wins even without strategic breakthrough"
+    },
+    {
+      "url": "https://indianexpress.com/article/explained/explained-global/trump-xi-china-summit-iran-trade-taiwan-ai-10686659/",
+      "publisher": "The Indian Express",
+      "angle": "Why China has the upper hand: it controls Iran's access to oil markets and diplomatic cover, and the ceasefire's fragility means Washington arrived as the supplicant"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/05/13/trump-xi-summit-china-iran-war-tariffs.html",
+      "publisher": "CNBC",
+      "angle": "Chinese exporters' perspective: the Iran war's impact on shipping and energy costs matters more to Chinese businesses than tariffs -- showing US leverage is weaker than Washington believes"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Xi", "China", "Iran", "Taiwan"],
+    "whatHappened": "President Trump departed Tuesday for a two-day summit with Chinese President Xi Jinping in Beijing, the first US presidential visit to China since Trump's return to office. The visit comes as the US-Iran war has stalled in a fragile ceasefire, with Hormuz shipping at minimal capacity. The White House framed the meeting around trade stabilization and extension of a critical minerals deal, while also asking China to encourage Iran back to formal negotiations. Trump publicly said he did not need Xi's help on Iran -- hours before boarding the plane for Beijing.",
+    "bottomLine": "China arrives at this summit as the indispensable power: it holds leverage over Iran through oil purchases and diplomatic cover, over Taiwan through military posture, and over the US through rare earth supplies -- and it has not had to trade any of it away yet.",
+    "hiddenBets": [
+      {
+        "assumption": "The summit will produce meaningful progress on Iran because both sides want the war to end",
+        "whyItMightBeWrong": "China benefits from a contained, expensive US military engagement in the Middle East. A prolonged Iran conflict keeps US attention and resources away from the Pacific and raises energy prices that Beijing can manage better than Washington can. China joining Iran negotiations at US request would cost China leverage for nothing."
+      },
+      {
+        "assumption": "Trade concessions -- Boeing aircraft, soybean purchases -- are separate from security issues like Taiwan and Iran",
+        "whyItMightBeWrong": "Polymarket puts Boeing aircraft purchases at 88% probability and China joining Iran negotiations at 16%. Beijing has learned to make commercial concessions that look like diplomatic wins while giving nothing on security. This summit is likely to follow that pattern."
+      },
+      {
+        "assumption": "AI export restriction relief for China is a real concession the US will offer",
+        "whyItMightBeWrong": "Polymarket puts AI chip export restriction relief at 50.5% -- essentially a coin flip. The domestic political cost in the US of handing China advanced chip access during an active conflict is high. This may be the carrot that gets dangled and then withdrawn."
+      }
+    ],
+    "realDisagreement": "The real fork is whether the US-China relationship is a rivalrous partnership that can be managed through transactional summits, or whether every concession the US makes to China accelerates a structural shift in power that makes the next crisis harder to manage. The transactionalists in the White House think Boeing orders and soybean purchases stabilize the relationship without materially changing the balance. The structural skeptics think every visit to Beijing that ends without movement on Taiwan or Iran normalizes a dynamic where China extracts economic wins while avoiding security obligations. The transactionalists are probably right in the short term and the structural skeptics are probably right over five years.",
+    "whatNoOneIsSaying": "The US needs China more right now than China needs the US. Saying that out loud would undermine the negotiating position, so every US official has to perform indifference about Iran while flying to Beijing to ask for help.",
+    "whoPays": [
+      {
+        "who": "Taiwan",
+        "how": "Every summit where the US focuses on trade and Iran implicitly deprioritizes Taiwan. Chinese officials read this as a signal that the cost of military pressure on Taiwan is lower than before the Iran war started.",
+        "when": "Medium-term risk accumulation over the next 12-18 months"
+      },
+      {
+        "who": "US allies in the Middle East -- Israel, Saudi Arabia, Gulf states",
+        "how": "If China brokers an Iran deal, it gains diplomatic standing in the region at US expense, giving Beijing leverage over Gulf energy policy that it currently lacks",
+        "when": "If a China-brokered deal emerges within 90 days"
+      },
+      {
+        "who": "Chinese exporters and manufacturers",
+        "how": "Prolonged Hormuz disruption raises energy costs and disrupts shipping routes for Chinese goods. This is why Beijing has a real but limited interest in conflict resolution -- not enough to accept a deal on US terms.",
+        "when": "Ongoing, already materializing"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Transactional wins, strategic stalemate",
+        "whatHappens": "China announces Boeing aircraft purchases and soybean orders. The US announces AI chip export relief for civilian uses. Iran is not mentioned in the joint statement. Both sides declare success.",
+        "signal": "Joint communique contains no language about Iran, Hormuz, or ceasefire enforcement"
+      },
+      {
+        "name": "China joins Iran mediation",
+        "whatHappens": "Xi agrees to send envoys to Tehran as part of a three-way negotiation including the US. This would be a genuine surprise. China extracts a commitment on Taiwan arms sales in return.",
+        "signal": "A US official acknowledges China's 'constructive role' in Iran in post-summit remarks -- language that would be unprecedented"
+      },
+      {
+        "name": "Summit collapse on Taiwan",
+        "whatHappens": "A leak, a statement, or a military incident near Taiwan during the summit derails the agenda. Both sides leave with nothing. Trade truce begins unraveling.",
+        "signal": "PLA naval movements near Taiwan reported during summit days; White House cancels planned joint press conference"
+      }
+    ],
+    "whatWouldChange": "If China publicly endorses a ceasefire framework for Iran that includes Hormuz reopening commitments, the bottom line shifts: China would have revealed it prefers stability over leverage, which would be a genuinely new signal. Nothing in the current structure of incentives predicts this.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will China announce participation in Iran negotiations by May 22?",
+        "url": "https://polymarket.com/event/trump-xi-summit-what-will-china-announce-by-may-22",
+        "probability": 0.16
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will China announce a Boeing aircraft purchase by May 22?",
+        "url": "https://polymarket.com/event/trump-xi-summit-what-will-china-announce-by-may-22",
+        "probability": 0.88
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Trump announce AI export restrictions relief for China?",
+        "url": "https://polymarket.com/event/trump-xi-summit-what-will-trump-announce-by-may-22",
+        "probability": 0.505
+      }
+    ]
+  }
+}

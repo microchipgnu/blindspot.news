@@ -1,6 +1,6 @@
 {
   "date": "2026-05-13",
-  "generatedAt": "2026-05-13T08:30:00Z",
+  "generatedAt": "2026-05-13T13:30:00Z",
   "reports": [
     {
       "id": "iran-hormuz-ceasefire",
@@ -31,6 +31,36 @@
       "title": "Spain Is Moving to Ban Teenagers from Social Media While Making Executives Personally Liable for Hate Speech",
       "subtitle": "Madrid is advancing the most aggressive digital regulation in Europe, personally targeting platform leadership at a moment when Elon Musk is fighting back.",
       "category": "power"
+    },
+    {
+      "id": "musk-altman-openai-trial",
+      "title": "Musk Says Altman Stole a Charity. The Market Says Musk Wins 30% of the Time.",
+      "subtitle": "Week three of the OpenAI trial has Altman on the stand denying he betrayed the founding mission -- and Polymarket pricing his opponent as a long shot with real upside.",
+      "category": "power"
+    },
+    {
+      "id": "trump-xi-beijing-summit",
+      "title": "Trump Flies to Beijing Saying He Does Not Need Xi's Help -- Which Is How You Ask for Help",
+      "subtitle": "The US needs China to pressure Iran. China knows this. Markets put a 16% chance China actually joins Iran negotiations -- and an 88% chance it buys Boeing planes instead.",
+      "category": "power"
+    },
+    {
+      "id": "samsung-semiconductor-strike",
+      "title": "41,000 Samsung Workers Are About to Strike Over a Bonus Gap That SK Hynix Created",
+      "subtitle": "South Korea's semiconductor giant lost $66 billion in market value in hours before Seoul intervened -- and the actual dispute is not about wages, it is about who owns the upside of a chip boom.",
+      "category": "conflict"
+    },
+    {
+      "id": "meta-whatsapp-eu-antitrust",
+      "title": "Meta Is Giving Rival AI Chatbots Free WhatsApp Access for One Month to Avoid a Fine It Cannot Afford Politically",
+      "subtitle": "The EU's DMA is forcing Meta to open the messaging platform it spent years locking down -- but a one-month free trial is not interoperability, it is a negotiating tactic.",
+      "category": "power"
+    },
+    {
+      "id": "trump-gas-tax-holiday",
+      "title": "Trump Wants to Suspend the Gas Tax. The Industry That Runs on Gas Does Not.",
+      "subtitle": "Gas is up 50% since the Iran war started. An 18-cent relief would cost the highway fund $30 billion and the trucking lobby is already fighting it.",
+      "category": "decision"
     }
   ]
 }

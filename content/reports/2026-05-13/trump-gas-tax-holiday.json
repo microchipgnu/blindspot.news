@@ -1,0 +1,112 @@
+{
+  "id": "trump-gas-tax-holiday",
+  "date": "2026-05-13",
+  "generatedAt": "2026-05-13T13:30:00Z",
+  "title": "Trump Wants to Suspend the Gas Tax. The Industry That Runs on Gas Does Not.",
+  "subtitle": "Gas is up 50% since the Iran war started. An 18-cent relief would cost the highway fund $30 billion and the trucking lobby is already fighting it.",
+  "topic": "politics",
+  "category": "decision",
+  "tags": ["Trump", "gas tax", "Iran war", "highway fund", "energy", "Congress"],
+  "coverImage": {
+    "url": "https://static.politico.com/dims4/default/55a1666/2147483647/resize/1200/quality/100/?url=https://static.politico.com/e8/bb/de6312984f1e8e2c0bd16b77f493/https-delivery-gettyimages.com/downloads/2275632172",
+    "local": "/images/reports/2026-05-13/trump-gas-tax-holiday.jpg",
+    "credit": "Politico / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/05/12/trump-gas-tax-suspension.html",
+      "publisher": "CNBC",
+      "angle": "Policy mechanics: 18.4 cents per gallon on regular, 24.4 cents on diesel; the Highway Trust Fund is the primary victim, and it is already running a structural deficit"
+    },
+    {
+      "url": "https://www.eenews.net/articles/trumps-gas-tax-holiday-pitch-faces-early-capitol-hill-headwinds/",
+      "publisher": "E&E News / Politico",
+      "angle": "Congressional pushback: key Senate Republicans balking, bipartisan skepticism based on experience with Biden's failed 2022 proposal under similar conditions"
+    },
+    {
+      "url": "https://time.com/article/2026/05/12/federal-gas-tax-pause-holiday/",
+      "publisher": "Time",
+      "angle": "Historical parallel: Biden tried this in 2022 after Ukraine-driven oil spikes. Congress ignored it. The question is whether the Iran war context changes the political calculus enough to pass what 2022 could not."
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/gop-leaders-mull-gas-tax-suspension-as-momentum-builds",
+      "publisher": "Bloomberg",
+      "angle": "GOP leadership dynamics: Speaker Johnson called it 'an intriguing idea' without committing -- the classic leadership posture when a proposal has real support but real opposition and the outcome is genuinely uncertain"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/05/13/trump-construction-iran-war-trucking-construction-gas-tax-holiday.html",
+      "publisher": "CNBC",
+      "angle": "Industry opposition: trucking and construction groups pushing back explicitly -- these are core Trump constituencies opposing a Trump proposal, which is the most important signal in the whole story"
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Congress", "Highway Trust Fund"],
+    "whatHappened": "President Trump publicly endorsed suspending the federal gas tax on Monday, saying 'I'm going to' when asked if he supported the move. The national average gasoline price has risen approximately 50% since the US-Iran war began February 28, reaching $4.50 per gallon. The federal gas tax is 18.4 cents on regular and 24.4 cents on diesel. Suspending it would require a congressional vote and would reduce Highway Trust Fund revenue by an estimated $30 billion annually. Speaker Mike Johnson called the idea 'intriguing' without committing. Trucking and construction industry groups -- two of Trump's strongest business allies -- publicly opposed the proposal within 24 hours.",
+    "bottomLine": "The gas tax holiday is a political gesture that does not address the actual problem, and the people who would lose most from it -- highway construction workers and trucking companies that depend on maintained roads -- are the ones telling Congress to kill it.",
+    "hiddenBets": [
+      {
+        "assumption": "Suspending the gas tax meaningfully reduces pump prices for consumers",
+        "whyItMightBeWrong": "When Biden proposed this in 2022, economists broadly agreed that oil companies and retailers would capture most of the benefit rather than passing it to consumers. The empirical evidence from state-level gas tax holidays (Maryland, Georgia, Connecticut in 2022) showed mixed and often minimal consumer savings. The Iran war's price pressure is a supply shock, not a tax problem."
+      },
+      {
+        "assumption": "The Highway Trust Fund can absorb a temporary suspension",
+        "whyItMightBeWrong": "The fund was already projected to become insolvent by 2028 before the suspension proposal. A $30 billion annual reduction -- even a partial-year suspension -- accelerates the timeline for a federal infrastructure funding crisis. The 2021 infrastructure law borrowed ahead; the Trust Fund does not have the buffer to absorb another hit."
+      },
+      {
+        "assumption": "Core Republican constituencies support this because they are hurt by high gas prices",
+        "whyItMightBeWrong": "The trucking industry's opposition reveals the fault line: high diesel costs hurt truckers, but the highways they depend on are funded by the gas tax they want suspended. Diesel is 24.4 cents per gallon -- double the consumer savings, double the fund damage. Truckers run the math differently than commuters."
+      }
+    ],
+    "realDisagreement": "The real fork is between treating high gas prices as a political emergency that requires immediate visible action, versus treating the Highway Trust Fund as a structural constraint that cannot be raided without long-term cost. The case for action: $4.50 gas is a genuine hardship for hourly workers, and 18 cents is real money at scale even if economists disagree. The case against: the highway fund is not discretionary -- roads degrade on a physical timeline, and deferring maintenance costs more than the maintenance. You cannot fully have both. A gas tax holiday gives the impression of relief while transferring the cost to everyone who uses a road. This is not a close call: the structural argument is right, and the political argument is designed to obscure who actually pays.",
+    "whatNoOneIsSaying": "The cleanest way to help consumers hurt by Iran war gas prices is to release more oil from the Strategic Petroleum Reserve or negotiate faster with Iran. A gas tax holiday is what you do when you cannot or will not solve the underlying problem and need to demonstrate that you tried.",
+    "whoPays": [
+      {
+        "who": "Future highway construction workers",
+        "how": "Highway Trust Fund shortfall accelerates project cancellations and deferrals. The American Road and Transportation Builders Association estimates each $1 billion reduction in HTF revenue eliminates roughly 13,000 jobs over 18 months",
+        "when": "Medium-term, 18-24 months after any suspension"
+      },
+      {
+        "who": "Commuters in states with deteriorating roads",
+        "how": "Reduced federal highway matching funds force state transportation departments to delay or cancel maintenance projects. Pothole-related vehicle damage costs US drivers an average of $600 per year in cities with poor road conditions",
+        "when": "Slow-burn, over 2-5 years"
+      },
+      {
+        "who": "Oil companies and gas retailers",
+        "how": "Historical evidence suggests they capture 40-60% of gas tax holiday savings in margin expansion rather than passing them to consumers. They benefit from the optics of a government price intervention while keeping the money.",
+        "when": "Immediate, from day one of any suspension"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Congress passes a 90-day suspension",
+        "whatHappens": "Leadership finds a vehicle -- potentially attached to the reconciliation bill -- for a time-limited holiday. Pump prices fall modestly in the first two weeks, then stabilize. Highway Trust Fund takes a $7-8 billion hit.",
+        "signal": "Speaker Johnson sets a floor vote before Memorial Day; Senate majority whip counts 50+ votes"
+      },
+      {
+        "name": "Proposal dies in committee",
+        "whatHappens": "Senate Republicans on the Finance Committee decline to move the legislation, citing HTF solvency concerns. Trump moves on. Gas prices stay high. Iran war remains the operative political explanation.",
+        "signal": "Senate Finance Committee chair declines to schedule a markup hearing within 3 weeks"
+      },
+      {
+        "name": "Partial diesel-only carveout",
+        "whatHappens": "Congress passes a narrower bill suspending only the diesel surcharge for commercial vehicles, protecting most of the HTF while giving the trucking industry meaningful relief. A political compromise that satisfies no one completely.",
+        "signal": "American Trucking Associations withdraws opposition and sends a letter supporting a modified bill"
+      }
+    ],
+    "whatWouldChange": "If the SPR is effectively exhausted or Iran war disruptions spread to additional Gulf shipping lanes, causing gas prices to approach $6 per gallon, the political pressure becomes large enough that structural objections get overridden. That is the scenario where the highway fund takes the hit regardless of the economic merits.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the federal gas tax be suspended by November 2, 2026?",
+        "url": "https://polymarket.com/event/federal-gas-tax-suspended-by",
+        "probability": 0.515
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will the federal gas tax be suspended by June 30, 2026?",
+        "url": "https://polymarket.com/event/federal-gas-tax-suspended-by",
+        "probability": 0.245
+      }
+    ]
+  }
+}

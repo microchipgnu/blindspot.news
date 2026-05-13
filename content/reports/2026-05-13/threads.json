@@ -6,22 +6,22 @@
       "title": "The Iran War Is Driving Every Domestic Crisis at Once",
       "description": "Three stories today -- the Iran ceasefire stalemate, the CPI crossing above the Fed rate, and the tariff court battles -- appear to be separate crises but are actually the same one. The Hormuz blockade is the direct cause of the oil price spike that is the primary driver of the CPI acceleration. The CPI acceleration is what makes the Section 122 tariff fight existential: the administration cannot simultaneously absorb $166 billion in IEEPA refunds, defend Section 122 in court, and manage war-driven inflation with a Fed that cannot cut rates. The Iran war is not just a foreign policy story -- it is the engine underneath the domestic economic and legal crises.",
       "type": "cause-effect",
-      "stories": ["iran-hormuz-ceasefire", "cpi-inflation-fed-negative-rates", "trump-tariff-section122-courts"],
+      "stories": ["iran-hormuz-ceasefire", "cpi-inflation-fed-negative-rates", "trump-tariff-section122-courts", "trump-gas-tax-holiday"],
       "connections": [
         {
           "from": "iran-hormuz-ceasefire",
           "to": "cpi-inflation-fed-negative-rates",
-          "relationship": "The Hormuz blockade, which began February 28, directly caused the gasoline price spike (up 28% YoY) that is the largest single driver of the April CPI at 3.78%, turning real Fed rates negative for the first time in three years."
+          "relationship": "The Hormuz blockade, which began February 28, directly caused the gasoline price spike (up ~50%) that is the largest single driver of the April CPI at 3.78%, turning real Fed rates negative for the first time in three years."
         },
         {
           "from": "cpi-inflation-fed-negative-rates",
           "to": "trump-tariff-section122-courts",
-          "relationship": "With CPI at 3.78% and the Fed unable to cut rates, every month the tariff legal fight continues without resolution, small and mid-size importers absorb simultaneously rising input costs from oil-driven inflation AND illegal tariffs that courts have struck down but CBP is still collecting -- a double squeeze the administration cannot resolve through policy."
+          "relationship": "With CPI at 3.78% and the Fed unable to cut rates, every month the tariff legal fight continues without resolution, small and mid-size importers absorb simultaneously rising input costs from oil-driven inflation and tariffs courts have struck down but CBP is still collecting -- a double squeeze the administration cannot resolve through policy."
         },
         {
-          "from": "trump-tariff-section122-courts",
-          "to": "iran-hormuz-ceasefire",
-          "relationship": "USTR Greer argued Section 122 tariffs are essential leverage in trade talks; but the Section 122 legal collapse reduces Trump's trade negotiating credibility precisely when he needs maximum leverage with China to pressure Iran -- the two threads directly constrain each other."
+          "from": "iran-hormuz-ceasefire",
+          "to": "trump-gas-tax-holiday",
+          "relationship": "The Hormuz disruption is the proximate cause of $4.50 national average gasoline prices, which created the political pressure for the gas tax holiday proposal -- making the highway fund's structural deficit a direct casualty of the Iran war's domestic effects."
         }
       ]
     },
@@ -35,7 +35,40 @@
         {
           "from": "trump-tariff-section122-courts",
           "to": "scotus-redistricting-voting-rights",
-          "relationship": "In the tariff cases, courts are constraining executive action by insisting on explicit statutory authorization; in the redistricting case, the same period's Supreme Court is reversing a ruling it previously upheld with no written opinion -- the two trends reveal that the rule of law is being applied selectively depending on whether the institution asserting authority is aligned with the current political majority."
+          "relationship": "In the tariff cases, courts are constraining executive action by insisting on explicit statutory authorization; in the redistricting case, the Supreme Court reversed a ruling it previously upheld with no written opinion -- the two trends reveal that the rule of law is being applied selectively depending on whether the institution asserting authority is aligned with the current political majority."
+        }
+      ]
+    },
+    {
+      "id": "ai-infrastructure-control",
+      "title": "Three Stories Today Are About Who Controls AI Infrastructure -- Lab, Distribution, and Supply Chain",
+      "description": "The Musk-Altman trial, the Meta WhatsApp EU ruling, and the Trump-Xi summit are being covered as a legal drama, a regulatory story, and a diplomatic visit. But they are all about the same question: who controls the three layers of AI power. OpenAI controls the frontier lab -- and Musk wants either ownership or to neutralize it. Meta controls the messaging distribution platform that connects AI to two billion users -- and the EU is trying to break that chokehold. The Trump-Xi summit has a 50% probability of producing AI chip export relief for China -- which determines whether Nvidia's supply chain constraint stays intact or breaks open. A ruling at any one layer reshapes the others.",
+      "type": "dependency-web",
+      "stories": ["musk-altman-openai-trial", "meta-whatsapp-eu-antitrust", "trump-xi-beijing-summit"],
+      "connections": [
+        {
+          "from": "musk-altman-openai-trial",
+          "to": "trump-xi-beijing-summit",
+          "relationship": "If Musk wins and forces OpenAI restructuring, it disrupts the competitive order among US AI labs at the exact moment Trump is deciding whether to give China AI chip access -- a weaker OpenAI makes the case for maintaining chip restrictions harder to argue because the US lead would be in question."
+        },
+        {
+          "from": "trump-xi-beijing-summit",
+          "to": "meta-whatsapp-eu-antitrust",
+          "relationship": "If Trump grants China AI chip export relief, it accelerates the development of Chinese AI models that would be among the first to seek WhatsApp API access under the EU's new interoperability mandate -- the diplomatic concession creates direct competitors for Meta AI in the distribution channel the EU is forcing open."
+        }
+      ]
+    },
+    {
+      "id": "korea-chips-iran-war-dependency",
+      "title": "Samsung's Strike Risk and the Iran War Are Connected Through a Supply Chain No One Is Watching",
+      "description": "The Samsung semiconductor strike looks like a Korean labor story. But Samsung's Pyeongtaek fabs depend on chemical and equipment shipments that transit routes disrupted by the Hormuz conflict. Korean exporters, per the CNBC reporting on Chinese exporters, are more worried about Hormuz than tariffs. A prolonged Samsung strike would reduce memory output precisely as hyperscaler demand for AI inference chips is rising -- and it would do so at a moment when alternative suppliers (SK Hynix, Micron) are also supply-constrained. The war that is driving the gas tax debate in Washington is also the structural pressure underneath the Samsung bonus dispute in Seoul.",
+      "type": "cause-effect",
+      "stories": ["samsung-semiconductor-strike", "iran-hormuz-ceasefire"],
+      "connections": [
+        {
+          "from": "iran-hormuz-ceasefire",
+          "to": "samsung-semiconductor-strike",
+          "relationship": "Hormuz disruption raises energy and logistics costs for Korean manufacturers, compressing Samsung's operating margins at the same moment workers are demanding profit-sharing bonuses benchmarked to SK Hynix's record year -- the war made the bonus gap larger by squeezing Samsung's profitability from the cost side."
         }
       ]
     }

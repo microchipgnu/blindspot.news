@@ -1,0 +1,107 @@
+{
+  "id": "musk-altman-openai-trial",
+  "date": "2026-05-13",
+  "generatedAt": "2026-05-13T13:30:00Z",
+  "title": "Musk Says Altman Stole a Charity. The Market Says Musk Wins 30% of the Time.",
+  "subtitle": "Week three of the OpenAI trial has Altman on the stand denying he betrayed the founding mission -- and Polymarket pricing his opponent as a long shot with real upside.",
+  "topic": "tech",
+  "category": "power",
+  "tags": ["OpenAI", "Elon Musk", "Sam Altman", "nonprofit", "AI", "trial"],
+  "coverImage": {
+    "url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
+    "local": "/images/reports/2026-05-13/musk-altman-openai-trial.jpg",
+    "credit": "TechCrunch / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+      "publisher": "TechCrunch",
+      "angle": "Altman's testimony that Musk considered leaving OpenAI to his children -- framing Musk as the one with personal ambitions for control"
+    },
+    {
+      "url": "https://www.cnn.com/2026/05/12/tech/sam-altman-openai-vs-elon-musk-testimony",
+      "publisher": "CNN",
+      "angle": "Cross-examination focus: Musk's attorney asked Altman 'Are you completely trustworthy?' -- suggesting the trial is as much about credibility as legal doctrine"
+    },
+    {
+      "url": "https://www.kqed.org/news/12083278/sam-altman-defends-himself-from-elon-musks-accusations-in-openai-trial",
+      "publisher": "KQED",
+      "angle": "Local Bay Area coverage emphasizing Altman's claim that the nonprofit foundation is now 'one of the largest charities in the world' -- his strongest rebuttal"
+    },
+    {
+      "url": "https://www.thetimes.com/business/technology/article/altman-denies-musk-claim-betrayal-chatgpt-lawsuit-0vmmpn33s",
+      "publisher": "The Times",
+      "angle": "Financial framing: a $1 trillion valuation hangs on the outcome, and Musk demanded 90% control before his departure -- which Altman used to flip the narrative"
+    }
+  ],
+  "brief": {
+    "actors": ["Musk", "Altman", "OpenAI", "xAI"],
+    "whatHappened": "OpenAI CEO Sam Altman took the witness stand Tuesday in week three of Elon Musk's civil lawsuit in Oakland federal court. Musk is suing Altman and OpenAI's other founders, claiming they betrayed the nonprofit's founding mission by creating a for-profit subsidiary. Altman testified that Musk had demanded 90% control of OpenAI before departing and had considered leaving the company to his children. Musk's attorney opened cross-examination by asking Altman directly: 'Are you completely trustworthy?' -- to which Altman replied he believed he was.",
+    "bottomLine": "This is a fight over who gets to write the origin story of the most valuable AI company on earth, and the winner controls whether nonprofit charters can constrain trillion-dollar businesses -- or are just fundraising scaffolding.",
+    "hiddenBets": [
+      {
+        "assumption": "Musk's case is primarily about principle -- that OpenAI betrayed a charitable mission",
+        "whyItMightBeWrong": "The remedies Musk is seeking include Altman's ouster and damages. A victory would not restore OpenAI's nonprofit structure. It would hand Musk leverage over a competitor to xAI at the moment xAI is trying to raise capital and attract engineers."
+      },
+      {
+        "assumption": "The nonprofit-to-for-profit conversion was an unusual or legally novel act",
+        "whyItMightBeWrong": "California attorney general approval was sought and obtained before the restructuring. If the state regulator blessed the move, the charitable-trust argument becomes harder to sustain in federal court -- and Musk's team has not clearly explained why federal courts should override that."
+      },
+      {
+        "assumption": "Altman's testimony about Musk wanting 90% control is exculpatory",
+        "whyItMightBeWrong": "The more damaging question is what commitments Altman made to early donors -- including Musk's $38 million -- about how funds would be used. What Musk wanted is less legally relevant than what Altman promised."
+      }
+    ],
+    "realDisagreement": "The actual fork is between two views of what a nonprofit charter means. One view: it is a binding legal constraint that survives corporate restructuring and courts can enforce. The other view: it is a statement of intent that becomes legally moot once regulators approve a new structure. You cannot hold both. If nonprofits can be freely converted with regulator sign-off, every future AI safety nonprofit will be understood as temporary scaffolding. If they cannot, it becomes legally risky to ever restructure a mission-driven org -- even when scale genuinely requires capital. The case for the first view is stronger: no one founds a nonprofit expecting permanent lockdown, and the foundation genuinely exists and is operating. But the second view, if it wins in court, produces better accountability for future public commitments.",
+    "whatNoOneIsSaying": "Altman's strongest evidence that OpenAI fulfilled its nonprofit mission is that it created ChatGPT and made it free to hundreds of millions of users. That is the actual public benefit. No one in the courtroom wants to say that because it would make Musk look like he is suing over being cut out of a success he helped enable.",
+    "whoPays": [
+      {
+        "who": "Early OpenAI researchers and employees who joined for mission rather than equity",
+        "how": "If Musk wins and forces structural changes, the foundation's endowment and governance get scrutinized or frozen during litigation, potentially disrupting safety research funding",
+        "when": "Immediate if injunctive relief is granted during trial"
+      },
+      {
+        "who": "Future AI nonprofit founders",
+        "how": "A Musk win creates legal precedent that nonprofit charters for AI labs are indefinite obligations courts will enforce, making capital formation harder and deterring mission-driven structures",
+        "when": "Long-term, over the next 5-10 years of AI lab fundraising"
+      },
+      {
+        "who": "xAI investors and engineers",
+        "how": "A Musk loss confirms that OpenAI's structure is legally sound, removing a competitive cloud and accelerating OpenAI's path to a full public company -- directly threatening xAI's recruitment and valuation",
+        "when": "Medium-term, within 6 months of verdict"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Musk wins on narrow grounds",
+        "whatHappens": "Court finds a specific breach of fiduciary duty in how the for-profit conversion was communicated to donors, but does not unwind the corporate structure. Altman remains CEO. OpenAI pays damages.",
+        "signal": "Judge allows claims about donor communications to survive motions to dismiss while dismissing the broader 'stolen charity' framing"
+      },
+      {
+        "name": "Altman wins cleanly",
+        "whatHappens": "Jury finds no breach. OpenAI proceeds toward IPO at a valuation that makes the $38M in dispute look trivial. Musk's future challenges to AI competitors face higher legal bar.",
+        "signal": "Musk's attorney fails to introduce Altman's early donor communications as exhibits -- meaning the documentary record favors OpenAI"
+      },
+      {
+        "name": "Settlement before verdict",
+        "whatHappens": "Both sides negotiate a resolution that gives Musk symbolic acknowledgment of mission drift without restructuring OpenAI. Likely includes a board seat or public statement. Leaves the legal question unanswered.",
+        "signal": "Both parties request a mediation recess within the next two weeks; trial goes dark for a week"
+      }
+    ],
+    "whatWouldChange": "If evidence emerges that Altman explicitly promised early donors -- in writing -- that the nonprofit structure would be permanent, and not just aspirational, the charitable-trust argument becomes viable. Nothing disclosed so far suggests that evidence exists.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Elon Musk win his case against Sam Altman?",
+        "url": "https://polymarket.com/event/will-elon-musk-win-his-case-against-sam-altman",
+        "probability": 0.305
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Will Elon Musk and Sam Altman settle?",
+        "url": "https://polymarket.com/event/will-elon-musk-and-sam-altman-settle",
+        "probability": 0.215
+      }
+    ]
+  }
+}
