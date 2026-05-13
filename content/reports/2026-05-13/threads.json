@@ -1,0 +1,43 @@
+{
+  "date": "2026-05-13",
+  "threads": [
+    {
+      "id": "war-inflation-courts-same-crisis",
+      "title": "The Iran War Is Driving Every Domestic Crisis at Once",
+      "description": "Three stories today -- the Iran ceasefire stalemate, the CPI crossing above the Fed rate, and the tariff court battles -- appear to be separate crises but are actually the same one. The Hormuz blockade is the direct cause of the oil price spike that is the primary driver of the CPI acceleration. The CPI acceleration is what makes the Section 122 tariff fight existential: the administration cannot simultaneously absorb $166 billion in IEEPA refunds, defend Section 122 in court, and manage war-driven inflation with a Fed that cannot cut rates. The Iran war is not just a foreign policy story -- it is the engine underneath the domestic economic and legal crises.",
+      "type": "cause-effect",
+      "stories": ["iran-hormuz-ceasefire", "cpi-inflation-fed-negative-rates", "trump-tariff-section122-courts"],
+      "connections": [
+        {
+          "from": "iran-hormuz-ceasefire",
+          "to": "cpi-inflation-fed-negative-rates",
+          "relationship": "The Hormuz blockade, which began February 28, directly caused the gasoline price spike (up 28% YoY) that is the largest single driver of the April CPI at 3.78%, turning real Fed rates negative for the first time in three years."
+        },
+        {
+          "from": "cpi-inflation-fed-negative-rates",
+          "to": "trump-tariff-section122-courts",
+          "relationship": "With CPI at 3.78% and the Fed unable to cut rates, every month the tariff legal fight continues without resolution, small and mid-size importers absorb simultaneously rising input costs from oil-driven inflation AND illegal tariffs that courts have struck down but CBP is still collecting -- a double squeeze the administration cannot resolve through policy."
+        },
+        {
+          "from": "trump-tariff-section122-courts",
+          "to": "iran-hormuz-ceasefire",
+          "relationship": "USTR Greer argued Section 122 tariffs are essential leverage in trade talks; but the Section 122 legal collapse reduces Trump's trade negotiating credibility precisely when he needs maximum leverage with China to pressure Iran -- the two threads directly constrain each other."
+        }
+      ]
+    },
+    {
+      "id": "courts-executive-power-erosion",
+      "title": "Courts Are Systematically Dismantling Executive Unilateralism on Two Fronts Simultaneously",
+      "description": "The Section 122 tariff ruling and the SCOTUS redistricting ruling look like unrelated legal events but together represent a single contested question: how much can the executive branch -- and the institutions aligned with it -- act without clear legal authorization? The tariff courts say the president cannot impose global duties using statutes that do not explicitly grant that power. The SCOTUS redistricting ruling says the same court can reverse itself when politically expedient, which creates the inverse problem: a judiciary acting without stable legal justification. Both rulings expose a governance system where the boundaries of institutional authority are actively contested and unstable.",
+      "type": "tension-cluster",
+      "stories": ["trump-tariff-section122-courts", "scotus-redistricting-voting-rights"],
+      "connections": [
+        {
+          "from": "trump-tariff-section122-courts",
+          "to": "scotus-redistricting-voting-rights",
+          "relationship": "In the tariff cases, courts are constraining executive action by insisting on explicit statutory authorization; in the redistricting case, the same period's Supreme Court is reversing a ruling it previously upheld with no written opinion -- the two trends reveal that the rule of law is being applied selectively depending on whether the institution asserting authority is aligned with the current political majority."
+        }
+      ]
+    }
+  ]
+}

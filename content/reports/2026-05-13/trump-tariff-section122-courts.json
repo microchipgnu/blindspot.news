@@ -1,0 +1,106 @@
+{
+  "id": "trump-tariff-section122-courts",
+  "date": "2026-05-13",
+  "generatedAt": "2026-05-13T08:30:00Z",
+  "title": "Trump's Tariff Playbook Has One Move Left and It Also Got Struck Down",
+  "subtitle": "The Section 122 tariffs are the third legal theory Trump has tried to impose global duties -- and courts keep stopping each one while letting him keep collecting until further notice.",
+  "topic": "economy",
+  "category": "power",
+  "tags": ["Trump", "tariffs", "courts", "trade", "SCOTUS", "IEEPA", "Section 122", "importers"],
+  "coverImage": {
+    "url": "https://i.abcnewsfe.com/a/bba3baba-a354-410b-aae3-cbd9ae3aa6ff/donald-trump-5-gty-gmh-260512_1778610478386_hpMain_16x9.jpg?w=1600",
+    "local": "/images/reports/2026-05-13/trump-tariff-section122-courts.jpg",
+    "credit": "ABC News / Getty Images"
+  },
+  "sources": [
+    {
+      "url": "https://www.ttnews.com/articles/court-trump-tariffs-appeal",
+      "publisher": "Transport Topics / Bloomberg",
+      "angle": "The Federal Circuit issued an administrative stay, allowing Section 122 tariff collection to continue while the appeal is considered. DOJ argues that immediate refunds would undermine trade negotiations and overwhelm CBP already processing $166 billion in IEEPA refunds."
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/trade/court-international-trade-cit-section-122-tariffs-stay-injunction-1238950938/",
+      "publisher": "Sourcing Journal / WWD",
+      "angle": "CBP collected $8 million per month in Section 122 tariffs in March. Over 170,000 importers have paid deposits on 13 million entries. The DOJ expects hundreds or thousands of follow-on lawsuits if the ruling stands."
+    },
+    {
+      "url": "https://www.cbsnews.com/news/trump-ieepa-tariff-refunds-businesses/",
+      "publisher": "CBS News",
+      "angle": "Businesses began receiving IEEPA tariff refunds on May 12 as the government processes $35.5 billion of the $166 billion owed. The refund process is happening concurrently with the Section 122 legal fight, straining CBP resources."
+    },
+    {
+      "url": "https://customsandinternationaltradelaw.com/2026/05/12/title-another-blow-to-the-u-s-tariff-war-can-importers-obtain-refunds-after-section-122-tariffs-were-invalidated/",
+      "publisher": "Customs and International Trade Law Blog",
+      "angle": "Legal deep-dive: Section 122 used a 'balance-of-payments deficit' concept from 1974 that the court ruled does not cover modern trade deficits. Unlike IEEPA, no nationwide injunction was issued -- only plaintiffs who sued get relief, meaning the tariffs effectively remain for everyone else."
+    },
+    {
+      "url": "https://www.ndtv.com/world-news/us-appeals-court-pauses-ruling-against-president-donald-trump-10-global-tariffs-11487238",
+      "publisher": "NDTV / AFP",
+      "angle": "The timeline: IEEPA tariffs struck down by SCOTUS in February, Section 122 imposed same day as 'backup plan,' Section 122 struck down May 7, Federal Circuit stay issued May 12. The administration is now pursuing Section 301 and Section 232 investigations as the next potential legal basis."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "SCOTUS", "CBP", "DOJ", "importers"],
+    "whatHappened": "On May 7, the US Court of International Trade ruled that Trump's 10% global tariffs imposed under Section 122 of the Trade Act of 1974 are unlawful. The court found that the statute's reference to 'balance-of-payments deficits' covers a 1974 economic concept, not the modern trade deficits Trump cited. The same court had previously found Trump's IEEPA tariffs unlawful; the Supreme Court upheld that ruling in February. Section 122 was Trump's same-day backup plan to maintain global tariffs after the IEEPA loss. On May 12, the federal appeals court granted an administrative stay, allowing the government to keep collecting Section 122 tariffs while the appeal proceeds. Concurrently, businesses began receiving refunds for the IEEPA tariffs struck down earlier -- the government owes roughly $166 billion. The Section 122 tariffs expire July 24 unless Congress extends them. The administration has launched Section 301 and Section 232 investigations as potential next bases for tariffs.",
+    "bottomLine": "Every time courts stop one tariff authority, Trump finds another -- and courts let him keep collecting through every appeal, so the effective policy is: tariffs work until they don't, and then you try the next statute while the refund queue grows.",
+    "hiddenBets": [
+      {
+        "assumption": "The courts will ultimately determine whether the US has tariffs or not.",
+        "whyItMightBeWrong": "Section 301 (unfair trade practices) and Section 232 (national security) have historically survived judicial scrutiny. The administration's real play is not defending Section 122 -- it is running out the clock until new tariff authorities are in place. The July 24 Section 122 expiration is a hard deadline that forces Congress or the courts to act, but Section 301 investigations can take 12-18 months and result in durable tariffs."
+      },
+      {
+        "assumption": "Importers will ultimately get their money back.",
+        "whyItMightBeWrong": "The IEEPA refund system processed $35.5 billion in refunds out of $166 billion owed -- about 21% of the total in the first month. CBP processing timelines are measured in months. The Section 122 case has no nationwide injunction, meaning importers who did not sue get nothing unless they file their own cases. With 170,000 importers, the litigation backlog alone is systemic."
+      },
+      {
+        "assumption": "Trade negotiation leverage requires keeping tariffs in place.",
+        "whyItMightBeWrong": "USTR Greer argued the Section 122 tariffs are essential leverage in ongoing trade talks. But the parties being negotiated with -- China, EU, others -- are simultaneously watching the US run through tariff statutes like legal theories at a moot court. The signal is not strength; it is an executive branch that cannot find durable legal authority for its signature policy."
+      }
+    ],
+    "realDisagreement": "The real fork is not about tariff legality. It is about whether Congress should delegate tariff authority to the president at all. The courts have now ruled that IEEPA (emergency economic powers) and Section 122 (balance-of-payments) do not provide that delegation. Section 232 (national security) and Section 301 (unfair trade) are more explicit. If Congress does nothing and the courts strike down Section 232/301, the president has no unilateral tariff power and the entire trade policy collapses. If Congress acts, it can grant explicit authority but takes political ownership of tariffs going into midterms. Neither party wants to own tariffs explicitly right now.",
+    "whatNoOneIsSaying": "The Trump administration has now argued that three separate statutes grant the president tariff authority, and courts have struck down two of them. Each time, the administration has been allowed to keep collecting tariffs through the appeals process. This is not law enforcement -- it is revenue collection by litigation attrition. The 170,000 importers paying Section 122 tariffs are effectively fronting the US government an interest-free loan until courts finish deciding whether the underlying authority is legal.",
+    "whoPays": [
+      {
+        "who": "Small and mid-size importers",
+        "how": "Paying Section 122 tariffs they may or may not get refunded, while simultaneously processing IEEPA refund claims through a new CBP system. Legal costs to pursue Section 122 refunds fall entirely on firms that were not named plaintiffs in the original case.",
+        "when": "Ongoing; Section 122 refund litigation timeline measured in years, not months"
+      },
+      {
+        "who": "US trade negotiating partners",
+        "how": "Uncertainty about whether US tariffs are durable legal policy or temporary illegal measures undermines the terms of any deal. Countries negotiating bilateral agreements face the risk that the legal basis for the tariff framework they are settling for will be struck down by courts.",
+        "when": "Ongoing through at least 2027"
+      },
+      {
+        "who": "US Customs and Border Protection",
+        "how": "CBP is simultaneously processing $166 billion in IEEPA refund claims through a new system while continuing to collect potentially illegal Section 122 tariffs and preparing for potential Section 301/232 tariff administration. Agency capacity is the binding constraint.",
+        "when": "Immediate and ongoing"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Section 301/232 Becomes the New Baseline",
+        "whatHappens": "Section 122 expires July 24. Courts uphold the administrative stay through the appeal. Section 301/232 investigations conclude in 2027 with new tariffs imposed on more legally durable grounds. The effective tariff level is similar but the legal theory survives.",
+        "signal": "Watch for: administration announcing Section 301 investigation results before July 24, or a congressional vote extending Section 122 authority."
+      },
+      {
+        "name": "Tariff Authority Collapses",
+        "whatHappens": "The Federal Circuit declines a long-term stay of the Section 122 ruling. July 24 deadline passes. Section 301/232 investigations are challenged and enjoined. Trump has no global tariff baseline. China and others resume normal export volumes. US manufacturing lobby demands Congress act.",
+        "signal": "Watch for: Federal Circuit denying a long-term stay on the Section 122 injunction in June, followed by Congressional hearings on emergency tariff legislation."
+      },
+      {
+        "name": "Congress Bails Trump Out",
+        "whatHappens": "Republicans in Congress pass legislation explicitly authorizing the 10% global tariff either as a stand-alone bill or as part of a broader trade framework, taking political ownership of the policy going into midterms.",
+        "signal": "Watch for: White House sending formal legislative language to Congress before the July 24 Section 122 expiration."
+      }
+    ],
+    "whatWouldChange": "If the Federal Circuit grants a long-term stay pending appeal of the Section 122 ruling, the status quo holds and the question defers to post-midterm courts. If the courts deny the long-term stay before July 24, the administration faces an existential timeline crisis and will need either a congressional fix or a rapid Section 301/232 result.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will Trump create a tariff dividend by June 30?",
+        "url": "https://polymarket.com/event/will-trump-create-a-tariff-dividend-by-june-30",
+        "probability": 0.105
+      }
+    ]
+  }
+}

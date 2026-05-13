@@ -1,0 +1,106 @@
+{
+  "id": "cpi-inflation-fed-negative-rates",
+  "date": "2026-05-13",
+  "generatedAt": "2026-05-13T08:30:00Z",
+  "title": "Inflation Just Crossed Above the Fed's Policy Rate for the First Time in Three Years",
+  "subtitle": "April CPI at 3.78% now exceeds the 3.64% Fed funds rate, turning real policy rates negative -- and the Fed's incoming chair has signaled no urgency to respond.",
+  "topic": "economy",
+  "category": "decision",
+  "tags": ["Fed", "inflation", "CPI", "interest rates", "Kevin Warsh", "monetary policy", "Iran war", "oil"],
+  "coverImage": {
+    "url": "https://3mo6haaajlitevli.public.blob.vercel-storage.com/media/news-2026-05-13-cpi-crosses-fed-rates-negative-real-hero-1200x630.jpg",
+    "local": "/images/reports/2026-05-13/cpi-inflation-fed-negative-rates.jpg",
+    "credit": "REI Prime"
+  },
+  "sources": [
+    {
+      "url": "https://reiprime.com/news/2026-05-13-cpi-crosses-fed-rates-negative-real",
+      "publisher": "REI Prime",
+      "angle": "Data-driven analysis: April headline CPI 3.78% crosses above Fed funds effective rate of 3.64%, turning real policy rates negative by 14 basis points. Month-over-month CPI rose 0.64%, annualizing near 8%."
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-feds-goolsbee-flags-rising-inflation-risks-after-weak-april-data/articleshow/131054366.cms",
+      "publisher": "Economic Times / Reuters",
+      "angle": "Chicago Fed's Goolsbee dissented from the May FOMC statement and flagged services inflation as specifically troubling -- the price increase is not limited to energy/tariff categories, suggesting it is beginning to broaden."
+    },
+    {
+      "url": "https://www.cnbc.com/2026/05/13/gold-slips-as-firm-us-inflation-data-weighs-on-fed-rate-cut-hopes.html",
+      "publisher": "CNBC",
+      "angle": "Markets now price 30% probability of a Fed rate hike by December, rates cut hopes effectively priced out. Kevin Warsh confirmed to Fed Board of Governors Tuesday; confirmation as chair could come Wednesday."
+    },
+    {
+      "url": "https://www.telegraphherald.com/ap/business/article_d1be7d5f-2472-4d93-867d-e906bbe5f963.html",
+      "publisher": "Telegraph Herald / AP",
+      "angle": "Gasoline prices up 28% year-over-year (average above $4.50/gallon), the Iran war's most direct transmission into household budgets. For the first time in three years, inflation is eating all wage gains."
+    }
+  ],
+  "brief": {
+    "actors": ["Fed", "Trump", "Kevin Warsh", "Jerome Powell"],
+    "whatHappened": "The Bureau of Labor Statistics reported April 2026 CPI at 3.78% year-over-year, up from 3.3% in March and the largest annual gain in three years. Month-over-month prices rose 0.64%, annualizing near 8%. For the first time since 2023, headline inflation now runs above the Federal Reserve's effective policy rate of 3.64%, turning real interest rates negative by approximately 14 basis points. The Federal Reserve held rates unchanged at its May 6-7 meeting. Chicago Fed President Goolsbee dissented, flagging services inflation as a concern beyond energy categories. Kevin Warsh, Trump's nominee to succeed Jerome Powell as Fed Chair, cleared a procedural Senate hurdle on Tuesday. Markets now price a 30% chance of a rate hike by December and have effectively eliminated rate cut expectations for 2026.",
+    "bottomLine": "Real policy rates are now negative, meaning the Fed is implicitly stimulating an economy that is running hotter than at any point in three years -- and the incoming Fed chair's prior positions suggest he will be in no hurry to fix that.",
+    "hiddenBets": [
+      {
+        "assumption": "The CPI surge is a temporary energy shock from the Iran war that will reverse when Hormuz reopens.",
+        "whyItMightBeWrong": "Goolsbee's dissent specifically flagged that services inflation is rising, which is not a direct Hormuz effect. Core CPI ex-food and energy rose 0.4% month-over-month. If shelter costs and services continue to accelerate while energy stays elevated, the inflation is no longer just an oil story -- it is broad-based enough to require a Fed response."
+      },
+      {
+        "assumption": "Kevin Warsh will tighten policy quickly to restore the Fed's credibility.",
+        "whyItMightBeWrong": "Warsh has been a Trump critic-turned-ally whose nomination signals that the Fed will operate with greater deference to White House preferences than under Powell. Trump has consistently opposed rate hikes. A Warsh Fed may opt to wait on inflation data rather than act preemptively, keeping real rates negative longer."
+      },
+      {
+        "assumption": "30-year mortgage rates at 6.5% are tight enough to cool inflation.",
+        "whyItMightBeWrong": "Mortgage rates track Treasury yields, not the fed funds rate, and the yield curve has been distorted by war-driven uncertainty and deficit financing. The housing market is already in contraction (Q1 multifamily starts lowest since 2011), but rental inflation remains sticky in CPI because shelter costs lag actual rents by 12-18 months."
+      }
+    ],
+    "realDisagreement": "The Fed's mandate requires it to treat 3.78% CPI with negative real rates as a policy error requiring correction -- that is the mechanical reading. But raising rates into an economy absorbing war shock, high gas prices, and a tariff legal crisis could tip a slowdown into recession. The fork: act now to restore positive real rates at the risk of crushing demand, or hold and let inflation run at the hope that Hormuz reopens and the supply shock reverses naturally. I would lean toward holding until May CPI is available in mid-June -- one month of data is not a trend -- but the Fed's credibility cost of staying passive increases with each month.",
+    "whoPays": [
+      {
+        "who": "Working and middle-class US households",
+        "how": "For the first time in three years, inflation is erasing all real wage gains. Gasoline above $4.50/gallon is a regressive cost that falls hardest on lower-income earners who cannot shift transportation modes. The proposed federal gas tax suspension would temporarily reduce prices by about 18 cents per gallon.",
+        "when": "Already underway; worsens over summer if Hormuz stays closed"
+      },
+      {
+        "who": "Homebuyers and renters",
+        "how": "30-year mortgage rates at 6.49% and rising close the window for refinancing. ZIP-level forecasts project price declines in 309 of 894 tracked metros through 2027. Multifamily CMBS delinquencies at 7.71% threaten apartment supply as developers pull back.",
+        "when": "Structural stress accumulating through 2026-2027"
+      },
+      {
+        "who": "Small businesses carrying Section 122 tariff exposure",
+        "how": "Simultaneously absorbing oil-driven input cost inflation AND paying tariffs that courts have ruled illegal but are still being collected. Double squeeze with no clear relief timeline.",
+        "when": "Immediate and ongoing"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Transitory After All",
+        "whatHappens": "Hormuz reopens by end of June (30% per Polymarket). Oil drops back toward $80. June CPI prints below 3.5%. The Fed holds through year-end. Warsh inherits a calming situation and the inflation surge looks like a war spike, not structural re-acceleration.",
+        "signal": "Watch for: June Polymarket odds on Hormuz normalization rising above 50%, and the weekly EIA gasoline price report showing consecutive declines."
+      },
+      {
+        "name": "Broadening Inflation Forces Warsh's Hand",
+        "whatHappens": "Services inflation continues above 0.4% monthly through June. CPI stays above 3.5%. Warsh, to establish credibility, announces a shift to a tightening posture at the July or September FOMC meeting. Mortgage rates spike above 7%. Housing market deteriorates sharply.",
+        "signal": "Watch for: Warsh's first public statement as chair-designate on 'price stability' as 'the non-negotiable foundation' -- that would be coded language for a hike cycle."
+      },
+      {
+        "name": "Stagflation Trap",
+        "whatHappens": "Inflation stays above 3.5% through Q3 while the labor market weakens (hiring freeze data is already poor). The Fed faces rising prices and rising unemployment simultaneously. Any move it makes is wrong. Political pressure to cut rates despite inflation becomes overwhelming.",
+        "signal": "Watch for: first monthly nonfarm payrolls report showing sub-100k job gains paired with CPI above 3.5% in the same month."
+      }
+    ],
+    "whatWouldChange": "If Goolsbee's dissent turns into a majority view at the July FOMC -- i.e., more than two members advocate for a hike -- that would signal the Fed is no longer willing to wait for Hormuz. Warsh confirming that he views negative real rates as 'intolerable' would be the more definitive signal.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Fed rate hike in 2026?",
+        "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+        "probability": 0.27
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Fed Rate Hike by September 2026 Meeting?",
+        "url": "https://polymarket.com/event/fed-rate-hike-by",
+        "probability": 0.165
+      }
+    ]
+  }
+}

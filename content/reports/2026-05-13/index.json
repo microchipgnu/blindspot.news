@@ -1,0 +1,36 @@
+{
+  "date": "2026-05-13",
+  "generatedAt": "2026-05-13T08:30:00Z",
+  "reports": [
+    {
+      "id": "iran-hormuz-ceasefire",
+      "title": "The Ceasefire Is Already Dead, It Just Has Not Fallen Over Yet",
+      "subtitle": "Trump called Iran's peace proposal 'garbage,' Hormuz shipping is at 5% of normal, and both sides are now managing a controlled freeze rather than moving toward resolution.",
+      "category": "conflict"
+    },
+    {
+      "id": "scotus-redistricting-voting-rights",
+      "title": "The Supreme Court Reversed Itself to Erase a District It Had Previously Ordered to Exist",
+      "subtitle": "The 6-3 Alabama ruling does not just weaken the Voting Rights Act -- it retroactively rewrites what courts can require states to undo.",
+      "category": "power"
+    },
+    {
+      "id": "trump-tariff-section122-courts",
+      "title": "Trump's Tariff Playbook Has One Move Left and It Also Got Struck Down",
+      "subtitle": "The Section 122 tariffs are the third legal theory Trump has tried to impose global duties -- and courts keep stopping each one while letting him keep collecting until further notice.",
+      "category": "power"
+    },
+    {
+      "id": "cpi-inflation-fed-negative-rates",
+      "title": "Inflation Just Crossed Above the Fed's Policy Rate for the First Time in Three Years",
+      "subtitle": "April CPI at 3.78% now exceeds the 3.64% Fed funds rate, turning real policy rates negative -- and the Fed's incoming chair has signaled no urgency to respond.",
+      "category": "decision"
+    },
+    {
+      "id": "spain-ai-social-media-regulation",
+      "title": "Spain Is Moving to Ban Teenagers from Social Media While Making Executives Personally Liable for Hate Speech",
+      "subtitle": "Madrid is advancing the most aggressive digital regulation in Europe, personally targeting platform leadership at a moment when Elon Musk is fighting back.",
+      "category": "power"
+    }
+  ]
+}

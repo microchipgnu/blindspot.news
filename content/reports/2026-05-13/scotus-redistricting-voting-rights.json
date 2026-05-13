@@ -1,0 +1,106 @@
+{
+  "id": "scotus-redistricting-voting-rights",
+  "date": "2026-05-13",
+  "generatedAt": "2026-05-13T08:30:00Z",
+  "title": "The Supreme Court Reversed Itself to Erase a District It Had Previously Ordered to Exist",
+  "subtitle": "The 6-3 Alabama ruling does not just weaken the Voting Rights Act -- it retroactively rewrites what courts can require states to undo.",
+  "topic": "politics",
+  "category": "power",
+  "tags": ["SCOTUS", "Voting Rights Act", "redistricting", "Alabama", "midterms", "Black voters", "gerrymandering"],
+  "coverImage": {
+    "url": "https://d3i6fh83elv35t.cloudfront.net/static/2026/05/2026-05-11T173848Z_1119010753_RC257LA70J1S_RTRMADP_3_USA-COURT-1024x683.jpg",
+    "local": "/images/reports/2026-05-13/scotus-redistricting-voting-rights.jpg",
+    "credit": "PBS NewsHour / Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://www.pbs.org/newshour/politics/supreme-court-halts-order-on-alabamas-u-s-house-map-giving-gop-an-opening-to-gain-seat",
+      "publisher": "PBS NewsHour / AP",
+      "angle": "Factual account: 6-3 order vacates lower court injunction, directs reconsideration under Louisiana v. Callais; Sotomayor dissent argues the 14th Amendment intentional discrimination finding is independent of Callais and was ignored."
+    },
+    {
+      "url": "https://www.alreporter.com/2026/05/12/supreme-court-reshapes-alabama-redistricting-battle-again/",
+      "publisher": "Alabama Political Reporter",
+      "angle": "Deeper context: the Court is vacating a ruling it previously upheld in 2023, when Roberts and Kavanaugh had joined the liberals. The 11-day trial record of intentional discrimination has been effectively discarded without review."
+    },
+    {
+      "url": "https://www.foxnews.com/politics/south-carolina-republicans-defy-trump-tank-redistricting.amp",
+      "publisher": "Fox News",
+      "angle": "The national picture: Alabama, Tennessee, Florida, Louisiana, Missouri, North Carolina, Ohio all redrawing; South Carolina Senate Republicans broke with Trump to block redistricting -- the rare case of institutional resistance to the push."
+    },
+    {
+      "url": "https://www.scotusblog.com/2026/05/virginia-asks-supreme-court-to-allow-it-to-reinstate-congressional-map-that-would-advantage-demo/",
+      "publisher": "SCOTUSblog",
+      "angle": "Democrats are playing the same game in Virginia: a voter-approved amendment giving the legislature power to redistrict mid-decade was struck down by the Virginia Supreme Court on procedural grounds; Democrats are asking SCOTUS to intervene."
+    },
+    {
+      "url": "https://redistrictingonline.org/2026/05/11/u-s-supreme-court-clears-alabama-to-revert-to-previously-struck-down-2023-congressional-map/",
+      "publisher": "RedistrictingOnline",
+      "angle": "Legal mechanics: the unsigned order vacated the lower court judgment with no explanation, removing the injunction that had blocked Alabama's use of maps both lower and upper courts had previously found to be illegal racial gerrymanders."
+    }
+  ],
+  "brief": {
+    "actors": ["SCOTUS", "Trump", "Alabama", "NAACP", "Democrats", "Republicans"],
+    "whatHappened": "The Supreme Court issued a 6-3 unsigned order on May 11 vacating the lower court injunction that had required Alabama to use a court-drawn map with two majority-Black congressional districts. The ruling came one week before Alabama's May 19 primaries and directs a lower court to reconsider the case in light of the Court's April decision in Louisiana v. Callais, which struck down Louisiana's second majority-Black district as an unconstitutional racial gerrymander. Justice Sotomayor dissented, joined by Kagan and Jackson, arguing the lower court's finding of intentional discrimination under the 14th Amendment was independent of Callais and should not have been vacated. The ruling is part of a nationwide redistricting wave Trump has pushed to lock in Republican House seats before November: Republicans expect up to 14 new seats from Texas, Missouri, North Carolina, Ohio, Florida, and Tennessee. Democrats face a major setback in Virginia where a voter-approved redistricting amendment was struck down by the state Supreme Court.",
+    "bottomLine": "The Court did not just weaken the Voting Rights Act; it retroactively validated maps it had previously ordered illegal, which means the legal framework for minority representation in Congress is now reconstructed fresh every election cycle by whichever majority controls the Court.",
+    "hiddenBets": [
+      {
+        "assumption": "The 14th Amendment intentional discrimination finding gives Black voters an alternate path to courts even after Section 2 is gutted.",
+        "whyItMightBeWrong": "The Court's unsigned vacatur explicitly discarded a lower court's detailed 14th Amendment factual record without addressing it. If the lower court rules again on remand that Callais controls, the 14th Amendment claim dies with the Section 2 claim. Sotomayor's dissent flags exactly this: the Court is using procedural finesse to eliminate a constitutional pathway, not just a statutory one."
+      },
+      {
+        "assumption": "Mid-decade redistricting is a one-time emergency measure to protect Republican House control.",
+        "whyItMightBeWrong": "Once both parties accept that congressional maps can be redrawn at any time with sufficient legislative control, decennial redistricting ceases to be the norm. California has already countered. Virginia Democrats tried. The logic is self-escalating: the party in power at any moment will find reasons to redraw."
+      },
+      {
+        "assumption": "Redistricting helps Republicans in November.",
+        "whyItMightBeWrong": "Polymarket has Democrats at 79.5% to take the House. Redistricting creates motivated, consolidated Democratic opposition in the carved-up districts. Collapsing minority-majority seats generates backlash energy, not just Republican-friendly maps. Republican gains from gerrymandering may be offset by turnout effects in adjacent competitive districts."
+      }
+    ],
+    "realDisagreement": "The core fork is whether the Constitution's Equal Protection Clause forbids race-conscious redistricting remedies even when the original districts were drawn to deliberately dilute Black votes. The conservative majority says yes: mandating majority-Black districts is itself a racial classification the Constitution prohibits. The liberal minority says no: the 14th Amendment was enacted specifically to prevent exactly this kind of intentional dilution, and using race as a remedy for race-based harm is not unconstitutional discrimination. You cannot have both simultaneously. I lean toward the liberal position being more historically grounded, but the conservative majority's framing is internally consistent and will hold until the Court's composition changes.",
+    "whatNoOneIsSaying": "The Alabama Attorney General said publicly that his job was to put the legislature 'in the best possible legal position to draw a congressional map that favors Republicans seven-to-zero.' That is not a legal argument -- it is an admission that the goal is a racially exclusionary partisan outcome. That statement was made on camera and has not generated the kind of response a comparable Democratic admission about engineering a 10-1 map would have generated.",
+    "whoPays": [
+      {
+        "who": "Black voters in Alabama, Louisiana, Tennessee, and Florida",
+        "how": "Districts previously ordered to give Black voters an opportunity to elect candidates of their choice are being restructured to dilute Black voting power, specifically by concentrating Black voters in fewer districts or dispersing them across Republican-safe districts.",
+        "when": "For the November 2026 midterms and every subsequent election until the Court changes course"
+      },
+      {
+        "who": "Democratic congressional incumbents in targeted districts",
+        "how": "Rep. Jim Clyburn (SC), Rep. Shomari Figures (AL-2), Rep. Steve Cohen (TN) are all facing districts being carved up. Clyburn's district goes from 45% Black to potentially much lower; Figures was elected under the court-ordered map that is now being removed.",
+        "when": "Primary elections begin as early as August for Alabama special primaries"
+      },
+      {
+        "who": "The norm of decennial redistricting",
+        "how": "Once mid-cycle redistricting is normalized by both parties, the legitimacy of any congressional map is permanently contested. Every election becomes a redistricting fight.",
+        "when": "Already underway; irreversible unless Congress acts"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Republicans Bank the Seats",
+        "whatHappens": "New maps take effect in Alabama, Tennessee, Louisiana, Florida, Missouri, North Carolina, Ohio before November. Republicans gain 10-14 seats. The House stays Republican despite the historical midterm pattern of losses for the incumbent party.",
+        "signal": "Watch for: final maps signed into law in each state before primary deadlines in July-August."
+      },
+      {
+        "name": "Legal Challenges Delay Everything",
+        "whatHappens": "Courts in multiple states issue emergency injunctions blocking new maps pending appeal. The chaotic primary situation in Alabama -- where some primaries already occurred under one map -- creates grounds for federal court intervention. Midterms proceed with legal uncertainty over which districts apply in multiple states.",
+        "signal": "Watch for: NAACP Legal Defense Fund filing emergency motions in federal district courts within weeks of new maps being enacted."
+      },
+      {
+        "name": "Democratic Backlash Neutralizes Gains",
+        "whatHappens": "Motivated Black voter turnout in districts being carved up -- particularly in Alabama, Louisiana, and Tennessee -- drives unexpectedly high Democratic performance even in newly gerrymandered districts. Republicans net fewer seats than projected.",
+        "signal": "Watch for: fundraising spikes in carved-up districts in June and August, and party registration data showing Black voter registration surges in targeted areas."
+      }
+    ],
+    "whatWouldChange": "If the lower court in Alabama reinstates its 14th Amendment intentional discrimination finding on remand and the Supreme Court declines to vacate it again, that would be the signal that the 14th Amendment path still exists and the damage is bounded. If the lower court folds entirely and defers to Callais on both grounds, that is the signal that minority representation in Congress is now structurally unprotected.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+        "url": "https://polymarket.com/event/which-party-will-win-the-house-in-2026",
+        "probability": 0.795
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": "iran-hormuz-ceasefire",
+  "date": "2026-05-13",
+  "generatedAt": "2026-05-13T08:30:00Z",
+  "title": "The Ceasefire Is Already Dead, It Just Has Not Fallen Over Yet",
+  "subtitle": "Trump called Iran's peace proposal 'garbage,' Hormuz shipping is at 5% of normal, and both sides are now managing a controlled freeze rather than moving toward resolution.",
+  "topic": "geopolitics",
+  "category": "conflict",
+  "tags": ["Iran", "US-Iran war", "Strait of Hormuz", "Trump", "ceasefire", "energy crisis", "China"],
+  "coverImage": {
+    "url": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-05/2026-05-12T033148Z_1_LYNXMPEM4B05T_RTROPTP_4_GLOBAL-ENERGY-MARKETS.JPG?h=17978bbf&itok=hmbMcY-l",
+    "local": "/images/reports/2026-05-13/iran-hormuz-ceasefire.jpg",
+    "credit": "Al-Monitor / Reuters"
+  },
+  "sources": [
+    {
+      "url": "https://www.al-monitor.com/originals/2026/05/peace-deal-hopes-fade-after-trump-rejects-garbage-iran-proposal",
+      "publisher": "Al-Monitor / Reuters",
+      "angle": "Trump called Iran's counteroffer 'garbage' and declared the ceasefire on 'life support'; Iran is demanding naval blockade removal, sanctions relief, and war damage compensation as preconditions."
+    },
+    {
+      "url": "https://www.business-standard.com/world-news/shipping-disruption-continues-in-hormuz-as-us-rejects-iran-s-peace-proposal-126051200687_1.html",
+      "publisher": "Business Standard / Bloomberg",
+      "angle": "Brent crude above $106, Hormuz at near-standstill; Trump heading to Beijing to meet Xi, entering summit under economic strain. UAE secretly struck Iran's Lavan island refinery."
+    },
+    {
+      "url": "https://www.firstpost.com/business/iraq-pakistan-cut-energy-deals-iran-hormuz-control-gulf-oil-lng-crisis-14010542.html",
+      "publisher": "Firstpost / Reuters",
+      "angle": "Iran shifting from full blockade threats to selective tollbooth control over Hormuz: Iraq and Pakistan have cut backroom transit deals with Tehran, formalizing Iranian oversight of tanker movements."
+    },
+    {
+      "url": "https://www.arabianbusiness.com/abnews/deal-or-no-deal-us-iran-move-past-current-stalemate",
+      "publisher": "Arabian Business",
+      "angle": "Detailed breakdown of the three core sticking points: Hormuz, nuclear program, Lebanon. Both sides have signaled willingness to defer nuclear and Lebanon to a later phase, but Hormuz remains the live wire."
+    },
+    {
+      "url": "https://www.azernews.az/analysis/258302.html",
+      "publisher": "AzerNews",
+      "angle": "The Middle Corridor through Azerbaijan is now carrying 90% more volume than 2022 as all other major Asia-Europe trade routes are simultaneously blocked or disrupted."
+    }
+  ],
+  "brief": {
+    "actors": ["Trump", "Iran", "IRGC", "China", "Pakistan", "Iraq", "Israel", "Hezbollah", "UAE"],
+    "whatHappened": "On May 12, Trump rejected Iran's response to his peace proposal as 'garbage' and declared the ceasefire 'on life support.' Iran's counteroffer demanded removal of the US naval blockade, sanctions relief, war damage compensation, cessation of Israeli strikes in Lebanon, and recognition of Iranian sovereignty over the Strait of Hormuz. The ceasefire has nominally held since April 7 but Hormuz shipping has fallen to roughly 5% of pre-war levels. Three tankers transited last week with tracking systems disabled. Iraq and Pakistan have quietly reached bilateral transit agreements with Tehran, effectively paying Iran to manage their ships through the strait. Trump departs for Beijing Wednesday to meet Xi Jinping, who US Treasury Secretary Bessent urged to 'join the international operation' to reopen the strait.",
+    "bottomLine": "Both sides have traded away their actual war aims and are now fighting over who controls a 33-mile chokepoint: the ceasefire is a slow-motion standoff, not a peace process, and the party that blinks on Hormuz loses everything.",
+    "hiddenBets": [
+      {
+        "assumption": "The ceasefire is a step toward a diplomatic deal.",
+        "whyItMightBeWrong": "The emerging pattern looks more like a frozen conflict: Iran retains Hormuz leverage, the US keeps its blockade, and both sides manage the stalemate without resolving it. Iraq and Pakistan's bilateral transit deals are formalizing a new order in which Iran permanently controls access to 20% of global energy, with or without a deal."
+      },
+      {
+        "assumption": "Trump's Beijing trip will produce meaningful Chinese pressure on Iran.",
+        "whyItMightBeWrong": "China receives roughly 70% of its sanctioned Iranian oil through existing networks. Squeezing Iran helps close the one energy pipeline Beijing has been allowed to keep running. Chinese cooperation would be self-undermining unless paired with alternative supply guarantees, which the US is not offering."
+      },
+      {
+        "assumption": "Higher oil prices will eventually force Iran to the table.",
+        "whyItMightBeWrong": "Iran controls access to the strait regardless of whether it exports oil through it. The economic pain from high oil prices falls on consumers globally, not on the party that holds the chokepoint. Iran's own economy is already shattered from the war; marginally higher prices do not change its leverage calculus."
+      }
+    ],
+    "realDisagreement": "The US framing is that Hormuz must reopen as a precondition to peace talks; Iran's framing is that the US blockade must end as a precondition to reopening Hormuz. Both are structurally correct within their own logic, which means neither side has a path to first-mover advantage without surrendering leverage. The fork: accept a sequenced deal where one side concedes first, or let the standoff persist into the US midterms. I'd lean toward continued stalemate through June, because Trump's domestic political calculus makes concession more costly than the economic pain he is already absorbing -- but that bet only holds if inflation does not become catastrophic, which it is moving toward."
+    ,
+    "whatNoOneIsSaying": "Iran has already won the strategic objective it was seeking before this war started: the US has acknowledged its sovereignty claim over Hormuz by negotiating about it at all. The moment the US accepted Hormuz reopening as a subject for diplomacy rather than a pre-given neutral waterway, Iran achieved a permanent change in the rules of global energy transit.",
+    "whoPays": [
+      {
+        "who": "Working-class US households",
+        "how": "Gasoline above $4.50/gallon absorbs a disproportionate share of income. CPI at 3.8% erases all real wage gains from the past year. Trump's proposed federal gas tax suspension would cost $5 billion per month and only partially offset the cost.",
+        "when": "Already underway; worsening through summer if Hormuz remains closed"
+      },
+      {
+        "who": "South Asian energy importers: Pakistan, India, Bangladesh",
+        "how": "LNG prices up 35-50%; Pakistan importing through informal IRGC-approved channels with unpredictable access; peak summer electricity demand is weeks away with supply fragile.",
+        "when": "Critical stress point: June-August 2026"
+      },
+      {
+        "who": "Global shipping and supply chains",
+        "how": "All four major Asia-Europe corridors are simultaneously compromised: Hormuz blocked, Red Sea hostile, Russia sanctioned, Panama Canal periodically disrupted. Middle Corridor (Azerbaijan) is the last functioning route but lacks capacity.",
+        "when": "Structural disruption ongoing; not self-correcting without Hormuz resolution"
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Frozen Conflict",
+        "whatHappens": "Neither side blinks. The ceasefire holds nominally while both the US blockade and Iranian Hormuz control remain in place. Bilateral transit deals for Iraq and Pakistan become the new normal. Oil stays above $100 through November US midterms.",
+        "signal": "Watch for: third or fourth bilateral transit deal (e.g., South Korea, Japan) being reported without a broader framework -- that is the sign both sides have accepted the stalemate as durable."
+      },
+      {
+        "name": "Xi Forces the Break",
+        "whatHappens": "Beijing, facing its own economic pressure from elevated energy costs and disrupted manufacturing supply chains, uses the Trump summit to broker a phased Hormuz reopening: Iran agrees to escort civilian tankers, the US agrees to 'review' but not immediately lift the blockade, allowing both to claim partial victory.",
+        "signal": "Watch for: joint US-China statement on 'freedom of navigation principles' without explicitly naming Iran -- diplomatic code for a quiet arrangement."
+      },
+      {
+        "name": "Ceasefire Collapse",
+        "whatHappens": "An IRGC interdiction of a tanker or US military incident triggers Trump to resume strikes. Hormuz closes completely. Oil spikes above $130. The war enters its fifth month.",
+        "signal": "Watch for: Trump posting on Truth Social about Iranian 'provocation' or 'aggression' -- he has telegraphed both previous escalations on social media before acting."
+      }
+    ],
+    "whatWouldChange": "If Iran and the US reach a deal that explicitly does NOT address Hormuz sovereignty but creates a monitored transit arrangement -- essentially outsourcing Hormuz management to a third party like the UN or a Gulf coalition -- that would indicate the underlying dynamic has shifted from power contest to managed coexistence. The current intelligence is that both sides still want to win, not manage.",
+    "markets": [
+      {
+        "platform": "Polymarket",
+        "question": "Strait of Hormuz traffic returns to normal by end of May?",
+        "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-may",
+        "probability": 0.065
+      },
+      {
+        "platform": "Polymarket",
+        "question": "Strait of Hormuz traffic returns to normal by end of June?",
+        "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+        "probability": 0.305
+      },
+      {
+        "platform": "Polymarket",
+        "question": "US-Iran nuclear deal by June 30?",
+        "url": "https://polymarket.com/event/us-iran-nuclear-deal-by-june-30",
+        "probability": 0.27
+      }
+    ]
+  }
+}
